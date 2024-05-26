@@ -14,7 +14,8 @@ Data sources are describe in GRUNDLAG.LIS .
 # Bibliography on the Friesacher Pfennig
 
 - Die Frühzeit des Friesacher Pfennigs. Hg. v. Michael ALRAM - Reinhard HÄRTEL - Manfred SCHREINER. Wien, Verlag der Österreichischen Akademie der Wissenschaften, 2002. Veröffentlichungen der Numismatischen Kommission 36, Denkschriften der philosophisch-historischen Klasse 300. https://austriaca.at/3030-7.
-- Baumgartner, Ingeborg. "Neues vom Friesacher Pfennig. Ein Forschungsprojekt zum Beitrag der Schriftquellen". Carinthia I, 189. 1999. 653-661.- ———. "Schriftquellen zur Frühzeit des Friesacher Pfennigs. Eine Einführung", in: Die Frühzeit des Friesacher Pfennigs (etwa 1125/30 - etwa 1166), Wien 2002, S. 35-134.
+- Baumgartner, Ingeborg. "Neues vom Friesacher Pfennig. Ein Forschungsprojekt zum Beitrag der Schriftquellen". Carinthia I, 189. 1999. 653-661.
+- ———. "Schriftquellen zur Frühzeit des Friesacher Pfennigs. Eine Einführung", in: Die Frühzeit des Friesacher Pfennigs (etwa 1125/30 - etwa 1166), Wien 2002, S. 35-134.
 - Winter, Heinz. „Der Friesacher Pfennig. Ein Forschungsprojekt“. In XII. Internationaler Numismatischer Kongreß. Akten, 990–92, 2000.
 - ———. „Die Frühzeit des Friesacher Pfennigs“. Carinthia I 189 (1999): 637–51.
 - ———. „Die Frühzeit des Friesacher Pfennigs.“ In: Bericht über den 22. österreichischen Historikertag, 194–201, 2002.
