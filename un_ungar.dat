@@ -1,0 +1,5151 @@
+
+note ***Johannes Radoni\'c, Fontes rerum Slavorum Meridionalium, Series prima,  Acta et
+note ***Diplomata Ragusina, Fomus I Fasciculus 1, Belgrad 1934.
+
+note *** Einlesen der Rohdaten un_allg0.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$FII_252/1190.0.0/1190.0.0/1190/anno dominice incarnationis MCXC./Gran/Gran//
+S$X/X/X
+V$X/X/X
+K$Kînig Bela III. von Ungarn prÅft und bestÑtigt die Privilegien und Freiheiten
+der Kirche von FÅnfkirchen.
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· die
+Kollekte weder ihm noch seinen Vasallen zu bezahlen ist, sondern nur dem Bischof
+und der Kirche soll die Steuer zufallen, und der Bischof von FÅnfkirchen kann
+seine Leute exkommunizieren. Dann ist eine Strafe in der Hîhe von 20 Mark an die
+Kirche zu bezahlen, deren eine HÑlfte der Kirche, die andere dem comes
+provincialis zufÑllt.
+F$Fejer CDH II/X/252ff/252
+G$X/X/X/X//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+E$X/comes provincialis/Baranya/Baranya//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$viginti marcarum pene subiaceat
+B$Kirche FÅnfkirchen ist im Komitat Baranya gegrÅndet worden, siehe Fejer CDH II,
+S. 253 unten.
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· die Leute
+von FÅnfkirchen durch das ganze Kînigreich mit ihren Waren ohne Tribut zu
+bezahlen durchziehen dÅrfen. Wer sie zu bedrÅcken wagt, hat eine Strafe von 20
+Mark zur HÑlfte an den comes palatinus und die Kirche von FÅnfkirchen zu
+bezahlen.
+F$Fejer CDH II/X/252ff/253
+G$X/X/X/X//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+E$X/comes palatinus/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$penam viginti marcarum solvere compellatur
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· sie
+exempt von jedem Urteil eines kîniglichen Richters ist, doch mu· sie dem Grafen
+von Baranya jÑhrlich drei einzelne Mark Friesacher bezahlen.
+F$Fejer CDH II/X/252ff/254
+G$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+E$X/Graf/Baranya/Baranya//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$3/marca/singula
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim singulas tres marcas frisaticorum
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· wer den
+Zehnten ganz oder teilweise zu zahlen verweigert bis zum Fest des Hl. Martin, 3
+Mark zahlen mu·.
+F$Fejer CDH II/X/252ff/256
+G$X/X/X/X//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum iudicio trium marcarum
+
+REG$Der comes palatinus ist verpflichtet, der kîniglichen Kasse 20 Mark Gold zu
+bezahlen, wenn er sich nicht an die kîniglichen Bestimmungen hÑlt.
+F$Fejer CDH II/X/252ff/259
+G$X/comes palatinus/X/X//
+E$X/Kasse/Ungar.kînigl./Ungar.kînigl.//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$comes palatinus componat regio fisco viginti marcas auri
+
+REG$Kînig Bela III. von Ungarn gesteht der Kirche von FÅnfkirchen zu, da· au·er
+ihm kein Vasall die GÅter und Besitzungen der Kirche zu bedrÑngen wagen dÅrfe,
+bei Strafe der Exkommunikation und 10 Mark Gold.
+F$Fejer CDH II/X/252ff/259
+G$X/Vasall/Ungarn/Ungarn//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$pena \dots decem marcarum auri
+
+DOK$Ungarn_35/1217.0.0/1217.0.0/(1217)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Vergleich zwischen Kînig Andreas von Ungarn bzw. dessen Gesandten und Petrus
+Zianus, Doge von Venedig, betreffend Zadar.
+
+REG$Im Vergleich zwischen dem Kînig Andreas von Ungarn und dem Dogen Petrus Zianus
+wird vereinbart, da· der Kînig fÅr die Fahrt eines Schiffes von quingentarum
+miliarium [in der Adria] 550 Mark Silber venezianischen Gewichts in
+venezianischer moneta grossa zu zahlen hat, was durch vier Personen geprÅft
+wird.
+F$Mon. spect. Slav. 1/38/29ff/30
+F$ASV Lib. Pact. 4/142/offen/offen
+G$Andreas/Kînig/Ungarn/Ungarn//
+E$Petrus Zianus/Doge/Venedig/Venedig//
+H$Durchfahrt/Schiff/Adria/Adria//
+W$Venedig/pondus/
+W$Venedig/moneta grossa/
+O$550/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$pro navi quingentarum miliarium quingentas quinquaginta marchas argenti, talis
+qualis est moneta Veneciarum grossa ad pondus Veneciarum
+
+DOK$FIII1_78/1209.0.0/1209.0.0/1209/anno ab incarnatione domini MCCIX./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas von Ungarn Åbergibt dem Andreas Demetrio de Raska, dem
+Mundschenk der Kînigin, das Dorf Ujfalu wegen seiner treuen Dienste.
+
+REG$Kînig Andreas von Ungarn Åbergibt dem Andreas Demetrio de Raska, dem
+Mundschenk der Kînigin, das Dorf Ujfalu wegen seiner treuen Dienste und
+bestimmt,da· jeder im genannten Gebiet einen Schilling Zoll (teloneum) zahlen
+mu·.
+F$Fejer CDH III 1/X/78ff/80
+G$X/X/X/X//
+E$Demetrio/Genannter/Raska/Raska (fraglich, ob Ort)//
+H$Zoll/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$qualibet anima pro teloneo solvatur unus solidus
+
+REG$Kînig Andreas von Ungarn Åbergibt dem Andreas Demetrio de Raska, dem
+Mundschenk der Kînigin, das Dorf Ujfalu wegen seiner treuen Dienste und
+bestimmt, da· jeder im genannten Gebiet fÅr einen Wagen einen Prager Grossus
+Zoll zahlen mu·.
+F$Fejer CDH III 1/X/78ff/80
+G$X/X/X/X//
+E$Demetrio/Genannter/Raska/Raska (fraglich, ob Ort)/
+H$Zoll/Wagen/unbestimmt/unbestimmt//
+W$Prag/X/
+O$X/X/X
+Z$X/X/X
+M$1/X/grossus/Z
+Q$a quolibet vero curru unus grossus Pragensis
+
+REG$Kînig Andreas von Ungarn Åbergibt dem Andreas Demetrio de Raska, dem
+Mundschenk der Kînigin, das Dorf Ujfalu wegen seiner treuen Dienste und
+bestimmt, da· jeder Kaufmann im genannten Gebiet pro BÅndel, Fa· oder Truhe
+einen Prager Grossus Zoll zahlen mu·.
+F$Fejer CDH III 1/X/78ff/80
+G$X/Kaufmann/X/X//
+E$Demetrio/Genannter/Raska/Raska (fraglich, ob Ort)//
+H$Zoll/BÅndel;Fa·;Truhe/unbestimmt/unbestimmt//
+W$Prag/X/
+O$X/X/X
+Z$X/X/X
+M$1/X/grossus/Z
+Q$pro qualibet ligatura, vase, cista, sive nodo, unus grossus Pragensis.
+
+DOK$Wenzel6_061/1211.0.0/1211.0.0/1211/ab incarnacione domini anno MCCXI./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt das Privileg Andreas I. fÅr das Kloster
+S. Anian.
+
+REG$Laurencius und Hont, die Sîhne des Petur, zahlen zusammen mit dessen
+Bruder Forcos, unter anderem jÑhrlich 6 Friesacher.
+F$Wenzel CD Arpad. 6/061/106ff/111
+G$Laurencius;Hont;Forcos/X/X/X//
+E$X/Kloster/Tihany S.Anian/Tyhany,S. Anian//
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+H$X/Hîrige/Tyred/unbestimmt/unbestimmt?//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$6/X/X/Z
+Q$sex Frisaticis
+
+REG$Ein BÅrger namens Sube ist zusammen mit seinen Sîhnen der Kirche von S. Anian
+fÅr 2 pense Friesacher unter knechtiger Bedingung pfandweise gegeben.
+F$Wenzel CD Arpad. 6/061/106ff/111
+G$X/Kloster/Tihany S.Anian/Tihany,S. Anian//
+E$X/X/X/X//
+H$PfandgeschÑft/BÅrger/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$2/pensa/X
+M$X/X/X/A
+Q$pro duabus pensis Frisaticorum
+
+REG$Movogy und seine Verwandten aus der villa Zeleus sagten aus, da· sie von Abt
+Egidius um 3 Mark "se redemisse".
+F$Wenzel CD Arpad. 6/061/106ff/113
+G$Movogy/X/Zeleus/Zeleus?//
+E$Egidius/Abt/Tihany S.Anian/Tihany,S. Anian//
+H$Kauf/unbestimmt/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$se redemisse ab Egidio abbate tribus marcis
+
+DOK$Ungarn_12/1211.1.1/1211.5.29/1211 JÑnner 1 - Mai 29/anno ab incarnacione
+domini MCCXI. regni nostri anno sexto/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn Åbergibt den Mînchen des Zisterzienserordens von
+Toplica das ganze Komitat von Gora mit Ausnahme der Besitzungen der Templer in
+diesem Komitat und sechs generaciones mit ihren Besitzungen.
+
+REG$Pro marturinis ist jedes Haus verpflichtet jÑhrlich 24 Friesacher Kînig
+Andreas II. zu zahlen mit Ausnahme von 5 Jobbagionen (Kleinadel).
+F$Mon. hist. episc. Zagrabiensis 1/18/25ff/26
+F$Smic 3/84/103ff/104
+F$Fejer CDH 3 I/3/?/?
+F$Wenzel CD Arpad. 20/67/108ff/111
+G$X/X/Gora/Gora/Gorra/
+E$Andreas II./Kînig/Ungarn/Ungarn//
+H$Zinsverpflichtung/Immobilien/Gora/Gora/Gorra/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$unaqueque mansio viginti quatuor Frisaticos solvere tenetur annuatim.
+B$Fejer-Zitat nach Smic, bisher nicht verifizierbar.
+
+REG$Pro marturinis ist jedes Haus verpflichtet jÑhrlich 24 Friesacher Kînig
+Andreas II. zu zahlen mit Ausnahme von 5 Jobbagionen (Kleinadel), die jÑhrlich
+drei pensae zu bezahlen haben.
+F$Mon. hist. episc. Zagrabiensis 1/18/25ff/26
+F$Smic 3/84/103ff/105
+F$Fejer CDH 3 I/3/?/?
+F$Wenzel CD Arpad. 20/67/108ff/111
+G$X/Jobbagionen/Gora/Gora/Gorra/
+E$Andreas II./Kînig/Ungarn/Ungarn//
+H$Zinsverpflichtung/Immobilien/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/A
+Q$debet ecclesie de Toplica tres pensas annuatim
+B$pensa ist gleich 40 denarii (verifizieren, ob nicht 30).
+Fejer-Zitat nach Smic, bisher nicht verifizierbar.
+
+DOK$Hazai6_07/1212.0.0/1212.0.0/1212/anno ab incarnacione domini MCCXII. \dots regni
+nostri anno VIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas von Ungarn bestÑtigt das Testament des Ipolitus, Sohn des
+Baran, fÅr den Fall von dessen kinderlosen Tod.
+
+REG$Kînig Andreas von Ungarn bestÑtigt das Testament des Ipolitus, Sohn des
+Baran, fÅr den Fall von dessen kinderlosen Tod, wonach dieser unter anderem
+bestimmt, da· die Kirche von Boroksa jene 200 iugera bekommt, die er von den
+Flaschenherstellern des Kînigs (lagenarii regis) zu Pfand hat. Diese kînnen fÅr
+je 4 Friesacher pro iugerum an die Kirche ihr Land auslîsen kînnen.
+F$Hazai okm. 6/07/8ff/9
+G$X/Flaschenhersteller/Ungar.kînigl./Ungar.kînigl.//
+E$X/Kirche/Boroksa/Boroksa//
+H$Pfand_Auslîsung/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$4/X/X/Z
+Q$pro quolibet iugerae darent ecclesie, IIII frisaticos
+B$Den. aus dem Zusammenhang ergÑnzt.
+
+REG$Gewichtsangabe von drei silbernen Bechern, die 7 Mark wiegen.
+F$Hazai okm. 6/07/8ff/10
+G$X/X/X/X//
+E$X/X/X/X//
+H$Gewichtsangabe/Silber/unbestimmt/unbestimmt//
+W$X/X
+O$7/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$III ciffos argenteos ponderantes VII marcas
+
+DOK$Ungarn_13/1213.0.0/1213.0.0/1213/anno ab incarnacione domini MCCXIII. regni nostri
+anno VIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn befreit die neugegrÅndete Abtei von Toplica vom
+Gastungsrecht und von auswÑrtiger Gerichtsbarkeit, da· die GÑste und
+castrenses zur festgesetzten Zeit Getreide und marturinas zahlen, StÑlle bauen
+oder ausbessern und andere Dienstleistungen verrichten, und Åbergibt ihnen die
+HÑlfte des Tributs im foro templariorum de Gorra.
+
+REG$Einige genannte Jobbagionen (Kleinadel) zahlen jÑhrlich mit ihrer
+Verwandtschaft je 3 pense Friesacher an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/28
+F$Wenzel CD Arpad. 20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$X/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$Friesach/X
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/A
+Q$quidam iobagiones, qui singuli cum parentela sua solvent tres pensas
+Frisaticorum annuatim ecclesie Toplicensi \dots solvuntur
+B$Bd. 20 (XX) von Cod. Arpad. in Literatur mit 11 zitiert.
+
+REG$Gostue zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Gostue/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Bremiver zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Bremiver/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Berkis zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Berkis/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Wratizla zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Wratizla/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Petrus zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Petrus/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Bogdan zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Bodgan/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Hodice zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Hodice/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Wlochta zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Wlochta/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Zrepiz zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Zrepiz/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Berglez zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Berglez/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Zlobez zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Zlobez/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Dilin zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Dilin/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Nestursa zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Nestursa/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Wicho zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Wicho/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Hemelcho zahlt jÑhrlich mit seiner
+Verwandtschaft 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$Hemelcho/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvet tres pensas
+
+REG$Die genannten Personen zahlen jÑhrlich 3 pense an die Kirche von Toplica.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Wenzel CD Arpad. 11?20/070/116ff/117
+F$Smic 3/95/116ff/117
+G$X/Jobbagione/Gora/Gora/Gorra/
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Gora/Gora/Gorra/
+W$X/X/
+O$X/X/X
+Z$3/pensa/X
+M$X/X/X/Z
+Q$solvunt tres pensas
+
+REG$Die hospites de foro Toplice sind verpflichtet, jÑhrlich 10 pense Friesacher
+der Kirche von Toplica zu zahlen.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Smic 3/95/116ff/117
+G$X/hospites/Toplica/Toplica//
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Toplica/Toplica//
+W$Friesach/X/
+O$X/X/X
+Z$10/pensa/X
+M$X/X/X/Z
+Q$quod hospites de foro Toplice singulis annis decem pensas Frisaticorum eidem
+ecelesie solvere tenentur
+
+REG$Die hospites de foro Toplice sind verpflichtet, jÑhrlich 10 pense Friesacher
+der Kirche von Toplica zu zahlen, nÑmlich zu Weihnachten und Ostern je 5 pense.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Smic 3/95/116ff/117
+G$X/hospites/Toplica/Toplica//
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Toplica/Toplica//
+W$X/X/
+O$X/X/X
+Z$5/pensa/X
+M$X/X/X/Z
+Q$in nativitate domini quinque pensas
+
+REG$Die hospites de foro Toplice sind verpflichtet, jÑhrlich 10 pense Friesacher
+der Kirche von Toplica zu zahlen, nÑmlich zu Weihnachten und Ostern je 5 pense.
+F$Mon. hist. episc. Zagrabiensis 1/19/28ff/29
+F$Smic 3/95/116ff/117
+G$X/hospites/Toplica/Toplica//
+E$X/Kirche/Toplica/Toplica//
+H$Zahlungsverpflichtung/Zins/Toplica/Toplica//
+W$X/X/
+O$X/X/X
+Z$5/pensa/X
+M$X/X/X/Z
+Q$in pascha quinque pensas
+
+DOK$FIII1_153/1214.0.0/1214.0.0/1214/anno ab incarnatione domini MCCXIV./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt die gro·zÅgige Schenkung des
+Boleslaus, des Bischofs von V†c, an die Propstei von Lelesz.
+
+REG$Bischof Boleslaus von V†c schenkt der Propstei von Lelesz unter anderem
+30 Mark Silber ad opus edificii officinarum claustri adiiciens.
+F$Fejer CDH III 1/X/153ff/156
+G$Boleslaus/Bischof/V†c/V†c//
+E$X/Propstei/Lelesz/Lelesz//
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$30/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$triginta marcas argenti
+
+REG$Bischof Boleslaus von V†c schenkt der Propstei von Lelesz unter anderem
+das Gut Gyueres, das er von den Sîhnen des Vitalis, Chaka und Stephan, um 15
+Mark gekauft hat.
+F$Fejer CDH III 1/X/153ff/157
+G$Boleslaus/Bischof/V†c/V†c//
+E$Chaka;Stephan/X/X/X//
+H$Kauf/Immobilien/Gyueres/Gyueres//
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$emerat \dots pro quindecim marcis
+
+REG$Bischof Boleslaus von V†c schenkt der Propstei von Lelesz unter anderem
+Land, das er von Graf Hunto um 83 Mark, 17 pondera und 2 Friesacher gekauft hat.
+F$Fejer CDH III 1/X/153ff/157
+G$Boleslaus/Bischof/V†c/V†c/
+E$Hunto/Graf/unbestimmt/dzt.unbek.//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$83/marca/X
+Z$17/pondus/X
+M$2/X/X/A
+Q$Terram \dots pro 83 marcis, et decem et septem ponderibus, et duobus
+frisaticis emtam.
+B$1 Mark sind 48 pondera, 1 pondus sind 5 Friesacher, 17 pondera also 85
+Friesacher.
+
+REG$Bischof Boleslaus von V†c schenkt der Propstei von Lelesz unter anderem
+das Gut Zolunta mit freiem Markt, den er samt Bewohnern und Land um 82
+Mark von einigen Kaufleuten, die aus Russia kamen, gekauft hat.
+F$Fejer CDH III 1/X/153ff/157
+G$Boleslaus/Bischof/V†c/V†c//
+E$X/Kaufleute/X/X//
+H$Kauf/Immobilien/Zolunta/Zolunta//
+W$X/X/
+O$82/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$emerat \dots pro 82 marcis
+
+REG$Bischof Boleslaus von V†c schenkt der Propstei von Lelesz unter anderem
+GÅter, die er von Elvimus, dem Bischof von Wardein (Varadiensis), seinem
+Bruder, der nach Rom reisen wollte, um 400 Mark Silber erworben hat.
+F$Fejer CDH III 1/X/153ff/159
+G$Boleslaus/Bischof/V†c/V†c//
+E$Elvimus/Bischof/Wardein/Wardein//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$comparavit \dots pro 400 marcis argenti
+
+REG$Bischof Boleslaus von V†c schenkt der Propstei von Lelesz unter anderem
+den Tribut von Bors. Den Teil seines Ñlteren Bruders Anthonius hat er fÅr 140
+Mark von diesem erworben.
+F$Fejer CDH III 1/X/153ff/160
+G$Boleslaus/Bischof/V†c/V†c//
+E$Anthonius/X/X/X//
+H$Kauf/Tribut/Bors/Bors//
+W$X/X/
+O$140/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$emit \dots pro centum et quadraginta marcis
+
+DOK$Smic3_120/1215.11.15/1215.11.15/1215 November 15/anno incarnationis domini MCCXV. mensis
+novembris quintodecimo die/Dubrovnik/Dubrovnik//
+S$Dominicus/Dirachius/Dominicus
+V$Dominicus/Dirachius/Dominicus
+K$öbereinkunft Åber den RÅckzahlungstermin einer Schuld.
+
+REG$Georg, der Sohn des Theodorus von Petronia, einer BÅrger von Ragusa, bestÑtigt
+von Petrus von Bogdanus und dessen Erben 140 Yperperi Schlavinie (sic) Raguser
+Gewichts erhalten zu haben.
+F$Smic 3/120/137f/137
+G$Petrus de Bogdanus/Nobilis/Ragusa/Ragusa//
+E$Georg de Petronia/Nobilis/Ragusa/Ragusa//
+H$Schulden/Schulden/unbestimmt/unbestimmt//
+W$Ragusa/pondus/
+O$X/X/X
+Z$X/X/X
+M$140/yperperus/X/A
+Q$yperperos Schlavinie (!) ad pondus Ragusii centum quadraginta
+
+REG$Georg, der Sohn des Theodorus von Petronia, einer BÅrger von Ragusa,
+bestÑtigt, da· er von Petrus von Bogdanus und dessen Erben 140 Yperperi
+Schlavinie (sic) Raguser Gewichts erhalten hat und diese zum genannten Termin
+zurÅckzahlen mÅsse.
+F$Smic 3/120/137f/138
+G$Georg de Petronia/Nobilis/Ragusa/Ragusa//
+E$Petrus de Bogdanus/Nobilis/Ragusa/Ragusa//
+H$SchuldenrÅckzahlung/Schulden/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$140/yperperus/X/Z
+Q$tunc ad ipsum terminum debeam \dots dare \dots centum quadraginta yperperos
+
+DOK$FIII1_362/1222.0.0/1222.0.0/1222/anno dominicae incar. MCCXXII./X/X//
+S$X/X/X
+V$X/X/X
+K$Iula Pfalzgraf der Byssenorum de Arp†s erneuert die Freiheiten der
+Jobbagionen.
+
+REG$Jedes dritte Jahr mÅssen die Jobbagionen dem Pfalzgrafen 6 pensa Wiener
+Pfennig fÅr zwei Pferde zahlen.
+F$Fejer CDH III 1/X/362ff/364
+G$X/Jobbagionen/Ungarn/Ungarn//
+E$Iula/Pfalzgraf/Szil Bisseni/Szil (Bisseni)/Bisseni/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/X/
+O$X/X/X
+Z$6/pensa/X
+M$X/den./X/Z
+Q$sex pensas denariorum de mantua
+
+REG$Jedes dritte Jahr mÅssen die Jobbagionen dem Pfalzgrafen 6 pensa pro Pferd
+bezahlen, wenn sie nicht auf Heerfahrt gehen kînnen.
+F$Fejer CDH III 1/X/362ff/364
+G$X/Jobbagionen/Ungarn/Ungarn//
+E$Iula/Pfalzgraf/Szil Bisseni/Szil (Bisseni/Bisseni/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/pensa/X
+M$X/X/X/Z
+Q$sex pensas persolvent
+
+DOK$FIII1_441/1224.0.0/1224.0.0/1224/anno ab incarna. domini MCCXXIV. regni autem nostri
+vigesimo primo/X/X//    unter selbem Jahr siehe unten
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn gibt den Sachsen Transilvaniens einzelne
+Privilegien als Belohnung fÅr ihre Dienste.
+
+REG$Die Sachsen Transsilvaniens sollen Kînig Andreas II. jÑhrlich 500 Mark ad
+lucrum an die kînigliche Kasse entrichten.
+F$Fejer CDH III 1/X/441ff/442
+G$X/Sachsen/Transilvanien/Transilvanien//
+E$X/Kasse/Ungar.kînigl./Ungar.kînigl./Ungarn//
+H$Zinsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$quingentas marcas argenti
+
+REG$Die Sachsen Transilvaniens sollen Kînig Andreas II. jÑhrlich 500 Mark ad
+lucrum (Kapitalzins, Vorteil, Gewinn) der kîniglichen Kasse geben. ? in die
+kînigliche Kasse zahlen und zwar mit keinem anderen Gewicht als mit
+Silbermark, wie sie sein Vater Bela festgesetzt hat, nÑmlich quintum
+dimidium fertonem Cibiniensis ponderis cum Coloniensi denario.
+F$Fejer CDH III 1/X/441ff/442
+G$X/Sachsen/Transilvanien/Transilvanien//
+E$X/Kasse/Ungar.kînigl./Ungar.kînigl.//
+H$Zinsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Kîln/X/
+W$Hermannstadt/pondus/
+O$X/marca/argentea
+Z$4,5/ferto/X
+M$X/den./X/Z
+Q$nisi cum marca argentea \dots videlicet quintum dimidium fertonem Cibiniensis
+ponderis cum Coloniensi denario
+B$Mîglicherweise équivalent-Angabe. Cibiniensis?
+
+REG$Die Sachsen Transilvaniens sollen Kînig Andreas II. jÑhrlich 500 Mark ad
+lucrum (Kapitalzins, Vorteil, Gewinn) der kîniglichen Kasse geben. ? in die
+kînigliche Kasse zahlen und drei Lot an die Gesandten, die das Geld eintreiben
+sollen, pro Tag fÅr deren Ausgaben.
+F$Fejer CDH III 1/X/441ff/442
+G$X/Sachsen/Transilvanien/Transilvanien//
+E$X/Gesandte/Ungar.kînigl./Ungar.kînigl.//
+H$Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/Lot/X
+M$X/X/X/Z
+Q$tres lotones pro eorum expensis solvere
+
+DOK$Ungarn_15/1224.0.0/1224.0.0/1224/anno dominice incarnationis MCCXXIV./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas [II.] von Ungarn beschenkt seine Treuen im Banat.
+
+REG$Kînig Andreas [II.] von Ungarn erlÑ·t seinen Getreuen im Banat jene
+42 Friesacher, die sie der Staatskasse an Marderpfennigen schuldeten.
+F$Smic 3/214/240f/241
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Jobbagionen/Banat/Banat//
+H$Schenkung/Schulden/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$42/X/X/A
+Q$illos quadraginta duos Fresaticos, quos pro denariis marturinalibus de populis
+suis de singulis mansionibus fisco debebant
+
+REG$Kînig Andreas [II.] von Ungarn beschenkt seine Getreuen im Banat und legt
+unter gleichzeitigem Erla· der frÅheren Abgaben fest, da· nur 12 Friesacher von
+jeder Hufe bezahlt werden sollen.
+F$Smic 3/214/240f/241
+G$X/Jobbagionen/Banat/Banat//
+E$Andreas II./Kînig/Ungarn/Ungarn//
+H$Zinsverpflichtung/Immobilien/Banat/Banat//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$12/X/X/A
+Q$ut de cetero remoto prioris collecte gravamine in duodecim Frisaticis \dots de
+qualibet mansione populorum suorum \dots usui regio teneantur respondere.
+
+DOK$Wenzel20_133/1226.5.30/1226.5.30/1226 Mai 30/die secundo exeunte Madio, indictione XIV.
+anno domini MCCXXVI./Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Doge Petrus Zianus setzt fest, da· alle Kaufleute aus Ungarn, die nach Venedig
+kommen, an die Staatskasse 30 Pfund seiner MÅnze (Venedig) ad racionem
+cuiusquam entenarii zahlen sollen.
+
+REG$Doge Petrus Zianus setzt fest, da· alle Kaufleute aus Ungarn, die nach Venedig
+kommen, an die Staatskasse 30 Pfund seiner MÅnze (Venedig) ad racionem
+cuiusquam entenarii zahlen sollen.
+F$Wenzel CD Arpad. 20/133/196f/197
+F$Mon. hist. Slav. 1/054/38/38
+G$X/Kaufmann/Ungarn/Ungarn//
+E$X/Kasse/Venedig/Venedig//
+H$Abgabe/Waren/Ungarn/Ungarn//
+W$Venedig?/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$persolvatis ad racionem cuiusquam centarii libras nostre monete scilicet XXX
+
+### hier fortsetzen !!!! 24.6.1997
+
+
+DOK$Ungarn_17/1229.4.0/1229.4.0/1229 April/anno domini MCCXXIX. mense aprilis, indictione
+secunda/Venedig/Venedig//
+S$Angelus Barbaro/X/Angelus Barbaro
+V$Angelus Barbaro/X/Angelus Barbaro
+K$Schuldverpflichtung der Bewohner von Ragusa in der Hîhe von 500 Pfund kleiner
+venetianischer Pfennige.
+
+REG$Schuldverpflichtung der Bewohner von Ragusa in der Hîhe von 500 Pfund kleiner
+venetianischer Pfennige.
+F$Smic 3/272/306f/306
+G$X/Bewohner/Ragusa/Ragusa//
+E$X?/Bewohner/Venedig;Lombardei;Ragusa/Venedig;Lombardei;Ragusa//  ?
+H$Schuldverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$500/lib./vel minus
+Z$X/X/X
+M$X/X/parv./A
+Q$tolleremus mutuo super ipsos et super comune sue civitatis quingentas libras
+vel minus Venetianorum parvorum
+
+REG$Zahlungsverpflichtung der Bewohner von Ragusa in der Hîhe von 500 Pfund
+kleiner venetianischer Pfennige gegenÅber jenen, denen sie das Geld schulden.
+F$Smic 3/272/306f/306
+G$X/Bewohner/Ragusa/Ragusa//
+E$X/X/X/X//
+H$Zahlungsversprechen/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$500/lib./vel minus
+Z$X/X/X
+M$X/X/parv./A
+Q$dare predictas quingentas libras vel minus Venetianorum parvorum
+B$Zins usuram de quinque in sex
+
+REG$Schuldverpflichtung der Bewohner von Ragusa in der Hîhe von 500 Pfund kleiner
+venetianischer Pfennige.
+F$Smic 3/272/306f/306
+G$X/Bewohner/Ragusa/Ragusa// ?
+E$X/X/X/X//
+H$Schuldverpflichtung/Geldsumme/unbestimmt/unbestimmt// ?
+W$Venedig/X/
+O$500/lib./salvata
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum Venetianorum quingentas salvatas
+
+DOK$Wenzel6_166/1230.7.24/1230.7.24/1230 Juli 24/anno domini MCCXXX. die VIII. Iulio
+exeunte. indictione tertia, pontificatus domini Grgorii pape noni anno
+quarto/X/X//
+S$X/X/X
+V$X/X/X
+K$Egidius, Subdiakon und Kaplan des Papstes, der ein pÑpstliches Mandat
+empfangen hat, entscheidet im Streit zwischen Abt und Konvent von Martinsberg
+und Probst und Kapitel von VeszprÇm um genannte Zehnten.
+
+REG$ ?
+zwei HÑlblinge oder einen Friesacher a singulis capetiis empfangen.
+F$Wenzel CD Arpad. 6/166/278ff/279
+G$X/Konvent/Gyîr/Martinsberg/Martinsberg/
+E$X/Kapitel/Veszprem/VeszprÇm//
+H$Abgabe/a singulis capetiis/Gyîr/Martinsberg?/Martinsberg?/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$1/X/X/Z
+A$1 Friesacher/2 Obuli
+Q$a singulis capetiis duos obulos vel unum Frisaticum
+B$zwei Halbpfennige im Wert eines Friesacher Pfennigs (Homan, WNZ, 214).
+Ungarische Pfennige wurden nach dem Vorbild der Friesacher geprÑgt, was spter
+Anla· zu manchen Mi·brÑuchen bot. Das Volk nahm die dem éu·eren nach den
+Friesachern Ñhnliche MÅnze in dem Wahne, da· es gleichwertiges, gutes Geld sei.
+So kamen denn die ungarischen Pfennige mit den Friesachern in gleichem Werte in
+Umlauf, obgleich sie in der Wirklichkeit einen viel geringeren Wert vertraten.
+Ph 1 691 von 1228 als Beispiel.  wo ist die Urkunde von 1228. ??
+
+REG$Seit Beginn des Streits zwischen Abt und Konvent von Martinsberg
+und Probst und Kapitel von VeszprÇm um genannte Zehnten hat das Kapitel dem
+Konvent einen jÑhrlichen Schaden in der Hîhe von 30 Mark zugefÅgt.
+F$Wenzel CD Arpad. 6/166/278ff/279
+G$X/Kapitel/Veszprem/VeszprÇm//
+E$X/Konvent/Gyîr/Martinsberg//
+H$Schaden/Schaden/Gyîr/Martinsberg//
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dampnum faciunt ad estimationem XXX marcarum singulis annis
+
+REG$Abt und Konvent von Martinsberg und Probst und Kapitel von VeszprÇm
+kompromittieren bei Strafe von 200 Mark Silber, da· sie die Entscheidung des
+Subdiakons und pÑpstlichen Kaplan Egidius in ihrem Streit um Zehnten in S.
+Apolinaris und Chenech anerkennen werden.
+F$Wenzel CD Arpad. 6/166/278ff/280
+G$X/Kapitel/Veszprem/VeszprÇm//
+G$X/Konvent/Gyîr/Martinsberg//
+E$X/X/X/X//
+E$ Egidius/Subdiakon/Rom/Rom//?
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena ducentarum marcarum argenti
+B$Inseriert - aber eigenes Datum ist 1229.2.15, Albense - wo ist die Urkunde. ?
+
+REG$Das Urteil im Streit zwischen Abt und Konvent von Martinsberg und Probst und
+Kapitel von VeszprÇm um Zehnten lautet folgenderma·en. Bei Strafe von 200 Mark
+guten Silbers erhÑlt das Kapitel die Zehnten Åber die genannten 9 Dîrfer und der
+Konvent die Zehnten de Appati und der anderen genannten Dîrfer.
+F$Wenzel CD Arpad. 6/166/278ff/281
+G$X/Kapitel/Veszprem/VeszprÇm//
+G$X/Konvent/Gyîr/Martinsberg//
+E$X/X/X/X//
+E$ Egidius/Subdiakon/Rom/Rom//?
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$sub pena ducentarum marcarum boni argenti
+
+DOK$FIII2_267/1231.10.20/1231.10.20/1231 Oktober 20/XIII. kal. Nov. Pontificatus nostri anno
+V./Rieti/Rieti//
+S$X/X/X
+V$X/X/X
+K$Papst Gregor IX. gibt den ébten von Boccon und Simigium und dem Prior von
+Boccon den Auftrag, da· sie im Streit zwischen dem Kapitel Alba-Regalense und
+dem Kloster Martinsberg um Zehnten und Ausgaben gerecht urteilen.
+
+REG$Zinsverpflichtung des Abtes von Martinsberg an das Kapitel Alba Regalense?is
+in der Hîhe von 50 Mark Friesacher fÅr die EinkÅnfte an Salz eines Jahres.
+F$Fejer CDH III 2/X/267ff/268
+F$Theiner, Mon. Hungariae Vat. 1/174/99f/100
+G$X/Kloster/Gyîr/Martinsberg//
+E$X/Kapitel/Stuhlwei·enburg/Stuhlwei·enburg/Alba Regalis/
+H$Zinsverpflichtung/Salz/unbestimmt/unbestimmt// ?
+W$Friesach/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quinquaginta marcas Frisaticorum pro reditu salium unius anni
+
+DOK$Ungarn_18/1232.4.17/1232.4.17/1232 April 17/anno incarnacionis eius MCCXXXII. mensis
+aprilis die quarto decimo exeunte, indicione quinta/Zadar/Zadar//
+S$Duminus/X/Duminus ?
+V$Raynerius/Zadar/Raynerius
+K$Petrus von St. Georgio bestÑtigt, fÅr Bonsegnoro 41 Pfund Venetianischer
+Pfennige minus 18 Pfennige erhalten zu haben.
+
+REG$Petrus von St. Georgio bestÑtigt, fÅr Bonsegnoro 41 Pfund Venetianischer
+Pfennige minus 18 Pfennige von Andrea de Petri\'c erhalten zu haben.
+F$Smic 3/309/356/356
+G$Andrea Petri\'c/X/X/X//
+E$Petrus/Genannter/St.Georgio/St. Georgio//
+H$Quittung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$41/lib./X
+Z$X/X/X
+M$18/den./minus/A
+Q$libras denariorum Venetorum quadraginta unam minus denarios decem et octo
+unum ?
+
+REG$Petrus von St. Georgio bestÑtigt, fÅr Bonsegnoro 41 Pfund Venetianischer
+Pfennige minus 18 Pfennige von Andrea de Petri\'c erhalten zu haben.
+F$Smic 3/309/356/356
+G$Andrea Petri\'c/X/X/X//
+E$Petrus/Genannter/St.Georgio/St. Georgio//
+H$Quittung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$41/lib./X
+Z$X/X/X
+M$18/den./minus/A
+Q$quadraginta et una libra(!) denariorum Venetorum minus
+denarios decem et octo
+
+REG$Petrus von St. Georgio bestÑtigt, fÅr Bonsegnoro 41 Pfund Venetianischer
+Pfennige minus 18 Pfennige von Andrea de Petri\'c erhalten zu haben.
+F$Smic 3/309/356/356
+G$Andrea Petri\'c/X/X/X//
+E$Petrus/Genannter/St.Georgio/St. Georgio//
+H$Quittung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$41/lib./X
+Z$X/X/X
+M$18/den./minus/A
+Q$quadraginta et una libra(!) minus denarios decem et octo
+
+DOK$Ungarn_14/1232.7.22/1232.7.22/1232 Juli 22/XI kalendis augusti pontificatus nostri anno
+sexto/Rieti/Rieti//
+S$X/X/X
+V$X/X/X
+K$Vereinbarung zwischen Bischof (Stephan) und dem Kapitel von Zagreb auf der
+einen Seite und dem Kloster Martinsberg auf der anderen Åber die
+Zehnten aller FrÅchte und anderen Dinge im Komitat Somogy, welches
+jenseits der Drau liegt, und die dem Bischof von Zagreb zufallen sollen, und
+Åber die Zehnten der Kapellen von S. Maria, S. Barnabas, S. Crux und S. Trinitas
+in der vespremer? Diîzese, die dem Abt zufallen sollen. Au·erdem soll er fÅr
+FrÅchte und Ausgaben 500 Mark Silber nach ungarischem Gewicht guter und
+ausgewÑhlter Friesacher zu den festgesetzten Terminen an den Abt oder seinen
+Gesandten zahlen.
+
+REG$Bischof (Stephan) von Zagreb soll laut einer Vereinbartung mit Abt vom
+Martinsberg diesem oder seinem Gesandten fÅr die Zehnten und anderen Dinge im Komitat
+Somogy jenseits der Drau 500 Mark Silber nach ungarischem Gewicht guter
+und ausgewÑhlter Friesacher zu den festgesetzten Terminen bezahlen.
+F$Mon. hist. episc. Zagrabiensis 1/60/73f/73
+F$Theiner, Mon. Hungariae Vat. 1/182/105/105
+F$Fejer CDH III 2/X/288ff/289
+F$Wenzel CD Arpad. Cod. Arpad. 11?20/170/243ff/244
+F$Smic 3/316/362ff/363
+G$(Stephan)/Bischof/Zagreb/Zagreb//
+E$X/Abt/Gyîr/Martinsberg//
+H$Zahlungsverpflichtung/Zehnten/Somogy/Somogy/Simigiensis?/
+W$Ungarn/pondus
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$500 Mark Silber ad pondus Vngarie/in Friesachern
+Q$quingentas marcas argenti ad pondus Vngarie, bonorum et electorum Frisaticorum
+vendentium et ementium
+B$Homan Balint, WNZ S. 215. Mit dem Sammelnamen Friesacher bezeichnete MÅnzen
+geprÑgt- mit den Friesachern gleich benannt, trotzdem sie an Wert weit hinter
+ihnen standen, kamen sie in einem hîheren Wert in Umlauf, als ihnen zukam.
+Deshalb betonen Urkunden, da· die Zahlungen in guten und ausgewÑhlten
+Friesachern und wÑren keine solche vorhanden, in 0,900 haltigen Silber erfolgen
+solle.
+B$Bei Fejer CDH III 2, S. 290 ediert die selbe Urkunde, aber decimo kalendas
+Augusti anno VI. Die Urkunde ging als Art "Rund- Schreiben" an mehrere ébte
+(die gennannte ad abbates de Bochon et de Tychon, et Archidiaconum de Roba).
+
+DOK$Wenzel20_171/1232.12.0/1232.12.0/1232/anno domini MCCXXXII., mense Decembri, indictione
+sexta/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Johannes, Guido und Heinrich, Grafen von Krk, schlie·en mit Venedig einen
+Vertrag.
+
+REG$Im Vertrag zwischen den Grafen von Krk und Venedig wird festgelegt, da· ein
+Streit um 50 Byzantiner oder weniger, zwischen ihnen entschieden werden soll.
+F$Wenzel CD Arpad. 20/171/245ff/247
+F$Mon. hist. Slav. 1/76/49ff/50
+G$X/Graf/Krk/Krk//
+E$X/Graf/Krk/Krk//
+H$Streitwert/Streitwert/Krk/Krk//
+W$Byzanz/X/
+O$50/X/infra
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$questio ita intelligatur a quinquaginta bizantiis et infra
+
+REG$Im Vertrag zwischen den Grafen von Krk und Venedig wird festgelegt, da· ein
+Streit um 50 Byzantiner oder mehr, an die Curie in Venedig gehen und von dieser
+entschieden werden soll.
+F$Wenzel CD Arpad. 20/171/245ff/247
+F$Mon. hist. Slav. 1/76/49ff/50
+G$X/Graf/Krk/Krk//
+E$X/Graf/Krk/Krk//
+H$Streitwert/Streitwert/Krk/Krk//
+W$Byzanz/X/
+O$50/X/supra
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$questio fuerit a quinquaginta bizantiis supra
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venetianer im Vertrag zwischen den
+Grafen von Krk und Venedig.
+F$Wenzel CD Arpad. 20/171/245ff/248
+F$Mon. hist. Slav. 1/76/49ff/51
+G$X/Graf/Krk/Krk//
+E$X/Komune/Venedig/Venedig//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille librarum Venecialium
+
+REG$mit Ausnahme eines halben Romanatus (ist byz. GoldmÅnze)
+F$Wenzel CD Arpad. 20/171/245ff/248
+F$Mon. hist. Slav. 1/76/49ff/51
+G$X/Graf/Krk/Krk//
+E$X/Komune/Venedig/Venedig//
+H$Pînale/Ausnahme?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$0,5/romanatus/X/Z
+Q$exceptato medio romanato
+
+REG$Im Vertrag zwischen den Grafen von Krk und Venedig wird eine Pînale in der
+Hîhe von 1000 Pfund festgesetzt, wobei 50 Pfund an die Komune von Krk und 50
+Pfund an den oder die gehen soll, die geschÑdigt wurden.
+F$Wenzel CD Arpad. 20/171/245ff/248
+F$Mon. hist. Slav. 1/76/49ff/51
+G$X/X/X/X//
+E$X/Komune/Krk/Krk//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras quinquaginta
+
+REG$Im Vertrag zwischen den Grafen von Krk und Venedig wird eine Pînale in der
+Hîhe von 1000 Pfund festgesetzt, wobei 50 Pfund an die Komune von Krk und 50
+Pfund an den oder die gehen soll, die geschÑdigt wurden.
+F$Wenzel CD Arpad. 20/171/245ff/248
+F$Mon. hist. Slav. 1/76/49ff/51
+G$X/X/X/X//
+E$X/Komune/Krk/Krk//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$et alias libras Venecialium quinquagintas
+
+DOK$Ungarn_19/1233.5.3/1233.5.3/1233 Mai 3/anno dominice incarnacionis MCCXXXIII., V.
+nonas maii/Trogir/Trogir//westl. Split
+S$X/X/X/
+V$X/X/X
+K$Bischof Treguanus von Trogir und Abt Vidossius vom Kloster Johannes und
+Kanoniker Georg von Trogir beenden als Delegierte des Papstes den Streit
+zwischen Erzbischof Johannes von Zadar und Abt Damianus von St. Chrysogonus um
+eine Summe Geldes, wegen welcher der Erzbischof den Abt exkommuniziert hat.
+
+REG$Erzbischof Johannes von Zadar soll mit Hilfe eines Schreibens, das ihm der
+Bischof von Absarensis ? Åbergeben hat und diesen zum Vollstrecker der
+SchuldrÅckzahlung des Abtes Damianus von St. Chrysogonus macht, seine 5 Pfund
+Venetianer zurÅckerhalten, die Anla· des Streites zwischen Erzbischof und Abt
+waren.
+F$Smic 3/326/377f/378
+G$Damianus/Abt/Zadar St.Chrysogonus/Zadar,St. Chrysogonus//
+E$Johannes/Erzbischof/Zadar/Zadar//
+H$Zahlungsverpflichtung ?/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad compellendum abbatem reddere archiepiscopo quinque libras Venetorum
+
+DOK$Ungarn_20/1233.8.30/1233.8.30/1233 August 30/III. kalendas septembris, anno dominice
+incarnacionis MCCXXXIII., indictione IV./Trogir/Trogir//westl. Split
+S$X/X/X/
+V$X/X/X
+K$Bischof Treguanus von Trogir und Abt Vidossius vom Kloster Johannes und
+Kanoniker Georg von Trogir beenden als Delegierte des Papstes den Streit
+zwischen Erzbischof Johannes von Zadar und Abt Damianus von St. Chrysogonus um
+eine Summe Geldes, wegen welcher der Erzbischof den Abt exkommuniziert hat.
+
+REG$Erzbischof Johannes von Zadar soll mit Hilfe eines Schreibens, das ihm der
+Bischof von Absarensis ? Åbergeben hat und diesen zum Vollstrecker der
+SchuldrÅckzahlung des Abtes Damianus von St. Chrysogonus macht, seine 5 Pfund
+Venetianer zurÅckerhalten, die Anla· des Streites zwischen Erzbischof und Abt
+waren.
+F$Smic 3/330/382/383
+G$Johannes/Erzbischof/Zadar/Zadar//
+E$Damianus/Abt/Zadar St.Chrysogonus/Zadar,St. Chrysogonus//
+H$Zahlungsverpflichtung ?/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad compellendum abbatem sol(vere ar)chiepiscopo quinque libras Venetorum
+
+DOK$FIII2_319/1233.8.20/1233.8.20/1233 August 20/anno ab incarnacione domini nostri Iesu
+Christi MCCXXXIII. die XII. exeunte Augusto/Bereg ,im Wald bei Gran?/Bereg, im
+Wald bei Gran?//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn beschwîrt vor dem pÑpstlichen Legaten Jakob,
+ErwÑhlten von PrÑneste, den mit der Kurie und der Kirche Ungarns abgeschlossenen
+Vertrag.
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· das Silber, das den Kirchen bezahlt wird,
+in guten Friesachern sein soll oder in Silber (0,900 fein) mit einem Zehntel
+Gewichstverlust (14lîtiges Silber).
+F$Fejer CDH III 2/X/319ff/321
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$Zahlungsbestimmung/Geld/Gran/Gran?//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/bonus/Z
+A$1 Mark Friesacher/1 Mark 14 lîtiges Silber
+Q$Argentum vero, quod pro dictis ecclesiis persolvetur, erit in bonis
+Frisaticis, vel in argento, cuius decima pars comburetur.
+B$Zweite BestÑtigung der Goldenen Bulle von 1222 1231 laut Probszt.
+Die Bestimmungen Åber den Geldumlauf und die QualitÑt der MÅnzen fiel weg. Nur
+die Åber die Ismaeliten und Juden, die die Verwendung bei der Pacht und
+Verwaltung von MÅnzgeprÑge und Salzkammern sowie der Zîlle verboten, wurden
+aufrechterhalten.
+Pisetrecht, EntschÑdigung von einem Zehntel aus den EinkÅnften des MÅnzwechsels,
+gebÅhrte dem Graner KirchenfÅrsten.
+In argento cuius decima pars comburetur bedeutet 14 lîtiges Silber laut BgldUb
+1 S. 146.
+Zwei Originale im Erzbischîflichen Archiv zu Gran (eines mit Goldbulle, eines
+mit Wachssiegel). Transsumpt Andreas II. von September 1233, in Abschrift im
+Vatikanischen Archiv zu Rom, Liber censuum fol. 351 (Theiner, Mon.
+Hungar. I, 116 Nr. 198).
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· pro tymino Meersalz den Kirchen 8 Mark bezahlt
+werden soll.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$RÅckkauf/Meersalz/Ungarn/Ungarn//
+W$Friesach/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$8 Mark Friesacher/1 Timinus Meersalz
+Q$quod pro quolibet tymino salium aquaticorum persolventur ecclesiis octo
+marche, excepta domo hospitalis Hierosolymitani, et ecclesiis Colocensi et
+Bachiensi
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· pro tymino Meersalz den Kirchen 8 Mark bezahlt
+werden soll au·er den Johannitern und Kalocsa und B†cs, die 10 Mark erhalten
+sollen, wenn Kalocsa und B†cs Salz nach Zegedyn oder weiter bringen.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$Johanniter/Orden/Ungarn/Ungarn//
+E$X/Kirche/Kalocsa/Kalocsa//
+E$X/Kirche/B†cs/B†cs//
+H$RÅckkauf/Meersalz/Ungarn/Ungarn//
+W$Friesach/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$10 Mark Friesacher/1 Timinus Meersalz
+Q$quod pro quolibet tymino salium aquaticorum persolventur ecclesiis octo
+marche, excepta domo hospitalis Hierosolymitani, et ecclesiis Colocensi et
+Bachiensi, quibus pro quolibet tymino dabimus decem marcas, si dicte ecclesie
+Colocensis et Baachiensis debeant deferre sales suos in Zegedyn, vel ultra
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· pro tymino Meersalz den Kirchen 8 Mark bezahlt
+werden soll au·er den Johannitern und Kalocsa und B†cs, die 10 Mark erhalten
+sollen, wenn Kalocsa und B†cs Salz nach Zegedyn oder weiter bringen, anderswohin
+8 Mark.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirche/Kalocsa/Kalocsa//
+E$X/Kirche/B†cs/B†cs//
+H$RÅckkauf/Meersalz/Ungarn/Ungarn/
+W$Friesach/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$8 Mark Friesacher/1 Timinus Meersalz
+Q$alioquin octo marcas habebunt
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· pro tymino Meersalz den Kirchen 8 Mark bezahlt
+werden soll, fÅr eine grî·ere Menge der Abtei Egres aber 26 Mark.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Abtei/Egres/Egres//Kom. Toront†l/
+H$RÅckkauf/Meersalz/Ungarn/Ungarn//
+W$Friesach/X/
+O$26/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$26 Mark Friesacher/1 Timinus Meersalz
+Q$Pro maioribus vero salibus aquaticis debemus abacie de Egrus viginti sex
+marcas pro quolibet timino
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· pro tymino Meersalz den Kirchen 8 Mark bezahlt
+werden soll, fÅr eine grî·ere Menge der Kirche von Arad aber 25 Mark.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirche/Arad/Arad//Kom. Arad/
+H$RÅckkauf/Meersalz/Ungarn/Ungarn//
+W$Friesach/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$25 Mark Friesacher/1 Timinus Meersalz
+Q$Pro maioribus vero salibus aquaticis debemus abacie de Egrus viginti sex
+marcas pro quolibet timino, et ecclesie Orodiensi XXV similiter
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· fÅr Steinsalz eine Mark fÅr je 100 Salzsteine
+den Kirchen bezahlt werden soll, wenn sich das Salz in den Grenzgebieten
+befindet.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$RÅckkauf/Steinsalz/Ungarn/Ungarn//
+W$Friesach/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Mark Friesacher/100 Salzsteine
+Q$Pro salibus vero terrestribus dabimus unam marcam pro centum zuanis, si sales
+suos debeant habere in confiniis
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des den
+Kirchen geschenkten Salzes, da· fÅr Steinsalz eine Mark fÅr je 100 Salzsteine
+den Kirchen bezahlt werden soll, wenn sich das Salz in den Grenzgebieten
+befindet. Ausgenommen davon ist jedoch das Kloster St. Gotthard, das fÅr 80
+Salzsteine eine Mark erhalten soll.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/117
+F$Fejer CDH III 2/X/319ff/321
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/St.Gotthard/St. Gotthard//
+H$RÅckkauf/Steinsalz/St.Gotthard/St. Gotthard//
+W$Friesach/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Mark Friesacher/80 Salzsteine
+Q$Pro salibus vero terrestribus dabimus unam marcam pro centum zuanis, si sales
+suos debeant habere in confiniis, excepto monasterio sancti Gothardi, cui pro
+octuaginta zuanis dabimus unam marcam.
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· den Kirchen fÅr die ihnen
+vorenthaltenen Salzeinnahmen 10 000 Mark in 5 Jahren bezahlt werden.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/118
+F$Fejer CDH III 2/X/319ff/322
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$Verlust-EntschÑdigung/Salzverkauf/Ungarn/Ungarn//
+W$X/X/
+O$10000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Pro redditibus vero ecclesiarum, qui hactenus sunt subtracti in salibus,
+exceptis decimis, persolvemus decem milia marcarum per quinque annos continuos
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· den Kirchen fÅr die ihnen
+vorenthaltenen Salzeinnahmen 10 000 Mark in 5 Jahren in der Art bezahlt werden,
+da· im ersten Jahr zu Maria Geburt (8. September) 1000 Mark bezahlt werden.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/118
+F$Fejer CDH III 2/X/319ff/322
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$Teilzahlung/VerlustentschÑdigung/Ungarn/Ungarn//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$In primo anno in nativitate beate Virginis solvemus mille marcas
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· den Kirchen fÅr die ihnen
+vorenthaltenen Salzeinnahmen 10 000 Mark in 5 Jahren in der Art bezahlt werden,
+da· im ersten Jahr zu Maria Geburt (8. September) und zu St. Thomas (21.
+Dezember) je 1000 Mark bezahlt werden.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/118
+F$Fejer CDH III 2/X/319ff/323
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$Teilzahlung/VerlustentschÑdigung/Ungarn/Ungarn//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in festivitate sancti Thome apostoli mille marcas alias
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· den Kirchen fÅr die ihnen
+vorenthaltenen Salzeinnahmen 10 000 Mark in 5 Jahren zu festgesetzten Terminen
+bezahlt werden.
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/118
+F$Fejer CDH III 2/X/319ff/323
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$Verlust-EntschÑdigung/Salzverkauf/Ungarn/Ungarn//
+W$X/X/
+O$10000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et sic postea quolibet anno continue faciemus, quousque dictam pecuniam decem
+milia marcarum persolvamus
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· den Kirchen fÅr die ihnen
+vorenthaltenen Salzeinnahmen 10 000 Mark in 5 Jahren zu festgesetzten Terminen
+bezahlt werden. Sollte das Geld nicht an den einzelnen Terminen bezahlt werden,
+sollen die Kirchen frei in denselbem Recht stehen, wie vor dieser Vereinbarung.?
+F$Theiner, Mon. Hungariae Vat. 1/198/116ff/118
+F$Fejer CDH III 2/X/319ff/323
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/Ungarn/Ungarn//
+H$Zahlungsvereinbarung/Geldsumme/unbestimmt/unbestimmt?//
+W$X/X/
+O$10000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Et nichilominus si predictam pecuniam decem milia marcas nec solverimus in
+singulis terminis
+
+DOK$FIII2_352/1233.0.0/1233.0.0/1233/anno dominicae incarnationis MCCXXXIII. regni nostri
+anno XXX./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn gibt fÅr den RÅckkauf eines goldenen Bechers, den
+er vom Kloster von Tihan erhielt, diesem jÑhrlich 100 Salzsteine.
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· fÅr den RÅckkauf des dem Kloster
+von Tihan geschenkten Salzes eine Mark fÅr je 100 Salzsteine bezahlt werden
+soll.
+F$Fejer CDH III 2/X/352ff/353
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Tihany/Tihany//Ungarn/
+H$RÅckkauf/Salzsteine/Ungarn/Ungarn//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Mark/100 Salzsteine
+Q$pro singulis centum zuanis unam marcam
+B$1055 Benediktinerabtei Tihany am Plattensee von Kînig Andreas I. gestiftet.
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des dem Kloster von
+Tihan geschenkten Salzes, da· das Silber in guten Friesachern sein soll oder in
+Silber (0,900 fein) mit einem Zehntel Gewichstverlust (14lîtiges Silber).
+F$Fejer CDH III 2/X/352ff/354
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Tihany/Tihany//Ungarn/
+H$Zahlungsbestimmung/Salzsteine/Tihany/Tihany//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/bonus/Z
+A$1 Mark Friesacher/1 Mark 14 lîtiges Silber
+Q$Argentum vero, quod vobis faciemus persolvi, erit in bonis
+Frisaticis, vel in argento, cuius decima pars comburetur.
+
+DOK$FIII2_357/1233.10.1/1233.10.1/1233 Oktober 1/anno ab incarnacione domini MCCXXXIII.,
+indictione VI., kal. octobris, regni vero nostri anno XXX./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt dem Kloster Marienberg die jÑhrliche
+Schenkung von 1000 Salzsteinen und regelt nach den Abmachungen mit dem
+pÑpstlichen Legaten, Jakob, ErwÑhlten von PrÑneste, das RÅckkaufsrecht der Krone
+fÅr das vom Kloster nicht selbst benîtigte Salz.
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· fÅr den RÅckkauf des dem Kloster
+Marienberg geschenkten Salzes eine Mark fÅr je 100 Salzsteine bezahlt werden
+soll.
+F$Fejer CDH III 2/X/357ff/358
+F$FRA II 11/N03/295f/295
+F$BgldUb 1/199/146ff/147
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Marienberg/Marienberg//
+H$RÅckkauf/Salzsteine/ôdenburg/ôdenburg/Suprun/Sopron
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Mark/100 Salzsteine
+Q$pro singulis centum zuanis unam marcam
+B$Die vorliegende Urkunde erweckt im Gegensatz zu den Åbrigen Bereger
+Privilegien den Eindruck eines Konzeptes. Die Zeugenreihe bricht unvermutet ab.
+Einschnitte im Pergament fÅr das Siegel zeigen aber, da· der Schein eines
+Originals gewahrt werden sollte. Dies und die Benutzung der FÑlschung BgldUb1
+Nr. 172 als Vorurkunde zusammen mit den weitgehenden öbereinstimmungen mit Nr.
+196 und 198 machen eine FÑlschung wahrscheinlich.
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des dem Kloster
+Marienberg geschenkten Salzes, da· das Silber, nach den Abmachungen mit dem
+pÑpstlichen Legaten, Jakob, ErwÑhlten von PrÑneste, in guten Friesachern sein
+soll oder in Silber (0,900 fein) mit einem Zehntel Gewichstverlust (14lîtiges
+Silber).
+F$Fejer CDH III 2/X/357ff/359
+F$FRA II 11/N03/295f/296
+F$BgldUb 1/199/146ff/147
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Marienberg/Marienberg//
+H$Zahlungsbestimmung/Salzsteine/ôdenburg/ôdenburg/Suprun/Sopron
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/bonus/Z
+A$1 Mark Friesacher/1 Mark 14 lîtiges Silber
+Q$Argentum vero, quod vobis faciemus solvi, erit in bonis
+Frisaticis, vel in argento, cuius decima pars comburetur.
+
+DOK$FIII2_357a/1233.10.1/1233.10.1/1233 Oktober 1/anno dominice incarnationis MCCXXXIII.,
+indictione VI., kal. octobris, regni vero nostri anno XXX./X/Xdoppelt?//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt dem Kloster Martinsberg die jÑhrliche
+Schenkung von drei Salzschiffen? und regelt nach den Abmachungen mit dem
+pÑpstlichen Legaten, Jakob, ErwÑhlten von PrÑneste, das RÅckkaufsrecht der Krone
+fÅr das vom Kloster nicht selbst benîtigte Salz.
+
+REG$Kînig Andreas II. von Ungarn bestimmt, da· fÅr den RÅckkauf des dem Kloster
+Marienberg geschenkten Salzes acht Mark pro timino Meersalz bezahlt werden
+soll.
+F$Wenzel CD Arpad. 20/177/258ff/259
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Gyîr/Martinsberg//
+H$RÅckkauf/Meersalz/Gyîr/Martinsberg//
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$8 Mark/1 timinus Meersalz
+Q$pro quolibet timino salium aquaticorum octo marcas
+
+REG$Kînig Andreas II. von Ungarn bestimmt fÅr den RÅckkauf des dem Kloster
+Martinsberg geschenkten Salzes, da· das Silber, nach den Abmachungen mit dem
+pÑpstlichen Legaten, Jakob, ErwÑhlten von PrÑneste, in guten Friesachern sein
+soll oder in Silber (0,900 fein) mit einem Zehntel Gewichstverlust (14lîtiges
+Silber).
+F$Wenzel CD Arpad. 20/177/258ff/259
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Gyîr/Martinsberg//
+H$Zahlungsbestimmung/Salzsteine/Gyîr/Martinsberg//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/bonus/Z
+A$1 Mark Friesacher/1 Mark 14 lîtiges Silber
+Q$Argentum vero, quod vobis faciemus persolvi, erit in bonis
+Frisaticis, vel in argento, cuius decima pars comburetur.
+
+DOK$Wenzel7_001/1234.0.0/1270.0.0/1234 - 1270/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Bela IV. von Ungarn lÑ·t durch den Archidiakon von Neutra, Magister
+Albeus, Besitz und Grenzen des Stiftes Pannonhalma genau festlegen, ebenso die
+Leistungen der Untertanen, zum Nutzen des Stiftes wie der Klosterleute.
+
+REG$Im Komitat Zala in predio Elbu haben Stephan, Cyma, Chon und Pentue von jeder
+Hube dem Stift Pannonhalma jÑhrlich 0,5 Ferto zu bezahlen.
+F$Wenzel CD Arpad. 7/001/1ff/14
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? nur Auszug, keine Kopie?
+G$Stephan;Cyma;Chon;Pentue/X/Elbu/Elbu//  ?
+E$X/Stift/Gyîr/Gyîr,Pannonhalma/Pannonhalma/
+H$Zins/Immobilien/Elbu/Elbu//Zala
+W$X/X/
+O$X/X/X
+Z$0,5/ferto/X
+M$X/X/X/Z
+Q$debent dare de quolibet manso monasterio annuatim dimidium fertonem
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+REG$Unbekanntes RechtsgeschÑft (LÅcke).
+F$Wenzel CD Arpad. 7/001/1ff/16
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? nur Auszug, keine Kopie?
+G$X/X/X/X//
+E$X/Stift/Gyîr Pannonhalma/Gyîr,Pannonhalma//
+H$Zins/Immobilien/Sceleus/Sceleus// ?
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$1/X/X/Z
+Q$cum uno Frisatico
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+REG$Im Komitat Zala in predio Sceleus haben N.
+dem Stift Pannonhalma jÑhrlich 0,5 Ferto zu bezahlen.
+F$Wenzel CD Arpad. 7/001/1ff/16
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? nur Auszug, keine Kopie?
+G$X/X/X/X//
+E$X/Stift/Gyîr Pannonhalma/Gyîr,Pannonhalma//
+H$Zins/Immobilien/Sceleus/Sceleus// ?
+W$X/X/
+O$X/X/X
+Z$0,5/ferto/X
+M$X/X/X/Z
+Q$unaquelibet mansio solvit dimidium fertonem
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+REG$Im Komitat Zala in predio Salya haben Omoch, Hozug, Cheme, Leurine
+dem Stift Pannonhalma jÑhrlich je 1 Ferto zu bezahlen.
+F$Wenzel CD Arpad. 7/001/1ff/19
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? Gnur Auszug, keine Kopie?
+G$Omoch;Hozug;Cheme;Leurine/Jobbagione/Salya/Salya//
+E$X/Stift/Gyîr Pannonhalma/Gyîr,Pannonhalma//
+H$Zins/Hîrig/Salya/Salya//
+W$X/X/
+O$X/X/X
+Z$1/ferto/X
+M$X/X/X/Z
+Q$quilibet quelibet mansio solvit unum fertonem
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+REG$Im Komitat Zala in predio Kenesna mÅssen die genannten Fuhrleute Fische in
+eigenen Wagen und auf eigenen Kosten dem Stift Pannonhalma bringen oder
+fÅr den Preis eines Wagens 1 Ferto zahlen.
+F$Wenzel CD Arpad. 7/001/1ff/20
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? nur Auszug, keine Kopie?
+G$Munkac, Lede, Egude, Kud/Fuhrleute/Kenesna/Kenesna//
+E$X/Stift/Gyîr Pannonhalma/Gyîr,Pannonhalma//
+H$Zins/Hîrig/Kenesna/Kenesna//
+W$X/X/
+O$X/X/X
+Z$1/ferto/X
+M$X/X/X/Z
+Q$pro precio unius currus tenentur solvere unum fertonem
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+REG$Im Komitat Zala in predio Kenesna haben die genannten exequales
+dem Stift Pannonhalma jÑhrlich je 3 Ferto zu bezahlen.
+F$Wenzel CD Arpad. 7/001/1ff/21
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? nur Auszug, keine Kopie?
+G$Byusius;Nerka;Putus/exequales/Kenesna/Kenesna//
+E$X/Stift/Gyîr Pannonhalma/Gyîr,Pannonhalma//
+H$Zins/Hîrig/Kenesna/Kenesna//
+W$X/X/
+O$X/X/X
+Z$3/ferto/X
+M$X/X/X/Z
+Q$qui annuatim tenentur dare in festo Sancti Michaelis III fertones per capita
+eorum
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+REG$Im Komitat Zala in predio Naryhag haben die genannten libertini
+dem Stift Pannonhalma jÑhrlich je 0,5 Ferto zu bezahlen.
+F$Wenzel CD Arpad. 7/001/1ff/24
+F$Fejer CDH 4/X/461ff/?  Kopie fehlt!!
+F$Knauz, Mon. Strigon. 1/X/573/ ? nur Auszug, keine Kopie?
+G$Georg;Whus;Paul;Paxa;Pousa/libertini/Naryhag/Naryhag//
+E$X/Stift/Gyîr Pannonhalma/Gyîr,Pannonhalma//
+H$Zins/Hîrig/Naryhag/Naryhag//
+W$X/X/
+O$X/X/X
+Z$0,5/ferto/X
+M$X/X/X/Z
+Q$isti annuatim tenentur dare quilibet eorum dimidium fertonem
+eorum
+B$Wagner datiert die Urkunde c.1237 - c.1240.
+
+DOK$Ungarn_21/1234.3.24/1234.3.24/1234 MÑrz 24/anno incarnationis domini MCCXXXIV., mensis
+martii octavo die exeunte, indictione septima/Ragusa/Ragusa//
+S$X/X/X
+V$X/X/X
+K$Die Bewohner von Ragusa setzen fest, wie sie dem Grafen die Schulden bezahlen.
+
+REG$Die Bewohner von Ragusa setzen fest, wie sie dem Grafen Johannes Dandulus die
+Schulden zurÅckzahlen, nÑmlich da· alle Bewohner von Ragusa, die nach Venedig
+reisen und die sich in Venedig aufhalten, 500 Pfund kleiner venetianischer
+Pfennige zahlen.
+F$Smic 3/347/403f/404
+G$X/Bewohner/Ragusa/Ragusa//
+E$Johannes Dandulus/X/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$500/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$libras quingentas de denariis parvis Venetianis
+
+REG$Die Bewohner von Ragusa setzen fest, wie sie dem Grafen Johannes Dandulus die
+Schulden zurÅckzahlen, nÑmlich da· alle Bewohner von Ragusa, die nach Venedig
+reisen und die sich in Venedig aufhalten, 500 Pfund kleiner venetianischer
+Pfennige zahlen und da· danach alle Bewohner von Ragusa, die nach Venedig
+reisen, dem Johannes Dandulus ein Pfund kleiner Pfennige geben.
+F$Smic 3/347/403f/404
+G$X/Bewohner/Ragusa/Ragusa//
+E$Johannes Dandulus/X/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$libram unam de denariis parvis
+
+DOK$FIII2_421/1235.0.0/1235.0.0/1235/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt die Schenkungen der frÅheren Kînige an
+die Kirche von FÅnfkirchen und vermehrt diese als Ersatz fÅr den Aufwand der von
+Bischof BartholomÑus von FÅnfkirchen durchgefÅhrten Reise nach
+Aragonien durch HinzufÅgen von weiterem Landbesitz.
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· die
+Kollekte weder ihm noch seinen Vasallen zu bezahlen ist, sondern nur dem Bischof
+und der Kirche soll die Steuer zufallen, und der Bischof von FÅnfkirchen kann
+seine Leute exkommunizieren. Dann ist eine Strafe in der Hîhe von 20 Mark an die
+Kirche zu bezahlen, deren eine HÑlfte der Kirche, die andere dem Grafen comiti
+provinciali? zufÑllt.
+F$Fejer CDH III 2/X/421ff/424
+G$X/X/X/X/
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+E$X/Graf/FÅnfkirchen/FÅnfkirchen?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et nihilominus viginti marcarum poenae subiaceat ipsi ecclesiae penitus
+persolvendarum
+B$Inseriert sind zwei Urkunden (FII 252).
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· die Leute
+von FÅnfkirchen durch das ganze Kînigreich mit ihren Waren ohne Tribut zu
+bezahlen durchziehen dÅrfen. Wer sie zu bedrÅcken wagt, hat eine Strafe von 20
+Mark zur HÑlfte an den Pfalzgrafen? und die Kirche von FÅnfkirchen zu bezahlen.
+F$Fejer CDH III 2/X/421ff/424
+G$X/X/X/X//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+E$X/Pfalzgraf?/X/?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$poenam viginti marcarum solvere compellatur
+B$Inseriert sind zwei Urkunden (FII 252).
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· sie
+exempt von jedem Urteil eines kîniglichen Richters ist, doch mu· sie dem Grafen
+von Baranya jÑhrlich drei einzelne Mark Friesacher bezahlen.
+F$Fejer CDH III 2/X/421ff/425
+G$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+E$X/Graf/Baranya/Baranya//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//?
+W$Friesach/X/
+O$3/marca/singula
+Z$X/X/X
+M$X/X/X/Z
+Q$debeat solvere \dots annuatim singulas tres marcas Frisaticorum
+B$Inseriert sind zwei Urkunden (FII 252).
+
+REG$Kînig Bela III. von Ungarn bestÑtigt der Kirche von FÅnfkirchen, da· wer den
+Zehnten zu zahlen verweigert bis zum Fest des Hl. Martin, 3 Mark zahlen mu·. ?
+F$Fejer CDH III 2/X/421ff/428
+G$X/X/X/X//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum iudicio trium marcarum, in qua poena ecclesia partem tertiam habeat
+B$Inseriert sind zwei Urkunden (FII 252).
+
+REG$Der Pfalzgraf ist verpflichtet, der kîniglichen Kasse 20 Mark Gold zu
+bezahlen, wenn er sich nicht an die kîniglichen Bestimmungen hÑlt.
+F$Fejer CDH III 2/X/421ff/430
+G$X/Pfalzgraf/Baranya/Baranya//?
+E$X/Kasse/Ungar.kînigl./Ungar.kînigl.//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$et nihilominus comes palatinus componat regio fisco viginti marcas auri
+B$Inseriert sind zwei Urkunden (FII 252).
+
+REG$Kînig Bela III. von Ungarn gesteht der Kirche von FÅnfkirchen zu, da· au·er
+ihm kein Vasall die GÅter und Besitzungen der Kirche zu bedrÑngen wagen dÅrfe,
+bei Strafe der Exkommunikation und 10 Mark Gold.
+F$Fejer CDH III 2/X/421ff/430
+G$X/Vasall/Ungarn/Ungarn//
+E$X/Kirche/FÅnfkirchen/FÅnfkirchen//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$a nostra maiestate decem marcarum auri mulcta plectendo huius nostrae
+serenitatis mandati transgressores
+B$Inseriert sind zwei Urkunden (FII 252).
+
+REG$Kînig Andreas II. von Ungarn bestÑtigt die Schenkungen der frÅheren Kînige an
+die Kirche von FÅnfkirchen und vermehrt diese als Ersatz fÅr den Aufwand in
+der Hîhe von 5 000 Mark, den Bischof BartholomÑus von FÅnfkirchen fÅr eine
+Reise nach Aragonien im Auftrag des Kînigs hatte, durch HinzufÅgen von weiterem
+Landbesitz.
+F$Fejer CDH III 2/X/421ff/431
+G$BartholomÑus/Bischof/FÅnfkirchen/FÅnfkirchen//
+E$X/X/X/X//
+H$Reisekosten/Reise/Aragonien/Aragonien//wahrscheinl.Santiago de Compostella in
+NW-Spanien?
+W$X/X/
+O$5000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dispendys ipsius ecclesiae Quinqueecclesiensis, videlicet quinque millibus
+marcarum consumptis et expensis
+
+DOK$Ungarn_22/1237.7.0/1237.7.0/1237 Juli/anno domini MCCXXXVII., mensis Julii, indictione
+decima/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Die Bewohner von Ragusa kaufen von Venedig zwei Galeeren.
+
+REG$Binzola Badatie (!) und Andreas Balliselave (!) bestÑtigen, von Petrus
+Marcellus vom Konvent von S. Angelus von Venedig 2300 Pfund venetianischer
+Pfennige erhalten zu haben.
+F$Smic 4/029/32ff/33
+G$Petrus Marcellus/X/Venedig/Venedig//
+E$Binzola Badatie/X/X/X//
+E$Andreas Balliselave/X/X/X//Nobilis Ragusa? siehe Ballisclavo
+H$ZahlungsbestÑtigung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum venetorum duo milia et trecentas
+
+REG$Binzola Badatie (!) und Andreas Balliselave (!) bestÑtigen, von Petrus
+Marcellus vom Konvent von S. Angelus von Venedig 2300 Pfund venetianischer
+Pfennige erhalten zu haben, von denen sie fÅr zwei Galeeren 1900 Pfund und fÅr
+deren Ausstattung? 400 Pfund gegeben haben.
+F$Smic 4/029/32ff/33
+G$Binzola Badatie/X/X/X//
+G$Andreas Balliselave/X/X/X//Nobilis Ragusa? siehe Ballisclavo
+E$X/X/Venedig/Venedig//
+H$Kauf/Galeeren/Venedig/Venedig//
+W$Venedig/X/
+O$1900/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$libras denariorum Venetorum mille et nongentas
+
+REG$Binzola Badatie (!) und Andreas Balliselave (!) bestÑtigen, von Petrus
+Marcellus vom Konvent von S. Angelus von Venedig 2300 Pfund venetianischer
+Pfennige erhalten zu haben, von denen sie fÅr zwei Galeeren 1900 Pfund und fÅr
+deren Ausstattung? 400 Pfund gegeben haben.
+F$Smic 4/029/32ff/33
+G$Binzola Badatie/X/X/X//
+G$Andreas Balliselave/X/X/X//Nobilis Ragusa? siehe Ballisclavo
+E$X/X/Venedig/Venedig//
+H$Kauf/Galeeren/Venedig/Venedig//
+W$X/X/
+O$400/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$reliquias quadringentas
+B$"libra" aus dem Zusammenhang erschlossen.
+
+REG$Binzola Badatie (!) und Andreas Balliselave (!) bestÑtigen, von Petrus
+Marcellus vom Konvent von S. Angelus von Venedig 2300 Pfund venetianischer
+Pfennige erhalten zu haben, die sie fÅr zwei Galeeren 1900 Pfund und fÅr
+deren Ausstattung zu zahlen haben.   ?
+F$Smic 4/029/32ff/33
+G$X/Kommune/Ragusa/Ragusa//
+E$X/Kommune/Venedig/Venedig//  Petrus Marcellus?
+H$Zahlungsverpflichtung?Kauf/Galeeren/Venedig/Venedig//
+W$Venedig/X/
+O$2300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum Venetorum duo milia et trecentos
+
+DOK$Ungarn_23/1237.6.0/1237.6.0/1237 Juli/anno domini MCCXXXVII. mensis iulii, indictione
+decima/Venedig/Venedig//
+S$Petrus/Venedig,St. Angelus?/Petrus
+V$Petrus/Venedig,St. Angelus?/Petrus
+K$Petrus Marcellus bekennt, da· die Bewohner von Ragusa den Preis fÅr zwei
+gekaufte Galeeren bezahlen mÅssen.
+
+REG$Petrus Marcellus bekennt, da· die Bewohner von Ragusa den Preis fÅr zwei
+gekaufte Galeeren in der Hîhe von 2300 Pfund venetianischer Pfennige bezahlen
+mÅssen.
+F$Smic 4/030/34/34
+G$X/Kommune/Ragusa/Ragusa//
+E$X/Kommune/Venedig/Venedig//
+H$Kauf/Galeeren/Venedig/Venedig//
+W$Venedig/X/
+O$2300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum Venetorum duo milia trecentas, quas pro comparatione duarum
+gallearum comuni Ragusii accomodavi
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund bei Zuwiderhandeln gegen die
+Bestimmungen der Urkunde.
+F$Smic 4/030/34/34
+G$Petrus Marcellus/X/Venedig St.Angelus/Venedig,St. Angelus//
+E$Johannes Teupulus/Graf/Ragusa/Ragusa//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras quinque
+
+DOK$Ungarn_24/1238.1.20/1238.1.20/1238 JÑnner 20/anno nativitates eius MCCXXXVIII.,
+tercio decimo kalendas februarii, indicione vero XI./Trogir/Trogir//
+S$Johannes/Trogir/Johannesz
+V$Johannes/Trogir/Johannesz
+K$Das Kapitel der Kirche von Split und das Kloster S. Stephan in Split
+unterwerfen sich dem Urteil der vom Papst bestimmten Richter im Streit um den
+Besitz der Kirche S. Michael.
+
+REG$Das Kapitel der Kirche von Split und das Kloster S. Stephan in Split
+unterwerfen sich dem Urteil der vom Papst bestimmten Richter im Streit um den
+Besitz der Kirche S. Michael. Wer dagegen handelt, verpflichtet sich, der
+anderen Partei 200 Pfund kleiner venetianischer Pfennige zu bezahlen.
+F$Smic 4/43/47f/48
+G$X/Kapitel/Split/Split//
+E$Milus/Abt/Split S.Stephan/Split,S. Stephan//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$ducentas libras parvulorum venetianorum
+
+DOK$Ungarn_25/1238.7.0/1238.7.0/1238 Juli/anno domini MCCXXXVIII., mensis Iulii,
+indicitone undecima/Venedig/Venedig//
+S$Donatus/S. Maria/Donatus
+V$Donatus/S. Maria/Donatus
+K$Vergleich um die Begleichung der Schulden der Komune von Ragusa.
+
+REG$Die Komune von Ragusa ist verpflichtet, 2284 Pfund venetianischer Pfennige
+namens des Johannes Dandulus an den Prior Jakob von S. Georg de Alega, Philippa
+aus S. Luca und Armina aus S. Paul zu bezahlen.
+F$Smic 4/54/61f/61
+G$X/Komume/Ragusa/Ragusa//
+E$Jakob/Prior/S.GeorgiusdeAlega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2284/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$exceptis (!) libris denariis venetis duabus milibus ducentis et octoginta
+quatuor
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$Smic 4/54/61f/61
+G$X/Kommune/Ragusa/Ragusa//
+E$Johannes Teupulus/Graf/Ragusa/Ragusa//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$auri libras quinque (persolvemus)
+
+DOK$Ungarn_26/1239.0.0/1239.0.0/1239/anno gracie MCCXXX nono./X/X//
+S$X/X/X
+V$X/X/X
+K$Gespan Arnold von Zala bezeugt, da· Banus Opoj von Slawonien den Rechtshandel
+zwischen Magister Michael und Eggutku, Welchik, Otok und deren Verwandten um den
+Besitz zwischen Drau und Zuratka namens Vizmeth beigelegt hat.
+
+REG$Gespan Arnold von Zala bezeugt, da· Banus Opoj von Slawonien den Rechtshandel
+zwischen Magister Michael und Eggutku, Welchik, Otok und deren Verwandten um den
+Besitz zwischen Drau und Zuratka namens Vizmeth beigelegt hat.
+Egyutku mu·, weil er das Gut des Magister Michael zerstîrt hat, pro captivitate
+dreier MÑnner diesem Michael 110 pensae Friesacher bezahlen.
+F$Smic 4/90/96f/97
+F$Wenzel CD Arpad. Cod. dipl. Arpad. VII/058/88f/89
+F$Fejer CDH IV1/X/163ff/165
+G$Egyutku/X/X/X//
+E$Michael/Magister/X/X//
+H$pro captivatione/MÑnner?/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$110/pensa/X
+M$X/X/X/Z
+Q$centum et decem pensas Frisaticorum
+B$Fejer ediert 100 pensae.
+
+DOK$Ungarn_27/1240.2.3/1240.2.3/1240 Februar 3/anno domini MCCXL. mense februarii, die
+tertio intrante, inditione XIII./Split/Split//
+S$X/X/X
+V$X/X/X
+K$Urteil Åber den Status des Erzpresbiter in \{v}Sibeniku.
+
+REG$Urteil Åber den Status des Erzpresbiter in \{v}Sibeniku, wonach die Kleriker
+von \{v}Sibeniku 50 Schilling Pfennige von Split oder venetianischer MÅnze dem
+Bischof Treguanus von Trogir nomine expensarum zu bezahlen haben.
+F$Smic 4/94/101f/101
+F$Fejer CDH VII 4/111/89f/90
+G$X/Kleriker/Sibeniku/\{v}Sibeniku//
+E$Treguanus/Bischof/Trogir/Trogir//
+H$Zahlungsverpflichtung/nomine expensarum/unbestimmt/unbestimmt//
+W$Split/moneta/
+O$X/X/X
+Z$50/sol./X
+M$X/den./X/Z
+A$50 Schil. Split. Pf./50 Schil. Ven. MÅnze
+Q$ad solutionem quinquaginta soldorum denariorum Spalatensis vel Venetorum
+monete
+
+REG$Urteil Åber den Status des Erzpresbiter in \{v}Sibeniku, wonach die Kleriker
+von \{v}Sibeniku 50 Schilling Pfennige von Split oder venetianischer MÅnze dem
+Bischof Treguanus von Trogir nomine expensarum zu bezahlen haben.
+F$Smic 4/94/101f/101
+F$Fejer CDH VII 4/111/89f/90
+G$X/Kleriker/Sibeniku/\{v}Sibeniku//
+E$Treguanus/Bischof/Trogir/Trogir//
+H$Zahlungsverpflichtung/nomine expensarum/unbestimmt/unbestimmt//
+W$Venedig/moneta/
+O$X/X/X
+Z$50/sol./X
+M$X/den./X/Z
+A$50 Schil. Pf. Ven. MÅnze/50 Schil. Pf. Split. MÅnze
+Q$ad solutionem quinquaginta soldorum denariorum Spalatensis vel Venetorum
+monete
+B$Siehe Probszt, S. 362ff. Alte Bischofsstadt Spalato. Ihre MÅnzstÑtte begann
+in der ersten HÑlfte des 13. Jahrhunderts mit der PrÑgung autonomer MÅnzen, von
+denen insgesamt fÅnf verschiedene Typen bekannt sind. Diese denarii parvuli doer
+denarii piccoli bestanden aus einem sehr geringhaltigen Silber (Feingehalt ca.
+0,28 Gramm, Durchmesser 11 - 13 mm). Trotzdem liefen sie als Kleingeld nicht nur
+in der Stadt selbst, sondern auch im ganzen kroatischen KÅstengebiet und auf den
+vorgelagerten Inseln um.
+
+DOK$Ungarn_28/1240.2.12/1240.2.12/1240 Februar 12/anno incarnationis domini MCCXL. mensis
+februarii, duodecimo die/Ragusa/Ragusa//
+S$X/X/X
+V$X/X/X
+K$Graf Nikolaus Tonistus bekennt, da· die Bewohner von Ragusa ihm nichts
+schulden.
+
+REG$Die Bewohner von Ragusa sind verpflichtet, dem Grafen Nikolaus Tonistus 720
+Pfund venetianischer Pfennige als Salzsteuer im 2. Jahr zu bezahlen.
+F$Smic 4/96/104/104
+G$X/Bewohner/Ragusa/Ragusa//
+E$Nikolaus Tonistus/X/X/X//
+H$Salzsteuer/Salzsteuer/Ragusa/Ragusa?/Komitat?/
+W$Venedig/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$septingentis viginti libris denariorum Venetialium
+
+REG$Graf Nikolaus Tonistus bestÑtigt, von den Bewohnern von Ragusa 720
+Pfund venetianischer Pfennige als Salzsteuer erhalten zu haben.
+F$Smic 4/96/104/104
+G$X/Bewohner/Ragusa/Ragusa//
+E$Nikolaus Tonistus/X/X/X//
+H$EmpfangsbestÑtigung/Salzsteuer/Ragusa/Ragusa?/Komitat?/
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$septingentis viginti libris
+
+DOK$Ungarn_29/1241.8.0/1241.8.0/1241 August/anno domini MCCLXI. mensis augusti, indictione
+quarta decima/Venedig/Venedig//
+S$Michael/S. Bartolus/Michael
+V$Michael/S. Bartolus/Michael
+K$Es wird bestÑtigt, da· die Bewohner von Ragusa den Erben des Grafen Johannes
+Dandulus die ganzen Schulden bezahlt haben.
+
+REG$Die Komune von Ragusa ist verpflichtet, 2284 Pfund venetianischer
+Pfennige namens des Johannes Dandulus an den Prior Jakob von S. Georg de Alega,
+Philippa aus S. Luca und Armina aus S. Paul zu bezahlen.
+F$Smic 4/122/132f/132
+G$X/Komume/Ragusa/Ragusa/
+E$Jakob/Prior/S.GeorgiusdeAlega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2284/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$exceptis (!) libris denariis venetis duabus milibus ducentis et octoginta
+quatuor
+
+REG$Die Bewohner von Ragusa sind verpflichtet, dem Grafen Johannes Dandulus die
+Schulden zurÅckzahlen, nÑmlich indem alle Bewohner von Ragusa, die nach Venedig
+reisen, dem Prior Jakob von S. Georg de Alega, der  Philippa aus S. Luca und der
+Armina aus S. Paul ein Pfund zahlen.
+F$Smic 4/122/132f/132
+G$X/Bewohner/Ragusa/Ragusa//
+E$Jakob/Prior/S.Georgius de Alega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libram unam per centenarium ab omnibus Raguseis undequnque (!) Venetias
+advenerint
+
+REG$Die Bewohner von Ragusa sind verpflichtet, dem Grafen Johannes Dandulus die
+Schulden zurÅckzahlen, nÑmlich indem alle Bewohner von Ragusa, die nach Venedig
+reisen, dem Prior Jakob von S. Georg de Alega, der  Philippa aus S. Luca und der
+Armina aus S. Paul ein Pfund zahlen, bis die Summe von 2284 Pfund venetianischer
+Pfennige bezahlt ist.
+F$Smic 4/122/132f/132
+G$X/Bewohner/Ragusa/Ragusa//
+E$Jakob/Prior/S.Georgius de Alega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Schuldentilgung_Summe/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2284/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$donec summam dictarum duo millia ducentarum octuaginta quatuor libras
+denariorum Venetorum integre nobis et nostris successoribus fuerint persoluta
+
+eig. Insert von 2284 libra ?
+
+REG$Die Komune von Ragusa ist verpflichtet, 2284 Pfund venetianischer
+Pfennige namens des Johannes Dandulus an den Prior Jakob von S. Georg de Alega,
+Philippa aus S. Luca und Armina aus S. Paul zu bezahlen.
+F$Smic 4/122/132f/133
+G$X/Komume/Ragusa/Ragusa//
+E$Jakob/Prior/S.Georgius de Alega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2284/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$exceptis (!) libris denariis venetis duabus milibus ducentis et octoginta
+quatuor
+
+REG$Die Bewohner von Ragusa sind verpflichtet, dem Grafen Johannes Dandulus die
+Schulden zurÅckzahlen, nÑmlich indem alle Bewohner von Ragusa, die nach Venedig
+reisen, dem Prior Jakob von S. Georg de Alega, der  Philippa aus S. Luca und der
+Armina aus S. Paul ein Pfund zahlen, bis die Summe von 2284 Pfund venetianischer
+Pfennige bezahlt ist. So wurde der Rest von 734 Pfund venetianischer Pfennig
+bezahlt.
+F$Smic 4/122/132f/133
+G$X/Bewohner/Ragusa/Ragusa//
+E$Jakob/Prior/S.Georgius de Alega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$734/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$libras denariorum Venetorum septingentas et triginta quatuor libras
+
+REG$Es wird bestÑtigt, da· die Bewohner von Ragusa den Erben des Grafen Johannes
+Dandulus die ganzen Schulden in der Hîhe von 2284 Pfund venetianischer Pfennig
+bezahlt haben.
+F$Smic 4/122/132f/133
+G$X/Komume/Ragusa/Ragusa//
+E$Jakob/Prior/S.Georgius de Alega/S. Georgius de Alega//
+E$Philippa/X/S.Luca/S. Luca//
+E$Armina/X/S.Paul/S. Paul//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2284/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$de prefatis duobus millibus ducentis octuaginta quatuor libris denariorum
+Venetorum securum facimus \dots quia nihil inde remanens.
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$Smic 4/122/132f/133
+G$Jakob/Prior/S.Georgius de Alega/S. Georgius de Alega//
+G$Philippa/X/S.Luca/S. Luca//
+G$Armina/X/S.Paul/S. Paul//
+E$X/Kommune/Ragusa/Ragusa//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$auri libras quinque
+
+DOK$Ungarn_30/1242.6.2/1242.6.2/1242 Juni 2/anno nativitatis eius MCCXLII. quarto nonas
+iunii, indictione vero decima quinta/Trogir/Trogir//
+S$Johannes/Trogir/Johannes
+V$Johannes/Trogir/Johannes
+K$Primicerius Gausinna und der Priester Prode verkaufen ein Haus um 70 Pfund
+kleiner Venetianer.
+
+REG$Primicerius Gausinna und der Priester Prode verkaufen ein Haus um 70 Pfund
+kleiner Venetianer.
+F$Smic 4/139/154/154
+G$X/X/X/X//
+E$Primicerius Gausina/X/X/X//
+E$Prode/Priester/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$septuaginta libras parvorum Venecianorum
+
+DOK$FIII2_245/1242.7.1/1242.7.1/1242 Juli 1/Kal. Iulii anno invarnationis domini
+MCCXXXXII./Vaga/Vaga//
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich von ôsterreich und Steiermark belehnt Konrad von Himberg mit
+dem Schatzkammeramt?, das einst Heinrich von Wasserberg besessen hat.
+
+REG$Herzog Friedrich von ôsterreich und Steiermark belehnt Konrad von Himberg mit
+dem Schatzkammeramt?, das einst Heinrich von Wasserberg besessen hat, und
+jÑhrlich 10 Talent von der MÅnze in Wien und die Vogtei Åber die Dorfkneipe? in
+Dorenbach.
+F$Fejer CDH III 2/X/245f/245
+F$BabUB 2/328/166f/167
+G$X/MÅnze/Wien/Wien//
+E$Konrad/Genannter/Himberg/Himberg//
+H$Einnahmen?/MÅnze/Wien/Wien//
+W$Wien/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis, decem talentorum de moneta nostra in Wienna
+B$Unter diesem Datum nur hier ediert, nicht in BabUB, nicht bei Luschin,
+nicht bei Koch(WÑhrungsgeographie, Wr.Pf.)?
+
+DOK$Ungarn_31/1242.8.25/1242.8.25/1242 August 25/anno incarnationis domini MCCXLII. mensis
+augusti die septima exeunte, indictione quinta decima/Ragusa/Ragusa//
+S$Pascalis/Ragusa/Pascalis
+V$Pascalis/Ragusa/Pascalis
+K$Die Bewohner von Ragusa Åbergeben den Teil der fÅr den Krieg notwendigen
+Abgaben, den der Doge von Venedig gefÅhrt hat.
+
+REG$Graf Johannes Michael von Ragusa Åbergibt mit den Richtern und Ratgebern dem
+Volk von Ragusa den Edlen Marinus von Gulericus und Lucarus von Calenda und den
+Boten 2000 Pfund kleiner venetianischer Pfennig fÅr den Heerzug, den der Doge
+von Venedig unternimmt.
+F$Smic 4/144/15f/159
+G$Johannes/Graf/Ragusa/Ragusa//
+E$Marinus de Gulericus/Nobilis/Ragusa/Ragusa//
+E$Lucarus de Calenda/Nobilis/Ragusa/Ragusa//
+H$Kriegsabgaben/Kriegsabgaben/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$damus \dots duo millia librarum denariorum parvorum Venetianorum
+
+REG$Graf Johannes Michael von Ragusa Åbergibt mit den Richtern und Ratgebern dem
+Volk von Ragusa den Edlen Marinus von Gulericus und Lucarus von Calenda und den
+Boten 2000 Pfund kleiner venetianischer Pfennig fÅr den Heerzug, den der Doge
+von Venedig unternimmt.  ?
+F$Smic 4/144/15f/159
+G$Johannes/Graf/Ragusa/Ragusa//
+E$Marinus de Gulericus/Nobilis/Ragusa/Ragusa//
+E$Lucarus de Calenda/Nobilis/Ragusa/Ragusa//
+H$Kriegsabgaben?/Kriegsabgaben/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$duo millia librarum denariorum tollatis ad imprestitum
+
+REG$Graf Johannes Michael von Ragusa Åbergibt mit den Richtern und Ratgebern dem
+Volk von Ragusa den Edlen Marinus von Gulericus und Lucarus von Calenda und den
+Boten 2000 Pfund kleiner venetianischer Pfennig fÅr den Heerzug, den der Doge
+von Venedig unternimmt, und verpflichtet sich, unter Strafe von 200 Perperi
+dem Geldgebern oder den Geldgebern am festgesetzten Termin das Geld zu geben.
+F$Smic 4/144/15f/159
+G$Johannes/Graf/Ragusa/Ragusa//
+E$X/GlÑubiger/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$200/yperperus/X/Z
+Q$sub pena ducentorum perperorum pacabimus et liberabimus creditori vel
+creditoribus
+
+DOK$Ungarn_32/1242.10.7/1242.10.7/1242 Oktober 7/anno domini MCCXLII. mensis octubris, die
+septimo intrante, indictione prima/Venedig/Venedig//
+S$Donatus/S. Stefano/Donatus
+V$Donatus/S. Stefano/Donatus
+K$Marinus de Guerico und Lucarus de Calenda, die Boten von Ragusa bekennen von
+den venetianischen Edlen Marinus Badovarius und Jakob Quirinus das Geld
+bekommen zu haben, das sie dem Dogen fÅr den Krieg gegeben haben.
+
+REG$Marinus de Guerico und Lucarus de Calenda, die Boten von Ragusa bekennen von
+den venetianischen Edlen Marinus Badovarius und Jakob Quirinus 2000 Pfund
+venetianischer Denarii Grossi bekommen zu haben, die sie dem Dogen fÅr den Krieg
+gegeben haben.
+F$Smic 4/146/161f/161
+G$Marinus Badovarius/Edler/Venedig/Venedig//
+G$Jakob Quirinus/Edler/Venedig/Venedig//
+E$Marinus de Gulericus/Nobilis/Ragusa/Ragusa//
+E$Lucarus de Calenda/Nobilis/Ragusa/Ragusa//
+H$Schulden/Schulden/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./grossus/A
+Q$libras denariorum Venetorum duo millia in denariis grossis
+
+REG$Marinus de Guerico und Lucarus de Calenda, die Boten von Ragusa bekennen von
+den venetianischen Edlen Marinus Badovarius und Jakob Quirinus 2000 Pfund
+venetianischer Denarii Grossi bekommen zu haben, die sie dem Dogen fÅr den Krieg
+gegeben haben. Dieses Geld mu· der Graf und die Komune von Ragusa diesen
+innerhalb von 20 Tagen, nachdem sie oder ihr Gesandter nach Ragusa gekommen
+sind, zahlen.
+F$Smic 4/144/161f/161
+G$X/Graf;Komune/Ragusa/Ragusa//
+E$Marinus Badovarius/Edler/Venedig/Venedig//
+E$Jakob Quirinus/Edler/Venedig/Venedig//
+H$Schuldentilgung/Schulden/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras Venetorum duo millia
+
+REG$Marinus de Guerico und Lucarus de Calenda, die Boten von Ragusa bekennen von
+den venetianischen Edlen Marinus Badovarius und Jakob Quirinus 2000 Pfund
+venetianischer Denarii Grossi bekommen zu haben, die sie dem Dogen fÅr den Krieg
+gegeben haben. Dieses Geld mu· der Graf und die Komune von Ragusa diesen
+innerhalb von 20 Tagen, nachdem sie oder ihr Gesandter nach Ragusa gekommen
+sind, zahlen. Sollten sie diese öbereinkunft nicht befolgen, mÅssen sie
+zu den 2000 Pfund Venetianern au·erdem 200 Perperi Gold bezahlen.
+F$Smic 4/144/161f/162
+G$X/Graf;Komune/Ragusa/Ragusa//
+E$Marinus Badovarius/Edler/Venedig/Venedig//
+E$Jakob Quirinus/Edler/Venedig/Venedig//
+H$Schuldentilgung/Schulden/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras Venetorum duo millia
+
+REG$Marinus de Guerico und Lucarus de Calenda, die Boten von Ragusa bekennen von
+den venetianischen Edlen Marinus Badovarius und Jakob Quirinus 2000 Pfund
+venetianischer Denarii Grossi bekommen zu haben, die sie dem Dogen fÅr den Krieg
+gegeben haben. Dieses Geld mu· der Graf und die Komune von Ragusa diesen
+innerhalb von 20 Tagen, nachdem sie oder ihr Gesandter nach Ragusa gekommen
+sind, zahlen. Sollten sie diese öbereinkunft nicht befolgen, mÅssen sie
+zu den 2000 Pfund Venetianern au·erdem 200 Perperi Gold bezahlen.
+F$Smic 4/144/161f/162
+G$X/Graf;Komune/Ragusa/Ragusa//
+E$Marinus Badovarius/Edler/Venedig/Venedig//
+E$Jakob Quirinus/Edler/Venedig/Venedig//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$X/X/X
+Z$X/X/X
+M$200/yperperus/auri/Z
+Q$perperos auri ducentos pro pena
+
+DOK$Smic4_152/1242.10.21/1242.10.21/1242 Oktober 21/anno domini MCCXLII., mensis octobris,
+die undecimo exeunte, indictione prima/Venedig/Venedig//
+S$Donatus/S. Stefano/Donatus
+V$Donatus/S. Stefano/Donatus
+K$Die venetianischen Geldgeber, Marinus Badovarius und Jakob Quirinus, erteilen
+den Klemens de Sersii und Marinus Pizaia, zwei Bewohnern von Ragusa, die
+Erlaubnis, 1000 Pfund Venetianer einzuheben von jenen 2000 Pfund venetianischer
+Pfennig, die die Venetianer der Komune Ragusa geliehen hatten.
+
+REG$Die venetianischen Geldgeber, Marinus Badovarius und Jakob Quirinus, erteilen
+den Klemens de Sersii und Marinus Pizaia, zwei Bewohnern von Ragusa, die
+Erlaubnis, 1000 Pfund Venetianer einzuheben von jenen 2000 Pfund venetianischer
+Pfennig, die die Venetianer der Komune Ragusa geliehen hatten.
+F$Smic 4/152/168f/169
+G$X/Komune/Ragusa/Ragusa/Ragusa//
+E$Klemens de Sersii/Bewohner/Ragusa/Ragusa//
+E$Marinus Pizaia/X/X/X//
+H$Schuldentilgung/Schulden/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras Venetorum mille ex illis libris denariorum Venetorum duo millia
+
+REG$Die venetianischen Geldgeber, Marinus Badovarius und Jakob Quirinus, erteilen
+den Klemens de Sersii und Marinus Pizaia, zwei Bewohnern von Ragusa, die
+Erlaubnis, 1000 Pfund Venetianer einzuheben von jenen 2000 Pfund venetianischer
+Pfennig, die die Venetianer der Komune Ragusa geliehen hatten.
+F$Smic 4/152/168f/169
+G$Marinus Badouarius/X/Venedig/Venedig//
+G$Jakob Quirinus/X/X/X//
+E$X/Komune/Ragusa/Ragusa//
+H$Schulden/Schulden/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras Venetorum mille ex illis libris denariorum Venetorum duo millia
+
+DOK$Smic4_153/1242.11.3/1242.11.3/1242 November3/anno incarnationis domini MCCXLII., mensis
+novembris, tertio die intrante/Ragusa/Ragusa//
+S$Pascalis/Ragusa/Pascalis
+V$Pascalis/Ragusa/Pascalis
+K$Die Bewohner von Ragusa setzen fest, da· sie dem Grafen die Salzsteuer aus den
+EinkÅnften der Salinen zahlen werden.
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis in
+seinem ersten Jahr 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt.
+F$Smic 4/154/171f/171
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$Salzsteuer/Salz/Ragusa/Ragusa//
+W$Venedig/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$septingentas viginti libras denariorum parvorum Venetianorum
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis in
+seinem ersten Jahr 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt
+und gibt ihm dafÅr als Pfand das Salz der Komune unter genannten Bedingungen.
+F$Smic 4/154/171f/171
+G$Johannes Michaelis/Graf/Ragusa/Ragusa//
+E$X/Komune/Ragusa/Ragusa//
+H$PfandgeschÑft/Salz/Ragusa/Ragusa//
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$septingentis viginti libris denariorum dedimus
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis in
+seinem ersten Jahr 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt
+und gibt ihm dafÅr als Pfand das Salz der Komune unter genannten Bedingungen.  ?
+F$Smic 4/154/171f/171
+G$Johannes Michaelis/Graf/Ragusa/Ragusa//
+E$X/Komune/Ragusa/Ragusa//
+H$PfandgeschÑft/Salz/Ragusa/Ragusa//   ?
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$persolvat se de prenominatis septingentis viginti libris de denariis
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis in
+seinem ersten Jahr 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt
+und gibt ihm dafÅr als Pfand das Salz der Komune unter genannten Bedingungen.
+Sollte dieses Salz weniger als 720 Pfund wert sein, werden Komune und Volk von
+Ragusa dem Grafen das Fehlende zahlen.
+F$Smic 4/154/171f/172
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$Wertangabe?/Salz/Ragusa/Ragusa//
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$si de ipso sale aliquid minus fuerit de prenominatis septingentis viginti
+libris
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis in
+seinem ersten Jahr 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt
+und gibt ihm dafÅr als Pfand das Salz der Komune unter genannten Bedingungen.
+Sollte die Komune das Geld vor dem genannten Termin zahlen kînnen, wird sie es
+an den Grafen oder seinen Gesandten bezahlen.
+F$Smic 4/154/171f/172
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$Salzsteuer/Salz/Ragusa/Ragusa//
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$poterimus dare prenominatas septingentas viginti libras denariorum eidem
+domino nostro comiti Johanni vel misso ipsius comitis dabimus
+
+DOK$Smic4_163/1243.3.2/1243.3.2/124 MÑrz 2/anno incarnationis domini MCCXLIII., mensis
+martii, secundo die intrante/Ragusa/Ragusa//
+S$Pascalis/Ragusa/Pascalis
+V$Pascalis/Ragusa/Pascalis
+K$Graf Johannes Michaelis von Ragusa bestÑtigt, da· die Komune Ragusa ihm die
+Salzsteuer fÅr das erste Jahr seiner Regentschaft, nÑmlich 720 Pfund kleiner
+venetianischer Pfennig gegeben hat und er der Komune die Urkunde darÅber
+zurÅckgeben habe.
+
+REG$Graf Johannes Michaelis von Ragusa bestÑtigt, die Salzsteuer fÅr das erste
+Jahr in der Hîhe von 720 Pfund kleiner venetianischer Pfennig erhalten zu haben.
+F$Smic 4/163/183/183
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$BestÑtigung/Salzsteuer/Ragusa/Ragusa//
+W$Venedig/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$septingentas viginti libras denariorum parvorum Venetianorum
+
+REG$Graf Johannes Michaelis von Ragusa bestÑtigt, die Salzsteuer fÅr das erste
+Jahr in der Hîhe von 720 Pfund kleiner venetianischer Pfennig erhalten zu haben
+und die Urkunde Åber die 720 Pfund der Komune ausgehÑndigt zu haben.
+F$Smic 4/163/183/183
+G$Johannes Michaelis/Graf/Ragusa/Ragusa//
+E$X/Kommune/Ragusa/Ragusa//
+H$PfandgeschÑft/Salzsteuer/Ragusa/Ragusa//  ?
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$de pronominatis septingentis viginti libris \dots redidi et dedi
+
+REG$Graf Johannes Michaelis von Ragusa bestÑtigt, die Salzsteuer fÅr das erste
+Jahr in der Hîhe von 720 Pfund kleiner venetianischer Pfennig erhalten zu haben.
+Weder er noch seine Erben haben AnsprÅche auf die genannten 720 Pfund Pfennig.
+F$Smic 4/163/183/183
+G$X/Kommune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$Anspruchslosigkeit?/Salzsteuer/Ragusa/Ragusa//
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$de pronominatis septingentis viginti libris denariorum \dots permaneat quitum
+et scapulum et sine querimonia
+
+REG$Graf Johannes Michaelis von Ragusa bestÑtigt, die Salzsteuer fÅr das erste
+Jahr in der Hîhe von 720 Pfund kleiner venetianischer Pfennig erhalten zu haben.
+Niemand habe AnsprÅche auf die genannten 720 Pfund.
+F$Smic 4/163/183/183
+G$X/Komune/Ragusa/Ragusa//
+E$X/X/X/X//
+H$Anspruchslosigkeit?/Salzsteuer/Ragusa/Ragusa//
+W$X/X/
+O$720/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$de pronominatis septingentis viginti libris possit aliquid querere
+
+DOK$Smic4_170/1243.5.16/1243.5.16/1243 Mai 16/in Christi nomine anno incarnatione eius
+MCCXLIII., mensis madii, die sexto decimo exeunte, indictione
+prima/Zadar/Zadar//
+S$Gregor/Zadar/Gregor
+V$Gregor/Zadar/Gregor
+K$Vertrag zwischen Ragusa und Zadar um ein Schiff.
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. DafÅr werde er ihnen 40 Pfund kleiner venetianischer Pfennig FÑhrgeld
+bezahlen.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$FÑhrgeld/FÑhrgeld/Zadar/Zadar?//
+W$Venedig/X/
+O$40/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$quadragintas libras denariorum parvorum Venetorum
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. Sollte er eine zweite Fahrt unternehmen, werde er ihnen 80 Pfund kleiner
+venetianischer Pfennig FÑhrgeld bezahlen.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$FÑhrgeld/FÑhrgeld/Zadar/Zadar?//
+W$Venedig/X/
+O$80/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$octuaginta libras denariorum parvorum Venetorum
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. Sollte er eine zweite Fahrt unternehmen, werde er ihnen 80 Pfund kleiner
+venetianischer Pfennig FÑhrgeld bezahlen und nach der Reise das Schiff bei
+Strafe von 1 000 kleiner venetianischer Pfennig im Hafen von Zadar zurÅckgeben.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$Pînale/Strafgeld/Zadar/Zadar//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$in pena mille libras denariorum parvorum Venetorum
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. Sollten ihm die Bewohner von Zadar das Schiff mit Gewalt entrei·en, werde
+er 10 Pfund kleiner Pfennig FÑhrgeld bezahlen.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$FÑhrgeld/FÑhrgeld/Zadar/Zadar?//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$decem libras denariorum parvorum
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. Sollten ihm die Bewohner von Zadar das Schiff auf seiner zweiten Fahrt mit
+Gewalt entrei·en, werde er 50 Pfund kleiner venetianischer Pfennig FÑhrgeld
+bezahlen.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$FÑhrgeld/FÑhrgeld/Zadar/Zadar?//
+W$Venedig/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$quinquaginta libras denariorum parvorum Venetorum
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. Sollten ihm die Venetianer das Schiff entrei·en, werde er ihnen in zwei
+Monaten 600 Pfund kleiner venetianischer Pfennig bezahlen oder das Schiff bei
+Strafe von 1200 Pfund kleiner venetianischer Pfennig zurÅckgeben.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$Kauf?EntschÑdigung/Schiff/Zadar/Zadar//
+W$Venedig/X/
+O$600/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$sexcentas libras denariorum parvorum Venetorum
+
+REG$Paulus aus Ragusa, der Sohn des Leo de comite Alexandro?, bekennt, da· er von
+genannten BÅrgern von Ragusa ein Schiff fÅr eine Fahrt nach Apulien genommen
+habe. Sollten ihm die Venetianer das Schiff entrei·en, werde er ihnen in zwei
+Monaten 600 Pfund kleiner venetianischer Pfennig bezahlen oder das Schiff bei
+Strafe von 1200 Pfund kleiner venetianischer Pfennig zurÅckgeben.
+F$Smic 4/170/189f/189
+G$Paulus/BÅrger/Ragusa/Ragusa//
+E$Preste;Ivan;magister Dobrenus;Valentus;Petrus/BÅrger/Zadar/Zadar//
+H$Pînale/Strafgeld/Zadar/Zadar//
+W$Venedig/X/
+O$1200/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$in pena mille ducentarum librarum denariorum parvorum Venetorum
+
+DOK$Smic4_182/1243.11.3/1243.11.3/1243 November3/anno incarnationis domini MCCXLIII.,
+mense novembri, tertio die intrante, indictione prima/Ragusa/Ragusa//
+S$Pascalis/Ragusa/Pascalis
+V$Pascalis/Ragusa/Pascalis
+K$Die Bewohner von Ragusa setzen fest, wann sie dem Grafen die Salzsteuer
+zahlen werden.
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis zu
+Christi Geburt 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt.
+F$Smic 4/182/204f/204
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$Salzsteuer/Salz/Ragusa/Ragusa//
+W$Venedig/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$libras septingentas viginti denariorum parvorum Venetianorum
+
+REG$Die Komune von Ragusa setzt fest, da· sie dem Grafen Johannes Michaelis zu
+Christi Geburt 720 Pfund kleiner venetianischer Pfennig Salzsteuer zahlt.
+Sollte die Komune das Geld nicht zum festgesetzten Termin bezahlen, mu· sie
+Verzugszinsen bezahlen (in pena de quinque in sex?).
+F$Smic 4/182/204f/204
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Michaelis/Graf/Ragusa/Ragusa//
+H$Nichtbezahlung_?Salzsteuer/Salz/Ragusa/Ragusa//
+W$Venedig/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$comune Ragusii tenuerit libras septingentas viginti denariorum parvorum
+Venetianorum
+
+DOK$Smic4_183/1243.11.13/1243.11.13/1243 November 13/anno incarnationis eiusdem MCCXLIII.,
+indictione secunda, mense novembris, die tercio decimo intrante/Trogir/Trogir//
+S$Cumanus/Split/Cumanus
+V$Cumanus/Split/Cumanus
+K$Graf Domaldus schlie·t mit den BÅrgern von Trogir Frieden.
+
+REG$Graf Domaldus bekennt, von den BÅrgern von Trogir 500 Pfund kleiner
+venetianischer Pfennig fÅr eine MÅhle in Pantano erhalten zu haben.
+F$Smic 4/183/205f/206
+G$X/Komune/Trogir/Trogir//
+E$Domaldus/Graf/X/X//
+H$Kauf?/Immobilien_MÅhle/Pantano/Pantano//
+W$Venedig/X/
+O$500/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$recepisse quingentas libras denariorum parvorum Venetialium
+
+DOK$Smic4_184/1243.11.28/1243.11.28/1242 November 28/anno dominicae incarnatinis 1243.
+indictione 2., mense novembris, die 3. exeunte/InselRab/Rab//
+S$Lanfrancus/Rab/Lanfrancus
+V$Lanfrancus/Rab/Lanfrancus
+K$Die Gesandten aus Venedig schlie·en mit den Bewohnern von Zadar, Krk und Rab
+Frieden.
+
+REG$Die Gesandten aus Venedig schlie·en mit den Bewohnern von Zadar, Krk und Rab
+Frieden und vereinbaren, da· die Komune von Rab verpflichtet ist, unter Strafe
+von 2000 Pfund kleiner venetianischer Pfennig diesen zu beachten. Die eine
+HÑlfte der Strafe soll an die Komune von Venedig, die andere an jene fallen, die
+den Auftrag erfÅllen.
+F$Smic 4/184/206f/207
+G$X/Komune/InselRab/Rab//
+E$X/Komune/Venedig/Venedig//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$sub poena MM librarum denariorum Venetorum parvulorum
+
+DOK$Smic4_204/1244.5.21/1244.5.21/1244 Mai 21/anno domini MCCXLIV., indictione secunda, die
+undecimo exeunte mense madio/Justiniana/Justiniana//
+S$Wilhelm/kaiserl. Notar/Wilhelm
+V$Wilhelm/kaiserl. Notar/Wilhelm
+K$öber die Schulden eines Bewohners von Ragusa.
+
+REG$Vitalis de Sefia von Ragusa verspricht dem Bonifacius, Schneider in
+Justiniana, fÅr einige Waren 60,5 Pfund venetianischer Pfennig zu bezahlen. ?
+F$Smic 4/204/228f/228
+G$Vitalis de Sefia/Bewohner/Ragusa/Ragusa//
+E$Bonifacius/Schneider/Justiniana/Justiniana//Istanbul
+H$Schneiderlohn/Mobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$60,5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras sexaginta et dimidiam denariorum Venetorum (solvat)
+B$Insert von 1243.6.26 in Urkunde 1244 Mai 21.
+
+REG$Vitalis de Sefia von Ragusa verspricht dem Bonifacius, Schneider in
+Justiniana, fÅr einige Waren 60,5 Pfund venetianischer Pfennig bei Strafe von
+NN zu bezahlen.
+F$Smic 4/204/228f/228
+G$Vitalis de Sefia/Bewohner/Ragusa/Ragusa//
+E$Bonifacius/Schneider/Justiniana/Justiniana//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$0/N/N/Z
+Q$penam du(ca?)orum trium
+B$Insert von 1243.6.26 in Urkunde 1244 Mai 21.
+
+DOK$Ungarn_39/1243.12.0/1243.12.0/1243 Dezember/anno domini MCCXLIII., mense decembris,
+indictione secunda/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Der Doge Jakob Teupolus ernennt Leonardus Quirinus auf zwei Jahre zum Grafen
+von Zadar.
+
+REG$Der Doge Jakob Teupolus ernennt Leonardus Quirinus auf zwei Jahre zum Grafen
+von Zadar und bestimmt, da· er Geschenke Åber 10 Schilling kleiner
+venetianischer Pfennig pro Tag nicht annehmen darf.
+F$Mon. spect. Slav. 1/88/61ff/62
+G$X/X/X/X//
+E$Leonardus Quirinus/Graf/Zadar/Zadar//
+H$Geschenkannahme/Geschenk/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./parv./Z
+Q$donum \dots ultra solidos X denariorum Veneciarum parvorum
+
+REG$Der Doge Jakob Teupolus ernennt Leonardus Quirinus auf zwei Jahre zum Grafen
+von Zadar und bestimmt, da· er Briefe mit einem Betreff ?Åber 12 kleine Pfennig
+nicht siegeln soll.                             Sendung
+F$Mon. spect. Slav. 1/88/61ff/62
+G$Leonardus Quirinus/comes/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Wertgrenze/Besiegelung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./parv./Z
+Q$De nullo autem sigillo tolles nec tolli facies ultra duodecim denarios parvos
+
+REG$Der Doge Jakob Teupolus ernennt Leonardus Quirinus auf zwei Jahre zum Grafen
+von Zadar und bestimmt, da· er Briefe mit einem Betreff ?Åber 3 Schilling kleine
+Pfennig nicht siegeln soll.                             Sendung
+F$Mon. spect. Slav. 1/88/61ff/62
+G$Leonardus Quirinus/comes/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Wertgrenze/Besiegelung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/den./parv./Z
+Q$ultra solidos tres denariorum Veneciarum parvorum, quos denarios devenient in
+comune
+
+REG$Der Doge Jakob Teupolus ernennt Leonardus Quirinus auf zwei Jahre zum Grafen
+von Zadar und setzt sein salarium mit jÑhrlich 1200 Pfund kleiner venetianischer
+Pfennig aus den AuskÅnften der Komune Zadar fest.
+F$Mon. spect. Slav. 1/88/61ff/62
+G$X/Komune/Zadar/Zadar//
+E$Leonardus Quirinus/Graf/Zadar/Zadar//
+H$Salarium/Salarium/Zadar/Zadar//
+W$Venedig/X/
+O$1200/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$annuatim librarum MCC denariorum Veneciarum parvorum
+
+REG$Der Doge Jakob Teupulus macht Leonardus Quirinus auf zwei Jahre zum Grafen von
+Zadar und beauftragt ihn, dafÅr zu sorgen, da· jÑhrlich an den Kalenden des MÑrz
+Seide und Tuch im Wert von 40 Pfund venetianischer Pfennig aus den EinkÅnften
+von Zadar als Ehrerweisung an die Kirche S. Marco geschickt werden.
+F$Mon. spect. Slav. 1/88/61ff/63
+G$X/Komune/Zadar/Zadar//
+E$S. Marco/Kirche/Venedig/Venedig//
+H$Wertangabe/MobilienEhrerweisung?/unbestimmt/unbestimmt//
+W$Venedig/X
+O$40/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$ysamitum vel drapum ad aurum valentem libras quadraginta denariorum Veneciarum
+
+DOK$Hazai6_29/1244.10.28/1244.10.28/1244 Oktober 28/anno dominice incarnacionis
+MCCXLIV. V. kalendas Novembris regnis autem nostri anno
+decimo/Komarom/Kom†rom//
+S$X/X/X
+V$X/X/X
+K$Kînig Bela IV. von Ungarn bestÑtigt? die Privilegien von Kurmuud.
+
+REG$Kînig Bela IV. von Ungarn bestÑtigt? die Privilegien von Kurmuud und bestimmt
+unter anderem, da· ein Dieb, wenn er gefa·t wird und seine Beute einen Wert von
+60 Friesachern Åbersteigt, am Galgen sterben soll.
+F$Hazai okm. 6/29/42f/42
+G$X/X/X/X//
+E$X/X/X/X//
+H$Wertangabe/Diebstahl/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$60/X/X/Z
+Q$cuius furtum valorem sexaginta frisaticos transscendit
+B$Den. aus dem Zusammenhang erschlossen.
+
+REG$Kînig Bela IV. von Ungarn bestÑtigt? die Privilegien von Kurmuud und bestimmt
+unter anderem, da·, wer bewaffnet in das Haus eines MitbÅrgers einzudringen
+?versuchtwagt, zu 10 Mark verurteilt wird.
+F$Hazai okm. 6/29/42f/42
+G$X/X/X/X//
+E$X/X/X/X//
+H$Strafe/Hausfriedensbruch?/Kîrmend/Kîrmend/Kurmuud/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in decem marcis condempnetur
+
+DOK$Smic4_238/1245.4.11/1245.4.11/1245 April 11/anno incarnationis domini MCCXLV., mensis
+aprilis undecimo die intrante, indictionis tertie/Ragusa/Ragusa//
+S$Pascalis/Ragusa/Pascalis
+V$Pascalis/Ragusa/Pascalis
+K$Graf Marius Baduarius von Ragusa bestÑtigt die Salzsteuer von Ragusa empfangen
+zu haben.
+
+REG$Graf Marius Baduarius von Ragusa bestÑtigt die Salzsteuer in der Hîhe von 720
+Pfund kleiner venetianischer Pfennig von der Komune Ragusa empfangen zu haben.
+F$Smic 4/238/273/273
+G$X/Komune/Ragusa/Ragusa//
+E$Marius Baduarius/Graf/Ragusa/Ragusa//
+H$Salzsteuer/Salz/Ragusa/Ragusa//
+W$Venedig/X/
+O$720/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$liberavit nobis septingentas viginti libras denariorum parvorum Venetianorum
+
+REG$Graf Marius Baduarius von Ragusa bestÑtigt occasione bandorum in der Hîhe von
+280 Pfund kleiner venetianischer Pfennig von der Komune Ragusa erhalten zu
+haben.
+F$Smic 4/238/273/273
+G$X/Komune/Ragusa/Ragusa//
+E$Marius Baduarius/Graf/Ragusa/Ragusa//
+H$occasione bandorum/Geldsumme/Ragusa/Ragusa//
+W$Venedig/X/
+O$280/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$et alias ducentas octoginta libras denariorum parvorum Venetianorum
+
+REG$Graf Marius Baduarius von Ragusa bestÑtigt die Salzsteuer in der Hîhe von 720
+Pfund kleiner venetianischer Pfennig und 200 occasione bandorum von der
+Komune Ragusa empfangen zu haben, was in Summe 1 000 Pfund macht.
+F$Smic 4/238/273/273
+G$X/Komune/Ragusa/Ragusa//
+E$Marius Baduarius/Graf/Ragusa/Ragusa//
+H$Summe/Steuer/Ragusa/Ragusa//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$que omnes prenominate libre fuerunt per summam mille libre
+
+REG$Graf Marius Baduarius von Ragusa bestÑtigt Steuer in der Hîhe von 1 000
+Pfund von der Komune Ragusa empfangen zu haben.
+F$Smic 4/238/273/273
+G$X/Komune/Ragusa/Ragusa//
+E$Marius Baduarius/Graf/Ragusa/Ragusa//
+H$Steuer/Steuer/Ragusa/Ragusa//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$mille libris \dots clamo et dico quittum
+
+DOK$Smic4_267/1246.8.10/1246.8.10/1246 August 10/anno domini MCCXLVI., die decimo intrante
+augusto, indictione quarta/Fermo/Fermo/wenn Firmum, dann s. Ancona?/
+S$Walter/Petri Valterii/Walter
+V$Walter/Petri Valterii/Walter
+K$Streit Åber ein beraubtes Schiff.
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem MathÑus und Domenikus Johannes Pascalis 8 Schilling Silber venetianischer
+Grossi und Waren im geschÑtzten Wert von 12 Pfund.
+F$Smic 4/267/300ff/301
+G$MatthÑus;Domenikus Johannes Pascalis/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/argentum/
+O$X/X/X
+Z$8/sol./X
+M$X/X/grossus;argenti/A
+Q$octo solidos Venetorum grossorum argenti
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem MathÑus und Domenikus Johannes Pascalis 8 Schilling Silber venetianischer
+Grossi und Waren im geschÑtzten Wert von 12 Pfund.
+F$Smic 4/267/300ff/301
+G$MatthÑus;Domenikus Johannes Pascalis/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$existimat duodecim libras valentes
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem MathÑus und Domenikus Johannes Pascalis Waren im geschÑtzten Wert von 10
+Venetianischer Grossi.
+F$Smic 4/267/300ff/301
+G$MatthÑus;Domenikus Johannes Pascalis/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/grossus/A
+Q$existimat decem solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich dem
+MatthÑus Basilius 3 Pfund und 11 Schilling Silber venetianischer
+Grossi und Waren im geschÑtzten Wert von 12 Pfund.
+F$Smic 4/267/300ff/301
+G$MatthÑus Basilius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/argentum/
+O$3/lib./X
+Z$11/sol./X
+M$X/X/grossus/A
+Q$tres libras et undecim solidos Venetorum grossorum argenti
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich dem
+MatthÑus Basilius 3 Pfund und 11 Schilling Silber venetianischer
+Grossi und Waren im geschÑtzten Wert von 12 Pfund.
+F$Smic 4/267/300ff/301
+G$MatthÑus Basilius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$duodecim libras valentes
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Gerard Melior 3 Pfund und sechs Schilling Silber venetianischer
+Grossi und Waren im geschÑtzten Wert von 20 Pfund und 40 Schilling
+venetianischer Grossi.
+F$Smic 4/267/300ff/301
+G$Gerard Melior/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$3/lib./X
+Z$6/sol./X
+M$X/X/grossus/A
+Q$tres libras et sex solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Gerard Melior 3 Pfund und sechs Schilling Silber venetianischer
+Grossi und Waren im geschÑtzten Wert von 20 Pfund und 40 Schilling
+venetianischer Grossi.
+F$Smic 4/267/300ff/301
+G$Gerard Melior/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$20/lib./X
+Z$40/sol./X
+M$X/X/grossus/A
+Q$exstimat viginti libras valentes et quadraginta solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Marcius de Cacelianus 3 Pfund und 6 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 10 Pfund und 50 Schilling
+Venetianischer Grossi.
+F$Smic 4/267/300ff/301
+G$Marcius de Cacelianus/Bewohner/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$3/lib./X
+Z$6/sol./X
+M$X/X/grossus/A
+Q$tres libras et sex solidos vel? Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Marcius de Cacelianus 3 Pfund und 6 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 10 Pfund und 50 Schilling
+Venetianischer Grossi.
+F$Smic 4/267/300ff/301
+G$Marcius de Cacelianus/Bewohner/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$extimat decem libras valentes
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Marcius de Cacelianus 3 Pfund und 6 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 10 Pfund und 50 Schilling
+Venetianischer Grossi.
+F$Smic 4/267/300ff/301
+G$Marcius de Cacelianus/Bewohner/Fermo/Fermo/
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$X/X/X
+Z$50/sol./X
+M$X/X/grossus/A
+Q$quinquaginta solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Johannes Capocius und dem Palmerius Petrus Qualterius 3 Pfund und 8
+Schilling Silber venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Johannes Capocius;Palmerius Petrus Qualterius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/argentum/
+O$3/lib./X
+Z$8/sol./X
+M$X/X/grossus/A
+Q$tres libras et octo solidos Venetorum grossorum argenti
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Palmerius Petrus Qualterius Waren im geschÑtzten Wert von 7 Schilling.
+F$Smic 4/267/300ff/302
+G$Palmerius Petrus Qualterius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$solidos septem
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Palmerius Petrus Qualterius Waren im geschÑtzten Wert von 3 Pfund und 10
+Schilling.
+F$Smic 4/267/300ff/302
+G$Palmerius Petrus Qualterius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$3/lib./X
+Z$10/sol./X
+M$X/X/X/A
+Q$tres libras et decem solidos valentes
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Palmerius Petrus Qualterius Waren im geschÑtzten Wert von 4 Schilling
+Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Palmerius Petrus Qualterius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/grossus/A
+Q$quattuor solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Palmerius Petrus Qualterius Waren im geschÑtzten Wert von 6 Pfund und 20
+Schilling Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Palmerius Petrus Qualterius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$6/lib./X
+Z$20/sol./X
+M$X/X/grossus/A
+Q$sex libras valentes et viginti solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Johannes Capocius 11 Schilling.
+F$Smic 4/267/300ff/302
+G$Johannes Capocius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$X/X/
+O$X/X/X
+Z$11/sol./X
+M$X/X/X/A
+Q$solidos undecim
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Johannes Capocius Waren im geschÑtzten Wert von 10 Pfund und 10 Schilling
+Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Johannes Capocius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$10/lib./X
+Z$10/sol./X
+M$X/X/grossus/A
+Q$decem libras valentes et decem solidos Venetorum Grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Johannes Capocius 23 andere? Denarii Grossi.
+F$Smic 4/267/300ff/302
+G$Johannes Capocius/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$23/den./grossus/A
+Q$viginti tres alios? denarios grossos
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Tebaldus Andrea 3 Pfund und 14 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 50 Pfund sowie 10 Pfund und 40
+Schilling Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Tebaldus Andrea/X/X/X//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$3/lib./X
+Z$14/sol./X
+M$X/X/grossus/A
+Q$tres libras et quattuordecim solidos Venetorum grosorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Tebaldus Andrea 3 Pfund und 14 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 50 Pfund sowie 10 Pfund und 40
+Schilling Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Tebaldus Andrea/X/X/X//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quinquaginta libras valentes
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Tebaldus Andrea 3 Pfund und 14 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 50 Pfund sowie 10 Pfund und 40
+Schilling Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Tebaldus Andrea/X/X/X//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$10/lib./X
+Z$40/sol./X
+M$X/X/grossus/A
+Q$decem libras et quadraginta solidos Venetorum grosorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Johannes Natalis 3 Pfund und 6 Schilling venetianischer
+Grossi und Waren im geschÑtzten Wert von 16 Pfund und 25 Schilling
+Venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Johannes Natalis/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$16/lib./X
+Z$25/sol./X
+M$X/X/grossus/A
+Q$sedecim libras valentes et viginti quinque solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Jakob Bafio Waren im geschÑtzten Wert von 10 Pfund und 10 Schilling
+venetianischer Grossi.
+F$Smic 4/267/300ff/302
+G$Jakob Bafio/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$10/lib./X
+Z$10/sol./X
+M$X/X/grossus/A
+Q$decem libras valentes et decem solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Albert Maranus 10 Schilling und Waren im geschÑtzten Wert von 11 Schilling
+Venetianischer Grossi und 7 Pfund 50 Schilling.
+F$Smic 4/267/300ff/302
+G$Albert Meranus/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$Raub/Raub/Ragusa/Ragusa//
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$solidos decem
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Albert Maranus 10 Schilling und Waren im geschÑtzten Wert von 11 Schilling
+Venetianischer Grossi und 7 Pfund 50 Schilling.
+F$Smic 4/267/300ff/302
+G$Albert Meranus/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$Venedig/X/
+O$X/X/X
+Z$11/sol./X
+M$X/X/grossus/A
+Q$undecim solidos Venetorum grossorum
+
+REG$Zanzius von Ragusa und dessen Sohn Michaelis haben genannten Bewohnern von Fermo
+Waren und Geld beim Transport dieser Dinge mit dem Schiff geraubt, nÑmlich
+dem Albert Maranus 10 Schilling und Waren im geschÑtzten Wert von 11 Schilling
+Venetianischer Grossi und 7 Pfund 50 Schilling.
+F$Smic 4/267/300ff/302
+G$Albert Meranus/X/Fermo/Fermo//
+E$Zanzius;Michaelis/Genannter/Ragusa/Ragusa//
+H$SchÑtzwert/Raub/Ragusa/Ragusa//
+W$X/X/
+O$7/lib./X
+Z$50/sol./X
+M$X/X/X/A
+Q$septem libras valentes quinquaginta solidos valentes
+
+DOK$Ungarn_40/1247.2.0/1247.2.0/1247 Februar/anno ab incarnatione domini nostri Jesu
+Christi MCCXLVII., mense februarii, indictione sexta/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Schwur des Grafen von Zadar.
+
+REG$Im Schwur des Grafen von Zadar wird seine jÑhrliches Gehalt, das er von der
+Komune Zadar bezieht, auf 1200 Pfund venetianischer Pfennig festgesetzt.
+F$Mon. spect. Slav. 1/97/74ff/75
+G$X/Komune/Zadar/Zadar//
+E$X/Graf/Zadar/Zadar//
+H$Gehalt/Graf/Zadar/Zadar//
+W$Venedig/X/
+O$1200/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$per annum librarum MCC denariorum Venetiarum
+
+REG$Im Schwur des Grafen von Zadar wird festgelegt, da· er unter anderem
+vier, deren zwei einen Preis von 80 Pfund venetianischer Pfennig haben, auf
+seine Kosten halten mu·.
+F$Mon. spect. Slav. 1/97/74ff/75
+G$X/Graf/Zadar/Zadar//
+E$X/X/X/X//
+H$Kauf/Pferd/Zadar/Zadar//
+W$Venedig/X/
+O$80/lib./X
+Z$X/X/X
+M$X/den./X/Z
+A$80 Pfund venet. Pf./2 Pferde
+Q$pretio librarum LXXX denariorum Venetiarum
+
+REG$Im Schwur des Grafen von Zadar wird festgelegt, da· Geschenke Åber 10
+Schilling kleiner venetianischer Pfennig pro Tag nicht annehmen darf.
+F$Mon. spect. Slav. 1/97/74ff/75
+G$X/X/X/X//
+E$X/Graf/Zadar/Zadar//
+H$Geschenkannahme/Geschenk/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./parv./Z
+Q$donum \dots ultra solidos decem denariorum Venetiarum parvorum
+
+DOK$Wenzel20_251/1247.8.1/1247.8.1/1247 August 1/anno ab incarnatione domini nostri Jesu
+Christi MCCXLVII., die primo mensis Augusti, indictione
+quinta/Venedig/Venedig?//
+S$Gabriel Paulinus/Venedig/Gabriel Paulinus ?
+V$Gabriel Paulinus/Venedig/Gabriel Paulinus ?
+K$Vertrag zwischen Venedig und Zadar.
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um um Frieden zu bitten.
+Unter anderem wird dabei vereinbart, da· Zadar jÑhrlich 2000 Pfund
+venetianischer Pfennig Salzsteuer zu entrichten habe.
+F$Wenzel CD Arpad. 20/251/349ff/351
+F$Mon. hist. Slav. 1/096/68ff/70
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Salzsteuer/Salz/Zadar/Zadar//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum Venetorum duo millia
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Unter anderem wird dabei vereinbart, da· Zadar jÑhrlich
+150 Iperperi an den Kalenden des MÑrz oder 3000 Minen Kaninchen? zu entrichten
+habe.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/71
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Abgabe/Abgabe?/Zadar/Zadar//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$150/yperperus/X/Z
+Q$omni anno \dots iperperos centum quinquaginta in kalendis Martii \dots aut
+tria milliaria bonarum cunicularum
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar soll jÑhrlich 2000 Pfund venetianischer Pfennig fÅr die
+Befestigung der Stadt Zadar entrichten, was aber wegen der Armut unmîglich sei.
+Deshalb wird eine jÑhrlich Zahlung bis zur Summe von 1000 Pfund angeboten.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/71
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Zahlungsverpflichtung/Verteidigung/Zadar/Zadar//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras duo millia denariorum Venetorum solvendis et dandis a Jadretinis omni
+anno
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar soll jÑhrlich 2000 Pfund venetianischer Pfennig fÅr die
+Befestigung der Stadt Zadar entrichten, was aber wegen der Armut unmîglich sei.
+Deshalb wird eine jÑhrlich Zahlung bis zur Summe von 1000 Pfund angeboten.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/71
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Zahlungsangebot/Verteidigung/Zadar/Zadar//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$usque ad summam librarum mille omni anno
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar bietet an, dem Johannes Michaelis, einst Graf von
+Zadar, fÅr das ihm zugefÅgte Unrecht 500 Pfund venetianischer Pfennig und fÅr
+die SchÑden de Pago 784 Pfund Pfennig zu bezahlen.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/71
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/Graf/Zadar/Zadar//
+H$Schadensgutmachung/SchÑden/Zadar/Zadar//
+W$Venedig/X/
+O$500/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$quingentas libras denariorum Venetorum
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar bietet an, dem Johannes Michaelis, einst Graf von
+Zadar, fÅr das ihm zugefÅgte Unrecht 500 Pfund venetianischer Pfennig und fÅr
+die SchÑden de Pago 784 Pfund Pfennig zu bezahlen.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/72
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/Graf/Zadar/Zadar//
+H$Schadensgutmachung/SchÑden/Zadar/Zadar//
+W$X/X/
+O$784/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras septingentas octuaginta et quatuor denariorum
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar bietet an, dem Johannes Michaelis, einst Graf von
+Zadar, jÑhrlich, solange er lebt, 200 Pfund venetianischer Pfennig zu bezahlen.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/72
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/Graf/Zadar/Zadar//
+H$Rente?/Rente/Zadar/Zadar//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras ducentas denariorum Venetorum
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar bietet an, Venedig innerhalb eines Jahres 19 000 Pfund
+als Wiedergutmachung zu bezahlen.
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/72
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Schadensgutmachung/SchÑden/Venedig/Venedig//
+W$X/X/
+O$19000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Decem et novem millibus libris solvendis hominibus Venetiarum pro restitutione
+bonorum ablatorum eisdem in rebellatione
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar bietet an, Venedig innerhalb eines Jahres 19 000 Pfund
+als Wiedergutmachung zu bezahlen und danach jÑhrlich vier Jahre lang 4700 Pfund
+venetianischer Pfennig in Teilzahlungen zu 125 Pfund. ?
+F$Wenzel CD Arpad. 20/251/349ff/353
+F$Mon. hist. Slav. 1/096/68ff/72
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Schadensgutmachung/SchÑden/Venedig/Venedig//
+W$Venedig/X/
+O$4700/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum Venetorum quatuor millia et septingentas denariorum
+Venetorum, scilicet libras centum et viginti quinque
+
+REG$Papo de Petrona und Grisogonus de Mauro kommen als Gesandte des Stephan de
+Piciga, des Richters von Zadar, zum Dogen nach Venedig, um einen Friedensvertrag
+auszuverhandeln. Zadar bietet an, Venedig innerhalb eines Jahres 19 000 Pfund
+als Wiedergutmachung zu bezahlen und danach jÑhrlich vier Jahre lang 4700 Pfund
+venetianischer Pfennig in Teilzahlungen zu 125 Pfund. ?
+F$Wenzel CD Arpad. 20/251/349ff/354
+F$Mon. hist. Slav. 1/096/68ff/72
+G$X/Komune/Zadar/Zadar//
+E$X/Komune/Venedig/Venedig//
+H$Teilzahlung/SchÑden/Venedig/Venedig//
+W$X/X/
+O$125/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras denariorum Venetorum quatuor millia et septingentas denariorum
+Venetorum, scilicet libras centum et viginti quinque
+
+DOK$Smic4_293/1247.11.13/1247.11.13/1247 November 13/anno ab incarnacione domini nostri Jesu
+Christi MCCXLVII., mensis novembris die tercio decimo intrante, inditione
+sexta/Zadar/Zadar//
+S$Benvenutus Bonacena/Clugiensis/Benvenutus Bonacena
+V$Benvenutus Bonacena/Clugiensis/Benvenutus Bonacena
+K$Vera, die Witwe des des Radovanus von Zadar, verkauft einen Teil ihres
+Besitzes dem Radinus, dem Sohn des Tomana, und anderen.
+
+REG$Vera, die Witwe des des Radovanus von Zadar, verkauft einen Teil ihres
+Besitzes dem Radinus, dem Sohn des Tomana, und anderen zum Preis von 4 Pfund
+venetianischer Pfennig.
+F$Smic 4/293/329f/330
+G$Radin/X/X/X//
+E$Vera/Genannte/Zadar/Zadar//
+H$Kauf/Immobilien/insuladeEce/insula de Ece//
+W$Venedig/X/
+O$4/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$recepi \dots libras quattuor denariorum Veneticorum
+
+REG$Vera, die Witwe des des Radovanus von Zadar, verkauft einen Teil ihres
+Besitzes dem Radinus, dem Sohn des Tomana, und anderen zum Preis von 4 Pfund
+venetianischer Pfennig und verpflichtet sich bei Strafe von 5 Pfund Gold den
+Vertrag zu beachten.
+F$Smic 4/293/329f/330
+G$Vera/Genannte/Zadar/Zadar//
+E$Radin/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$auri libras quinque
+
+DOK$Smic4_300/1248.2.3/1248.2.3/1248 Februar 3/anno MCCXLVII., indictione sexta, mensis
+februarii, die tertio intrante/Trogir/Trogir//
+S$Gausinna/Trogir/Gausinna
+V$Gausinna/Trogir/Gausinna
+K$Abt Gregor vom Kloster S. Maria de insula Melita bekennt, von den
+Prokuratoren von S. Laurentius in Trogir, Subdiakon Gervasius und Desa
+Kasarizza, 40 Pfund kleiner venetianischer Pfennig geliehen zu haben, wofÅr er,
+bis das Geld zurÅckgegeben ist, einen Teil einer Bibel ?verpfÑndet hat.
+
+REG$Abt Gregor vom Kloster S. Maria de insula Melita bekennt, von den
+Prokuratoren von S. Laurentius in Trogir, Subdiakon Gervasius und Desa
+Kasarizza, 40 Pfund kleiner venetianischer Pfennig geliehen zu haben, wofÅr er,
+bis das Geld zurÅckgegeben ist, einen Teil einer Bibel ?verpfÑndet hat.
+F$Smic 4/300/337/337
+G$Gregor/Abt/Mljet insula/Mljet,S.Maria de insula Melita//nw.Dubrovnik(Ragusa)
+in Kroatien
+E$S. Laurentius/Kirche/Trogir/Trogir//
+H$PfandgeschÑft/Bibel?/Mljet insula/Mljet,S.Maria de insula Melita//nw.Dubrovnik(Ragusa)
+W$Venedig/X/
+O$40/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$quadraginta libras denariorum parvorum Venetorum
+
+DOK$Wenzel20_254/1248.4.25/1248.4.25/1248 April 25/anno ab incarnatione domini nostri Jesu
+Christi MCCXLVIII., die sexto exeunte mense Aprili, indicitone
+sexta/Venedig/Venedig//
+S$Gabriel Paulinus/Venedig/Gabriel Paulinus
+V$Gabriel Paulinus/Venedig/Gabriel Paulinus
+K$Vertrag zwischen dem Dogen von Venedig, Jakob Teupolus, und Jakob von
+Turrisellis, dem Boten des Guilielmus von Sonai, dem Magister Domus Milicie
+Templi, wegen bei der Einnahme und Brandschatzung von Sennia den
+Venetianern zugefÅgten SchÑden.
+
+REG$Schadensgutmachung des Templerordens in der Hîhe von 5250 Pfund kleiner
+venetianischer Pfennige an den Dogen von Venedig fÅr die Kaufleute aus Venedig,
+Vegle und Arbe, die bei der Einnahme und Brandschatzung von Sennia durch die
+Templer SchÑden erlitten haben. Es werden drei Jahresraten vereinbart. Ein Pfund
+soll 20 Schilling venetianischer Denarii grossi minus einem Pfennig oder 26
+Schilling? Denarii parvi entsprechen.
+F$Wenzel CD Arpad. 20/254/361ff/362
+F$Mon. hist. Slav. 1/098/76f/77
+F$Smic 4/314/350ff/351
+G$X/Orden/unbestimmt ?/Templer?//
+E$X/Doge/Venedig/Venedig//
+H$Schadensgutmachung/Schaden/Venedig/Venedig//
+W$Venedig/X/
+O$5250/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+A$1 Pfund Venetian. Pf. parv./20 Schil. Ven. Pf. gross. minus 1 den.
+A$1 Pfund Venetian. Pf. gross./26 Venet. Pf. parv.    fehlt hier Schil.?
+Q$usque ad summam librarum quinque milium et ducentorum quinquaginta denariorum
+Venetorum parvorum, dando et solvendo solidos viginti denariorum Venetorum
+grossorum minus denario uno pro libra computando libra ipsorum grossorum pro
+libra viginti sex denariorum Venetorum parvorum
+
+REG$Schadensgutmachung des Templerordens in der Hîhe von 5250 Pfund kleiner
+venetianischer Pfennige an den Dogen von Venedig fÅr die Kaufleute aus Venedig,
+Vegle und Arbe, die bei der Einnahme und Brandschatzung von Sennia durch die
+Templer SchÑden erlitten haben. Es werden drei Jahresraten vereinbart. Ein Pfund
+soll 20 Schilling venetianischer Denarii grossi minus einem Pfennig oder 26
+Schilling? Denarii parvi entsprechen.
+F$Wenzel CD Arpad. 20/254/361ff/362
+F$Mon. hist. Slav. 1/098/76f/77
+F$Smic 4/314/350ff/351
+G$X/Orden/unbestimmt ?/Templer?/
+E$X/Doge/Venedig/Venedig//
+H$Wertangabe/Zahlung/Venedig/Venedig//
+W$Venedig/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./grossus/Z
+M$1/den./minus/Z
+A$20 Schil. Ven. Pf. gross. minus 1 den./1 Pfund Venetian. Pf. parv.
+Q$usque ad summam librarum quinque milium et ducentorum quinquaginta denariorum
+Venetorum parvorum, dando et solvendo solidos viginti denariorum Venetorum
+grossorum minus denario uno pro libra computando libra ipsorum grossorum pro
+libra viginti sex denariorum Venetorum parvorum
+
+REG$Schadensgutmachung des Templerordens in der Hîhe von 5250 Pfund kleiner
+venetianischer Pfennige an den Dogen von Venedig fÅr die Kaufleute aus Venedig,
+Vegle und Arbe, die bei der Einnahme und Brandschatzung von Sennia durch die
+Templer SchÑden erlitten haben. Es werden drei Jahresraten vereinbart. Ein Pfund
+soll 20 Schilling venetianischer Denarii grossi minus einem Pfennig oder 26
+Schilling? Denarii parvi entsprechen.
+F$Wenzel CD Arpad. 20/254/361ff/362
+F$Mon. hist. Slav. 1/098/76f/77
+F$Smic 4/314/350ff/351
+G$X/Orden/unbestimmt ?/Templer?//
+E$X/Doge/Venedig/Venedig//
+H$Wertangabe/Zahlung/Venedig/Venedig//
+W$Venedig/X/
+O$X/X/X
+Z$26/sol./X
+M$X/den./parv./Z
+A$26 Venet. Pf. parv./1 Pfund Venetian. Pf. gross.    fehlt hier Schil.?
+Q$usque ad summam librarum quinque milium et ducentorum quinquaginta denariorum
+Venetorum parvorum, dando et solvendo solidos viginti denariorum Venetorum
+grossorum minus denario uno pro libra computando libra ipsorum grossorum pro
+libra viginti sex denariorum Venetorum parvorum
+
+DOK$Smic4_319/1248.7.23/1248.7.23/1248 Juli 23/anno ab incarnatione domin nostri Jesu
+CHristi MCCXLVIII., mensis iuliii, die nono exeunte, indicione sexta/Zadar/Zadar//
+S$Petrus Scandolarius/Zadar/Petrus Scandolarius
+V$Petrus Scandolarius/Zadar/Petrus Scandolarius
+K$Abt Nikolaus vom Kloster St. Chrysogonus verpachtet dem Johannes Dru\v{z}ak
+Land und zwei MÅhlen auf 29 Jahre gegen 3 Pfund venetianischer Pfennig jÑhrlich,
+um ôl zu produzieren.
+
+REG$Abt Nikolaus vom Kloster St. Chrysogonus verpachtet dem Johannes Dru\v{z}ak
+Land und zwei MÅhlen auf 29 Jahre gegen 3 Pfund venetianischer Pfennig jÑhrlich,
+um ôl zu produzieren.
+F$Smic 4/319/359ff/360
+G$Johannes Dru\v{z}ak/X/X/X//
+E$X/Kloster/Zadar St.Chrysogonus/Zadar,St. Chrysogonus//
+H$Pacht/Immobilien_MÅhle/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$dare debes singulis annis tres libras denariorum Venecie
+
+REG$Abt Nikolaus vom Kloster St. Chrysogonus verpachtet dem Johannes Dru\v{z}ak
+Land und zwei MÅhlen auf 29 Jahre gegen 3 Pfund venetianischer Pfennig jÑhrlich,
+um ôl zu produzieren. Bei Zuwiderhandeln wird eine Pîn in der Hîhe von 5 Pfund
+Gold festgesetzt.
+F$Smic 4/319/359ff/360
+G$X/Kloster/Zadar St.Chrysogonus/Zadar,St. Chrysogonus//
+E$Johannes Dru\v{z}ak/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$tibi tuisque heredibus auri libras quinque
+
+DOK$Smic4_321/1248.9.15/1248.9.15/1248 September 15/die quinto decimo intrante, mensis
+septembris, indictione sexta/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Der Doge von Venedig, Jakob Teupolus, macht Jakob Delphinus zum comes.
+
+REG$Jakob Teupolus, Doge von Venedig, beauftragt die Bewohner von Ragusa, da· sie
+dem Grafen Jakob Delphinus 280 Pfund venetianischer Pfennig innerhalb von 15
+Tagen nach Erhalt dieses Schrift zahlen.
+F$Smic 4/321/361f/362
+G$X/Komune/Ragusa/Ragusa//
+E$Jakob Delphinus/Graf/Ragusa/Ragusa//
+H$Zahlungsverpflichtung/Geldsumme/Ragusa/Ragusa//
+W$Venedig/X/
+O$280/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras ducentas octuaginta Venetorum denariorum supra quadringentos yperperos
+
+REG$Jakob Teupolus, Doge von Venedig, beauftragt die Bewohner von Ragusa, da· sie
+dem Grafen Jakob Delphinus 280 Pfund venetianischer Pfennig - Åber 400 Yperperi
+hinaus - innerhalb von 15 Tagen nach Erhalt dieses Schrift zahlen. ?
+F$Smic 4/321/361f/362
+G$X/Komune/Ragusa/Ragusa//
+E$Jakob Delphinus/Graf/Ragusa/Ragusa//
+H$Zahlungsverpflichtung/Geldsumme/Ragusa/Ragusa//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$400/yperperus/X/Z
+Q$libras ducentas octuaginta denariorum Venetorum supra quadringentos yperperos
+
+DOK$Smic4_334/1249.1.11/1249.1.11/1249 JÑnner 11/anno ab incarnatione domini nostri Jesu
+Christi MCCXLVIII., mense ianuarii,  die undecimo intrante, indictione
+septima/Zadar/Zadar//
+S$Petrus Scandolarius/Zadar/Petrus Scandolarius
+V$Petrus Scandolarius/Zadar/Petrus Scandolarius
+K$Die Benvenuta, die Witwe des Grisogonus de Lastura, schenkt ihr Land dem
+Kloster S. Chrysogonus in Zadar.
+
+REG$Ein Abt, der de Torrens genannt wurde, zahlte dem Tebaldus Phylipus von Fermo
+80 Pfund venetianischer Pfennig. ?sind das ihre Erben?
+F$Smic 4/334/377f/377
+G$X/Abt/deTorrens/de Torrens//
+E$Tebaldus Phylipus/Genannter/Fermo/Fermo//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$80/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$octuaginta libras denariorum Venetorum
+
+REG$Ein Abt, der de Torrens genannt wurde, zahlte dem Vitus Cadulinus von Zadar
+100 Pfund venetianischer Pfennig. ?
+F$Smic 4/334/377f/377
+G$X/Abt/deTorrens/de Torrens//
+E$Vitus Cadulinus/Genannter/Zadar/Zadar//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$centum libras denariorum Venetorum
+
+DOK$Smic4_350/1249.6.4/1249.6.4/1249 Juni 4/anno dominice incarnationis MCCXLIX., die
+sabbati, quarto mensis iunii, indictione septima/Durazzo/Durazzo/Durachium/
+S$Nikolaus/kaiserl. Notar;Dyrrachium/Nikolaus
+V$Nikolaus/kaiserl. Notar;Dyrrachium/Nikolaus
+K$Quittung Åber den Erhalt von 500 Yperpera in venetianischen Denarii Grossi fÅr
+Salz.
+
+REG$Pascalis Sarippi, BÅrger von Durazzo, bestÑtigt 500 Yperpera in
+venetianischen Denarii Grossi fÅr 10 000 staros Salz von Grubessa de
+Ballisclavo, dem Boten der Komune Ragusa erhalten zu haben.
+F$Smic 4/350/396f/396
+G$Grubessa de Ballisclavo/Nobilis/Ragusa/Ragusa//
+E$Pascalis Sarippi/BÅrger/Durazzo/Durazzo//
+H$Quittung/Salzkauf/Durazzo/Durazzo//Albanien
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$500/yperperus/X/A
+A$500 yperperi/in den. grossorum Venet.
+Q$yperpera quingenta in denariorum grossorum Venetorum
+B$Sextarius gleich starium.
+
+REG$Pascalis Sarippi, BÅrger von Durazzo, bestÑtigt 500 Yperpera fÅr 10 000
+staros Salz von Grubessa de Ballisclavo, dem Boten der Komune Ragusa erhalten
+zu haben.
+F$Smic 4/350/396f/396
+G$Grubessa de Ballisclavo/Bote/Ragusa/Ragusa//
+E$Pascalis Sarippi/BÅrger/Durazzo/Durazzo//
+H$Quittung/Salzkauf/Durazzo/Durazzo//Albanien
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$500/yperperus/X/A
+Q$de supradicta quingenta yperpera
+B$yperperum gleich ferto.
+
+REG$Pascalis Sarippi, BÅrger von Durazzo ?, bestÑtigt 500 Yperpera fÅr 10 000
+staros Salz von Grubessa de Ballisclavo, dem Boten der Komune Ragusa erhalten
+zu haben und lÑ·t zur Sicherheit fÅr die Komune Ragusa eine Urkunde vom Notar
+Nikolaus ausstellen.
+F$Smic 4/350/396f/396
+G$Grubessa de Ballisclavo/Bote/Ragusa/Ragusa//
+E$Pascalis Sarippi/BÅrger/Durazzo/Durazzo//
+H$Quittung/Salzkauf/Durazzo/Durazzo//Albanien
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$500/yperperus/X/A
+Q$de prefata quingenta yperperos
+
+DOK$Smic4_362/1249.2.20/1249.2.20/1249 Februar 20/anno incarnacionis eius MCCXLIX., mensis
+februarii, die nono exeunte, indictione octava/Zadar/Zadar//
+S$Guillelmus Pauper/Zadar/Guillelmus Pauper
+V$Guillelmus Pauper/Zadar/Guillelmus Pauper
+K$Maria Ursi bestÑtigt, mit Erlaubnis der ébtissin des Klosters S. Maria von
+Prvica, der Tochter des Sladinus einen Weingarten in Bibano erhalten zu haben.
+
+REG$Maria Ursi bestÑtigt, mit Erlaubnis der ébtissin des Klosters S. Maria von
+Prvica, der Tochter des Sladinus einen Weingarten in Bibano unter
+genannten Bedingungen erhalten zu haben. Bei Zuwiderhandeln ist ein Pîn in der
+Hîhe von 6 Perperi an das Kloster zu bezahlen.
+F$Smic 4/362/417f/417
+G$Maria Ursi/X/X/X//
+E$X/Kloster/S.Maria de Prvica/S. Maria de Prvica//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/yperperus/X/Z
+Q$sex perperos monasterio per[solvam]
+B$Im Regest erscheint 1250 statt 1249!?
+
+REG$Maria Ursi bestÑtigt, mit Erlaubnis der ébtissin des Klosters S. Maria von
+Prvica, der Tochter des Sladinus einen Weingarten in Bibano unter
+genannten Bedingungen erhalten zu haben, wofÅr sie ihr 12 Perperi und 17
+Schilling Venetianer gegeben hat.
+F$Smic 4/362/417f/417
+G$Maria Ursi/X/X/X//
+E$Prvica/X/X/X//
+H$Gegengeschenk/Immobilien_Weingarten/Bibano/Bibano//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/yperperus/X/A
+Q$duodecim perperos et decem et septem solidos Venecie
+B$Im Regest erscheint 1250 statt 1249!?
+
+REG$Maria Ursi bestÑtigt, mit Erlaubnis der ébtissin des Klosters S. Maria von
+Prvica, der Tochter des Sladinus einen Weingarten in Bibano unter
+genannten Bedingungen erhalten zu haben, wofÅr sie ihr 12 Perperi und 17
+Schilling Venetianer gegeben hat.
+F$Smic 4/362/417f/417
+G$Maria Ursi/X/X/X//
+E$Prvica/X/X/X//
+H$Gegengeschenk/Immobilien_Weingarten/Bibano/Bibano//
+W$Venedig/X/
+O$X/X/X
+Z$17/sol./X
+M$X/X/X/A
+Q$duodecim perperos et decem et septem solidos Venecie
+B$Im Regest erscheint 1250 statt 1249!?
+
+DOK$Ungarn_41/1250.4.30/1250.4.30/1250 April 30/die ultimo mensis aprilis, indictione
+octava/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen.
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird fÅr einen Weingarten in Bagno eine
+EntschÑdigung in der Hîhe von 6 Yperpera festgelegt.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Schadensgutmachung/Immobilien_Weingarten/Bagno/Bagno//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/yperperus/X/Z
+Q$sex yperpera pro una vinea de Dessa de Picia posita in Bagno.
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird fÅr einen Weingarten de Scoza eine
+EntschÑdigung in der Hîhe von 6 Yperpera festgelegt.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Schadensgutmachung/Immobilien_Weingarten/deScoza/de Scoza//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/yperperus/X/Z
+Q$sex yperpera pro una vinea de Scoza.
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird fÅr einen Weingarten de Cerna de Carbo? und
+einen Anteil Salz eine EntschÑdigung in der Hîhe von 6 Yperpera festgelegt.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Schadensgutmachung/Immobilien_Weingarten/deCerna deCarbo/de Cerna de
+Carbo?//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/yperperus/X/Z
+Q$sex yperpera pro una vinea de Cerna de Carbo? et pro sua parte salis
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird fÅr das Haus des Stephanus de Martinusso
+eine EntschÑdigung in der Hîhe von 50 Pfund festgelegt.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Schadensgutmachung/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras L pro domo Stephani de Martinusso.
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird fÅr einen Weingarten de socio Scoze
+eine EntschÑdigung in der Hîhe von 6 Yperpera festgelegt.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Schadensgutmachung/Immobilien_Weingarten/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/yperperus/X/Z
+Q$sex yperpera pro una vinea de socio Scoze.
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird festgehalten, da· am 27. April 1249
+festgesetzt wurde, da· die Komune Zadar dem Johannes Michaelis 200 Pfund kleiner
+venetianischer Pfennig in zwei Jahren zu zahlen hat.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Zahlungsverpflichtung/Immobilien/Zadar/Zadar//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$lib. CC denariorum Veneciarum parvorum in duobus annis
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird festgehalten, da· am 27. April 1249
+festgesetzt wurde, da· die Komune Zadar dem Johannes Michaelis 200 Pfund kleiner
+venetianischer Pfennig in zwei Jahren zu zahlen hat, nÑmlich 100 Pfund pro Jahr
+fÅr einen Weingarten und pro uno zardino.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Zahlungsverpflichtung/Immobilien_Weingarten/Zadar/Zadar//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras C
+
+REG$Doge Marinus Maurocenus von Venedig an Graf Balduinus Quirinus von Zadar
+betreffend den Streit zwischen Johannes Michaelis, einst Graf von Zadar, und
+S(tephanus) Justinianus, einst Doge von Venedig, fÅr die Komune Zadar um HÑuser
+und Besitzungen. Unter anderem wird festgehalten, da· am 27. April 1249
+festgesetzt wurde, da· die Komune Zadar dem Johannes Michaelis 200 Pfund kleiner
+venetianischer Pfennig jÑhrlich zu zahlen hat, wie es im Vertrag zwischen
+Venedig und Zadar festgehalten ist.
+F$Mon. spect. Slav. 1/102/79f/79
+G$X/Komune/Zadar/Zadar//
+E$Johannes Michaelis/X/X/X//
+H$Zahlungsverpflichtung/Gehalt/Zadar/Zadar//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras CC denariorum Veneciarum habere debeat a comuni Jadre annuatim
+
+DOK$Smic4_371/1250.9.12/1250.9.12/1250 September 12/die duodecima intrante mense septembre
+indicitone octava/Venedig/Venedig//
+S$X/X/X
+V$X/X/X
+K$Marinus Maurocenus, Doge von Venedig, setzt fÅr den Grafen Johannes
+Justinianus die jÑhrlichen EinkÅnfte fest.
+
+REG$Marinus Maurocenus, Doge von Venedig, setzt fÅr den Grafen Johannes
+Justinianus jÑhrliche EinkÅnfte in der Hîhe von 280 Pfund venetianischer
+Pfennig fest.
+F$Smic 4/371/427/427
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Justinianus/X/Ragusa/Ragusa?//
+H$EinkÅnfte/EinkÅnfte/Ragusa/Ragusa//
+W$Venedig/X/
+O$280/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras ducentas octuaginta denariorum Venetorum supra quadringentos yperperos
+
+REG$Marinus Maurocenus, Doge von Venedig, setzt fÅr den Grafen Johannes
+Justinianus jÑhrliche EinkÅnfte in der Hîhe von 280 Pfund venetianischer
+Pfennig - Åber 400 Yperperi hinaus - fest. ?
+F$Smic 4/371/427/427
+G$X/Komune/Ragusa/Ragusa//
+E$Johannes Justinianus/X/Ragusa/Ragusa?//
+H$EinkÅnfte/EinkÅnfte/Ragusa/Ragusa//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$400/yperperus/X/Z
+Q$libras ducentas octuaginta denariorum Venetorum supra quadringentos yperperos
+
+DOK$MHH_197/1250.0.0/1299.0.0/1250 - 1299/datum in octava passce?/X/X//
+S$X/X/X
+V$X/X/X
+K$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen, von welchen
+Petrus dem Grafen 4 Mark bezahlte. 3 Mark verpflichtete er sich dem Grafen am
+vierten Tag nach St. Georg bei Pîn des Verlustes der bereits bezahlten vier Mark
+zu bezahlen. Die restlichen 3 Mark soll er an den Quindena desselben Festes
+bezahlen. Zahlt er nicht, verfÑllt das bereits Bezahlte.
+Wenn Petrus bis zu St. Michael den Zehnten des vergangenen Jahres von Aruckuz
+zustandebringt, soll er sie zu Handen des Grafen bestimmen. ?
+Wenn er den Zehnten nicht zahlen kann, wird der Graf den Teil der Schuld in der
+Hîhe von 5 Mark erlassen, den anderen Teil aber ist Petrus zu zahlen
+verpflichtet.                                               ?
+
+REG$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen.
+F$MHH/197/167f/167
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$illas quatuordecim marcas \dots sibi solvere debebat
+
+REG$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen.
+F$MHH/197/167f/168
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Schulden_Nachla·/Geldsumme/unbestimmt/unbestimmt//
+W$Wien?/X/
+O$10/marca/X
+Z$X/X/X
+M$X/den./ultra Rabam currens/A
+Q$relaxavit \dots in decem marcis denariorum wltra Raba(m) currencium
+
+REG$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen, von welchen
+Petrus dem Grafen 4 Mark bezahlte.
+F$MHH/197/167f/168
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$solvit \dots quatuor marcas
+
+REG$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen, von welchen
+Petrus dem Grafen 4 Mark bezahlte. 3 Mark verpflichtete er sich dem Grafen am
+vierten Tag nach St. Georg bei Pîn des Verlustes der bereits bezahlten vier Mark
+zu bezahlen.
+F$MHH/197/167f/168
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$tres marcas obligavit se \dots soluturum
+
+REG$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen, von welchen
+Petrus dem Grafen 4 Mark bezahlte. 3 Mark verpflichtete er sich dem Grafen am
+vierten Tag nach St. Georg bei Pîn des Verlustes der bereits bezahlten vier Mark
+zu bezahlen.
+F$MHH/197/167f/168
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ita ut si crastinaverit solutas quatuor marcas amitteret
+
+REG$Das Kapitel des Klosters St. Michael zu Eisenburg beurkundet, da· Graf Bana
+jene 14 Mark, die ihm Peter, der Sohn des Meynul, schuldete, diesem nachgelassen
+? hat, nÑmlich auf 10 Mark Pfennige, die jenseits der Raab umlaufen, von welchen
+Petrus dem Grafen 4 Mark bezahlte. 3 Mark verpflichtete er sich dem Grafen am
+vierten Tag nach St. Georg bei Pîn des Verlustes der bereits bezahlten vier Mark
+zu bezahlen. Die restlichen 3 Mark soll er an den Quindena desselben Festes zu
+bezahlen.
+F$MHH/197/167f/168
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Wltimas tres marcas solvet
+
+REG$Wenn Petrus bis zu St. Michael den Zehnten des vergangenen Jahres von Aruckuz
+in der Hîhe von 5 Mark zustandebringt, soll er sie zu Handen des Grafen Bana
+bestimmen. ?
+F$MHH/197/167f/168
+G$Peter/X/X/X//
+E$Bana/Graf/X/X//
+H$Zehnten/Immobilien/Aruckuz/Aruckuz//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quinque marcas exigere poterit
+
+REG$Wenn Petrus den Zehnten des vergangenen Jahres von Aruckuz nicht zahlen kann,
+wird Graf Bana den einen Teil der Schuld in der Hîhe von 5 Mark erlassen, den
+anderen Teil aber ist Petrus zu zahlen verpflichtet.              ?
+F$MHH/197/167f/168
+G$Bana/Graf/X/X//
+E$Peter/X/X/X//
+H$Schulden_Nachla·/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$partem dampni illarum V marcarum Bana tolerabit
+
+DOK$FRAII11_003/1233.10.1/1233.10.1/1233 Oktober 1/anno ab incarnacione domini MCCXXXIII.
+indictione VI. kalendis Octobris/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn erlÑ·t nachtrÑglich einige erlÑuternde
+Bestimmungen Åber den der Abtei Marienberg in Ungarn von ihm zugestandenen
+Salzbezug bei der kîniglichen Saline ôdenburg.
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit der Abtei Marienberg in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September um eine Mark je
+100 Salzsteine, wenn sie vom Kloster nicht benîtigt werden, einlîsen kann.
+F$FRA II 11/003/295f/295
+F$BgldUB 1/199/146ff/147
+G$Andreas II./Kînig/Ungarn/Ungarn//wo??
+E$X?/Abtei/Marienberg/Marienberg//Bgld,î.Mannersdorf?/
+H$RÅckkauf/Lebensmittel_Steinsalz/ôdenburg/ôdenburg//Ungarn,Sopron/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvi argentum pro salibus, quos apud vos habebitis, pro singulis centum
+Zuanis unam marcam
+B$FÑlschung
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit der Abtei Marienberg in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember um eine Mark in guten Friesacher Pfennigen oder in gut
+14lîtigem Silber je 100 Salzsteine, wenn sie vom Kloster nicht benîtigt werden,
+einlîsen kann.
+F$FRA II 11/003/295f/296
+F$BgldUB 1/199/146ff/147
+G$Andreas II./Kînig/Ungarn/Ungarn//wo??
+E$X/Abtei/Marienberg/Marienberg//Bgld,î.Mannersdorf?/
+H$RÅckkauf/Lebensmittel_Steinsalz/ôdenburg/ôdenburg//Ungarn,Sopron/
+W$Friesach/X
+O$X/X/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$1 Mark Friesacher Pf./1 Mark 14lîtiges Silber
+Q$argentum \dots in bonis Frisitaticis, vel in argento, cuius decima pars
+conburetur
+B$FÑlschung
+
+DOK$MGHScr5_26*/1189.6.5/1189.6.23/1189 nach Juni 4 vor
+Juni 24/X/Gran/Gran (bei oder sÅdl.)//Ungarn/
+S$X/X/X?
+V$X/X/X?
+K$Auf dem Kreuzzug Kaiser Friedrichs I. wurden die durchziehenden Kreuzfahrer
+von den Ungarn beim Geldwechsel arg bedrÅckt.
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Kreuzfahrer/X/X?//
+E$X/Geldwechsler/Ungarn/Ungarn//wo??
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Kîln/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+A$2 Kîlner Pf./5 Ungarische Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Geldwechsler/Ungarn/Ungarn//wo??
+E$X/Kreuzfahrer/X/X?//
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Ungarn?/X
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+A$5 Ungarische Pf./2 Kîlner Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Kreuzfahrer/X/X?//
+E$X/Geldwechsler/Ungarn/Ungarn//wo??
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Friesach/X
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+A$2 Friesacher Pf./4 Ungarische Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Geldwechsler/Ungarn/Ungarn//wo??
+E$X/Kreuzfahrer/X/X?//
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Ungarn?/X
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+A$4 Ungarische Pf./2 Friesacher Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Kreuzfahrer/X/X?//
+E$X/Geldwechsler/Ungarn/Ungarn//wo??
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/X
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+A$1 Regensburger Pf./1 Ungarischer Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Geldwechsler/Ungarn/Ungarn//wo??
+E$X/Kreuzfahrer/X/X?//
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Ungarn?/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+A$1 Ungarischer Pf./1 Regensburger Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Kreuzfahrer/X/X?//
+E$X/Geldwechsler/Ungarn/Ungarn//wo??
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Krems/X
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+A$1 Kremser Pf./1 Ungarischer Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Geldwechsler/Ungarn/Ungarn//wo??
+E$X/Kreuzfahrer/X/X?//
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Ungarn?/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+A$1 Ungarischer Pf./1 Kremser Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Geldwechsler/Ungarn/Ungarn//wo??
+E$X/Kreuzfahrer/X/X?//
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+A$1 Veroneser Pf./1 Ungarischer Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+REG$Die Kreuzfahrer wechseln bei den Ungarn fÅr 2 Kîlner 5, fÅr 2 Friesacher 4
+Ungarische Pfennige und fÅr einen Regensburger oder Kremser einen Ungarischen
+Pfennig, der kaum einem Veroneser an Wert gleichkommt.
+F$MGH Scr 5/26*/26/26?
+F$Tageno,UB Graz,Cod.411/X/Fol.146/X
+G$X/Geldwechsler/Ungarn/Ungarn//wo??
+E$X/Kreuzfahrer/X/X?//
+H$Geldwechsel/Geldsumme/unbestimmt/unbestimmt//
+W$Ungarn/X
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+A$1 Ungarischer Pf./1 Veroneser Pf.
+Q$quippe qui pro duobus Coloniensibus quinque tantum suos et pro duobus
+Frisacensibus quatuor dabant Ungaricos denarios et pro Ratisponsense seu
+Chremsense unum tantum Ungaricum qui vix Veronensem valebat
+
+
+
+DOK$BgldUB1_125/1222.0.0/1222.0.0/um 1222/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Bors setzt im Einvernehmen mit Abt und Konvent des Klosters Marienberg
+die Abgaben der GÅter Mannersdorf und Prîssing fest.
+
+REG$Graf Bors setzt im Einvernehmen mit Abt und Konvent des Klosters Marienberg
+die Abgaben der GÅter Mannersdorf und Prîssing fest. Je Behausung mÅssen unter
+anderem 30 Friesacher oder ôsterreichische? Pfennige bezahlt werden, von denen
+zwei Pfennige fÅr einen Friesacher getauscht werden.
+F$BgldUB 1/125/89f/90
+F$Fejer CDH III 1/X/367/367
+F$Fejer CDH VII 2/446/206/206?
+G$X/X/X/X//
+G$X?/Kloster/Marienberg/Marienberg//Bgld,î.Mannersdorf?/
+E$Bors/Graf/X/X?//
+H$Abgabe/Immobilien/Mannersdorf/Mannersdorf//Bgld,n.GÅns/
+H$Abgabe/Immobilien/Prîssing/Prîssing/ungar.Peresznye/Ungarn,nw.Csepreg/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$30/X/X/Z
+Q$de singulis mansionibus solverentur XXX Frisatici sive denarii Australes,
+ex quibus commutantur duo denarii pro uno Frisatico
+
+REG$Graf Bors setzt im Einvernehmen mit Abt und Konvent des Klosters Marienberg
+die Abgaben der GÅter Mannersdorf und Prîssing fest. Je Behausung mÅssen unter
+anderem 30 Friesacher oder ôsterreichische? Pfennige bezahlt werden, von denen
+zwei Pfennige fÅr einen Friesacher getauscht werden.
+F$BgldUB 1/125/89f/90
+F$Fejer CDH III 1/X/367/367?
+F$Fejer CDH VII 2/446/206/206?
+G$X/X/X/X//
+G$X?/Kloster/Marienberg/Marienberg//Bgld,î.Mannersdorf?/
+E$Bors/Graf/X/X?//
+H$Abgabe/Immobilien/Mannersdorf/Mannersdorf//Bgld,n.GÅns/
+H$Abgabe/Immobilien/Prîssing/Prîssing/ungar.Peresznye/Ungarn,nw.Csepreg/
+W$Wien/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Wiener Pf./1 Friesacher Pf.
+Q$de singulis mansionibus solverentur XXX Frisatici sive denarii Australes
+ex quibus commutantur duo denarii pro uno Frisatico
+
+REG$Graf Bors setzt im Einvernehmen mit Abt und Konvent des Klosters Marienberg
+die Abgaben der GÅter Mannersdorf und Prîssing fest. Je Behausung mÅssen unter
+anderem 30 Friesacher oder ôsterreichische? Pfennige bezahlt werden, von denen
+zwei Pfennige fÅr einen Friesacher getauscht werden.
+F$BgldUB 1/125/89f/90
+F$Fejer CDH III 1/X/367/367?
+F$Fejer CDH VII 2/446/206/206?
+G$X/X/X/X//
+G$X?/Kloster/Marienberg/Marienberg//Bgld,î.Mannersdorf?/
+E$Bors/Graf/X/X?//
+H$Abgabe/Immobilien/Mannersdorf/Mannersdorf//Bgld,n.GÅns/
+H$Abgabe/Immobilien/Prîssing/Prîssing/ungar.Peresznye/Ungarn,nw.Csepreg/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$1/X/X/Z
+A$1 Friesacher Pf./2 Wiener Pf.
+Q$de singulis mansionibus solverentur XXX Frisatici sive denarii Australes
+ex quibus commutantur duo denarii pro uno Frisatico
+B$Koch, GrundzÅge einer mittelalterlichen WÑhrungsgeographie ôsterreichs, sagt
+nichts Åber die "Australes", Luschin, Erblande bis 1500,? fa·t sie als andere
+Bezeichnung fÅr "Viennensis" auf.
+
+DOK$BgldUB1_269/1239.6.0/1239.6.0/1239 Juni/anno domini MCCXXXVIIII. mense iunii/Bruck a.d.Leitha/Bruck a.d.Leitha//Nô/
+S$Helwig/Heiligenkreuz/Helwig?
+V$Heinrich/X/Heinrich
+K$Die Gro·neffen des Palatins Poth, Maurus und Konrad, stellen den schon von
+ihren Vorfahren dem Kloster Heiligenkreuz Åbergebenen Besitz in Winden zurÅck,
+den sie vorher an Siboto von Winden verpfÑndet hatten, dessen AnsprÅche das
+Kloster ablîst.
+
+REG$Die Gro·neffen des Palatins Poth, Maurus und Konrad, hatten dem Siboto von
+Winden den Besitz in Winden, den schon ihre Vorfahren dem Kloster Heiligenkreuz
+Åbergeben hatten, fÅr 12 Mark Silber verpfÑndet.
+F$BgldUB 1/269/192f/193
+F$FRA II 11/88/100/100
+G$Siboto/Genannter/Winden/Winden//Bgld,w.Neusiedl a.See/
+E$Maurus;Konrad/X/X/X//
+H$PfandgeschÑft/Immobilien/Winden/Winden//Bgld,w.Neusiedl a.See/
+W$X/X
+O$12/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$obligaverant \dots pro XII marcis argenti
+
+REG$Maurus und Konrad, die Gro·neffen des Palatins Poth, hatten dem Siboto von
+Winden den Besitz in Winden, den schon ihre Vorfahren dem Kloster Heiligenkreuz
+Åbergeben hatten, verpfÑndet. Die BrÅder des Klosters zahlen dem Siboto die 12
+Mark Silber Wiener Gewichts, fÅr welche ihm der Teil der genannten villa?
+verpfÑndet worden ist, mit Erlaubnis der Grafen, um den Besitz zurÅckzukaufen.
+F$BgldUB 1/269/192f/193
+F$FRA II 11/88/100/100
+G$X/Kloster/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+E$Siboto/Genannter/Winden/Winden//Bgld,w.Neusiedl a.See/
+H$Pfand_Auslîsung/Immobilien/Winden/Winden//Bgld,w.Neusiedl a.See/
+W$Wien/pondus
+O$12/marca/X
+Z$X/X/X
+M$X/argentum/purum/A
+Q$XII marcis puri argenti Wiennensis ponderis \dots persolverunt
+
+REG$Maurus und Konrad, die Gro·neffen des Palatins Poth, hatten dem Siboto von
+Winden den Besitz in Winden, den schon ihre Vorfahren dem Kloster Heiligenkreuz
+Åbergeben hatten, verpfÑndet. Die BrÅder des Klosters zahlen dem Siboto 5
+Talent fÅr den Dienst eines Jahres unter der Bedingung, da· er kein Recht mehr
+am Besitz habe.
+F$BgldUB 1/269/192f/193
+F$FRA II 11/88/100/100
+G$X/Kloster/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+E$Siboto/Genannter/Winden/Winden//Bgld,w.Neusiedl a.See/
+H$Ablîse_Dienstverpflichtung?/Immobilien/Winden/Winden//Bgld,w.Neusiedl a.See/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro servitio illius anni V talenta \dots exsolverunt
+
+REG$Maurus und Konrad, die Gro·neffen des Palatins Poth, hatten dem Siboto von
+Winden den Besitz in Winden, den schon ihre Vorfahren dem Kloster Heiligenkreuz
+Åbergeben hatten, verpfÑndet. Die BrÅder des Klosters zahlen dem Siboto 10
+Talent fÅr den verpfÑndeten Teil des Waldes unter der Bedingung, da· er kein
+Recht mehr am Besitz habe.
+F$BgldUB 1/269/192f/193
+F$FRA II 11/88/100/100
+G$X/Kloster/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+E$Siboto/Genannter/Winden/Winden//Bgld,w.Neusiedl a.See/
+H$Pfand_Auslîsung/Immobilien/Winden/Winden//Bgld,w.Neusiedl a.See/
+W$X/X/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro parte silve, que ipsum iure obligationis contingebat, X talenta \dots
+exsolverunt
+
+DOK$BgldUB1_298/1244.10.28/1244.10.28/1244 Oktober 28/anno dominice incarnacionis MCCXLIV. V.
+kal. novembris, regni autem nostri anno
+decimo/Komorn/Komorn,bei/ung.Kom†rom/Kom.Camarun/
+S$X/X/X
+V$X/X/X
+K$Kînig B\'ela IV. verleiht den GÑsten von Kîrmend freie Wahl des Richters und
+Zollfreiheit in den Komitaten Eisenburg und Zala, erlÑ·t verschiedene straf- und
+zivilrechtliche Bestimmungen und bedingt sich dafÅr die Stellung eines durch je
+15 Behausungen voll ausgerÅsteten Panzerreiters bei allen KriegszÅgen aus, an
+denen der Kînig selbst teilnimmt.
+
+REG$Kînig B\'ela IV. verleiht den GÑsten von Kîrmend freie Wahl des Richters und
+Zollfreiheit in den Komitaten Eisenburg und Zala und erlÑ·t verschiedene straf-
+und zivilrechtliche Bestimmungen. So wird ein Dieb,
+dessen Beute einen Wert von 60 Friesachern erreicht?, gehÑngt.
+F$BgldUB 1/298/210f/211
+F$Hazai okm. 6/29/42/42?  CDpatrius
+G$X/X/X/X//
+E$X?/Dieb/Kîrmend/Kîrmend//Ungarn/
+H$Wertangabe_Diebsgut/Mobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$60/X/X/Z
+Q$cuisus furtum valorem sexaginta Frisaticos transcendit
+
+REG$Kînig B\'ela IV. verleiht den GÑsten von Kîrmend freie Wahl des Richters und
+Zollfreiheit in den Komitaten Eisenburg und Zala und erlÑ·t verschiedene straf-
+und zivilrechtliche Bestimmungen. So wird jemand, der das Haus seines MitbÅrgers
+mit Waffengewalt ÅberfÑllt, zu zehn Mark verurteilt.
+F$BgldUB 1/298/210f/211
+F$Hazai okm. 6/29/42/42?  CDpatrius
+G$X/X/X/X//
+E$X?/Dieb/Kîrmend/Kîrmend//Ungarn/
+H$Wertangabe_Diebsgut/Mobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$60/X/X/Z
+Q$cuisus furtum valorem sexaginta Frisaticos transcendit
+
+DOK$BgldUB1_301/1245.4.8/1245.4.8/1245 April 8/anno ab incarnacione domini MCCXLV. VI. idus
+aprilis/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Deutsche Orden kauft vom Wiener-NeustÑdter BÅrger Ezelin alle EinkÅnfte,
+die dieser vom Grafen Peter in Alrams besitzt, und sichert dem Grafen eine
+jÑhrliche Zahlung von einem halben Pfund, Unterstellung der Untertanen unter
+dessen Dorfrichter und Verkauf nur bei seiner Zustimmung zu.
+
+REG$Der Deutsche Orden kauft vom Wiener-NeustÑdter BÅrger Ezelin alle EinkÅnfte,
+die dieser vom Grafen Peter in Alrams besitzt, und sichert dem Grafen einen
+jÑhlrichen Zins in der Hîhe von einem halben Pfund Wiener MÅnze zu.
+F$BgldUB 1/301/212f/212
+F$Fejer CDH VII 1/239/292/292 ?
+G$X/Deutscher Orden/Jerusalem/Jerusalem?//au·erhalb/
+E$Peter/Graf/X/?// wo??
+H$Zinsverpflichtung/Immobilien/Alrams/Alrams//Bgld,WÅstung b.Neudîrfl/
+W$Wien/moneta/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis \dots dimidium talentum Wiennensis monete dicto comiti
+persolvamus
+
+DOK$BgldUB1_325/1250.5.2/1250.5.2/1250 Mai 2/anno domini MCCL. VI. non. Maii/Bruck a.d.Leitha/Bruck a.d.Leitha//Nô/
+S$X/X/X
+V$X/X/X
+K$Heinrich Schenk von Ha·bach beurkundet einen Vergleich zwischen Abt Berthold
+und dem Konvent von Heiligenkreuz und der Frau Agnes von Sebenstein Åber
+strittige GÅter bei Wilfleinsdorf jenseits der Leitha.
+
+REG$Heinrich Schenk von Ha·bach beurkundet einen Vergleich zwischen Abt Berthold
+und dem Konvent von Heiligenkreuz und der Frau Agnes von Sebenstein Åber
+strittige GÅter bei Wilfleinsdorf jenseits der Leitha, wonach der Abt und der
+Konvent Agnes von Sebenstein 10 Talent Wiener MÅnze zahlen, wofÅr diese auf alle
+Rechte in genannten GÅtern verzichtet.
+F$BgldUB 1/325/226f/226
+F$FRA II 11/113/119f/119
+G$Berthold/Abt/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+G$X/Konvent/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+E$Agnes/Genannte/Seebenstein/Seebenstein/Sebenstein/Nô,Burg sw.Pitten/
+H$Verzicht/Immobilien/Wilfleinsdorf/Wilfleinsdorf,bei//Nô,sw.Bruck a.d.Leitha/
+W$Wien/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$abbas et conventus persolverunt memorate domine Agneti X talenta Wiennensis
+monete
+
+DOK$FRAII11_071/1233.10.1/1233.10.1/1233 Oktober 1/anno dominice incarnationis MCCXXXIII.
+indictione VI. kalendis Octobris/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt wiederholt die der Abtei Heiligenkreuz
+von seinen Vorfahren und ihm selbst verliehenen BezÅge von dem Salzamt
+bei der kîniglichen Saline ôdenburg, jedoch unter AbÑnderung einiger UmstÑnde.
+
+REG$Kînig Andreas II. von Ungarn bestÑtigt wiederholt die der Abtei Heiligenkreuz
+da· er im ersten Termin vom 27. August bis zum 8. September um eine Mark je
+100 Salzsteine, wenn sie vom Kloster nicht benîtigt werden, einlîsen kann.
+F$FRA II 11/071/82ff/83
+F$Wenzel CD Arpad. 6/184/302ff/303
+G$Andreas II./Kînig/Ungarn/Ungarn//wo??
+E$X/Abtei/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+H$RÅckkauf/Lebensmittel_Steinsalz/ôdenburg/ôdenburg?/ungar.Sopron/Ungarn/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvi argentum pro salibus, quos tunc apud vos habebitis, pro singulis centum
+zuanis unam marcam
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit der Abtei Heiligenkreuz,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember um eine Mark in guten Friesacher Pfennigen oder in gut
+14lîtigem Silber je 100 Salzsteine, wenn sie vom Kloster nicht benîtigt werden,
+einlîsen kann.
+F$FRA II 11/071/82ff/83
+F$Wenzel CD Arpad. 6/184/302ff/303
+G$Andreas II./Kînig/Ungarn/Ungarn//wo??
+E$X/Abtei/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+H$RÅckkauf/Lebensmittel_Steinsalz/ôdenburg/ôdenburg?/ung.Sopron/Ungarn/
+W$Friesach/X
+O$X/X/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$1 Mark Friesacher Pf./1 Mark 14lîtiges Silber
+Q$argentum \dots in bonis Frisitaticis, vel in argento, cuius decima pars
+conburetur
+
+DOK$FRAII11_116/1250.0.0/1250.0.0/ca. 1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Richter und Rat der Stadt Neustadt beurkunden, da· ihr MitbÅrger Wernhard der
+Schmid und seine Hausfrau Bertha der Abtei Heiligenkreuz ihren Weingarten zu
+Gumpoldskirchen im Falle ihres Todes vermacht hÑtten.
+
+REG$Richter und Rat der Stadt Neustadt beurkunden, da· die Erben Hugos von
+V\e{o}osendorf alle Rechte, die sie an dessen Weingarten zu Gumpoldskirchen
+hatten, dem Schmied Wernhard und seiner Hausfrau Bertha um 10 Talent Pfennige
+Wiener MÅnze verkauft haben.
+F$FRA II 11/116/121f/121
+G$Wernhard/Schmied/Wr.Neustadt/Wr.Neustadt//Nô?/
+E$Hugo?/Erben/Vîsendorf/Vîsendorf//Nô?/
+H$Kauf/Immobilien_Weingarten/Gumpoldskirchen/Gumpoldskirchen//Nô?/
+W$Wien/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro decem talentis denariorum monete Wienennensis
+
+DOK$FRAII11_A5/1238.0.0/1238.0.0/1238?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gerichtsrotel Åber sÑmtliche Verhandlungen in der Streitsache der Abtei
+Heiligenkreuz gegen Ritter Werner von Ofen (Pest), wegen gewisser Besitzungen zu
+Baumgarten in ôsterreich.
+
+REG$Toschelo und Syboto Åbernehmen die BÅrgschaft, da· Ritter Werner von Ofen
+(Pest) am vereinbarten Ort und zum vereinbarten Termin erscheint, ?
+andernfalls sie der Abtei Heiligenkreuz 10 Pfund Wiener Strafe zahlen werden.
+F$FRA II 11/A5/297ff/306
+F$Wenzel CD Arpad. 7/070/113ff/124
+G$Tolschelo;Syboto/X/X/X/
+E$X/Abtei/Heiligenkreuz/Heiligenkreuz//Nô,b.Baden/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Wien/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$decem libras Wiennenses nomine pene solvere promiserunt
+
+
+DOK$CDS1_156/1209.0.0/1209.0.0/1209/anno ab incarnatione domini MCCnono, regni nostri anno
+quinto/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn schenkt Demetrio de Rascha, dem Ober- ?
+Mundschenk der Kînigin, den Zoll in Pe\v{c}ovska Nov\'a Ves, um die Burg
+\v{S}ari\v{s}sk\'y Novohrad zu erhalten, die schon seine VorgÑnger geschenkt
+hatten, von neuem und bestÑtigt die Schenkung.
+
+REG$Zoll an Demetrio de Rascha in der Hîhe von einem Schilling, der von jedem zu
+entrichten ist.
+F$CDS 1/156/123f/124
+F$Fejer CDH III 1/X/78/78?
+G$X/X/X/X//
+E$Demetrio/Genannter/Rascha/Rascha//
+H$Zoll/Menschen?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$a qualibet anima pro theoloneo solvatur unus solidus
+B$FÑlschung.
+
+REG$Zoll an Demetrio de Rascha in der Hîhe von einem Prager Groschen, der von
+jedem Wagen zu entrichten ist.
+F$CDS 1/156/123f/124
+F$Fejer CDH III 1/X/78/78?
+G$X/X/X/X//
+E$Demetrio/Genannter/Rascha/Rascha//
+H$Zoll/Wagen?/unbestimmt/unbestimmt//
+W$Prag/X/
+O$X/X/X
+Z$X/X/X
+M$1/grossus/X/Z
+Q$a quolib[et ve]ro curru unus grossus Pragensis
+B$FÑlschung.
+
+REG$Zoll an Demetrio de Rascha in der Hîhe von einem Prager Groschen, der von
+jedem BÅndel oder Kiste zu entrichten ist.
+F$CDS 1/156/123f/124
+F$Fejer CDH III 1/X/78/78?
+G$X/X/X/X//
+E$Demetrio/Genannter/Rascha/Rascha//
+H$Zoll/BÅndel?/unbestimmt/unbestimmt//
+W$Prag/X/
+O$X/X/X
+Z$X/X/X
+M$1/grossus/X/Z
+Q$a mercanticia vero a qualibet ligatura, vase, cista sive nodo unus grossus
+Pragensis
+B$FÑlschung.
+
+DOK$CDS1_190/1214.0.0/1214.0.0/1214/anno ab incarnatione domini MCCXIV. regni nostri anno
+nono/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn bestÑtigt die GrÅndung einer Propstei ?
+der PrÑmonstratenser in Lelez durch Boleslaus, den Bischof von V\'ac, und
+zÑhlt die GÅter auf, die durch den Bischof selbst der gegrÅndeten Propstei
+geschenkt worden sind, weil der alte Vertrag des Boleslaus, des Bischofs von
+V\'ac, durch die Urkunde Kînig Bela III. von Ungarn  zur Zeit Kînig
+Emerichs I. von Ungarn aufgezeichnet worden ist, verloren worden war. FÅr das
+Seelenheil seiner Frau Gertrud schenkt Andreas der Propstei noch ?andere GÅter.
+                                                                  welche?
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez die
+villa de Arpa mit 40 Huben und 30 Mark Silber.
+F$CDS 1/190/144ff/146
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$X/Propstei/Lelez/Lelez//
+H$Schenkung/Geldsumme?/unbestimmt/unbestimmt//
+W$X/X
+O$30/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$triginta marcas argenti \dots contulit
+B$FÑlschung.
+
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez
+das Gut Gyures, das er von den Sîhnen des Vitalis, Chaka und Stephan,
+fÅr 15 Mark gekauft hatte.
+F$CDS 1/190/144ff/146
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$Chaka;Stephan/X/X/X//
+H$Kauf/Immobilien/MalyHores Gyures/Maly Hores,Gyures/Gyures/
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quod emerat \dots pro quindecim marcis
+B$FÑlschung.
+
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez
+Land, das er von Graf Hunto fÅr 83 Mark und 17 Gewicht? und 2 Friesacher gekauft
+hat.
+F$CDS 1/190/144ff/146
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$Hunto/Graf/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$83/marca/X
+O$17/pondus?/X
+Z$X/X/X
+M$X/X/X/A
+Q$terram \dots pro octuaginta tribus marcis et decem et septem ponderibus et
+duobus frisaticis emptam
+B$FÑlschung.
+
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez
+Land, das er von Graf Hunto fÅr 83 Mark und 17 Gewicht? und 2 Friesacher gekauft
+hat.
+F$CDS 1/190/144ff/146
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$Hunto/Graf/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/X/X/A
+Q$terram \dots pro octuaginta tribus marcis et decem et septem ponderibus et
+duobus frisaticis emptam
+B$FÑlschung.
+
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez
+das Gut Zolunta, das er fÅr 82 Mark gekauft hat.
+F$CDS 1/190/144ff/146
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$X/X/X/X//
+H$Kauf/Immobilien/Zolunta/Zolunta//
+W$X/X/
+O$82/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Predium \dots pro octuaginta duabus marcis
+B$FÑlschung.
+
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez
+Land, das er von Elwin?, dem Bischof von Vara\v{z}din, fÅr 400 Mark Silber
+erworben hat.
+F$CDS 1/190/144ff/148
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$Elwin?/Bischof/Varazdin/Vara\v{z}din//Kroatien
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro quadringentis marcis argenti
+B$FÑlschung.
+
+REG$Bischof Boleslaus von V\'ac schenkt der neugegrÅndeten Propstei in Lelez?
+den Teil der Abgaben von Bors, den er von seinem Ñlteren Bruder Antonius
+fÅr 140 Mark erworben hat.
+F$CDS 1/190/144ff/148
+F$Fejer CDH III 1/X/153;471/?
+F$Fejer CDH VII 5/X/204/?
+G$Boleslaus/Bischof/Vac/V\'ac//
+E$Antonius/X/X/X//
+H$Kauf/Abgaben/Bors/Bors//
+W$X/X/
+O$140/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum et quadraginta marcis
+B$FÑlschung.
+
+DOK$CDS1_407/1233.8.20/1233.8.20/1233 August 20/anno ab incarnacione domini nostri Ihesu
+Christi MCCXXXIII. pontificatus domini Gregorii pape noni anno VII. die
+duodecimo exeunte augusto/unbestimmt Bereg ,in silva/unbestimmt Bereg,in
+silva//
+S$X/X/X
+V$X/X/X
+K$Kînig Andreas II. von Ungarn verpflichtet sich mit seinen Magnaten und
+Vasallen in Gegenwart von mehreren KirchenfÅrsten und Edlen des Kînigreichs und
+Bischof BartholomÑus von Veszpr\'em und Magister Cognoscens?, dem Kanoniker von
+Gran, Nuntius und Kaplan Jakobs, des ErwÑhlten von Palestrina und Gesandten des
+apostolischen Stuhls, gegenÅber diesem Gesandten dazu, die Rechte der Kirchen zu
+bewahren.
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· diese Salz im ersten Termin vom 20. August bis zum 8. September und im
+zweiten vom 6. bis zum 21. Dezember um Silber in guten Friesacher Pfennigen
+oder in gut 14lîtigem Silber verkaufen sollen.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$X/SalzverkÑufer/X/X/
+E$X/Kirche/X/X//?
+H$Kauf/Lebensmittel_Salz/unbestimmt/unbestimmt//
+W$Friesach/X
+O$X/X/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$1 Mark Friesacher Pf./1 Mark 14lîtiges Silber
+Q$argentum \dots in bonis Frisaticis, vel in argento, cuius decima pars
+conburetur
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· diese Salz im ersten Termin vom 20. August bis zum 8. September und im
+zweiten vom 6. bis zum 21. Dezember um Silber in guten Friesacher Pfennigen
+oder in gut 14lîtigem Silber verkaufen sollen, wobei der Preis 8 Mark pro
+tumino Salz betragen soll.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$X/SalzverkÑufer/X/X//
+E$X/Kirche/X/X//
+H$Kaufpreis/Lebensmittel_Salz/unbestimmt/unbestimmt//
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Precia vero salium sunt hec, quod pro quolibet tymino salium aquaticorum
+persolventur ecclesiis octo marce
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er Salz im ersten Termin vom 27. August bis zum 8. September und im zweiten
+vom 6. bis zum 21. Dezember um Silber in guten Friesacher Pfennigen oder in
+gut 14lîtigem Silber einlîsen kann, wobei er dem Hospital von Jerusalem? und den
+Kirchen von Kalocsa und Ba\v{c} 10 Mark pro tumino Salz geben wird, wenn die
+Kirchen es bis nach Szeged oder weiter bringen.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirche/Kalocsa;Bac/Kalocsa;Ba\v{c}//
+E$X/Hospital/Jerusalem/Jerusalem//
+H$RÅckkauf/Lebensmittel_Salz/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$domo hospitalis Ierosolimitani et ecclesiis Colocensi et Bachiensi, quibus pro
+quolibet timino dabimus decem marcas
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er Salz im ersten Termin vom 27. August bis zum 8. September und im zweiten
+vom 6. bis zum 21. Dezember um Silber in guten Friesacher Pfennigen oder in
+gut 14lîtigem Silber einlîsen kann, wobei er dem Hospital von Jerusalem? und den
+Kirchen von Kalocsa und Ba\v{c} 10 Mark pro tumino Salz geben wird, wenn die
+Kirchen es bis nach Szeged bringen, sonst 8 Mark.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirche/Kalocsa;Bac/Kalocsa;Ba\v{c}//
+E$X/Hospital/Jerusalem/Jerusalem?//
+H$RÅckkauf/Lebensmittel_Salz/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$alioquin octo marcas habebunt
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten
+vom 6. bis zum 21. Dezember Salz um Silber in guten Friesacher Pfennigen oder in
+gut 14lîtigem Silber einlîsen kann, wobei er dem Kloster von Cheb
+26 Mark pro tumino Salz geben wird, wenn diese mehr liefern?.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Egres/Egres/Cheb/ Egrus
+H$RÅckkauf/Lebensmittel_Salz/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$26/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$viginti sex marcas pro quolibet timino
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten
+vom 6. bis zum 21. Dezember Salz um Silber in guten Friesacher Pfennigen oder in
+gut 14lîtigem Silber einlîsen kann, wobei er dem Kloster von Arad
+25 Mark pro tumino Salz geben wird, wenn diese mehr liefern?.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kloster/Arad/Arad//
+H$RÅckkauf/Lebensmittel_Salz/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$viginti quinque similiter pro quolibet timino
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz um eine Mark je 100 Salzsteine einlîsen kann,
+wenn sie es in ihrem Gebiet ? haben.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/unbestimmt/unbestimmt?//
+H$Kauf/Lebensmittel_Steinsalz/unbestimmt/unbestimmt?//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$unam marcam pro centum zuanis
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz um eine Mark je 100 Salzsteine einlîsen kann,
+dem Kloster St. Gotthard zahlt er aber eine Mark fÅr je 80 Salzsteine.
+F$CDS 1/407/295ff/296
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Kirchen/unbestimmt ?/unbestimmt//
+H$Kauf/Lebensmittel_Steinsalz/unbestimmt ?/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro octoginta zuanis dabimus unam marcam
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz Salz einlîsen kann. FÅr den Entgang an
+EinkÅnften, da ihnen Salz eingelîst wurde, zahlt er den Kirchen 10 000 Mark in
+fÅnf Jahren.
+F$CDS 1/407/295ff/297
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Bischof/Mako/Mak\'o// Cenadiensis
+E$X/Abt/Gyîr St.Martin de Pannonia/Gyîr,St.Martin de Pannonia//Gyîr Pannonhalma
+E$X/Abt/Egres/Egres/Cheb/ Igris in Romania
+H$Ablîse/EinkÅnfte_Salz/unbestimmt/unbestimmt?//  Schadenersatz
+W$X/X/
+O$10000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$persolvemus decem milia marcarum per quinque annos continuos
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz Salz einlîsen kann. FÅr den Entgang an
+EinkÅnften, da ihnen Salz eingelîst wurde, zahlt er den Kirchen 10 000 Mark in
+fÅnf Jahren und zwar je 1000 Mark am 8.9. und 21.12. jeden Jahres.
+F$CDS 1/407/295ff/297
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Bischof/Mako/Mak\'o//
+E$X/Abt/Gyîr St.Martin de Pannonia/Gyîr,St.Martin de Pannonia// Pannonhalma
+E$X/Abt/Egres/Egres/Cheb/
+H$Ablîse_Teilzahlung/EinkÅnfte_Salz/unbestimmt/unbestimmt?//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvemus mille marcas
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz Salz einlîsen kann. FÅr den Entgang an
+EinkÅnften, da ihnen Salz eingelîst wurde, zahlt er den Kirchen 10 000 Mark in
+fÅnf Jahren und zwar je 1000 Mark am 8.9. und 21.12. jeden Jahres.
+F$CDS 1/407/295ff/297
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Bischof/Mako/Mak\'o//
+E$X/Abt/Gyîr St.Martin de Pannonia/Gyîr,St.Martin de Pannonia//
+E$X/Abt/Egres/Egres/Cheb/
+H$Ablîse_Teilzahlung/EinkÅnfte_Salz/unbestimmt/unbestimmt?//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvemus \dots mille marcas alias
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz Salz einlîsen kann. FÅr den Entgang an
+EinkÅnften, da ihnen Salz eingelîst wurde, zahlt er den Kirchen 10 000 Mark in
+fÅnf Jahren und zwar je 1000 Mark am 8.9. und 21.12. jeden Jahres bis die 10 000
+Mark bezahlt sind.
+F$CDS 1/407/295ff/297
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Bischof/Mako/Mak\'o//
+E$X/Abt/Gyîr St.Martin de Pannonia/Gyîr,St.Martin de Pannonia//
+E$X/Abt/Egres/Egres/Cheb/
+H$Ablîse/EinkÅnfte_Salz/unbestimmt/unbestimmt?//
+W$X/X/
+O$10000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quousque dictam pecuniam decem milia marcarum persolvamus
+
+REG$Kînig Andreas II. von Ungarn vereinbart mit den Kirchen in Ungarn,
+da· er im ersten Termin vom 27. August bis zum 8. September und im zweiten vom
+6. bis zum 21. Dezember Steinsalz Salz einlîsen kann. FÅr den Entgang an
+EinkÅnften, da ihnen Salz eingelîst wurde, zahlt er den Kirchen 10 000 Mark in
+fÅnf Jahren. Sollte er das Geld an den genannten Terminen nicht zahlen, bleiben
+die Kirchen dennoch vîllig unangetastet in ihrem Recht, das sie vor dem
+Vergleich hatten.
+F$CDS 1/407/295ff/297
+F$Fejer CDH III 2/X/319/319?
+F$Theiner, Mon. Hungariae Vat. 1/198/117/117?
+G$Andreas II./Kînig/Ungarn/Ungarn//
+E$X/Bischof/Mako/Mak\'o//
+E$X/Abt/Gyîr St.Martin de Pannonia/Gyîr,St.Martin de Pannonia//Pannonhalma
+E$X/Abt/Egres/Egres/Cheb/
+H$Nichtzahlung_Ablîse/EinkÅnfte_Salz/unbestimmt/unbestimmt?//
+W$X/X/
+O$10000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si predictam pecuniam decem milia marcarum non solverimus
+
+DOK$MGHScr5_81*/1190.5.13/1190.5.13/1190 Mai 13/X/X/X//?
+S$X/X/X?
+S$Tageno?/Passau/Tageno
+V$X/X/X?
+K$Auf dem Kreuzzug Kaiser Friedrichs I. litten die Kreuzfahrer unter schlimmen
+Hungerqualen.
+
+REG$Die Kreuzfahrer unter Kaiser Friedrich I. litten unter solchen Hungerqualen,
+da· eine sehr kleine SchÅssel um 14 Kîlner Schillinge gekauft wurde.
+F$MGH Scr 5/81*/81/81
+G$X/Kreuzfahrer/X/X?//
+E$X/Kreuzfahrer/X/X?//
+H$Kauf/Lebensmittel_Mehl/unbestimmt/unbestimmt//
+W$Kîln/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+A$14 Kîlner Schill./1 sehr kleine SchÅssel Mehl
+Q$scutella permodica quatuordecim solidis Coloniensibus comparabatur
+B$Univ.bibl.Cod.411Fol.146-?-146-146
+
+

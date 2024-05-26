@@ -1,0 +1,4164 @@
+
+note *** Einlesen der Rohdaten fr_sonst.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$fand_1001/1001.10.27/1001.10.27/1001 Oktober 27/sexto [kal. Nov.] anno dominice
+inkarnacion[is M primo indicti]one quinta decima anno tercii Hottonis regnantis
+XVII imperii VI/Pavia/Pavia//wo??
+S$X/X/Her. C.
+V$X/X/X
+K$Kaiser Otto III. schenkt Åber Bitten des Herzogs Otto von KÑrnten dem Grafen
+Werihen von Friaul die HÑlfte des Besitzes von Salcano und Gîrz mit allem
+Zubehîr, wovon er dieses Jahr die eine HÑlfte dem Patriarchen Johannes von
+Aquileia Åbertragen hat.
+
+REG$Kaiser Otto III. schenkt Åber Bitten des Herzogs Otto von KÑrnten dem Grafen
+Werihen von Friaul die HÑlfte des Besitzes von Salcano und Gîrz mit allem
+Zubehîr unter Strafe von 100 Pfund Gold, die je zur HÑlfte an die
+kaiserliche Kasse und Graf Werihen von Friaul bezahlt werden sollen.
+F$Rubeis MEA/X/491/491
+F$MGH DO III/412/846f/846
+F$Kos 3/002/2f/3
+F$Reg. Gîrz 1/010/12/12
+F$KrUB 1/012a/18ff/19
+G$X/X/X/X//
+E$Pînale/Strafgeld/Rîm.Reich/kaiserl.//wo??
+E$Werihen/Graf/Friaul/Friaul//Friaul/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$pena centum libras auri p[er]s[olvat], medietat[em] camere nostre et
+medietatem supradicto Uuerihen
+B$MGH Dipl. II, Nr. 412, S. 846 datiert 1001. Ebenso Wiesflecker S. 12. Insert
+in KrUB 1, Nr. 12a, S. 18ff 1001 November 3, Verona. Schumi S. 19 liest " pena
+centum libras auri [puri] \dots [persolvere debuerit]. Kos 3 S. 2 und Schumi S.
+18 datieren die Urkunde auf 1001 Oktober 27.
+
+DOK$fand_1103/1103.10.6/1103.10.6/1103 Oktober 6/anno ab incarnatione eiusdem nostri
+redemptoris MCIII. sexto die intrantis mensis octubris indicione quarta
+decima/Zoppola/Zoppola//Friaul-West/
+S$Waltilo/X/Waltilo
+V$Waltilo/X/Waltilo
+K$Hubald und Johannes, die BrÅder Azonis de Castions, verkaufen an Saxo und
+Alpuino de Zoppola Besitz mit allem Zubehîr in Castions zum Preis von 20
+Pfund venezianischer Pfennige.
+
+REG$Hubald und Johannes, die BrÅder Azonis de Castions, bestÑtigen von Saxo und
+Alpuino de Zoppola fÅr den Verkauf ihres Besitzes mit allem Zubehîr in
+Castions 20 Pfund venezianischer Pfennige empfangen zu haben.
+F$BCU Ms. Joppi 368 Fasz. 4/06/1f/1
+F$Nozze Zoppola-Vasassori(Udine 1876)(publicato Joppi)368 Fasz. 4/5/1f/1
+G$Saxo;Alpuino/Genannter/Zoppola/Zoppola//Friaul-West/
+E$Hubald;Johannes/Genannter/CastionsdiZoppola/Castions di Zoppola//wo??
+H$BestÑtigung_Kaufsumme/Immobilien/CastionsdiZoppola/Castions di Zoppola//wo??
+W$Venedig/X
+O$20/lib./X
+Z$X/X/X
+M$X/den./bonus;argenti/A
+Q$accepimus \dots argenti denarios bonos viniticorum libras viginti
+
+DOK$fand_1110/1110.5.19/1110.5.19/1110 Mai 19/datum XIIII. kal. Iunii anno dominice
+incarnationis MCX. regnante Henrico IV. rege Romanorum anno quinto imperante
+autem primo ordinationis eius undecimo/Verona/Verona//wo??
+S$X/X/X
+V$X/X/X
+K$Kaiser Heinrich IV. nimmt Cristallus von Premariacco und seine Erben und
+Verwandten in seinen Schutz.
+
+REG$Strafbestimmung in der Hîhe von 100 Pfund Gold.
+F$BCU Ms. Joppi 368 Fasz. 7/56/1f/2
+G$X/X/X/X//
+E$Pînale/Strafgeld/Rîm.Reich/kaiserl.//wo??
+E$X/Genannte/Premariacco/Premariacco//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$centum libras auri optimi componat medietatem nostrae camere medietatem vero
+dictis hominibus
+B$Insert in 1288 Juli 10, Udine. FÑlschung!
+
+DOK$fand_1192/1192.1.13/1192.1.13/1192 JÑnner 13/anno domini MCXCII. XIII. die intrante ianuario indic.
+X./Reana/Reana//wo??
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Die Eheleute Adam und Ita sowie deren Tochter Almingarda verkaufen an Andreas
+und seinen Bruder Daniel ein Allod zu Reana.
+
+REG$Die Eheleute Adam und Ita sowie deren Tochter Almingarda verkaufen an Andreas
+und seinen Bruder Daniel ein Allod zu Reana zum Preis von einer Mark.
+F$BCU Ms. Joppi 368 Fasz. 7/12/1/1
+G$Andreas;Daniel/X/X/X//
+E$Adam;Ita;Almingarda/X/X/X//
+H$BestÑtigung_Kaufsumme/Immobilien/Reana/Reana//wo??
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio unius marce diffinito et accepto
+
+DOK$fand_1225/1225.1.31/1225.1.31/1225 JÑnner 31/anno domini 1225 indictione 13. die ultimo exeunte
+Ianuario/X/X//
+S$Samso/X/Samso
+V$Samso/X/Samso
+K$Stephan von Artegna verspricht seiner Tochter Ildrada und seinem
+Schwiegersohn Ulrich Musa als Mitgift Eigen in Tarcento
+und in Segnacco sowie 250 Pfund kleiner Veroneser innerhalb eines Jahres zu
+zahlen.
+
+REG$Stephan von Artegna verspricht seiner Tochter Ildrada und seinem
+Schwiegersohn Ulrich Musa als Mitgift Eigen in Tarcento
+und in Segnacco sowie 250 Pfund kleiner Veroneser innerhalb eines Jahres zu
+zahlen.
+F$BCSD VarMss Details, T. III/46/25r/25r
+G$Stephan/Genannter/Artegna/Artegna//Friaul-Mitte/
+E$Ulrich Musa;Ildrada/X/X/X//
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$Verona/X/
+O$250/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$solvere CCL libras Veronenses parvorum infra annum
+
+DOK$fand_1238/1238.11.17/1238.11.17/1238 November 17/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bertoldo, der Sohn des Robert von Tricano, verpflichtet sich fÅr sein
+Seelenheil und das seiner Eltern jÑhrlich am Fest des hl. Maurus einen Agleier Pfennig an die
+Kirche S. Mauro d\' Arcano zu bezahlen.
+
+REG$Bertoldo, der Sohn des Robert von Tricano verpflichtet sich fÅr sein
+Seelenheil und das seiner Eltern jÑhrlich am Fest des hl. Maurus einen Agleier Pfennig an die
+Kirche S. Mauro d\' Arcano zu bezahlen.
+F$Manzano AF 2/X/328/328
+G$Bertoldo Ropretto/Genannter/RivedArcano/Tricano di Rive d' Arcano//wo??
+E$X/Kirche/RivedArcano/Arcano_S. Maurus//Tricano?
+H$Anniversar/Anniversar/RivedArcano/S. Mauro di Rive d' Arcano/S.Maurus/Tricano?
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$pagare annualmente nella festa di S. Mauro un danaro Aquilejese alla detta
+chiesa
+B$Nach dem Regest aufgenommen. Miotti, Burgenbuch Friaul 2, erwÑhnt 1238.11.18!
+
+DOK$fand_1241/1241.7.6/1241.7.6/1241 Juli 6/anno domini MCCXLI. ind. XIII. die sabbati
+sexto intrante iulio/Maniago/(Maniago)//Friaul-West/
+S$Heinrich v.Montesella/kaiserl. Notar/Heinrich v.Montesella
+V$Heinrich v.Montesella/kaiserl. Notar/Heinrich v.Montesella
+K$Graf Meinhard von Gîrz erlÑ·t in seinem sowie im Namen des Patriarchen
+Berthold
+von Aquileia den Herrn Olvrado de Maniago, Scotto und Pietro de Montereale alle
+Strafen, in welche sie durch die Besetzung des Schlosses Montereale gefallen
+waren, und ledigt auch deren AnhÑnger vor allem Comes den Sohn des Trusus,
+Morandus, Daniel Sohn des Jakob und Waldus Sohn des Michael Cerdo aus dem Bann
+des Patriarchen.
+
+REG$Graf Meinhard von Gîrz erlÑ·t in seinem sowie im Namen des Patriarchen
+Berthold
+von Aquileia den Herrn Olvrado de Maniago, Scotto und Pietro de Montereale alle
+Strafen, in welche sie durch die Besetzung des Schlosses Montereale gefallen
+waren, und ledigt auch deren AnhÑnger vor allem Comes den Sohn des Trusus,
+Morandus, Daniel Sohn des Jakob und Waldus Sohn des Michael Cerdo aus dem Bann
+des Patriarchen. Sie sollten ihre GÅter, welche ihnen die Gewaltboten des
+Patriarchen abgenommen hatten, wieder zurÅckerhalten, vor allem ihre EinkÅnfte
+und Rechte in der Pfarre Calaresio und im Dorf Malnisio. Der Patriarch solle in
+jedem Rechtsfall ihre AnsprÅche, Briefe und Zeugen vor seinem Hofgericht in
+Gegenwart des Grafen prÅfen und darnach richten. Der Graf Meinhard verspricht
+den vorgenannten Olvrado, Scotto und Pietro bei einer Pîn von 1000 Mark Silber
+in die Hand, den Vertrag zu halten und vom Patriarchen bestÑtigen zu lassen.
+F$AT NS 12/22/1ff/2
+F$Reg. Gîrz 1/490/130f/131
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Olvrado/Genannter/Maniago/Maniago//Friaul-West/
+E$Scotto/Genannter/Montereale/Montereale//Friaul-West/
+E$Pietro/Genannter/Montereale/Montereale//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$in pena mille marcharum argenti
+
+DOK$fand_1247/1247.0.0/1247.0.0/1247/X/Gemona/Gemona//Friaul-Mitte/
+S$X/X/X
+V$X/X/X
+K$Vonzina di Manzano kauft sieben Huben in S. Maria la Longa vom Kellermeister
+Leonardo zum Preis von 50 Mark.
+
+REG$Vonzina di Manzano kauft sieben Huben in S. Maria la Longa vom Kellermeister
+Leonardo zum Preis von 50 Mark.
+F$Manzano AF 2/X/359/359
+G$Vonzina/Genannter/Manzano/Manzano//wo??
+E$Leonardo/Kellermeister/X/X//
+H$Kauf/Immobilien/S.MarialaLonga/S. Maria la Longa//wo??
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$vende 7 mansi feudali per 50 marche
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1248/1249.1.1/1250.0.0#?/(nach 1248)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$AufzÑhlung der GÅter und Rechte des Johannes, Herrn von Zuccola und
+Spilimbergo. Dazu gehîren alle GÅter, die er selber oder andere aus seiner Hand
+innehaben auf und um den Berg Luk, welche Lehen des Grafen von Gîrz sind.
+Weiters die ganze "Hermannia de Gallano et Firmano" mit allem Recht, ein Lehen
+von Herrn Walterpertoldus (von Spilimbergo). Dies mu· Herr Johannes, wenn sie
+zurÅckgefordert werden, innerhalb eines Monats dem Grafen von Gîrz aufgeben und
+ansuchen, da· er ihn damit belehne. Weiters hat Herr Johannes im Dorf Sclaunich
+viereinhalb Mark und 20 Pfennige EinkÅnfte von Walterpertoldus zu Lehen unter
+gleichen Bedingungen, wie die genannte Hermannia.
+
+REG$EinkÅnfte des Herrn Johannes von Zuccola und Spilimbergo aus dem Markt in
+Moimacco in der Hîhe von 12 Pfennigen.
+F$AT NS 20/X/125ff/126
+G$X/Genannter/Moimacco/Moimacco//
+E$Johannes/Genannter/Zuccola und Spilimbergo/Zuccola und Spilimbergo//wo??
+H$EinkÅnfte/canipa/Moimacco/Moimacco//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$canipa sita in Muymacho \dots de Muymacho sibi solvit XII denarios iure
+livelli est sua propria
+B$Urbar
+
+REG$EinkÅnfte des Herrn Johannes von Zuccola und Spilimbergo aus einem Garten in
+Cividale in der Hîhe von 10 Pfennigen.
+F$AT NS 20/X/125ff/126
+G$Konrad/X/X/X//
+E$Johannes/Genannter/Zuccola und Spilimbergo/Zuccola und Spilimbergo//wo??
+H$EinkÅnfte/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$ortus in Civitate pro quo solvit Conradus quondam domini Henrici Tasotti X
+denarios
+
+REG$Herr Johannes von Zuccola und Spilimbergo hat im Dorf Sclaunich
+EinkÅnfte in der Hîhe von viereinhalb Mark und 20 Pfennigen von Walterpertoldus
+(von Spilimbergo) zu Lehen unter gleichen Bedingungen, wie die genannte
+Hermannia.
+F$AT NS 20/X/125ff/127
+F$Reg. Gîrz 1/531/139/139
+G$X/X/X/X//
+E$Johannes/Genannter/Zuccola und Spilimbergo/Zuccola und Spilimbergo//wo??
+H$EinkÅnfte/Immobilien/Sclaunicco/Sclaunicco di Lestizza/Sclaunich/wo??
+W$X/X/
+O$4,5/marca/X
+Z$X/X/X
+M$20/den./X/A
+Q$quatuor marchas et mediam et XX denarios de redditibus habet ad feudum a
+domino Walterpertoldo
+
+REG$Herr Johannes von Zuccola und Spilimbergo mu· fÅr das Amt des Mundschenks
+den silbernen Becher des Patriarchen von Aquileia oder stattdessen 50 Pfund
+erhalten, sobald er erstmals nach Cividale kommt.
+F$AT NS 20/X/125ff/128
+G$X/X/X/X//
+E$Johannes/Genannter/Zuccola und Spilimbergo/Zuccola und Spilimbergo//wo??
+H$Abgabe/Amt_Mundschenk/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro iam dicto officio debet habere Cyphum domini Patriarche argenteum quum
+primo venit in Foro iulii vel L libras pro ipso
+
+REG$Herr Johannes von Zuccola und Spilimbergo erhÑlt als Mundschenk des
+Patriarchen von Aquileia von jedem Bischof, der in der Diîzese Aquileia geweiht
+wird, 50 Pfund Veroneser.
+F$AT NS 20/X/125ff/128
+G$X/Bischof/X/X//Aquileia-Diîzese/
+E$Johannes/Genannter/Zuccola und Spilimbergo/Zuccola und Spilimbergo//wo??
+H$Abgabe/Amt_Mundschenk/Cividale/Cividale//Friaul-Ost/
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ab omni episcopo qui consecratur sub diocesi Aquilege quinquaginta libras
+Veronenses
+
+REG$Herr Johannes von Zuccola und Spilimbergo erhÑlt als Mundschenk des
+Patriarchen von Aquileia von jedem Abt, der in der Diîzese Aquileia geweiht
+wird, 1 Mark.
+F$AT NS 20/X/125ff/128
+G$X/Abt/X/X//Aquileia-Diîzese/
+E$Johannes/Genannter/Zuccola und Spilimbergo/Zuccola und Spilimbergo//wo??
+H$Abgabe/Amt_Mundschenk/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ab omni abbate qui consecratur in dicta diocesi unam marcham
+
+DOK$fand_1224/1224.12.1/1224.12.1/1224 Dezember 1/anno domini MCCXXIIII. indict. XII. die primo. intrante
+decembr./uFriaul/in uno collo ab illa partecascesolle apud viam publicam?//wo??
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Die BrÅder Konrad und Aidrigus, Sîhne des Olvradus de Susans, verkaufen dem
+Heinrich de Artegna mehrere Huben zum Preis von 89 (Mark oder Pfund?).
+
+REG$Die BrÅder Konrad und Aidrigus, Sîhne des Olvradus de Susans, bestÑtigen, da·
+dem Heinrich de Artegna fÅr den Kauf von mehreren Huben 89 (Mark oder
+Pfund?) bezahlt hat.
+F$ACU Coll. Bini 64 D.v.a.I/X/78r/78r
+G$Heinrich/Genannter/Artegna/Artegna//Friaul-Mitte/
+E$Konrad;Aidrigus/Genannter/Susans/Susans//Friaul-Mitte/
+H$BestÑtigung_Kaufsumme/Immobilien/S.Tommaso;Susans;Buja/S.
+Tommaso;Susans;Buja/S. Tomaso;Buia/Friaul-Mitte/
+W$X/X/
+O$89/marca o. libra/X
+Z$X/X/X
+M$X/X/X/A
+Q$precio LXXX VIIII \dots [Pergament schadhaft]
+B$Wegen des schadhaften Pergaments kann nicht festgestellt werden, ob es sich um
+Mark oder Pfund handelt.
+
+DOK$fand_1106/1106.11.3/1106.11.3/1106 November 3/anno dominicae incarnationis. MCVI. III.
+die mensis novembris, ind. XIV./uFriaul Tres Basiliche/uFriaul, Tres
+Basiliche/Tres Basiliche/Friaul-Ost/
+S$Bernhard/X/Bernhard
+V$Bernhard/X/Bernhard
+K$Der gewesene Gegenerzbischof von Salzburg, Berthold, Sohn Purchards (von
+Moosburg), schenkt seinen nÑchsten Anverwandten, dem Ehepaar Konrad und Mathilde
+das Schlo· Attimis.
+
+REG$Bischof Berthold (der gewesene Gegenerzbischof von Salzburg), Sohn des
+Purchard (von Moosburg), der nach bayrischem und als Geistlicher nun nach
+rîmischem Recht lebt, verkauft und Åbergibt seinen nÑchsten Angehîrigen den
+Eheleuten, Konrad und Mathilde, gegen Empfang eines Entgeltes ("launechild") das
+Schlo· Attimis in Friaul mit all seinen Rechten und Zubehîr.
+F$Rubeis MEA/X/609f/609
+F$Reg. Gîrz 1/169/47/47
+F$Kos 4/021/12/12
+G$Konrad;Mathilde/X/X/X//
+E$Berthold/Bischof/Salzburg/Salzburg//S/
+H$launechild/Immobilien/Attimis/Attimis/Attens/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$suscepto launechild
+
+REG$Bischof Berthold (der gewesene Gegenerzbischof von Salzburg), Sohn des
+Purchard (von Moosburg), der nach bayrischem und als Geistlicher nun nach
+rîmischem Recht lebt, verkauft und Åbergibt seinen nÑchsten Angehîrigen den
+Eheleuten, Konrad und Mathilde, gegen Empfang eines Entgeltes ("launechild") das
+Schlo· Attens in Friaul mit all seinen Rechten und Zubehîr.
+F$Rubeis MEA/X/609f/609
+G$Konrad;Mathilde/X/X/X//
+E$Berthold/Bischof/Salzburg/Salzburg//S/
+H$launechild/Immobilien/Attimis/Attimis/Attens/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro suscepto launechild
+
+REG$Bischof Berthold (der gewesene Gegenerzbischof von Salzburg), Sohn des
+Purchard (von Moosburg), der nach bayrischem und als Geistlicher nun nach
+rîmischem Recht lebt, verkauft und Åbergibt seinen nÑchsten Angehîrigen den
+Eheleuten, Konrad und Mathilde, gegen Empfang eines Entgeltes ("launechild") das
+Schlo· Attens in Friaul mit all seinen Rechten und Zubehîr.
+F$Rubeis MEA/X/609f/609
+G$Konrad;Mathilde/X/X/X//
+E$Berthold/Bischof/Salzburg/Salzburg//S/
+H$launechild/Immobilien/Attimis/Attimis/Attens/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$launechild \dots
+
+DOK$fand_1234?/1234.0.0/1234.0.0?/1234?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gerardus von Camino verspricht den Herren von Varmo und Nicolao von Budrio das
+Land Sacile, wenn es ihm gegeben wird, nicht anzunehmen und nicht zu
+veranlassen, da· es angenommen wird, bei Strafe von 200 Mark und bei selber
+Strafe versprechen die Genannten das Land anzuweisen, wie es bestimmt worden
+ist.
+
+REG$Gerardus von Camino verspricht den Herren von Varmo und Nicolao von Budrio das
+Land Sacile, wenn es ihm gegeben wird, nicht anzunehmen und nicht zu
+veranlassen, da· es angenommen wird, bei Strafe von 200 Mark und bei selber
+Strafe versprechen die Genannten das Land anzuweisen, wie es bestimmt worden
+ist.
+F$Bianchi Thes./1042/311/311
+G$Gerardus/Genannter/Camino_diOderzo/Camino (diCodroipo?)//wo??
+E$X/Genannte/Varmo/Varmo//s.Codroipo
+E$Nicolao/Genannter/Buttrio/Buttrio/Budrio/wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena ducentarum marcharum
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1000/1000.0.0/1000.0.0/1000/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Asquinus Åbergibt alle seine GÅter, die er in Latisana jenseits Tulmentum
+hatte, der Kirche von Aquileia fÅr die Tafel des Patriarchen mit Ausnahme einer
+MÅhle, fÅr die er einen jÑhrlichen Zins an die Kirche von Aquileia in der Hîhe
+von 40 Pfennigen festgesetzt hat.
+
+REG$Asquinus Åbergibt alle seine GÅter, die er in Latisana jenseits Tulmentum
+hatte, der Kirche von Aquileia fÅr die Tafel des Patriarchen mit Ausnahme einer
+MÅhle, fÅr die er einen jÑhrlichen Zins an die Kirche von Aquileia in der Hîhe
+von 40 Pfennigen festgesetzt hat.
+F$Bianchi Thes./1054/313/313
+G$Asquinus/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien_MÅhle/Latisana/Latisana//Venedig/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$annuatim solvere Aquilegensi Ecclesie denarios quadraginta
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1211/1211.2.12/1211.2.12/1211 Februar 12/anno domini 1211 indictione XIIII. die sabbathi 12.
+intrante Febr./Belluno/Belluno//wo??
+S$Robert/kaiserl. Notar/Robert
+V$Robert/kaiserl. Notar/Robert
+K$Bischof Philipp von Belluno und Feltre investiert Bianquinus von Camino mit
+den Schlîsser "Costae, Misii, Iulici, Fregonae" u.a.m.
+
+REG$Bischof Philipp von Belluno und Feltre investiert Bianquinus von Camino mit
+den Schlîsser "Costae, Misii, Iulici, Fregonae" u.a.m., wovon er bis zur
+HÑlfte des Lehens verÑu·ern darf. Die Belehnung geschah gegen Leistung von
+12044 Pfund Pfennigen, die der Bischof und das Kapitel zur Deckung ihrer Schulden
+verwendet haben.
+F$BCU Ms. 873/233/1ff/2
+G$Bianquinus/Genannter/Camino_diOderzo/Camino di Oderzo/Camino/
+E$X/Bistum/Belluno und Feltre/Belluno und Feltre//wo??
+H$Investitur/Immobilien/Costa;uVenetien;Fregona/Costa;Misii;Iulici;Fregona//wo??
+W$X/X/
+O$12044/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$precio 12 m. et 44 Libr. quos denarios \dots dedisse
+B$"m." bedeutet 1000.
+
+REG$Bischof Philipp von Belluno und Feltre investiert Bianquinus von Camino mit
+den Schlîsser "Costae, Misii, Iulici, Fregonae" u.a.m. unter Strafe von 3 Pfund.
+F$BCU Ms. 873/233/1ff/2
+G$Philipp/Bischof/Belluno und Feltre/Belluno und Feltre//wo??
+E$Bianquinus/Genannter/Camino_diOderzo/Camino di Oderzo/Camino/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$3000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in poena trium m. librarum
+
+DOK$fand_1224a/1224.2.21/1224.2.21/1224 Februar 21/anno domini MCCXXIV. indictione XII. die
+VIII. exeunte Februarii/Follina/Follina//
+S$Flabian/kaiserl. Notar/Flabian
+V$Flabian/kaiserl. Notar/Flabian
+K$Gabriel von Camino verfa·t sein Testament.
+
+REG$Gabriel von Camino hinterlÑ·t dem Abt von Follina und dem Prior Jordan de
+Padua von S. Benedikt 500 Pfund venezianischer Pfennige zur Verwaltung.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/65
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Abt/Follina/Follina,SM di/Folina/
+E$Jordan/Prior/Padua S.Benedikt/S. Benedikt//wo??
+H$Testament/Legat/Follina;Padua S.Benedikt/Follina;S. Benedikt//wo??
+W$Venedig/X/
+O$500/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$relinquo quingentas libras denariorum Venetiarum
+
+REG$Gabriel von Camino hinterlÑ·t dem Abt von Follina und dem Prior Jordan de
+Padua von S. Benedikt 500 Pfund venezianischer Pfennige zur Verwaltung, wovon
+er zu seinen Lebzeiten schon Geld Åbergeben will, weshalb seine Erben dann
+entsprechend weniger von den 500 Pfund bezahlen mÅssen.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/65
+G$X/X/X/X//
+E$X/Abt/Follina/Follina,SM di/Folina/
+E$Jordan/Prior/Padua S.Benedikt/S. Benedikt//wo??
+H$Testament/Zahlungsverpflichtung/Follina;Padua S.Benedikt/Follina;S. Benedikt
+//wo??
+W$X/X/
+O$500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$tantum minus debeant ab heredibus meis de illis quingentis libris
+
+REG$Gabriel von Camino hinterlÑ·t dem Abt von Follina und dem Prior Jordan de
+Padua von S. Benedikt 500 Pfund venezianischer Pfennige zur Verwaltung, wovon
+er zu seinen Lebzeiten schon Geld Åbergeben will, weshalb seine Erben dann
+entsprechend weniger von den 500 Pfund bezahlen mÅssen. Damit dieser Restbetrag
+bezahlt wird, hinterlÑ·t Gabriel dem Kloster Follina das Schlo· Costa und
+den Hof Mareno mit allem Zubehîr und EinkÅnften. Nach der Bezahlung der 500
+Pfund oder des Restbetrages sollen seine Erben die GÅter zurÅckerhalten.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/65
+G$X/X/X/X//
+E$X/Kloster/Follina/Follina,SM di/Folina/wo??
+H$Testament/Zahlungsverpflichtung/Follina;Padua S.Benedikt/Follina;S.
+Benedikt//wo??
+W$X/X/
+O$500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Pro resto toto attendendo et solvendo \dots ut monasterium de Folina possit de
+meis solvere et solvere debeat dictas quingentis libras
+
+REG$Gabriel von Camino hinterlÑ·t dem Abt von Follina und dem Prior Jordan de
+Padua von S. Benedikt 500 Pfund venezianischer Pfennige zur Verwaltung, wovon
+er zu seinen Lebzeiten schon Geld Åbergeben will, weshalb seine Erben dann
+entsprechend weniger von den 500 Pfund bezahlen mÅssen. Damit dieser Restbetrag
+bezahlt wird, hinterlÑ·t Gabriel dem Kloster Follina das Schlo· Costa und
+den Hof Mareno mit allem Zubehîr und EinkÅnften. Nach der Bezahlung der 500
+Pfund oder des Restbetrages sollen seine Erben die GÅter zurÅckerhalten.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$X/X/X/X//
+E$X/Kloster/Follina/Follina,SM di/Folina/wo??
+H$Testament/Zahlungsverpflichtung/Follina/Follina//wo??
+W$X/X/
+O$500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$vellent solvere et solverint predictas quingentas libras dicto monasterio de
+Fulina, vel id, quod per tempora supererit ad solvendum de dictis
+quingentis libris
+
+REG$Gabriel von Camino hinterlÑ·t dem Kloster von Follina 100 Pfund fÅr sein
+BegrÑbnis.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kloster/Follina/Follina,SM di/Folina/wo??
+H$BegrÑbnis/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum libras expendendas relinquo
+
+REG$Gabriel von Camino hinterlÑ·t dem Spital \dots (fehlt) 100 (?) Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Spital/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$100?/sol./X
+M$X/X/X/Z
+Q$centum soldos
+
+REG$Gabriel von Camino hinterlÑ·t dem Kloster Busco 200 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kloster/uVenetien Busco/Busco//wo??
+H$Testament/Legat/uVenetien Busco/Busco//wo??
+W$X/X/
+O$X/X/X
+Z$200/sol./X
+M$X/X/X/Z
+Q$monasterio de Busco CC soldos
+
+REG$Gabriel von Camino hinterlÑ·t dem Kloster Vidulis 40 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kloster/Vidulis di Dignano/Vidulis di Dignano/Vidole//
+H$Testament/Legat/Vidulis di Dignano/Vidulis di Dignano/Vidole//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$monasterio de Vidole XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t dem Hospital S. Martino 40 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Hospital/Conogliano S.Martino/Conogliano,S. Martino//
+H$Testament/Legat/Conogliano/Conogliano,S.Martino de sede de Monte de/S.
+Martino de sede de Monte de Coneglano/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$hospitali S. Martini de sede de Monte de Coneglano XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t dem Luborearo? S. Titiano 40 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Luborearo?/unbekannt S.Titiano/S. Titiano//wo??
+H$Testament/Legat/unbekannt S.Titiano/S. Titiano//wo??
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$Luborearo S. Titiani XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t S. Andrea de Bigonzi 20 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/X/unbekannt Bigonzi S.Andrea/S. Andrea de Bigonzi//wo??
+H$Testament/Legat/unbekannt Bigonzi S.Andrea/Bigonzi,S. Andrea//wo??
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$S. Andree de Bigonzi XX soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Bosmone 100 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/unbekannt S.Bosmone/S. Bosmone//wo??
+H$Testament/Legat/unbekannt S.Bosmone/S. Bosmone//wo??
+W$X/X/
+O$X/X/X
+Z$100/sol./X
+M$X/X/X/Z
+Q$ecclesie de Bosmone centum soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche von Nosledo 40 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/unbekannt Nosledo/Nosledo//wo??
+H$Testament/Legat/unbekannt Nosledo/Nosledo//wo??
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ecclesie de Nosledo XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche von Fontina 40 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/unbekannt Fontina/Fontina//wo??
+H$Testament/Legat/unbekannt Fontina/Fontina//wo??
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ecclesie de Fontina XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche Morliago 40 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/unbekannt Morliago/Morliago//wo??
+H$Testament/Legat/unbekannt Morliago/Morliago//wo??
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ecclesie Morliago XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Silvestro de Ersono 20
+Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/unbekannt S.Silvestro de Ersono/S. Silvestro de Ersono//wo??
+H$Testament/Legat/unbekannt S.Silvestro de Ersono/S. Silvestro de Ersono//wo??
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ecclesie S. Silvestri de Ersono XX soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Daniele de Campano 20 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/S.Daniele de Campano/S. Daniele de Campano//wo??
+H$Testament/Legat/S.Daniele de Campano/S. Daniele de Campano//wo??
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ecclesie S. Danieli de Campano XX soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Leonardo de Coneglano 20
+Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/Conogliano/Conogliano,S.Leonardo de/S. Leonardo de
+Coneglano
+H$Testament/Legat/Conogliano/Conogliano,S.Leonardo de/S. Leonardo de
+Coneglano/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ecclesie S. Leonardi de Coneglano XX soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Pietro de Mareno 20 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/Mareno S.Pietro de/S. Pietro de Mareno//wo??
+H$Testament/Legat/Mareno S.Pietro de/S. Pietro de Mareno//wo??
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ecclesie S. Petri de Mareno XX soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Marena 20 Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/unbekannt S.Marena/S. Marena//wo??
+H$Testament/Legat/unbekannt S.Marena/S. Marena//wo??
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ecclesie S. Marene XX soldos
+
+REG$Gabriel von Camino hinterlÑ·t den Kapellen und Kirchen in seiner Grafschaft
+oder seinem Bannbezirk, welche der Abt von Follina "consignabit", je 20
+Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirchen;Kapellen/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$XX soldos pro unaquaque
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche der "Malsani" in Belluno 40
+Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche der "Malsani"/Belluno/Belluno//wo??
+H$Testament/Legat/Belluno/Belluno//wo??
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ecclesie Malsanorum de Belluno XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t der Kirche S. Antonio in Coneclano 40
+Schillinge.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kirche/Conogliano/Conogliano,S.Antonio/Coneclano,S. Antonio/
+H$Testament/Legat/Conogliano/Conogliano,S.
+Antonio/Coneclano,S.Antonio/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ecclesie S. Antionii de Coneclano XL soldos
+
+REG$Gabriel von Camino hinterlÑ·t seiner Frau Maria 50 Pfund "kaiserlicher"
+(Pfennige) aus ihrer Mitgift.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$Maria/Genannte/Camino_diOderzo/Camino di Oderzo//wo??
+H$Testament/Legat/Camino_diOderzo/Camino di Oderzo//wo??
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/imperialis/X/Z
+Q$Uxori mee domine Marie L libras imperialium super suam dotem
+
+REG$Gabriel von Camino hinterlÑ·t seiner Frau Maria 50 Pfund kaiserlicher
+(Pfennige) aus ihrer Mitgift, die 300 Pfund kaiserlicher (Pfennige) betrug.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$X/X/X/X//
+E$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$Maria/Genannte/Camino_diOderzo/Camino di Oderzo//wo??
+H$Mitgift/Geldbetrag/unbestimmt/unbestimmt//
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/imperialis/X/A
+Q$Uxori mee domine Marie L libras imperialium super suam dotem, que fuit CCC
+lib. imperialium
+
+REG$Gabriel von Camino hinterlÑ·t seinen Tîchtern Adeleta und Enghelenda und
+weiteren Kindern, sofern er welche haben wird, 2000 Pfund.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/66
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$Adeleta;Enghelenda/Genannte/Camino_diOderzo/Camino di Oderzo//wo??
+H$Testament/Legat/Camino_diOderzo/Camino di Oderzo//wo??
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in duo millibus libris
+
+REG$Gabriel von Camino hinterlÑ·t fÅr sein Seelenheil dem Kloster von Follina
+10 000 Pfund, welche der jeweilige Abt von Follina verfÅgen soll.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/67
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kloster/Follina/Follina,SM di/Folina/
+H$Testament/Legat/Follina/Follina//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquo pro anima mea decem m. libras
+
+REG$Gabriel von Camino hinterlÑ·t dem Kloster Follina 10000 Pfund. Um diese
+zu bezahlen, hinterlÑ·t Gabriel dem Kloster das Schlo· und den Hof in Solico
+mit allem Zubehîr.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/67
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kloster/Follina/Follina,SM di/Folina/
+H$Zahlungsverpflichtung/Legat/Follina/Follina,SM di/Folina/
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro dictis decem millibus libris solvendis relinquo dicto monasterio castrum
+et curiam de Solico cum omnibus suis pertinentiis
+
+REG$Gabriel von Camino hinterlÑ·t dem Kloster Follina 10000 Pfund. Um diese
+zu bezahlen, hinterlÑ·t Gabriel dem Kloster das Schlo· und den Hof in Soligo
+mit allem Zubehîr. Wenn seine Neffen und seine Mutter und seine Frau den Betrag
+bezahlen, sollen die GÅter an seine Erben zurÅckgegeben werden.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/67
+G$Maria/Genannte/Camino_diOderzo/Camino di Oderzo//wo??
+E$X/Kloster/Follina/Follina,SM di/Folina/
+H$VerpfÑndung/Immobilien/Soligo/Soligo//wo?? sî.Follina
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quandocumque nepotes mei et mater mea et uxor mea solverint dictas decem m.
+libras
+
+REG$Gabriel von Camino hinterlÑ·t seiner Schwester Rovagnana oder Joanna
+1000 Pfund.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/67
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$Rovagnana;Joanna/Genannte/Camino_diOderzo/Camino di Oderzo?//wo??
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$mille libras
+
+REG$Gabriel von Camino hinterlÑ·t dem Jakob, dem Sohn des Tiso von Campo S.
+Pietro 1000 Pfund.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/67
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$Jakob/X/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$mille libras
+
+REG$Gabriel von Camino hinterlÑ·t dem Paulo, dem Sohn des Pietro Trivisano
+1000 Pfund.
+F$Verci Stor.Trivig. 1 Doc./51/65ff/67
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//wo??
+E$Paulo/X/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$mille libras
+
+DOK$fand_1233a/1233.5.31/1233.5.31/1233 Mai 31/anno domini MCCXXXIII. \dots/X/X//
+S$Reinardo de Perredo/kaiserl. Notar/Reinardo de Perredo
+V$Reinardo de Perredo/kaiserl. Notar/Reinardo de Perredo
+K$öbereinkunft zwischen den Familien Camino di Sopra und di Sotto wegen der
+Differenzen um die Erbschaft des Gabriel von Camino.
+
+REG$Strafbestimmung in der Hîhe von 10 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/93
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo//(diCodroipo?
+G$Biaquinus/Genannter/Camino_diOderzo/Camino di Oderzo//Camino(diCodroipo?)
+G$Wecelo/Genannter/Camino_diOderzo/Camino di Oderzo//Camino(diCodroipo?)
+E$Heinrich/Genannter/Villalta/Villalta//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena decem mille libr. denariorum
+B$Originaldatum am Beginn des Textes unvollstÑndig. Vercis Datum von
+Dorsualnotiz?
+
+REG$Strafbestimmung in der Hîhe von 10 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/93
+G$Bonifacinus/Vormund/X/?//
+E$Heinrich/Genannter/Villalta/Villalta//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena decem mille libr. denariorum
+
+REG$Strafbestimmung in der Hîhe von 10 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/94
+G$Wecelo/X/X/X//
+E$Heinrich/Genannter/Villalta/Villalta//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub simili pena decem mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/94
+G$Gabriel/X/X/X//
+E$Biaquinus/Genannter/Camino_diOderzo/Camino di
+Oderzo//Camino(diCodroipo?)
+E$Wecelo/Genannter/X/X?//
+E$Tolberto/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/94
+G$Bonifacinus/X/X/X//
+G$Biaquinus/Genannter/Camino_diOderzo/Camino di Oderzo//(diCodroipo?)
+G$Wecelo/Genannter/X/? //
+G$Tolbertus/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille librarum denariorum
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/96
+G$Gabriel/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille librarum denar.
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/96
+G$Gabriel/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/98
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/98
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille libr. den.
+
+REG$Strafbestimmung in der Hîhe von 2000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$Gabriel/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub simili pena duo mille librarum denar.
+
+REG$Strafbestimmung in der Hîhe von 2 000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Gabriel/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub simili pena duo mille libr. denarior.
+
+REG$Strafbestimmung in der Hîhe von 2000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Gabriel/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille librarum denarior.
+
+REG$Strafbestimmung in der Hîhe von 2000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Gabriel/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 2000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Gabriel/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille librar. denar.
+
+REG$Gabriel darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen und Åber das Geld nach seinem Willen verfÅgen. Wenn aber Biaquinus,
+Wecelo oder Tolbertus diese GÅter fÅr 10 000 Pfund Pfennige kaufen will, mu· er
+sie ihnen geben.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$X/X/X/X//
+E$Gabriel/X/X/X//
+H$Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$usque ad summam decem mille librarum denar. de quibus decem mille libris
+denarior. possit ipse facere suam voluntatem, et quicquid voluerit
+
+REG$Gabriel darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen und Åber das Geld nach seinem Willen verfÅgen. Wenn aber Biaquinus,
+Wecelo oder Tolbertus diese GÅter fÅr 10 000 Pfund Pfennige kaufen wollen, mu·
+er sie ihnen geben.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/99
+G$Biaquinus/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Gabriel/X/X/X//
+H$Vorkaufsrecht_Kaufpreis/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvere sibi dictas decem mille libr. denar., quod d. Gabriel teneatur eis
+dare, et vendere, et non aliis
+
+REG$Gabriel darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen und Åber das Geld nach seinem Willen verfÅgen. Wenn aber Biaquinus,
+Wecelo oder Tolbertus diese GÅter fÅr 10000 Pfund Pfennige kaufen wollen, mu·
+er sie ihnen geben. Dasselbe gilt fÅr seine Kinder bis zu einer Summe von 8000
+Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$X/X/X/X//
+E$X/X/X/X//
+H$Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$8000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$possint vendere de bonis ipsius d. Gabrielis usque ad summam otto mille
+libr. denar.
+
+REG$Biaquinus darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen. Wenn aber Gabriel, Wecelo oder Tolbertus diese GÅter fÅr 10000 Pfund
+Pfennige kaufen will, mu· er sie ihnen geben.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$X/X/X/X//
+E$Biaquinus/X/X/X//
+H$Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$usque ad summam decem mille librarum denar.
+
+REG$Biaquinus darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen. Wenn aber Gabriel, Wecelo oder Tolbertus diese GÅter fÅr 10000 Pfund
+Pfennige kaufen wollen, mu· er sie ihnen geben.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$Gabriel/X/X/X//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Biaquinus/X/X/X//
+H$Vorkaufsrecht_Kaufpreis/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvere sibi dictas decem mille libr. denar., quod ipse d. Biaquinus teneatur
+eis dare, et vendere, et non aliis
+
+REG$Biaquinus darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen. Wenn aber Gabriel, Wecelo oder Tolbertus diese GÅter fÅr 10 000 Pfund
+Pfennige kaufen wollen, mu· er sie ihnen geben. Dasselbe gilt fÅr seine Kinder
+bis zu einer Summe von 8000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$X/X/X/X//
+E$X/X/X/X//
+H$Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$8000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$possint vendere de bonis ipsius d. Biaquini usque ad summam otto mille
+libr. denar.
+
+REG$Tolbertus darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen. Wenn aber Biaquinus, Wecelo oder Gabriel diese GÅter fÅr 10000
+Pfund Pfennige kaufen will, mu· er sie ihnen geben.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$X/X/X/X//
+E$Tolbertus/X/X/X//
+H$Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$usque ad summam decem mille libr. denarior.
+
+REG$Tolbertus darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen. Wenn aber Biaquinus oder Gabriel diese GÅter fÅr 10000 Pfund
+Pfennige kaufen wollen, mu· er sie ihnen geben.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$Biaquinus/X/X/X//
+G$Gabriel/X/X/X//
+E$Tolbertus/X/X/X//
+H$Vorkaufsrecht_Kaufpreis/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvere sibi dictas decem mille libr. den. quod ipsi d. Wecelo et
+Tolbertus teneatur eis dare,  et non aliis
+
+REG$Tolbertus darf seine GÅter bis zu einer Summe von 10000 Pfund Pfennigen
+verkaufen. Wenn aber Biaquinus oder Gabriel diese GÅter fÅr 10000 Pfund
+Pfennige kaufen wollen, mu· er sie ihnen geben. Dasselbe gilt fÅr die Kinder des
+Wecelo und des Tolbertus bis zu einer Summe von 8000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/100
+G$X/X/X/X//
+E$X/X/X/X//
+H$Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$8000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$possint vendere de bonis ipsorum dominorum Wecelonis, et Tolberti usque ad
+summam otto mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 2000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/101
+G$Wecelo/X/X/X//
+E$Gabriel/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duo mille libr. denar.
+
+REG$Strafbestimmung in der Hîhe von 10000 Pfund Pfennigen.
+F$Verci Stor.Trivig. 1 Doc./68/93ff/101
+G$Gabriel/X/X/X//
+G$Biaquinus/Genannter/Camino_diOderzo/Camino di Oderzo//
+G$Wecelo/X/X/X//
+G$Tolbertus/X/X/X//
+E$Heinrich/Genannter/Villalta/Villalta//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena decem mille libr. den.
+
+DOK$fand_1190/1190.3.31/1190.3.31/1190 MÑrz 31/anno domini MCXC. indictione prima die
+ultimo exeunte Martio/Cordenons/Cordenons/Naun/Friaul-West/
+S$Johannes Gaudentis/kaiserl. Notar/Johannes Gaudentiu?s
+V$Johannes Gaudentis/kaiserl. Notar/Johannes Gaudentis
+K$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus de Romano GÅter.
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter. Gabriel gibt dem Friedrich ein Pfand unter
+Strafe von 300 Mark Silber fÅr das Versprechen, die getauschten GÅter zu
+verteidigen und dafÅr zu sorgen, da· diese Friedrich und seinem Bruder Odericus
+Åbergeben werden.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/35
+G$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+E$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$300/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena trecentarum marcharum argenti
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter. Gabriel gibt dem Friedrich unter Strafe von 300
+Mark ein Pfand, nÑmlich GÅter im doppelten Wert der genannten 300 Mark, fÅr das
+Versprechen, die getauschten GÅter zu verteidigen und dafÅr zu sorgen, da· diese
+Friedrich und seinem Bruder Odericus Åbergeben werden.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/35
+G$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+E$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+H$Pfand_Wertangabe/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$valens duplum predictarum trecentarum marcarum
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter. Gabriel soll, laut Auftrag des Eccelinus,
+dem Friedrich 300 Mark schulden, wenn er ihm Schaden zufÅgt.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/35
+G$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+E$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Gabriel predictas trecentas marcas d. Federico debeat
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter, wobei Gabriel dem Friedrich zur Sicherheit
+1113 Pfund Pfennige gibt.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/35
+G$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+E$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+H$Wadium/Wadium/unbestimmt/unbestimmt//
+W$X/X/
+O$1113/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$Gabriel vadiavit eidem d. Frederico M & C & XIII libras
+denariorum de hinc ad festum S. Andree mensis venturi de vadia
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter. Friedrich gibt dem Gabriel ein Pfand unter
+Strafe von 300 Mark fÅr das Versprechen, die getauschten GÅter zu verteidigen
+und dafÅr zu sorgen, da· diese Gabriel und seinem Vater Vecellettus Åbergeben
+werden.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/37
+G$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena tercentarum marcarum
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter. Friedrich gibt dem Gabriel unter Strafe von 300
+Mark ein Pfand, nÑmlich GÅter im dreifachen Wert der genannten 300 Mark, fÅr das
+Versprechen, die getauschten GÅter zu verteidigen und dafÅr zu sorgen, da· diese
+Gabriel und seinem Vater Vecellettus Åbergeben werden.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/37
+G$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+H$Pfand_Wertangabe/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/triplum
+Z$X/X/X
+M$X/X/X/Z
+Q$valens triplum predictarum tercentarum marcarum
+
+REG$Gabriel von Prata und Friedrich von Caporiacco tauschen mit Willen und Auftrag
+des Eccelinus von Romano GÅter. Friedrich soll, laut Auftrag des Eccelinus,
+dem Gabriel 300 Mark schulden, wenn er ihm Schaden zufÅgt.
+F$Verci Stor.Trivig. 1 Doc/30/34ff/37
+G$Friedrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Gabriel/Genannter/PratadiPordenone/Prata di Pordenone//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Federicus predictas trecentas marcas d. Gabrieli debeat
+
+DOK$fand_1210/1210.8.17/1210.8.17/1210 August 17/anno D. MCCX.
+quintodecimo die exeunte augusto indict. XIII./Moruzzo/Moruzzo//Friaul-Mitte/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Liutgart, die Tochter des Konrad von Manzano, verkauft den Herren
+Friedrich und Ulrich von Caporiacco das vÑterliche Erbe.
+
+REG$Liutgart, die Tochter des Konrad von Manzano, verkauft den Herren  Friedrich
+und Ulrich von Caporiacco das vÑterliche Erbe zum Preis von 100 Mark.
+F$Joppi Alc. D. Strassoldo/1/9f/9
+G$Friedrich;Ulrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Liutgard/Genannte/Manzano/Manzano//Friaul-Ost/
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$precio C marcarum
+
+DOK$fand_1212/1212.4.11/1212.4.11/1212 April 11/anno D. MCCXII. indic. XV. die XI. intrante
+aprile/Moruzzo/Moruzzo//Friaul-Mitte/
+S$Ognibene/kaiserl. Notar/Ognibene
+V$Ognibene/kaiserl. Notar/Ognibene  ?Omnebonus
+K$Liutgard von Manzano verkauft den Herren Friedrich und Ulrich von Caporiacco
+das vÑterliche Erbe in Friaul und Tirol um 100 Mark.
+
+REG$Liutgard von Manzano verkauft den Herren Friedrich und Ulrich von Caporiacco
+das vÑterliche Erbe in Friaul und Tirol um 100 Mark.
+F$Joppi Alc. D. Strassoldo/3/14f/15
+G$Liutgard/Genannte/Manzano/Manzano//Friaul-Ost/
+E$Friedrich;Ulrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+H$Kauf/Immobilien/unbestimmt/unbestimmt//Friaul;Tirol/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio centum marcarum diffinito
+
+DOK$fand_1244/1244.6.28/1244.6.28/1244 Juni 28/MCCXLIV. ind. [2] 3.ex.
+Juni?/Carnia/Carnia,S.Pietro//Friaul-Nord/
+S$Venerius/kaiserl. Notar/Venerius?
+V$Venerius/kaiserl. Notar/Venerius
+K$Bernhard von Faganea, der Propst von S. Pietro in Carnia, verzichtet zugunsten
+der Kanoniker auf die Verwaltung der GÅter des Kapitels und auf alle Rechte.
+
+REG$Bernhard von Faganea, der Propst von S. Pietro in Carnia, verzichtet zugunsten
+der Kanoniker auf die Verwaltung der GÅter des Kapitels und auf alle Rechte,
+nÑmlich auf den Bezug von EinkÅnften in der Hîhe von 36 Pfennigen.
+F$AôG 21 Bianchi/142/216f/216
+F$BCU Ms. 919 2. Heft der 5. Mappe/X/2r-4r/?
+G$X/Propstei/Carnia/Carnia,S.Pietro//Friaul-Nord/
+E$X/Kanoniker/Carnia/Carnia,S.Pietro//Friaul-Nord/
+H$Verzicht/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$36/den./X/Z
+Q$triginta sex denarios
+B$Nach dem Regest aufgenommen. Insert in 1290 Oktober 10, St. Peter in Carnia.
+
+REG$Bernhard von Faganea, der Propst von S. Pietro in Carnia, verzichtet zugunsten
+der Kanoniker auf die Verwaltung der GÅter des Kapitels und auf alle Rechte,
+nÑmlich auf den Bezug von EinkÅnften in der Hîhe von 12 Pfennigen anstatt ôl.
+F$AôG 21 Bianchi/142/216f/217
+F$BCU Ms. 919 2. Heft der 5. Mappe/X/2r-4r/?
+G$X/Propstei/Carnia/Carnia,S.Pietro//Friaul-Nord/
+E$X/Kanoniker/Carnia/Carnia,S.Pietro//Friaul-Nord/
+H$Verzicht/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$duodecim denarios pro oleo
+B$Nach dem Regest aufgenommen. Insert in 1290 Oktober 10, St. Peter in Carnea.
+
+DOK$fand_?/1200.0.0/1200.0.0#?/X/X/Gemona/Gemona?//Friaul-Mitte/
+S$X/X/X/
+V$X/X/X/
+K$Ulunigus von Gemona und sein Verwandter Mathias anerkennen, von
+der Kirche zu Aquileia GÅter zu Lehen zu haben.
+
+REG$Ulunigus von Gemona und sein Verwandter Mathias anerkennen, von
+der Kirche zu Aquileia GÅter zu Lehen zu haben, nÑmlich den Zehnt von
+Caporiacco? in der Hîhe von jÑhrlich 6 Mark Pfennigen.
+F$Bianchi Thes./0216/118f/119
+G$Ulunigus;Mathias/Genannter/Gemona/Gemona//Friaul-Mitte/
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Lehensverzeichnis?/Zehnt/Caporiacco/Caporiacco//wo??
+W$X/X/
+O$6/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$totam decimam de Cavacio, que solvit annuatim sex marchas denariorum
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1189/1189.0.0/1189.0.0/1189/?/Gemona/Gemona?//Friaul-Mitte/
+S$X/X/X/
+V$X/X/X/
+K$Die Gemeinde Gemona unterwirft sich mit einem Drittel ihres Stadtgebietes dem
+Grafen Heinrich von Tirol.
+
+REG$Die Gemeinde Gemona unterwirft sich mit einem Drittel ihres Stadtgebietes dem
+Grafen Heinrich von Tirol, wovon ihm die Bewohner jÑhrlich 4 Friesacher pro
+Schritt zinsen sollen.
+F$TUB 1/440a/238/238
+F$Reg. Gîrz 1/288/79/79
+G$X/Kommune/Gemona/Gemona//Friaul-Mitte/
+E$Heinrich/Graf/Tirol/Tirol//wo??
+H$Zins/Immobilien/Gemona/Gemona//Friaul-Mitte/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$4/X/X/Z
+Q$jerlich von yedem schritt vier Friesacher zinsen
+B$Repertorium.
+
+DOK$fand_1190a/1190.0.0/1190.0.0/ca. 1190/X/Gemona/Gemona//Friaul-Mitte/
+S$X/X/X/
+V$X/X/X/
+K$EinkÅnfteverzeichnis der Kirche von Gemona.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einer Mark Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/1
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/Braulins/Braulins//Friaul-Mitte/
+W$Aquileia/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$unam marcham den. Aquilegens.
+B$Abschrift des Urbars aus dem Jahr (ca.1200).?
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 16 Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/1
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/Moimacco/Moimacco/Moymas/di Cividale/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$XVI denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 12 Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/1
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/Tarcento/Tarcento//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$XII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 10 Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/1
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/Enemonzo/Enemonzo/Elemonse/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$decem denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 10 Schillingen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Petrus/Priester/X/?//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//      Weingarten?
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$X sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Jakob Longus Crema?/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Amelrich;Petrus/Genannter/Gemona Roya/Gemona,Roggia/Roya/
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den. Aquil.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Coho;Dipoldus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$octo denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 22 Schillingen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$22/sol./X
+M$X/X/X/Z
+Q$XX et duos sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 24 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Amelrich/Genannter/Gemona Roya/Gemona,Roggia/Roya/
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$XXIIII denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 20 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Wargendus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$XX denar. Aquil.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Blasius/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 12 Agleier Pfennigen.
+F$ACU Coll. Bini DH IV/60/1ff/2
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2  vorhanden?
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$XII den. Aquil.
+B$Nur in Abschrift vorhanden! ?
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/2
+G$Rubinus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 32 Agleier Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/3
+G$Engelbert/Genannter/Ragogna/Ragogna di S. Daniele/Roweyn/
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$32/den./X/Z
+Q$XXX et II denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACC Perg. II/068/80/80
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/3
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 20 Schillingen Veroneser.
+F$ACC Perg. II/068/80/80 ?
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/4
+G$Artenea/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Verona/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$pro? XX sol. Veron.?
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACC Perg. II/068/80/80?
+F$ACU Coll. Bini 65, D.v.a. II/06/11;18/?
+F$ACU Coll. Bini 65, D.v.a. II/60/1ff/4
+G$BartholomÑus;Johannes/Genannter/Gemona/Gemona,Roya//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+DOK$fand_1202/1202.10.0/1202.10.0/1202 Oktober/anno dominice incarnationis
+MCCII mense octubris indictione secunda/Venedig/Venedig//Venedig/
+S$Venerandus Marinus/X/Venerandus Marinus
+V$Venerandus Marinus/X/Venerandus Marinus
+K$Wolfram von Gemona macht sein Testament.
+
+REG$Wolfram von Gemona hinterlÑ·t seiner Frau Palmera ihre Mitgift? in der Hîhe
+von 700 Pfund venezianischer Pfennige.
+F$NAV NS 14/X/369f/369
+G$Wolfram/Genannter/Gemona/Gemona-Venedig//Friaul-Mitte-Ven.?/
+E$Palmera/Genannte/Gemona/Gemona//Friaul-Mitte  ?
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$700/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$uxor mea integre habere debeat suam repromissam, que fuerunt libre
+denariorum venecialium septingente
+
+REG$Wolfram von Gemona hinterlÑ·t seiner Frau Palmera 300 Pfund venezianischer
+Pfennige.
+F$NAV NS 14/X/369f/370
+G$Wolfram/Genannter/Gemona/Gemona-Venedig//Friaul-Mitte-Ven./
+E$Palmera/Genannte/Gemona/Gemona?//Friaul-Mitte/
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$insuper dimitto \dots uxori mee libras denariorum venecialium trecentas pro
+anima mea
+
+REG$Wolfram von Gemona macht sein Testament. Wer dagegen handelt, mu· seiner Frau
+Palmera 5 Pfund Gold Strafe bezahlen.
+F$NAV NS 14/X/369f/370
+G$X/X/X/X//
+E$Palmera/Genannte/Gemona/Gemona?//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$auri libras quinque
+
+DOK$fand_1204aa/1204.2.22/1204.2.22/1204 Februar 22/anno a nativitate eiusdem MCCIIII.
+indictione septima die sabbati qui fuit octavus exeunte
+februario/Gemona/Gemona//Friaul-Mitte/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Markgraf Azo von Este bestÑtigt, von Aliz, der Tochter des FÅrsten? Rainald
+von Antiochia, als Mitgift 2000 Mark Silber erhalten zu haben.
+
+REG$Markgraf Azo von Este bestÑtigt, von Aliz, der Tochter des FÅrsten? Rainald
+von Antiochia, als Mitgift 2000 Mark Silber erhalten zu haben.
+F$ACU Coll. Bini 32 D.v./X/279ff/281
+G$Azo/Markgraf/Este/Este//Friaul-SÅd?/
+E$Aliz/Genannte?/Antiochia/Antiochia//wo??
+H$BestÑtigung_Heiratsgut/Heiratsgut/unbestimmt/unbestimmt//
+W$X/X
+O$2000/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$duo millia marcharum argenti
+B$Es handelt sich um  ein Insert in einer Urkunde datiert [nach 1204].
+
+DOK$fand_1213aa/1213.8.1/1213.8.1/1213 August 1/anno domini MCCXIII. indictione prima die
+primo intrante Aug./Gemona/Gemona//Friaul-Mitte              Ospedaletto ?
+S$Villanus/X/Villanus
+V$Villanus/X/Villanus
+K$Natalis Thamarucius von Gemona schenkt dem Spital Beata Sancta Maria die?
+Strata de Canale de Carentana ein GrundstÅck in Gemona fÅr sein Seelenheil.
+
+REG$Natalis Thamarucius von Gemona schenkt dem Spital Beata Sancta Maria die?
+Strata de Canale de Carentana ein GrundstÅck in Gemona und wird sogleich vom
+ErwÑhlten Konrad von Triest, dem Vogt und Verweser des Spitals, gegen einen
+jÑhrlichen Zins in der Hîhe von 3 Pfennigen mit dem GrundstÅck investiert.
+F$ACU Coll. Bini 32 D.v./82/323ff/324
+F$BCU Ms. Joppi 369 Fasz. 2/21/1f/2
+G$Natalis Thamarucius/Genannter/Gemona/Gemona//Friaul-Mitte/
+E$B.S.M.d.Strata de Canale de Carentana/Spital/Gemona/Gemona//Friaul-Mitte/
+E$X/Spital/Ospedaletto/Ospedaletto//Friaul-Mitte    ?
+H$Zahlungsverpflichtung_Zins/Immobilien/Gemona/Gemona//Friaul-Mitte/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$ad fictum et censum reddendum semel in anno \dots tres denarios fictum
+
+DOK$fand_1224aa/1224.1.24/1224.1.24/(1224 JÑnner 24?)/X/Gemona/Gemona?//Friaul-Mitte/
+S$X/X/X
+V$X/X/X
+K$Dominikus von Gemona erleidet bei Auseinandersetzungen zwischen Venedig und
+Ferrara Einbu·en.
+
+REG$Dominikus von Gemona erleidet bei Auseinandersetzungen zwischen Venedig und
+Ferrara Einbu·en in der Hîhe von 200 Pfund minus 25 venezianischer (Pfennige).
+F$Cessi, Deliberazioni 1/28/54/54
+F$Predelli, Lib. Pleg., AV Suppl. 4 An.2/39/31/31
+G$Dominikus/Kaufmann/Gemona/Gemona//Friaul-Mitte/
+E$Bertold/X/X/X//
+E$Menegatus Zoppo?/X/X/X//
+E$Tortula/X/X/X//
+E$Oldericus Lixa/X/X/X//
+E$X/Genannte/unbekannt  Grugaira/Grugaira//wo??
+H$Raub/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$25/X/minus/A
+Q$abstulerunt ei violenter libras CC minus XXV venecialium
+B$Predelli "lire 175"? Nach dem Regest aufgenommen.
+
+DOK$fand_1236/1236.6.22/1236.6.22/1236 Juni 22/anno domini MCCXXXVI. indictione IX.
+die nona exeunte Iunio/Gemona/Gemona//Friaul-Mitte/
+S$Bernhard/kaiserl. Notar/Bernhard
+V$Bernhard/kaiserl. Notar/Bernhard
+K$Cristanus, Hopitalarius in Gemona, Åbergibt den BrÅdern Matthias und Petrus
+GÅter in Gemona gegen einen jÑhrlichen Zins in der Hîhe von 70 Agleier
+Pfennigen, zahlbar an das Spital S. Maria zu Gemona.
+
+REG$Cristanus, Hopitalarius in Gemona, Åbergibt den BrÅdern Matthias und Petrus
+GÅter in Gemona gegen einen jÑhrlichen Zins in der Hîhe von 70 Agleier
+Pfennigen, zahlbar an den Spitalmeister von S. Maria zu Gemona.
+F$ACU Coll. Bini DH V/13/1ff/2
+G$Matthias;Petrus/X/X/X//
+E$X/Spitalmeister/Gemona/Gemona,S.Maria//Friaul-Mitte/
+H$Zinsverpflichtung/Immobilien/Gemona/Gemona//Friaul-Mitte/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$70/den./X/Z
+Q$solvendo annuatim \dots LXX denar. Aquilegen.
+
+REG$Cristanus, Hopitalarius in Gemona, Åbergibt den BrÅdern Matthias und Petrus
+GÅter in Gemona gegen einen jÑhrlichen Zins in der Hîhe von 70 Agleier
+Pfennigen, zahlbar an den Spitalmeister von S. Maria zu Gemona. Au·erdem wird
+ein Vorkaufsrecht vereinbart, wonach die BrÅder bzw. ihre Erben verpflichtet
+sind, dem Spitalmeister die Immobilien um einen um 7 Pfennige geringeren Preis
+anzubieten, falls sie verkaufen wollen.
+F$ACU Coll. Bini DH V/13/1ff/2
+G$Matthias;Petrus/X/X/X//
+E$X/Spitalmeister/Gemona/Gemona,S.Maria//Friaul-Mitte/
+H$Vorkaufsrecht_Abschlag/Immobilien/Gemona/Gemona//Friaul-Mitte/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./minus/Z
+Q$iusto precio VII denar. minus dare emere volentibus
+
+DOK$fand_1240/1240.0.0/1249.0.0/1240 - 1249/anno domini MCCXL\dots/Gemona/Gemona//Friaul-Mitte/
+S$X/X/X
+V$X/X/X
+K$EinkÅnfteverzeichnis der Kirche von Gemona.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 16 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/1
+G$Prandus;Gruynstusa/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$XVI denar.
+B$Urbar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 15 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/1
+G$Martin Ronchus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$15/sol./X
+M$X/X/X/Z
+Q$XV sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 16 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/1
+G$Stephan Sclavus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$XVI denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/1
+G$Pandeus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/1
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Schilling.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$I solid.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Prandus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Cuzuttus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Jakobus Romanus/X/X/X?//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Benedikt/Genannter/unbekannt Amborcius/Amborcius//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$II solid.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Stephan Albus/Genannter/Gemona Godo/Gemona,Godo/Gowd/Godo s.Gemona
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 32 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Granellus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$32/den./X/Z
+Q$XXXII denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Malfattus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Rossa/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$unum denarium
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 und 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+Z$2/sol./X
+M$X/X/X/Z
+Q$IIII sol. et II sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/2
+G$Subrocha/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IV sol.
+
+REG$EinkÅnfte der Kirche S. Stefano in? Gemona in der Hîhe von 10 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Petrus/Arzt/X/X//
+E$S. Stephano/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$denar. decem
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Fumia/Genannte/Portis/Portis//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IV denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Lazarus Longus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 30 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Johannes/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$XXX denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Ancelottus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Jakob/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Domenis Zucarel/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Egidius Scavorni/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Bertald/MÅller/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Imiltrudis/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/3
+G$Daniel Mayteldan/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Berthold/Genannter/unbekannt Amborcius/Amborcius//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Heinrich/Genannter/unbekannt Amborcius/Amborcius//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$X/Genannter/unbekannt Amborcius/Amborcius//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Andreas Picolen/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Nikolaus/Barbier/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Petrus/Genannter/unbekannt Huvalia/Huvalia?//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 19 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$19/sol./X
+M$X/X/X/Z
+Q$XVIIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Daniel/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Leonhard/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Ulrich/Genannter/Amaro/Amaro//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/4
+G$Lazarus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Petrus/Genannter/Udine/Udine//Friaul??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Silvester/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Marchisana/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Amalricus/Genannter/Gemona/Gemona,Rogia/Rogia/
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Werner Mayteldan/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Ursio Arman/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII den. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Marinus Wardaquarta/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Dietmar/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Stephan Frigidus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Jakob Imizanus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Nikolaus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Meribaldus Byvill/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Gabriel/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/5
+G$Petrus/Genannter/unbekannt Huvalia/Huvalia//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$4 denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Menga/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Gerhard/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Johannes Barghonz?/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Adaleyta/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 6 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Bona/Genannte/Altana/Altana ?/Altaneta/î.Cividale
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$VI denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Martin/Genannter/uFriaul_Mitte Subvinea/Subvinea//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IV denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Parideus Pagey/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Ulrich/Gro·hÑndler/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$II sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$X/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Schilling.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Jakob Visicus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$I sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/6
+G$Immiza/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Jakob Saffo/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Andreas/Genannter/Gemona Staulis/Gemona,Staulis//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Agata Baroneit/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$II sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Matheus/MÅller/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$II sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Margareta/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Gervalius/Richter/uFriaul_Mitte Craja/Craja//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$denarium unum
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Schilling.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Peregrinus/Schenkwirt/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$I sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Artioca/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$II sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Beus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Schilling.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$BartholomÑus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$I sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Jakob/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$sol. III
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/7
+G$Rudolf/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 20 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Stephan Visicus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$XX denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 6 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Merulus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/Z
+Q$VI sex sol.?
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Schilling.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Jakob Moravi/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$sol. I
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 5 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Johannes Bonald/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$V sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Prandus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Romanus Bagyan?/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 26 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Sphetenan/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$26/den./X/Z
+Q$XXVI denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/8
+G$Pacalotus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einer Mark Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/9
+G$Bonushomo/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$I march. denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 40 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/9
+G$Bonushomo/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$XL denar. Aquileg.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/9
+G$Gabriel Rufus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Pfennigen, die fÅr die
+Beleuchtung in den Kirchen S. Maria, S. Blasius und S. Agnes fÅr das Seelenheil
+des Petrus verwendet werden sollen.
+F$ACU Coll. Bini DH V/14/1ff/9
+G$Gabriel Rufus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte   ?
+H$Ausgaben/Beleuchtung/Gemona S.Maria S.Agnes S.Blasius/Gemona,S.
+Maria;Gemona,S. Blasius;Gemona,S. Agnes//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$quorum VIII denariorum solvi debent IIII Luninarie
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/10
+G$Domenis Musigin/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar. Aquilei.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Schillingen venezianischer
+Parvuli?.
+F$ACU Coll. Bini DH V/14/1ff/10
+G$Georius/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/parv./Z
+Q$tres sol. Venet. parv.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von einem Agleier Pfennig.
+F$ACU Coll. Bini DH V/14/1ff/10
+G$Richiza/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/10
+G$Rufus/Genannter/Gemona Staulis/Gemona,Staulis?/Staulis/wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII denar. Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 4 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/11
+G$Stephan;Dietrich/Genannter/unbekannt Amborcius/Amborcius//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+Q$IIII sol.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Agleier (Pfennigen).
+F$ACU Coll. Bini DH V/14/1ff/11
+G$Gemma/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$3/X/X/Z
+Q$III Aquil.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 10 Schillingen kleiner venez.?
+(Pfennige).
+F$ACU Coll. Bini DH V/14/1ff/11
+G$Wargendus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Venedig?/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/parv./Z
+Q$decem sol. V. parv.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/12
+G$Benedikta/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar. Aquil.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen kleiner venez.?
+(Pfennige).
+F$ACU Coll. Bini DH V/14/1ff/12
+G$Companius?/Schuster/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Venedig?/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/parv./Z
+Q$II sol. V. p.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 8 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/12
+G$Domenis Ironca;Alegreza/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII denar. Aquil.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 6 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/13
+G$Petrus/Koch?/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$VI denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 11 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/13
+G$Konrad/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$11/den./X/Z
+Q$denar. XI Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2,5 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/14
+G$Iserius/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2,5/den./X/Z
+Q$duos denar. et medium
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 kleinen Veronesern.
+F$ACU Coll. Bini DH V/14/1ff/14
+G$Carusius/KÅrschner/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$2/X/parv./Z
+Q$duos Veron. parv.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/14
+G$Dominikus/Genannter/unbekannt Amborcius/Amborcius//wo??
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$duos solid.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/15
+G$Crescentius;Mathias/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$II solid.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Agleier Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/15
+G$Guotiza/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$duos denarios Aquilegen.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 3 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/15
+G$Jakob Drazutons;Egolola/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 2 Pfennigen.
+F$ACU Coll. Bini DH V/14/1ff/16
+G$Artuicus, genannt Burufaldinus/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II denar.
+
+REG$EinkÅnfte der Kirche von Gemona in der Hîhe von 6 Schillingen.
+F$ACU Coll. Bini DH V/14/1ff/17
+G$Johannes/X/X/X//
+E$X/Kirche/Gemona/Gemona//Friaul-Mitte/
+H$Zins/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/Z
+Q$sol. VI
+
+DOK$fand_1247aa/1247.1.0/1247.1.0/1247 JÑnner/anno D. incar. MCCXLVII. sexta indictione
+imperante d. nostro Friderico II. Hierusalem regni vigesimo secundo regni vero
+Sicilie quadragesimo anno/Parma/Parma//
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich II. investiert Guerzolus de Prata mit dem Lehen Prata und
+bestÑtigt ihm die Grafschaftsrechte.
+
+REG$Kaiser Friedrich II. bestÑtigt Guerzolus de Prata die Grafschaftsrechte. Bei
+Zuwiderhandeln wird eine Strafe in der Hîhe von 50 Pfund Gold festgesetzt, wobei
+die HÑlfte an die kaiserl. Kasse zu bezahlen ist.
+F$ACC Perg. IV/051/1f/2
+G$X/X/X/X//
+E$Pînale/Strafgeld/Rîm.Reich/kaiserl.//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$50/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$penam quinquaginta librarum auri purissimi \dots aliam medietatem nostre
+camere soluturus
+
+DOK$fand_1223/1223.8.8/1223.8.8/1223 August 8/anno domini MCCXXIII. VIII. die intrante augusto ind. XI.
+/X/X//
+S$X/X/X/
+V$X/X/X/
+K$GagothusZapolchriZapoleno? und Konrad von Sacile einerseits und Scotto
+andererseits schlie·en vor Patriarch Berthold von Aquileia Frieden.
+
+REG$GagothusZapolchriZapoleno? und Konrad von Sacile einerseits und Scotto
+andererseits schlie·en vor Patriarch Berthold von Aquileia Frieden. Wer dagegen
+handelt, mu· 2000 Pfund venezianischer (Pfennige) an den Patriarchen bezahlen
+und sein Besitz in Sacile und im Distrikt fÑllt an denselben.
+F$ACC Perg. III/053/48/48
+G$X/X/X/X//
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nomine pene teneatur solvere domino patriarche duo milia librarum
+Venecialium
+
+DOK$fand_1231/1231.7.15/1231.12.31/1231 [nach Juli 14]/ind. 4/Sacile/Sacile//Friaul-West/
+S$Bonamicus/kaiserl. Notar/Bonamicus
+V$Bonamicus/kaiserl. Notar/Bonamicus
+K$Sentenz Patriarch Bertholds von Aquileia fÅr die Leute von Sacile und
+Vigonovo btr. Terra Comugna?
+
+REG$Patriarch Berthold von Aquileia gebietet den Leuten von Sacile und Vigonovo
+das Gemeindeland von Sacile zwischen Sacile und Vigonovo weder umzugraben
+noch zu pflÅgen, sondern gemeinsam zu beweiden unter Strafe von 50 Pfund
+venezianischer Pfennige.
+F$BCU Ms. Joppi 369 Fasz. 5/05/1f/1
+F$AôG 21 Bianchi/110/208/208
+G$X/Bewohner/Sacile;Vigonovo/Sacile;Vigonovo//Friaul-West/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr.  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$per graciam suam et in banno L librarum denariorum Venetorum
+B$Joppi datiert 1246, da die Indiktion vier sowohl
+fÅr 1231 als auch 1246 gilt. Au·erdem erscheint der Zeuge Bernhard de Sacile im
+Jahr 1246. ?
+
+REG$Patriarch Berthold von Aquileia gebietet den Leuten von Sacile und Vigonovo
+das Gemeindeland von Sacile zwischen Sacile und Vigonovo weder umzugraben
+noch zu pflÅgen, sondern gemeinsam zu beweiden unter Strafe von 50 Pfund
+venezianischer Pfennige.
+F$BCU Ms. Joppi 369 Fasz. 5/05/1f/2
+F$AôG 21 Bianchi/110/208/208
+G$X/Bewohner/Sacile;Vigonovo/Sacile;Vigonovo//Friaul-West/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr.  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$L libras denariorum Venetorum patriarche nomine pene solvere et dare teneatur
+B$Joppi datiert 1246, da die Indiktion vier sowohl
+fÅr 1231 als auch 1246 gilt. Au·erdem erscheint der Zeuge Bernhard de Sacile im
+Jahr 1246. ?
+
+DOK$fand_1233/1233.5.23/1233.5.23/1233 Mai 23/anno domini MCCXXXIII. indictione VI. die Lune none
+exeunte Madio/Sacile/Sacile//Friaul-West/
+S$Bonamicus/kaiserl. Notar/Bonamicus
+V$Bonamicus/kaiserl. Notar/Bonamicus
+K$Patriarch Berthold von Aquileia investiert den Presbyter Furlanus von Sacile
+fÅr die Bewohner von Sacile und Fratta? mit Boden gegen jÑhrlichen Zins in der
+Hîhe von je 10 Schilling Pfennige pro Schritt Land innerhalb Sacile? und 4
+Schilling Pfennige au·erhalb.
+
+REG$Patriarch Berthold von Aquileia investiert den Presbyter Furlanus von Sacile
+fÅr die Bewohner von Sacile und Fratta? mit Boden gegen jÑhrlichen Zins in der
+Hîhe von je 10 Schilling Pfennige pro Schritt Land innerhalb Sacile? und 4
+Schilling Pfennige au·erhalb.
+F$ACU Coll. Bini DH V/9/1f/1
+G$X/Einwohnerschaft/Sacile;Fratta_diPortogruaro/Sacile;Fratta di Portogruaro//Friaul-West/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zinsverpflichtung/Immobilien/Sacile;Fratta_diPortogruaro/Sacile;Fratta di Portogruaro//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./X/Z
+Q$soldos decem denarios
+
+REG$Patriarch Berthold von Aquileia investiert den Presbyter Furlanus von Sacile
+fÅr die Bewohner von Sacile und Fratta? mit Boden gegen jÑhrlichen Zins in der
+Hîhe von je 10 Schilling Pfennige pro Schritt Land innerhalb Sacile? und 4
+Schilling Pfennige au·erhalb.
+F$ACU Coll. Bini DH V/9/1f/1
+G$X/Einwohnerschaft/Sacile;Fratta_diPortogruaro/Sacile;Fratta di Portogruaro//Friaul-West/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zinsverpflichtung/Immobilien/Sacile;Fratta_diPortogruaro/Sacile;Fratta di Portogruaro//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/den./X/Z
+Q$quattuor soldos denarios
+
+DOK$fand_1246/1246.0.0/1246.0.0/1246/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Instrument einer Schuld von Graf Meinhard auf Konrad von Sacile um 1700
+Pfund Perner auf Martini zu bezahlen mit BÅrgschaft auf Leistung. Dagegen hat er
+ihm 60 Pfund Perner, bei Gemona gelegen, verkauft.
+
+REG$Instrument einer Schuld von Graf Meinhard auf Konrad von Sacile um 1700
+Pfund Perner auf Martini zu bezahlen mit BÅrgschaft auf Leistung. Dagegen hat er
+ihm 60 Pfund Perner, bei Gemona gelegen, verkauft.
+F$Reg. Gîrz 1/515/136/136
+G$Konrad/Genannter/Sacile/Sacile//Friaul-West/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$1700/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$Instrument einer Schuld von Graf Meinhard auf Konrad von Sacile um 1700
+Pfund Perner auf Martini zu bezahlen mit BÅrgschaft auf Leistung. Dagegen hat er
+ihm 60 Pfund Perner, bei Gemona gelegen, verkauft.
+F$Reg. Gîrz 1/515/136/136
+G$Konrad/Genannter/Sacile/Sacile//Friaul-West/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Kauf/EinkÅnfte/Gemona/Gemona//Friaul-Mitte/
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1218?/1218.3.27/1269.9.8/1218 MÑrz 27 - 1269 September 8/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Lehen verschiedener Personen von S. Daniele.
+
+REG$Musinus und sein Bruder haben im Dorf S. Daniele eine Hube und in Sedegliano
+eine halbe, die jÑhrlich eine Mark an die Kurie zinsen.
+F$Bianchi Thes./0045/41ff/41
+G$Musinus/X/S.Daniele/S. Daniele//wo??
+E$X/Kurie/X/?//
+H$Zins/Immobilien/S.Daniele;Sedegliano/S. Daniele;Sedegliano//wo??
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$qui reddunt annuatim unam marcham ad usum Curie
+B$Nach dem Regest aufgenommen.
+
+REG$Bertholottus und sein Bruder haben ein Haus und im Dorf S. Daniele 50 Pfennige
+an die Kurie zu zinsen.?
+F$Bianchi Thes./0045/41ff/42
+G$Bertholottus/X/S.Daniele/S. Daniele//wo??
+E$X/Kurie/X/?X//
+H$Zins/Immobilien/S.Daniele/S. Daniele//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$50/den./X/Z
+Q$in villa S. Danielis quinquaginta denarios ad usum Curie
+B$Nach dem Regest aufgenommen.
+
+REG$Bertholottus und sein Bruder sind von Patriarch Gregor von Aquileia mit
+EinkÅnften in der Hîhe von 50 Pfennigen investiert worden.
+F$Bianchi Thes./0045/41ff/42
+G$X/X/X/X//
+E$Bertholottus/X/S.Daniele/S. Daniele//wo??
+H$EinkÅnfte/Immobilien/S.Daniele/S. Daniele//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$50/den./X/Z
+Q$redditu quinquaginta denariorum investitus fuit a d. patriarcha Gregorio
+B$Nach dem Regest aufgenommen.
+
+REG$Livisinus und Cozonellus haben eine Hube im Dorf S. Daniele und zinsen dafÅr
+jÑhrlich eine Mark und 5 Pfennige an die Kurie.
+F$Bianchi Thes./0045/41ff/42
+G$Livisinus;Cozonellus/X/S.Daniele/S. Daniele//wo??
+E$X/Kurie/X/?//
+H$Zins/Immobilien/S.Daniele/S. Daniele//wo??
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$5/den./X/Z
+Q$qui reddit annuatim ad usum curie unam marcham et quinque denarios
+B$Nach dem Regest aufgenommen.
+
+REG$Faurellus hat eine Hube im Dorf S. Daniele und zinst dafÅr
+jÑhrlich eine halbe Mark und 8 Pfennige an die Kurie.
+F$Bianchi Thes./0045/41ff/43
+G$Faurellus/X/S.Daniele/S. Daniele//wo??
+E$X/Kurie/X/?//
+H$Zins/Immobilien/S.Daniele/S. Daniele//wo??
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$8/den./X/Z
+Q$qui reddit annuatim ad usum curie dimidiam marcham et octo denarios
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12?/1200.0.0/1200.0.0/1200?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Fulcher bestÑtigt, 68 Mark fÅr den Verkauf des Schlosses Tricesimo erhalten zu
+haben.
+
+REG$Fulcher bestÑtigt, 68 Mark fÅr den Verkauf des Schlosses Tricesimo erhalten zu
+haben.
+F$Bianchi Thes./0834/283/283
+G$Aylis?/X/X/X//
+E$Fulcher/X/X/X//
+H$BestÑtigung_Kauf/Immobilien/Tricesimo/Tricesimo//wo??
+W$X/X/
+O$68/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de marchis sexaginta octo pro venditione
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12a?/1200.0.0/1200.0.0/1200?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Candidus von Tricesimo bestÑtigt, 480 Mark fÅr den Verkauf des Schlosses
+Tricesimo erhalten zu haben.
+
+REG$Candidus von Tricesimo bestÑtigt, 480 Mark fÅr den Verkauf des Schlosses
+Tricesimo erhalten zu haben.
+F$Bianchi Thes./0835/283/283
+G$Aylis?/X/X/X//
+E$Candidus/Genannter/Tricesimo/Tricesimo//wo??
+H$BestÑtigung_Kauf/Immobilien/Tricesimo/Tricesimo//wo??
+W$X/X/
+O$480/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de marchis quadrigentis octuaginta pro venditione
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12aa?/1200.0.0/1200.0.0/1200?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Zanettus zinst jÑhrlich fÅr Immobilien im Dorf Bertaldia von Udine? unter
+anderem 8 Pfennige.
+
+REG$Zanettus zinst jÑhrlich fÅr Immobilien im Dorf Bertaldia von Udine? unter
+anderem 8 Pfennige.
+F$Bianchi Thes./0807/278/278
+G$Zanettus/X/X/X//
+E$X/X/X/X//
+H$Zins/Immobilien/Udine/Udine?//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$octo denarios
+B$Nach dem Regest aufgenommen.
+
+REG$Zanettus zinst jÑhrlich fÅr Immobilien im Dorf Bertaldia von Udine? unter
+anderem 8 Pfennige und 24 Friesacher zur Besserung.
+F$Bianchi Thes./0807/278/278
+G$Zanettus/X/X/X//
+E$X/X/X/X//
+H$Zins/Immobilien/Udine/Udine?//wo??
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/X/X/Z
+Q$Insuper pro melioramento frixachenses vigintiquatuor
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12aaa?/1200.0.0#?/1200.0.0#?/X/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Milanolus zinst jÑhrlich fÅr Immobilien im Dorf Ongaresca unter anderem 24
+Pfennige.
+
+REG$Milanolus zinst jÑhrlich fÅr Immobilien im Dorf Ongaresca unter anderem 24
+Pfennige.
+F$Bianchi Thes./0862/288/288
+G$Milanolus/X/X/X//
+E$X/X/X/X//
+H$Zins/Immobilien/Udine/Udine,Ongaresca/Ongaresca/Udine
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$XXIV denarios
+B$Nach dem Regest aufgenommen.
+
+REG$Milanolus zinst jÑhrlich fÅr Immobilien im Dorf Ongaresca unter anderem eine
+Mark und 60 Pfennige.
+F$Bianchi Thes./0862/288/288
+G$Milanolus/X/X/X//
+E$X/X/X/X//
+H$Zins/Immobilien/Udine/Udine,Ongaresca/Ongaresca/Udine
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$60/den./X/Z
+Q$unam marcham et denarios LX
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12aaaa?/1200.0.0#?/1200.0.0#?/X/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Milanolus zinst jÑhrlich fÅr eine halbe Hube im Dorf Ongaresca unter anderem
+eine Mark und 48 Pfennige.
+
+REG$Milanolus zinst jÑhrlich fÅr eine halbe Hube im Dorf Ongaresca unter anderem
+eine Mark und 48 Pfennige.
+F$Bianchi Thes./0868/290/290
+G$Milanolus/X/X/X//
+E$X/X/X/X//
+H$Zins/Immobilien/Udine/Udine,Ongaresca/Ongaresca/Udine
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$48/den./X/Z
+Q$unam marcham et denarios XLVIII
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12aaaaa?/1200.0.0#?/1200.0.0#?/X/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bertulinus, Schmied in Udine, zinst jÑhrlich fÅr ein GrundstÅck in burgo
+Superiori Utini an Aquileia 8 Pfennige.
+
+REG$Bertulinus, Schmied in Udine, zinst jÑhrlich fÅr ein GrundstÅck in burgo
+Superiori Utini an Aquileia 8 Pfennige.
+F$Bianchi Thes./1057/313/313
+G$Bertulinus/Schmied/Udine/Udine//wo??
+E$X/X/Aquileia/Aquileia?//Friaul-SÅd/
+H$Zins/Immobilien/Udine/Udine?//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$denarios octo
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_12aaaab?/1200.0.0#?/1200.0.0#?/X/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Dekan Bernhard von Cividale bekommt fÅr ein Haus in Udine jÑhrlich 19
+Pfennige Zins.
+
+REG$Dekan Bernhard von Cividale bekommt fÅr ein Haus in Udine jÑhrlich 19
+Pfennige Zins.
+F$Bianchi Thes./1058/314/314
+G$X/X/X/X//
+E$Bernhard/Dekan/Cividale/Cividale//Friaul-Ost/
+H$Zins/Immobilien/Udine/Udine//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$19/den./X/Z
+Q$de decem et novem denariis
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1248a/1248.3.12/1248.3.12/1248 MÑrz 12/anno domini MCCXLVIII. die duodecimo
+intrante mense Marcii indictione sexta/Aquileia/Aquileia//Friaul-SÅd/
+S$Hartwig/kaiserl. Notar/Hartwig
+V$Hartwig/kaiserl. Notar/Hartwig
+K$Patriarch Berthold von Aquileia befreit mit Zustimmung des Kapitels den
+Markt Udine von jeder Steuer.
+
+REG$Patriarch Berthold von Aquileia befreit mit Zustimmung des Kapitels den
+Markt Udine von jeder Steuer unter Strafe von 1000 Mark Gold bei Zuwiderhandeln.
+F$MSF 30/X/60f/60
+F$BCU Ms. Joppi 369 Fasz. 5/12/1ff/1
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Udine/Udine//Friaul-Mitte/
+E$Pînale/Strafgeld/Rîm.Reich/kaiserl.//wo??  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$sub pena et obbligacione mille marcharum puri auri
+
+REG$Patriarch Berthold von Aquileia befreit mit Zustimmung des Kapitels den
+Markt Udine von jeder Steuer unter Strafe von 1000 Mark Gold bei Zuwiderhandeln,
+wobei die eine HÑlfte an die kaiserliche Kasse, die andere an die Kommune von
+Udine bezahlt werden soll.
+F$MSF 30/X/60f/60
+F$BCU Ms. Joppi 369 Fasz. 5/12/1ff/1
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Udine/Udine//Friaul-Mitte/
+E$Pînale/Strafgeld/Rîm.Reich/kaiserl.//wo??  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$in dicta pena mille marcharum auri teneantur
+
+DOK$fand_1250/1250.12.9/1250.12.9/1250 Dezember 9/anno domini MCCL. indictione XV. die nona intrante
+decembr./X/X//
+S$Heinrich/Artinea?Artegna/Heinrich
+V$Heinrich/Artinea??/Heinrich
+V$Jurius?/Attimis/Jurius ?
+K$Diemut von Pertenstain? und ihr Sohn Herbord verkaufen Friedrich, dem
+Gastalden
+[von Udine], zwei Huben in Canale de Guart im Dorf Ludaria zum Preis von 10
+Mark Pfennige Agleier MÅnze.
+
+REG$Diemut von Pertenstain? und ihr Sohn Herbord verkaufen Friedrich, dem
+Gastalden
+[von Udine], zwei Huben in Canale de Guart im Dorf Ludaria zum Preis von 10
+Mark Pfennige Agleier MÅnze.
+F$BCSD VarMss Details, T. III/7/1v/1v
+G$Friedrich/Gastalde/Udine/Udine//Friaul-Mitte/
+E$Diemut/Genannte/Partistagno/Partistagno//Friaul-Ost/
+E$Herbord/Genannter/Partistagno/Partistagno// wo?? ?
+H$Kauf/Immobilien/Ludaria/Ludaria//Friaul-Nord?
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$precio et foro X marcarum denariorum Aquilegensis monete
+
+REG$Diemut von Pertenstain? und ihr Sohn Herbord verkaufen Friedrich, dem
+Gastalden [von Udine], zwei Huben in Canale de Guart im Dorf Ludaria, die
+jÑhrlich eine Mark an die Kurie zinsen.
+F$BCSD VarMss Details, T. III/7/1v/1v
+G$X/X/X/X// ?
+E$X/Kurie/X/X?//
+H$Zins/Immobilien/Ludaria/Ludaria//Friaul-Nord?/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$reddentes annuatim unam marcam ad usum curie
+
+DOK$fand_1147aa/1147.0.0/1147.0.0/ca. 1147/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Instrument von Abundanzil, Veneris Sohn aus der Lombardei, auf Armelia und
+ihre Kinder Leo, Eberhard und Leonhard um ein StÅck Erdreich bei Gemona, stî·t
+an Consortia, an Coriola und an die Stra·e, um 10 Pfund an Silber und an Ware.
+
+REG$Instrument von Abundanzil, Veneris Sohn aus der Lombardei, auf Armelia und
+ihre Kinder Leo, Eberhard und Leonhard um ein StÅck Erdreich bei Gemona, stî·t
+an Consortia, an Coriola und an die Stra·e, um 10 Pfund an Silber und an Ware.
+F$Reg. Gîrz 1/215/60/60
+G$Armelia;Leo;Eberhard;Leonhard/X/X/X//
+E$Abundanzil/X/X/X?//Lombardei/
+H$Kaufpreis_Wertangabe/Immobilien/Gemona/Gemona//wo??
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/argentum/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1193aa/1193.1.10/1193.1.10/(1193) JÑnner 10/anno ab incarnatione domini
+MCXCII. indictione X. quarto idus ianuarii/Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Kaiser Heinrich VI. bestÑtigt dem Patriarchen Gottfried von Aquileia das
+Herzogtum Friaul mit allen Rechten, auch der Hochgerichtsbarkeit und allem, was
+zum FÅrstenbann gehîrt, und bekrÑftigt alle VertrÑge, welche zwischen dem
+Patriachen Pilgrim und dem Grafen Meinhard sowie zwischen dem Patriarchen
+Ulrich und dem Grafen Engelbert Åber die Vogtei abgeschlossen wurden. Niemand
+soll die erwÑhnte Gerichtsbarkeit oder ein anderes Recht, welches zum Herzogtum
+gehîrt, ohne die Erlaubnis der Patriarchen ausÅben bei einer Pîn von 30 Pfund
+reinen Goldes halbteils der kaiserlichen Kammer, halbteils der Agleier
+Kirche zahlbar.
+
+REG$Kaiser Heinrich VI. bestÑtigt dem Patriarchen Gottfried von Aquileia das
+Herzogtum Friaul mit allen Rechten, auch der Hochgerichtsbarkeit und allem, was
+zum FÅrstenbann gehîrt, und bekrÑftigt alle VertrÑge, welche zwischen dem
+Patriachen Pilgrim und dem Grafen Meinhard sowie zwischen dem Patriarchen
+Ulrich und dem Grafen Engelbert Åber die Vogtei abgeschlossen wurden. Niemand
+soll die erwÑhnte Gerichtsbarkeit oder ein anderes Recht, welches zum Herzogtum
+gehîrt, ohne die Erlaubnis der Patriarchen ausÅben bei einer Pîn von 30 Pfund
+reinen Goldes halbteils der kaiserlichen Kammer, halbteils der Agleier
+Kirche zahlbar.
+F$Reg. Gîrz 1/298/82/82
+F$Kos 4/824/413/413
+G$X/X/X/X//
+E$X/Kammer/Rîm.Reich/kaiserl.?//wo??
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$30/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$?
+B$Nach dem Regest aufgenommen. Aus dem Itinerar ergibt sich als wahrscheinliche
+Datierung 1193 (Reg. Gîrz 1 S. 82).
+
+DOK$fand_1202a/1202.12.13/1202.12.13/1202 Dezember 13/anno domini MCCII. XIII. die intrante
+decembrio indictione X./Cividale/Cividale//Friaul-Ost/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Dietrich von Fontebono u.a. erteilen ihren Spruch Åber die Vogteirechte der
+Grafschaft von Gîrz.
+
+REG$Heinrich von Gemona u.a. sagen unter Eid aus, da· Graf Engelbert von Gîrz
+vom Patriarchen von Aquileia 4 Mark vom Hafengeld und Zoll in Aquileia bekommen
+habe.
+F$Rubeis MEA/X/647ff/648
+F$Schwind-Dopsch/20/32ff/33?wo
+F$Reg. Gîrz 1/319/87f/87
+F$Kos 5/036/29ff/30
+G$Pilgrim II./Patriarch/Aquileia/Aquileia//Friaul-Patr.  ? Ulrich?
+E$Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Weistum/Vogtei/Aquileia/?Aquileia//Friaul-SÅd/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item in Aquilegia habebat a patriarcha de ripatico et theloneo IV marchas
+B$Das MÅnzrecht besa·en die Grafen von Gîrz nicht!! Siehe auch Czîrnig, S.607
+
+REG$Heinrich von Gemona u.a. sagen unter Eid aus, da· Graf Engelbert von Gîrz
+vom Patriarchen von Aquileia in Clusa 3 Mark vom Hafengeld und Zoll bekommen
+habe.
+F$Rubeis MEA/X/647ff/648
+F$Schwind-Dopsch/20/32ff/33
+F$Reg. Gîrz 1/319/87f/87
+G$Pilgrim II./Patriarch/Aquileia/Aquileia//Friaul-Patr.   Ulrich?
+E$Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Weistum/Vogtei/Chiusaforte/Chiusaforte/Clusa Aquileia?/wo??
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item in Aquilegia habebat a patriarcha de ripatico et theloneo \dots de Clusa
+III marchas
+
+REG$Heinrich von Gemona u.a. zÑhlen unter Eid auf, welchen Vogtzins Graf Engelbert
+von Gîrz in Agello erhalten hat, nÑmlich genannte Waren oder 16 Pfennige.
+F$Rubeis MEA/X/647ff/648
+F$Schwind-Dopsch/20/32ff/33
+F$Kos 5/036/29ff/30
+G$X/X/X/X//
+E$Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Weistum/Vogtei/Ajello/Ajello/Agello/con Cervignano/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Has etiam advocatus habebat rationes: in Agello II modios frumenti, II
+modios avenae, II oves vel XVI denarios
+
+REG$Heinrich von Gemona u.a. sagen unter Eid aus, da· Graf Engelbert von Gîrz,
+wenn der WaldhÅter von "Cinto"(?) gewechselt wurde, vom Nachfolger 3 Mark
+erhalten hat.
+F$Rubeis MEA/X/647ff/649
+F$Schwind-Dopsch/20/32ff/33
+F$Reg. Gîrz 1/319/87f/87
+F$Kos 5/036/29ff/30
+G$X/WaldhÅter/Cinto/Cinto//di Portogruaro
+E$Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Weistum/Vogtei/Cinto/Cinto//di Portogruaro  Caomaggiore
+W$X/X
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quando Forestarius Cinti mutabatur, ille qui succedebat, III marchas advocato
+dabat
+
+REG$Heinrich von Gemona u.a. sagen unter Eid aus, da· Graf Engelbert von Gîrz,
+wenn der Patriarch Hof hielt und der Vogt zum Hofdienst erschien, im Winter ein
+Winterkleid, im Sommer ein Sommerkleid, jeden Winter aber einen Fuchspelz und
+eine Mark erhalten hat.
+F$Rubeis MEA/X/647ff/649
+F$Schwind-Dopsch/20/32ff/34
+F$Reg. Gîrz 1/319/87f/88
+F$Kos 5/036/29ff/30
+G$Pilgrim II./Patriarch/Aquileia/Aquileia//Friaul-Patr.   Ulrich?
+E$Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Weistum/Vogtei/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$qualibet hyeme pellicium vulpinum, vel unam marcham
+
+DOK$fand_1218a/1218.0.0/1220.0.0/1218 - ca.1220/X/X/X//
+S$X/X/X
+V$X/X/X
+K$EinkÅnfte der Grafschaft Peilstein.?
+
+REG$EinkÅnfte der Grafschaft Peilstein aus der Maut unter Schlo· Karlstein bei
+Reichenhall in der Hîhe von 50 Mark Silber.
+F$MGH Dt. Chroniken 3/3/722ff/723
+G$X/X/X/X//
+E$X/Grafschaft/Peilenstein/Peilenstein/Peilstein/Krain
+H$EinkÅnfte/Maut/Karlstein Schlo· b.Reichenhall/Karlstein,Schlo· b. Reichenhall//Bayern/
+W$X/X
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$under dem hous ist ein mautte diu giltet fumfzich march silbers
+
+DOK$fand_1225aa/1225.6.0/1225.6.0/1225 Juni/die quodam mense iunii, per
+indictionem XIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Der Herzog von ôsterreich und Graf Meinhard III. von Gîrz kommen auf ihrer
+Reise nach Rom zum Kaiser durch Venedig. Der Graf von Gîrz nimmt bei dieser
+Gelegenheit hier ein Darlehen von 50 Mark Silber auf, welches er Ende Oktober
+zurÅckzahlen soll.
+
+REG$Der Herzog von ôsterreich und Graf Meinhard III. von Gîrz kommen auf ihrer
+Reise nach Rom zum Kaiser durch Venedig. Der Graf von Gîrz nimmt bei dieser
+Gelegenheit beim Dogen eine Anleihe von 50 Mark Silber auf, welche er Ende
+Oktober zurÅckgeben soll.
+F$Cessi, Deliberazioni 1/137/83/83
+F$Kos 5/420/211/211
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/299/78f/78
+F$Reg. Gîrz 1/412/112/112
+G$Meinhard III./Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Petrus \c{C}iani/Doge/Venedig/Venedig//Venedig/
+H$SchuldenrÅckzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$marcas quinquaginta boni argenti
+B$Nach dem Regest aufgenommen.  Pfennige ausbezahlt? Kos datiert "Mitte Juni".
+
+REG$Der Herzog von ôsterreich und Graf Meinhard III. von Gîrz kommen auf ihrer
+Reise nach Rom zum Kaiser durch Venedig. Der Graf von Gîrz nimmt bei dieser
+Gelegenheit hier eine Anleihe von 50 Mark Silber auf, welche er Ende Oktober
+zurÅckgeben soll. Sollte der Graf dem nicht nachkommen, hat der Doge das Recht,
+Menschen und GÅter des Grafen und des Herzogs bis zur Bezahlung der 50 Mark zu
+pfÑnden.
+F$Cessi, Deliberazioni 1/137/83/83
+G$Meinhard III./Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Petrus \c{C}iani/Doge/Venedig/Venedig//Venedig/
+H$SchuldenrÅckzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$usque ad solucionem ipsarum marcarum quinquaginta
+B$Nach dem Regest aufgenommen.  Pfennige ausbezahlt? Kos datiert "Mitte Juni".
+
+DOK$fand_1226aa/1226.10.27/1226.10.27/1226 Oktober 27/die V. exeunte octobri/Aquileia/(Aquileia)//Friaul-SÅd/
+S$Omnibonus/kaiserl. Notar/Omnibonus
+V$Omnibonus/kaiserl. Notar/Omnibonus
+K$Meinhard, der Ñltere Graf von Gîrz, bekennt, mit Willen seines Neffen
+Meinhard, des Grafen von Gîrz, vom Patriarchen Berthold von Aquileia 400 Mark
+Silber fÅr die Dîrfer Sedeglano, San Laurentio und Grillons erhalten zu haben.
+
+REG$Meinhard, der Ñltere Graf von Gîrz, bekennt, mit Willen seines Neffen
+Meinhard, des Grafen von Gîrz, vom Patriarchen Berthold von Aquileia 400 Mark
+Silber fÅr die Dîrfer Sedeglano, San Laurentio und Grillons erhalten zu haben.
+F$Rubeis MEA/X/717f/717
+F$Reg. Gîrz 1/422/114/114
+F$Manzano AF 2/X/291/291
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard II./Graf/Gîrz/Gîrz//Friaul-Ost/
+H$BestÑtigung_Kauf/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$pro CCCC marchis argenti
+B$Paschini, Bertoldo, MSF 15, S. 42 datiert die Urkunde
+auf 24. Oktober 1226. Manzano S. 291 schreibt di "puro" argento.
+
+REG$Graf Meinhard II. von Gîrz ÅberlÑ·t den Anteil an der Maut zu Aquileia in der
+Hîhe von 4 Mark Agleier MÅnze, der ihm auf Lebenszeit alljÑhrlich zusteht , der
+Kirche von Aquileia.
+F$Rubeis MEA/X/717f/717
+F$Manzano AF 2/X/291/291
+G$Meinhard II./Graf/Gîrz/Gîrz//Friaul-Ost/
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Schenkung/Maut/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro IV marchis Aquilegensis monet\{}ae
+B$Paschini, Bertoldo, MSF 15, S. 42 datiert die Urkunde
+auf 24. Oktober 1226. Manzano S. 291 schreibt di "puro" argento.
+
+DOK$fand_1226aab/1226.10.5/1226.10.5/1226 (!) Oktober 5/?/X/?//
+S$X/X/X
+V$X/X/X
+K$Meinhard, der Ñltere Graf von Gîrz,  Investitur fÅr 400 Mark Silber ?
+
+REG$NN
+F$BCSD H. 11/X/245ff/?
+G$Berthold/Patriarch/Aquileia/Aquileia?//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Investitur/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$?
+B$Wo ist die Urkunde?
+
+DOK$fand_1240aa/1240.0.0/1240.0.0/1240/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Quittung des Dogen Teupoli von Venedig Dalmatien und Kroatien an Graf
+Meinhard von Gîrz wegen der RÅckgabe des Raubes, der Johann Barotii und anderen
+venezianischen BÅrgern von seiten der gîrzischen Untertanen im Triester Gebiet
+widerfahren ist, mit ewigem Verzicht der AnsprÅche um solchen Raub bei einer
+Strafe von 10 000 Mark Silber.
+
+REG$Quittung des Dogen Teupoli von Venedig Dalmatien und Kroatien an Graf
+Meinhard von Gîrz wegen der RÅckgabe des Raubes, der Johann Barotii und anderen
+venezianischen BÅrgern von seiten der gîrzischen Untertanen im Triester Gebiet
+widerfahren ist, mit ewigem Verzicht der AnsprÅche um solchen Raub bei einer
+Strafe von 10000 Mark Silber.
+F$Reg. Gîrz 1/481/128/128
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$X/X/Venedig/Venedig?//Venedig/
+H$Pînale/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$10000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+Reg. Gîrz 1, Nr. 491 Wiederholung von 1241 September 16, Venedig.
+
+DOK$Wenzel7_112/1245.6.27/1245.6.27/1245 Juni 27/V. kalendas Julii/Ferrara/Ferrara//
+S$Gregor de Moutelungo/Rom/Gregor de Moutelungo
+V$Gregor de Moutelungo/Rom/Gregor de Moutelungo
+K$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat, an den
+Probst von Ferrara betreffend Abgaben.
+
+REG$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat, erinnert
+Sumaga, Diîzese Concordia, an die Zahlung von 20 Schilling fÅr die abgelaufene
+Zeit und danach an die jÑhrlich Zahlung von 20 Schilling.
+F$Wenzel CD Arpad. 07/112/183ff/183
+G$X/Kirche/Sumaga/Sumaga//
+E$X/Kirche/Rom/Rom//
+H$Zahlungsverpflichtung/Zahlungsverpflichtung/Rom/Rom//
+W$X/X
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$Sumaquensis Diocesis Concordiensis pro transactis temporibus viginti solidos
+
+REG$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat,
+erinnert Sumaga, Diîzese Concordia, an die Zahlung von 20 Schilling fÅr die
+abgelaufene Zeit und danach an die jÑhrlich Zahlung von 20 Schilling.
+F$Wenzel CD Arpad. 7/112/183ff/183
+G$X/Kirche/Sumaga/Sumaga//
+E$X/Kirche/Rom/Rom//
+H$Zahlungsverpflichtung/Zahlungsverpflichtung/Rom/Rom//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$Sumaquensis Diocesis Concordiensis \dots annuatim viginti solidos
+
+REG$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat, erinnert
+die Kirche von Beligna an die jÑhrliche Zahlung von 20 Schilling.
+F$Wenzel CD Arpad. 7/112/183ff/184
+G$X/Kirche/Beligna/Beligna//
+E$X/Kirche/Rom/Rom//
+H$Zahlungsverpflichtung/Zahlungsverpflichtung/Rom/Rom//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$Belegnenses annuatim viginti solidos
+
+REG$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat, erinnert
+das Kloster Moggio an die jÑhrliche Zahlung von 20 Schilling.
+F$Wenzel CD Arpad. 7/112/183ff/184
+G$X/Kloster/Moggio/Moggio//
+E$X/Kirche/Rom/Rom//
+H$Zahlungsverpflichtung/Zahlungsverpflichtung/Rom/Rom//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$Mosacenses annuatim viginti solidos
+
+REG$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat, erinnert
+die Kirche von Sesto an die jÑhrliche Zahlung von 40 Schilling.
+F$Wenzel CD Arpad. 7/112/183ff/184
+G$X/Kirche/Sesto/Sesto//
+E$X/Kirche/Rom/Rom//
+H$Zahlungsverpflichtung/Zahlungsverpflichtung/Rom/Rom//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$de Sesto Concordiensis Diocesis annuatim quadraginta solidos
+
+REG$Gregor von Moutelungo, der Notar des Papstes und apostolischer Legat, erinnert
+die Kirche von Rosazzo an die jÑhrliche Zahlung von 40 Schilling.
+F$Wenzel CD Arpad. 7/112/183ff/184
+G$X/Kirche/Rosazzo/Rosazzo//
+E$X/Kirche/Rom/Rom//
+H$Zahlungsverpflichtung/Zahlungsverpflichtung/Rom/Rom//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$Rosacenses annuatim quadraginta solidos
+
+DOK$fand_1248aa/1248.0.0/1248.0.0/(1248)/X/Gîrz/Gîrz//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$Graf Meinhard von Gîrz nimmt Herrn Amelricus von Montona in seine Gnade auf
+und verspricht ihn zu behalten und zu schÅtzen gegen jeden mit Rat und Tat.
+Dies bekrÑftigen die genannten Gîrzer Ministerialen. Dagegen schwîrt Amelricus
+dem Grafen wider jeden beizustehen und alle seine GeschÑfte getreulich zu
+besorgen, wie er dies seinem Vater (Meinhard) immer tat. Wenn Herr Amelricus
+vorliegendes Versprechen offensichtlich Åbertrete, wird er dem Grafen mit 500
+Mark Agleier Pfennig straffÑllig und bleibt gleichzeitig rechtsbrÅchig.
+
+REG$Graf Meinhard von Gîrz nimmt Herrn Amelricus von Montona in seine Gnade auf
+und verspricht ihn zu behalten und zu schÅtzen gegen jeden mit Rat und Tat.
+Dies bekrÑftigen die genannten Gîrzer Ministerialen. Dagegen schwîrt Amelricus
+dem Grafen wider jeden beizustehen und alle seine GeschÑfte getreulich zu
+besorgen, wie er dies seinem Vater (Meinhard) immer tat. Wenn Herr Amelricus
+vorliegendes Versprechen offensichtlich Åbertrete, wird er dem Grafen mit 500
+Mark Agleier Pfennig straffÑllig und bleibt gleichzeitig rechtsbrÅchig.
+F$Reg. Gîrz 1/524/138/138
+G$Amalrich/Genannter/Montona/Montona//Istrien?/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$500/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1249/1249.1.19/1249.1.19/1249 JÑnner 19/die Iovis XI.? exeunte Ianuario anno domini
+MCCXLVIIII. ind. VIII./Ragogna/Ragogna/Ragonia/Friaul-Mitte/
+S$Antonius de Malerbis/X/Antonius de Malerbis
+V$Antonius de Malerbis/X/Antonius de Malerbis  Malerta?
+K$Wilhelm de Fontabona ÅberlÑ·t dem Grafen Meinhard von Gîrz fÅr 1200 Pfund
+kleiner Veroneser alle seine GÅter und Leute in Istrien von St. Johann am Karst
+weg durch ganz Istrien als Eigentum und investiert ihn damit. Der Graf
+verspricht die Summe innerhalb genannter Termine zu bezahlen und stellt BÅrgen.
+
+REG$Wilhelm de Fontabona ÅberlÑ·t dem Grafen Meinhard von Gîrz fÅr 1200 Pfund
+kleiner Veroneser alle seine GÅter und Leute in Istrien von St. Johann am Karst
+weg durch ganz Istrien als Eigentum und investiert ihn damit. Der Graf
+verspricht die Summe innerhalb genannter Termine zu bezahlen und stellt BÅrgen.
+F$Reg. Gîrz 1/537/140/140
+F$BCU Ms. 947/59/113r-113v/?
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Wilhelm/Genannter/Fontanabona/Fontanabona/Fontanabuona/Friaul-Mitte/
+H$Kauf/Immobilien/Istrien/Istrien//Istrien/
+W$Verona/X/
+O$1200/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$fand_1251/1251.1.8/1251.1.8/1251 JÑnner 8/anno dominice incarnacionis MCCLI indictione
+nona die dominico octavo intrante ianuario/Cividale/Cividale//Friaul-Ost/
+S$Johannes de Pistorio/kaiserl. Notar/Johannes de Pistorio
+V$Johannes de Pistorio/kaiserl. Notar/Johannes de Pistorio
+K$Schiedsspruch im Streit zwischen dem Patriarchen Berthold von Aquileia und dem
+Grafen Meinhard von Gîrz.
+
+REG$Patriarch Berthold von Aquileia und seine BÅrgen haben dem Grafen Meinhard
+von Gîrz in Istrien 1000 Mark versprochen.
+F$AT NS 12/25/6ff/8
+F$Reg. Gîrz 1/558/145f/145
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Zahlungsversprechen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de mille marchis quas ipse d. Comiti in Hystria promiserat
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch und seine BÅrgen dem Grafen
+fÅr die 1000 Mark nicht verpflichtet sein sollen, welche sie ihm in Istrien
+versprochen haben.
+F$At NS 12/25/6ff/8
+F$Reg. Gîrz 1/558/145f/145
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Verzicht_Zahlungsversprechen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$patriarcham et fideiussores eius pro dictis mille marchis de ipsa promissione
+duximus penitus absolvendos
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· die BÅrgen aller Haftung fÅr die 2400 Mark
+ledig sein sollen, welche der Patriarch dem Grafen zu Manzano gegeben hatte,
+und da· die fÅr die genannte Summe verpfÑndeteten GÅter der Agleier Kirche
+verbleiben sollen.
+F$AT NS 12/25/6ff/8
+F$Reg. Gîrz 1/558/145f/145
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Schulden?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2400/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de duobus millibus et quadragintis (!) marchis quas ipsi comiti apud Manzanum
+dederat d. patriarcha
+B$quadragintis statt quadringentis?
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen 4 Vasallen und 20
+Ministerialen stellen soll, welche die Einhaltung des Spruches unter einer
+Pînale von 4200 Mark, sichergestellt auf die genannten Schlîsser, gewÑhrleisten.
+F$AT NS 12/25/6ff/9
+F$Reg. Gîrz 1/558/145f/145
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Immobilien/Wippach;Ahrensperg/Wippach;Ahrensperg/Arensberg/
+W$X/X/
+O$4200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quatuor mille marchis et ducentis marchis obbligata castra pro pena
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen 4000 Mark fÅr
+genannte Pfandschaften schuldet.
+F$AT NS 12/25/6ff/11
+F$Reg. Gîrz 1/558/145f/145
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dare debeant d. comiti vel suis heredibus quatuor millia marcharum
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen fÅr 2050 Mark
+ledig sein soll.
+F$AT NS 12/25/6ff/11
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Verzicht_PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2050/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro duobus millibus et quinquaginta marchis per d. patriarcham, de quibus ipse
+d. patriarcha est absolutus sicut superius est expressum
+B$2400 oder 2040 Mark nachgelassen?
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen 2050 Mark fÅr
+genannte Pfandschaften schuldet.
+F$AT NS 12/25/6ff/11
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2050/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$remanentibus iterato pro duobus millibus et quinquaginta marchis obligatis d.
+comiti et heredibus suis
+B$weiter unten in der Urkunde 2500 Mark.?
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen fÅr Schulden? in
+der Hîhe 1500 Mark GÅter der Kirche von Aquileia verpfÑnden soll.
+F$AT NS 12/25/6ff/11
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1500/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro mille autem et quingentis marchis ad complendum predictam summam quattuor
+mille marcharum
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen die Summe von 4000
+Mark fÅr genannte Pfandschaften schuldet.
+F$AT NS 12/25/6ff/11
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro mille autem et quingentis marchis ad complendum predictam summam quattuor
+mille marcharum
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch den RÑten des Grafen 500
+Agleier Mark schuldet.
+F$AT NS 12/25/6ff/11
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/RÑte/Gîrz/Gîrz//Friaul-Ost?/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$500/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad quingentas marchas Aquilegenses teneatur dare d. patriarcha
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch den RÑten des Grafen GÅter
+statt 200 Mark Åberlassen soll, bis das Geld bezahlt ist.
+F$AT NS 12/25/6ff/12
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/RÑte/Gîrz/Gîrz//Friaul-Ost?/
+H$Schulden_Pfand?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$assignare possit possessiones dictis consiliariis pro ducentis marchis quas
+ipsi et eorum heredes habeant et teneant
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da·, wenn der Patriarch oder seine Nachfolger
+die genannten 4200 Mark zu den festgesetzten Terminen nicht bezahlt, der Graf
+und seine Erben die verpfÑndeten GÅter von der Agleier Kirche zu Lehen haben
+sollen.
+F$AT NS 12/25/6ff/12
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Schuldentilgung/Belehnung/unbestimmt/unbestimmt//
+W$X/X/
+O$4200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$non solveret \dots quatuor millia marchas et ducentas marchas in terminos seu
+terminis ordinandis
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen fÅr
+2500 Mark GÅter der Kirche von Aquileia verpfÑndet hat, welche der
+Graf, wenn er das Geld nicht zurÅckbezahlt, zu Lehen haben soll.
+F$AT NS 12/25/6ff/12
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2500/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro duobus millibus et quingentis marchis
+
+REG$Im Streit zwischen Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz
+entscheiden die Schiedsrichter, da· der Patriarch dem Grafen fÅr Schulden? in
+der Hîhe 1500 Mark GÅter der Kirche von Aquileia verpfÑnden soll, welche der
+Graf, wenn er das Geld nicht zurÅckbezahlt, zu Lehen haben soll.
+F$AT NS 12/25/6ff/12
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1500/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro mille et quingentis marchis
+
+

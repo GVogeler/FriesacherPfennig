@@ -1,0 +1,495 @@
+
+note *** Urkunden Cividale Benediktinerinnenkloster S. Maria in Valle (II)
+        Aufnahme nach Materialsammlung zum Zeitpunkt der Erstaufnahme
+        Hier die in Edition Maffei nicht identifizierten StÅcke gesammelt
+        Vorhandensein in Edition (bzw. Dubletten-Eigenschaft) noch zu prÅfen
+
+note *** Einlesen der Rohdaten fr_cvall.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+
+DOK$cval_a/1200.0.0/1200.0.0/ca. 1200/X/Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$Niederschrift Åber die Klagen des Klosters S. Maria in Valle zu Cividale
+gegenÅber Konrad, dem Kapellan des Klosters, Rechte Åber bestimmte GÅter betreffend.
+
+REG$Zinsleistung eines StÅck Landes in Prestento an das Kloster S. Maria in Valle
+zu Cividale in der Hîhe von drei congii Wein und fÅnf Pfennigen.
+F$BCU Ms. 1223,1/087/135/135
+F$Novello/06/1f/2
+F$Leicht Note/?/479/479
+F$MSF 33-34/3/25/25
+F$Perusini Vita di Popolo/7/99/99
+G$X/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsleistung/Immobilien/Prestento/Prestento//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$qui solvebat censum monasterio tres congios vini et quinque denarios
+
+REG$Zinsleistung eines StÅck Landes in Moimacco? Rubiniacco ?an das Kloster S.
+Maria in Valle zu Cividale in der Hîhe von vier Pfennigen.
+F$BCU Ms. 1223,1/087/135/135
+F$Novello/06/1f/2
+F$Leicht Note/?/479/479
+F$MSF 33-34/3/25/25
+G$X/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsleistung/Immobilien/Moimacco/Moimacco?//Friaul-Ost    Rubiniacco?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$de qua solvebat quattuor denarios
+B$Nicht sicher, ob das zweite Gut wirklich in Moimacco liegt
+
+DOK$cval_b/1200.0.0/1200.0.0/ca. 1200/X/Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$Niederschrift Åber vom Kloster S. Maria in Valle in Cividale gekaufte GÅter,
+darunter auch die Vogtei zu Cosbana.
+
+REG$FÅr Civilidina wurde vom Kloster S. Maria in Valle zu Cividale eine Hube in
+der villa Sanguars? gekauft, die jÑhrlich unter anderem 24 Pfennige zahlt.
+F$BCU Ms. 1223,2/124/229/229
+F$Novello/07/1ff/1
+G$Titho?/X/Cividale/Cividale//Friaul-Ost/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsleistung/Immobilien/Sanguarzo di Cividale/Sanguarzo di
+Cividale/Sanguars/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$qui solvitur annuatim \dots viginti quattuor denarios
+B$Angelegenheit in eigener Sache, gehîrig zu cvall 5
+
+REG$FÅr Civilidina wurde vom Kloster S. Maria in Valle zu Cividale eine Hube in
+der villa Raunich gekauft, die jÑhrlich 11 Pfennige zahlt.
+F$BCU Ms. 1223,2/124/229/229
+F$Novello/07/1ff/1
+G$Sabadinus Solanus?/X/Cividale/Cividale//Friaul-Ost/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsleistung/Immobilien/Raunig/Raunig di Quisca/Raunich/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$11/den./X/Z
+Q$qua sovitur annuatim undecim denarios
+B$Angelegenheit in eigener Sache, gehîrig zu cvall 5
+
+REG$FÅr Civilidina wurde vom Kloster S. Maria in Valle zu Cividale die Vogtei zu
+Cosbana gekauft, die jÑhrlich unter anderem 18 Pfennige zahlt.
+F$BCU Ms. 1223,2/124/229/229
+F$Novello/07/1ff/3
+G$X/X/Cosbana/Cosbana//Friaul-Ost/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsleistung/Vogtei/Cosbana/Cosbana//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/Z
+Q$que solvitur annuatim \dots decem et octo denarios
+B$Angelegenheit in eigener Sache, gehîrig zu cvall 5
+
+DOK$cval_c/1200.0.0/1200.0.0?/um 1200/X/Cividale/Cividale//Friaul-Ost/
+S$X/X/X/
+V$X/X/X/
+K$?
+                   aufnehmen, obwohl ohne Betrag?
+REG$NN
+F$SM Valle 1/Nr. 14/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Kauf/Immobilien/Prestento/Prestento//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro terra que fuit empta pro denariis quelle que tenditur prope
+terra;terra dicta fuit empta pro denariis Ciulidina filia
+B$Angaben, woher das Geld fÅr den Kauf stammt, zu cvall4 gehîrig
+
+
+DOK$cval_d/1212.12.26/1212.12.26/1212 Dezember 26/anno domini MCCXII. VII.
+kal. Ianuarii indictione XV /Cividale/Cividale//Friaul-Ost/
+S$Leonhard/kaiserl. Notar/Leonhard
+V$Leonhard/kaiserl. Notar/Leonhard
+K$Strajne [?] und seine Frau Boniza urkunden fÅr Aimo, den Sohn des Button,
+wegen des "Castenetto" zu Pietra Mala.
+
+REG$Strajne und seine Frau Boniza verkaufen dem Aimo, dem Sohn des Button,  ein
+GrundstÅck in Pietra Mala zum Preis von 13 Pfund.
+F$BCU Ms. 1223,2/055/118/118
+G$Aimo/X/X/X//
+E$Strajne;Boniza/X/X/X//
+H$Kauf/Immobilien/uFriaul_Ost Pietra Mala/Pietra Mala//Friaul-Ost/
+W$X/X/
+O$13/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio XIII librarum
+
+DOK$cval_e/1213.3.8/1213.3.8/1213 MÑrz 8/anno domini MCCXIII. octavo die
+intrante marcio indictione secunda/Cividale/Cividale?//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Die BrÅder Nikolaus und StanineStamul? verkaufen an Juvan und Helica, ihrer
+Verwandten, ein Haus in Borgo Bressana? zum Preis von 2 Mark.
+
+REG$Die BrÅder Nikolaus und StanineStamul? verkaufen an Juvan und Helica, ihrer
+Verwandten, ein Haus in Borgo Bressana? zum Preis von 2 Mark.
+F$BCU Ms. 1223,1/093/139/139
+F$Novello/10/1f/1
+G$Juvan;Helica/X/X/X//
+E$Nikolaus;Stamul/X/X/X//
+H$Kauf/Immobilien/Cividale/Cividale,Borgo Bressana/Borgo Bressana/Friaul-Ost/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$precio duarum marcharum de quo dixerunt suos esse
+B$Unklar, ob 1213 oder 1214.  1214 zweite Indiktion.
+
+DOK$cval_f/1215.1.25/1215.1.25/1215 JÑnner 25/anno MCCXV. indictione XIII.
+septimo die exeunte iannuario/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Friedrich von
+Barbana und einige von dessen Verwandten mit einem Wasserlauf samt zwei MÅhlen
+zwischen Brazzano und Villanova del Judri gegen jÑhrlichen Zins.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Friedrich von
+Barbana und einige von dessen Verwandten mit einem Wasserlauf samt zwei MÅhlen
+zwischen Brazzano und Villanova del Judri gegen jÑhrlichen Zins.
+Au·erdem wird vereinbart, da· die ébtissin ein Vorkaufsrecht um einen Preis,
+der um 8 Pfennige geringer als der SchÑtzwert? ist, besitzen soll.
+F$BCU Ms. 1223,2/026/42/42
+F$Novello/11/1ff/3
+G$Friedrich/Genannter/Barbana/Barbana di Bigliana//?
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Kauf_Abschlag/Immobilien/Brazzano;Villanova/Brazzano;Villanova//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$eidem dare octo denarios minus iusto precio
+
+DOK$cval_g/1215.11.3/1215.11.3/1215 November 3/anno domini MCCXV. indictione
+XIII. tertio die intrante novembre/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$ébtissin Gisela von S. Maria in Valle zu Cividale investiert Wariend mit einer
+Hube zu Gagliano.
+
+REG$ébtissin Gisela von S. Maria in Valle zu Cividale investiert Wariend mit einer
+Hube zu Gagliano zu einem jÑhrlichen Zins in der Hîhe von unter anderem 5
+Pfennigen.
+F$BCU Ms. 1223,2/012/14/14
+F$Novello/12/1f/2
+G$Wariend/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Gagliano/Gagliano//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$quattuor denarios de pipere et quattuor gallinas et quadraginta ova
+et unum curum liguarum et quinque denarios
+B$Was hei·t "denarios de pipar"?
+
+DOK$cval_h/1223.2.5/1223.2.5/1223 Februar 5/X/Cividale/Cividale//Friaul-Ost/
+S$X/X/X     ist gleich ckap17
+V$X/X/X
+K$?Der Propst des Kapitels von Cividale verzichtet fÅr 3 Mark Pfennige auf?
+
+REG$NN
+F$Leicht/?/?/?
+F$SM Valle 1/Nr. 0/?/?
+G$X/Kapitel/Cividale/Cividale//Friaul-Ost/
+E$Hermann/Genannter/Premariacco/Premariacco//Friaul-Ost/
+H$Verzicht/Kapitel/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$il preposito del Capitolo di Cividale rinunzia, in seguito al
+versamento di tre marche di denaro
+B$nur das Regest von Leicht vorhanden   wo???
+
+DOK$cval_i/1243.0.0/1243.0.0?/ca. 1243/X/X/X//
+S$X/X/X
+V$X/X/X
+K$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, gewisse Geldsummen
+erhalten und gewisse Ausgaben getÑtigt zu haben.
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, von Elicha de
+Flagonea 14 Mark erhalten zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$Elicha/Genannte/Flagogna di Forgaria/Flagogna di Forgaria/Flagonea/wo??
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XIIII Marchas
+B$etwa 15 Mal marca vorkommend, einmal denarios
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, von Mazza de
+Ermindrude 20 Mark erhalten zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$Mazza/Genannte/uFriaul Ermindrude/Ermindrude?//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XX Marchas
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, von der Tochter des
+Konrad de Ragonia 10 Mark erhalten zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$X/Genannte/Ragogna/Ragogna/Ragonia/di S.Daniele
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$X Marchas
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, da· einst in der
+Kirche S. Maria Wachs und Spenden um 80 Mark gefunden wurden.
+F$ACU Coll. Bini DH V/20/?/?
+G$X/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung/Wertangabe?/unbestimmt/unbestimmt//
+W$X/X/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item quando inventa fuerunt Santuaria in Ecclesia S. Marie in cera et
+oblationibus LXXX Marchas
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, von den
+Rechtsentscheidungen? des Heinrich de Villalta 9,5 Mark erhalten zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$Heinrich/Genannte/Villalta/Villalta//wo??
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung_Einnahmen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$9,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$VIIII Marchas et dimidiam
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 45 Pfennige fÅr
+Waren von der villa de Strigna? ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/Stregna/Stregna di S. Pietro al Nat./Strigna/
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$45/den./X/A
+Q$De quibus denarii? expendi XLIIIII pro bonis emptis de villa de Strigna?
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, ein Mark Pfennige
+fÅr das Dormitorium ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item quando fuit edificatum Dormitorium expendi I Marcham sine Pane et Vino
+Monasterii
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 8 Mark Pfennige fÅr
+den Kirchenbau von S. Maria? ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$Item quando fuit ?edificata Ecclesia Sancte Marie octo Marchas in Denariis
+sine Pane et Vino
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 20 Mark fÅr die
+Kirche S. Johannes ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item quando fuit agitata Ecclesia Sancti Iohannis expendi sine Pane et Vino XX
+Marchas
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 20 Mark fÅr das Haus
+und den Garten des Rudolf de Cipriano ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Rudolf/Genannter/Savorgnano di Torre/Savorgnano di Torre/Ciprianum/wo??Comune di Povoletto
+H$BestÑtigung_Kauf/Immobilien/Friaul_Ost S.Johannes?Cividale/S.
+Johannes?Cividale//Friaul-Ost     Ausgaben?
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item quando emi Domum Domini Rodulfi de Cipriano qua sita erat post elesiam
+Sancti Iohannis et \dots Ortum ibidem XX Marchas.
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 5 Mark von ?
+empfangen zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$X/X/X/?//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung_Einnahmen?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item dedi pro ? V Marchas.
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 9 Mark fÅr
+Kirchenweihen? ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X?//
+H$BestÑtigung_Ausgaben?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$9/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item cum ?Episcopis qui dedicaverunt Ecclesias sine Pane et Vino VIIII Marchas
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 5 Mark fÅr die
+Freilassung dreier Knaben von Meinhard ? erhalten zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$Meinhard?/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung_Einnahmen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item pro Libertate trium puerorum quos impetebat Dominus Meynardus ? V Marchas
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, 5 Mark fÅr
+ ? erhalten zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$?/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$BestÑtigung_Einnahmen?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item pro ? empta V Marchas quando per ? suis Monasterium deservetuno?
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, eine Mark fÅr ôl
+ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item pro Oleo I Marcham
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, eine Mark fÅr Bohnen
+ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item pro Fabis I Marcham
+
+REG$ébtissin Gisla von S. Maria in Valle zu Cividale bekennt, eine Mark fÅr ?
+ausgegeben zu haben.
+F$ACU Coll. Bini DH V/20/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$BestÑtigung_Ausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Item pro hostio et Casella inglia Sanctuaria Fa? posita I Marcham
+
+DOK$cval_j/1250.0.0/1250.0.0/ca. 1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Niederschrift Åber die Klagen der ébtissin von S. Maria in Valle zu Cividale
+gegen den Dekan von Villanova wegen durch Jahre schuldig gebliebener
+MÅhlenzinse.
+
+REG$Die ébtissin des Klosters S. Maria in Valle zu Cividale gibt auf Bitten des
+Dekan dem Brugo vier Mark, von welchen er versprach zwei zurÅckzugeben.
+F$BCU Ms. 1223,2/198/43/43
+F$Novello/26/1f/1
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/Kapitel/Villanova/Villanova//Friaul-Ost?/
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedimus domino Brugoni quattuor marchas
+
+REG$Die ébtissin des Klosters S. Maria in Valle zu Cividale gibt auf Bitten des
+Dekan dem Brugo vier Mark, von welchen er versprach zwei zurÅckzugeben.
+F$BCU Ms. 1223,2/198/43/43
+F$Novello/26/1f/1
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$X/Kapitel/Villanova/Villanova//Friaul-Ost?/
+H$Gabe?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dedimus domino Burgoni quattuor marchas de quibus duas nobis reddere
+compromisit
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+DOK$cval_k/1250.0.0/1250.0.0?/um 1250/X/Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$N
+F$SM Valle 2/Nr. 54 b/?/?
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Erhalt/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$nur handschriftliches Regest. Oder geht es um Wachs statt um Geld?
+
+

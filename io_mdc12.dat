@@ -1,0 +1,2133 @@
+
+note *** Einlesen der Rohdaten io_mdc12.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$MDC1_0078/1135.8.28/1143.8.28/(1135 - 1143) August 28/anno dominice
+incarnationis MCXVI, indictione VIIII, V kalend.
+septemb./Grafenstein/(Grafenstein)/Grafenstein/î.Klagenfurt/
+S$X/Gurk/Arnold
+V$X/Gurk/Arnold
+K$Erzbischof Konrad I. von Salzburg bekennt, da· der Edle Dietmar von
+Lungau, die von seinen Eltern gegrÅndete, von ihm wieder erbaute und
+vom Erzbischof neu geweihte St. Stephanskapelle in Grafenstein (î.
+Klagenfurt) mit genannten GÅtern ausstattete,
+sowie durch Hingabe der Zehnten von zwei Huben an den Erzbischof und
+von 24 Mark Friesacher
+an die Pfarre Teinach das Pfarrecht und freie Besetzungsrecht fÅr
+Grafenstein erhalten hat.
+
+REG$Erzbischof Konrad I. von Salzburg beurkundet, da· der Edle Dietmar von Lungau
+durch Zahlung von 24 Mark an die Pfarre Teinach das Pfarrecht fÅr die
+St. Stephanskapelle erhalten hat.
+F$MDC 1/078/107f/108
+F$SUB 2/0163/244f/245
+F$Kos 4/127/76f/77
+F$Reg. Gîrz 1/194/54/54
+G$Dietmar/Genannter/Dornberg/Lungau (Dornberg)/Lungau/b. MÅhldorf in Bayern
+E$X/Pfarre/Teinach/Teinach//sw.Vîlkermarkt/
+H$Exemption/Zehnten/Grafenstein/Grafenstein//î.Klagenfurt/
+W$Friesach/moneta publica/
+O$24/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XXIIII marcas Frisacensis monet\c{e} public\c{e}
+B$FÑlschung von ca. 1202. Wiesflecker erschlie·t als Ausstellungsort
+(Grafenstein).
+
+DOK$MDC1_0164I/1149.0.0/1149.0.0/1149/anno domini MCXLVIIII, indict.
+XII/Wei·enstein/Wei·enstein//nw.Villach/
+S$Konrad/Gurk/Konrad
+V$Konrad/Gurk/Konrad
+K$Der bischîfliche Marschall Otto erwirbt von Hartrod von
+Weissenstein, beziehungsweise dessen Getreuen Perhtold seine
+Schwestern vÑterlicherseits Hadmut und Perhtrada um 6 Mark Friesacher
+zur Freilassung, worauf Perhtold dieselben dem freien
+Northmann Åbergibt, damit sie dieser nach dem Willen Ottos
+delegiere. (Beurkundung durch Bischof Roman I. von Gurk)
+
+REG$Der bischîfliche Marschall Otto erwirbt von Hartrod von Wei·enstein,
+beziehungsweise dessen Getreuen Perhtold
+seine Schwestern vÑterlicherseits Hadmut und Perhtrada um 6 Mark Friesacher
+zur Freilassung.
+F$MDC 1/164I/146f/147
+G$Otto/Marschall/Gurk/Gurk//K/
+E$Hartrod/Genannter/Wei·enstein/Wei·enstein//nw.Villach/
+H$Kauf/Hîrige/unbestimmt/unbestimmt//
+W$Friesach/moneta publica
+O$6/marca/X
+Z$X/X/X
+M$X/X/annumeratus/A
+Q$datis eis ob hoc VI marcis annumerat\c{e} pecuni\c{e} Frisacensis monet\c{e}
+public\c{e}
+
+DOK$MDC1_0164II/1162.0.0/1162.0.0/1162/anno MCLXII, indict. X, anno nostri pontificatus XXX
+/Friesach/Friesach//i.KÑrnten/
+S$Konrad/Gurk/Konrad
+V$Konrad/Gurk/Konrad
+K$Der bischîfliche Marschall Otto erwirbt von Hartrod von Weissenstein,
+beziehungsweise dessen Getreuen Berthold
+seine Schwestern vÑterlicherseits Hadmut und Perhtrada um 6 Mark Friesacher
+zur Freilassung, worauf Berthold dieselben dem freien
+Northmann Åbergibt, damit sie dieser nach dem Willen Ottos
+delegiere.
+Northmann schenkt daraufhin Hadmut an die Kirche in Guttaring (n. Althofen),
+Perhtrada jedoch zu Zensusrecht an die St. Johanneskirche in Gurk.
+(Beurkundung durch Bischof Roman I. von Gurk)
+
+REG$Der bischîfliche Marschall Otto schenkt der St. Johanneskirche in Gurk Perhtrada
+zu Zensualenrecht. Die Hîhe des Zensus betrÑgt 5 Mark.
+F$MDC 1/164II/147/147
+G$X/Kirche_St. Johannes/Gurk/Gurk//K/
+E$Otto/Marschall/Gurk/Gurk//K/
+H$Zensus/Zensualin/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$Perhtradam quoque cum omni sua posteritate delegari petivit ad s(anctum)
+Iohannem bapt(istam) Gurke ad censum V denariorum
+
+DOK$MDC1_0199/1157.5.20/1157.5.20/1157 Mai 20/anno ab incarnatione
+domini MCLVII, indict. IIII, in pentecoste II feria/Stra·burg/Stra·burg//Gurktal/
+S$X/Gurk/Konrad
+V$X/Gurk/Konrad
+K$Bischof Roman I. von Gurk beurkundet, da· die Ministerialin  seiner
+Kirche Walpurga, die Tochter Tagnos, ihrem Genossen, dem Kleriker
+Heinrich, ihr Gut am Debriacher Berg (sw. Gurk) verkauft hat.
+
+REG$Die Ministerialin der Kirche von Gurk, Walpurga, hat dem Kleriker Heinrich
+ihr Gut am Debraicher Berg (sw. Gurk) um 4 Mark Friesacher verkauft.
+F$MDC 1/199/161/161
+G$Heinrich/Kleriker/Gurk/Gurk//K/
+E$Walpurga/Ministeriale/Gurk/Gurk//K
+H$Kauf/Immobilien/Gurk/Debriacher Berg//sw.Gurk/
+W$Friesach/moneta publica/
+O$4/marca/X
+Z$X/X/X
+M$X/X/annumeratus;existimatus/A
+Q$pro IIII marcis annumerat\c{e} vel existimat\c{:e} pecuni\c{e} Frisacensis
+monet\c{e} public\c{e}
+
+DOK$MDC1_0229/1162.5.3/1162.5.3/1162 Mai 3/anno domini MCLXII, indict. X,
+die V. non. maii/St.Veit/St. Veit//a.d.Glan/
+S$X/Gurk/Konrad
+V$X/Gurk/Konrad
+K$Bischof Roman I. von Gurk kauft von Herzog Hermann von KÑrnten das
+Schlo· `Hohenwart'.
+
+REG$Bischof Roman I. von Gurk kauft von Herzog Hermann von KÑrnten das
+Schlo· `Hohenwart' um 80 Mark Friesacher Geldes.
+F$MDC 1/229/177f/178
+F$Kos 4/441/224/224
+F$KrUB 1/125/119/119
+G$Roman I./Bischof/Gurk/Gurk//K/
+E$Hermann/Herzog/KÑrnten/KÑrnten//K/
+H$Kauf/Immobilien_Schlo·/Hohenwart/Hohenwart//castrum b.Velden?/
+W$Friesach/moneta publica/
+O$80/marca/annumerata;appensa
+Z$X/X/X
+M$X/X/X/A
+Q$pro nostra dilectione et taxatione pecuni\c{e} LXXX videlicet annumeratarum
+seu appensarum marcarum Frisacensis monet\c{e} public\c{e} \dots delegavit in
+proprietatem Gurcensis \c{e}cclesi\c{e}
+
+DOK$MDC1_0260/1169.0.0/1169.0.0/1169/anno domini MCLXVIIII, indict.
+VII/St.Veit/St. Veit//a.d.Glan/
+S$Konrad/Gurk/Konrad
+V$Konrad/Gurk/Konrad
+K$Dietrich von Leonstein (w. Klagenfurt) gibt der St.
+Johannes-Pfarrkirche zu Gurk um drei Mark und ein halbes Talent
+Friesacher den Hîrigen Berhtold und dessen Familie.
+
+REG$Dietrich von Leonstein (w. Klagenfurt) gibt der St. Johannes-Pfarrkirche zu
+Gurk um drei Mark und ein halbes Talent Friesacher den Hîrigen Berhtold und
+dessen Familie.
+F$MDC 1/260/199f/200
+F$Kos 4/505/255/255
+G$Heinrich I./Bischof/Gurk/Gurk//K/
+G$X/Kirche_St. Johannes/Gurk/Gurk//K/
+E$Dietrich/Genannter/Leonstein/Leonstein//b.Pîrtschach a.See/
+H$Kauf/Hîrige/unbestimmt/unbestimmt//
+W$Friesach/moneta publica/
+O$3/marca/X
+O$0,5/tal./X
+Z$X/X/annumeratus
+M$X/X/X/A
+Q$datis sibi pro hoc III marcis et dimidio talento Frisacensis monet\c{e}
+public\c{e} annumerat\c{e} pecunie
+
+REG$Dietrich von Leonstein (w. Klagenfurt) gibt der St.
+Johannes-Pfarrkirche zu Gurk um drei Mark und ein halbes Talent
+Friesacher den Hîrigen Berhtold und dessen Familie. Dazu wird eine Pînale in
+der Hîhe von 12 Mark festgesetzt.
+F$MDC 1/260/199f/200
+G$Dietrich?/Genannter/Leonstein/Leonstein//b.Pîrtschach a.See/
+E$X/X/X/X///
+H$Pînale/Strafgeld/unbestimmt/unbestimmt///
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$XII marcarum
+
+DOK$MDC1_0319/1181.0.0/1181.0.0/(1181)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Dietrich I. von Gurk beurkundet, da· zu Zeiten seines
+VorgÑngers Roman II. er als Propst im Auftrage und im Gegenwart des
+Bischofes (1179 Juli 18) zu Sirnitz gestattet, da· Engelschalk von
+Zweinitz um fÅnf Mark Friesacher MÅnze der St. Johanneskirche in Gurk
+eine Hube  zu St. Peter verpfÑnde, worauf der Prokurator der
+genannten Kirche Hartwig am 19. Juli (1179) drei Mark und am 22. Juli
+zwei Mark dem Engelschalk auszahlte.
+
+REG$Engelschalk von Zweinitz verpfÑndet um fÅnf Mark Friesacher MÅnze der St.
+Johanniskirche in Gurk eine Hube zu St.Peter.
+F$MDC 1/319/239f/240
+G$X/Kirche_St. Johannes/Gurk/Gurk//K/
+E$Engelschalk/Genannter/Zweinitz/Zweinitz//w.Gurk/
+H$PfandgeschÑft/Immobilien/St.Peter_n.Gurk/St. Peter n.Gurk/St. Peter in
+Monte/n.Gurk/
+W$Friesach/moneta publica/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$V marcas Frisacensis monete publice
+
+REG$Engelschalk von Zweinitz verpfÑndet um fÅnf Mark Friesacher MÅnze der St.
+Johanniskirche in Gurk eine Hube zu St. Peter unter der Bedingung vom
+Fruchtgenu· insgesamt 5 Mark fÅr sein Seelenheil, das seiner Eltern und Kinder
+an den Altar der St. Johanniskirche zu zahlen.
+F$MDC 1/319/239f/240
+G$Engelschalk/Genannter/Zweinitz/Zweinitz//w.Gurk/
+E$X/Kirche/Gurk/Gurk St.Johannes d.TÑufer//K/
+H$Zahlungsverpflichtung/Spiritualia/Gurk/Gurk St.Johannes d.TÑufer//K/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ipse vel liberi sui V marcas super idem altare persolverent
+
+REG$Engelschalk von Zweinitz verpfÑndet
+um fÅnf Mark Friesacher MÅnze der St. Johanneskirche in Gurk
+eine Hube  zu St. Peter, worauf der Prokurator der
+genannten Kirche Hartwig am 19. Juli (1179) drei Mark dem Engelschalk auszahlte.
+F$MDC 1/319/239f/240
+G$Hartwig/Prokurator/Gurk/Gurk St. Johanniskirche//K/
+E$Engelschalk/Genannter/Zweinitz/Zweinitz//w.Gurk/
+H$PfandgeschÑft/Immobilien/St.Peter_n.Gurk/St. Peter n.Gurk/St. Peter in
+Monte/n.Gurk/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$III marcas
+
+DOK$MDC1_0339/1187.4.30/1187.4.30/1187 April 30/anno ab incarnatione
+domini MCLXXXVII, indictione X, II. kalend. mai./Stra·burg/Stra·burg/Stra·burg/Gurktal/
+S$X/X/X
+V$X/X/X
+K$Bischof Dietrich I. von Gurk vertauscht dem Kapitel écker am andern
+Ufer der Gurk und eine Wiese in Drachelbach, sowie eine solche am
+Gerichtswasser um ein Haus in Friesach und eine Wiese am Ratschenbach
+(b. Stra·burg).
+
+REG$Pfarrer Erchenhard von Weitensfeld kauft ein Haus in Friesach um 50 Mark
+Friesacher.
+F$MDC 1/339/254/254
+G$Erchenhard/Pfarrer/Weitensfeld/Weitensfeld//sw.Gurk/
+E$X/X/X/X/
+H$Kauf/Immobilien_Haus/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quinquaginta marcis emit Urisacensis monete
+
+DOK$MDC1_0348a1-2/1190.0.0/1190.0.0/1190/anno ab incarnatione domini
+millesimo CLXXXX., indict. VII, Clemente papa sedi Romane presidente
+et Friderico Romanorum imperatore primo anno sue expeditionis contra
+paganos in domino regnante/Stra·burg/Stra·burg//Gurktal/
+S$X/X/X
+V$X/Gurk/Richer
+K$Bischof Dietrich I. von Gurk beurkundet, da·  die Gurker Kirche dem Edlen
+Poppo von Albeck zu dessen Kreuzfahrt hundert Mark Friesacher
+Reisegeld gegeben, wofÅr dieser ihr sein Lehen zu Eigen aufgibt,
+welches nur, falls Poppo lebend heimkehrt, an ihn, oder falls er einen
+Erben hinterlÑ·t, an diesen zurÅckgelangen soll.
+
+REG$Die Gurker Kirche hat dem Edlen Poppo von Albeck zu dessen Kreuzfahrt
+hundert Mark Friesacher Reisegeld gegeben, wofÅr dieser ihr sein Lehen zu
+Eigen aufgibt.
+F$MDC 1/348a1-2/258ff/259
+F$Kos 4/776/387f/387
+G$Dietrich I./Bischof/Gurk/Gurk//K/
+E$Poppo/Genannter/Albeck/Albeck//n.Feldkirchen/
+H$Ablîse/Immobilien_Lehen/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$centum marcis Frisacensis monete sibi datis
+B$Reisegeld fÅr Kreuzzug
+
+DOK$MDC1_0348a3/1190.0.0/1190.0.0/1190/anno ab incarnatione domini
+millesimo CLXXXX., indict. VII, Clemente papa sedi Romane presidente
+et Friderico Romanorum imperante primo anno sue expeditionis contra
+paganos in domino regnante/Stra·burg/Stra·burg//Gurktal/
+S$X/X/X
+V$Richer/Gurk/Richer
+K$Bischof Dietrich I. von Gurk beurkundet, da·  die Gurker Kirche dem Edlen
+Poppo von Albeck zu dessen Kreuzfahrt hundert Mark Friesacher
+Reisegeld gegeben, wofÅr dieser ihr sein Lehen zu Eigen aufgibt,
+welches nur, falls Poppo lebend heimkehrt, an ihn, oder falls er einen
+Erben hinterlÑ·t, an diesen zurÅckgelangen soll.
+
+REG$Die Gurker Kirche hat dem Edlen Poppo von Albeck zu dessen Kreuzfahrt
+hundert Mark Friesacher Reisegeld gegeben, wofÅr dieser ihr sein Lehen zu
+Eigen aufgibt.
+F$MDC 1/348a3/258ff/259
+F$Kos 4/776/387f/387
+G$Dietrich I./Bischof/Gurk/Gurk//K/
+E$Poppo/Genannter/Albeck/Albeck//n.Feldkirchen/
+H$Ablîse/Immobilien_Lehen/unbestimmt/unbestimmt///
+W$Friesach/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$centum marcas Frisacensis monete
+B$Reisegeld fÅr Kreuzzug
+
+DOK$MDC1_0349/1190.1.7/1190.1.7/1190 JÑnner 7/anno dominice
+incarnationis millesimo CLXXXX, indictione VII, Clemente papa Romane sedi
+presidente et Friderico Romanorum imperatore primo anno sue expeditionis
+contra paganos in domino regnante \dots VII idus ianuar/Stra·burg/Stra·burg//Gurktal/
+S$X/X/X
+V$X/Gurk/Richer
+K$Bischof Dietrich I. von Gurk beurkundet, da· sein Bruder Poppo von
+Albeck im Begriffe, das Kreuz zu nehmen, dem Kloster Sittich (Krain) das Gut
+`Hartwigisdorf'teils um 60 Mark Friesacher, teils zu seinem Seelenheil
+gegeben hat.
+
+REG$Poppo von Albeck, der Bruder Bischofs Dietrich I. von Gurk, hat dem Kloster
+Sittich (Krain) das Gut `Hartwigisdorf' teils um 60 Mark Friesacher, teils zu
+seinem Seelenheil gegeben.
+F$MDC 1/349/260f/260
+F$KrUB 1/156/137/137
+F$Kos 4/767/384f/384
+G$X/Kloster/Sittich/Sittich//
+E$Poppo/Genannter/Albeck/Albeck//n.Feldkirchen/
+H$Kauf/Immobilien/Artizavas/Hartwigisdorf//uKrain
+W$Friesach/moneta/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro pecunia LX scilicet marcarum Frisacensis monete
+B$Kreuzzugsvorbereitung
+
+DOK$MDC1_0366/1196.1.16/1196.1.16/1196 JÑnner 16/anno MCXCVI, indictione XIIII, XVII
+kalend. feb./X/X///
+S$X/X/Arnold
+V$X/X/Arnold
+K$Bischof Ekkehard von Gurk gibt auf Bitten des Hîrigen Rudolf dessen Tochter
+Richardis,
+deren Mutter eine Ministerialin ist und die er um ein Pfund Friesacher von der
+Hîrigkeit losgekauft hat, der Gurker Kirche zu Zensusrecht.
+
+REG$Bischof Ekkehard von Gurk gibt auf Bitten des Hîrigen Rudolf dessen Tochter
+Richardis,
+deren Mutter eine Ministerialin ist und die derselbe Rudolf um ein Pfund Friesacher von der
+Hîrigkeit losgekauft hat, der Gurker Kirche zu Zensualenrecht.
+F$MDC 1/366/269f/269
+F$Kos 4/882/447f/447
+G$Rudolf/Hîriger/X/X//
+E$X/X/X/X//
+H$Freikauf/Ministerialin/unbestimmt/unbestimmt///
+W$Friesach/moneta/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$libre precio Frisacensis monet\c{e} a famulatus exactione eximens
+
+REG$Bischof Ekkehard von Gurk gibt auf Bitten des Hîrigen Rudolf dessen Tochter
+Richardis der Gurker Kirche zu einem Zensus von 3 Pfennigen.
+F$MDC 1/366/269f/269
+F$Kos 4/882/447f/447
+G$X/Kirche/Gurk/Gurk//K/
+E$Ekkehard?/Bischof/Gurk/Gurk//K/
+H$Zensus/Zensualin/unbestimmt/unbestimmt///
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$ad censum trium denariorum
+
+DOK$MDC1_0382/1200.7.2/1200.7.2/1200 Juli 2/anno dominic\c{e} incarnationis
+MCC. indictione III. VI. nonas iulii/Gurk/Gurk//KÑ.-Unt./
+S$X/X/Arnold    siehe unten!
+V$X/X/Arnold
+K$Propst Konrad verleiht dem Aquileier Ministerialen Ulrich fÅr fÅnf Mark eine
+Hube in Schwambach (î. Feldkirchen) auf Lebenszeit und nimmt ihn in die
+VerbrÅderung auf.
+
+REG$Propst Konrad verleiht dem Aquileier Ministerialen Ulrich fÅr fÅnf Mark eine
+Hube in Schwambach (î. Feldkirchen) auf Lebenszeit und nimmt ihn in die
+VerbrÅderung auf.
+F$MDC 1/382/281/281
+G$Ulrich/Ministeriale/Aquileia/Aquileia//Friaul-SÅd/
+E$Konrad/Propst/Gurk/Gurk//KÑ.-Unt./
+H$Investitur/Immobilien/Schwambach/Schwambach// wo??/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quinque marcis contulimus
+
+DOK$MDC1_0413/1206.1.18/1206.1.18/1206 JÑnner 18/anno MCCVI, indict.
+VIIII, XV kalend. febru., pontificatus nostri anno V./Stra·burg/Stra·burg//Gurktal/
+S$X/Gurk/Albert
+V$X/Gurk/Albert
+K$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) und gibt sie den VerkÑufern wieder zu Lehen.
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) um 150 Mark Friesacher Pfennige.
+F$MDC 1/413/303f/303
+F$Kos 5/099/61f/61
+F$TUB 2/560/41/41
+F$Reg. Gîrz 1/331/91/91
+G$Walther/Bischof/Gurk/Gurk//K/
+E$Meinhard/Graf/Gîrz/Gîrz//G/
+H$Kauf/EinkÅnfte/Lienz/Lienz//Tirol/
+W$Friesach/X/
+O$150/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$CL marcis Frisacensium denariorum
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol).
+F$MDC 1/413/303f/303
+F$TUB 2/560/41/41
+F$Reg. Gîrz 1/331/91/91
+G$X/X/X/X//
+E$Walther/Bischof/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Lienz/Lienz//Tirol/
+W$X/X/
+O$16/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$predium scilicet XVI marcarum redditus
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) um 150 Mark Friesacher Pfennige. (Auflistung der EinkÅnfte)
+F$MDC 1/413/303f/303
+F$Reg. Gîrz 1/331/91/91
+G$X/X/X/X//
+E$Walther/Bischof/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Lienz/Lienz//Tirol/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$villicalis persolvens IIII marcas
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) um 150 Mark Friesacher Pfennige. (Auflistung der EinkÅnfte)
+F$MDC 1/413/303f/303
+F$Reg. Gîrz 1/331/91/91
+G$X/X/X/X///
+E$Walther/Bischof/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Lienz/Lienz//Tirol/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$III marcas
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) um 150 Mark Friesacher Pfennige. (Auflistung der EinkÅnfte)
+F$MDC 1/413/303f/303
+F$Reg. Gîrz 1/331/91/91
+G$X/X/X/X//
+E$Walther/Bischof/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Lienz/Lienz//Tirol/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$V marcas
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) um 150 Mark Friesacher Pfennige. (Auflistung der EinkÅnfte)
+F$MDC 1/413/303f/303
+F$Reg. Gîrz 1/331/91/91
+G$X/X/X/X//
+E$Walther/Bischof/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Lienz/Lienz//Tirol/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$IIII marcas
+
+REG$Bischof Walther von Gurk kauft von Graf Meinhard von Gîrz und dessen
+Gattin Alheid sowie dessen Bruder Engelbert sechzehn Mark EinkÅnfte von GÅtern
+zu Lienz (Tirol) um 150 Mark Friesacher Pfennige und verspricht, da· er ihm
+freiwerdende Lehen in KÑrnten oder Friaul in der Hîhe von 10 Mark EinkÅnften
+verleihen werde.
+F$MDC 1/413/303f/303
+G$Walther/Bischof/Gurk/Gurk//K/
+E$Meinhard/Graf/Gîrz/Gîrz//G/
+H$Belehnung/Immobilien/Lienz/Lienz//Tirol/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$X marcarum redditus in feudo
+
+DOK$MDC1_0425/1209.5.20/1209.5.20/1209 Mai 20/anno dominic\c{e} incarnationis
+millesimo CCVIIII, indictione XII., XIII kalendas iunii/Gurk/Gurk//K/
+S$X/Gurk/Gebeno
+V$X/Gurk/Gebeno
+K$Bischof Walther von Gurk gibt der Propstei die Hîrige Chuniza,
+welche sich vom Bistum mit einem Talent Friesacher Pfennige losgekauft
+hat.
+
+REG$Die Hîrige Chuniza hat sich vom Bistum Gurk mit einem Talent Friesacher
+Pfennige losgekauft.
+F$MDC 1/425/325f/325
+G$Chuniza/Hîrige/Gurk/Gurk//K/
+E$Walther/Bischof/Gurk/Gurk//K/
+H$Ablîse/Hîrige/Gurk/Gurk//K/
+W$Friesach/moneta publica/
+O$1/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$collato nobis talento denariorum Frisacensium public\c{e} monet\c{e}
+
+DOK$MDC1_0435/1212.4.19/1212.4.21/1212 April 19 und 21/anno dominice
+incarnationis MCCXII, indictione XV, XIII kalend. maii - XI kalend.
+anni indictionis et mensis predictorum/X/X///
+S$X/X/X
+V$X/X/X
+K$Bischof Konrad von Brixen beurkundet, da· Hugo von Taufers und
+dessen Frau, GrÑfin Alheid, der Gurker Kirche um 100 Mark Friesacher
+einen Schwaighof im Orte `Jagehusen'im Bezirk `Schwarzach' gegeben,
+worauf Bischof Walther von Gurk am 21. April den von Taufers und
+dessen Leibeserben damit belehnt.
+
+REG$Hugo von Taufers und dessen Frau, GrÑfin Alheid, haben der Gurker Kirche
+um 100 Mark Friesacher einen Schwaighof im Orte `Jagehusen' im
+Bezirk `Schwarzach' gegeben.
+F$MDC 1/435/333f/334
+G$X/Kirche/Gurk/Gurk//K/
+E$Hugo/Genannter/Taufers/Taufers//Tirol,w.Glurns oder n.Bruneck?/
+H$Kauf/Immobilien/uB.Schwarzach?/Jagehusen//B.Schwarzach/
+W$Friesach/moneta publica/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro C marcis Fresacensis monete publice donaverunt
+
+REG$Hugo von Taufers und dessen Frau, GrÑfin Alheid, haben der Gurker Kirche
+um 100 Mark Friesacher einen Schwaighof im Orte `Jagehusen' im
+Bezirk `Schwarzach' gegeben, der 10 Mark EinkÅnfte bringt.
+F$MDC 1/435/333f/334
+G$X/X/X/X//
+E$X/Kirche/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/uB.Schwarzach?/Jagehusen//B.Schwarzach/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$VI curtes que sweichof vulgo dicuntur, X marcas persolventes
+
+DOK$MDC1_0436/1212.4.21/1212.4.21/1212 April 21/anno dominic\c{e}
+incarnationis MCCXII, indict. XV, XI kalend. maii/Friesach/Friesach//K/
+S$X/Gurk/Walther
+V$X/Gurk/Walther
+K$Erzbischof Eberhard II. von Salzburg beurkundet, da· Bischof Walther
+von Gurk von Konrad von Mariapfarr (nw. Tamsweg, Salzburg) das Gut
+Weng in der Gnesau (nw. Feldkirchen) samt dem Patronatsrecht Åber die
+Kirche St. Peter (î. Millstatt) um 330 Mark Friesacher
+gekauft hat, wozu der Erzbischof die Zehnten des Gutes der
+Gurker Kirche schenkt.
+
+REG$Bischof Walther von Gurk hat von Konrad von Mariapfarr (nw. Tamsweg, Salz-
+burg) das Gut Tweng samt dem Patronatsrecht Åber die Kirche St. Peter (î.
+Millstatt) gekauft.
+F$MDC 1/436/334f/334
+F$SUB 3/0652/156f/157
+G$Walther/Bischof/Gurk/Gurk//K/
+E$Konrad/Genannter/Mariapfarr/Mariapfarr//nw.Tamsweg,S/
+H$Kauf/Immobilien/Tweng/Tweng/Weng/î.Millstatt/
+H$Kauf/Patronatsrecht/St.Peter_i.Tweng/St. Peter i.Tweng/St. Peter/î.Millstatt/
+W$Friesach/moneta/
+O$330/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro trecentis triginta marcis Frisacensis monet\c{e}
+
+DOK$MDC1_0437/1212.5.13/1212.5.13/1212 Mai 13/anno
+dominice incarnationis MCCXII, III idus mai, indictione XV/Spital_a.Pyhrn u.Passau/Spital a.Pyhrn u.Passau//Oô u.NB/
+S$Heinrich/Pettau/Heinrich
+V$X/X/X
+K$Herzog Leopold VI. von ôsterreich und Steiermark beurkundet, da·
+Ulrich von Peggau dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz geschenkt und sein Erbgut in den Alpen bei Griffen zu
+Gîrtschach und Sirnitz (n. Feldkirchen) um eine Geldsumme, darunter
+auch um vierzig Mark Schadenersatz, welche er dem Kapitel wegen dessen
+Gut in Hirt schuldete, verpfÑndet hat.
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz geschenkt und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um 6 Mark Silber verpfÑndet.
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$Otto/Propst/Gurk/Gurk//K/
+G$X/Kapitel/Gurk/Gurk//K/
+E$Ulrich/Genannter/Peggau/Peggau//n.Graz/
+H$PfandgeschÑft/Immobilien/Gîrtschach/Gîrtschach//n.Feldkirchen/
+H$PfandgeschÑft/Immobilien/Sirnitz/Sirnitz//Gurktal,n.Feldkirchen/
+W$Friesach/pondus publicum/
+O$6/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/A
+A$pondus publicum Frisacense/pondus publicum sancti Viti
+Q$VI marcas examinati argenti ad pondus publicum Frisacense et sancti Viti
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz geschenkt und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um 6 Mark Silber verpfÑndet.
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$Otto/Propst/Gurk/Gurk//K/
+G$X/Kapitel/Gurk/Gurk//K/
+E$Ulrich/Genannter/Peggau/Peggau//n.Graz/
+H$PfandgeschÑft/Immobilien/Gîrtschach/Gîrtschach//n.Feldkirchen/
+H$PfandgeschÑft/Immobilien/Sirnitz/Sirnitz//Gurktal,n.Feldkirchen/
+W$St. Veit/pondus publicum/
+O$6/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/A
+A$pondus publicum sancti Viti/pondus publicum Frisacense
+Q$VI marcas examinati argenti ad pondus publicum Frisacense et sancti Viti
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz, das 12 Mark und 100 Pfennig EinkÅnfte bringt, und sein Erbgut in den
+Alpen bei
+Griffen zu Gîrtschach und Sirnitz (n. Feldkirchen) um 6 Mark Silber geschenkt.
+F$MDC 1/437/335f/335
+F$BabUB 1/184/253f/254
+G$X/X/X/X//
+E$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Glîdnitz/Glîdnitz//nw.Weitensfeld/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$100/den./X/Z
+Q$pro predio in Gl\{oe}dnitz quod solvit annuatim XII marcas et C denarios
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um 6 Mark Silber geschenkt. (AufzÑhlung der EinkÅnfte des
+Erbgutes)
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$X/X/X/X//
+E$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Weitensfeld/Griffner Alpe//nw.Weitensfeld/
+W$X/X/
+O$3,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$schafgericht quod solvit III marcas et dim(idiam)
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um 6 Mark Silber geschenkt. (AufzÑhlung der EinkÅnfte des
+Erbgutes)
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$X/X/X/X//
+E$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Gîrtschach/Gîrtschach//n.Feldkirchen/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$100/den./X/Z
+Q$mansum aput G\{oe}rschach qui solvit C den(arios)
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um 6 Mark Silber geschenkt. (AufzÑhlung der EinkÅnfte des
+Erbgutes)
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$X/X/X/X/
+E$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Sirnitz/Sirnitz//n.Feldkirchen/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$mansum apud Syrnewiz qui reddit XL denarios
+B$Kopie
+
+REG$Zinsleistung einer Hube
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$X/X/X/X/
+E$Ulrich/Genannter/Peggau/Peggau//n.Graz/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt///
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in manso marcam circiter solvente
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um 6 Mark Silber und vierzig Mark Schadenersatz, welche er dem
+Kapitel wegen dessen Gut in Hirt schuldete, geschenkt.
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$Ulrich/Genannter/Peggau/Peggau//n.Graz/
+E$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Wiedergutmachung/Schadenssumme/unbestimmt/unbestimmt///
+W$X/X/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$remiserunt ei plus quam XL marcas per quas debuit dampnum restituisse
+B$Kopie
+
+REG$Ulrich von Peggau hat dem Propst Otto und dem Kapitel von Gurk das Gut
+Glîdnitz und sein Erbgut in den Alpen bei Griffen zu Gîrtschach und Sirnitz
+(n. Feldkirchen) um eine Geldsumme geschenkt. Als Ablîse fÅr EinkÅnfte gaben
+sie ihm 30 Mark Pfennige.
+F$MDC 1/437/335f/336
+F$BabUB 1/184/253f/254
+G$Otto/Propst/Gurk/Gurk//K/
+G$X/Kapitel/Gurk/Gurk//K/
+E$Ulrich/Genannter/Peggau/Peggau//n.Graz/
+H$Ablîse/EinkÅnfte/Weitensfeld/GriffnerAlpe//nw. Weitensfeld/
+W$X/moneta publica/
+O$30/marca/X
+Z$X/v\e{u}nfuirdungere/X
+M$X/den./X/A
+A$1 Mark Feinsilber/5 Vierting einer Zahlmark (200 StÅck)
+A$5 Vierting einer Zahlmark (200 StÅck)/1 Mark Feinsilber
+Q$XXX marcas denariorum monete publice qui v\e{u}nfuirdungere dicuntur
+B$Kopie.
+MÅnzfu· der Friesacher Pfennig: "In den Jahren 1207 und 1217 werden Friesacher
+Pfennige erwÑhnt, von welchen 5 Vierting einer Zahlmark von 160 Pfennigen,
+mithin 200 StÅck eine Mark Feinsilber ergaben, sie hie·en darum Fumfvierdunger."
+(Luschin, S. 152)
+
+DOK$MDC1_0455/1216.0.0/1216.0.0/1216/anno ab incarnatione domini MCCXVI,
+indictione IIII/X/X///
+S$X/Gurk/Gebeno
+V$X/Gurk/Gebeno
+K$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei
+je eine Mark zinsende Huben zu `Zekoloe', welche Otto zur jÑhrlichen
+Feier der Weihe des hl. Kreuzaltares widmet, und schenkt dem Kapitel
+zur Begehung seines Jahrtages ein jÑhrlich vier Mark abwerfendes
+GrundstÅck zu `Brietsnic'.
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe'.
+F$MDC 1/455/347f/347
+G$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Kauf/Immobilien/uKÑrnten/Zekoloe///
+W$Friesach/moneta publica/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quadraginta marcas Frisacensis monet\c{e} public\c{e}
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe'.
+F$MDC 1/455/347f/347
+G$X/X/X/X//
+E$Otto/Propst/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien_Huben/uKÑrnten/Zekoloe///
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$duas mansos \dots duas marcas persolventes
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe' und schenkt dem Kapitel
+zur Begehung seines Jahrtages ein jÑhrlich vier Mark abwerfendes
+GrundstÅck zu `Brietsnic'.
+F$MDC 1/455/347f/348
+G$X/X/X/X//
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/uKÑrnten/Briesnik/Brietsnic//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$terram \dots quatuor marcas persolventem
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe' und schenkt dem Kapitel
+zur Begehung seines Jahrtages ein jÑhrlich vier Mark abwerfendes
+GrundstÅck zu `Brietsnic'.
+F$MDC 1/455/347f/348
+G$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Stiftung/Anniversar/unbestimmt/unbestimmt///
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$easdem marcas \dots expendendas
+B$"4" aus dem Zusammenhang erschlossen.
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe' und schenkt dem Kapitel
+zur Begehung seines Jahrtages ein jÑhrlich vier Mark abwerfendes
+GrundstÅck zu `Brietsnic'.
+F$MDC 1/455/347f/348
+G$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Servitium/Anniversar/Gurk/Gurk//K/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$du\c{e} marc\c{e}
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe' und schenkt dem Kapitel
+zur Begehung seines Jahrtages ein jÑhrlich vier Mark abwerfendes
+GrundstÅck zu `Brietsnic'.
+F$MDC 1/455/347f/348
+G$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$ArmenfÅrsorge/Anniversar/Gurk/Gurk//K/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$talentum
+
+REG$Propst Otto von Gurk erhÑlt vom Kapitel um 40 Mark Friesacher zwei je
+eine Mark zinsende Huben zu `Zekoloe' und schenkt dem Kapitel
+zur Begehung seines Jahrtages ein jÑhrlich vier Mark abwerfendes
+GrundstÅck zu `Brietsnic'.
+F$MDC 1/455/347f/348
+G$Otto/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Oblationen/Anniversar/Gurk/Gurk//K/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dimidia marca
+
+DOK$MDC1_0474/1218.3.9/1218.3.9/1218 MÑrz 9/anno vero dominic\c{e}
+incarnationis MCCXVIII, indictione VI, VII idus marcii/Gurk/Gurk//K/
+S$X/Gurk/Gebeno
+V$X/Gurk/Gebeno
+K$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte zu Lehen zu
+geben (gegen Entrichtung von zweieinhalb Mark Friesacher Pfennigen)
+und der Gurker Kirche acht Mark zu seinem Jahrtag zu stiften.
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte gegen Entrichtung
+von zweieinhalb Mark Friesacher Pfennigen zu Lehen zu geben.
+F$MDC 1/474/361f/362
+G$Heinrich/X/X/X//
+E$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+H$Ablîse/EinkÅnfte/unbestimmt/unbestimmt///
+W$Friesach/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$tercia dimidia marca Frisacensium denariorum
+B$Bei Jaksch Betrag im Regest nicht angefÅhrt, in Urk. MDC 1 Nr. 496
+eine gleichartige urkundliche Betragsangabe mit "dreieinhalb"
+aufgelîst.
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte gegen Entrichtung
+von zweieinhalb Mark Friesacher Pfennigen zu Lehen zu geben.
+F$MDC 1/474/361f/361
+G$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+E$Heinrich/X/X/X//
+H$Belehnung/EinkÅnfte/unbestimmt/unbestimmt///
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$70/den./X/Z
+Q$reditus ad septuaginta denarios beneficiali iure contraderet
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte
+zu Lehen zu geben und der Gurker Kirche acht Mark zu seinem Jahrtag zu stiften.
+F$MDC 1/474/361f/362
+G$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+E$X/Kirche/Gurk/Gurk//K/
+H$Stiftung/Anniversar/unbestimmt/unbestimmt///
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$octo marcas
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte
+zu Lehen zu geben und der Gurker Kirche acht Mark zu seinem Jahrtag zu
+stiften.
+F$MDC 1/474/361f/362
+G$Otto/Ministeriale/Gurk/Gurk//K/
+E$X/X/X/X//
+H$EinkÅnfte/Immobilien/Reinsberg/Reinsberg/Reinsperc/n.Weitensfeld/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$mansum unum \dots solventem talentum
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte
+zu Lehen zu geben und der Gurker Kirche acht Mark zu seinem Jahrtag zu stiften.
+F$MDC 1/474/361f/362
+G$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+E$X/Kirche/Gurk/Gurk//K/
+H$Stiftung/Anniversar/unbestimmt/unbestimmt///
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$octo marcas
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte
+zu Lehen zu geben und der Gurker Kirche acht Mark zu seinem Jahrtag zu stiften.
+F$MDC 1/474/361f/362
+G$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+E$X/Kirche/Gurk/Gurk//K/
+H$Stiftung/Anniversar/unbestimmt/unbestimmt///
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$prememoratas octo marcas persolvant
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte
+zu Lehen zu geben und der Gurker Kirche acht Mark zu seinem Jahrtag zu stiften.
+F$MDC 1/474/361f/362
+G$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+E$X/Kirche/Gurk/Gurk//K/
+H$Kaufmîglichkeit/Anniversar/Gurk/Gurk//K/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum eisdem octo marcis poterunt comparari
+
+REG$Der Gurker Ministeriale Otto, genannt Harnasch, setzt den Vizedom
+Hartwig in Stra·burg zum Universalerben seiner GÅter mit der
+Verpflichtung ein, davon dem Maler Heinrich EinkÅnfte
+zu Lehen zu geben und der Gurker Kirche acht Mark zu seinem Jahrtag zu stiften.
+F$MDC 1/474/361f/362
+G$Hartwig/Vizedom/Stra·burg/Stra·burg//Gurktal/
+E$X/Kirche/Gurk/Gurk//K/
+H$Zahlungsverpflichtung/Anniversar/Gurk/Gurk//K/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sepe dictas octo marcas \dots persolverent
+
+DOK$MDC1_0475/1218.4.12/1218.4.12/1218 April 12/anno dominice
+incarnationis MCCXVIII, indict. VI, II idus aprilis/Vîlkermarkt/Vîlkermarkt//K/
+S$X/Gurk/Gebeno
+V$X/Gurk/Gebeno
+K$Abt Ulrich von St. Paul beurkundet, da· der Maler Heinrich von Gurk
+der Gurker Kirche eine Hube in Sirnitz (n. Feldkirchen), welche
+dieser frÅher vom Kloster zu Lehen trug und demselben abkaufte,
+geschenkt hat.
+
+REG$Der Maler Heinrich von Gurk hat der Gurker Kirche eine Hube in Sirnitz
+(n. Feldkirchen) um 10 Mark Friesacher Pfennige abgekauft.
+F$MDC 1/475/363/363
+G$Heinrich/Maler/Gurk/Gurk//K/
+E$X/Kirche/Gurk/Gurk//K/
+H$Kauf/Immobilien/Sirnitz/Sirnitz//n.Feldkirchen/
+W$Friesach/moneta publica/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$acceptis \dots decem marcis Frisacensium denariorum publice monete
+
+DOK$MDC1_0481a/1219.2.19/1219.2.19/1219 Februar 19/anno MCCXIX, indictione VII, XI
+kalend. marcii/X/X///
+S$X/X/X
+V$X/X/X
+K$Das Kapitel von Gurk bestÑtigt seinen Kleriker Walther als
+bestÑndigen Vikar bei der Kirche St. Lorenzen am Steinfeld, wofÅr er
+jÑhrlich bestimmte Zinsungen zu leisten hat.
+
+REG$Das Kapitel von Gurk bestÑtigt seinen Kleriker Walther als
+bestÑndigen Vikar bei der Kirche St. Lorenzen am Steinfeld, wofÅr er
+jÑhrlich bestimmte Zinsungen zu leisten hat.
+F$MDC 1/481a/370/370
+G$Walther/Kleriker/X/X//
+E$X/Kapitel/Gurk/Gurk//K/
+H$Zahlungsverpflichtung/Zins/St.Lorenzena.Steinfeld/St. Lorenzen a. Steinfeld//Nô,nw.Neunkirchen/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$V marcas d(enariorum) Fris(acensium)
+
+REG$Das Kapitel von Gurk bestÑtigt seinen Kleriker Walther als
+bestÑndigen Vikar bei der Kirche St. Lorenzen am Steinfeld, wofÅr er
+jÑhrlich bestimmte Zinsungen zu leisten hat.
+F$MDC 1/481a/370/370
+G$Walther/Kleriker/X/X//
+E$X/Kapitel/Gurk/Gurk//K/
+H$Zahlungsverpflichtung/Zins/St.Lorenzena.Steinfeld/St. Lorenzen a. Steinfeld//Nô,nw.Neunkirchen/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$XX marcas
+
+DOK$MDC1_0496/1223.1.1/1223.1.16/1223 JÑnner 1 - 16/anno
+incarnationis domini MCCXXIII, intrante ianuario, indiccione XI/Gurk/Gurk//K/
+S$X/X/X
+V$X/Gurk/Gebeno
+K$Propst Otto und das Kapitel von Gurk beurkunden, da· Otto von Stadel
+(w. Murau) seine Hîrige Adelheid dem Marienaltar [zu Gurk] um
+zweieinhalb Mark Friesacher zu Zensualenrecht gegeben hat.
+
+REG$Otto von Stadel (w. Murau) hat seine Hîrige Adelheid dem Marienaltar [zu Gurk]
+um zweieinhalb Mark Friesacher zu Zensualrecht gegeben.
+F$MDC 1/496/379f/380
+G$Otto/Genannter/Stadl_a.d.Mur/Stadl a. d. Mur//Stmk.,w.Murau/
+E$X/Altar_St. Maria/Gurk/Gurk//K/
+H$Freilassung_Zensualenrecht/Hîrige/unbestimmt/unbestimmt///
+W$Friesach/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro tercia dimidia marca Frisaticorum
+B$Betragsangabe bei Jaksch mit "dreieinhalb" aufgelîst.
+
+REG$Otto von Stadel (w. Murau) hat seine Hîrige Adelheid dem Marienaltar [zu Gurk]
+um zweieinhalb Mark Friesacher zu Zensualrecht gegeben.
+F$MDC 1/496/379f/380
+G$Adelheid/X/X/X//
+E$X/Altar_St. Maria/Gurk/Gurk//K/
+H$Zensus/Zensualin/unbestimmt/unbestimmt///
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$tres denarios
+
+DOK$MDC1_0498/1224.3.29/1224.3.29/1224 MÑrz 29/anno ab incarnatione
+domini MCCXXIIII, IIII kalend. april./Stra·burg/Stra·burg//Gurktal/
+S$X/Gurk/Heinrich
+V$X/Gurk/Heinrich
+K$Bischof Ulrich I. von Gurk beurkundet, da· Ortolf von Rabensberg
+(nw. Cilli) von Engelbert von Stra·burg und dessen Frau Elisabeth GÅter
+in `Harde' gekauft hat.
+
+REG$Ortolf von Rabensberg (nw. Cilli) hat von Engelbert von Stra·burg und
+dessen Frau Elisabeth GÅter um 50 Mark Friesacher gekauft.
+F$MDC 1/498/382f/382
+F$StUB 3/032/37f/37
+G$Ortolf/Genannter/Rabensberg/Rabensberg//nw. Cilli/
+E$Engelbert/Genannter/Stra·burg/Stra·burg//Gurktal/
+E$Elisabeth/X/Stra·burg/Stra·burg//Gurktal/
+H$Kauf/Immobilien/uUnterstmk/Harde//wohl i.Unterstmk/
+W$Friesach/moneta/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro L marcis Frisacensis monete conparavit
+
+REG$Ortolf von Rabensberg (nw. Cilli) hat von Engelbert von Stra·burg und
+dessen Frau Elisabeth GÅter um 50 Mark Friesacher gekauft, welche diese um
+60 Mark zurÅckkaufen kînnen.
+F$MDC 1/498/382f/382
+F$StUB 3/032/37f/37
+G$Engelbert/Genannter/Stra·burg/Stra·burg//Gurktal/
+G$Elisabeth/X/Stra·burg/Stra·burg//Gurktal/
+E$Ortolf/Genannter/Rabensberg/Rabensberg//nw. Cilli/
+H$RÅckkauf/Immobilien/uUnterstmk/Harde//wohl i.Unterstmk/
+W$X/moneta/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$LX marcas eiusdem monete persolvant
+
+DOK$MDC1_0506/1227.0.0/1230.0.0/(1227 - 1230)/X/X/X///
+S$X/X/X
+V$X/X/X
+K$Verzeichnis der SchÑden, welche Graf Ulrich von Peggau dem Propst
+S(iegfried) und dem Kapitel in Niederîsterreich zugefÅgt hat.
+
+REG$Verzeichnis der SchÑden, welche Graf Ulrich von Peggau dem Propst
+S(iegfried) und dem Kapitel in Niederîsterreich zugefÅgt hat.
+F$MDC 1/506/389f/389
+G$X/X/X/X//
+E$Siegfried/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Schadensverzeichnis/Immobilien/St.Lorenzena.Steinfeld/St. Lorenzen a.
+Steinfeld/St. Lorenzen in VLAEZ/Nô,nw. Neunkirchen/
+W$Friesach/moneta/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in XX marcis monete Frisacensis
+
+REG$Verzeichnis der SchÑden, welche Graf Ulrich von Peggau dem Propst
+S(iegfried) und dem Kapitel in Niederîsterreich zugefÅgt hat.
+F$MDC 1/506/389f/389
+G$X/X/X/X//
+E$Siegfried/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Neunkirchen/Neunkirchen//Nô/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$annis singulis solvebat marcas X
+
+REG$Verzeichnis der SchÑden, welche Graf Ulrich von Peggau dem Propst
+S(iegfried) und dem Kapitel in Niederîsterreich zugefÅgt hat.
+F$MDC 1/506/389f/389
+G$X/X/X/X//
+E$Siegfried/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$EinkÅnfte/Immobilien/Neunkirchen/Neunkirchen//Nô/
+W$X/X/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XL marcas
+
+REG$Verzeichnis der SchÑden, welche Graf Ulrich von Peggau dem Propst
+S(iegfried) und dem Kapitel in Niederîsterreich zugefÅgt hat.
+F$MDC 1/506/389f/390
+G$X/X/X/X//
+E$Siegfried/Propst/Gurk/Gurk//K/
+E$X/Kapitel/Gurk/Gurk//K/
+H$Schadensverzeichnis/SchÑden/Niederîsterreich/Niederîsterreich//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$X marcarum
+
+DOK$MDC1_0514a/1227.11.7/1227.11.7/1227 November 7/anno ab incarnatione
+domini M.CC.XXVII., indictione XV., VII. idus Novembris/Marburg/Marburg//Stmk./
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold VI. von ôsterreich und Steiermark bestÑtigt dem
+Kloster Gairach innerhalb einer GesamtbestÑtigung von dessen GÅtern
+und Rechten auch die vom Bischof und dem Kapitel von Gurk kÑuflich
+erworbenen Besitzungen.
+
+REG$Der Bischof und das Kapitel von Gurk haben vom Kloster Gairach um
+100 Mark Friesacher Gewichts Besitzungen erworben.
+F$MDC 1/514a/398/398
+F$StUB 2/245/335ff/335
+G$X/Bischof;Kapitel/Gurk/Gurk//K/
+E$X/Kloster/Gairach/Gairach//sî.TÅffer,Stmk/
+H$BestÑtigung/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/pondus
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$centum marcis argenti ponderis Frisacensis
+B$QuellenmÑ·ige Datierung aus StUB 2 S.335-338 Nr.245.
+
+DOK$MDC1_0520/1228.11.3/1228.11.3/1228 November 3/anno ab incarnatione domini
+MCCXXVIII, indictione I,tercio non. novemb., anno pontificatus nostri VII/X/X//
+S$X/X/Heinrich
+V$X/X/Heinrich
+K$Bischof Ulrich I. von Gurk belehnt den Herzog Bernhard von KÑrnten
+wegen dessen Hilfe in allen BedrÑngnissen der Kirche mit dem ihm durch
+den Tod des Markgrafen Heinrich IV. von Istrien ledig gewordenen
+Schlo· Liebeck (b. Waatsch n. Littai in Krain), wofÅr der Herzog der
+Kirche das Gut St. Georgen (î. Stra·burg) gibt, den zu Lehen
+getragenen Zehnten zu Mellach (î. Stra·burg) heimsagt und zu
+verschiedenen Terminen insgesamt 600 Mark (wohl Friesacher WÑhrung) zu
+zahlen verspricht (die erste Teilzahlung davon in der Hîhe von 400
+Mark Friesacher Pfennigen).
+
+REG$Herzog Bernhard von KÑrnten verspricht fÅr die Belehnung mit dem Schlo·
+Liebeck (b. Waatsch n. Littai in Krain), das Gut St. Georgen (î. Stra·burg)
+zu geben, den zu Lehen getragenen Zehnten zu Mellach (î. Stra·burg) heimzusagen
+und 600 Mark (wohl Friesacher WÑhrung) zu zahlen.
+F$MDC 1/520/402ff/403
+F$KrUB 2/061/45ff/46
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Ulrich/Bischof/Gurk/Gurk//K/
+H$Belehnung/Immobilien_Schlo·/Liebeck/Liebeck//Krain,n.Littai b.Waatsch/
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sexingentas marcas
+
+REG$Herzog Bernhard von KÑrnten verspricht fÅr die Belehnung mit dem Schlo·
+Liebeck (b. Waatsch n. Littai in Krain) eine erste Teilzahlung in der Hîhe
+von 400 Mark Friesacher Pfennige vorzunehmen.
+F$MDC 1/520/402ff/403
+F$KrUB 2/061/45ff/46
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Ulrich/Bischof/Gurk/Gurk//K/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$400/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$quadringente marce denariorum Frisatice monete
+B$Teilzahlung
+
+REG$Herzog Bernhard von KÑrnten verspricht fÅr die Belehnung mit dem Schlo·
+Liebeck (b. Waatsch n. Littai in Krain) eine erste Teilzahlung in der Hîhe
+von 400 Mark Friesacher Pfennige vorzunehmen.
+Bestimmung fÅr den Fall der nicht zeitgerechten Entrichtung der ersten
+Teilzahlung von 400 Mark Friesacher fÅr die Belehnung mit Schlo· Liebeck.
+F$MDC 1/520/402ff/403
+F$KrUB 2/061/45ff/46
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Ulrich/Bischof/Gurk/Gurk//K/
+H$Pînale/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Friesach/pondus
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$pro quadringentis marcis agenti Frisatici ponderis
+B$Genaue Charakteristik des RechtsgeschÑfts noch zu ermitteln.
+- `agenti' Druckfehler bei Jaksch statt `argenti' ?
+
+REG$Festsetzung des Termins fÅr die Zahlung eines Restbetrages von 200 Mark
+fÅr die Belehnung mit Schlo· Liebeck (b. Waatsch n. Littai in Krain).
+F$MDC 1/520/402ff/403
+F$KrUB 2/061/45ff/46
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Ulrich/Bischof/Gurk/Gurk//K/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de residuis vero CC marcis que solvendo sunt ante festum beati Michahelis octo
+dierum
+
+REG$Bestimmung fÅr den Fall der nicht fristgerechten Zahlung des Restbetrages
+von 200 Mark Silbers Friesacher Gewichts
+(fÅr die Belehnung mit Schlo· Liebeck (b. Waatsch n. Littai in Krain).
+F$MDC 1/520/402ff/403
+F$KrUB 2/061/45ff/47
+G$Ulrich/Bischof/Gurk/Gurk//K/
+E$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+H$RÅckkauf/Immobilien/Liebeck/Liebeck//Krain,n.Littai b. Waatsch/
+W$Friesach/pondus
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$predictum castrum redimatur CC marcis argenti Frisatici ponderis a nobis
+
+REG$Bestimmungen Åber den etwaigen Verzug bei der Bezahlung der Gesamtsumme
+fÅr die Belehnung mit Schlo· Liebeck (b. Waatsch n. Littai in Krain).
+F$MDC 1/520/402ff/403
+F$KrUB 2/061/45ff/47
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Ulrich/Bischof/Gurk/Gurk//K/
+H$Pînale/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Friesach/pondus
+O$600/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sexingentis marcis argenti Frisatici ponderis
+
+DOK$MDC1_0523/1230.0.0/1230.0.0/1230/1230/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst und Kapitel von Gurk bestellen einen gewissen Heinrich als
+ewigen Vikar zu St. Lorenzen am Steinfeld gegen Leistung eines
+jÑhrlichen Geldbetrags.
+
+REG$Propst und Kapitel von Gurk bestellen einen gewissen Heinrich als
+ewigen Vikar zu St. Lorenzen am Steinfeld gegen Leistung von 70 Mark
+Friesacher Pfennige pro Jahr.
+F$MDC 1/523/406/406
+G$Heinrich/X/X/X//
+E$X/Propst/Gurk/Gurk//K/
+H$Zahlungsverpflichtung/Vikariat/St.Lorenzena.Steinfeld/St.
+Lorenzen a. Steinfeld//Nô,nw.Neunkirchen/
+W$Friesach/moneta/
+O$70/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$70 marcas denariorum monete Frisacensis
+
+DOK$MDC1_0524/1230.1.1/1230.11.10/(1230 vor November 11)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Das Kapitel von Gurk gibt dem Grafen Hermann von Ortenburg
+ein Zahlungsversprechen Åber 30 Mark Friesacher oder St. Veiter
+wegen 60 Scheffel Weizen.
+
+REG$Das Kapitel von Gurk verpflichtet sich zu Martini dem Grafen Hermann von
+Ortenburg 30 Mark Friesacher oder St. Veiter fÅr 60 Scheffel Weizen zu bezahlen.
+F$MDC 1/524/406f/407
+G$X/Kapitel/Gurk/Gurk//K/
+G$Gebhard/Domherr/Gurk/Gurk//K/
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Lebensmittel_Weizen/unbestimmt/unbestimmt//
+W$Friesach/moneta currens/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$30 Mark Friesacher Pf./30 Mark St. Veiter Pf.
+Q$XXX marcas denariorum Frisaticorum sive Vitensium eo tempore
+currentis monet\c{e}
+
+REG$Das Kapitel von Gurk verpflichtet sich zu Martini dem Grafen Hermann von
+Ortenburg 30 Mark Friesacher oder St. Veiter fÅr 60 Scheffel Weizen zu bezahlen.
+F$MDC 1/524/406f/407
+G$X/Kapitel/Gurk/Gurk//K/
+G$Gebhard/Domherr/Gurk/Gurk//K/
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Lebensmittel_Weizen/unbestimmt/unbestimmt//
+W$St. Veit/moneta currens/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$30 Mark St. Veiter Pf./30 Mark Friesacher Pf.
+Q$XXX marcas denariorum Frisaticorum sive Vitensium eo tempore
+currentis monet\c{e}
+
+REG$Das Kapitel von Gurk verpflichtet sich zu Martini dem Grafen Hermann von
+Ortenburg 30 Mark Friesacher oder St. Veiter fÅr 60 Scheffel Weizen zu bezahlen.
+F$MDC 1/524/406f/407
+G$X/Kapitel/Gurk/Gurk//K/
+G$Gebhard/Domherr/Gurk/Gurk//K/
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Lebensmittel_Weizen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/Z
+Q$in dictis denariis persoluturum
+
+DOK$MDC1_0526/1230.5.24/1230.5.24/1230 Mai 24/anno
+incarnationis domini MCCXXX, indictione III, VIIII kalend.
+iunii/Feldkirchen/Hafnerberg/K,nî.Feldkirchen/
+S$X/X/X
+V$X/X/X
+K$Gottfried von Hafnerberg verzichtet zu Gunsten des Kapitels auf die
+Vogtei Åber drei Huben zu Pîlling (nî. Feldkirchen) und zu St.
+Leonhard (î. Feldkirchen).
+
+REG$Gottfried von Hafnerberg verzichtet zu Gunsten des Kapitels auf die
+Vogtei Åber drei Huben zu Pîlling (nî. Feldkirchen) und zu St.
+Leonhard (î. Feldkirchen) fÅr fÅnf Mark Friesacher Pfennige.
+F$MDC 1/526/408/408
+G$X/Kirche_St. Maria/Gurk/Gurk//K/
+E$Gottfried/Genannter/Feldkirchen/Hafnerberg//K,nî.Feldkirchen/
+H$Verzicht/Vogteirecht/Pîlling/Pîlling//K,nî. Feldkirchen/
+H$Verzicht/Vogteirecht/St.Leonhard/St. Leonhard//K,î.Feldkirchen/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$resignavit advocatiam \dots pro quinque marcis Frisaticorum denariorum
+
+DOK$MDC1_0535/1232.0.0/1232.0.0/(1232)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ulrich `Sweuus', Kanoniker in Friesach, bekennt, da· ihm das Gurker
+Kapitel das diesem gehîrige, von ihm um erkaufte Haus in Friesach auf
+Lebenszeit verliehen hat und ohne vorherige Entrichtung eines bestimmten
+Geldbetrags nicht frei Åber dieses verfÅgen dÅrfe.
+
+REG$Ulrich `Sweuus', Kanoniker in Friesach, bekennt, da· ihm das Gurker
+Kapitel das diesem gehîrige, von ihm um 13 Mark Friesacher erkaufte
+Haus in Friesach auf Lebenszeit verliehen hat.
+F$MDC 1/535/415/415
+G$Ulrich Sweuus/Kanoniker/Friesach/Friesach//K/
+E$Gebhard/Propst/Gurk/Gurk//K/
+H$Kauf/Immobilien/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$13/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$domum in cimiterio sancti Bartholomei Frisaci emptionis titulo XIII mar(cis)
+Frisacensis monete comparavi
+
+REG$Ulrich `Sweuus', Kanoniker in Friesach, bekennt, da· er Åber das vom Gurker
+Kapitel gekaufte und ihm auf Lebenszeit verliehene Haus in Friesach nicht ohne
+vorherige Entrichtung von 10 Mark Friesachern frei verfÅgen dÅrfe.
+F$MDC 1/535/415/415
+G$Ulrich Sweuus/Kanoniker/Friesach/Friesach//K/
+E$Gebhard/Propst/Gurk/Gurk//K/
+H$Ablîse/Immobilien/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$X mar(cas) Frisacensis monete
+
+DOK$MDC2_0553/1237.6.25/1237.6.25/1237 Juni 25/anno domini MCCXXXVII, indict. X.,
+VII. kalend. iulii/X/X//
+S$X/X/X
+V$X/X/X
+K$Das Spital am Semmering verkauft dem Propst und Kapitel von Gurk zwei MÅhlen
+am Bache Glîdnitz.
+
+REG$Das Spital am Semmering beurkundet, da· sein ehemaliger Spitalmeister Otakar
+dem Propst und Kapitel von Gurk zwei MÅhlen am Bach Glîdnitz um 28 Mark
+Friesacher MÅnze verkauft hat.
+F$MDC 2/553/20f/21
+F$StUB 2/360/469/469
+F$BabUB 2/534/367/367
+G$X/Propst;Kapitel/Gurk/Gurk//K/
+E$X/Spital/Semmering/Semmering//Nô/
+E$Otakar/Spitalmeister/Semmering/Semmering//Nô/
+H$Kauf/Immobilien_MÅhlen/Gurk/Gurk,a.Bach Glîdnitz bei//K/
+W$Friesach/moneta/
+O$28/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$vendidit pro XXVIII marcis denariorum Frisacenis monete
+
+DOK$MDC2_0563/1242.9.9/1242.9.9/1242 September 9/anno domini MCCXLII, indictione
+XIIII, V idus sempt.[so]/X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind.
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind.
+F$MDC 2/563/29f/29
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Freilassung/Genannter/Griffen/Griffen//nî.Vîlkermarkt/
+W$Friesach/moneta publica/
+O$500/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$500 Mark Friesacher Pf./500 Mark St. Veiter Pf.
+Q$pro summa quingentarum marcarum Frisacensium et sancti Viti
+denariorum publice monete
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind.
+F$MDC 2/563/29f/29
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Freilassung/Genannter/Griffen/Griffen//nî.Vîlkermarkt/
+W$St. Veit/moneta publica/
+O$500/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$500 Mark St. Veiter Pf./500 Mark Friesacher Pf.
+Q$pro summa quingentarum marcarum Frisacensium et sancti Viti
+denariorum publice monete
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr Zahlungen zu verschiedenen Terminen BÅrgschaften
+Åbernehmen.
+F$MDC 2/563/29f/29
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$115/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum marce et quindecim marce
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr Zahlungen zu verschiedenen Terminen BÅrgschaften
+Åbernehmen.
+F$MDC 2/563/29f/29
+G$Wilhelm/Genannter/Haimburg/Heunburg/Hunenbuch/n.Vîlkermarkt/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro quinquaginta marcis
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr Zahlungen zu verschiedenen Terminen BÅrgschaften
+Åbernehmen.
+F$MDC 2/563/29f/29
+G$Wilhelm/Genannter/Haimburg/Heunburg/Hunenbuch/n.Vîlkermarkt/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro quindecim marcis
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr Zahlungen zu verschiedenen Terminen BÅrgschaften
+Åbernehmen.
+F$MDC 2/563/29f/29
+G$Hartwig/Truchse·/Stra·burg/Stra·burg//Gurktal/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro quinquaginta marcis
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/29
+G$Konrad/Genannter/Eberstein/Eberstein//nî.St.Veit/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum marce
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/30
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro ducentis marcis
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/30
+G$Pabo/Genannter/Hohenburg/Hohenburg/Hohenburch/nw.Spittal/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro centum marcis
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/30
+G$Hermann/Genannter/Wolfsberg/Wolfsberg//Lavanttal/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro centum marcis
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/30
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum marcas
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/30
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum marce
+
+REG$Herzog Bernhard von KÑrnten verkÅndet die Freilassung des Friedrich
+Gosse von Griffen (nî. Vîlkermarkt) aus der Gefangenschaft des Grafen
+Hermann II. von Ortenburg, welchem 500 Mark Friesacher zu zahlen sind, wofÅr
+verschiedene Personen fÅr verschiedene Zahlungstermine BÅrgschaften Åbernehmen.
+F$MDC 2/563/29f/30
+G$Dietmar/Genannter/Griffen/Griffen//nî.Vîlkermarkt/
+G$Siegfried/Richter/Griffen/Griffen//nî.Vîlkermarkt/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro quibus etiam denariis
+
+DOK$MDC2_0573/1245.7.31/1245.7.31/1245 Juli 31/anno MCCXLV, indicione III, II.
+kalend. augusti/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Ulrich I. von Gurk beurkundet, da· sein Ministeriale
+Philipp und dessen Frau Adelheid dem Magister Bertram und seiner Frau
+Gertrud mit dem Beinamen Liuba eine Hube in Gassarest samt dem
+Hîrigen Rupert um 16 Mark Friesacher verkauft haben.
+
+REG$Bischof Ulrich I. von Gurk beurkundet, da· sein Ministeriale
+Philipp und dessen Frau Adelheid dem Magister Bertram und seiner Frau
+Gertrud mit dem Beinamen Liuba eine Hube in Gassarest samt dem
+Hîrigen Rupert um 16 Mark Friesacher verkauft haben.
+F$MDC 2/573/36f/36
+G$Bertram/Magister/X/X//
+E$Philipp/Ministeriale/Gurk/Gurk//K/
+H$Kauf/Immobilien/Stra·burg Gassarest/Gassarest//n.Gurk/
+W$Friesach/X/
+O$16/marca/X
+Z$X/X/X
+M$X/den./legalis/A
+Q$sedecim \dots marcas denariorum Frisacensium legalium
+
+REG$Bischof Ulrich I. von Gurk beurkundet, da· sein Ministeriale
+Philipp und dessen Frau Adelheid dem Magister Bertram und dessen
+Frau Gertrud mit dem Beinamen Liuba eine Hube in Gassarest samt dem
+Hîrigen Rubert verkauft haben, wobei fÅr den Fall spÑterer Anfechtung
+ein Pfand im Wert von 20 Mark Friesachern festgesetzt wird, von denen
+jeweils fÅnf Fertones einer Mark Silber Friesacher Gewichts entsprechen.
+F$MDC 2/573/36f/36
+G$Philipp/Ministeriale/Gurk/Gurk//K/
+E$Bertram/Magister/X/X//
+H$Pfand/Immobilien/uKÑrnten/Wezelinsdorf/Wezelinstorf/wo?
+W$Friesach/moneta/
+O$20/marca/X
+Z$5/ferto/X
+M$X/X/X/Z
+A$1 Mark Silber Friesacher Gewichts/5 Fertones
+A$5 Fertones/1 Mark Silber Friesacher Gewichts
+Q$pro XX marcis Frisacensium monete quorum fertones quinque faciunt
+m(arcam) argenti ponderis Frisacensis
+B$MÅnzfu· der Friesacher Pfennig: "In den Jahren 1207 und 1217 werden
+Friesacher Pfennige erwÑhnt, von welchen 5 Vierting einer Zahlmark von
+160 Pfennigen, mithin 200 StÅck eine Mark Feinsilber ergaben, sie hie·en
+darum Fumfvierdunger." (Luschin, S. 152)
+
+DOK$MDC2_0577/1246.0.0/1246.0.0/1246/anno domini MCCXLVI, indictione IIII/X/X//
+S$X/X/X
+V$X/X/X
+K$Ortolf, Eberhard und Chrafto von Metnitz schenken im Auftrage
+ihres verstorbenen Bruders Gottfrid der Gurker Kirche eine Hube ober
+`Souzin' samt einem Hîrigen mit Vorbehalt des Vogteirechtes, welches
+nicht Åber 3 Friesacher Pfennige, jÑhrlich am Michaelstag zu
+entrichten, ausgedehnt werden soll.
+
+REG$Ortolf, Eberhard und Chrafto von Metnitz schenken im Auftrage
+ihres verstorbenen Bruders Gottfrid der Gurker Kirche eine Hube ober
+`Souzin' samt einem Hîrigen mit Vorbehalt des Vogteirechtes, welches
+nicht Åber 3 Friesacher Pfennige, jÑhrlich am Michaelstag zu
+entrichten, ausgedehnt werden soll.
+F$MDC 2/577/39f/40
+G$X/Kirche/Gurk/Gurk//K/
+E$Ortolf/Genannter/Metnitz/Metnitz//K,nw.Friesach/
+E$Eberhard/Genannter/Metnitz/Metnitz//K,nw.Friesach/
+E$Chrafto/Genannter/Metnitz/Metnitz//K,nw.Friesach/
+H$Zahlungsverpflichtung/Vogteirecht/uKÑrnten/Souzin ober/ober Souzin/wo?
+W$Friesach/moneta/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$ad III denarios Friesacensis monete
+
+REG$EinkÅnfte einer Hube in der Hîhe von jÑhrlich 6 Schillingen.
+F$MDC 2/577/39f/40
+G$X/X/X/X//
+E$X/Kirche/Gurk/Gurk//K/
+H$Zins/Immobilien/uKÑrnten/Souzin//
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/Z
+Q$mansum unum \dots VI solidos annuatim conferens
+
+DOK$MDC2_0582/1247.7.9/1247.7.9/1247 Juli 9/anno ab incarnacione domini
+MCCXLVII, indictione V, iulii idus VII/St.Veit/St. Veit//K,a.d.Glan/
+S$X/X/X
+V$X/X/X
+K$Engelbert von Stra·burg schenkt der Gurker Kirche gegen eine
+GeldentschÑdigung von 16 Mark Friesachern sein Freilassungsrecht an
+genannten Hîrigen.
+
+REG$Engelbert von Stra·burg schenkt der Gurker Kirche gegen eine
+GeldentschÑdigung von 16 Mark Friesachern sein Freilassungsrecht an
+genannten Hîrigen.
+F$MDC 2/582/42f/42
+G$X/Kirche/Gurk/Gurk//K/
+E$Engelbert/Genannter/Stra·burg/Stra·burg//Gurktal/
+H$Schenkung/Freilassungsrecht/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$16/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro marcis denariorum XVI Frisacensis monete
+
+DOK$MDC2_0586/1249.1.29/1249.1.29/(1249 ca. JÑnner 29)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Ulrich I. von Gurk verpfÑndet aus Not der Kirche den Grafen
+Hermann II. und Otto von Ortenburg EinkÅnfte des Gutes Radenthein (î.
+Millstatt) um eine nicht nÑher bezeichnete Anzahl von Mark Silber
+Friesacher Gewichts.
+
+REG$Bischof Ulrich I. von Gurk verpfÑndet aus Not der Kirche den Grafen
+Hermann II. und Otto von Ortenburg EinkÅnfte des Gutes Radenthein (î.
+Millstatt) um eine nicht nÑher bezeichnete Anzahl von Mark Silber
+Friesacher Gewichts.
+F$MDC 2/586/45f/46
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+G$Otto/Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Ulrich I./Bischof/Gurk/Gurk//K/
+H$PfandgeschÑft/EinkÅnfte/Radenthein/Radenthein//î.Millstatt/
+W$Friesach/pondus
+O$N/marca/X
+Z$X/X/X
+M$X/argentum/finum/A
+Q$pro [LÅcke] marcis fini argenti ponderis Vrisacensium
+
+DOK$MDC2_0587/1249.1.29/1249.1.29/1249 JÑnner 29/anno domini MCC quadragesimo
+nono, indicione octava quarto kalend. febr./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Ulrich I. von Gurk verpfÑndet dem Grafen Hermann II. von
+Ortenburg das Gut Radenthein (î. Millstatt) um 400 Mark Friesacher,
+welches Geld er fÅr Reise zur rîmischen Kurie gebraucht hat.
+
+REG$Bischof Ulrich I. von Gurk verpfÑndet dem Grafen Hermann II. von
+Ortenburg das Gut Radenthein (î. Millstatt) um 400 Mark Friesacher,
+welches Geld er fÅr seine Reise zur rîmischen Kurie gebraucht hat.
+F$MDC 2/587/46f/47
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Ulrich I./Bischof/Gurk/Gurk//K/
+H$PfandgeschÑft/Immobilien/Radenthein/Radenthein//î.Millstatt/
+W$Friesach/X/
+O$400/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$1 Friesacher Pf./10 Veronenser Pf.
+Q$pro quadringentis marcis denariorum Vrisacensium qui stabunt in
+valore decem Vero(nensium). Si autem maioris fuerint valoris, superaccrescens
+nobis et nostris successoribus,
+si vero sub minori fuerit valore, decem Veron(enses) pro quolibet
+denario persolvantur.
+B$WertverhÑltnis zu Veroneser Pfennigen angegeben.
+Bei Jaksch im Kopfregest 40 statt 400.
+
+REG$Bischof Ulrich I. von Gurk verpfÑndet dem Grafen Hermann II. von
+Ortenburg das Gut Radenthein (î. Millstatt) um 400 Mark Friesacher,
+welches Geld er fÅr seine Reise zur rîmischen Kurie gebraucht hat.
+F$MDC 2/587/46f/47
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Ulrich I./Bischof/Gurk/Gurk//K/
+H$PfandgeschÑft/Immobilien/Radenthein/Radenthein//î.Millstatt/
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+A$10 Veroneser Pf./1 Friesacher Pf.
+Q$pro quadringentis marcis denariorum Vrisacensium qui stabunt in
+valore decem Vero(nensium). Si autem maioris fuerint valoris, superaccrescens
+nobis et nostris successoribus,
+si vero sub minori fuerit valore, decem Veron(enses) pro quolibet
+denario persolvantur.
+B$WertverhÑltnis zu Veroneser Pfennigen angegeben.
+Bei Jaksch im Kopfregest 40 statt 400.
+
+REG$Bischof Ulrich I. von Gurk verpfÑndet dem Grafen Hermann II. von
+Ortenburg das Gut Radenthein (î. Millstatt) um 400 Mark Friesacher,
+welches Geld er fÅr seine Reise zur rîmischen Kurie gebraucht hat, um beim
+Papst (Innocenz IV.) Genugtuung fÅr seine Gefangennahme und fÅr die Vorent-
+haltung seines Schlosses Stra·burg durch die Buzonen zu finden, wodurch ihm
+ein Schaden von 2000 Mark erwachsen ist.
+F$MDC 2/587/46f/46
+G$Buzonen/Genannte/Stra·burg/Stra·burg//Gurktal/
+E$Ulrich I./Bischof/Gurk/Gurk//K/
+H$Schadensverzeichnis/Immobilien_Schlo·/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$duo milia marcharum
+
+REG$Bischof Ulrich I. von Gurk verpfÑndet dem Grafen Hermann II. von
+Ortenburg das Gut Radenthein (î. Millstatt) mit EinkÅnften von 19 Mark
+Pfennige um 400 Mark Friesacher, welches Geld er fÅr seine Reise
+zur rîmischen Kurie gebraucht hat.
+F$MDC 2/587/46f/47
+G$X/X/X/X//
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$EinkÅnfte/Immobilien/Radenthein/Radenthein//î.Millstatt/
+W$X/X/
+O$19/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$decem et novem marchas denariorum
+
+DOK$MDC2_0588/1249.1.29/1249.1.29/1249 JÑnner 29/anno domini millesimo CCXLVIIII,
+IIII kalend. februarii, VIII indict./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Ulrich I. von Gurk tauscht mit dem Grafen Hermann II. von
+Ortenburg zwei Huben in Radenthein und die Vogtei der dortigen Kirche
+samt den Zehnten gegen ein Vogteirecht in Waisenberg (nw. Vîlkermarkt),
+welches unter anderem in (jÑhrlich) drei Mark Friesachern besteht.
+
+REG$Bischof Ulrich I. von Gurk tauscht mit dem Grafen Hermann II. von
+Ortenburg zwei Huben in Radenthein und die Vogtei der dortigen Kirche
+samt den Zehnten gegen ein Vogteirecht in Waisenberg (nw. Vîlkermarkt),
+welches unter anderem in (jÑhrlich) drei Mark Friesachern besteht.
+F$MDC 2/588/47f/48
+F$FRA II 1 Chmel/11/12f/12
+G$Ulrich I./Bischof/Gurk/Gurk//K/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Vogteirecht/Waisenberg/Waisenberg//nw.Vîlkermarkt/
+W$Friesach/X/
+O$3/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$tres marc(e) den(ariorum) Frisacensium
+
+REG$Hartwig von Waisenberg und Berthold von Motenz verpfÑnden ihr Lehen um 1000 Mark
+dem Bischof Ulrich I. von Gurk.
+F$MDC 2/588/47f/48
+F$FRA II 1 Chmel/11/12f/13
+G$Ulrich I./Bischof/Gurk/Gurk//K/
+E$Hartwig/Truchse·/Waisenberg/Waisenberg//nw.Vîlkermarkt/
+E$Berthold/Genannter/Metnitz/Metnitz/Motenz/K,nw.Friesach/
+H$PfandgeschÑft/Lehen/Waisenberg/Waisenberg//nw.Vîlkermarkt/
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro mille mar(cis) denar(iorum) obligarunt
+
+DOK$MDC2_0619/1254.5.31/1254.5.31/1254 Mai 31/anno domini millesimo CCLIIII,
+indicione XII, pridie kalend. iunii/X/X//
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Dietrich II. von Gurk verkÅndet, da· sein Ministeriale
+Engelbert von Stra·burg fÅr eine Geldsumme auf die angema·te Vogtei Åber
+PropsteigÅter im Weiler Zapfendorf (bei Unter-Aich, nî. Stra·burg)
+verzichtet.
+
+REG$Der Ministeriale des ErwÑhlten Dietrich II. von Gurk, Engelbert von
+Stra·burg verzichtet fÅr 6 Mark Friesacher Pfennige auf die angema·te
+Vogtei Åber PropsteigÅter im Weiler Zapfendorf (bei Unter-Aich, nî.
+Stra·burg).
+F$MDC 2/619/70f/70
+G$Dietrich II./ErwÑhlter/Gurk/Gurk//K/
+E$Engelbert/Genannter/Stra·burg/Stra·burg//Gurktal/
+H$Verzicht/Vogteirecht/Unteraich/Zapfendorf//b.Unter-Aich,nî.Stra·burg i.Gurktal/
+W$Friesach/moneta/
+O$6/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$marcas sex denariorum Frisacensis monete
+
+REG$Heinrich und Gebhard, die Sîhne des Ministerialen des ErwÑhlten Dietrich II.
+von Gurk, Engelbert
+von Stra·burg verzichten fÅr 1 Mark Friesacher Pfennige auf die angema·te
+Vogtei Åber PropsteigÅter im Weiler Zapfendorf (bei Unter-Aich, nî.
+Stra·burg).
+F$MDC 2/619/70f/70
+G$Dietrich II./ErwÑhlter/Gurk/Gurk//K/
+G$X/Kapitel/Gurk/Gurk//K/
+E$Heinrich;Gebhard/X/Stra·burg/Stra·burg//Gurktal/
+H$Verzicht/Vogteirecht/Unteraich/Zapfendorf//b.Unter-Aich,nî.Stra·burg i.Gurktal/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$unam marcam denariorum
+
+DOK$MDC2_0621/1255.7.1/1255.7.1/1255 Juli 1/anno domini MCCLV, kalend. iulii/X/X//
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Dietrich II. von Gurk verkÅndet, da· Konrad von Neideck
+(Obersteiermark s. Neumarkt) fÅr zwei Mark Friesacher zugunsten des
+Kapitels auf die angema·te Vogtei in Schnatten (w. Friesach bei
+Metnitz) verzichtet und auch Chrafto von Metnitz das Gut nicht
+anzufechten versprochen hat.
+
+REG$Der ErwÑhlte Dietrich II. von Gurk verkÅndet, da· Konrad von Neideck
+(Obersteiermark s. Neumarkt) fÅr zwei Mark Friesacher zugunsten des
+Kapitels auf die angema·te Vogtei in Schnatten (w. Friesach bei
+Metnitz) verzichtet.
+F$MDC 2/621/72f/72
+G$Dietrich II./ErwÑhlter/Gurk/Gurk//K/
+E$Konrad/Genannter/Neideck/Neideck//Stmk,S.Neumarkt/
+H$Verzicht/Vogteirecht/Schnatten/Schnatten//K,w.Friesach b.Metnitz/
+W$Friesach/moneta/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$duas marcas den(ariorum) Frisacensis monete
+
+DOK$MDC2_0662/1264.12.10/1264.12.10/1264 (ca. Dezember 10)/anno domini
+MCCLXIIII, indicione VIII/Landstra·/Landstra·//Krain/
+S$X/X/X
+V$X/X/X
+K$Herzog Ulrich III. von KÑrnten vereinigt Bischof Dietrich II. von
+Gurk, Propst Friedrich und das Kapitel in ihrem Streite mit den Grafen
+Bernhard und Heinrich von Pfannberg um das Schlo· Albeck dahin, da·
+letztere sowohl als auch die Freien von Sanneck Gebhard, Leopold,
+Ulrich und deren Schwester Gertrud allen AnsprÅchen auf das Schlo·
+entsagen, wofÅr die Grafen vom Bischof 350 Mark Friesacher empfangen
+und mit 30 Mark EinkÅnften belehnt werden.
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt Bischof Dietrich II. von
+Gurk, Propst Friedrich und das Kapitel in ihrem Streite mit den Grafen
+Bernhard und Heinrich von Pfannberg um das Schlo· Albeck dahin, da·
+letztere sowohl als auch die Freien von Sanneck Gebhard, Leopold,
+Ulrich und deren Schwester Gertrud allen AnsprÅchen auf das Schlo·
+entsagen, wofÅr die Grafen vom Bischof 350 Mark Friesacher empfangen
+F$MDC 2/662/108ff/109
+G$Dietrich II./Bischof/Gurk/Gurk//K/
+E$Bernhard;Heinrich/Graf/Pfannberg/Pfannberg//n.Graz/
+H$Verzicht/Immobilien_Schlo·/Albeck/Albeck//K,n.Feldkirchen/
+W$Friesach/moneta/
+O$350/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$trecentas quinquaginta marcas denariorum Frisacensis monete
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt Bischof Dietrich II. von
+Gurk, Propst Friedrich und das Kapitel in ihrem Streite mit den Grafen
+Bernhard und Heinrich von Pfannberg um das Schlo· Albeck dahin, da·
+letztere sowohl als auch die Freien von Sanneck Gebhard, Leopold,
+Ulrich und deren Schwester Gertrud allen AnsprÅchen auf das Schlo·
+entsagen, wofÅr die Grafen vom Bischof mit 30 Mark EinkÅnften belehnt werden.
+F$MDC 2/662/108ff/109
+G$Dietrich II./Bischof/Gurk/Gurk//K/
+E$Bernhard;Heinrich/Graf/Pfannberg/Pfannberg//n.Graz/
+H$Belehnung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$triginta marcarum redditus quod dicitur manlehen, ipsis iure contulit feudali
+
+DOK$MDC2_0663/1264.12.10/1264.12.10/1264 Dezember 10/anno domini
+MCCLXIIII, quarto idus decembris/Landstra·/Landstra·//Krain/
+S$X/X/X
+V$X/X/X
+K$Herzog Ulrich III. von KÑrnten verkÅndet die durch ihn vermittelte
+Einigung zwischen Bischof (Dietrich II. von Gurk) und Propst (Friedrich)
+einerseits und dem Grafen Heinrich von Pfannberg, sowie den Freien
+Leopold und Ulrich von Lemberg andererseits, wonach die zuletzt
+genannten auf das Schlo· Albeck Verzicht leisten, was auch Graf
+Bernhard von Pfannberg, der Freie Gebhard und seine Schwester Gerdrud
+von Sanneck bis zum 2. Februar 1265 zu tun haben, dafÅr der Bischof
+den Grafen 350 Mark Friesacher gibt und sie mit 30 Mark EinkÅnften
+belehnt.
+
+REG$Bischof (Dietrich II. von Gurk) und Propst (Friedrich) zahlen den Grafen
+Heinrich und Bernhard von Pfannberg fÅr den Verzicht der Freien Leopold und
+Ulrich von Lemberg auf das Schlo· Albeck 350 Mark Friesacher.
+F$MDC 2/663/110f/110
+G$Dietrich II./Bischof/Gurk/Gurk//K/
+E$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+H$Verzicht/Immobilien/Albeck/Albeck//K,n.Feldkirchen/
+W$Friesach/moneta/
+O$350/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dederunt trecentas quinquaginta marcas denariorum Frisacensis monete
+
+REG$Bischof (Dietrich II. von Gurk) belehnt die Grafen
+Heinrich und Bernhard von Pfannberg fÅr den Verzicht der Freien Leopold und
+Ulrich von Lemberg auf das Schlo· Albeck mit 30 Mark EinkÅnften.
+F$MDC 2/663/110f/110
+G$Dietrich II./Bischof/Gurk/Gurk//K/
+E$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+H$Belehnung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$insuper dominus episcopus eisdem comitibus triginta marcarum redditus quod
+vulgo manlehen dicitur iure contulit feudali
+
+DOK$MDC2_0664/1264.12.10/1264.12.10/1264 Dezember 10/anno domini
+MCCLXIIII, quarto idus decembris/Landstra·/Landstra·//Krain/
+S$X/X/X
+V$X/X/X
+K$Herzog Ulrich III. von KÑrnten verkÅndet die durch ihn
+herbeigefÅhrte freundschaftliche Einigung zwischen Bischof Dietrich II.,
+Propst Friedrich  und dem Kapitel von Gurk einerseits und den
+Grafen Bernhard und Heinrich von Pfannberg, dann den Freien Gebhard,
+Leopold und Ulrich von Sanneck andererseits, wonach letztere
+versprochen haben, da· auch Sophia, Gattin Friedrichs von Pettau,
+und deren Erben vom 25. Dezember an innerhalb von drei Jahren zu Gunsten
+der Gurker auf Schlo· Albeck und andere GÅter verzichten werden, wofÅr
+der Herzog und andere mit Geld BÅrgschaft leisten.
+
+REG$Herzog Ulrich III. von KÑrnten verkÅndet die durch ihn
+herbeigefÅhrte freundschaftliche Einigung zwischen Bischof Dietrich II.,
+Propst Friedrich  und dem Kapitel von Gurk einerseits und den
+Grafen Bernhard und Heinrich von Pfannberg, dann den Freien Gebhard,
+Leopold und Ulrich von Sanneck andererseits, wonach letztere
+versprochen haben, da· auch Sophia, Gattin Friedrichs von Pettau,
+und deren Erben vom 25. Dezember an innerhalb von drei Jahren zu Gunsten
+der Gurker auf Schlo· Albeck und andere GÅter verzichten werden, wofÅr
+der Herzog und andere mit Geld BÅrgschaft leisten.
+F$MDC 2/664/111f/111
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K
+E$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+H$BÅrgschaft/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro marcis quinquaginta
+
+REG$Herzog Ulrich III. von KÑrnten verkÅndet die durch ihn
+herbeigefÅhrte freundschaftliche Einigung zwischen Bischof Dietrich II.,
+Propst Friedrich  und dem Kapitel von Gurk einerseits und den
+Grafen Bernhard und Heinrich von Pfannberg, dann den Freien Gebhard,
+Leopold und Ulrich von Sanneck andererseits, wonach letztere
+versprochen haben, da· auch Sophia, Gattin Friedrichs von Pettau,
+und deren Erben vom 25. Dezember an innerhalb von drei Jahren zu Gunsten
+der Gurker auf Schlo· Albeck und andere GÅter verzichten werden, wofÅr
+der Herzog und andere mit Geld BÅrgschaft leisten.
+F$MDC 2/664/111f/111
+G$Friedrich/Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+H$BÅrgschaft/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro marcis quinquaginta
+
+REG$Herzog Ulrich III. von KÑrnten verkÅndet die durch ihn
+herbeigefÅhrte freundschaftliche Einigung zwischen Bischof Dietrich II.,
+Propst Friedrich  und dem Kapitel von Gurk einerseits und den
+Grafen Bernhard und Heinrich von Pfannberg, dann den Freien Gebhard,
+Leopold und Ulrich von Sanneck andererseits, wonach letztere
+versprochen haben, da· auch Sophia, Gattin Friedrichs von Pettau,
+und deren Erben vom 25. Dezember an innerhalb von drei Jahren zu Gunsten
+der Gurker auf Schlo· Albeck und andere GÅter verzichten werden, wofÅr
+der Herzog und andere mit Geld BÅrgschaft leisten.
+F$MDC 2/664/111f/111
+G$Ulrich/Graf/Haimburg/Heunenburg/Heunenburg/n.Vîlkermarkt/
+E$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+H$BÅrgschaft/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro marcis quinquaginta
+
+REG$Herzog Ulrich III. von KÑrnten verkÅndet die durch ihn
+herbeigefÅhrte freundschaftliche Einigung zwischen Bischof Dietrich II.,
+Propst Friedrich  und dem Kapitel von Gurk einerseits und den
+Grafen Bernhard und Heinrich von Pfannberg, dann den Freien Gebhard,
+Leopold und Ulrich von Sanneck andererseits, wonach letztere
+versprochen haben, da· auch Sophia, Gattin Friedrichs von Pettau,
+und deren Erben vom 25. Dezember an innerhalb von drei Jahren zu Gunsten
+der Gurker auf Schlo· Albeck und andere GÅter verzichten werden, wofÅr
+der Herzog und andere mit Geld BÅrgschaft leisten.
+F$MDC 2/664/111f/111
+G$Ulrich/Freier/Lemberg/Lemberg/Lengenburg/Stmk,nw.Hochenegg u.Cilli/
+E$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+H$BÅrgschaft/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro marcis quinquaginta
+
+REG$Die Grafen Bernhard und Heinrich von Pfannberg verpflichten sich Bischof
+Dietrich II. von Gurk und der Kirche von Gurk gegenÅber fÅr 200 Mark Friesacher
+und andere SchÑden zur VerpfÑndung ihrer GÅter.
+F$MDC 2/664/111f/112
+G$Heinrich;Bernhard/Graf/Pfannberg/Pfannberg//n.Graz/
+E$Dietrich II./Bischof/Gurk/Gurk//K/
+H$PfandgeschÑft/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$200/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro ducentis marcis denariorum Frisacensium \dots obligarunt
+
+

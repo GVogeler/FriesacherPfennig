@@ -1,0 +1,1423 @@
+note *** Urkunden Kloster Sesto
+        Nummerierung nach Edition Della Torre
+        Nummern mit nachgesetztem Buchstaben: bei Della Torre nicht enthalten
+        oder Insert in anderer Della-Torre-Urkunde
+
+note *** Einlesen der Rohdaten fr_sesto.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$fses_14/1101.2.24/1101.2.24/1101 Februar 24/?/Cividale/Cividale//Friaul-Ost/
+S$Bernhard/X/Bernhard     ist gleich cand-21
+V$Bernhard/X/Bernhard
+K$Acela und ihr Sohn Hugo sowie dessen Frau Liuza schenken dem Abt Konrad von
+Sesto Liegenschafte zu Flambro.
+
+REG$NN
+F$Della Torre, Sesto/14/115/115
+G$Hugo/X/X/X//
+E$Konrad/Kloster/Sesto/Sesto//Friaul-West/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$30/uncia/X
+Z$X/X/X
+M$X/aurum/optimum/Z
+A$pena auri optimi uncias XXX/argenti pondera sexsaginta
+Q$multa que est pena auri optimi uncias XXX argenti pondera sexsaginta
+B$Hugo und Acela leben nach baierischem Recht. Liuza lebte nach
+langobardischem Recht, jetzt aber infolge Ehe nach baierischem Recht.
+
+DOK$fses_16/1134.10.22/1134.10.22/1134 Oktober 22/anno dominice incarnationis MCXXXIIII.
+undecimo kalendas novembris indictione XIII./Aquileia/Aquileia//Friaul-SÅd/
+S$Dietrich/X/Dietrich
+V$Dietrich/X/Dietrich
+K$Ubaldus, Sohn des Arpo, verkauft dem Abt Ulrich von Sesto ein Allod zu
+Castions.
+
+REG$Ubaldus, Sohn des Arpo, verkauft dem Abt Ulrich von Sesto ein Allod zu
+Castions um Silber und andere Waren im Wert von 200 Pfund Venetianischer MÅnze.
+F$Della Torre, Sesto/16/119f/119
+F$Gioppo/233/188/188
+F$BCU Ms. Joppi 368 Fasz. 4/15/1f/1
+F$BCU Ms. Joppi 368 Fasz. 4/16/1f/1
+G$Ulrich/Abt/Sesto/Sesto//Friaul-West/
+G$Ubaldus/X/X/X//
+E$X/X/X/X//
+H$Kauf/Immobilien/CastionsdiZoppola/Castions (di Zoppola)//Friaul-West/
+W$Venedig/moneta/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$multum argentum et aliam mercem valentem libras CCtas Venetiensis monet\c{e}
+B$Ubaldus lebt nach langobardischem Recht.
+
+ACC Perg. II, S. 28, Nr. 17, Datum 1134 November 11, Notar Metteneus.
+?BestÑtigung Åber den Empfang der Kaufsumme in Waren und Silber im angegebenen
+Wert.
+
+DOK$fses_17/1155.1.0/1155.1.0/1155 JÑnner/anno MCLV. mense ianuario indictione
+III./S.VitoalTagliamento/S. Vito//wo??
+S$Martin/kaiserl. Notar/Martin
+V$Martin/kaiserl. Notar/Martin
+K$Auf Anordung des Kaisers Friedrichs I. befiehlt Herzog Warnerius denen von
+Senegallia, den Abt Johannes von Sesto nicht weiter zu behelligen und die jenem
+Kloster entzogenen GÅter zurÅckzustellen.
+
+REG$Strafbestimmung in der Hîhe von 20 Pfund besten Goldes.
+F$Della Torre, Sesto/17/121f/122
+F$BCU Ms. Joppi 368 Fasz. 4/43/1f/2
+G$X/X/X/X//
+E$X/Kasse_kînigl./X/X//wo??
+E$Pînale/Strafgeld/S.VitoalTagliamento/S. Vito al Tagliamento//wo??
+castello di?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat se compositurum viginti libras de auro optimo medietatem in camera regis
+et medietatem in nostra.
+B$Exemplum des Notars Martinus domini Frederici imp. not. dieser nach Exemplum
+von Hand des Jakob, Not. d. Fr.
+1157 JÑnner 3, Notar Jakob, Sentenz? extra aufnehmen, obwohl fast gleicher
+Wortlaut?
+
+DOK$fses_19/1156.0.0/1156.0.0/[1156?]/a nativitate eiusdem anno domini \dots sedente in
+apostolica sede Adriano papa, Frederico (imperatore)/Senigallia/Senigallia//wo??
+S$Martin/kaiserl. Notar/Martin
+V$Martin/kaiserl. Notar/Martin
+K$Abt Johannes von Sesto verleiht Johannes und Angelus, den Sîhnen des Andreas
+Callesius, GrundstÅcke im Territorium von Senigallia gegen jÑhrlichen Zins.
+
+REG$Abt Johannes von Sesto verleiht Johannes und Angelus, den Sîhnen des Andreas
+Callesius, GrundstÅcke im Territorium von Senigallia gegen jÑhrlichen Zins in
+der Hîhe von einem Pfennig.
+F$Della Torre, Sesto/19/125f/126
+F$BCU Ms. Joppi 368 Fasz. 4/46/1ff/2
+G$Johannes;Angelus/X/X/X//
+E$Johannes/Abt/Sesto/Sesto//Friaul-West/
+H$Zinsverpflichtung/Immobilien/Senigallia/Senigallia//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$omni anno inferre debemus \dots nomine pensionem? I denarii
+
+DOK$fses_20/1165.0.0/1169.0.0#?/[1165 - 1169]/X/X/X//Friaul-West
+S$X/X/X
+V$X/X/X
+K$Die Mînche von Sesto wenden sich wegen der seitens vieler Patriarchen von
+Aquileia erlittenen Beraubungen an den Papst [Alexander III.]. Graf Engelbert
+von Gîrz empfiehlt ihre Sache Odo und Cencius Frangipane, damit diese die
+Angelegenheit beim Papst weiterbringen.
+
+REG$Die Mînche von Sesto wenden sich wegen der seitens vieler Patriarchen von
+Aquileia erlittenen Beraubungen an den Papst, so durch Erpressungen in der Zeit
+Ulrich II. unter anderem 70 Mark.
+F$Della Torre, Sesto/20/127ff/128
+F$BCU Ms. Joppi 368 Fasz. 5/25/1ff/2
+G$X/Kloster/Sesto/Sesto//Friaul-West/
+E$Ulrich [II.]/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑden/SchÑden/Sesto/Sesto//Friaul-West/
+W$X/X/
+O$70/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quod infra unum annum et dimidium ab abbate Martino LXX marcas \dots per
+extorsionem accepisset
+B$Bericht Åber Erpressungen aus der Zeit des Patriarchen
+Ulrich II. und des Abtes Martin.
+Notarielle Abschrift von 1804, ACC Perg. II S. 42, Nr. 29, datiert mit 1168
+bzw. 1169. ?
+Gioppo Nr. 302, S. 227f datiert ca. 1169.
+IP7 I Nr. 2, S. 79 datiert (ca. 1169).
+Joppi datiert ca. 1170.
+
+REG$Die Mînche von Sesto wenden sich wegen der seitens vieler Patriarchen von
+Aquileia erlittenen Beraubungen an den Papst, so in der Zeit
+Ulrich II. in der Hîhe von mehr als 500 Mark.
+F$Della Torre, Sesto/20/127ff/128
+F$BCU Ms. Joppi 368 Fasz. 5/25/1ff/2
+G$X/Kloster/Sesto/Sesto//Friaul-West/
+E$Ulrich [II.]/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑden/SchÑden/Sesto/Sesto//Friaul-West/
+W$X/X/
+O$500/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ter etiam pro ipso patriarcha ita rustici abbati\c{e} fuerunt predati ut
+preda ultra quingentarum marcharum esset estimata
+B$Bericht Åber Erpressungen aus der Zeit des Patriarchen Ulrich II.
+und des Abtes Martin
+Notarielle Abschrift von 1804, ACC Perg. II S. 42, Nr. 29, datiert mit 1168
+bzw. 1169. ?
+Gioppo Nr. 302, S. 227f datiert ca. 1169.
+IP7 I Nr. 2, S. 79 datiert (ca. 1169).
+Joppi datiert ca. 1170.
+
+DOK$fses_20a/1170.0.0/1170.0.0/[ca. 1170?]/X/X/X//
+S$Johannes Bonus/kaiserl. Notar/Johannes Bonus
+V$Johannes Bonus/kaiserl. Notar/Johannes Bonus
+K$Patriarch [Ulrich II]. von Aquileia betreffend die Abtwahl von Sesto.
+
+REG$GÅter des Kloster Sesto sind um mehr als 2000 Pfund an unbekannt verpfÑndet.
+F$ACU Coll. Font. 16/67/106/106
+G$N.N./X/X/X//
+E$?/?/X/?X//
+H$PfandgeschÑft/Immobilien/Sesto/Sesto//Friaul-West/
+W$X/X/
+O$2000/lib./plus quam
+Z$X/X/X
+M$X/X/X/A
+Q$pignori plus quam duo milia libr.
+B$Datum noch zu klÑren.?
+
+DOK$fses_24/1194.2.2/1194.2.2/1194 Februar 2/anno domini MCXCIV. indictione duodecima regnante et
+imperante Henrico die martiis secundo intrante februario/Vittorio Veneto/Vittorio Veneto (Ceneda)/Ceneda/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Die BrÅder Gabriel, Wezelo und Biachino von Camino stellen die eigenen Rechte
+Åber einige ihrer Besitzungen zu Bugnins, Maniago, Bando, Fanna, Cessalto, Santa
+Anastasia, Colfosco, Susegana und im Cadore fest, welche von nun an ihnen
+einzeln gehîren sollen. Die Schlîsser Cessalto, Motta und Camino sollen in
+Gemeinbesitz verbleiben, ebenso die Pflicht zur VergÅtung von KriegsschÑden.
+
+REG$Die BrÅder Gabriel, Wezelo und Biachino von Camino stellen die eigenen Rechte
+Åber einige ihrer Besitzungen zu Bugnins, Maniago, Bando, Fanna, Cessalto, Santa
+Anastasia, Colfosco, Susegana und im Cadore fest, welche von nun an ihnen
+einzeln gehîren sollen. Vecello verpfÑndete seinem Bruder Biachino 400 Pfund
+Pfennige fÅr? pro stauro seines Teiles auf neun Jahre.
+F$Della Torre, Sesto/24/137ff/138
+F$BCU Ms. Joppi 368 Fasz. 7/24/1ff/2
+G$Wezelo/Genannter/Camino_diCodroipo/Camino (diCodroipo?)//wo??
+E$Biachino/Genannter/Camino_diCodroipo/Camino (diCodroipo?)//wo??
+H$PfandgeschÑft?/Geldsumme/unbestimmt/unbestimmt?//
+W$X/X/
+O$400/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Insuper Vecello vadiavit Biaquino fratri suo quadringentas libras denariorum
+de hic usque ad annum nonum proximum venturum solvendas pro stauro predicte sue
+partis, quod meliorem partem videtur habere
+B$"de presenti usque ad annum novum  proxime venturum solvendas pro stauro
+predicte sue partis que meliorum partem videtur habere" (Joppi).?
+
+DOK$fses_25/1198.2.16/1198.2.16/1198 Februar 16/MCXCVIII. indictione prima die XIII.
+exeunte mense februarii/unbekannt Lavazzo/Lavazzo//wo??
+S$Archiclitus/kaiserl. Notar/Archiclitus
+V$Archiclitus/kaiserl. Notar/Archiclitus
+K$Zanitino de Castello di Belluno, der Sohn des Colomanno, und Ota, die Tochter
+des Ardimanno de Cimolais schlie·en einen Erbvertrag.
+
+REG$Zanitino de Castello di Belluno, der Sohn des Colomanno, erhielt von Ota, der
+Tochter des Ardimanno de Cimolais, 230 Pfund in Waren und Pfennigen unter der
+Bedingung, da·, wenn Zanitino vor Ota ohne gemeinsame Erben stirbt, sie seine
+Morgengabe? haben soll und von seinen GÅtern soviel, wie die HÑlfte ihres
+Geschenks wert ist. Wenn aber Ota vor Zanitino ohne gemeinsame Erben stirbt,
+soll er die HÑlfte ihres Geschenks haben, wÑhrend er die andere HÑlfte
+ihrem nÑchsten Verwandten zurÅckgeben mu·.
+F$Della Torre, Sesto/25/140/140
+F$BCU Ms. Joppi 368 Fasz. 7/43/1f/1
+G$Ota/Genannte/Cimolais/Cimolais//Friaul-West?
+E$Zanitino/Genannter/Belluno/Belluno,Castello di//wo?? Castello di Belluno
+H$ErbvertragSchenkung?_Wertangabe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$230/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$recepit ab Ota filia Ardimanni de Cimolaiso nomine dotis CC et XXX libras
+inter bo(na) (ae)stimata et denarios
+
+DOK$fses_26/1214.4.3/1214.4.3/1214 April 3/anno domini MCCIIII. indictione secunda die
+tertio intrante mense aprili/Sesto/Sesto//Friaul-West/
+S$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+V$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+K$Irmintrud, Witwe nach Hermann von Pinzano, und ihre Tîchter schenken dem
+Kloster Sesto eine Hube in Castions [di Zoppola].
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund reinen Goldes.
+F$Della Torre, Sesto/26/141f/142
+G$Irmintrud/Genannte/Pinzano/Pinzano//Friaul-Mitte/
+E$X/Kloster/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$sub poena III librarum puri auri
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund reinen Goldes.
+F$Della Torre, Sesto/26/141f/142
+G$Irmintrud/Genannte/Pinzano/Pinzano//Friaul-Mitte/
+E$X/Kloster/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$a dicta poena III librarum puri auri cadat
+
+DOK$fses_27/1214.4.10/1214.4.10/1214 April 10/anno domini MCCXIIII. indictione secunda die
+X. intrante mense aprili/Sesto/Sesto//Friaul-West/
+S$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+V$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+K$Irmintrud, Witwe nach Hermann von Pinzano, und ihre Tîchter schenken dem
+Kloster Sesto eine Hube in Giavons.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund reinen Goldes.
+F$Della Torre, Sesto/27/143f/144
+G$Irmintrud/Genannte/Pinzano/Pinzano//Friaul-Mitte/
+E$X/Kloster/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$sub poena III librarum puri auri
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund reinen Goldes.
+F$Della Torre, Sesto/27/143f/144
+G$Irmintrud/Genannte/Pinzano/Pinzano//Friaul-Mitte/
+E$X/Kloster/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$ad dictam poenam III librarum puri auri cadat
+
+DOK$fses_28a/1218.11.30/1218.11.30/1218 November 30/anno domini MCCXVIII. die ultimo
+exeunte novembri indictione sexta/X/X//
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia beauftragt mehrere Vasallen (darunter den Abt
+von Sesto) mit der Auszeigung der GÅter des Patriarchen in der Gastaldie von
+Cinto.
+
+REG$Strafbestimmung in der Hîhe von 50 Pfund Veroneser.
+F$Della Torre, Sesto/28*a/145f/146
+G$X/X/X/X//
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut nomine pene redimat manum pro quinquaginta libris Veronensium
+
+DOK$fses_28b/1219.2.12/1219.2.12/1219 Februar 12/MCCXIX die 12. intrante februario
+indictione 7./X/X//
+S$X/X/X
+V$X/X/X
+K$Die vom Patriarchen [Berthold von Aquileia] eingesetzten Schiedsleute
+gestatten dem Folkmar von Panigai, nach Entrichtung von 60 Pfund Veroneser
+Pfennige seine Besitzungen in Villaricolt di Pasiano und in Barco di
+Pravisdomini zu behalten.
+
+REG$Die vom Patriarchen [Berthold von Aquileia] eingesetzten Schiedsleute
+gestatten dem Folkmar von Panigai, nach Entrichtung von 60 Pfund Veroneser
+Pfennige seine Besitzungen in Villaricolt di Pasiano und in Barco di
+Pravisdomini zu behalten.
+F$Della Torre, Sesto/28*b/145ff/147
+G$Folkmar/Genannter/Panigai/Panigai//Friaul-West,di Pravisdomini/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlung?/Immobilien/Villaricolt di Pasiano;Barco di Pravisdomini/Villaricolt di Pasiano;Barco di Pravisdomini//Friaul-West/
+H$Investitur?/Immobilien/Villaricolt di Pasiano;Barco di Pravisdomini/
+Villaricolt di Pasiano;Barco di Pravisdomini//Friaul-West/
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvat \dots sexaginta libras Veronensium
+
+DOK$fses_30/1219.11.16/1219.11.16/1219 November 16/anno domini MCCXIX.
+indictione septima die V. exeunte novembri/Polcenigo/Polcenigo//Friaul-West/
+S$Saliensinbene/kaiserl. Notar/Saliensinbene
+V$Saliensinbene/kaiserl. Notar/Saliensinbene
+K$Pilgrim von Fanna gibt gegen Entrichtung von 90 Pfund venezianischer Pfennige
+dem Abt Stephan von Sesto ein "feudo di pastura" auf, gelegen in der villa und
+im Territorium von Savorgnano.
+
+REG$Pilgrim von Fanna gibt gegen Entrichtung von 90 Pfund venezianischer Pfennige
+dem Abt Stephan von Sesto ein "feudo di pastura" auf, gelegen in der villa und
+im Territorium von Savorgnano.
+F$Della Torre, Sesto/30/149f/149
+G$Stefan/Abt/Sesto/Sesto//Friaul-West/
+E$Pilgrim/Genannter/Fanna/Fanna//Friaul-West/
+H$Lehenaufgabe/feudum pasturae/Savorgnano/Savorgnano//Friaul-Mitte?/
+W$Venedig/X/
+O$90/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro nonaginta libris denariorum Venetiarum
+
+REG$Pilgrim von Fanna gibt gegen Entrichtung von 90 Pfund venezianischer Pfennige
+dem Abt Stephan von Sesto ein "feudo di pastura" auf, gelegen in der villa und
+im Territorium von Savorgnano und verspricht bei Strafe des doppelten
+erhaltenen Preises und Wiederherstellung des Lehens minus 40 Schillinge dieses
+zu verteidigen.
+F$Della Torre, Sesto/30/149f/149
+G$Pilgrim/Genannter/Fanna/Fanna//Friaul-West/
+E$Stefan/Abt/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$40/sol./minus
+M$X/X/X/Z
+Q$sub poena dupli pretii accepti et restaurationis talis feudi prout melioratum
+fuerit minus XL solidos ab omni homine cum ratione defendere
+
+DOK$fses_31/1220.4.11/1220.4.11/1220 April 11/anno domini MCCXX. die XI.
+intrante aprile indictione VIII./Aquileia/Aquileia//Friaul-SÅd   Datum 12 oder 18?
+S$Morandus/kaiserl. Notar/Morandus
+V$Morandus/kaiserl. Notar/Morandus
+K$Patriarch Berthold von Aquileia und Abt Stephan von Sesto kommen wegen der
+villa Erbasecca auf vier Schiedsleute Åberein, welche die den Bewohnern von
+Meduna in der genannten villa Åberlassenen Immobilien schÑtzen sollen.
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark guten Silbers.
+F$Della Torre, Sesto/31/151ff/152
+F$BCU Ms. Joppi 369 Fasz. 2/57/1ff/2
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr.   ?
+E$Stefan/Abt/Sesto/Sesto//Friaul-West         ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$sub poena mille marcharum argenti boni
+
+DOK$fses_32/1220.7.4/1220.7.4/1220 Juli 4/anno domini MCCXX. indictione VIII. die III.
+intrante mense iulio/Portogruaro/Portogruaro//wo??
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Gotebold von Cusano verzichtet gegenÅber Abt Stephan von Sesto auf alles Recht
+und auf alle Vogtei Åber vier Hufen in der villa Vivaro.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark.
+F$Della Torre, Sesto/32/154f/154
+G$Gotebold/Genannter/Cusano/Cusano//wo??
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub poena centum marcharum
+
+DOK$fses_33a/1220.10.30/1220.10.30/[1220] Oktober 30/anno domini MCCXX. indictione VIII.
+III. kalendas novembris/S.Lorenzo in Strada/S. Lorenzo in Strada//wo??
+S$X/X/X?
+S$Jakob?/kaiserl. Notar/Jakob ?
+V$X/X/X?
+V$Jakob?/kaiserl. Notar/Jakob ?
+K$Friedrich II. erneuert auf Klage des Patriarchen von Aquileia seinen Befehl an
+Bischof, Podesta und Gemeinde von Senigallia, dem Kloster Sesto vorenthaltene
+GÅter und EinkÅnfte auszuliefern, und ordnet zur öbergabe derselben und zur
+Empfangnahme der verwirkten Bu·e einen Boten ab, indem er bei weiterem
+Ungehorsam die Strafe auf 2000 Pfund erhîht.
+
+REG$Friedrich II. erneuert auf Klage des Patriarchen von Aquileia seinen Befehl an
+Bischof, Podest\`a und Gemeinde von Senigallia, dem Kloster Sesto vorenthaltene
+GÅter und EinkÅnfte auszuliefern, und ordnet zur öbergabe derselben und zur
+Empfangnahme der verwirkten Bu·e einen Boten ab, indem er bei weiterem
+Ungehorsam die Strafe auf 2000 Pfund erhîht.
+F$Della Torre, Sesto/33/156f/157
+F$Winkelm.Acta I/191/170f/170
+G$X/Bischof;Podest\`a;Gemeinde/Senigallia/Senigallia//wo??
+E$Friedrich II./Kînig/Dt.Reich/Dt. Reich?//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$In duobus autem librarum milibus vos puniendos fore noveritis
+B$Insert in 1220 November 1, Senigallia (PrÑsentation).
+
+DOK$fses_36/1221.10.22/1221.10.22/1221 Oktober 22/anno ab incarnatione domini MCCXXI. die
+decimo exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob?
+K$Andreas Berge verpflichtet sich zur jÑhrlichen Zahlung eines ravennatischen
+oder anconitanischen Pfennigs fÅr einen halben Weingarten, den er vom Abt von
+Sesto zu Lehen erhalten hatte.
+
+REG$Andreas Berge verpflichtet sich zur jÑhrlichen Zahlung eines ravennatischen
+oder anconitanischen Pfennigs fÅr einen halben Weingarten, den er vom Abt von
+Sesto zu Lehen erhalten hatte.
+F$Della Torre, Sesto/36/162f/163
+G$Andreas Berge/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/unbestimmt/unbestimmt//
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Ravennater Pf. /1 anconitanischer Pf.
+Q$sub pensione unius denarii Ravennatis vel Anconetanis
+
+REG$Andreas Berge verpflichtet sich zur jÑhrlichen Zahlung eines ravennatischen
+oder anconitanischen Pfennigs fÅr einen halben Weingarten, den er vom Abt von
+Sesto zu Lehen erhalten hatte.
+F$Della Torre, Sesto/36/162f/163
+G$Andreas Berge/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/unbestimmt/unbestimmt//
+W$Ancona/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 anconitanischer Pf./1 Ravennater Pf.
+Q$sub pensione unius denarii Ravennatis vel Anconetanis
+
+DOK$fses_37/1221.10.23/1221.10.23/1221 Oktober 23/anno ab incarnatione domini MCCXXI. die
+VIIII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob
+V$Jakob/Senigallia/Jakob?
+K$Miliarius von Zaule erhÑlt vom Abt von Sesto einen Weingarten zu Zaule in
+der Grafschaft Senigallia gegen jÑhrlichen Zins von einem Ravennater Pfennig.
+
+REG$Miliarius von Zaule erhÑlt vom Abt von Sesto einen Weingarten zu Zaule in der
+Grafschaft Senigallia gegen jÑhrlichen Zins von einem Ravennater Pfennig.
+F$Della Torre, Sesto/37/164f/165
+G$Miliarius/Genannter/Zaule/Zaule//wo??
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$sub pensione quam vobis et vostris successoribus annuatim \dots unum denarium
+Ravennate solvere promitto
+
+DOK$fses_38/1221.10.24/1221.10.24/1221 Oktober 24/anno ab incarnatione domini MCCXXI. die
+VIII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob
+V$Jakob/Senigallia/Jakob?
+K$Die BrÅder Giudutius und Centelutius, Sîhne des Petrus Gisilbrandus, erhalten
+von Abt Stephan von Sesto einen halben Weingarten, den sie gemeinsam mit Andreas
+Berge besitzen, gegen jÑhrlichen Zins von einem Ravennater oder anconitanischen
+Pfennig.
+
+REG$Die BrÅder Giudutius und Centelutius, Sîhne des Petrus Gisilbrandus, erhalten
+von Abt Stephan von Sesto einen halben Weingarten, den sie gemeinsam mit Andreas
+Berge besitzen, gegen jÑhrlichen Zins von einem Ravennater oder anconitanischen
+Pfennig.
+F$Della Torre, Sesto/38/166f/166
+G$Giudutius;Centelutius/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Ravennater Pf./1 anconitanischer Pf.
+Q$sub pensione I denarii Ravennatis vel Anconetanis
+
+REG$Die BrÅder Giudutius und Centelutius, Sîhne des Petrus Gisilbrandus, erhalten
+von Abt Stephan von Sesto einen halben Weingarten, den sie gemeinsam mit Andreas
+Berge besitzen, gegen jÑhrlichen Zins von einem Ravennater oder anconitanischen
+Pfennig.
+F$Della Torre, Sesto/38/166f/166
+G$Giudutius;Centelutius/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ancona/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 anconitanischer Pf./1 Ravennater Pf.
+Q$sub pensione I denarii Ravennatis vel Anconetanis
+
+DOK$fses_39/1221.10.24/1221.10.24/1221 Oktober 24/anno ab incarnatione domini MCCXXI. die
+VIII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob
+V$Jakob/Senigallia/Jakob?
+K$Rainer Milio erhÑlt von Abt Stephan von Sesto alle GÅter des Klosters im
+fundus von Zaule in der Grafschaft Senigallia, gegen jÑhrlichen Zins von drei
+Ravennater oder anconitanischen Pfennigen.
+
+REG$Rainer Milio erhÑlt von Abt Stephan von Sesto alle GÅter des Klosters im
+fundus von Zaule in der Grafschaft Senigallia, gegen jÑhrlichen Zins von drei
+Ravennater oder anconitanischen Pfennigen.
+F$Della Torre, Sesto/39/168f/169
+G$Rainer Milio/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+A$3 Ravennater Pf./3 anconitanische Pf.
+Q$annuatim solvere promitto \dots III denarios Ravennatos vel Anconetanos
+
+REG$Rainer Milio erhÑlt von Abt Stephan von Sesto alle GÅter des Klosters im
+fundus von Zaule in der Grafschaft Senigallia, gegen jÑhrlichen Zins von drei
+Ravennater oder anconitanischen Pfennigen.
+F$Della Torre, Sesto/39/168f/169
+G$Rainer Milio/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ancona/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+A$3 anconitanische Pf./3 Ravennater Pf.
+Q$annuatim solvere promitto \dots III denarios Ravennatos vel Anconetanos
+
+DOK$fses_40/1221.10.24/1221.10.24/1221 Oktober 24/anno ab incarnatione domini MCCXXI. die
+VIII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob
+V$Jakob/Senigallia/Jakob
+K$Jakob Galitiani empfÑngt anstatt seiner Frau Padovese von Abt Stephan von
+Sesto ein LandstÅck im fundus von Zaule zu Castagna gegen jÑhrlichen Zins von
+einem Ravennater Pfennig.
+
+REG$Jakob Galitiani empfÑngt anstatt seiner Frau Padovese von Abt Stephan von
+Sesto ein LandstÅck im fundus von Zaule zu Castagna gegen jÑhrlichen Zins von
+einem Ravennater Pfennig.
+F$Della Torre, Sesto/40/170f/170
+G$Jakob Galitiani/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$sub pensione solvenda vobis vel vestris successoribus annuatim \dots I denarii
+Ravennatis
+
+DOK$fses_41/1221.10.24/1221.10.24/1221 Oktober 24/anno ab incarnatione domini MCCXXI. die
+VIII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob
+V$Jakob/Senigallia/Jakob
+K$Die BrÅder Simon und Bonifilius, Sîhne des Bonus, erhalten von Abt Stephan von
+Sesto verschiedene GrundstÅcke im Territorium von Senigallia gegen jÑhrlichen
+Zins von 5 Ravennater oder anconitanischen Pfennigen.
+
+REG$Die BrÅder Simon und Bonifilius, Sîhne des Bonus, erhalten von Abt Stephan von
+Sesto verschiedene GrundstÅcke im Territorium von Senigallia gegen jÑhrlichen
+Zins von 5 Ravennater oder anconitanischen Pfennigen.
+F$Della Torre, Sesto/41/172f/173
+G$Simon;Bonifilius/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Senigallia/Senigallia//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+A$5 Ravennater Pf./5 anconitanische Pf.
+Q$sub pensione V denariorum Ravennatum vel Anconetanum
+
+REG$Die BrÅder Simon und Bonifilius, Sîhne des Bonus, erhalten von Abt Stephan von
+Sesto verschiedene GrundstÅcke im Territorium von Senigallia gegen jÑhrlichen
+Zins von 5 Ravennater oder anconitanischen Pfennigen.
+F$Della Torre, Sesto/41/172f/173
+G$Simon;Bonifilius/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Senigallia/Senigallia//wo??
+W$Ancona/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+A$5 anconitanische Pf./5 Ravennater Pf.
+Q$sub pensione V denariorum Ravennatum vel Anconetanum
+
+DOK$fses_42/1221.10.25/1221.10.25/1221 Oktober 25/anno ab incarna(tione) domini MCCXXI. die
+VII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob?
+V$Jakob/Senigallia/Jakob
+K$Alberich Becearius verspricht die jÑhrliche Zahlung von zwei Ravennater
+Pfennigen an das Kloster Sesto fÅr einen ihm von Abt Stephan von Sesto
+Åberlassenen Weingarten im fundus von Zaule, in der Grafschaft von Senigallia.
+
+REG$Alberich Becearius verspricht die jÑhrliche Zahlung von zwei Ravennater
+Pfennigen an das Kloster Sesto fÅr einen ihm von Abt Stephan von Sesto
+Åberlassenen Weingarten im fundus von Zaule, in der Grafschaft von Senigallia.
+F$Della Torre, Sesto/42/174f/174
+G$Alberich Becearius/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$sub pensione II denariorum Ravennatum
+
+DOK$fses_43/1221.10.27/1221.10.27/1221 Oktober 27/anno ab incarnatione domini MCCXXI. die
+V. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia/Jakob?
+V$Jakob/Senigallia/Jakob
+K$Simon, Sohn des Petrus Grimaldus, erhÑlt von Abt Stephan von Sesto Besitzungen
+in den fundi Zaule, Campo Ortani, Casatagna (presso il Verola), Campo Zani und
+Frassineto zu Lehen
+und verspricht dafÅr jÑhrliche Zahlung von 2 Ravennater oder anconitanischen
+Pfennigen.
+
+REG$Simon, Sohn des Petrus Grimaldus, erhÑlt von Abt Stephan von Sesto Besitzungen
+in den fundi Zaule, Campo Ortani, Casatagna, Campo Zani und Frassineto zu Lehen
+und verspricht dafÅr jÑhrliche Zahlung von 2 Ravennater oder anconitanischen
+Pfennigen.
+F$Della Torre, Sesto/43/176f/177
+G$Simon/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Senigallia/Senigallia//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Ravennater Pf./2 anconitanische Pf.
+Q$sub pensione II denariorum Ravennatum vel Anconetanum
+
+REG$Simon, Sohn des Petrus Grimaldus, erhÑlt von Abt Stephan von Sesto Besitzungen
+in den fundi Zaule, Campo Ortani, Casatagna, Campo Zani und Frassineto zu Lehen
+und verspricht dafÅr jÑhrliche Zahlung von 2 Ravennater oder anconitanischen
+Pfennigen.
+F$Della Torre, Sesto/43/176f/177
+G$Simon/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Senigallia/Senigallia//wo??
+W$Ancona/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 anconitanische Pf./2 Ravennater Pf.
+Q$sub pensione II denariorum Ravennatum vel Anconetanum
+
+DOK$fses_44/1221.11.0/1221.11.0/1221 November ?/anno ab incarnatione domini MCCXXI. die
+VIII. exeunte mense octubri indictione VIIII./Senigallia/Senigallia//
+1-15.11.?
+S$Jakob/Senigallia/Jakob?
+V$Jakob/Senigallia/Jakob
+K$Marthonus Grottarum und Guido Coltrarius, Spitalmeister des Hl.-Geist-Spitals,
+erhalten auf 99 Jahre von Abt Stephan von Sesto allen Besitz welchen Tebaldus
+von Ponte im fundus Zaule innegehabt hatte, gegen jÑhrliche Zahlung von sechs
+Ravennater Pfennigen.
+
+REG$Marthonus Grottarum und Guido Coltrarius, Spitalmeister des Hl.-Geist-Spitals,
+erhalten auf 99 Jahre von Abt Stephan von Sesto allen Besitz welchen Tebaldus
+von Ponte im fundus Zaule innegehabt hatte, gegen jÑhrliche Zahlung von sechs
+Ravennater Pfennigen.
+F$Della Torre, Sesto/44/178f/179
+G$Marthonus Grottarum;Guido
+Coltrarius/Spitalmeister/Senigallia
+Hl.-Geist-Spital/Senigallia,Hl.-Geist-Spital/Ospedale di S.Spirito/wo??
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Zaule/Zaule//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$sub pensione solvenda vobis vel vestris successoribus annuatim \dots VI
+denariorum Ravennatum
+
+DOK$fses_45/1221.11.10/1221.11.10/1221 November 10/anno ab incarnatione domini MCCXXI. die
+X. intrante mense novembri indictione VIIII./Senigallia/Senigallia//wo??
+S$Jakob/Senigallia kaiserl. Notar?/Jakob
+V$Jakob/Senigallia/Jakob
+K$Abt Stephan von Sesto ÅberlÑ·t dem Torelionus alles Eigentum des Konrad
+Gottibaldus im fundus Curtis anstelle eben dieses Konrad, gegen jÑhrliche
+Zahlung von sechs Ravennater oder anconitanischen Pfennigen.
+
+REG$Abt Stephan von Sesto ÅberlÑ·t dem Torelionus alles Eigentum des Konrad
+Gottibaldus im fundus Curtis anstelle eben dieses Konrad, gegen jÑhrliche
+Zahlung von sechs Ravennater oder anconitanischen Pfennigen.
+F$Della Torre, Sesto/45/180f/181
+G$Torelionus/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Senigallia Curtis/Senigallia,?Curtis//wohl
+Senigallia
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+A$6 Ravennater Pf./6 anconitanische Pf.
+Q$sub pensione solvenda \dots VI denariorum Ravennatum vel Anconetanum
+
+REG$Abt Stephan von Sesto ÅberlÑ·t dem Torelionus alles Eigentum des Konrad
+Gottibaldus im fundus Curtis anstelle eben dieses Konrad, gegen jÑhrliche
+Zahlung von sechs Ravennater oder anconitanischen Pfennigen.
+F$Della Torre, Sesto/45/180f/181
+G$Torelionus/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Senigallia Curtis/Senigallia,?Curtis//wo??
+W$Ancona/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+A$6 anconitanische Pf./6 Ravennater Pf.
+Q$sub pensione solvenda \dots VI denariorum Ravennatum vel Anconetanum
+
+DOK$fses_54/1229.9.4/1229.9.4/1229 September 4/anno domini MCC[XX]VIIII. indictione secunda
+die VIII. intrante [septembri]/BagnariaArsa/Bagnaria Arsa/Bagnaria/Friaul-West/
+S$Heinrich/kaiserl. Notar/Heinrich
+V$Heinrich/kaiserl. Notar/Heinrich
+K$Abt Stephan von Sesto erwirbt eine Hube in Gruaro.
+
+REG$Abt Stephan von Sesto erwirbt von Heinrich de Ermanus de Gruaro und seinen
+Sîhnen eine Hube in Gruaro zum Preis von 200 Pfund minus 20 Schillingen.
+F$Della Torre, Sesto/54/195f/195
+G$Stefan/Abt/Sesto/Sesto//Friaul-West/
+E$Heinrich/Genannter/Gruaro/Gruaro//Friaul-West/
+H$Kauf/Immobilien/Gruaro/Gruaro//Friaul-West/
+W$X/X/
+O$200/lib./X
+Z$20/sol./minus
+M$X/X/X/A
+Q$precio CC librarum minus XX soldis
+
+DOK$fses_55/1232.2.15/1232.2.15/1232 Februar 15/anno domini MCCXXXII. indictione V.
+die XV. intrante februario/Senigallia/Senigallia//wo??
+S$Vitalis/kaiserl. Notar/Vitalis
+V$Vitalis/kaiserl. Notar/Vitalis?
+K$Bischof Milo von Beauvais, Rektor der Mark Ancona, der Grafschaft und des
+Herzogtums Spoleto und des Kirchenstaats, befiehlt denen von Senigallia, dem
+Abt Stephan von Sesto dort volle Genugtuung zu geben, wo das Recht des Klosters
+Sesto bewiesen worden sei.
+
+REG$Bischof Milo von Beauvais, Rektor der Mark Ancona, der Grafschaft und des
+Herzogtums Spoleto und des Kirchenstaats, befiehlt denen von Senigallia, dem
+Abt Stephan von Sesto bei Strafe von 1000 Pfund dort volle Genugtuung zu geben,
+wo das Recht des Klosters Sesto bewiesen worden sei.
+F$Della Torre, Sesto/55/197f/198
+F$AôG 21 Bianchi/111/208/208
+G$Jakob/Graf?/Senigallia/Senigallia//wo??
+E$Stefan/Abt/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille librarum firmiter observari
+
+DOK$fses_56/1232.2.23/1232.2.23/1232 Februar 23/anno ab incarnatione eiusdem MCCXXXII. die
+VII. exeunte februario indictione V./Senigallia/Senigallia//wo??
+S$Martin/kaiserl. Notar/Martin
+V$Martin/kaiserl. Notar/Martin
+K$Abt Stephan von Sesto gewÑhrt dem Girardellus anstatt dessen Frau ein Drittel
+des fundus Castagna zu Zaule, nahe Senigallia.
+
+REG$Abt Stephan von Sesto gewÑhrt dem Girardellus anstatt dessen Frau ein Drittel
+des fundus Castagna zu Zaule, nahe Senigallia gegen jÑhrliche Zahlung von einem
+Ravennater Pfennig.
+F$Della Torre, Sesto/56/199/199
+G$Gertrud/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Zahlungsverpflichtung/Zins/Castagna/Castagna//zu Zaule, nahe Senigallia
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$solvendo \dots unum denarium Ravennatem nomine pensionis
+
+DOK$fses_56a/1233.5.28/1233.5.28/1233 Mai 28/anno domini MCCXXXIII. indictione
+VI. die IIII. exeunte Madii/unbekannt Nikolauskirche/Nikolauskirche//
+S$Heinrich/kaiserl. Notar/Heinrich
+V$Heinrich/kaiserl. Notar/Heinrich
+K$Lupoldus de Gruaro und Mansuplius verzichten zugunsten von Abt Stephan von
+Sesto gegen eine GeldentschÑdigung in der Hîhe von 125 Pfund kleiner
+Venetianischer Pfennige auf ?.
+
+REG$Lupoldus de Gruaro und Mansuplius verzichten zugunsten von Abt Stephan von
+Sesto gegen eine GeldentschÑdigung in der Hîhe von 125 Pfund kleiner
+Venetianischer Pfennige auf ?.
+F$BGSD Ms. 257/45?35/176f/176
+G$Stephan/Abt/Sesto/Sesto//Friaul-West/
+E$Leopold/Genannter/Gruaro/Gruaro//Friaul-West   ?
+E$Mansuplius/X/X/X//
+H$Verzicht/Immobilien/Mure di Meduna/Mure di Meduna?//Friaul-West/
+W$Venedig/X/
+O$125/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$pro C et XXV libris denariorum Venetorum parvorum
+
+REG$Lupoldus de Gruaro und Mansuplius verzichten unter Pînale von 300
+Pfund zugunsten von Abt Stephan von Sesto gegen eine GeldentschÑdigung in der
+Hîhe von 125 Pfund kleiner Venetianischer Pfennige auf ?.
+F$BGSD Ms. 257/45?35/176f/176
+G$Leopold/Genannter/Gruaro/Gruaro//Friaul-West   ?
+G$Mansuplius/X/X/X//
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena CCC librarum denariorum
+
+DOK$fses_61/1235.10.13/1235.10.13/1235 Oktober 13/anno domini MCCXXXV.
+indictione VIII. die Sabati XIII. intrante Octobre/Treviso/Treviso//Veneto/
+S$Johannes Rubeus/X/Johannes Rubeus
+V$Johannes Rubeus/X/Johannes Rubeus
+K$Darius und Honestus, Mînche und BrÅder von Santa Maria Maggiore zu Treviso
+anerkennen den Kompromi·, den ihr Prior Michael mit der Unterstellung unter das
+Schiedsgericht des Dekans Walpert wegen der Streitsache zwischen dem Prior und
+dem Abt von Sesto Åber die Kirche Sant\' Alberto zu Povegliano eingegangen war.
+
+REG$Darius und Honestus, Mînche und BrÅder von Santa Maria Maggiore zu Treviso
+anerkennen bei Strafe von 1000 Pfund Pfennigen den Kompromi·, den ihr Prior
+Michael mit der Unterstellung unter das Schiedsgericht des Dekans Walpert wegen
+der Streitsache zwischen dem Prior und dem Abt von Sesto Åber die Kirche Sant\'
+Alberto zu Povegliano eingegangen war.
+F$Della Torre, Sesto/61/206/206
+G$SM Maggiore/Kloster/Treviso/Treviso//Veneto/
+E$Walpert/Dekan/Treviso/Treviso//Veneto  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub poena M librarum denariorum
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Pfennigen.
+F$Della Torre, Sesto/61/206/206
+G$X/X/X/X//
+E$X/Kloster/Sesto/Sesto//Friaul-West   ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub eadem et consimili poena M librarum denariorum
+
+DOK$fses_63/1235.10.13/1235.10.13/1235 Oktober 13/anno domini MCCXXXV.
+indictione octava die sabati XIII. intrante octobre/Treviso/Treviso//Veneto/
+S$Johannes Rubeus/kaiserl. Notar/Johannes Rubeus
+V$Johannes Rubeus/kaiserl. Notar/Johannes Rubeus
+K$Walpert, Dekan der Kirche von Treviso, bestÑtigt dem Kloster Sesto dessen
+Rechte Åber die Kirche S. Alberto zu Povegliano, welche ihm von seiten der
+Klîster Nonantola und Santa Maria Maggiore zu Treviso bestritten worden waren.
+
+REG$Walpert, Dekan der Kirche von Treviso, bestÑtigt dem Kloster Sesto dessen
+Rechte Åber die Kirche S. Alberto zu Povegliano, welche ihm von seiten der
+Klîster Nonantola und Santa Maria Maggiore zu Treviso bestritten worden waren,
+und setzt fest, da· Abt Stephan von Sesto dem Prior von Santa Maria Maggiore zu
+Treviso, Michael, 50 Schilling Venetianischer Denarii Grossi als
+Gerichtskostenersatz zu bezahlen hat.
+F$Della Torre, Sesto/63/208f/20
+G$Stephan/Abt/Sesto/Sesto//Friaul-West/
+E$Michael/Prior/Treviso/Treviso,SM Maggiore//Veneto/
+H$Sentenz/Gerichtskostenersatz/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$50/sol./X
+M$X/den./grossus/Z
+Q$quinquaginta solidos denariorum Venetiarum grossorum
+B$Der Abt von Sesto hat dem Prior von S. Maria Maggiore zu Treviso
+Ersatz fÅr dessen Kosten zu leisten.
+
+DOK$fses_66/1236.7.8/1236.7.8/1236 Juli 8/anno domini MCCXXXVI. indictione
+nona die octavo intrante iulio/Belluno/Belluno//Veneto/
+S$Karl/kaiserl. Notar/Karl
+V$Karl/kaiserl. Notar/Karl
+K$Ota, die Gattin des Zanitinus, verzichtet zugunsten des Abtes und des Klosters
+Sesto auf ihr ganzes vÑterliches und mÅtterliches Erbe und auf die Erbnachfolge.
+
+REG$Ota, die Gattin des Zanitinus, verzichtet zugunsten des Abtes und des Klosters
+Sesto fÅr 100 Ventianische Pfennige auf ihr ganzes vÑterliches und mÅtterliches
+Erbe und auf die Erbnachfolge.
+F$Della Torre, Sesto/66/216f/217
+G$Stephan/Abt/Sesto/Sesto//Friaul-West/
+E$Zanitinus/Genannter/Belluno Castello/Belluno,Castello di//Friaul-wo??
+E$Ota/Genannte/Cimolais/Cimolais//Friaul-West?/
+H$Verzicht/Immobilien_Heiratsgut/uFriaul_West Velleiano/Velleiano//wo??
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro centum denariis Venetis
+B$Aus Torre Nr. 67 ergibt sich, da· es sich um 100 Pfund(!) venetianischer
+Pfennige gehandelt hat.
+
+REG$Ota, die Gattin des Zanitinus, verzichtet zugunsten des Abtes und des Klosters
+Sesto fÅr 100 Ventianische Pfennige auf ihr ganzes vÑterliches und mÅtterliches
+Erbe und auf die Erbnachfolge. Bei Zuwiderhandeln wird eine Strafe in der Hîhe
+von 500 Pfund venetianischer Pfennige vereinbart.
+F$Della Torre, Sesto/66/216f/217
+G$Zanitinus/Genannter/Belluno Castello/Belluno,Castello di//Friaul-wo??
+G$Ota/Genannte/Cimolais/Cimolais//Friaul-West?/
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$500/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub poena quingentarum librarum denariorum Venetorum
+
+DOK$fses_67/1237.12.29/1237.12.29/1237 Dezember 29/anno domini MCCXXXVII.
+indictione decima die tertio exeunte Decembri/Belluno/Belluno//Veneto/
+S$Manfred/kaiserl. Notar/Manfred
+V$Manfred/kaiserl. Notar/Manfred
+K$Vor Bischof Eleazar von Belluno erklÑrt Zanitinus von Castello, von seiner
+Gattin Ota 100 Pfund venezianischer Pfennige als Heiratsgut erhalten zu haben,
+welche diese vom Abt von Sesto infolge des Abkommens um das Erbe ihrer BrÅder
+von Cimolais erhalten hatte, und er investiert seine Gattin mit beweglichen und
+unbeweglichen GÅtern aus seinem Besitz.
+
+REG$Vor Bischof Eleazar von Belluno erklÑrt Zanitinus von Castello, von seiner
+Gattin Ota 100 Pfund venezianischer Pfennige als Heiratsgut erhalten zu haben,
+welche diese vom Abt von Sesto infolge des Abkommens um das Erbe ihrer BrÅder
+von Cimolais erhalten hatte, und er investiert seine Gattin mit beweglichen und
+unbeweglichen GÅtern aus seinem Besitz.
+F$Della Torre, Sesto/67/218f/219
+G$Ota/Genannte/Cimolais/Cimolais//Friaul-West?/
+E$Zanitinus/Genannter/Belluno Castello/Belluno,Castello di//Friaul-wo??
+H$BestÑtigung/Heiratsgut_Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse in dote a domina Ota urxore sua centum libras denariorum
+Venetorum
+B$Diese Summe hatte Otto aus einem Abkommen mit Sesto. Als
+Gegenleistung fuer diese Dos erhielt sie Liegenschaften zum
+Heiratsgut. Zu Zanitinus von Castello ("zu Belluno") vgl. Torre 40
+predicte civitatis
+
+DOK$fses_68/1240.11.15/1240.11.15/1240 November 15/anno domini MCCXL. indictione tertia
+decima die martis quinto decimo intrante novembris/Belluno/Belluno//Veneto/
+S$Plebanus de Mazavacca/kaiserl. Notar/Plebanus de Mazavacca
+V$Manfredinus/kaiserl. Notar/Manfredinus
+K$Ota, Gattin des Zanitinus von Castello, verkauft eine Hube in Erto an Martin
+und Ulrich, Sîhne des Deperrus, welche diese auch namens des Abtes von Sesto und
+seiner Nachfolger entgegennehmen.
+
+REG$Ota, Gattin des Zanitinus von Castello, verkauft eine Hube in Erto zum Preis
+von 50 Pfund kleiner venetianischer Pfennige an Martin und Ulrich, Sîhne des
+Deperrus, welche diese auch namens des Abtes von Sesto und seiner Nachfolger
+entgegennehmen.
+F$Della Torre, Sesto/68/220f/221
+G$Martin;Ulrich/Kloster/Sesto/Sesto//Friaul-West/
+E$Ota/Genannte/Belluno/Belluno,Castello di//wo??
+H$Kauf/Immobilien/uFriaul_West ?Erto/Erto//wo??
+W$Venedig/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$pretio quinquaginta librarum denariorum parvorum Venetorum
+
+DOK$fses_73/1245.5.13/1245.5.13/1245 Mai 13/anno domini MCCXLV. indictione
+III. die XIII. intrante mense madi/Sesto/Sesto//Friaul-West/
+S$Paulinus Vicentinus/kaiserl. Notar/Paulinus Vicentinus
+V$Paulinus Vicentinus/kaiserl. Notar/Paulinus Vicentinus
+K$Rudolf genannt Picutus, Sohn des Lazarus von Cusano, dessen Frau Werenburga
+und Otto von Flagogna schenken dem Kloster Sesto eine Hube zu Basedo, welche sie
+ihrerseits vom Patriarchen von Aquileia erhalten hatten.
+
+REG$Rudolf genannt Picutus, Sohn des Lazarus von Cusano, dessen Frau Werenburga
+und Otto von Flagogna schenken dem Kloster Sesto eine Hube zu Basedo, welche sie
+ihrerseits vom Patriarchen von Aquileia erhalten hatten. Otto verspricht bei
+Strafe von 200 Pfund venetianischer Pfennige, binnen 2 Monaten fÅr die
+BestÑtigung dieser Schenkung durch seinen Bruder Carolus zu sorgen.
+F$Della Torre, Sesto/73/228f/229
+G$Otto/Genannter/Flagogna/Flagogna//Friaul-West/
+E$Stephan/Abt/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub poena CC librarum denariorum Venetorum
+B$Auch Flagogna im Friaul-West ? Zugrundeliegendes RechtsgeschÑft
+betrifft Basedo in Friaul-West
+
+DOK$fses_77/1246.6.3/1246.6.3/1246 Juni 3/anno domini MCCXLVI. indictione quarta die
+dominico intrante iunio/Sacile/Sacile/Porto Sacile/Friaul-West/
+S$Bonamicus/kaiserl. Notar/Bonamicus
+V$Bonamicus/kaiserl. Notar/Bonamicus
+K$Patriarch Berthold von Aquileia und Abt Hermann von Sesto geben den milites
+von Lorenzaga ihre Einwilligung zur Errichtung einer Burg an diesem Ort.
+
+REG$Patriarch Berthold von Aquileia und Abt Hermann von Sesto geben den milites
+von Lorenzaga ihre Einwilligung zur Errichtung einer Burg an diesem Ort, wobei
+eine Pînale in der Hîhe von 1000 Mark Silber bei Zuwiderhandeln vereinbart wird.
+F$Della Torre, Sesto/77/235f/235
+F$AôG 21 Bianchi/152/219f/220
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr.  ?
+E$X/Ritter/Lorenzaga/Lorenzaga//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena M marcharum argenti
+B$Es geht um Befestigungsrecht, Sesto betroffen
+Bianchi AôG 21 152 219f 220, datiert 1246 Juni 10!?, zweite? von aufgenommener
+verschiedene Urkunde?
+
+DOK$fses_78/1246.6.3/1246.10.16/1246 zwischen Juni 3 und Oktober 16?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Hermann von Sesto beklagt sich beim Patriarchen [Berthold] von Aquileia
+Åber das Verhalten seiner Vasallen von Lorenzaga, welche sich gegen ihn erhoben
+haben.
+
+REG$EinkÅnfte der Herren Johann und Warient von Laurenzaga aus der Verwaltung ?in
+der Hîhe von 4000 Pfund.
+F$Della Torre, Sesto/78/237ff/237
+F$AôG 21 Bianchi/153/220f/220
+G$Hermann/Kloster/Sesto/Sesto//Friaul-West??/
+E$Johann;Warient/Genannter/Lorenzaga/Lorenzaga/Laurenzaga/Friaul-West/
+H$EinkÅnfte/Verwaltung?/Lorenzaga/Lorenzaga//Friaul-West/
+W$X/X/
+O$4000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$scripta racionum [vicedominarie domi]ni Iohannis et domini Warientis
+de Lauren\c{c}aga, que erant bene de quattromille libris
+
+REG$Abt Hermann von Sesto beklagt sich beim Patriarchen [Berthold] von Aquileia,
+da· seine Vasallen von Lorenzaga zusammen mit denen von Tholbertus de Camino in
+Marignana einen Schaden in der Hîhe von mehr als 100 Mark Silber verursacht
+hÑtten.
+F$Della Torre, Sesto/78/237ff/239
+F$AôG 21 Bianchi/153/220f/221
+G$X/Vasallen?/Camino_diCodroipo;Lorenzaga/Camino (diCodroipo?);Lorenzaga//wo??
+E$X/Kloster/Sesto/Sesto//Friaul-West/
+H$Beschwerde/Schadensumme/Marignana/Marignana//Friaul-West/
+W$X/X
+O$100/marca/plus
+Z$X/X/X
+M$X/argentum/X/A
+Q$damnum dederunt ad C marchas argenti et plus
+
+DOK$fses_81/1247.5.8/1247.5.8/1247 Mai 8/anno domini MCCXLVII.
+indictione quinta die octavo intrante maio/
+Sesto Versiola/Sesto,Versiola//Friaul-West/
+S$Bilinus/kaiserl. Notar/Bilinus
+V$Bilinus/kaiserl. Notar/Bilinus
+K$Otto von Fiume, Bruder des Americus, verzichtet zugunsten des Elekten Hermann
+von Sesto auf alle Rechte, die er an einer MÅhle zu Fiume di Pordenone
+innehatte.
+
+REG$Strafbestimmung in der Hîhe von 200 Pfund kleiner venetianischer Pfennige.
+F$Della Torre, Sesto/81/243/243
+G$Otto/Genannter/FiumediPordenone/Fiume di Pordenone//Friaul-West/
+E$Hermann/Kloster/Sesto/Sesto//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$sub poena ducentarum librarum denariorum Venetorum parvorum
+B$Grundlage des RechtsgeschÑfts ist die Verzichtleistung auf eine
+MÅhle zu Fiume di Pordenone.
+
+DOK$fses_83a/1248.3.8/1248.3.8/1248 MÑrz 8/anno domini MCCXLVIII. indictione VI.
+die octavo intrante mense martio/Udine/Udine//Friaul-Mitte/
+S$Bilinus/kaiserl. Notar/Bilinus
+V$Bilinus/kaiserl. Notar/Bilinus
+K$Patriarch Berthold von Aquileia erlaubt dem Kloster Sesto unter gewissen
+Bedingungen den Verkauf von GÅtern zur Tilgung der auf dem Kloster lastenden
+Schulden. (enthalten in Urk. von 1248 Oktober 7, Sesto)
+
+REG$Patriarch Berthold von Aquileia erlaubt dem Kloster Sesto unter gewissen
+Bedingungen den Verkauf von GÅtern bis zu einer Summe von 8000 Pfund
+Veroneser zur Tilgung der auf dem Kloster lastenden Schulden.
+F$Della Torre, Sesto/83/247f/248
+F$FRA II 24/10/9f/10
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Hermann/Abt/Sesto/Sesto//Friaul-West/
+H$Erlaubnis/VerÑu·erungen f.Schuldentilgung/Sesto/Sesto//Friaul-West/
+W$Verona/X/
+O$8000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad octo millia librarum Veronensium
+B$Insert in Urkunde 1248.10.7 (Torre 83)
+FRA II 24 Nr.10 S.9f datiert 3. MÑrz(!) 1248.
+
+DOK$fses_83/1248.10.7/1248.10.7/1248 Oktober 7/anno domini MCCXLVIII. anno domini
+MCCXLVIII. indictione VI. die VII intrante octubri/Sesto/Sesto//Friaul-West/
+S$Rudolf/kaiserl. Notar/Rudolf
+V$Rudolf/kaiserl. Notar/Rudolf
+K$Abt Hermann von Sesto verkauft kraft der inserierten BevollmÑchtigung durch
+Patriarch Berthold von Aquileia Fiume Veneto zur Tilgung der auf dem Kloster
+lastenden Schulden.
+
+REG$Abt Hermann von Sesto besitzt die Erlaubnis von Patriarch Berthold von
+Aquileia GÅter bis zu einer Summe von 8000 Pfund
+zur Tilgung der auf dem Kloster lastenden Schulden zu verkaufen.
+F$Della Torre, Sesto/83/246ff/247
+F$FRA II 24/10/9ff/10
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Hermann/Abt/Sesto/Sesto//Friaul-West/
+H$Erlaubnis/VerÑu·erungen f.Schuldentilgung/Sesto/Sesto//Friaul-West/
+W$X/X/
+O$8000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$usque ad summam octo millium librarum
+
+REG$Abt Hermann von Sesto besitzt die Erlaubnis von Patriarch Berthold von
+Aquileia, GÅter bis zu einer Summe von 8000 Pfund zur Tilgung der auf dem
+Kloster lastenden Schulden zu verkaufen. Er bekennt, VerkÑufe noch nicht bis zu
+dieser Summe getÑtigt zu haben.
+F$Della Torre, Sesto/83/246ff/248
+F$FRA II 24/10/9ff/10
+G$X/X/X/X//
+E$Hermann/Abt/Sesto/Sesto//Friaul-West/
+H$BestÑtigung/Nichtverkaufs?/unbestimmt/unbestimmt//
+W$X/X/
+O$8000/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$usque ad summam octo millium librarum
+
+REG$Abt Hermann von Sesto bekennt, von Tupertinus und Dominikus Cossius 2600 Pfund
+Veroneser Pfennige fÅr den Verkauf der villa Flumisinis erhalten und fÅr die
+Bezahlung des Teiles der Schulden an Pichignottus von Motta in der Hîhe von 5000
+Pfund verwendet zu haben.
+F$Della Torre, Sesto/83/246ff/248
+F$NAV NS 12/X/326/326
+F$FRA II 24/10/9ff/11
+G$Hermann/Kloster/Sesto/Sesto//Friaul-West/
+E$Pichignottus/Genannter/Motta/Motta//Veneto/
+E$Tupertinus Cossio?;DominikusCossio/X/X/X//  ?
+H$Schuldentilgung/Schuldverpflichtung/unbestimmt/unbestimmt//
+H$Kauf?/Immobilien/FiumediPordenone Veneto/Fiume Veneto/Villa Fluminis
+Famulorum/
+W$Venedig/X/
+O$2600/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio MM et sexcentarum librarum denariorum Veronensium
+B$Der schuldentilgende Verkauf geschah an Tupertinus und Dominicus
+Cossio (dessen Neffen) von Prata. - Della Torre transkribiert Verona, was
+durch die eine der beiden hs. öberlieferungen gestÅtzt wird (Fontanini BGSD Ms.
+257, S. 231ff, Nr. 58, auf Seite 233). NA Veneto NS 12, S. 326 spricht von "2600
+denari veronesi". FRA II 24 Nr. 10 S.11 transkripiert "veronensium parvorum".
+ACU Coll. Bini 66, D.v. III, Nr. 51, fol. 100 -102 schreibt "Ven. parvorum?".
+Da in der nachfolgenden Quittung von kleinen venezianischen
+Pfennigen die Rede ist (Torre Nr. 85, S. 252 wird durch beide öberlieferungen
+gestÅtzt), wird es sich wohl um kleine venezianische Pfennige handeln.
+
+REG$Der Abt und das Kloster von Sesto schulden Pichignottus von Motta 5000
+Pfund.
+F$Della Torre, Sesto/83/246ff/248
+F$FRA II 24/10/9ff/11
+G$Pichignottus/Genannter/Motta/Motta//Veneto/
+E$Hermann/Abt/Sesto/Sesto//Friaul-West/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5000/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$debiti quinque millium librarum quas idem electus et monasterium dare
+tenebantur Pichignoto filio Iacobini latronis de Mota
+B$Der schuldentilgende Verkauf geschah an Tupertinus und Dominicus Cossio
+(dessen Neffen) von Prata.
+
+DOK$fses_85/1248.10.24/1248.10.24/1248 Oktober 24/anno domini MCCXLVIII.
+indictione VI. die VIII. exeunte octubri/PratadiPordenone/Prata di
+Pordenone//Friaul-West/
+S$Rudolf/kaiserl. Notar/Rudolf
+V$Rudolf/kaiserl. Notar/Rudolf
+K$Folkmar von Meduna erklÑrt, von Tupertinus und Dominicus Cossio 2600 Pfund
+kleiner venezianischer Pfennige empfangen und seinerseits dem Elekten Hermann
+und dem Konvent von Sesto Åbergeben zu haben. Die Schuld sei daher als erloschen
+zu betrachten.
+
+REG$Folkmar von Meduna erklÑrt, von Tupertinus und Dominicus Cossio 2600 Pfund
+kleiner venezianischer Pfennige empfangen und seinerseits dem Elekten Hermann
+und dem Konvent von Sesto Åbergeben zu haben.
+F$Della Torre, Sesto/85/252/252
+F$FRA II 24/13/14f/15
+G$Tupertinus Cossio;Dominikus Cossio/Genannter/PratadiPordenone/Prata!
+di Pordenone//Friaul-West!/
+E$Folkmar/Genannter/Meduna/Meduna//Friaul-West/
+H$Quittung/GeldÅbergabe/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2600/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$de MM et sexcentis libris denariorum Venetorum parvorum
+B$FRA II 24 Nr. 13, S.14 spricht ohne Grund ?von "de bis mille sexceatis libris
+veronensibus", wÑhrend die von Torre genannten "denariorum Ventorum parvorum"
+durch zwei öberlieferungen gestÅtzt werden.
+
+REG$Folkmar von Meduna erklÑrt, von Tupertinus und Dominicus Cossio 2600 Pfund
+kleiner venezianischer Pfennige empfangen und seinerseits dem Elekten Hermann
+und dem Konvent von Sesto fÅr den Kauf der villa Fluminis Famulorum Åbergeben zu
+haben.
+F$Della Torre, Sesto/85/252/252
+G$Folkmar/Genannter/Meduna/Meduna//Friaul-West/
+E$Hermann/Abt/Sesto/Sesto//Friaul-West/
+H$Quittung/GeldÅbergabe/unbestimmt/unbestimmt?//
+H$Kauf?/Immobilien/FiumediPordenone Veneto/Fiume Veneto/Villa Fluminis
+Famulorum/
+W$X/X/
+O$2600/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$quas MM et sexcentas libras denariorum
+B$FRA II 24 Nr. 13 fehlen die entsprechenden Textzeilen.
+
+DOK$fses_97a/1248.10.13/1248.10.13/1248 Oktober 13/anno domini MCCXLVIII.
+indictione sexta die XIII. intrante octubri/Sesto/Sesto//Friaul-West/
+S$X/X/X
+V$X/X/X
+K$Der Abt von Sesto tilgt einen Teil der Schulden des Klosters (enthalten in
+Urk. von 1264 September 21, Sesto).
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen. ?
+F$Della Torre, Sesto/97/273ff/274
+G$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+G$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+E$Hermann/Abt/Sesto/Sesto//Friaul-West/
+H$Schulden_Gesamt/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5312/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$partem videlicet unius debiti 5 [hoch] M CCC et XII librarum
+denariorum Venetorum
+B$Insert in Torre 97  von 1264.9.21.
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen. ?
+F$Della Torre, Sesto/97/273ff/274
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$Schuldentilgung_teilweise/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1050/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio ML librarum denariorum Venetorum
+B$Insert in Torre 97  von 1264.9.21.
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen.
+F$Della Torre, Sesto/97/273ff/274
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$Schuldentilgung_teilweise/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$CCC libras denariorum Venetorum
+B$Insert in Torre 97  von 1264.9.21.
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen, wobei Teilzahlungen zu
+verschiedenen Terminen vereinbart werden.
+F$Della Torre, Sesto/97/273ff/275
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$Schuldentilgung_Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$C libras denariorum Venetorum
+B$Insert in Torre 97  von 1264.9.21.
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen, wobei Teilzahlungen zu
+verschiedenen Terminen vereinbart werden.
+F$Della Torre, Sesto/97/273ff/275
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$Schuldentilgung_Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$CCC libras denariorum Venetorum
+B$Insert in Torre 97  von 1264.9.21.
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen, wobei Teilzahlungen zu
+verschiedenen Terminen und Ersatzleistungen vereinbart werden, so 20 Schilling
+Venetianischer Pfennige pro Ma· Hirse und Heu. ?
+F$Della Torre, Sesto/97/273ff/275
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$Sicherstellung/Ersatzleistungen_Hirse;Heu/Gleris/Gleris?//Friaul-West   ?
+W$Venedig/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./X/Z
+Q$teneatur eis dare et solvere XX solidos denarios Venetos pro
+qualiter mensura dicti milii et surgi
+B$Insert in Torre 97  von 1264.9.21.
+
+REG$Abt Hermann von Sesto verspricht den BrÅdern Otto Pichignotto und Viguerosco
+Cragna de Motta und Zanino de Savarisio, dem Notar von Portogruaro, fÅr einen
+Teil der Darlehenssumme in der Hîhe von 5312 Pfund venetianischer Pfennige,
+nÑmlich fÅr 1050 Pfund venetianischer Pfennige, 2500 Ma· Getreide, Wein, Hirse ,
+Heu und 300 Pfund venetianischer Pfennige zu zahlen, wobei Teilzahlungen zu
+verschiedenen Terminen und Ersatzleistungen vereinbart werden. So mu· der Abt,
+sollte er den Termin fÅr eine Geldzahlung nicht einhalten,
+25 Schilling Venetianischer Pfennige mehr bezahlen.
+F$Della Torre, Sesto/97/273ff/275
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$Sicherstellung/Ersatzleistungen/Gleris/Gleris?//Friaul-West     Pînale?
+W$Venedig/X/
+O$25/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$XXV librarum denariorum Venetorum pro denariis plus nomine donationis pro
+qualibet termino non soluto
+B$Insert in Torre 97  von 1264.9.21.
+
+DOK$fses_97b/1248.10.25/1248.10.25/1248 Oktober 25/anno domini MCCXLVIII.
+indictione sexta
+die septimo exeunte octubri/S.VitoalTagliamento/S. Vito al Tagliamento//wo??
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia bestÑtigt, da· Abt Hermann von Sesto fÅr
+eine Schuld bei den BrÅdern Otto Pichignotto und Viguerosco Cragna de Motta und
+bei Zanino de Savarisio, dem Notar von Portogruaro, den genannten 2500 Ma·
+Getreide, Wein, Hirse , Heu und 300 Pfund venetianischer Pfennige bezahlt
+(enthalten in Urk. 1264 September 21, Sesto).
+
+REG$Patriarch Berthold von Aquileia bestÑtigt, da· Abt Hermann von Sesto fÅr
+eine Schuld bei den BrÅdern Otto Pichignotto und Viguerosco Cragna de Motta und
+bei Zanino de Savarisio, dem Notar von Portogruaro, den genannten 2500 Ma·
+Getreide, Wein, Hirse , Heu und 300 Pfund venetianischer Pfennige bezahlt.
+F$Della Torre, Sesto/97/273ff/276
+G$Hermann/Abt/Sesto/Sesto//Friaul-West/
+E$Otto Pichignotto;Viguerosco Cragna/Genannter/Motta/Motta//Veneto/
+E$Zanino/Genannter/uVenetien Savarizio/Savarizio//wo??
+H$BestÑtigung/Dienstleistungen/Savorgnano;Gleris/Savorgnano;Gleris/Sov
+ergnanum/Friaul-West?/
+W$Venedig/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$de CCC libris denariorum Venetorum
+B$Insert in Torre 97  von 1264.9.21.
+
+

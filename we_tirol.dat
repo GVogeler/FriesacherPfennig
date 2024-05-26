@@ -1,0 +1,2648 @@
+
+note *** Einlesen der Rohdaten we_tirol.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$ActaTir1_391/1085.0.0/1097.0.0/ca. 1085 - 1097/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Penzo und Heziman Åbergeben im Auftrag Gerwins, des Truchessen des
+Domkapitels, dem Hochstift Brixen die Unfreie Riza zu Zensualenrecht. Diese
+Åbergibt in gleicher Weise ihren Sohn Liuzman.
+
+REG$Penzo und Heziman Åbergeben im Auftrag Gerwins, des Truchessen des
+Domkapitels, dem Hochstift Brixen die Unfreie Riza zu Zensualenrecht gegen einen
+jÑhrlichen Zins in der Hîhe von 5 Regensburger Pfennigen.
+F$Acta Tir. 1/391/134/134
+G$Riza/X/X/X//
+E$Gerwin/Truchse·/Brixen/Brixen//SÅdtirol   ?
+H$Zensus/Hîrige/Brixen/Brixen//SÅdtirol/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$tributum legitimum quod sunt V Ratisponenses denarii
+
+DOK$ActaTir1_533/1189.0.0/1196.0.0/ca. 1189 - 1196/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Dekan Burkhard schenkt dem Domkapitel GÅter und EinkÅnfte in Grîden, zu
+Laien, Vels und Pedruz am Pfefferberg w. Brixen, sowie einen Hof zu Kranewit n.
+Brixen.
+
+REG$Der Dekan Burkhard schenkt dem Domkapitel GÅter und EinkÅnfte in Grîden,
+nÑmlich Zehnten in der Hîhe von vier Pfund Veronesern, zu
+Laien, Vels und Pedruz am Pfefferberg w. Brixen, sowie einen Hof zu Kranewit n.
+Brixen.
+F$Acta Tir. 1/533/189/189
+G$Burkhard/Dekan/Brixen/Brixen//SÅdtirol/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Schenkung/Zehnten/Grîdnert./Grîden//Seitental d.Eisakthals/
+W$Verona/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$decima in Gredine que persolvit IIII libras Veronensium
+
+DOK$#ActaTir1_546/1218.0.0/1218.0.0/1218/anno domini MCCXVIII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Berthold von Brixen beurkundet, da· in einem Streit zwischen
+ihm und den BrÅdern Ernst, Heinrich und Gottschalk von Voitsberg um den
+Besitz von Unfreien die genannten BrÅder auf die Unfreien verzichtet haben.
+DafÅr entschÑdigt er sie mit 130 Pfund Veroneser und verspricht ihnen das
+nÑchstfreiwerdende Lehen im Wert von jÑhrlich einer Mark Silber zu verleihen.
+Die genannten Unfreien aber sollen stets der Brixner Kirche verbleiben.
+
+REG$Der ErwÑhlte Berthold von Brixen beurkundet, da· in einem Streit zwischen
+ihm und den BrÅdern Ernst, Heinrich und Gottschalk von Voitsberg um den
+Besitz von Unfreien die genannten BrÅder auf die Unfreien verzichtet haben.
+DafÅr entschÑdigt er sie mit 130 Pfund Veroneser und verspricht ihnen das
+nÑchstfreiwerdende Lehen im Wert von jÑhrlich einer Mark Silber zu verleihen.
+F$Acta Tir. 1/546/195/195
+F$UBrix 1/061/66f/66
+G$Berthold/Bischof/Brixen/Brixen//SÅdtirol/
+E$Ernst/Burggraf/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo· ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Heinrich;Gottschalk/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo· ob Vahrn,Sitz d.Burggrafen v.Brixen/
+H$Verzicht/Hîrige/unbestimmt/unbestimmt//
+W$Verona/X/
+O$130/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$CXXX libras Veronensium persolvimus
+
+REG$Der ErwÑhlte Berthold von Brixen beurkundet, da· in einem Streit zwischen
+ihm und den BrÅdern Ernst, Heinrich und Gottschalk von Voitsberg um den
+Besitz von Unfreien die genannten BrÅder auf die Unfreien verzichtet haben.
+DafÅr entschÑdigt er sie mit 130 Pfund Veroneser und verspricht ihnen das
+nÑchstfreiwerdende Lehen im Wert von jÑhrlich einer Mark Silber zu verleihen.
+F$Acta Tir. 1/546/195/195
+F$UBrix 1/061/66f/66
+G$Berthold/Bischof/Brixen/Brixen//SÅdtirol/
+E$Ernst/Burggraf/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo· ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Heinrich;Gottschalk/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo· ob Vahrn,Sitz d.Burggrafen v.Brixen/
+H$Lehen/Immobilien/unbestimmt/unbestimmt//
+H$?EinkÅnfte/Lehen/unbestimmt/unbestimmt//
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$feudum \dots unde singulis annis marcam unam argenti possint percipere
+B$Santifaller (BabUB 1 Nr. 61, S.66) verweist auf eine BeschÑdigung der Urkunde an
+der Stelle, wo Hormayr noch marcam liest.
+
+DOK$ActaTir1_564/1238.0.0/1238.0.0/1238/anno domini MCCXXXVIII., indictione X/X/X//
+S$X/X/X
+V$X/X/X
+K$Zeugen der Einwilligung Konrads von Pfalzen in das Testament des Ritters
+Heinrich, genannt "cum crine", der dem Domkapitel aus einem Hof zu Elbling bei
+Feldkirchen in KÑrnten BezÅge vermacht hatte.
+
+REG$Zeugen der Einwilligung Konrads von Pfalzen in das Testament des Ritters
+Heinrich, genannt "cum crine", der dem Domkapitel aus einem Hof zu Elbling bei
+Feldkirchen in KÑrnten BezÅge in der Hîhe von 6 Pfund Veronesern jÑhrlich
+vermacht hatte.
+F$Acta Tir. 1/564/204/204
+G$X/Hof/Elbling/Elbling/Elpelingen/Hof b.Feldkirchen i.K.
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Bezug/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$VI libras Veronensium
+B$B, richtig wÑre XI. Indiktion.
+
+DOK$ActaTir1_567/1240.0.0/1246.0.0/1240 - 1246/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich Tarand, erst Domherr zu Trient, dann Dekan zu Brixen, stiftet 6 Urnen
+Wein jÑhrlich aus zwei WeingÑrten zu Sarns, die er zur Zeit Bischof Heinrichs
+und des ErwÑhlten Egno gekauft hat, zu einer Labung der Domherren nach der
+Complet in der ganzen Fastenzeit.
+
+REG$Heinrich Tarand, erst Domherr zu Trient, dann Dekan zu Brixen, stiftet 6 Urnen
+Wein jÑhrlich aus zwei WeingÑrten zu Sarns zur Labung der Domherren. Den ersten
+hat er von Irmgard, der Frau des Gottfried von Porta, um 50 Pfund Veroneser, den
+zweiten von Marquard von Sarns um 55 Pfund Veroneser zur Zeit Bischof Heinrichs
+und des ErwÑhlten Egno gekauft.
+F$Acta Tir. 1/567/205f/205
+G$Heinrich Tarand/Domherr/Trient/Trient//SÅdtirol/
+E$Irmgard/Genannte/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Porta/Voitsberger Tor zu Brixen/
+H$Kauf/Immobilien_Weingarten/Sarns/Sarns//s.Brixen/
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro L libris Veronensium
+
+REG$Heinrich Tarand, erst Domherr zu Trient, dann Dekan zu Brixen, stiftet 6 Urnen
+Wein jÑhrlich aus zwei WeingÑrten zu Sarns zur Labung der Domherren. Den ersten
+hat er von Irmgard, der Frau des Gottfried von Porta, um 50 Pfund Veroneser, den
+zweiten von Marquard von Sarns um 55 Pfund Veroneser zur Zeit Bischof Heinrichs
+und des ErwÑhlten Egno gekauft.
+F$Acta Tir. 1/567/205f/205
+G$Heinrich Tarand/Dekan/Brixen/Brixen//SÅdtirol/
+E$Marquard/Genannter/Sarns/Sarns//s.Brixen/
+H$Kauf/Immobilien_Weingarten/Sarns/Sarns//s.Brixen/
+W$Verona/X/
+O$55/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro LV libris Veronensium
+
+DOK$ActaTir1_571/1245.5.1/1245.5.1/1245 Mai 1/anno incarnationis domini MCCXLV., indiccione
+III., primo die intrante maio/X/X//
+S$X/X/X
+V$X/X/X
+K$Albert von Stuvels, Eigenmann eines gewissen Abraham, lÑ·t sich durch diesen
+der Kirche von Brixen Åbergeben.
+
+REG$Albert von Stuvels, Eigenmann eines gewissen Abraham, hat diesem 10 Pfund
+Veroneser dafÅr gegeben, da· er ihn der Kirche von Brixen frei von
+allem Recht? Åbergibt.
+F$Acta Tir. 1/571/207/207
+G$Albert/Genannter/Brixen Stufels/Stufels/Stuvels/b.Brixen/
+E$Abraham/X/X/X//
+H$Freikauf/Eigenmann/unbestimmt/unbestimmt// ?
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$X libras Veronensium dederit
+
+DOK$ActaTir1_573/1249.0.0/1249.0.0/1249/anno dominice incarnationis MCCXLVIIII., indictione
+VII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Bischof Egno von Brixen beurkundet, da· Bernhard von Matrei, BÅrger zu Bozen,
+sich
+und seine Geschwister von Herrn Ulrich von Weer aus aller Unfreiheit losgekauft
+und dann der Kirche von Brixen zu Dienstbarkeit und steter Zugehîrigkeit ergeben
+habe.
+
+REG$Bischof Egno von Brixen beurkundet, da· Bernhard von Matrei, BÅrger von Bozen
+sich und seine Geschwister von Herrn Ulrich von Weer und dessen Frau Agnes und
+deren Mutter und deren Erben aus aller Unfreiheit um 31 Pfund Veroneser
+losgekauft habe.
+F$Acta Tir. 1/573/208f/208
+G$Bernhard/BÅrger/Bozen/Bozen//SÅdtirol/
+G$?Bernhard/Genannter/Matrei a.Brenner/Matrei a.Brenner//s.Innsbruck/
+E$Ulrich/Genannter/Weer/Weer//sw.Schwaz i.Unterinntal/
+E$Agnes/Genannte/Weer/Weer//sw.Schwaz i.Unterinntal/
+H$Freikauf/Hîrige?BÅrger/unbestimmt/unbestimmt//
+W$Verona/X/
+O$31/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXXI libris Veronensium \dots absolveret
+
+DOK$UBrix1_050/1197.0.0/1197.0.0/1197/anno dominice incarnationis MCLXXXXVII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Eberhard von Brixen entscheidet in einem Streit zwischen den
+BrÅdern zu St. Ulrich in Augsburg und den BrÅdern Ernst, Gottschalk und Heinrich
+(von Voitsberg) Åber das Gut Pfaffenhofen (bei Flaurling).
+
+REG$Der ErwÑhlte Eberhard von Brixen entscheidet in einem Streit zwischen den
+BrÅdern zu St. Ulrich in Augsburg und den BrÅdern Ernst, Gottschalk und Heinrich
+(von Voitsberg) Åber das Gut Pfaffenhofen (bei Flaurling) dahin, da· die BrÅder
+zu St. Ulrich 10 Talent Augsburger MÅnze dafÅr bezahlen, da· die BrÅder Ernst,
+Gottschalk und Heinrich auf alle Rechte an dem Gut verzichten.
+F$UBrix 1/050/57f/58
+G$X/Kloster/Augsburg/Augsburg,St.Ulrich//Schwaben/
+E$Ernst;Gottschalk;Heinrich/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo· ob Vahrn,Sitz d.Burggrafen v.Brixen/
+H$Verzicht/Immobilien/Pfaffenhofen/Pfaffenhofen//(b.Flaurling)i.Unterinntal b.Telfs/
+W$Augsburg/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$decem talenta Augustensis monete \dots persolverunt
+B$Vgl. Acta Tir. 1 546 zu Genannten von Voitsberg.
+
+DOK$UBrix1_064/1218.0.0/1218.0.0/1218/anno dominice incarnationis MCCXVIII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Berthold von Brixen beurkundet, da· der Spitaler Sifrid das Gut
+zu Birchach im Wipptal von den bischîflichen Ministerialen Rubert und Otacher
+von Velseck kaufte, und da· die VerkÑufer Wernher von Schenkenberg zum BÅrgen
+fÅr die Konventionalstrafe stellten, falls ihre Erben den Kauf anfechten
+sollten.
+
+REG$Der ErwÑhlte Berthold von Brixen beurkundet, da· der Spitaler Sifrid das Gut
+zu Birchach im Wipptal von den bischîflichen Ministerialen Rubert und Otacher
+von Velseck um 5 Pfund Veroneser kaufte.
+F$UBrix 1/064/69/69
+G$Sifrid/Spitaler/Brixen/Brixen,Hl.Kreuz//SÅdtirol/
+E$Rubert;Otacher/Ministeriale/Brixen/Brixen//SÅdtirol/
+H$Kauf/Immobilien/uTirol Birchach i.Wipptal/Birchach
+i.Wipptal//SÅdtirol,Sill-u.Eisaktal bis Brixen/
+W$Verona/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro V libris Veronensium
+
+REG$Der ErwÑhlte Berthold von Brixen beurkundet, da· der Spitaler Sifrid das Gut
+zu Birchach im Wipptal von den bischîflichen Ministerialen Rubert und Otacher
+von Velseck um 5 Pfund Veroneser kaufte, und da· die VerkÑufer Wernher von
+Schenkenberg zum BÅrgen fÅr die Konventionalstrafe in der Hîhe von 20 Mark
+stellten, falls ihre Erben den Kauf anfechten sollten.
+F$UBrix 1/064/69/69
+G$Wernher/Genannter/Schenkenberg/Schenkenberg//Schlo· zw.Vîls a.Schlern u.Ums/
+E$Sifrid/Spitaler/Brixen/Brixen,Hl.Kreuz//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$XX marcas solvere teneatur
+
+DOK$UBrix1_065/1221.0.0/1221.0.0/1221/anno ab incarnatione domini MCCXXI., indictione
+VIIII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Bischof Berthold von Brixen beurkundet, da· sein VorgÑnger Konrad auf Bitte
+des Propstes Winther in der von diesem renovierten Marienkapelle einen Propst
+mit vier Geistlichen einsetzte, gibt Statut und Dotierung an und ÅbertrÑgt ihr
+die Rechte der Brixner Kirche auf die Pfarre Algund.
+
+REG$Bischof Berthold von Brixen beurkundet, da· sein VorgÑnger Konrad auf Bitte
+des Propstes Winther in der von diesem renovierten Marienkapelle einen Propst
+mit vier Geistlichen einsetzte und gibt Statut und Dotierung an. So mÅssen zwei
+der vier Geistlichen von der HÑlfte der Spenden und Åbrigen Besitzungen je 30
+Pfund Veroneser haben.
+F$UBrix 1/065/69ff/71
+G$X/X/X/X//
+G$Berthold?/Bischof/Brixen/Brixen//SÅdtirol/
+E$X/Geistliche/Brixen/Brixen,Marienkapelle//SÅdtirol/
+H$PfrÅnde/Geistliche/Brixen/Brixen,Marienkapelle//SÅdtirol   ?Dotation
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$reliqui vero duo secundum medietatem oblationum et de aliis possessionibus
+uterque XXX libras Veronensium
+
+DOK$UBrix1_072/1228.0.0/1235.0.0/(1228 - 1235)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich IV. von Brixen beurkundet, da· Eberhard der Kastellan von
+SÑben den vom Domkapitel lehenrÅhrigen Zinshof Coste in Grîden dem Kapitel fÅr
+90 Pfund Veroneser aufsagte. Das Domkapitel verleiht ihn an den Domherrn
+Friedrich von Gais gegen jÑhrlichen im Markt MÅhlbach zu erlegenden Zins.
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· Eberhard der Kastellan von
+SÑben den vom Domkapitel lehenrÅhrigen Zinshof Coste in Grîden mit einem
+Zins in der Hîhe von 10 Pfund Veroneser dem Kapitel fÅr 90 Pfund Veroneser
+aufsagte.
+F$UBrix 1/072/79/79
+G$Eberhard/Kastellan/SÑben/SÑben//oberhalb Klausen/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zins/Immobilien/Grîdnert./Grîden//Seitental d.Eisacktales b.Waidbruck
+mÅndend/
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quam habuit a dominis canonicis censualem pro X libris Veron.
+B$Zur Datierung: Heinrich wird 1228 vom Bischof geweiht (Sinnacher IV. 108),
+Winther ist bis 1235 Dompropst. (UBrix 1 S. 79)
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· Eberhard der Kastellan von
+SÑben den vom Domkapitel lehenrÅhrigen Zinshof Coste in Grîden dem Kapitel fÅr
+90 Pfund Veroneser aufsagte, welche Domherr Friedrich von Gais und das Kapitel
+ihm gegeben haben.
+F$UBrix 1/072/79/79
+G$Friedrich/Pfarrer/Gais/Gais//n.Bruneck   Domherr Brixen?
+E$Eberhard/Kastellan/SÑben/SÑben//oberhalb Klausen/
+H$Verzicht/Immobilien/Grîdnert./Grîden//Seitental d.Eisacktales b.Waidbruck
+mÅndend/
+W$Verona/X/
+O$90/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro LXXXX libris Veron., quas dominus Fridericus plebanus de Gaizes et
+capitulum sibi dederunt pro eadem resignatione
+B$Zur Datierung: Heinrich wird 1228 vom Bischof geweiht (Sinnacher IV. 108),
+Winther ist bis 1235 Dompropst. (UBrix 1 S. 79)
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· Eberhard der Kastellan von
+SÑben den vom Domkapitel lehenrÅhrigen Zinshof Coste in Grîden dem Kapitel fÅr
+90 Pfund Veroneser aufsagte. Das Domkapitel verleiht ihn an den Domherrn
+Friedrich von Gais gegen jÑhrlichen im Markt MÅhlbach zu erlegenden Zins in der
+Hîhe von 10 Pfund.
+F$UBrix 1/072/79/79
+G$Friedrich/Pfarrer/Gais/Gais//n.Bruneck   Domherr Brixen?
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zins/Immobilien/Grîdnert./Grîden//Seitental d.Eisacktales b.Waidbruck
+mÅndend/
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad censum X librarum annuatim \dots in foro Mulebach persolvendarum
+B$Zur Datierung: Heinrich wird 1228 vom Bischof geweiht (Sinnacher IV. 108),
+Winther ist bis 1235 Dompropst. (UBrix 1 S. 79)
+
+DOK$UBrix1_074/1229.1.1/1229.8.31/1229 vor September 1/anno dominice incarnationis
+MCCXXVIIII., indictione II./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich IV. von Brixen verkÅndet mit Rat und Zustimmung des
+Domkapitels, des Grafen Albert von Tirol als Vogt der Kirche und der
+Ministerialen innerhalb angegebener Grenzen einen drei Jahre dauernden
+Landfrieden.
+
+REG$Wenn jemand ein Messer oder eine Lanze trÑgt, soll er 5 Pfund Veroneser MÅnze
+bezahlen.
+F$UBrix 1/074/80ff/81
+F$MGH LL Const. 2/426/568ff/570
+G$X/X/X/X//
+E$Heinrich IV./Bischof/Brixen/Brixen//SÅdtirol    ? und ff
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras V Veronensis monete solvat
+
+REG$Wenn jemand innerhalb der Stadtmauern von Brixen Schwerter, Messer oder andere
+Waffen in der Herberge zurÅcklÑ·t, soll er dem Richter 5 Pfund bezahlen, falls
+er vom Wirt ermahnt wurde.
+F$UBrix 1/074/80ff/82
+F$MGH LL Const. 2/426/568ff/570
+G$X/X/X/X//
+E$X/Richter/Brixen/Brixen//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras V solvat iudici.
+
+REG$Wenn jemand innerhalb der Stadtmauern von Brixen Schwerter, Messer oder andere
+Waffen in der Herberge zurÅcklÑ·t, soll er, falls der Wirt ihn nicht
+ermahnt, 5 Pfund bezahlen.
+F$UBrix 1/074/80ff/82
+F$MGH LL Const. 2/426/568ff/570
+G$X/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras V solvet.
+
+REG$Wenn jemand einen anderen enthaart oder durchbohrt oder mit KnÅtteln schlÑgt
+oder auf andere Weise verletzt, soll er ohne? Blutvergie·en dem Richter 10
+Pfund bezahlen.
+F$UBrix 1/074/80ff/82
+F$MGH LL Const. 2/426/568ff/570
+G$X/X/X/X//
+E$X/Richter/Brixen/Brixen//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras X solvat iudici.
+
+REG$Jeder Ritter, der EinkÅnfte in der Hîhe von 15 Mark hat, soll in
+Zukunft ein Streitro· binnen des nÑchsten Dreikînigstages haben und eine
+coopertura.?
+F$UBrix 1/074/80ff/82
+F$MGH LL Const. 2/426/568ff/570
+G$X/X/X/X//
+E$X/Ritter/X/X//
+H$EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Quisquis miles habens redditus XV marcarum
+
+REG$Jeder Ritter, der EinkÅnfte in der Hîhe von 15 Mark hat, soll in
+Zukunft ein Streitro· binnen des nÑchsten Dreikînigstages haben und eine
+coopertura. Wenn er das nicht beachtet, soll er dem Richter 100 Pfund bezahlen
+und des Landfrieden verlustig sein.?
+F$UBrix 1/074/80ff/82
+F$MGH LL Const. 2/426/568ff/570
+G$X/Ritter/X/X//
+E$X/Richter/Brixen/Brixen//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$C libras iudici solvat
+
+REG$Jeder Unfreie, der EinkÅnfte in der Hîhe von 15 Mark hat und im eigenen Haus
+als Wirt erscheint, soll binnen des vorhergenannten Termins ein Streitro·
+und eine coopertura haben.?
+F$UBrix 1/074/80ff/82
+F$MGH LL Const. 2/426/568ff/570
+G$X/X/X/X//
+E$X/Ritter/X/X//
+H$EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Quisquis miles habens redditus XV marcarum
+
+DOK$UBrix1_075/1230.0.0/1230.0.0/1230/anno domini MCCXXX. sub domino H(einrico) venerabili
+Brixinensis ecclesie episcopo/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich IV. von Brixen beurkundet, da· das Domkapitel dem Hugo von
+Taufers drei Hîfe zu Chlamme, Durrekke und im Dorf Taufers gegen einen Hof in
+Chlamme fÅr jÑhrlichen Zins und unter der Bedingung ÅberlÑ·t, da· nach Hugos
+Tode alle vier an seine Erben, bzw., wenn er ohne Erben stÅrbe, an das Kapitel
+fallen.
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· das Domkapitel dem Hugo von
+Taufers drei Hîfe zu Chlamme, Durrekke und im Dorf Taufers gegen jÑhrlichen
+Zins in der Hîhe von 10 Pfund Veroneser und gegen einen Hof
+in Chlamme fÅr jÑhrlichen Zins in der Hîhe von 2 Pfund ÅberlÑ·t.
+F$UBrix 1/075/82f/83
+G$Hugo/Genannter/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Taufers Chlamme/Taufers,Chlamme//Hof i.d.Gegend
+v.Taufers/
+H$Zinsverpflichtung/Immobilien/Steinhaus Durrekke/Steinhaus/Durrekke/Hof wohl
+zu Steinhaus i.Ahrntal/
+H$Zinsverpflichtung/Immobilien/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro pensione X librarum Veron. \dots persolvendarum
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· das Domkapitel dem Hugo von
+Taufers drei Hîfe zu Chlamme, Durrekke und im Dorf Taufers gegen jÑhrlichen
+Zins in der Hîhe von 10 Pfund Veroneser und gegen einen Hof
+in Chlamme fÅr jÑhrlichen Zins in der Hîhe von 2 Pfund ÅberlÑ·t.
+F$UBrix 1/075/82f/83
+G$Hugo/Genannter/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Taufers Chlamme/Taufers,Chlamme//Hof i.d.Gegend
+v.Taufers/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro pensione II librarum \dots persolvendarum
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· das Domkapitel dem Hugo von
+Taufers drei Hîfe zu Chlamme, Durrekke und im Dorf Taufers gegen jÑhrlichen
+Zins in der Hîhe von 10 Pfund Veroneser und gegen einen Hof
+in Chlamme fÅr jÑhrlichen Zins in der Hîhe von 2 Pfund ÅberlÑ·t. Sollte er oder
+seine Erben den Zins in der Hîhe von 12 Pfund nicht zum festgesetzten Zeitpunkt
+bezahlen, mÅssen sie im zweiten Jahr den doppelten Zins bezahlen.
+F$UBrix 1/075/82f/83
+G$Hugo/Genannter/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Taufers Chlamme/Taufers,Chlamme//Hof i.d.Gegend
+v.Taufers/
+H$Zinsverpflichtung/Immobilien/Steinhaus Durrekke/Steinhaus/Durrekke/Hof wohl
+zu Steinhaus i.Ahrntal/
+H$Zinsverpflichtung/Immobilien/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pensionem in predicto termino non solverent videlicet XII libras
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· das Domkapitel dem Hugo von
+Taufers drei Hîfe zu Chlamme, Durrekke und im Dorf Taufers gegen jÑhrlichen
+Zins in der Hîhe von 10 Pfund Veroneser und gegen einen Hof
+in Chlamme fÅr jÑhrlichen Zins in der Hîhe von 2 Pfund ÅberlÑ·t. Sollte er oder
+seine Erben den Zins weder im ersten noch im zweiten Jahr bezahlen,
+mÅssen sie im dritten Jahr als Strafe den vierfachen Zins, nÑmlich 48 Pfund
+bezahlen.
+F$UBrix 1/075/82f/83
+G$Hugo/Genannter/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Taufers Chlamme/Taufers,Chlamme//Hof i.d.Gegend
+v.Taufers/
+H$Zinsverpflichtung/Immobilien/Steinhaus Durrekke/Steinhaus/Durrekke/Hof wohl
+zu Steinhaus i.Ahrntal/
+H$Zinsverpflichtung/Immobilien/Taufers/Taufers//Schlo·,Dorf,Seitental d.Pustertales/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$48/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in penam pensionem ipsam in quadruplum videlicet XLVIII libras solvere
+teneantur
+
+DOK$UBrix1_085/1233.12.21/1233.12.21/1233 Dezember 21/anno domini MCCXXXIII., indictione VI.
+undecimo die exeunte decembris/Pfeffersberg/Schlo· Pfeffersberg//w.Brixen/
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich IV. von Brixen bestÑtigt dem Domkapitel den durch seinen
+VorgÑnger Heinrich geschenkten Getreidezehent von der Marienkirche im Wipptal
+und den Zehent von Kolsa·.
+
+REG$Bischof Heinrich IV. von Brixen bestÑtigt dem Domkapitel den durch seinen
+VorgÑnger Heinrich geschenkten Getreidezehent von der Marienkirche im Wipptal
+in der Hîhe von 36 Scheffel Weizen und 24 Pfund Veroneser.
+F$UBrix 1/085/92f/93
+G$X/Kirche/Wipptal ?/Wipptal,Marienkirche//SÅdtirol,Sill-u.Eisaktal bis Brixen
+SÑbenb.Latzfons ist s.Brixen, Mariastein b.Wîrgl,Maria Trens b.Sterzing,
+Unsere Frau in Schnals?
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Getreidezehent/Immobilien/Wipptal ?/Wipptal,Marienkirche//SÅdtirol,Sill-u.Eisak tal bis Brixen/
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$XXIIII lib. Veronensium \dots annuatim de ecclesia sancte Marie in Wiptal
+persolvendis
+
+REG$Bischof Heinrich IV. von Brixen bestÑtigt dem Domkapitel den durch seinen
+VorgÑnger Heinrich geschenkten Getreidezehent von der Marienkirche im Wipptal
+und
+den Zehent von Kolsa· in der Hîhe von 24 Pfund Veroneser vom Pfarrer in Kosa·.
+F$UBrix 1/085/92f/93
+G$X/Pfarrer/Kolsa·/Kolsa·//î.Hall/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zins/Immobilien/Kolsa·/Kolsa·//î.Hall/
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim pro censu habuerunt et habent XXXIIII lib. Veronensium
+
+REG$Bischof Heinrich IV. von Brixen bestÑtigt dem Domkapitel den durch seinen
+VorgÑnger Heinrich geschenkten Getreidezehent von der Marienkirche im Wipptal
+und
+den Zehent von Kolsa· in der Hîhe von 24 Pfund Veroneser vom Pfarrer in Kosa·.
+F$UBrix 1/085/92f/93
+G$X/Pfarrer/Kolsa·/Kolsa·//î.Hall/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Zins/Immobilien/Kolsa·/Kolsa·//î.Hall/
+W$X/X/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$profiteatur expresse dictas XXIIII lib. annuatim solvere dictis canonicis et
+capitulo Brixinensi pro censu de ecclesia nominata.
+
+DOK$UBrix1_106/1242.0.0/1242.0.0/1242/anno incarnacionis domini MCCXLII., indictione
+XV./Brixen/Brixen,Frauenkirche//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Egno von Brixen verleiht die ihm von Friedrich Rufus vom Berge
+aufgesagten Brixnerischen Lehen dem Spital zum hl. Kreuz nach Lehensrecht, mit
+der Bedingung, da· Friedrich lebenslÑnglich Zins genie·e, darnach Jahrzeit fÅr
+ihn gehalten werde.
+
+REG$Der ErwÑhlte Egno von Brixen verleiht die ihm von Friedrich Rufus vom Berge
+aufgesagten Brixnerischen Lehen dem Spital zum hl. Kreuz nach Lehensrecht, mit
+der Bedingung, da· Friedrich lebenslÑnglich Zins genie·e, darnach Jahrzeit fÅr
+ihn gehalten werde, nÑmlich ein Scheffel an die Armen verteilt werde und ein
+Pfund Veroneser Pfennige fÅr die Priester gespendet werde.
+F$UBrix 1/106/114/114
+G$X/Spital/Brixen/Brixen,Hl.Kreuz//SÅdtirol/
+E$X/Priester/Brixen/Brixen?//SÅdtirol/
+H$Anniversar/Anniversar/Brixen/Brixen//SÅdtirol/
+W$Verona/X/
+O$1/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$post mortem ipsius annuatim in anniversario suo pauperibus unum modium debet
+distribuere et sacerdotibus unam libram denariorum Veronensium erogare.
+
+DOK$UBrix1_110/1244.5.4/1244.5.4/1244 Mai 4/anno domini MCCXLIIII., indictione II., IIII.
+non. maii/Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Egno beurkundet, da· ihm sein Ministeriale Marquard von Sarns
+einen Weingarten, den er von der Kirche zu Brixen zu Lehen hat, aufgesagt hat.
+Egno schenkt ihn auf Bitte Marquards dem Brixner Domkapitel.
+
+REG$Der ErwÑhlte Egno beurkundet, da· ihm sein Ministeriale Marquard von Sarns
+einen Weingarten, den er von der Kirche zu Brixen zu Lehen hat, aufgesagt hat.
+DafÅr erhÑlt er von Dekan Heinrich 54 Pfund Veroneser und 10 Schilling.
+F$UBrix 1/110/117f/118
+G$Heinrich/Dekan/Brixen/Brixen//SÅdtirol/
+E$Marquard/Genannter/Sarns/Sarns//s.Brixen/
+H$Verzicht/Lehen_Weingarten/unbestimmt/unbestimmt//
+W$Verona/X/
+O$54/lib./X
+Z$10/sol./X
+M$X/X/X/A
+Q$Marquar[do] LIIII lib. Veron. et X sol. donavit
+B$Das Original ist teilweise zerstîrt.
+
+DOK$UBrix1_111/1244.10.3/1244.10.3/1244 Oktober 3/anno domini MCCXLIIII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Egno von Brixen genehmigt, da· sein nobilis ministerialis Arnold
+von Velturns und dessen BrÅder Hugo und Ulrich einen 20 Pfund Veroneser
+zinsenden Hof zu Velturns dem hl. Kreuzspital zu Brixen Åbergeben zu Jahrzeit
+fÅr ihre Eltern.
+
+REG$Der ErwÑhlte Egno von Brixen genehmigt, da· sein nobilis ministerialis Arnold
+von Velturns und dessen BrÅder Hugo und Ulrich einen 20 Pfund Veroneser
+zinsenden Hof zu Velturns dem hl. Kreuzspital zu Brixen Åbergeben zu Jahrzeit
+fÅr ihre Eltern.
+F$UBrix 1/111/118f/118
+G$X/X/X/X//
+E$Arnold/Genannter/Feldthurns/Feldthurns/Velturns/nî.Klausen/
+H$Zins/Immobilien/Feldthurns/Feldthurns/Velturns/nî.Klausen/
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$curiam in Velturns XX lib. Veron referentem
+
+REG$Der ErwÑhlte Egno von Brixen genehmigt, da· sein nobilis ministerialis Arnold
+von Velturns und dessen BrÅder Hugo und Ulrich einen 20 Pfund Veroneser
+zinsenden Hof zu Velturns dem hl. Kreuzspital zu Brixen Åbergeben zu Jahrzeit
+fÅr ihre Eltern
+F$UBrix 1/111/118f/119
+G$X/Spitalvorsteher?/Brixen/Brixen,Hl.Kreuzspital//SÅdtirol/
+E$X/Priester/Brixen/Brixen//SÅdtirol/
+H$Anniversar/Anniversar/Brixen/Brixen//SÅdtirol    ?
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$singulis annis cum X sacerdotibus debet celebrare et peragere quorum cuilibet
+X sol. donare tenetur
+
+DOK$UBrix1_114/1246.3.11/1246.3.11/1246 MÑrz 11/anno domini MCCXLVI., indictione III., die
+dominico proximo ante Gregorii/Vintl/Vintl//nw.MÅhlbach/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Egno von Brixen beurkundet, da· Albert von Voitsberg und Ottager
+von Neuenburg eine Heiratsabrede zwischen ihren Kindern Elisabet und Gundaker
+getroffen haben.
+
+REG$Der ErwÑhlte Egno von Brixen beurkundet, da· Albert von Voitsberg und Ottager
+von Neuenburg eine Heiratsabrede zwischen ihren Kindern Elisabet und Gundaker
+getroffen haben, wonach Albert dem Gundaker vom folgenden Fest des hl. Martin
+an innerhalb von vier Jahren 400 Pfund Veroneser anweisen wird.
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/Voitsbergi.SÅdtirol Voitsbergi.SÅdtirol(Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo· ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$Verona/X/
+O$400/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum CCCC lib. Veron. assignabit
+B$Voitsberg sind Burggrafen von Brixen u. Ministerialen des Hochstiftes.
+
+REG$Der ErwÑhlte Egno von Brixen beurkundet, da· Albert von Voitsberg und Ottager
+von Neuenburg eine Heiratsabrede zwischen ihren Kindern Elisabet und Gundaker
+getroffen haben, wonach Albert dem Gundaker vom folgenden Fest des hl. Martin
+an innerhalb von vier Jahren 400 Pfund Veroneser anweisen wird und danach
+innerhalb eines Jahres 200 Pfund Veroneser. ?
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$CC lib. Veron.
+
+REG$Der ErwÑhlte Egno von Brixen beurkundet, da· Albert von Voitsberg und Ottager
+von Neuenburg eine Heiratsabrede zwischen ihren Kindern Elisabet und Gundaker
+getroffen haben, wonach Albert dem Gundaker vom folgenden Fest des hl. Martin
+an innerhalb von vier Jahren 400 Pfund Veroneser anweisen wird und danach
+innerhalb eines Jahres 200 Pfund Veroneser und danach wieder 200 Pfund
+Veroneser. ?
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z?
+Q$alias CC lib. Veron.
+
+REG$Der ErwÑhlte Egno von Brixen beurkundet, da· Albert von Voitsberg und Ottager
+von Neuenburg eine Heiratsabrede zwischen ihren Kindern Elisabet und Gundaker
+getroffen haben, wonach Albert dem Gundaker vom folgenden Fest des hl. Martin
+an innerhalb von vier Jahren 400 Pfund Veroneser anweisen wird und danach
+innerhalb eines Jahres 200 Pfund Veroneser und danach wieder 200 Pfund
+Veroneser. ? DafÅr Åbernehmen genannte Personen unter Strafe von 50 Mark
+Veroneser die BÅrgschaft. ?
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena quinquaginta marcarum Veron.
+
+REG$     ?                      Wenn Ehe nicht zustandekommt?
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$parti alteri L marcas persolvere tenetur
+
+REG$?      fÅr die zu zahlenden 50 Mark sind auf der Seite des Albert von
+Voitsberg
+die BÅrgen, die versprochen haben, in der Stadt Brixen oder Lienz Einlager zu
+halten bis die genannten 50 Mark bezahlt werden.
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro eisdem L marcis persolvendis ex parte Alberti sunt fideiussores
+
+REG$  ?    fÅr die zu zahlenden 50 Mark sind auf der Seite des Albert von
+Voitsberg
+die BÅrgen, die versprochen haben, in der Stadt Brixen oder Lienz zu erscheinen
+bis die genannten 50 Mark bezahlt werden.
+F$UBrix 1/114/121f/121
+G$Albert/Genannter/ Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen/
+E$Gundaker/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf d."Berge"
+î.Brixen/
+H$Einlager/Einlager/Brixen/Brixen//SÅdtirol/
+H$Einlager/Einlager/Lienz/Lienz//Osttirol/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$usque predicte L marce persolventur
+
+REG$Der ErwÑhlte Egno von Brixen beurkundet, da· Albert von Voitsberg und Ottager
+von Neuenburg eine Heiratsabrede zwischen ihren Kindern Elisabet und Gundaker
+getroffen haben. Sollten Gundaker oder Elisabet vor der Eheschlie·ung sterben,
+mu· kein Teil die Pînale von 50 Mark (fÅr die nicht erfolgte Eheschlie·ung)
+bezahlen.
+F$UBrix 1/114/121f/122
+G$Albert/Genannter/Voitsbergi.SÅdtirol (Porta-)Voitsberg/(Porta-)Voitsberg/Voitsberg/einst.Schlo·
+ob Vahrn,Sitz d.Burggrafen v.Brixen    beide?
+E$Ottager/Genannter/Neuenburg_vBerge/Neuenburg b.Brixen//Schlo· auf
+d."Berge" î.Brixen/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt// ?
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$utraque pars de L marcis est absoluta
+
+DOK$UBrix1_118/1247.12.19/1247.12.19/1247 Dezember 19/anno domini MCCXLVII., die iovis ante
+Thome/Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Bischof Egno von Brixen beurkundet, da· Dietmar der Scolar und Konrad die
+Sîhne weiland des Heinrich von Velturns ihm Haus und Hof, die ihr Vater von der
+Kirche von Brixen zu Lehen hatte, aufsagten, worauf Bischof Egno diesselben auf
+Bitte der beiden BrÅder seinem Diener Konrad, genannt Swarzo verleiht.
+
+REG$Bischof Egno von Brixen beurkundet, da· Dietmar der Scolar und Konrad die
+Sîhne weiland des Heinrich von Velturns ihm Haus und Hof, die ihr Vater von der
+Kirche von Brixen zu Lehen hatte, aufsagten, worauf Bischof Egno diesselben auf
+Bitte der beiden BrÅder seinem Diener Konrad, genannt Swarzo verleiht, wofÅr
+dieser den BrÅdern 18 Mark Veroneser schenkt.
+F$UBrix 1/118/125/125
+G$Konrad, genannt Swarzo/Diener?/Brixen/Brixen//SÅdtirol/
+E$Dietmar Scolar/Genannter/Feldthurns/Feldthurns/Velturn/nî.Klausen/
+E$Konrad/Genannter/Feldthurns/Velturn/nî.Klausen/
+H$Verzicht/Lehen/Brixen/Brixen//SÅdtirol/
+W$Verona/X/
+O$18/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XVIII marcas Veron. \dots donaverunt
+
+REG$Bischof Egno von Brixen beurkundet, da· Dietmar der Scolar und Konrad die
+Sîhne weiland des Heinrich von Velturns ihm Haus und Hof, die ihr Vater von der
+Kirche von Brixen zu Lehen hatte, aufsagten, worauf Bischof Egno diesselben auf
+Bitte der beiden BrÅder seinem Diener Konrad, genannt Swarzo verleiht, wofÅr
+dieser den BrÅdern 18 Mark Veroneser schenkt. Die BrÅder verpflichten sich unter
+Strafe von 30 Mark Veroneser, den Swarzo und seine Frau Maria vor Gericht zu
+verteidigen.
+F$UBrix 1/118/125/125
+G$Dietmar Scolar/Genannter/Feldthurns/Feldthurns/Velturn/nî.Klausen/
+G$Konrad/Genannter/Feldthurns/Feldthurns/Velturn/nî.Klausen/
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XXX marcarum Veron.
+
+REG$Bischof Egno von Brixen beurkundet, da· Dietmar der Scolar und Konrad die
+Sîhne weiland des Heinrich von Velturns ihm Haus und Hof, die ihr Vater von der
+Kirche von Brixen zu Lehen hatte, aufsagten, worauf Bischof Egno diesselben auf
+Bitte der beiden BrÅder seinem Diener Konrad, genannt Swarzo verleiht, wofÅr
+dieser den BrÅdern 18 Mark Veroneser schenkt. Die BrÅder verpflichten sich unter
+Strafe von 30 Mark Veroneser, den Konrad und seine Frau Maria vor Gericht zu
+verteidigen. FÅr diese 30 Mark haben Swarzo und seine Frau ein Pfand an allen
+ErbgÅtern des Dietmar und Konrad.
+F$UBrix 1/118/125/125
+G$Dietmar Scolar/Genannter/Feldthurns/Feldthurns/Velturn/nî.Klausen/
+G$Konrad/Genannter/Feldthurns/Feldthurns/Velturn/nî.Klausen/
+G$Konrad, genannt Swarzo/Diener?/Brixen/Brixen//SÅdtirol/
+H$Pfand/Immobilien/unbestimmt/unbestimmt// ?
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro quibus XXX marcis
+
+DOK$UBrix1_122/1249.6.21/1249.6.21/1249 Juni 21/anno domini MCCXLVIIII., die lune proxima ante
+Iohannis Baptiste/Lienz/Lienz//Osttirol/
+S$X/X/X
+V$X/X/X
+K$Graf Meinhard von Gîrz, Vogt der Kirche von Aquileia, bekennt, da· er die
+Vogtei des Besitzes des Domkapitel von Brixen zu Penzendorf von Nikolaus von
+Neuenburg um 32 Mark Berner erworben hat und verspricht dieselbe bei seiner
+Herrschaft zu behalten und sie nicht weiterzuverleihen oder zu entfremden.
+
+REG$Nikolaus von Neuenburg hat dem Domkapitel von Brixen in der Vogtei Åber den
+Besitz zu Penzendorf einen Schaden in der Hîhe von 200 Mark Veroneser zugefÅgt.
+F$UBrix 1/122/129f/129
+F$Reg. Gîrz 1/543/142/142
+G$Nikolaus/Genannter/Neuenburg_Leisach/Neuenburg//i.d.Gegend v.Lienz/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Schaden/Schaden/Penzendorf/Penzendorf//b.Asling sw.Lienz/
+W$Verona/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ad CC marcas Veron. dampnificavit
+
+REG$Graf Meinhard von Gîrz, Vogt der Kirche von Aquileia, bekennt, da· er die
+Vogtei des Besitzes des Domkapitel von Brixen zu Penzendorf von Nikolaus von
+Neuenburg um 32 Mark Berner erworben hat.
+F$UBrix 1/122/129f/129
+F$Reg. Gîrz 1/543/142/142
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Nikolaus/Genannter/Neuenburg_Leisach/Neuenburg//i.d.Gegend v.Lienz/
+H$RÅckkauf/Vogtei/Penzendorf/Penzendorf//b.Asling sw.Lienz/
+W$Verona/X/
+O$32/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXXII marcis Veron. redimamus
+
+REG$Graf Meinhard von Gîrz, Vogt der Kirche von Aquileia, bekennt, da· er die
+Vogtei des Besitzes des Domkapitel von Brixen zu Penzendorf von Nikolaus von
+Neuenburg um 32 Mark Berner erworben hat. Er verspricht die Vogtei zum alten
+Zinssatz innnezuhaben und die Leute nicht darÅber hinaus zu beschweren, die
+Vogtei bei seiner Herrschaft zu behalten, nicht weiter zu verleihen oder zu
+entfremden und die Kapitelvogtei gegen die Eingriffe von Seiten des Herrn
+Wernher von Neuenburg und seiner Sîhne zu schÅtzen. Dies unter der Pîn des
+Vogteiverlustes und von 100 Mark Veronesern an das Domkapitel.
+F$UBrix 1/122/129f/129
+F$Reg. Gîrz 1/543/142/142
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$X/Domkapitel/Brixen/Brixen//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in C marcis Veron. simus obligati
+
+DOK$FRAII76_109/1174.0.0/1178.0.0/(1174 - 1178)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Ministeriale Konrad von Brixen (?) Åbergibt Neustift sein Gut auf dem
+Berge Spilluck unter der Bedingung, da· er es auf Lebenszeit gegen einen Zins
+von 2 Pfennige Augsburger oder einem Friesacher jÑhrlich innehabe.
+
+REG$Der Ministeriale Konrad von Brixen (?) Åbergibt Neustift sein Gut auf dem
+Berge Spilluck unter der Bedingung, da· er es auf Lebenszeit gegen einen Zins
+von 2 Pfennige Augsburger oder einem Friesacher jÑhrlich innehabe.
+F$FRA II 76/109/87f/88
+G$Konrad/Ministeriale/Brixen/Brixen//SÅdtirol/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Spilluck/Spilluck//SÅdtirol,b.Vahrn/
+W$Augsburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Augsburger Pf./1 Friesacher Pf.
+Q$censum duorum denariorum Augustensis monete vel unum Vricsacensem, donec
+vixerit, singulis annis inde persolvat
+B$Der Ministeriale Konrad, hier ausdrÅcklich als von Brixen bezeichnet, dÅrfte
+kaum ein De Porta-Voitsberger sein, da ein solcher sonst nirgends nachzuweisen
+ist. Gemeint ist vielleicht Konrad von Monte-Neuenburg, ein Bruder des
+Dompropstes Winther. Auch Konrad von SÑben wÅrde in diese Zeit passen.
+Mairhofer, Geschichtsfreund S. 25 bezieht ihn auf Konrad von SÑben. (FRA II 76
+S. 88)
+
+REG$Der Ministeriale Konrad von Brixen (?) Åbergibt Neustift sein Gut auf dem
+Berge Spilluck unter der Bedingung, da· er es auf Lebenszeit gegen einen Zins
+von 2 Pfennige Augsburger oder einem Friesacher jÑhrlich innehabe.
+F$FRA II 76/109/87f/88
+G$Konrad/Ministeriale/Brixen/Brixen//SÅdtirol/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Spilluck/Spilluck//SÅdtirol,b.Vahrn/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$1/den.?/X/Z
+A$1 Friesacher Pf./2 Augsburger Pf.
+Q$censum duorum denariorum Augustensis monete vel unum Vricsacensem, donec
+vixerit, singulis annis inde persolvat
+B$Der Ministeriale Konrad, hier ausdrÅcklich als von Brixen bezeichnet, dÅrfte
+kaum ein De Porta-Voitsberger sein, da ein solcher sonst nirgends nachzuweisen
+ist. Gemeint ist vielleicht Konrad von Monte-Neuenburg, ein Bruder des
+Dompropstes Winther. Auch Konrad von SÑben wÅrde in diese Zeit passen.
+Mairhofer, Geschichtsfreund S. 25 bezieht ihn auf Konrad von SÑben. (FRA II 76
+S. 88)
+TUB 1 Nr. 335 S. 167 Regest
+
+DOK$FRAII76_127/1178.0.0/1188.0.0/(1178 - 1188)/X/Kehlburg/Kehlburg//n.Bruneck i.Pustertal/
+S$X/X/X
+V$X/X/X
+K$Der Streit zwischen Arnold von Rodeneck und Konrad von GrabenstÑtt um GÅter in
+Baumburg, die vom Vater Arnolds, Friedrich von Rodeneck, von Neustift
+eingetauscht wurden, wird dahingehend geschlichtet, da· Arnold gegen 8 Pfund
+Augsburger auf alle damals gegen Baumburg eingetauschten GÅter zugunsten
+Neustifts verzichtet.
+
+REG$Der Streit zwischen Arnold von Rodeneck und Konrad von GrabenstÑtt um GÅter in
+Baumburg, die vom Vater Arnolds, Friedrich von Rodeneck, von Neustift
+eingetauscht wurden, wird dahingehend geschlichtet, da· Arnold gegen 8 Pfund
+Augsburger auf alle damals gegen Baumburg eingetauschten GÅter zugunsten
+Neustifts verzichtet.
+F$FRA II 76/127/98f/99
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Arnold/Genannter/Rodeneck/Rodeneck//sî.MÅhlbach,Pustertal/
+H$Verzicht/Immobilien/Baumburg/Baumburg//i.Oberinntal oder Bayern,b.Traunstein/
+W$Augsburg/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$\c{e}cclesia Nou\c{e}cell\c{e} dedit \dots Arnoldo octo libras Augustensium
+
+DOK$FRAII76_128/1184.0.0/1188.0.0/(1184 - 1188)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Ministeriale des Hochstifts Trient, Konrad von Firmian, verkauft Neustift
+durch die Hand seines Herrn, des Bischofs Albert von Trient, GÅter in Coste fÅr
+20 Pfund Regensburger und 4 Pfund Augsburger.
+
+REG$Der Ministeriale des Hochstifts Trient, Konrad von Firmian, verkauft Neustift
+durch die Hand seines Herrn, des Bischofs Albert von Trient, GÅter in Coste fÅr
+20 Pfund Regensburger und 4 Pfund Augsburger.
+F$FRA II 76/128/99f/99
+F$TUB 1/416/213/213
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Konrad/Genannter/Sigmundskron Firmian/Sigmundskron (Firmian)//Schlo· b.Bozen/
+E$?Konrad/Ministeriale/Trient/Trient//SÅdtirol/
+H$Kauf/Immobilien/Villanders Coste/Villanders,Coste//wahrsch.b.Villanders
+sw.Klausen ? siehe B
+W$Regensburg/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XX libris R\^{e}ttispon(en)sium et IIII libris Augustensium
+B$Die Datierung ist durch die Regierungszeit Bischof Albert Madruzzos von Trient
+gegeben. Den Ort Coste vermutet Huter, TU S. 213 im Fleimstal bei Trient, im
+Urbar von 1292, fol. 28r, steht mansus in Coste bei Villanders, ebenso bei
+Wagner, Trad.Neustift bei Brixen.
+
+REG$Der Ministeriale des Hochstifts Trient, Konrad von Firmian, verkauft Neustift
+durch die Hand seines Herrn, des Bischofs Albert von Trient, GÅter in Coste fÅr
+20 Pfund Regensburger und 4 Pfund Augsburger.
+F$FRA II 76/128/99f/99
+F$TUB 1/416/213/213
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Konrad/Genannter/Sigmundskron Firmian/Sigmundskron (Firmian)//Schlo· b.Bozen/
+E$?Konrad/Ministeriale/Trient/Trient//SÅdtirol/
+H$Kauf/Immobilien/Villanders Coste/Villanders,Coste//wahrsch.b.Villanders
+sw.Klausen/
+W$Augsburg/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XX libris R\^{e}ttispon(en)sium et IIII libris Augustensium
+B$Die Datierung ist durch die Regierungszeit Bischof Albert Madruzzos von Trient
+gegeben. Den Ort Coste vermutet Huter, TU S. 213 im Fleimstal bei Trient, im
+Urbar von 1292, fol. 28r, steht mansus in Coste bei Villanders.
+
+DOK$FRAII76_137/1184.0.0/1189.0.0/(1184 - ca. 1189)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich (III.) von Brixen und der kaiserliche Kaplan Ortolf (von
+SÑben) schlichten den Streit zwischen Neustift und den Grafen Heinrich und
+Diepold von LechsgemÅnd wegen dreier Mansen in Defereggen, die Neustift von
+ihnen um 62 Mark gekauft hatte, unter genannten EntschÑdigungen fÅr Graf
+Heinrich. Ebenso verzichtet Graf Diepold auf alle AnsprÅche auf genannte GÅter.
+
+REG$Bischof Heinrich (III.) von Brixen und der kaiserliche Kaplan Ortolf (von
+SÑben) schlichten den Streit zwischen Neustift und den Grafen Heinrich und
+Diepold von LechsgemÅnd wegen dreier Mansen in Defereggen, die Neustift von
+ihnen um 62 Mark gekauft hatte.
+F$FRA II 76/137/105f/105
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Heinrich;Diepold/Graf/LechsgemÅnd/LechsgemÅnd//w.Donauwîrth/
+H$Kauf/Immobilien/Defereggen/Defereggen//w.Seitental d.Iseltals n.Lienz/
+W$X/X/
+O$62/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$sexaginta duabus marcis ante comparaverat
+
+REG$Bischof Heinrich (III.) von Brixen und der kaiserliche Kaplan Ortolf (von
+SÑben) schlichten den Streit zwischen Neustift und den Grafen Heinrich und
+Diepold von LechsgemÅnd wegen dreier Mansen in Defereggen, die Neustift von
+ihnen um 62 Mark gekauft hatte, unter einer EntschÑdigung in der Hîhe von 15
+Mark Friesacher fÅr Graf Heinrich.
+F$FRA II 76/137/105f/105
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//w.Donauwîrth/
+H$Verzicht/Immobilien/Defereggen/Defereggen//w.Seitental d.Iseltals n.Lienz/
+W$Friesach/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dederunt comiti Hainrico XV marcas Friesacensium
+
+REG$Bischof Heinrich (III.) von Brixen und der kaiserliche Kaplan Ortolf (von
+SÑben) schlichten den Streit zwischen Neustift und den Grafen Heinrich und
+Diepold von LechsgemÅnd wegen dreier Mansen in Defereggen, die Neustift von
+ihnen um 62 Mark gekauft hatte, unter genannten EntschÑdigungen fÅr Graf
+Heinrich. Die consiliarii Ratgeber?StreitschlichterSchiedsleute erhielten
+eineinhalb Mark.
+F$FRA II 76/137/105f/106
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Heinrich (III.)/Bischof/Brixen/Brixen//SÅdtirol/
+E$Ortolf/Genannter/SÑben/SÑben//oberhalb Klausen/
+H$Streitbeilegung/Streit/unbestimmt/unbestimmt// ?
+W$X/X/
+O$1,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$consiliariis marcam et dimidiam
+
+DOK$FRAII76_160/1207.0.0/1207.0.0/1207/indictione X. anno dominic\c{e}
+incarnationis MCCVII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Gottschalk, genannt Mancus von Brixen, tritt Neustift sein bereits gegen
+lebenslÑngliche Nutzung Åbergebenes Gut Platten gegen 34 Pfund Veroneser
+vollstÑndig ab, und zwar zur ausschlie·lichen Nutzung durch die Kustodie.
+
+REG$Gottschalk, genannt Mancus von Brixen, tritt Neustift sein bereits gegen
+lebenslÑngliche Nutzung Åbergebenes Gut Platten gegen 34 Pfund Veroneser
+vollstÑndig ab, und zwar zur ausschlie·lichen Nutzung durch die Kustodie.
+F$FRA II 76/160/122f/122
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Gottschalk genannt Mancus/Genannter/Brixen/Brixen//SÅdtirol/
+H$Verzicht/Immobilien/Vahrn Platten/Vahrn,Platten//wahrsch.Oberplattner
+i.Vahrn     Fruchtgenu·?
+W$Verona/X/
+O$34/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XXXIIII libras Veron(ensium)
+B$Druckfehler bei Wagner "XXXIIIII".
+
+DOK$FRAII76_164/1207.0.0/1212.0.0/(1207 - 1212)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bruder Engelbrecht lîst die Rechte der BrÅder Ulrich, Gottschalk und Ermenrich
+von Latzfons auf drei Joch und eine Wiese ebenda mit 24 Pfund Veroneser ab und
+widmet genannte GÅter Neustift.
+
+REG$Bruder Engelbrecht lîst die Rechte der BrÅder Ulrich, Gottschalk und Ermenrich
+von Latzfons auf drei Joch und eine Wiese ebenda mit 24 Pfund Veroneser ab und
+widmet genannte GÅter Neustift.
+F$FRA II 76/164/125f/125
+G$Engelbrecht/Mînch/Neustift/Neustift//SÅdtirol/
+E$Ulrich;Gottschalk;Ermenrich/Genannter/Latzfons/Latzfons//b.Klausen/
+H$Ablîse/Immobilien/Latzfons/Latzfons//b.Klausen/
+W$Verona/X/
+O$24/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit eis XXIIII talenta Veron(ensium)
+
+DOK$FRAII76_167/1220.0.0/1228.0.0/(ca. 1220 - 1228)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Berthold Trautson von Reifenstein und seine Frau Wiradis schenken Neustift
+einen Hof in T\¯{u}fenbach (bei Pfalzen) gegen Vorbehalt lebenslÑnglicher
+Nutzung mit einem jÑhrlichen Zins von 20 Schilling Veroneser.
+
+REG$Berthold Trautson von Reifenstein und seine Frau Wiradis schenken Neustift
+einen Hof in T\¯{u}fenbach (bei Pfalzen) gegen Vorbehalt lebenslÑnglicher
+Nutzung mit einem jÑhrlichen Zins von 20 Schilling Veroneser.
+F$FRA II 76/167/128f/129
+G$Berthold Trautson/Genannter/Reifenstein/Reifenstein//Schlo· b.Sterzing/
+G$Wiradis/Genannte/Reifenstein/Reifenstein//Schlo· b.Sterzing/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Pfalzen Tufenbach/Pfalzen,Tufenbach/T\¯{u}fenbach/b.Pfalzen/
+W$Verona/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$persolvit inde XX solidos Veron(ensium) sub nomine pensionis
+B$TU 2 Nr.636 S.103 datiert (1213 -1222) nach der Stellung im Traditionsbuch.
+
+DOK$FRAII76_168/1228.0.0/1228.0.0/(ca. 1228)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Ministeriale von Brixen, Wilhelm von Natz, verkauft Neustift vor seinem
+Aufbruch ins Heilige Land durch seine Mutter Hildburg ein kleines Gut und eine
+Wiese am Berge Meransen.
+
+REG$Der Ministeriale von Brixen, Wilhelm von Natz, verkauft Neustift vor seinem
+Aufbruch ins Heilige Land durch seine Mutter Hildburg ein kleines Gut und eine
+Wiese am Berge Meransen.
+F$FRA II 76/168/129f/130
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Wilhelm/Genannter/Natz/Natz//n.Brixen/
+H$Kauf/Immobilien/Meransen/Meransen//n.MÅhlbach/
+W$Verona/X/
+O$105/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro C et V libris Veron(ensium)
+B$Vgl. die BestÑtigungsurkunde Bischof Heinrichs IV. im Stiftsarchiv Neustift
+M|1. Die ErwÑhnung in procinctu ultramarinis lÑ·t auf den 5. Kreuzzug schlie·en,
+der 1228 beginnt. Ferner wird Bischof Heinrich IV. erst 1228 am Palmsonntag in
+Venedig konsekriert (vgl. Sinnacher IV, 202). Freilich bleibt es problematisch,
+ob bei diesen Eintragungen, die erst spÑter erfolgen, auf ein eventuelles
+Electus der Aktnotiz RÅcksicht genommen worden wÑre, zu einer Zeit, als Heinrich
+schon lange Bischof war. (FRA II 76 S. 129)
+
+DOK$FRAII76_170/1228.0.0/1230.0.0/(ca. 1228 - ca. 1230)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Pfarrer Gerungus von Vîls gibt Neustift zwei GrundstÅcke in Klausen, die
+er vom Stift zu Lehen getragen hatte, unter der Bedingung zurÅck, da· der hl.
+Albuin und Ingenuin in die Gebete eingeschlossen wÅrden. Neustift verleiht sie
+dann Heinrich dem Bayern und Albert.
+
+REG$Der Pfarrer Gerungus von Vîls gibt Neustift zwei GrundstÅcke in Klausen, die
+er vom Stift gegen einen Zins in der Hîhe von 2 Pfund Veroneser zu Lehen
+getragen hatte, unter der Bedingung zurÅck, da· der hl. Albuin und Ingenuin in
+die Gebete eingeschlossen wÅrden.
+F$FRA II 76/170/131f/131
+G$Gerungus/Pfarrer/Vîls/Vîls//am Schlern/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Klausen/Klausen//SÅdtirol/
+W$Verona/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$duas areas in Clusa iure forensi a nobis sibi concessas ac II libras
+Veron(esium) persolventes resignavit
+B$Bei diesen offenbar erst spÑter erfolgten Eintragungen ist die Reihenfolge im
+Traditionsbuch nicht mehr genau eingehalten (vgl. Nr. 159, 166). Andererseits
+lassen sich wenigstens in der Zeit Bischof Heinrichs IV. keine
+UnregelmÑ·igkeiten in der Reihenfolge nachweisen. So lÑ·t es sich wohl
+vertreten, wenn wir die Reihenfolge im Traditionsbuch als richtig annehmen und
+die zeitliche Einordnung nach den fixierbaren StÅcken wenigstens unter Vorbehalt
+vornehmen, zumal uns sonst bei den meisten Traditionen alle Anhaltspunkte
+fehlen. So sind die Traditionen in der Zeit Bischof Heinrichs und der ersten
+HÑlfte der Regierungszeit Bischof Egnos wie bisher in den Zeitgrenzen zwischen
+den datierbaren StÅcken festgelegt, aber jedem Datum ein c. vorgesetzt, um
+Abweichungen in der chronologischen Reihenfolge, die durchaus mîglich, aber
+nicht erkennbar sind, einzubeziehen.
+TU 2 Nr. 907 S. 315 datiert (1229 -1233) nach der Stellung im Codex.
+
+REG$Der Pfarrer Gerungus von Vîls gibt Neustift zwei GrundstÅcke in Klausen, die
+er vom Stift zu Lehen getragen hatte, unter der Bedingung zurÅck, da· der hl.
+Albuin und Ingenuin in die Gebete eingeschlossen wÅrden. Neustift verleiht sie
+dann Heinrich dem Bayern und Albert gegen einen jÑhrlichen Zins in der Hîhe von
+2 Pfund Veronesern.
+F$FRA II 76/170/131f/131
+G$Heinrich dem Bayern;Albert/X/X/X//
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Klausen/Klausen//SÅdtirol/
+W$Verona/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$persolvant exinde II libras Veron(ensium)
+B$Bei diesen offenbar erst spÑter erfolgten Eintragungen ist die Reihenfolge im
+Traditionsbuch nicht mehr genau eingehalten (vgl. Nr. 159, 166). Andererseits
+lassen sich wenigstens in der Zeit Bischof Heinrichs IV. keine
+UnregelmÑ·igkeiten in der Reihenfolge nachweisen. So lÑ·t es sich wohl
+vertreten, wenn wir die Reihenfolge im Traditionsbuch als richtig annehmen und
+die zeitliche Einordnung nach den fixierbaren StÅcken wenigstens unter Vorbehalt
+vornehmen, zumal uns sonst bei den meisten Traditionen alle Anhaltspunkte
+fehlen. So sind die Traditionen in der Zeit Bischof Heinrichs und der ersten
+HÑlfte der Regierungszeit Bischof Egnos wie bisher in den Zeitgrenzen zwischen
+den datierbaren StÅcken festgelegt, aber jedem Datum ein c. vorgesetzt, um
+Abweichungen in der chronologischen Reihenfolge, die durchaus mîglich, aber
+nicht erkennbar sind, einzubeziehen.
+TU 2 Nr. 907 S. 315 datiert (1229 -1233) nach der Stellung im Codex.
+
+DOK$FRAII76_174/1228.0.0/1230.0.0/(ca. 1228 - ca. 1230)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gertrud von St. Lamprechtsburg schenkt mit Zustimmung ihres Mannes Albert und
+ihrer Verwandten eine halbe Hube in Barbian mit Vorbehalt lebenslÑnglicher
+Nutzung gegen den jÑhrlichen Zins von 10 Schillingen Veroneser.
+
+REG$Gertrud von St. Lamprechtsburg schenkt mit Zustimmung ihres Mannes Albert und
+ihrer Verwandten eine halbe Hube in Barbian mit Vorbehalt lebenslÑnglicher
+Nutzung gegen den jÑhrlichen Zins von 10 Schillingen Veroneser zur Verteilung an
+die Armen am GrÅndonnerstag.
+F$FRA II 76/174/133f/133
+F$TUB 2/909/315f/316
+G$Gertrud/Genannte/Lamprechtsburg/St. Lamprechtsburg//b.Bruneck/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Barbian/Barbian//sw.Klausen/
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$annuatim \dots in testimonium illius traditionis debeam persolvere X solidos
+Veron(ensium)
+TUB 2 Nr. 909 S. 315 datiert (1229 -1233) nach der Stellung im Codex.
+
+DOK$FRAII76_179/1230.0.0/1233.0.0/(ca. 1230 - ca. 1233)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Burggraf Ernst von Brixen und seine Frau Richza schenken Neustift mit
+Zustimmung ihrer Verwandten einen Hof in Vintl mit Vorbehalt lebenslÑnglicher
+Nutzung gegen jÑhrliche Zinszahlung.
+
+REG$Burggraf Ernst von Brixen und seine Frau Richza schenken Neustift mit
+Zustimmung ihrer Verwandten einen Hof in Vintl mit jÑhrlichen EinkÅnften in
+der Hîhe von 12 Pfund  mit Vorbehalt lebenslÑnglicher Nutzung gegen jÑhrliche
+Zinszahlung.
+F$FRA II 76/179/136f/137
+G$X/X/X/X//
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$EinkÅnfte/Immobilien/Vintl/Vintl//nw.MÅhlbach/
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$curtem aput Vintuln, que preter xenia reddit XII libras annuatim.
+TU 2 Nr. 910 S. 316 datiert (1229 -1233) nach der Stellung im Codex.
+
+REG$Burggraf Ernst von Brixen und seine Frau Richza schenken Neustift mit
+Zustimmung ihrer Verwandten einen Hof in Vintl mit Vorbehalt lebenslÑnglicher
+Nutzung gegen jÑhrliche Zinszahlung in der Hîhe von 12 Schilling Veroneser.
+F$FRA II 76/179/136f/137
+G$Ernst/Burggraf/Brixen/Brixen//SÅdtirol/
+G$Richza/BurggrÑfin/Brixen/Brixen//SÅdtirol/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Vintl/Vintl//nw.MÅhlbach/
+W$Verona/X/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/Z
+Q$persolvent inde annuatim pro censu XII solidos Veron(ensium)
+TU 2 Nr. 910 S. 316 datiert (1229 -1233) nach der Stellung im Codex.
+
+REG$Burggraf Ernst von Brixen und seine Frau Richza schenken Neustift mit
+Zustimmung ihrer Verwandten einen Hof in Vintl mit Vorbehalt lebenslÑnglicher
+Nutzung gegen jÑhrliche Zinszahlung. Sollte einer von ihnen sterbern, soll der
+andere jÑhrlich 5 Pfund (!?) bezahlen.
+F$FRA II 76/179/136f/137
+G$Ernst/Burggraf/Brixen/Brixen//SÅdtirol/
+G$Richza/BurggrÑfin/Brixen/Brixen//SÅdtirol/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Vintl/Vintl//nw.MÅhlbach/
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Uno autem ipsorum defuncto, alter V libras inde annuatim persolvat
+TU 2 Nr. 910 S. 316 datiert (1229 -1233) nach der Stellung im Codex.
+
+DOK$FRAII76_185/1233.0.0/1239.0.0/(ca. 1233 - ca. 1239)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Herr Friedrich von Schîneck Åbergibt Neustift einen Hof in Nasen gegen
+Vorbehalt lebenslÑnglicher Nutzung mit einem jÑhrlichen Zins von 10 Schillingen
+Veroneser.
+
+REG$Herr Friedrich von Schîneck Åbergibt Neustift einen Hof in Nasen gegen
+Vorbehalt lebenslÑnglicher Nutzung mit einem jÑhrlichen Zins von 10 Schillingen
+Veroneser.
+F$FRA II 76/185/140f/140
+G$Friedrich/Genannter/Schîneck/Schîneck//nw.Bruneck/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Nasen/Nasen/Neussan/Weiler i.G.Percha b.Bruneck/
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$debeat inde annuatim in cena domini persolvere X solidos Veron(ensium)
+B$Neussan ist Nasen, Bez. Bruneck, O. G. Percha. (FRA II 76 S. 140)
+
+DOK$FRAII76_198/1234.0.0/1239.0.0/(ca. 1234 - ca. 1239)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Durnholz verkauft zusammen mit Frau und Kindern Neustift ein Gut
+in Trins fÅr 30 Pfund Veroneser und Aufnahme in die GebetsverbrÅderung.
+
+REG$Heinrich von Durnholz verkauft zusammen mit Frau und Kindern Neustift ein Gut
+in Trins fÅr 30 Pfund Veroneser und Aufnahme in die GebetsverbrÅderung.
+F$FRA II 76/198/148/148
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Heinrich/Genannter/Durnholz/Durnholz//i.oberen Sarntal/
+H$Kauf/Immobilien/Trins/Trins//b.Steinach a.Brenner/
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$daremus eis XXX libras Ver(onensium)
+
+DOK$FRAII76_201/1234.0.0/1239.0.0/(ca. 1234 - ca. 1239)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Sibant von Natz verkauft Propst Heinrich von Neustift ein Gut in Meransen um
+40 Pfund Veroneser.
+
+REG$Sibant von Natz verkauft Propst Heinrich von Neustift ein Gut in Meransen um
+40 Pfund Veroneser.
+F$FRA II 76/201/149f/150
+G$Heinrich/Propst/Neustift/Neustift//SÅdtirol/
+E$Sibant/Genannter/Natz/Natz//n.Brixen/
+H$Kauf/Immobilien/Meransen/Meransen//n.MÅhlbach/
+W$Verona/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XL libris Ver(onensium)
+
+DOK$FRAII76_208/1237.0.0/1237.0.0/(ca. 1237)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Frau Hildegund von Taufers schenkt Neustift bei ihrem Eintritt in das Kloster
+ein Drittel eines Hofes in Luttach, ihr Bruder Ottager, Ritter Hugos von
+Taufers, ein zweites Drittel unter dem Vorbehalt lebenslÑnglicher Nutzung beider
+Teile.
+
+REG$Frau Hildegund von Taufers schenkt Neustift bei ihrem Eintritt in das Kloster
+ein Drittel eines Hofes in Luttach, ihr Bruder Ottager, Ritter Hugos von
+Taufers, ein zweites Drittel unter dem Vorbehalt lebenslÑnglicher Nutzung beider
+Teile und gegen einen jÑhrlichen Zins in der Hîhe von 2 Pfund Veroneser.
+F$FRA II 76/208/153f/153
+G$Ottager/Genannter/Taufers/Taufers?//n.Bruneck/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Luttach/Luttach//b.Taufers/
+W$Verona/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$inde solveret II libras Ver(onensium)
+B$Vgl. DTA II|3 Nr. 11794. Zur Datierung dient der Zug nach Mailand 1237, vgl.
+Gebhardt, Handbuch der deutschen Geschichte I7, 374, und die Schenkung Arnolds
+von Rodeneck 1237 IX 23, die er vor Antritt der Heerfahrt nach Italien machte
+(Druck NU 104 Nr. 240). (FRA II 76 S. 153)
+
+DOK$FRAII76_209/1239.0.0/1247.0.0/(1239 - 1247)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Domherr Friedrich von Gais schenkt durch den ErwÑhlten Egno dem Stift Neustift
+eine halbe Hube in BernhardspÅhl, Unfreie und vor seinem Tode noch 100 Pfund
+Veroneser, die er nach der Beilegung eines Zwistes mit seinen Verwandten fÅr
+seinen Verzicht auf das Erbe erhalten hatte.
+
+REG$Domherr Friedrich von Gais schenkt durch den ErwÑhlten Egno dem Stift Neustift
+eine halbe Hube in BernhardspÅhl, Unfreie und vor seinem Tode noch 100 Pfund
+Veroneser, die er nach der Beilegung eines Zwistes mit seinen Verwandten fÅr
+seinen Verzicht auf das Erbe erhalten hatte.
+F$FRA II 76/209/154f/154
+G$Friedrich/Genannter/Gais/Gais//n.Bruneck/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$per eum nobis accesserunt C libras Veron(ensium)
+B$Zur Datierung dient die ErwÑhnung Egnos als ErwÑhlter, 1247 nennt er sich zum
+erstenmal Bischof (Sinnacher IV, 358). BernhardspÅhl wurde bereits von Battisti
+mit dem Hof Bernhard in Percha identifiziert (DTA II|2 Nr. 5499). (FRA II 76 S.
+154)
+
+REG$Rudolf jun. von Resen versprach, Domherr Friedrich von Gais 100 Pfund
+fÅr dessen und seines Bruders Gottschalk Verzicht auf ihr Erbe zu zahlen mit
+Ausnahme des Hofes in BernhardspÅhl und einigen Unfreien.
+F$FRA II 76/209/154f/155
+G$Rudolf jun./Genannter/Rasen/Rasen/Resen/î.Bruneck/
+E$Friedrich/Genannter/Gais/Gais//n.Bruneck/
+H$Verzicht/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$promisit, quod daret domino Friderico C libras pro illa renuntiatione
+B$Zur Datierung dient die ErwÑhnung Egnos als ErwÑhlter, 1247 nennt er sich zum
+erstenmal Bischof (Sinnacher IV, 358). BernhardspÅhl wurde bereits von Battisti
+mit dem Hof Bernhard in Percha identifiziert (DTA II|2 Nr. 5499). (FRA II 76 S.
+154)
+
+REG$Domherr Friedrich von Gais schenkt durch den ErwÑhlten Egno dem Stift Neustift
+eine halbe Hube in BernhardspÅhl, Unfreie und vor seinem Tode noch 100 Pfund
+Veroneser, die er nach der Beilegung eines Zwistes mit seinen Verwandten fÅr
+seinen Verzicht auf das Erbe erhalten hatte.
+F$FRA II 76/209/154f/154
+G$Friedrich/Genannter/Gais/Gais//n.Bruneck/
+E$Heinrich/Propst/Neustift/Neustift//SÅdtirol/
+E$Nikolaus/Kellermeister/Neustift/Neustift//SÅdtirol/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$illas C libras \dots assignaret domino Hainr(ico) preposito Noucelle et
+Nycolao tunc cellerario
+B$Zur Datierung dient die ErwÑhnung Egnos als ErwÑhlter, 1247 nennt er sich zum
+erstenmal Bischof (Sinnacher IV, 358). BernhardspÅhl wurde bereits von Battisti
+mit dem Hof Bernhard in Percha identifiziert (DTA II|2 Nr. 5499). (FRA II 76 S.
+154)
+
+DOK$FRAII76_212/1240.0.0/1250.0.0/(ca. 1240 - ca. 1250)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Frau Mathilde von Mittersill, Schwester Reimberts von Vîls, schenkt Neustift
+das Weingut Miol (bei Vîls) unter der Bedingung des RÅckkaufrechtes fÅr ihren
+Bruder und seine Erben.
+
+REG$Frau Mathilde von Mittersill, Schwester Reimberts von Vîls, schenkt Neustift
+das Weingut Miol (bei Vîls) unter der Bedingung, da· ihr Bruder und seine
+Erben das Recht haben, es gegen 20 Talent Regensburger zurÅckzukaufen.
+F$FRA II 76/212/156/156
+G$Reimbert/Genannter/Vîls/Vîls//am Schlern/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$RÅckkauf/Immobilien_Weingut/Vîls Miol/Vîls,Miol//Hof in Vîls a.Schlern/
+W$Regensburg/X/
+O$20/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solverent dictam curiam pro XX talentis Ratisponensium
+B$Vgl. MG N\`ecr. III, 46. Datierung nach den Zeugen. Das Gut Miol oder Miliol
+fÅhrt Tarneller im Prîsler Ried bei Vîls an.
+
+DOK$FRAII76_215/1240.0.0/1250.0.0/(ca. 1240 - ca. 1250)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Konrad von Pflangen schenkt Neustift einen Acker ebenda durch Reimbert und
+Eckhart von Garnstein unter Vorbehalt lebenslÑnglicher Nutzung gegen einen
+jÑhrlichen Zins von 5 Schillingen Veroneser.
+
+REG$Konrad von Pflangen schenkt Neustift einen Acker ebenda durch Reimbert und
+Eckhart von Garnstein unter Vorbehalt lebenslÑnglicher Nutzung gegen einen
+jÑhrlichen Zins von 5 Schillingen Veroneser.
+F$FRA II 76/215/158/158
+G$Konrad/Genannter/Pichlerni.Pustertal Pflangerhof/Pichlern,Pflangerhof/Pflangen/Hof
+i.Pichlern i.Pustertal/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Pichlerni.Pustertal Pflangerhof/Pichlern,Pflangerhof/Pflangen/Hof
+i.Pichlern i.Pustertal/
+W$Verona/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$pro censu det V solidos Ver(onensium)
+B$Pflangen, das nach den Zeugen im Pustertal liegen mu·, ist wahrscheinlich mit
+dem Pflangerhof in Pichlern zu identifizieren. (vgl. DTA II|2 Nr. 8770). (FRA II
+76 S. 158)
+
+DOK$FRAII76_217/1245.0.0/1255.0.0/(ca. 1245 - ca. 1255)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Konrad Vehter von Schabs entsagt gegen eine GeldentschÑdigung seinen
+AnsprÅchen auf einen Hof in Schabs zugunsten Neustifts, ferner verkauft er an
+Neustift einen oberhalb dieses Hofes gelegenen kleinen Hof um drei·ig Pfund
+Veroneser.
+
+REG$Konrad Vehter von Schabs entsagt gegen eine GeldentschÑdigung seinen
+AnsprÅchen auf einen Hof in Schabs zugunsten Neustifts, ferner verkauft er an
+Neustift einen oberhalb dieses Hofes gelegenen kleinen Hof um drei·ig Pfund
+Veroneser.
+F$FRA II 76/217/159/159
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Konrad Vehter/Genannter/Schabs/Schabs//b.MÅhlbach/
+H$Kauf/Immobilien/Schabs/Schabs//b.MÅhlbach/
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXX libras Ver(onensium)
+B$Datierung nach Zeugen und Stellung. Zu den Hîfen vgl. Mader, Pfarr-Gem. Natz
+S. 108 Nr. 745 und S. 110 Nr. 780. (FRA II 76 S. 159)
+
+DOK$FRAII76_218/1246.4.30/1246.4.30/1246 April 30/anno domini MCCXLVI. in vigilia
+apostolorum Philippi et Iacobi/Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser. Neustift gibt auf Anweisung der beiden
+Hutter die Kaufsumme an verschiedene Personen aus.
+
+REG$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser an das Stift Neustift.
+F$FRA II 76/218/160f/160
+G$Egno/ErwÑhlter/Brixen/Brixen//SÅdtirol/
+E$Friedrich Hutter/X/X/X//
+E$Friedrich Hutter/Eigenmann/Heimfels/Heimfels?//b.Sillian/
+H$Kauf/Immobilien/Weitental Pfurns/Weitental,Pfurns//Hof in Weitental
+b.Brixen(n.Seitental
+d.Pustertals bei Vintl,Nieder mÅndend) oderWellschellenb.Bruneck
+W$Verona/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXV marcis Veron(ensium) comparavimus
+B$Im Urbar von 1440, fol. 49r, wird der Hof nÑher Curia Phurns alias Oedhuben in
+Weitertal identifiziert. (FRA II 76 S. 160)
+
+REG$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser, welche Propst Heinrich, Kellermeister
+Konrad und die Mînche von Neustift bezahlten.
+F$FRA II 76/218/160f/160
+F$FRA II 77/049/92f/93
+G$Heinrich/Propst/Neustift/Neustift//SÅdtirol/
+G$Konrad/Kellermeister/Neustift/Neustift//SÅdtirol/
+G$X/Mînche/Neustift/Neustift//SÅdtirol/
+E$Friedrich Hutter/X/X/X//
+E$Friedrich Hutter/Eigenmann/Heimfels/Heimfels?//b.Sillian/
+H$Kauf/Immobilien/Weitental Pfurns/Weitental,Pfurns//Hof in Weitental/
+W$Verona/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXV marcis Veron(ensium), quas \dots persolverunt
+B$Im Urbar von 1440, fol. 49r, wird der Hof nÑher Curia Phurns alias Oedhuben in
+Weitertal identifiziert. (FRA II 76 S. 160)
+
+REG$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser. Neustift gibt auf Anweisung der beiden
+Hutter die Kaufsumme an verschiedene Personen aus, so 14 Mark an Wilhelm.
+F$FRA II 76/218/160f/161
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Wilhelm/X/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Wilhelmo XIIII marcas
+B$Im Urbar von 1440, fol. 49r, wird der Hof nÑher Curia Phurns alias Oedhuben in
+Weitertal identifiziert. (FRA II 76 S. 160)
+
+REG$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser. Neustift gibt auf Anweisung der beiden
+Hutter die Kaufsumme an verschiedene Personen aus, so 7 Mark an Ulschalk.
+F$FRA II 76/218/160f/161
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Ulschalk/X/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$7/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Vlscalco VII marcas
+B$Im Urbar von 1440, fol. 49r, wird der Hof nÑher Curia Phurns alias Oedhuben in
+Weitertal identifiziert. (FRA II 76 S. 160)
+
+REG$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser. Neustift gibt auf Anweisung der beiden
+Hutter die Kaufsumme an verschiedene Personen aus, so eine Mark an Jakob.
+F$FRA II 76/218/160f/161
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Jakob/X/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Iacobo marcam unam
+B$Im Urbar von 1440, fol. 49r, wird der Hof nÑher Curia Phurns alias Oedhuben in
+Weitertal identifiziert. (FRA II 76 S. 160)
+
+REG$Der (ErwÑhlte) Egno von Brixen bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch Friedrich Hutter und seinen gleichnamigen Vetter, Eigenmann Otto
+Welfs von Heimfels, um 25 Mark Veroneser. Neustift gibt auf Anweisung der beiden
+Hutter die Kaufsumme an verschiedene Personen aus, so an Konrad von Wessingen
+drei Mark.
+F$FRA II 76/218/160f/161
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Konrad/Genannter/Issing/Issing(Wessingen)/Wessingen/viell.Issing b.Bruneck/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Cunrado de Wessingen III marcas
+B$Im Urbar von 1440, fol. 49r, wird der Hof nÑher Curia Phurns alias Oedhuben in
+Weitertal identifiziert. (FRA II 76 S. 160)
+
+DOK$FRAII76_219/1246.0.0/1246.0.0/(1246)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Otto Welf von Heimfels (bei Sillian) bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch seinen Eigenmann Friedrich Hutter.
+
+REG$Otto Welf von Heimfels (bei Sillian) bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch seinen Eigenmann Friedrich Hutter um 25 Mark Veroneser.
+F$FRA II 76/219/161f/161
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Friedrich Hutter/X/X/X//
+H$BestÑtigung_Kauf/Immobilien/Weitental Pfurns/Weitental,Pfurns//Hof in
+Weitental/
+W$Verona/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXV marcis Veron(ensium) comparaverunt
+B$Die Datierung ergibt sich aus n. 218. (FRA II 76 S. 161)
+
+REG$Otto Welf von Heimfels (bei Sillian) bestÑtigt den Verkauf des Gutes Pfurns in
+Weitental durch seinen Eigenmann Friedrich Hutter um 25 Mark Veroneser.
+F$FRA II 76/219/161f/161
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Friedrich Hutter/X/X/X//
+H$BestÑtigung_Kauf/Immobilien/Weitental Pfurns/Weitental,Pfurns//Hof in
+Weitental/
+W$Verona/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$contulit \dots pro summa XXV marcarum Veron(ensium)
+B$Die Datierung ergibt sich aus n. 218. (FRA II 76 S. 161)
+
+DOK$FRAII76_221/1250.0.0/1250.0.0/(um 1250)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Herr Heinrich von Trens hat von Neustift ein Joch Ackerland in Ritzeil
+(Fraktion von Mauls) und zinst davon jÑhrlich 1 Pfund Veroneser und alle fÅnf
+Jahre eine Kuh.
+
+REG$Herr Heinrich von Trens hat von Neustift ein Joch Ackerland in Ritzeil
+(Fraktion von Mauls) und zinst davon jÑhrlich 1 Pfund Veroneser und alle fÅnf
+Jahre eine Kuh.
+F$FRA II 76/221/162f/163
+G$Heinrich/Genannter/Trens/Trens//b.Sterzing/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Ritzeil/Ritzeil//Fraktion v.Mauls i.Wipptal/
+W$Verona/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unde ipse persolvit annuatim libram Veron(ensium)
+
+DOK$FRAII77_017/1225.0.0/1245.0.0/(1225 - 1245, vor 1230 ?)/X/Neustift/(Neustift)//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Propst Heinrich II. von Neustift verleiht dem Ritter Wezlo zwei GÅter in Olang
+gegen festgesetzten Zins und sichert das beiderseitige RÅcktrittsrecht.
+
+REG$Propst Heinrich II. von Neustift verleiht dem Ritter Wezlo zwei GÅter in Olang
+gegen festgesetzten Zins von unter anderem 5 Pfund Veronesern.
+F$FRA II 77/017/57/57
+G$Wezlo/Ritter/X/X//
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zins/Immobilien/Olang/Olang//î.Bruneck/
+W$Verona/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$inde persolvat V libras Veronensium
+B$Innerhalb der Regierungsdaten des Propstes (1225 - 1247) lassen sich die
+Termini der Datierung einschrÑnken. Ulrich von Schalders, der au·er hier zuerst
+1239 vorkommt (vgl. Giner, Chorherrenverzeichnis S. 6), wird 1245 bereits Kustos
+genannt (n. 47). Scholaster Konrad kommt hier ab 1227 (n. 21) bis 1240 (vgl.
+Einleitung S. 22) vor. Die hier festgelegte RÅcktrittspflicht des Belehnten fÅr
+den Fall, da· der GÅtertausch Olang-Lengstein von 1221 (vgl. n. 15) rÅckgÑngig
+gemacht wÅrde, lÑ·t andererseits vermuten, da· er noch nicht sehr weit
+zurÅckliege. (FRA II 77 S. 57)
+
+DOK$FRAII77_024/1228.3.20/1230.0.0/(1228 nach MÑrz 19 - 1230/X/Brixen/(Brixen)//SÅdtirol/
+S$X/X/Berthold
+V$X/X/X
+K$Bischof Heinrich IV. von Brixen beurkundet, da· Wilhelm von Natz vor seiner
+Reise in das Heilige Land dem Stift Neustift ein Gut in Meransen fÅr 105 Pfund
+Berner verkauft hat.
+
+REG$Bischof Heinrich IV. von Brixen beurkundet, da· Wilhelm von Natz vor seiner
+Reise in das Heilige Land dem Stift Neustift ein Gut in Meransen fÅr 105 Pfund
+Berner verkauft hat.
+F$FRA II 77/024/63f/63
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Wilhelm/Genannter/Natz/Natz//n.Brixen/
+H$Kauf/Immobilien/Meransen/Meransen//n.MÅhlbach/
+W$Verona/X/
+O$105/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$tradidit \dots pro C et V libris Veronensium
+B$Zur Datierung: Heinrich wure 1228 MÑrz 19. zum Bischof geweiht, obwohl gerade
+bei ihm die Unterscheidung von Bischof und Elekt nicht genau genommen wird (vgl.
+UBrix 1, n. 69), ist hier die Weihe als t. p. q. anzusehen, da Heinrich mit dem
+Thronsiegel siegelt, mit einem Aufbruch zu dem 1228 defacto begonnenen 5.
+Kreuzzug ist nach 1230 (RÅckkehr bzw. Bannlîsung Friedrichs II.) nicht mehr zu
+rechnen. Vgl. auch die ca. 1228 -1230 zu datierende Notiz im Traditionsbuch fol.
+30r (Druck Mairhofer n. 198, Wagner n. 168, Schrott n. 170) mit erweiterter
+Zeugenreihe.
+TUB 2 Nr. 896 S. 305 datiert (1228 nach MÑrz 19 - 1233) nach der Stellung im
+Codex.
+
+DOK$FRAII77_029/1232.3.21/1232.3.21/1232 MÑrz 21/Anno a nativitate domini nostri Iesu Christi
+MCCXXXII., indictione quinta, die dominico XI. exeunte martio/Bozen/Bozen//SÅdtirol/
+S$Montanarius/kaiserl. Notar/Montanarius
+V$Montanarius/kaiserl. Notar/Montanarius
+K$Konrad M\v{o}hardus schenkt dem Stift Neustift zu Handen des Kellermeisters
+Nikolaus ein GrundstÅck, das er selbst von Konrad von Greiffenstein zu Lehen
+hatte. Dieser verkauft seine Rechte an dem GrundstÅck dem Stift fÅr zwîlf Pfund
+Berner.
+
+REG$Konrad M\v{o}hardus schenkt dem Stift Neustift zu Handen des Kellermeisters
+Nikolaus ein GrundstÅck, das er selbst von Konrad von Greiffenstein zu Lehen
+hatte. Dieser bzw. dessen Bruder Heinrich verkauft seine Rechte an dem
+GrundstÅck dem Stift fÅr zwîlf Pfund Berner.
+F$FRA II 77/029/69f/69
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Heinrich/Genannter/Greifenstein/Greifenstein//Schlo· oberh.Terlan/
+H$Kauf/Immobilien/Vîls/Vîls?//a.Schlern/
+H$Kauf?/Allod/Vîls/Vîls//a.Schlern/
+W$Verona/X/
+O$12/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XII libris den(ariorum) Veronensium iure venditionis ad proprium pro
+libero et expedito allodio investivit
+
+DOK$FRAII77_033/1234.12.20/1234.12.20/1234 Dezember 20/anno domini MCCXXXIIII., in vigilia
+sancti Thome apostoli/Elvas/Elvas//n.Brixen/
+S$X/X/X
+V$X/X/X
+K$Albero, magister hospitum des Stiftes Neustift, berichtet, da· er von Aldrian
+einen Acker in Elvas durch Vermittlung Heinrichs, des Offizials Arnolds von
+Rodeneck zu Ras, gekauft und dem Stifte Neustift Åbergeben habe, und da· die
+Streitigkeiten mit den Tîchtern des VerkÑufers beigelegt wurden.
+
+REG$Albero, magister hospitum des Stiftes Neustift, berichtet, da· er von Aldrian
+einen Acker in Elvas durch Vermittlung Heinrichs, des Offizials Arnolds von
+Rodeneck zu Ras, um 45 Pfund Veroneser gekauft und dem Stifte Neustift Åbergeben
+habe.
+F$FRA II 77/033/73f/73
+G$Albero/magister hospitum/Neustift/Neustift//SÅdtirol/
+E$Aldrian/X/X/X//
+H$Kauf/Immobilien/Elvas/Elvas//n.Brixen/
+W$Verona/X/
+O$45/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$comparavi agrum \dots pro XLV libris Veronensium
+
+REG$Albero, magister hospitum des Stiftes Neustift, berichtet, da· er von Aldrian
+einen Acker in Elvas durch Vermittlung Heinrichs, des Offizials Arnolds von
+Rodeneck zu Ras, um 45 Pfund Veroneser gekauft und dem Stifte Neustift Åbergeben
+habe.
+F$FRA II 77/033/73f/73
+G$Albero/magister hospitum/Neustift/Neustift//SÅdtirol/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Elvas/Elvas//n.Brixen/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$sub pensione V solidorum exinde annuatim in cena domini tam a me quam
+heredibus meis in perpetuam persolvendorum
+
+DOK$FRAII77_046/1242.4.2/1242.4.2/1242 April 2/anno dominice incarnationis MCCXLII., die
+secunda intrante aprili/Lienz Patriasdorf/Lienz,Patriasdorf//Osttirol,b.Lienz/
+S$X/X/X
+V$X/X/X
+K$Perchtold aus Namlach, genannt Lantp\^{o}t verkauft zusammen mit seinem Sohne
+vor dem Kastellan Heinrich und dem Richter Ernst von Lienz dem Stifte Neustift,
+welches durch den Kellermeister Nikolaus vertreten ist, um 19 Pfund und 5
+Schilling Berner ein Gut bei Namlach im Mîlltal.
+
+REG$Perchtold aus Namlach, genannt Lantp\^{o}t verkauft zusammen mit seinem Sohne
+vor dem Kastellan Heinrich und dem Richter Ernst von Lienz dem Stifte Neustift,
+welches durch den Kellermeister Nikolaus vertreten ist, um 19 Pfund und 5
+Schilling Berner ein Gut bei Namlach im Mîlltal.
+F$FRA II 77/046/87/87
+G$Nikolaus/Kellermeister/Neustift/Neustift//SÅdtirol/
+E$Berthold, genannt Lantp\^{o}t/Genannter/Winklern
+Namlach/Winklern (Namlach)//G.Winklern i.Mîlltal/
+H$BestÑtigung_Verkauf/Immobilien/Winklern Namlach/Winklern,Namlach//G.Winklern
+i.Mîlltal/
+W$Verona/X/
+O$19/lib./X
+Z$5/sol./X
+M$X/X/X/A
+Q$se XVIIII libras et V solidos Veronensium \dots recepisse
+
+DOK$FRAII77_047/1245.3.8/1245.3.8/1245 (MÑrz) 8/anno MCCXLV., indictione tercia, die Iovis,
+XI. intrante marcio/Bozen u. Gries/Bozen u. Gries//SÅdtirol    wie??
+S$Jakob Haas/kaiserl. Notar/Jakob Haas
+V$Jakob Haas/kaiserl. Notar/Jakob Haas
+K$Eberhard Penne Åbergibt einen Weingarten beim Truinerhof bei Bozen, den ein
+gewisser Albert bearbeitet, dem Heinrich Hader, von dem er ihn zu Lehen hatte,
+zurÅck und dieser gibt ihn dem Kolonen Sigelochus zur Leihe, damit er ihn fÅr
+das Stift Neustift bearbeite, welches dem Heinrich Hader dafÅr durch den Kustos
+Ulrich sechzehn Pfund Berner bezahlt.
+Sigelochus gibt den Weingarten zurÅck und Heinrich Hader gibt ihn seinen
+Lehensherren Gottschalk von Gries und Arnold von Forst, die durch Gottschalks
+Sohn Ulrich vertreten sind.
+Ulrich Åbergibt seinem Vater Gottschalk und seinem Onkel Arnold den Weingarten
+und diese schenken ihn zu Handen des Kustos Ulrich dem Stifte Neustift. Der
+Notar Jakob Haas Åbergibt schlie·lich das GrundstÅck.
+
+REG$Eberhard Penne Åbergibt einen Weingarten beim Truinerhof bei Bozen
+dem Heinrich Hader, von dem er ihn zu Lehen hatte,
+zurÅck und dieser gibt ihn dem Kolonen Sigelochus zur Leihe, damit er ihn fÅr
+das Stift Neustift bearbeite, welches dem Heinrich Hader und dem Egerhard dafÅr
+durch den Kustos Ulrich sechzehn Pfund Berner Pfennige bezahlt.
+F$FRA II 77/047/88ff/89
+G$Ulrich/Kustos/Neustift/Neustift//SÅdtirol/
+E$Eberhard Penne/X/X/X//
+E$Heinrich Hader/X/X/X//
+H$Verzicht;Belehnung/Immobilien_Weingarten/Bozen/Bozen,beim Truinerhof//SÅdtirol/
+W$Verona/X/
+O$16/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$confessi se accepisse pro resignacione dicti feudi et pro infeudatura dicti
+feudi \dots XVI libras denariorum Veronensium
+
+REG$Ulrich Åbergibt seinem Vater Gottschalk und seinem Onkel Arnold den Weingarten
+beim Truinerhof bei Bozen und diese schenken ihn zu Handen des Kustos Ulrich dem
+Stifte Neustift. Der Notar Jakob Haas Åbergibt schlie·lich das GrundstÅck.
+Die Beteiligten verzichten ausdrÅcklich auf die Anwendung der Wertgrenze der
+Insinuatio in der Hîhe von 500 GoldstÅcken.
+F$FRA II 77/047/88ff/91
+G$Gottschalk/Genannter/Gries/Gries//SÅdtirol,b.Bozen/
+G$Arnold/Genannter/Girlan Forst/Girlan (Forst)//Flur i.Girlan/
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Wertgrenze/Insinuation/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$500/aureus/X/A
+Q$Et renuncians dicti domini fratres donatores illi iuri, quod donacio illa
+ultra quingentos aureos sine insinuacione facta valere non posse
+
+DOK$FRAII77_048/1246.1.1/1246.4.29/1246 (vor April 30)/X/X/X//
+S$X/X/Jakob
+V$X/X/X
+K$Otto Welf von Heimfels erlaubt seinem Eigenmann Friedrich Hutter, das Gut
+Pfurns (jetzt Edenhuber) im Weitental als SeelgerÑt fÅr dessen Vater dem Stift
+Neustift zu verkaufen.
+
+REG$Otto Welf von Heimfels erlaubt seinem Eigenmann Friedrich Hutter, das Gut
+Pfurns (jetzt Edenhuber) im Weitental als SeelgerÑt fÅr dessen Vater dem Stift
+Neustift fÅr 25 Mark Silber Veroneser zu verkaufen.
+F$FRA II 77/048/91f/92
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Friedrich Hutter/X/X/X//
+H$BestÑtigung_Kauf/Immobilien/Weitental Pfurns/Weitental,Pfurns//Hof in
+Weitental/
+W$Verona/X
+O$25/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$contulit \dots pro summa XXV marcarum argenti Veronensium
+B$FRAII 76 Nr. 219 S. 161f quasi inseriert.
+
+DOK$FRAII77_050/1249.0.0/1249.0.0/1249/anno domini
+MCCXLVIIII./Raas/Raas,bei//SÅdtirol,n.Brixen/
+S$X/X/X
+V$X/X/X
+K$Ulrich von Schalders, Kustos von Neustift kauft in Gegenwart von Propst Konrad
+III. einen Acker bei Schabs um 20 Pfund Berner von Jakob aus Vals und bestimmt
+dessen ErtrÑgnis fÅr die Kustodie von Neustift. Es siegelt Arnold IV. von
+Rodeneck.
+
+REG$Ulrich von Schalders, Kustos von Neustift kauft in Gegenwart von Propst Konrad
+III. einen Acker bei Schabs um 20 Pfund Berner von Jakob aus Vals und bestimmt
+dessen ErtrÑgnis fÅr die Kustodie von Neustift.
+F$FRA II 77/050/93f/94
+G$Ulrich/Kustos/Neustift/Neustift//SÅdtirol/
+E$Jakob/Genannter/Vals/Vals//Tal u.Dorf b.MÅhlbach/
+H$Kauf/Immobilien/Schabs/Schabs//b.MÅhlbach/
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$comparavi \dots pro XX libris Veronensium parvorum denariorum
+
+DOK$FRAII77_051/1249.3.29/1249.3.29/1249 MÑrz 29/Anno domini MCCXLVIIII., indictione septima,
+die lune tercio exeunte marcio/Bozen/Bozen//SÅdtirol/
+S$Konrad/kaiserl. Notar/Konrad
+V$Konrad/kaiserl. Notar/Konrad
+K$Simon, der Bruder des Eyramus, vermacht seiner Frau Eyta testamentarisch einen
+Acker in Dorf bei Bozen, mit der Auflage, fÅr ihn zu Martini einen Jahrtag zu
+halten. Er bestimmt schlie·lich die Rechtsfolgen bei Nichteinhalten dieser
+Auflage.
+
+REG$Simon, der Bruder des Eyramus, vermacht seiner Frau Eyta testamentarisch einen
+Acker in Dorf bei Bozen, mit der Auflage, fÅr ihn zu Martini einen Jahrtag in
+der Hîhe von 8 Pfund kleiner Veroneser zu halten.
+F$FRA II 77/051/94f/95
+G$Eyta/X/X/X//
+E$X/Stift/Neustift/Neustift//SÅdtirol/
+H$Anniversar/Anniversar/Neustift/Neustift//SÅdtirol/
+W$Verona/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$debeat dare octo libras Veronensium parvorum
+
+DOK$FRAII77_052/1250.8.22/1250.8.22/1250 August 22/anno domini MCCL. proxima feria II. post
+assumptionem sancte Marie/St.Georgen_n.Bruneck i.Pustertal/St. Georg
+i.Pustertal//Tirol/
+S$X/X/X
+V$X/X/X
+K$Der Streit zwischen dem Stift Neustift und den BrÅdern Rupert, Albert und
+Ulschalk Mausaug wegen des Hofes Pundleider bei Gra·stein wird beigelegt, indem
+das Stift den BrÅdern 60 Pfund Berner bezahlt, die dafÅr auf ihre AnsprÅche
+verzichten. Ulrich von Taufers Åbernimmt die BÅrgschaft.
+
+REG$Der Streit zwischen dem Stift Neustift und den BrÅdern Rupert, Albert und
+Ulschalk Mausaug wegen des Hofes Pundleider bei Gra·stein wird beigelegt, indem
+das Stift den BrÅdern 60 Pfund Berner bezahlt, die dafÅr auf ihre AnsprÅche
+verzichten.
+F$FRA II 77/052/95f/96
+G$X/Stift/Neustift/Neustift//SÅdtirol/
+E$Rupert Mausaug/X/X/X//
+H$Verzicht/Immobilien/Pundleideralm b.Gra·stein/Pundleideralm b.Gra·stein//i.oberen Eisacktal/
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$LX libras Veronensium persolvit
+
+DOK$TGQU27_006**/1158.7.10/1158.7.10/1158 Juli 10/Anno incarnationis MCLVIII., regnante domno
+nostro Friderico anno VII. data VI. idus
+Iulii/Tirol_Dorf/Tirol//SÅdtirol,b.Meran/
+S$Vitus/X/Vitus
+V$X/X/X
+K$Genannte Leute aus Dorf Tirol vertauschen und schenken dem Benediktinerkloster
+St. Georgenberg nÑher bezeichnete GÅter ebendort.
+
+REG$Erkenbold aus Tirol schenkt mit Zustimmung seiner Frau und Kinder einen
+Weingarten im Dorf Tirol an einem Ort, der "Valorci" genannt wird. DafÅr geben
+Abt Eberhard und dessen MitbrÅder vom Benediktinerkloster St. Georgenberg ihm
+und seinen Kindern ein gutes Pferdegespann im Wert von 2 Pfund Regensburger und
+2 Pfund in barer MÅnze.
+F$TGQU 27 Fiecht/006**/7f/7
+F$TUB 1/264/118f/118
+G$Eberhard/Abt/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Erkenbold/Genannter/Tirol_Dorf/Tirol//SÅdtirol,b.Meran/
+H$Wertangabe/Mobilien/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$bonum palafredum valens duarum librarum Ratisp(onensis) monet\c{e} et II
+libras monetatas
+
+REG$Erkenbold aus Tirol schenkt mit Zustimmung seiner Frau und Kinder einen
+Weingarten im Dorf Tirol an einem Ort, der "Valorci" genannt wird. DafÅr geben
+Abt Eberhard und dessen MitbrÅder vom Benediktinerkloster St. Georgenberg ihm
+und seinen Kindern ein gutes Pferdegespann im Wert von 2 Pfund Regensburger und
+2 Pfund in barer MÅnze.
+F$TGQU 27 Fiecht/006**/7f/7
+F$TUB 1/264/118f/118
+G$Eberhard/Abt/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Erkenbold/Genannter/Tirol_Dorf/Tirol//SÅdtirol,b.Meran/
+W$X/X/
+O$2/lib./monetata/
+Z$X/X/X
+M$X/X/X/A
+Q$bonum palafredum valens duarum librarum Ratisp(onensis) monet\c{e} et II
+libras monetatas
+
+REG$Ortolf, der am Friedhof von St. Georgenberg begraben ist, gab einen Weingarten
+im Dorf Tirol an einem Ort, der "ad Lungaruno" genannt wird, so, wie er ihn
+als Pfand fÅr 1 Pfund Regensburger MÅnze innehatte.
+F$TGQU 27 Fiecht/006**/7f/7
+F$TUB 1/264/118f/119
+G$Ortolf/X/X/X//
+E$X/X/X/X//
+H$PfandgeschÑft/Immobilien_Weingarten/Tirol_Dorf/Tirol_Dorf/Tirol/SÅdtirol,b.Meran/
+W$Regensburg/moneta/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ipse habuit eam in pignore pro libra una Ratisp(onensis) monet\c{e}
+
+DOK$TGQU27_006a*****/1164.1.1/1164.3.8/1164 (vor MÑrz 9)/Anno MCLXIIII. indictione
+XII., regnante domino nostro rege Friderico anno XII./Riffian/Riffian//n.Meran/
+S$Wecil/X/Wecil
+V$X/X/X
+K$Rapoto von Riffian verkauft dem Benediktinerkloster St. Georgenberg einen
+Weingarten ebendort.
+
+REG$Kanzler Hecil (von Tirol) bestÑtigt diese Urkunde, in der Rapoto aus Riffian
+den BrÅdern von St. Georgenberg einen Weingarten in "Campo Plano" (Flur im
+Gebiet von Riffian) verkauft, wofÅr ihm diese ein Buch im Wert von einem Pfund
+Regensburger Pfennige geben.
+F$TGQU 27 Fiecht/006a*****/9f/9
+F$TUB 1/292/137/137
+G$X/Abtei/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Rapoto/Genannter/Riffian/Riffian//n.Meran/
+H$Wertangabe/Mobilien_Buch/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$1/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$unum librum valentem unam libram denariorum Radispon(ensis) monete
+
+REG$Kanzler Hecil (von Tirol) bestÑtigt diese Urkunde, in der Rapoto aus Riffian
+den BrÅdern von St. Georgenberg einen Weingarten in "Campo Plano" (Flur im
+Gebiet von Riffian) verkauft, wofÅr ihm diese ein Buch im Wert von einem Pfund
+Regensburger Pfennige geben. Als Pîn werden drei Unzen Gold festgelegt.
+F$TGQU 27 Fiecht/006a*****/9f/9
+F$TUB 1/292/137/137
+G$X/X/X/X//
+E$Rapoto/Genannter/Riffian/Riffian//n.Meran   ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$solvat uncias auri III
+
+DOK$TGQU27_007*/1170.1.28/1170.1.28/1170 JÑnner 28/MCLXX. die Mercurii V. kalendas
+Februarii/Trient/Trient//SÅdtirol/
+S$Malwarnitus/kaiserl. Notar/Malwarnitus
+V$Malwarnitus/kaiserl. Notar/Malwarnitus
+K$Abt Lanfrancus vom Kloster St. Laurentius in Trient und der dortige Prior
+Roger setzen mit Zustimmung von Bischof Albert II. von Trient und durch die
+Hand des diese Einsetzung bestÑtigenden Notars Malwarnitus den Konrad als
+Gesandten des Abtes Eberhard von St. Georgenberg im Inntal in den Besitz eines
+Drittels von einer Hube ein, die der verstorbene Sigpandus fÅr sein Seelenheil
+hinterlie·. Der Gesandte Konrad verspricht Abt Lanfrancus dafÅr 6 Pfund Pfennig
+Regensburger.
+
+REG$Abt Lanfrancus vom Kloster St. Laurentius in Trient und der dortige Prior
+Roger setzen mit Zustimmung von Bischof Albert II. von Trient und durch die
+Hand des diese Einsetzung bestÑtigenden Notars Malwarnitus den Konrad als
+Gesandten des Abtes Eberhard von St. Georgenberg im Inntal in den Besitz eines
+Drittels von einer Hube ein, die der verstorbene Sigpandus fÅr sein Seelenheil
+hinterlie·. Der Gesandte Konrad verspricht Abt Lanfrancus dafÅr 6 Pfund Pfennig
+Regensburger.
+F$TGQU 27 Fiecht/007*/10f/11
+G$Konrad/X/X/X//
+E$Lanfrancus/Abt/Trient/Trient,St.Laurentius//SÅdtirol/
+H$Belehnung?/Immobilien/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$6/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$TGQU27_010/1196.1.13/1196.1.13/1196 JÑnner 13/MCXCVI. in octava Epiphanie Domini/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich III. von Brixen erklÑrt, da· Otto, Edler von Nassenfu· durch
+des Bischofs Hand dem Abt Friedrich und den BrÅdern von St. Georgenberg die
+Erlaubnis und Zustimmung gab, da· er (Otto) selbst einen Teil seines Lehens,
+welches er von der Hand des Bischofs hat, nÑmlich einen Meierhof in Kolsa·, drei
+auf dem Berg gelegene Hîfe und Zehente von NeubrÅchen, durch des Bischofs Hand
+dem Kloster Åbertrage oder vom vÑterlichen Erbe einen Betrag von 5 Regensburger
+Talent zubillige. Im Fall eines mÑnnlichen Nachkommen sei es diesem
+freigestellt, das eine oder das andere zu tun. Er (Otto) verspricht, da· bis zu
+einem Jahr ab Ostern gerechnet das öbereinkommen durchgefÅhrt sei und inzwischen
+den KlosterbrÅdern der Zins des Lehens zuflie·e.
+
+REG$Bischof Heinrich III. von Brixen erklÑrt, da· Otto, Edler von Nassenfu· mit
+seiner Erlaubnis einen Teil seines Lehens, welches er von ihm hat, nÑmlich einen
+Meierhof in Kolsa·, drei auf dem Berg gelegene Hîfe und Zehente von NeubrÅchen,
+dem Abt Friedrich und den BrÅdern von St. Georgenberg Åbertrage oder vom
+vÑterlichen Erbe einen Betrag von 5 Regensburger Talent zubillige. Im Fall eines
+mÑnnlichen Nachkommen sei es diesem freigestellt, das eine oder das andere zu
+tun.
+F$TGQU 27 Fiecht/010/13f/13
+G$Otto/Edler/Nassenfuss/Nassenfu·//Krain,a.Gurkfeld/
+E$X/Abtei/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+H$öbergabe/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$TGQU27_011/1201.3.4/1201.3.4/1201 MÑrz 4/Anno dominice gloriosisime nativitatis MCCI.
+indictione quarta, die quarto intrante marcio/Bozen/Bozen//SÅdtirol/
+S$Salomon/kaiserl. Notar/Salomon
+V$Salomon/kaiserl. Notar/Salomon
+K$Die BrÅder Konrad und Kadelhoch von Weineck verzichten gegenÅber dem
+Benediktinerkloster St. Georgenberg im Inntal auf ihre AnsprÅche an einem Hof im
+Dorf zu Bozen (samt den Kindern des Baumannes) und auf ein GrundstÅck in Gries,
+das ihr Vater dem genannten Kloster Åbergeben hat.
+
+REG$Die BrÅder Konrad und Kadelhoch von Weineck verzichten gegenÅber dem
+Benediktinerkloster St. Georgenberg im Inntal auf ihre AnsprÅche an einem Hof im
+Dorf zu Bozen (samt den Kindern des Baumannes) und auf ein GrundstÅck in Gries,
+das ihr Vater dem genannten Kloster Åbergeben hat. Die beiden BrÅder bekennen
+schlie·lich, von Abt Konrad 60 Pfund Berner fÅr diesen GeschÑftsabschlu·
+erhalten zu haben.
+F$TGQU 27 Fiecht/011/14/14
+F$TUB 2/531/7f/8
+G$Konrad/Abt/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Konrad;Kadelhoch/Genannter/Bozen Weineck/Bozen,Weineck/Weineck/Bozen,Burg
+Åber d.Stadtteil Haslach/
+H$Verzicht/Immobilien/Bozen/Bozen//SÅdtirol/
+H$Verzicht/Immobilien/Bozen/Bozen,Gries/Gries/Stadtteil v.Bozen/
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$fuerunt confessi \dots se a predicto domino Conrado abbate LX libras
+denariorum Veronensium accepisse.
+
+DOK$TGQU27_011*/1201.3.6/1201.3.6/1201 MÑrz 6/MCCI. die VI. intrante Marcio/Bozen/Bozen//SÅdtirol/
+S$Salomon/kaiserl. Notar/Salomon
+V$Salomon/kaiserl. Notar/Salomon
+K$Adelheid von Gries und ihr Sohn Eberhard, die nach Rîmischem Recht leben,
+verkaufen mit Zustimmung und Willen von Rudiger, Ehemann der Adelheid, Dietrich,
+Siegfried und Engelmar, letztere Schwiegersîhne der Adelheid, dem Abt Konrad von
+St. Georgenberg und dem dortigen Mînch Rainer einen Acker mit Weinstîcken
+gelegen bei Bozen in der Gegend der Kirche zum hl. Jakob, die man Gries nennt.
+Die VerkÑufer bekennen, von Abt Konrad die Kaufsumme von 75 Pfund Berner
+erhalten zu haben.
+
+REG$Adelheid von Gries und ihr Sohn Eberhard verkaufen dem Abt Konrad von St.
+Georgenberg und dem dortigen Mînch Rainer einen Acker mit Weinstîcken gelegen
+bei Bozen in der Gegend der Kirche zum hl. Jakob, die man Gries nennt. Die
+VerkÑufer bekennen, von Abt Konrad die Kaufsumme von 75 Pfund Berner erhalten zu
+haben.
+F$TGQU 27 Fiecht/011*/14f/15
+G$Konrad/Abt/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Adelheid/Genannte/Bozen/Bozen,Gries/Gries/Stadtteil v.Bozen/
+E$Eberhard/Genannter/Bozen/Bozen,Gries/Gries/Stadtteil v.Bozen/
+H$Kauf/Immobilien/Bozen/Bozen,Gries b./Gries/Stadtteil v.Bozen/
+W$Verona/X/
+O$75/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$TGQU27_016/1212.0.0/1242.0.0/[1212 - 1242]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Wernher und der Konvent von St. Georgenberg verleihen ihrem Freund
+Berthold, Sohn des Herrn Erchinpold von Brixen, einen Garten in dieser Stadt
+nach dortigem Stadtrecht. DafÅr hat Berthold dem Propst von St. Georgenberg
+jÑhrlich ein Pfund Berner fÅr den Ankauf von ôl zu leisten.
+
+REG$Abt Wernher und der Konvent von St. Georgenberg verleihen ihrem Freund
+Berthold, Sohn des Herrn Erchinpold von Brixen, einen Garten in dieser Stadt
+nach dortigem Stadtrecht. DafÅr hat Berthold dem Propst von St. Georgenberg
+jÑhrlich ein Pfund Berner fÅr den Ankauf von ôl zu leisten.
+F$TGQU 27 Fiecht/016/19/19
+G$Berthold/Genannter/Brixen/Brixen//SÅdtirol/
+E$X/Propst/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+H$Zinsverpflichtung/Immobilien/Brixen/Brixen//SÅdtirol/
+W$Verona/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen. Datiert nach der Regierungszeit von Wernher von
+Tegernsee als Abt von St. Georgenberg (1212 -1242). (TGQU S. XV)
+
+DOK$TGQU27_017/1212.0.0/1242.0.0/1212 - 1242/X/Rottenburg/Rottenburg//Hîhenburg oberh.Maurach,G.Puch b.Jenbach,PB Schwaz/
+S$X/X/X
+V$X/X/X
+K$Der Edle Heinrich von Schînau, Ministeriale des Herzogs [Otto I. oder II.] von
+Meranien, schenkt zu seinem Seelenheil in Anwesenheit des Abtes Wernher von St.
+Georgenberg an den Altar des hl. Georg eine in seinem Eigentum befindliche Frau
+namens Adelheid samt ihrer Tochter "Juta" (oder:Luta). Dies wird ihm mit 8 Pfund
+Berner und einem Scheffel Weizen vergolten.
+
+REG$Der Edle Heinrich von Schînau, Ministeriale des Herzogs [Otto I. oder II.] von
+Meranien, schenkt zu seinem Seelenheil in Anwesenheit des Abtes Wernher von St.
+Georgenberg an den Altar des hl. Georg eine in seinem Eigentum befindliche Frau
+namens Adelheid samt ihrer Tochter "Juta" (oder:Luta). Dies wird ihm mit 8 Pfund
+Berner und einem Scheffel Weizen vergolten.
+F$TGQU 27 Fiecht/017/19/19
+G$X/Altar/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht,Hl.Georg/St.Georgenberg/i.Inntal b.Schwaz/
+E$Heinrich/Edler/Breitenbacha.Inn  Schînau/Breitenbach a.Inn, Schînau//wohl
+Fraktion d.G.Breitenbach a.Inn,PB Kufstein/
+H$Gegengeschenk/Unfreie/unbestimmt/unbestimmt//
+W$Verona/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen. Datiert nach der Regierungszeit von Wernher von
+Tegernsee als Abt von St. Georgenberg (1212 -1242). (TGQU S. XV)
+
+DOK$TGQU27_022/1223.3.4/1223.3.4/1223 MÑrz 4/anno domini MCCXXIII., indicione XI. die IIII.
+intrante Marcio/Bozen/Bozen//SÅdtirol/
+S$Pilgrim/kaiserl. Notar/Pilgrim
+V$Pilgrim/kaiserl. Notar/Pilgrim
+K$Albert und Engelmar von Prazîll verkaufen dem Benediktinerkloster St.
+Georgenberg ein GrundstÅck "Of der Ade" in Campoledro bei den Georgenberger
+GÅtern.
+
+REG$Albert und Engelmar von Prazîll verkaufen dem Reinbert, Kellner der Kirche
+von St. Georgenberg als Vertreter dieser Kirche ein GrundstÅck "Of der Ade" in
+Campoledro bei den Georgenberger GÅtern. Die VerkÑufer bekennen, von genannten
+Herrn Reinbert dafÅr 14 Pfund Berner empfangen zu haben.
+F$TGQU 27 Fiecht/022/21f/21
+F$TUB 2/814/236f/236
+G$Reinbert/Kellener/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Albert;Engelmar/Genannter/Bozen Prazîll/Bozen, Prazîll//ôrtlichkeit
+i.St.Magdalena,Ortsteil Stadtg.Bozen/
+H$Kauf/Immobilien/uSÅdtirol Campoledro ,of der Ade/SÅdtirol, Campoledro,of der
+Ade//s.Bozen/
+W$Verona/X/
+O$14/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$fuerunt confessi \dots se acepisse \dots nomine certi et feniti precii XIIII
+libras denariorum Veron(ensium)
+
+DOK$TGQU27_023/1223.5.24/1223.5.24/1223 Mai 24/anno domini MCCXXIII., indicione XI., die
+octavo exeunte Madio/Bozen/Bozen,Keller/Keller/Ñltester Teil des Stadtteils
+Gries,Bozen/
+S$Pilgrim/kaiserl. Notar/Pilgrim
+V$Pilgrim/kaiserl. Notar/Pilgrim
+K$Witego von Keller verkauft mit Willen seiner Anverwandten dem (Domherrn)
+Altmann (von Brixen) einen Weingarten zu Winkel.
+
+REG$Witego von Keller verkauft mit Willen seiner Anverwandten dem (Domherrn)
+Altmann (von Brixen) einen Weingarten zu Winkel. Die VerkÑufer bekennen, vom
+KÑufer 50 Pfund Berner erhalten zu haben.
+F$TGQU 27 Fiecht/023/22f/22
+F$TUB 2/819/238f/239
+G$Altmann/Genannter/Brixen/Brixen//SÅdtirol/
+E$Witego/Genannter/Bozen/Bozen,Keller/Keller/Ñltester Teil des
+Stadtteils Gries,Bozen/
+H$Kauf/Immobilien_Weingarten/Bozen/Bozen,Winkel/Winkel/abgek.Sitz i.Stadtteil Gries,Bozen/
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$fuerunt confessi et manifesti se acepisse a suprascripto emtore nomine certi
+et feniti precii L libras denariorum Veronensium
+
+DOK$TGQU27_024/1223.5.25/1223.5.31#?/Bald nach 1223 Mai 24/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Berthold I. von Brixen bekennt, da· ein Ministeriale der Brixener
+Kirche namens Engeldie Leute, die er von der Brixener Kirche zu Lehen gehabt
+hatte, zur Zeit des Bischof Heinrich [II. oder III. von Brixen] auf dessen Bitte
+hin dem Kloster St. Georgenberg, Brixener Diîzese gab. Um diese Leute wurde
+spÑter vor obengenannten Bischof Berthold zwischen dem Kloster und Herrn Ritter
+Gottschalk de Scesse ein Streit ausgetragen, weil jener behauptete, die Leute
+seien auf dem Erbweg an ihn Åbergegangen. Schlie·lich wurde auf Intervention des
+Propstes Winther [von Brixen], des Dekans H(einrich ?) [von Brixen] und des
+Brixener Kanonikers Altmann zwischen den beiden Streitparteien dahingehend
+Einigung erzielt, da· der Kellermeister von St. Georgenberg von seiten des
+Klosters oben genanntem Gottschalk 20 Pfund Berner gab und Gottschalk fÅr sich
+und seine Nachkommen auf die Leute verzichtete.
+
+REG$Ritter Gottschalk de Scesse verzichtet im Streit um Hîrige der Brixener Kirche
+gegen Zahlung von 20 Pfund Berner durch den Kellermeisters zugunsten des
+Klosters St. Georgenberg.
+F$TGQU 27 Fiecht/024/23/23
+G$X/Kellermeister/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Gottschalk/Genannter/uTirol Scesse/uTirol,Scesse//?/
+H$Verzicht/Hîrige/Brixen/Brixen//SÅdtirol/
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen. Nach Hist. Kom., Abschrift Moeser, sub dato, und
+der diesem StÅck nahestehenen n. 25 datiert. (TGQU S. XVI.)
+
+DOK$TGQU27_025/1223.5.25/1223.5.31#?/Bald nach 1223 Mai 24/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Berthold von Brixen bestÑtigt den Verkauf eines Weingartens zu Winkel
+durch Domherrn Altmann von Brixen an das Benediktinerkloster St. Georgenberg.
+
+REG$Bischof Berthold [I.] von Brixen bestÑtigt, da· der Brixener Kanoniker Altmann
+dem Kloster St. Georgenberg in der Diîzese Brixen seinen Weingarten in Winkel
+bei Bozen um 50 Pfund Berner verkauft hat.
+F$TGQU 27 Fiecht/025/23/23
+F$TUB 2/820/239f/240
+G$X/Kloster/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Altmann/Kanoniker/Brixen/Brixen//SÅdtirol/
+H$Kauf/Immobilien_Weingarten/Bozen/Bozen,Winkel/Winkel/abgek.Sitz i.Stadtteil Gries,Bozen/
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quinquaginta libris Veron(ensium)
+
+DOK$TGQU27_030/1225.1.26/1225.1.26/1225 JÑnner 26/anno domini MCCXXV., indicione
+terciodecima, die VI. exeunte ianuario/Bozen/Bozen//SÅdtirol/
+S$Pilgrim/kaiserl. Notar/Pilgrim
+V$Pilgrim/kaiserl. Notar/Pilgrim
+K$Der Schuhmacher Baumann und seine Frau Hiltburg verkaufen dem
+Benediktinerkloster St. Georgenberg ein GrundstÅck in Campoledro (bei Bozen).
+
+REG$Der Schuhmacher Baumann und seine Frau Hiltburg verkaufen dem Reinbert,
+Kellner von St. Georgenberg, der im Namen und anstelle dieses Klosters und
+dessen Abt Wernher als KÑufer auftritt, ein GrundstÅck in Campoledro. Die
+VerkÑufer bestÑtigen, von Reinbert die Kaufsumme von 180 Pfund Berner erhalten
+zu haben.
+F$TGQU 27 Fiecht/030/26/26
+F$TUB 2/848/260f/260
+G$Reinbert/Kellner/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Baumann;Hiltburg/X/X/X//
+H$Kauf/Immobilien/uSÅdtirol Campoledro/SÅdtirol, Campoledro//s.Bozen/
+W$Verona/X/
+O$280/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$fuerunt confessi et manifesti se accepisse \dots nomine certi et feniti precii
+CCLXXX libras denariorum Veron(ensium)
+
+REG$Der Schuhmacher Baumann und seine Frau Hiltburg verkaufen dem Reinbert,
+Kellner von St. Georgenberg, der im Namen und anstelle dieses Klosters und
+dessen Abt Wernher als KÑufer auftritt, ein GrundstÅck in Campoledro, wobei sie
+auf die Anwendung der Wertgrenze der Insinuatio in der Hîhe von
+500 GoldstÅcken verzichten.
+F$TGQU 27 Fiecht/030/26/26
+F$TUB 2/848/260f/260
+G$Reinbert/Kellner/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz   ?
+E$Baumann;Hiltburg/X/X/X//              ?
+H$Wertgrenze/Insinuation/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$500/aureus/X/A
+Q$quod donacio sine insinuacione facta ultra quingentos aureos valere
+
+DOK$TGQU27_034/1233.11.28/1233.11.28/1233 November 28/anno domini MCCXXXIII., indictione VI.,
+die lunis III. exeunte novembri/Bozen/Bozen//SÅdtirol/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Ursius vom Dorf verkauft dem Benediktinerkloster St. Georgenberg im Inntal
+einen Keller im Friedhof von St. Johann im dorf (Bozen).
+
+REG$Ursius vom Dorf, Bewohner von Bozen, verkauft dem Priester Thiemo von St.
+Georgenberg im Inntal, der im Namen und anstelle des Abtes und der MitbrÅder des
+gen. Klosters als KÑufer auftritt, einen Keller gelegen im Friedhof der Kirche
+zum hl. Johann im Dorf [Bozen-Dorf]. Der VerkÑufer bekennt, vom KÑufer die
+Kaufsumme von 32 Pfund Berner empfangen zu haben.
+F$TGQU 27 Fiecht/034/29/29
+F$TUB 3/0992/46ff/47
+G$Thiemo/Priester/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Ursius/Genannter/Bozen/Bozen,Dorf/Dorf/SÅdtirol/
+H$Kauf/Immobilien/Bozen/Bozen,Dorf bei/Dorf/SÅdtirol/
+W$Verona/X/
+O$32/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XXXII libris denariorum Ver(onensium), quos ipse Vrsius confessus fuit se
+\dots accepisse
+
+DOK$TGQU27_035/1233.12.1/1233.12.1/1233 Dezember 1/anno a nativitate domini nostri Jesu
+Christi MCCXXXIII., indicione VI., die Jovis primo intrante Decembre/Algund/Algund//nw.Meran/
+S$Montanarius/kaiserl. Notar/Montanarius
+V$Montanarius/kaiserl. Notar/Montanarius
+K$Mair Seisus von Algund und seine Frau Adelheid verkaufen dem
+Benediktinerkloster St. Georgenberg im Inntal einen Weingarten unterm Dorf
+Algund.
+
+REG$Der Meier Seisus von Algund, seine Frau Adelheid und ihre Sîhne Konrad und
+Seisus verkaufen dem Priester Thiemo, Mitbruder der Kirche und des Klosters St.
+Georgenberg im Inntal, der anstelle des genannten Klosters bzw. seines Konvents
+als KÑufer auftritt, einen Weingarten unterhalb des Dorfes Algund. Die VerkÑufer
+bekennen, vom KÑufer dafÅr den Betrag von 210 Pfund Berner empfangen zu haben.
+F$TGQU 27 Fiecht/035/30/30
+F$TUB 3/0994/48ff/49
+G$Thiemo/Priester/St.Georgenberg-Fiecht/St. Georgenberg-Fiecht/St.Georgenberg/i.Inntal b.Schwaz/
+E$Seisus;Konrad;Seisus/Genannter/Algund/Algund//nw.Meran/
+E$Adelheid/Genannte/Algund/Algund//nw.Meran/
+H$Kauf/Immobilien_Weingarten/Algund/Algund//nw.Meran/
+W$Verona/X/
+O$210/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro CC et X libris denariorum Ver(onensium)
+
+DOK$TGQU27_039/1249.0.0/1257.0.0/[1249 - 1257]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Testament des Vasold von Lichtenwert, in dem dieser verfÅgt, da· im Falle
+seines Todes ein Gut, gelegen am Hartberg, mit Namen Haiminstat, das jÑhrlich 6
+Pfund Berner zinst, in den Besitz des Klosters St. Georgenberg im Inntal
+Åbergehen soll. Seine Sîhne sollen dann die Vogtei Åber dieses Gut ausÅben.
+Vasold hÑlt fest, da· er in Habach von St. Georgenberg zu Zinsrecht ein Gut
+besitze, das 4 Yhren Wein und 1 Pfund Berner zinse. An diesem Gut sollen nach
+seinem Tod seine Kinder nur so viel Recht in Anspruch nehmen, als sie durch
+freundliches Bitten zu einem  freundschaftlichen Preis erlangen kînnen -
+unbeschadet der Vogtei Åber dieses Gut, die ihm und seinen Sîhnen nach Belehnung
+durch den edlen Herrn [Friedrich ?] von Wangen vollinhaltlich zustehe.
+
+REG$Testament des Vasold von Lichtenwert, in dem dieser verfÅgt, da· im Falle
+seines Todes ein Gut, gelegen am Hartberg, mit Namen Haiminstat, das jÑhrlich 6
+Pfund Berner zinst, in den Besitz des Klosters St. Georgenberg im Inntal
+Åbergehen soll. Seine Sîhne sollen dann die Vogtei Åber dieses Gut ausÅben.
+F$TGQU 27 Fiecht/039/33/33
+G$X/X/X/X//
+E$Vasold/Genannter/Lichtenwert/Lichtenwert//Burg i.Ort L.,G.MÅnster,PB Kufstein/
+H$Zins/Immobilien/Hartberg/Hartberg//G.Hart i.Zillertal,PB Schwaz/
+W$Verona/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen. Datiert nach Pockstaller, S. 25. - In Hist. Kom.,
+Abschrift Moeser, datiert mit (ca. 1250 -1257). (TGQU S. XVII)
+
+REG$Vasold von Lichtenwert hÑlt in seinem Testament fest, da· er in Habach von St.
+Georgenberg zu Zinsrecht ein Gut besitze, das 4 Yhren Wein und 1 Pfund Berner
+zinse.
+F$TGQU 27 Fiecht/039/33/33
+G$X/X/X/X//
+E$Vasold/Genannter/Lichtenwert/Lichtenwert//Burg i.Ort L.,G.MÅnster,PB Kufstein/
+H$Zins/Immobilien/Habach/Habach//Weiler i.MÅnster,PB Kufstein/
+W$Verona/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$TGQU27_040*/1250.0.0/1257.0.0/[1250 - 1257 oder 1257]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Vasold von Lichtenwert gibt, falls er auf seiner Wallfahrt zum [Grab des] hl.
+Jakob [in Santiago de Compostela] sterben sollte, zu seinem Seelenheil dem
+Kloster St. Georgenberg sein Gut gelegen am Hartberg, das jÑhrlich 6 Pfund
+Berner zinst. In diesem Fall soll aber seine Mutter das Gut bis zu ihrem Tod
+innehaben - erst dann soll es an das Kloster Åbergehen. DarÅberhinaus gibt er
+dem hl. Georg [St. Georgenberg] zum Seelenheil seiner Mutter und seines
+verstorbenen Bruders Otto ein anderes Gut gelegen am Hartberg, das jÑhrlich 3
+Pfund zinst. DafÅr sollen sein Bruder und dessen Vorfahren vor dem Altar
+verherrlicht werden.
+
+REG$Vasold von Lichtenwert gibt, falls er auf seiner Wallfahrt zum [Grab des] hl.
+Jakob [in Santiago de Compostela] sterben sollte, zu seinem Seelenheil dem
+Kloster St. Georgenberg sein Gut gelegen am Hartberg, das jÑhrlich 6 Pfund
+Berner zinst.
+F$TGQU 27 Fiecht/040*/34/34
+G$X/X/X/X//
+E$Vasold/Genannter/Lichtenwert/Lichtenwert//Burg i.Ort L.,G.MÅnster,PB Kufstein/
+H$Zins/Immobilien/Hartberg/Hartberg//G.Hart i.Zillertal,PB Schwaz/
+W$Verona/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$Vasold von Lichtenwert gibt, falls er auf seiner Wallfahrt zum [Grab des]
+hl. Jakob [in Santiago de Compostela] sterben sollte, dem hl. Georg [St.
+Georgenberg] zum Seelenheil seiner Mutter und seines verstorbenen Bruders Otto
+ein Gut gelegen am Hartberg, das jÑhrlich 3 Pfund zinst.
+F$TGQU 27 Fiecht/040*/34/34
+G$X/X/X/X//
+E$Vasold/Genannter/Lichtenwert/Lichtenwert//Burg i.Ort L.,G.MÅnster,PB Kufstein/
+H$Zins/Immobilien/Hartberg/Hartberg//G.Hart i.Zillertal,PB Schwaz/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen. Datiert 1250 - 1257 nach Hist. Kom., sub dato
+1257 wegen inhaltlicher NÑhe zu n. 49. (die Lichtenwerter waren durchwegs
+Freundsberger Ritter. Als solcher kînnte sich Vasold seinem Herrn, Friedrich
+junior von Freundsberg, als Begleiter bei dessen Wallfahrt nach Santiago de
+Compostela im Jahre 1257 (s. n. 49) angeschlossen haben). (TGQU S. XVIIIf)
+
+DOK$TGQU27_041/1250.0.0/1250.0.0/1250/anno domini MCCL./Tirol_Dorf/Tirol//b.Meran/
+S$X/X/X
+V$X/X/X
+K$Graf Albert [III.] von Tirol, Graf Gebhard von Hirschberg und dessen Frau
+Elisabeth kaufen vom Kloster St. Georgenberg den Teil eines Berges im Stubai
+zurÅck, den Markgraf Heinrich [von Istrien aus dem Haus Andechs] fÅr sein
+Seelenheil diesem Kloster Åbertrug. Dieser Teil war einen Ritter mit Namen
+Mulhusaer verpfÑndet und wird von den KÑufern um 24 Pfund kleiner Berner
+rÅckgelîst. Gleichzeitig schenken sie dem Kloster ihre Hufe in Ellbîgen, genannt
+auf Puhil. Den anderen Teil jenes Berges im Stubai besitzt Ulrich Hallaer vom
+Kloster gegen einen jÑhrlichen Zins, will aber diesen Teil nicht verkaufen.
+
+REG$Graf Albert [III.] von Tirol, Graf Gebhard von Hirschberg und dessen Frau
+Elisabeth kaufen vom Kloster St. Georgenberg den Teil eines Berges im Stubai
+zurÅck, den Markgraf Heinrich [von Istrien aus dem Haus Andechs] fÅr sein
+Seelenheil diesem Kloster Åbertrug. Dieser Teil war einen Ritter mit Namen
+Mulhusaer verpfÑndet und wird von den KÑufern um 24 Pfund kleiner Berner
+rÅckgelîst. Gleichzeitig schenken sie dem Kloster ihre Hufe in Ellbîgen, genannt
+F$TGQU 27 Fiecht/041/35/35
+F$TUB 3/1248/288f/289
+G$Albert III./Graf/Tirol_Dorf ?/Tirol//b.Meran/
+G$Gebhard/Graf/Hirschberg/Hirschberg//OB,LK EichstÑtt/
+G$Elisabeth/GrÑfin/Hirschberg/Hirschberg//OB,LK EichstÑtt/
+E$Mulhusaer/Ritter/X/X//
+H$Pfand_Einlîsung/Immobilien/Stubai/Stubai//Stubaital,PB Innsbruck/
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$datis in solutionem XXIIII libris Veron(ensium) parvorum
+B$Vgl. Nr. 30* und 37.
+
+DOK$TGQU27_042/1250.2.6/1250.2.6/1250 Februar 6/anno domini MCCL., indicione octava, die
+dominico VI. intrante februario/Bozen/Bozen//SÅdtirol/
+S$Bertelotus/kaiserl. Notar/Bertelotus
+V$Bertelotus/kaiserl. Notar/Bertelotus
+K$Heinrich, Sohn des Elbwin, verkauft dem Heinrich, Sohn des MÅllers Albert (von
+Bozen), ein Viertel eines Kellers im Friedhof von St. Johann (im Dorf bei
+Bozen).
+
+REG$Heinrich, Sohn des Elbwin, verkauft dem Heinrich, Sohn des MÅllers Albert (von
+Bozen), um 6 Pfund Veroneser Pfennige und 10 Schilling ein Viertel eines
+Kellers im Friedhof von St. Johann (im Dorf bei Bozen).
+F$TGQU 27 Fiecht/042/35/35
+F$TUB 3/1250/290f/290
+G$Heinrich/X/X/X//
+E$Heinrich/X/X/X//
+H$Kauf/Immobilien/Bozen/Bozen,Dorf bei/Dorf/SÅdtirol/
+W$Verona/X/
+O$6/lib./X
+Z$10/sol./X
+M$X/den./X/A
+Q$pro VI libris denariorum Veron(ensium) et X solidis
+
+DOK$TUB3_1219/1248.0.0/1248.0.0/1248/anno domini MCCXLVIII.
+indictione VII./Brixen/Brixen//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Bischof Egno von Brixen beurkundet die Beendigung der Fehde zwischen Ulrich
+von St. Anastasienberg (wohl Neurasen) und Rudolf von Rasen. Danach erhÑlt der
+gefangene Rudolf gegen Zahlung von 1000 Pfund Berner, die bis zum nÑchsten
+Pfingstfest auf St. Anastasienberg oder Voitsberg oder Pfeffersberg oder im
+Brixener Domchor zu hinterlegen sind, die Freiheit. Die BÅrgen Rudolfs
+versprechen im Nichtzahlungsfalle Einlager in Brixen, Bozen oder Lienz und
+versprechen in diesem Falle fÅr sich und Rudolf von Rasen Urfehde bzw. den
+genannten Rudolf zur Ablegung der Urfehde zu verhalten. Sollte ab Martini Åber
+ein Jahr zwischen den beiden Gegnern oder ihren Leuten Streit entstehen,
+versprechen genannte BÅrgen Einlager in Brixen bis zur Genugtuung. Rudolf und
+seine Frau sollen alle Besitzungen, die sie von der bischîflichen Kirche Brixen
+oder vom Grafen von Tirol oder anderen innehaben, dem Ulrich verpfÑnden.
+
+REG$Bischof Egno von Brixen beurkundet die Beendigung der Fehde zwischen Ulrich
+von St. Anastasienberg (wohl Neurasen) und Rudolf von Rasen. Danach erhÑlt der
+gefangene Rudolf gegen Zahlung von 1000 Pfund Berner, die bis zum nÑchsten
+Pfingstfest auf St. Anastasienberg oder Voitsberg oder Pfeffersberg oder im
+Brixener Domchor zu hinterlegen sind, die Freiheit. Die BÅrgen Rudolfs
+F$TUB 3/1219/261f/261
+G$Rudolf/Genannter/Rasen/Rasen//î.Bruneck/
+E$Ulrich/Geannnter/Neurasen St.Anastasienberg/Neurasen,(St.
+Anastasienberg)//wohl Schlo· Neurasen/
+H$Freilassung/Geldsumme/Neurasen St.Anastasienberg/Neurasen,St. Anastasienberg//wohl Schlo· Neurasen/
+H$Freilassung/Geldsumme/Voitsbergi.SÅdtirol Voitsberg/Voitsberg//Schlo·
+b.Brixen a.Eisack/
+H$Freilassung/Geldsumme/Pfeffersberg/Pfeffersberg//Schlo· b.Brixen/
+H$Freilassung/Geldsumme/Brixen/Brixen//SÅdtirol/
+W$Verona/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$Ut idem Rudolfus mille libras Veronensium parvulorum \dots assignaret
+B$Chmel,FRA II,1 S.10, Nr.10 gedruckt.   Kopie fehlt!?
+
+

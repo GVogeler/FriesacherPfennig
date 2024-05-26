@@ -1,0 +1,203 @@
+note *** Inhalt dieser Datei ist noch in io_mdc34.dat einzuarbeiten
+
+note *** Einlesen der Rohdaten io_sonst.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$MDC3_0379/1070.0.0/1080.0.0/(1070 - ca. 1080)/X/Hîflein/Hîflein nî.Krainburg//Krain/
+S$Gundachar/Brixen/Gundachar?advocatus
+V$X/X/X
+K$Der Edle Liutpold entsagt nach Empfang von dreieinhalb slawischen Huben und
+fÅnfundzwanzig Talent Pfennigen Regensburger MÅnze seitens Bischof Altwins
+allen
+AnsprÅchen auf die von der verstorbenen Matrone Pezala an die Brixener Kirche
+geschenkten GÅter und Hîrigen in Lieserhofen und Altersberg.
+
+REG$Der Edle Liutpold verzichtet nach öberlassung von dreieinhalb slavischen Huben
+und fÅnfundzwanzig Talenten Regensburger MÅnze seitens Bischof Altwins auf alle
+AnsprÅche, die er auf die von der verstorbenen Matrone Pezala an die Brixener
+Kirche geschenkten GÅter und Unfreien zu Lieserhofen und Altersberg gegenÅber
+dieser Kirche erhoben hat.
+F$MDC 3/0379/150f/150
+F$Acta Tir. 1/244/88/88
+G$Altwin/Bischof/Brixen/Brixen//SÅdT/
+E$Liutpold/Edler/X/X//
+H$Verzicht/Immobilien;Hîrige/Lieserhofen/Lieserhofen//nw.Spittal/
+H$Verzicht/Immobilien;Hîrige/Altersberg/Altersberg/Alpigeris/n.Spittal Berg wahrsch.i.Gegend
+des Lurnfeldes laut Acta Tir.
+W$Regensburg/moneta/
+O$25/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$XX et X talenta denariorum Radesponensis monete terminatim persolvenda
+legaliter acceperat.
+B$Bei Acta Tir. auf dem Berg "Alpigeris".
+
+DOK$MDC4I_1231/1177.0.0/1177.9.7/(1177 vor September 8)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Otto von Reitenbuch bittet seinen Bruder Propst Rupert von Tegernsee,
+dem in Studien begriffenen Sohn ihrer Schwester auf deren Bitte um UnterstÅtzung
+einstweilen ein Pfund Augsburger neuer MÅnze zu geben, da Otto durch einen Boten
+aus dem jetzt durch Fehden beunruhigten KÑrnten mit Sicherheit kein Geld senden
+kann.
+
+REG$Propst Otto von Reitenbuch bittet seinen Bruder Propst Rupert von Tegernsee,
+dem in Studien begriffenen Sohn ihrer Schwester auf deren Bitte um UnterstÅtzung
+einstweilen ein Pfund Augsburger neuer MÅnze zu geben, da Otto durch einen Boten
+aus dem jetzt durch Fehden beunruhigten KÑrnten mit Sicherheit kein Geld senden
+kann.
+F$MDC 4I/1231/464f/464
+G$Rupert/Propst/Tegernsee/Tegernsee//Bayern/
+E$X/X/X/X//
+H$UnterstÅtzung?Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Augsburg/moneta nova/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut de pecunia quam mihi reddere debetis, libram unam Augustensis monete nove
+\dots dari faciatis
+
+DOK$MDC4I_2175/1239.4.1/1239.4.1/1239 April 1/anno domini MCCXXXVIIII. mense aprili primo
+die intrante/X/X//
+S$Berthold/St. Radegund/Berthold
+V$X/X/X
+K$Die Grafen Hermann und Otto von Ortenburg kommen in Freundschaft mit Graf
+Wilhelm von Laas (Krain) dahin Åberein, da· dieser nach Empfang von 300 Mark
+Pfennige die Ortenburger Ministerialen Fridrich von Gschiess, Friderich von
+Waldenburg (Krain), Regenward, Leutold von Spittal, Ortolf von Treffling und
+Chunrad von Techendorf mit dem Schlo· Kamering (b. Paternion) belehnt, welche
+Ministerialen den Ortenburgern fÅr 2000 Mark Silber gutstehen.
+
+REG$Die Grafen Hermann und Otto von Ortenburg kommen in Freundschaft mit Graf
+Wilhelm von Laas (Krain) dahin Åberein, da· dieser nach Empfang von 300 Mark
+Pfennige die Ortenburger Ministerialen Fridrich von Gschiess, Friderich von
+Waldenburg (Krain), Regenward, Leutold von Spittal, Ortolf von Treffling und
+Chunrad von Techendorf mit dem Schlo· Kamering (b. Paternion) belehnt.
+F$MDC 4I/2175/264f/264
+F$KOS 5/711/346/346
+F$Reg. Gîrz 1/476/127/127
+G$Hermann;Otto/Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Wilhelm/Graf/Laas/Laas//Krain/
+H$Belehnung/Immobilien/Kamering/Kamering b.Paternion//nw.Paternion/
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quod trecentas marcas denariorum sibi dederunt pro quibus castrum Ch\{ae}mrich
+\dots ministerialibus infeudavit
+
+REG$Die Grafen Hermann und Otto von Ortenburg kommen in Freundschaft mit Graf
+Wilhelm von Laas (Krain) dahin Åberein, da· dieser nach Empfang von 300 Mark
+Pfennige die Ortenburger Ministerialen Fridrich von Gschiess, Friderich von
+Waldenburg (Krain), Regenward, Leutold von Spittal, Ortolf von Treffling und
+Chunrad von Techendorf mit dem Schlo· Kamering (b. Paternion) belehnt, welche
+Ministerialen den Ortenburgern fÅr 2000 Mark Silber gutstehen.
+F$MDC 4I/2175/264f/264
+F$KOS 5/711/346/346
+F$Reg. Gîrz 1/476/127/127
+G$Fridrich/Genannter/Gschiess/Gschiess//nw.Spittal/
+G$Friderich/Genannter/Waldenburg/Waldenburg//Krain, b.Radmannsdorf/
+G$Regenward/X/X/X//
+G$Leutold/Genannter/Spittal/Spittal//K/
+G$Ortolf/Genannter/Treffling/Treffling nî.Spittal//nî.Spittal
+G$Konrad/Genannter/Techendorf/Techendorf//sî.Greifenburg/
+E$Hermann;Otto/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$2000/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro duobus milibus marcarum argenti \dots comitibus de Ortenburch obligaverunt
+
+REG$NN
+F$MDC 4I/2175/264f/264
+F$KOS 5/711/346/346
+G$?/?/X/X//
+E$?/?/X/X//
+H$N/N/unbestimmt/unbestimmt//
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro Veronen(sibus) vel denariis quorum quilibet duodecim valeat Ueronen(ses)
+
+REG$NN
+F$MDC 4I/2175/264f/264
+F$KOS 5/711/346/346
+G$Hermann;Otto/Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Wilhelm/Graf/Laas/Laas//Krain/
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro eodem spadone centum marcas denariorum supra bona sepedicta in
+Ch\{ae}mrich computabunt
+
+DOK$MDC4I_2243/1242.6.2/1242.6.2/1242 Juni 2/anno domini MCCXLII. die secundo intrante
+mense iunii, indiccione quinta decima/Manzano/Manzano sî.Udine//Friaul,sî.Udine
+S$Hartwig/kaiserl. Notar/Hartwig
+V$Hartwig/kaiserl. Notar/Hartwig
+K$Graf Meinhard III. von Gîrz verpfÑndet dem Abt Hartwig von St. Paul die Vogtei
+des Weilers Villa caccia (sw. Udine) um 300 Pfund kleiner Veroneser mit
+Vorbehalt des Blutgerichtes und des RÅckkaufs.
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem Abt Hartwig von St. Paul die Vogtei
+des Weilers Villa caccia (sw. Udine) um 300 Pfund kleiner Veroneser mit
+Vorbehalt des Blutgerichtes und des RÅckkaufs.
+F$MDC 4I/2243/295/295
+F$Reg. Gîrz 1/498/132/132
+G$Hartwig/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$PfandgeschÑft/Vogtei/Lestizza/Lestizza, Villa caccia//sw.Udine
+W$Verona/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$obligavit \dots pro trecentis liberis Veron(ensium) parvorum quas confessus
+fuit se a dicto domino Artwico abbate recepisse
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem Abt Hartwig von St. Paul die Vogtei
+des Weilers Villa caccia (sw. Udine) um 300 Pfund kleiner Veroneser mit
+Vorbehalt des Blutgerichtes. Wenn der Graf dem Kloster die 300 Pfund
+zurÅckgezahlt hÑtte, solle die Vogtei in seine Gewalt zurÅckkehren.
+F$MDC 4I/2243/295/295
+F$Reg. Gîrz 1/498/132/132
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+E$Hartwig/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$Pfand_Auslîsung/Vogtei/Lestizza/Lestizza, Villa caccia//sw.Udine
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quandocumque dictus dominus comes dictas trecentas libras dicto domino abbati
+vel suis successoribus de bonis propriis redderet
+
+DOK$MDC4I_2434/1250.5.22/1250.5.22/1250 Mai 22/anno domini MCCL. XXII. maii VIII.
+indictionis/Gîrz/Gîrz//G/
+S$X/X/X
+V$X/X/X
+K$Graf Meinhard III. von Gîrz bestÑtigt, da· sein Ministeriale Heinrich von
+Goldberg (î. Kîtschach) dem Kloster Admont LehengÅter in Stall in der Provinz
+Gro·kirchheim fÅr sechzig Pfund Veroneser Åbergeben hat.
+
+REG$Graf Meinhard III. von Gîrz bestÑtigt, da· sein Ministeriale Heinrich von
+Goldberg (î. Kîtschach) dem Kloster Admont LehengÅter in Stall in der Provinz
+Gro·kirchheim fÅr sechzig Pfund Veroneser Åbergeben hat.
+F$MDC 4I/2434/382f/383
+F$Wichner,Adm. 2/176/330/330
+F$StUB 3/073/137/137
+F$Reg. Gîrz 1/554/144/144
+G$X/Kloster/Admont/Admont//Stmk/
+E$Heinrich/Genannter/Goldberg î.Kîtschach/Goldberg î.Kîtschach//î.Kîtschach/
+H$Gegengabe/Geldsumme/unbestimmt/unbestimmt//   ?
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro libris Veronen(sium) LX quas ab eadem ecclesia me fateor recepisse.
+
+

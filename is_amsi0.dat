@@ -1,0 +1,2097 @@
+
+note *** MG 5981, C999 S. XV, XVI zu Gîrz und Gradisca S. 252
+note *** calciarium ist Schuhgeld ?
+
+note *** Nur MÅnzangaben mit Ortsangabe aufgenommen bzw. in aufgenommener
+         Urkunde alle Nennungen.
+
+note *** Einlesen der Rohdaten is_amsi0.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+
+DOK$AMSI_1100/1100.12.10/1100.12.10/1100 Dezember 10/anno ab incarnacione domini MC. die
+decimo mensis decembris indictione nona/Ravenna/Ravenna//Romagna/
+S$X/X/X
+V$X/X/X
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Istrien gibt mit Zustimmung
+der Mînche des Klosters die HÑlfte von einigen GÅtern dem Guido de Urso und
+seinen BrÅdern Peter, Violino und Rustico zu Erbzins, die andere HÑlfte aber
+dem Minucia und Mamolo etc. Die GÅter befinden sich in Casallgutth, Sambucitta
+und Ronco de Pettonasi, Faventino, S. Pietro in Selve. FÅr diese sind ein Pfennig
+an Zins jeden MÑrz, zwei an calciarium und 8 Schilling Venetianer zu
+leisten. Nach dem Tod des Guido sollen die GÅter bei Strafe von 2 Unzen Gold an
+das Kloster zurÅckfallen.                           ?
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Istrien gibt mit Zustimmung
+der Mînche des Klosters die HÑlfte von einigen GÅtern dem Guido de Urso und
+seinen BrÅdern Peter, Violino und Rustico zu Erbzins, die andere HÑlfte aber
+dem Minucia und Mamolo etc. Die GÅter befinden sich in Casallgutth, Sambucitta
+und Ronco de Pettonasi, Faventino, S. Pietro in Selve. FÅr diese sind ein Pfennig
+an Zins jeden MÑrz, zwei an calciarium zu leisten.
+F$AMSI 10/1100*/280f/281
+G$Guido/Genannter/unbekannt Urso/Urso//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/uIstrien Casallgutth/Casallgutth//
+H$Zins/Immobilien/uIstrien Sambucitta/Sambucitta//
+H$Zins/Immobilien/uIstrien Ronco de Pettonasi/Ronco de Pettonasi//
+H$Zins/Immobilien/S.PietroinSelve Faventino/Faventino//
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$sub pensione omni marceio mensi \dots denarium unum
+B$1100 ist die achte Indiktion, also wohl Byzantinischer Jahresanfang (1.
+Sept.).
+Insula Serra in der NÑhe von Rovigno, laut Benussi bei Pola.
+GÅter in Casamazone, Faventino
+
+REG$Abt Martin vom Kloster S. Maria und S. Andreas in Istrien gibt mit Zustimmung
+der Mînche des Klosters die HÑlfte von einigen GÅtern dem Guido de Urso und
+seinen BrÅdern Peter, Violino und Rustico zu Erbzins, die andere HÑlfte aber
+dem Minucia und Mamolo etc. Die GÅter befinden sich in Casallgutth, Sambucitta
+und Ronco de Pettonasi, Faventino, S. Pietro in Selve. FÅr diese sind ein
+Pfennig an Zins jeden MÑrz, zwei an calciarium zu leisten.
+F$AMSI 10/1100*/280f/281
+G$Guido/Genannter/unbekannt Urso/Urso//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andreas//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$duo suntt pro eo quod accepisti calceari nomine
+B$1100 ist die achte Indiktion, also wohl Byzantinischer Jahresanfang (1.
+Sept.).
+Insula Serra in der NÑhe von Rovigno, laut Benussi bei Pola.
+GÅter in Casamazone, Faventino
+
+REG$Abt Martin vom Kloster S. Maria und S. Andreas in Istrien gibt mit Zustimmung
+der Mînche des Klosters die HÑlfte von einigen GÅtern dem Guido de Urso und
+seinen BrÅdern Peter, Violino und Rustico zu Erbzins, die andere HÑlfte aber
+dem Minucia und Mamolo etc. Die GÅter befinden sich in Casallgutth, Sambucitta
+und Ronco de Pettonasi, Faventino, S. Pietro in Selve. FÅr diese sind ein
+Pfennig an Zins jeden MÑrz, zwei an calciarium und 8 Schilling Venetianer zu
+leisten.
+F$AMSI 10/1100*/280f/281
+G$Guido/Genannter/unbekannt Urso/Urso//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andreas//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/Z
+Q$librum unum pro denariis veneticorum soldos octo
+B$1100 ist die achte Indiktion, also wohl Byzantinischer Jahresanfang (1.
+Sept.).
+Insula Serra in der NÑhe von Rovigno, laut Benussi bei Pola.
+GÅter in Casamazone, Faventino
+
+REG$Nach dem Tod des Guido sollen die genannten GÅter bei Strafe von 2 Unzen Gold
+an das Kloster S. Maria und S. Andrea in Istrien zurÅckfallen.
+F$AMSI 10/1100*/280f/281
+G$X/X/X/X// ?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andreas//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pene nomine auri uncias duas
+B$1100 ist die achte Indiktion, also wohl Byzantinischer Jahresanfang (1.
+Sept.).
+Insula Serra in der NÑhe von Rovigno, laut Benussi bei Pola.
+GÅter in Casamazone, Faventino
+
+DOK$AMSI_1107/1107.12.29/1107.12.29/1107 Dezember 29/anno ab incarnacione domini MCVII. die
+vigesimo nono mensis Decembris indictione quinta decima/Ravenna/Ravenna//Romagna/
+S$Albert/Ravenna/Albert
+V$Albert/Ravenna/Albert
+K$Abt Urso vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Ugolinus von Pullaerenso, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve, nÑmlich in Decimello, Cipullini und Ronco de Oplo, zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von 5 venetian. MÅnzen und 15
+Schilling venetian. Pfennige. Die Partei, welche gegen diesen Vertrag
+verstî·t, mu· der anderen 3 Unzen Gold Strafe bezahlen.
+
+REG$Abt Urso vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Ugolinus von Pullaerenso, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve, nÑmlich in Decimello, Cipullini und Ronco de Oplo, zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von 5 venetian. MÅnzen und 15
+Schilling venetian. Pfennige calciarium.
+F$AMSI 10/1107*/281f/282
+G$Ugolinus/Genannter/uIstrien Pullaerenso/Pullaerenso//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$5/X/X/Z
+Q$pensionis nomine omni marcio mense infra in dictuum de marco quinque titulo
+monete venetie
+
+REG$Abt Urso vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Ugolinus von Pullaerenso, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve, nÑmlich in Decimello, Cipullini und Ronco de Oplo, zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von 5 venetian. MÅnzen und 15
+Schilling venetian. Pfennige calciarium.
+F$AMSI 10/1107*/281f/282
+G$Ugolinus/Genannter/uIstrien Pullaerenso/Pullaerenso//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$15/sol./X
+M$X/den./X/Z
+Q$calcearii nomine de manu mea librum unum pro denariis veneticorum soldos
+quindecim
+
+REG$Abt Urso vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Ugolinus von Pullaerenso Land zu Erbrecht. Die Partei, welche
+gegen diesen Vertrag verstî·t, mu· der anderen 3 Unzen Gold Strafe bezahlen.
+F$AMSI 10/1107*/281f/282
+G$Ugolinus/Genannter/uIstrien Pullaerenso/Pullaerenso//wo??           beide?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias tres
+
+DOK$AMSI_1109/1109.12.27/1109.12.27/1109 Dezember 27/anno ab incarnacione domini MCIX. die
+viginti septimo mensis Decembris indictione secunda/Ravenna/Ravenna//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Zafo de Minzo russo, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve, nÑmlich das, was der Pferdeknecht Martin in
+Sambuceta innehatte, zu Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von
+einem venetian. Pfennig und 12 Schilling venetian. Pfennige. Die Partei, welche
+gegen diesen Vertrag verstî·t, mu· der anderen eine Unze Gold Strafe bezahlen.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Zafo de Minzo russo, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve, nÑmlich das, was der Pferdeknecht Martin in
+Sambuceta innehatte, zu Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von
+einem venetian. Pfennig und 12 Schilling venetian. Pfennige calciarium.
+F$AMSI 10/1109*/282f/283
+G$Zafo/Genannter/uIstrien Minzo russo/Minzo russo//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$1/X/X/Z
+Q$pensionem dare debeamus vobis omni anno denarium venetie unum
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Zafo de Minzo russo, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve, nÑmlich das, was der Pferdeknecht Martin in
+Sambuceta innehatte, zu Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von
+einem venetian. Pfennig und 12 Schilling venetian. Pfennige calciarium.
+F$AMSI 10/1109*/282f/283
+G$Zafo/Genannter/uIstrien Minzorusso/Minzo russo//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$12/sol./X
+M$X/den./X/Z
+Q$calcearii nomine denariorum veneticorum soldos duodecim
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Zafo de Minzo russo, seiner Frau und seinen Kindern und Enkeln Land in der
+Gemeinde S. Pietro in Selve zu Erbrecht. Die Partei, welche
+gegen diesen Vertrag verstî·t, mu· der anderen eine Unze Gold Strafe bezahlen.
+F$AMSI 10/1109*/282f/283
+G$Zafo/Genannter/uIstrien Minzo russo/Minzo russo//wo??  beide?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri unciam unam
+
+DOK$AMSI_1115/1115.1.2/1115.1.2/1115 JÑnner 2/die secundo mensis Ianuary \dots indictione
+octava/Ravenna/Ravenna//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+[\dots] und seiner Frau Imilia und seinen Kindern und Enkeln Land in
+der Gemeinde S. Stefano, zu Erbrecht unter der Verpflichtung, das Land bei
+Strafe von jÑhrlich 200 Pfennigen venetian. MÅnze zu bessern, und gegen
+7 Pfund calciarium.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+[\dots] und seiner Frau Imilia und seinen Kindern und Enkeln Land in
+der Gemeinde S. Stefano, zu Erbrecht unter der Verpflichtung, das Land bei
+Strafe von jÑhrlich 200 Pfennigen venetian. MÅnze zu bessern, und gegen
+7 Pfund calciarium.
+F$AMSI 10/1115*/285f/286
+G$Imilia/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$200/den./X/Z
+Q$sub pena omni anno denariorum ducentorum monete veneticorum
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+[\dots] und seiner Frau Imilia und seinen Kindern und Enkeln Land in
+der Gemeinde S. Stefano, zu Erbrecht unter der Verpflichtung, das Land bei
+Strafe von jÑhrlich 200 Pfennigen venetian. MÅnze zu bessern, und gegen
+7 Pfund calciarium.
+F$AMSI 10/1115*/285f/286
+G$Imilia/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$calcearii nomine libras VII
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+[\dots] und seiner Frau Imilia und seinen Kindern und Enkeln Land in
+der Gemeinde S. Stefano, zu Erbrecht unter der Verpflichtung, das Land bei
+Strafe von jÑhrlich 200 Pfennigen venetian. MÅnze zu bessern, und gegen
+7 Pfund calciarium und 20 Schilling nach dem Tod des [\dots].  ?
+F$AMSI 10/1115*/285f/286
+G$Imilia/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$per dictam rem soldos viginti statutos  ?
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+[\dots] und seiner Frau Imilia und seinen Kindern und Enkeln Land in
+der Gemeinde S. Stefano, zu Erbrecht unter der Verpflichtung, das Land bei
+Strafe von jÑhrlich 200 Pfennigen venetian. MÅnze zu bessern, und gegen
+7 Pfund calciarium. Au·erdem wird eine Strafe in der Hîhe von 8 Pfund Gold
+fÅr [?] festgesetzt.
+F$AMSI 10/1115*/285f/286
+G$Imilia/X/X/X//               ?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$8/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pena auri librarum VIII
+
+?Pro indictione quarta decima denarios 7 ?
+
+DOK$AMSI_1121/1121.12.20/1121.12.20/1121 Dezember 20/MCXXI. die vigesimo mensis decembris
+indictione quarta decima/Ravenna/Ravenna?//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Picitto de Albirolo und seiner Frau Adelasia und ihren Kindern und Enkeln 44
+Tornaturias (ital. Ackerma·) Ackerland und Weingarten in Fornace und Runco in
+der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von drei
+Pfennigen Venetianer und 5 Pfennigen Venetianer calciarium zu Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Picitto de Albirolo und seiner Frau Adelasia und ihren Kindern und Enkeln 44
+Tornaturias (ital. Ackerma·) Ackerland und Weingarten in Fornace und Runco in
+der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von drei
+Pfennigen Venetianer und 5 Pfennigen Venetianer calciarium zu Erbrecht.
+F$AMSI 10/1121*/286ff/287
+G$Picitto/Genannter/uIstrien Albirolo/Albirolo//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$dare debeatis omni marcii mense aut infra in dicto denarios venetiarum tres
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Picitto de Albirolo und seiner Frau Adelasia und ihren Kindern und Enkeln 44
+Tornaturias (ital. Ackerma·) Ackerland und Weingarten in Fornace und Runco in
+der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von drei
+Pfennigen Venetianer und 5 Pfennigen Venetianer calciarium zu Erbrecht.
+F$AMSI 10/1121*/286ff/287
+G$Picitto/Genannter/uIstrien Albirolo/Albirolo//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$calcearii nomine denarios veneticorum solvetis quinque
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Picitto de Albirolo und seiner Frau Adelasia und ihren Kindern und Enkeln 44
+Tornaturias (ital. Ackerma·) Ackerland und Weingarten in Fornace und Runco in
+der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von drei
+Pfennigen Venetianer und 5 Pfennigen Venetianer calciarium zu Erbrecht.
+Sollte der Abt des Klosters gegen diesen Vertrag versto·en, hat er eine Pînale
+in der Hîhe von 4 Unzen Gold zu bezahlen.
+F$AMSI 10/1121*/286ff/288
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Picitto/Genannter/uIstrien Albirolo/Albirolo//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$4/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias quatuor
+
+DOK$AMSI_1122/1122.1.4/1122.1.4/1122 JÑnner 4/anno ab incarnacione domini MCXXII. die
+quarto mensis Ianuarii Indictione quarta
+decima/uIstrien Rafanaria/Rafanaria//wo??
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+? Johannes und seinem Bruder Orlando und Emilia, der Tochter seines Bruders, und
+deren Frauen und Kindern und Enkeln GÅter in Granarigo und Campo Masa in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+zwei Pfennigen Venetianer und sechs Schilling Venetian. Pfennige calciarium zu
+Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+? Johannes und seinem Bruder Orlando und Emilia, der Tochter seines Bruders, und
+deren Frauen und Kindern und Enkeln GÅter in Granarigo und Campo Masa in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+zwei Pfennigen Venetianer und sechs Schilling Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122*/21f/22
+G$Johannes/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve;Faventino//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$pensionem dare debeamus omni anno denarios Veneticorum duos
+B$15. Indiktion! Venezianischer 1.-MÑrz-Jahresbeginn. ?
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+? Johannes und seinem Bruder Orlando und Emilia, der Tochter seines Bruders, und
+deren Frauen und Kindern und Enkeln GÅter in Granarigo und Campo Masa in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+zwei Pfennigen Venetianer und sechs Schilling Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122*/21f/22
+G$Johannes/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$6/sol./X
+M$X/den./X/Z
+Q$calcearii nomine denariorum Veneticorum soldos sex
+B$15. Indiktion! Venezianischer 1.-MÑrz-Jahresbeginn. ?
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+? Johannes und seinem Bruder Orlando und Emilia, der Tochter seines Bruders, und
+deren Frauen und Kindern und Enkeln GÅter in Granarigo und Campo Masa in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+zwei Pfennigen Venetianer und sechs Schilling Venetian. Pfennige calciarium zu
+Erbrecht. Sollte eine der Vertragsparteien gegen diesen Vertrag versto·en, hat
+sie der anderen eine Pînale in der Hîhe von 2 Unzen Gold zu bezahlen.
+F$AMSI 11/1122*/21f/22
+G$X/Kloster/InsulaSerra S.Maria u.S.Andrea/Insula Serra,S. Maria u. S.
+Andrea//Istrien/
+G$Johannes/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias duas
+B$15. Indiktion! Venezianischer 1.-MÑrz-Jahresbeginn. ?
+
+DOK$AMSI_1122a/1122.1.22/1122.1.22/1122 JÑnner 22/anno ab incarnacione domini MCXXII.
+ttempore Calixti pape ett enrici imperatoris anno duodecimo die vigesimo secundo
+mense ianuarii indicttione quinta decima/Ravenna/Ravenna//Romagna/
+S$Bernhard/Ravenna/Bernhard
+V$Bernhard/Ravenna/Bernhard
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122a*/22f/23
+G$Almerico/Graf/X/ ? //
+E$X/Kloster/InsulaSerra/Insula Serra S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve;Faventino//wo??
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$nomine pensionis denarios quattuor monette Veneticorum
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122a*/22f/23
+G$Almerico/Graf/X ?/ ?//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$nomine calcearii idestt denariorum Venetticorum libras quinque.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht. Sollte er gegen diesen Vertrag versto·en, mu· er eine Unze Gold Pînale
+bezahlen.
+F$AMSI 11/1122a*/22f/23
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Almerico/Graf/X/ ?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri unciam unam
+
+DOK$AMSI_1122b/1122.1.22/1122.1.22/1122 JÑnner 22/die vigesimo secundo mensis ianuarii
+indictione quinta decima/Ravenna/Ravenna//Romagna/
+S$X/X/X
+V$X/X/X
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter, die er
+von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter, die er
+von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122b*/24f/25
+G$Peter Zuncula/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve;Faventino//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$sub pensione omni anno \dots denariorum Veneticorum quinque pensio
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter, die er
+von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122b*/24f/25
+G$Peter Zuncula/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$nomine calcearii idestt denariorum Venetticorum libras quinque.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter, die er
+von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht. Er verspricht, sie bei Strafe einer Unze Gold vor jedem zu schÅtzen. ?
+
+Erbrecht. Sollte er gegen diesen Vertrag versto·en, mu· er eine Unze Gold Pînale
+bezahlen.
+F$AMSI 11/1122b*/24f/25
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Peter Zuncula/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncie unius
+
+DOK$AMSI_1122c/1122.1.22/1122.1.22/1122 JÑnner 22/anno ab incarnacione domini MCXXII
+tempore calixti pape et henrici imperatoris anno duodecimo die vigesimo
+secundo mensis ianuarii indictione quinta decima/Ravenna/Ravenna//Romagna/
+S$Bernhard/Ravenna/Bernhard
+V$Bernhard/Ravenna/Bernhard
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Carlo ?Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter,
+die er von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Carlo? Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter,
+die er von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122c*/25ff/26
+G$Peter Carlo ?Zuncula/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve;Faventino//wo??
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$nomine pensionis denarios quinque monete Venettiarum
+B$Wie vorhergehende Urkunde, aber hier ist ausdrÅcklich moneta genannt.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Carlo ?Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter,
+die er von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122c*/25ff/26
+G$Peter Carlo Zuncula/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$nomine calcearii idestt denariorum Veneticorum libras quinque.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Peter Carlo? Zuncula und dessen Frau Rinalda und ihren Kindern und Enkeln GÅter,
+die er von Adelasia, der Tochter derdes? Bonza gekauft hat, in Granarigo in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+fÅnf Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht. Sollte er gegen diesen Vertrag versto·en, mu· er eine Unze Gold Pînale
+bezahlen.
+F$AMSI 11/1122c*/25ff/27
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Peter Carlo Zuncula/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri unciam unam
+
+DOK$AMSI_1122d/1122.1.22/1122.1.22/1122 JÑnner 22/anno ab incarnacione domini MCXXII.
+ttempore Calixti pape ett enrici imperatoris anno duodecimo die vigesimo secundo
+mense ianuarii indicttione quinta decima/Ravenna/Ravenna//Romagna/
+S$Bernhard/Ravenna/Bernhard
+V$Bernhard/Ravenna/Bernhard
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122d*/27ff/28
+G$Almerico/Graf/X/ ? //
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve;Faventino//
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$nomine pensionis denarios quattuor monete Venete
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122d*/27ff/28
+G$Almerico/Graf/X/ ?//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$nomine calcearii idestt denariorum Veneticorum libras quinque.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Grafen Almerico und seinen Kindern und Enkeln GÅter, die er von seiten im
+Namen? seiner Mutter Glisla hatte, in Granarigo und Rotitula in der
+Gemeinde S. Pietro in Selve und in Faventino gegen jÑhrlichen Zins in der Hîhe von
+vier Pfennigen Venetianer MÅnze und fÅnf Pfund Venetian. Pfennige calciarium zu
+Erbrecht. Sollte er gegen diesen Vertrag versto·en, mu· er eine Unze Gold Pînale
+bezahlen.
+F$AMSI 11/1122d*/27ff/28
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Almerico/Graf/X/ ?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri unciam unam
+
+DOK$AMSI_1122e/1122.1.0/1122.1.0/1122 JÑnner/anno ab incarnacione domini MCXXII. mensis
+\dots ianuarii indictione quinta decima/uIstrien Rafanaria/Rafanaria//wo??
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Martin Cavalerio und dessen Frau Imilda und ihren Kindern und Enkeln, sowie dem
+Robert und Belund GÅter in Sambucita und Rotitula in der
+Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Venetianer und 20 Schilling Venetian. Pfennige calciarium zu
+Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Martin Cavalerio und dessen Frau Imilda und ihren Kindern und Enkeln, sowie dem
+Robert und Belund GÅter in Sambucita und Rotitula in der
+Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Venetianer und 20 Schilling Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122e*/29f/30
+G$Martin Cavalerio/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$pensionem dare debeamus omni anno denarios Veneticorum tres
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Martin Cavalerio und dessen Frau Imilda und ihren Kindern und Enkeln, sowie dem
+Robert und Belund GÅter in Sambucita und Rotitula in der
+Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Venetianer und 20 Schilling Venetian. Pfennige calciarium zu
+Erbrecht.
+F$AMSI 11/1122e*/29f/30
+G$Martin Cavalerio/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./X/Z
+Q$calcearii nomine denariorum Veneticorum soldos viginti.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Martin Cavalerio und dessen Frau Imilda und ihren Kindern und Enkeln, sowie dem
+Robert und Belund GÅter in Sambucita und Rotitula in der
+Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Venetianer und 20 Schilling Venetian. Pfennige calciarium zu
+Erbrecht. Wer von den beiden Vertragsparteien gegen die Abmachungen verstî·t,
+mu· der anderen Partei eine Unze Gold Pînale zahlen.
+F$AMSI 11/1122e*/29f/30
+G$Martin Cavalerio/X/X/X//
+E$X/Kloster/InsulaSerra S. Maria u. S. Andrea/Insula Serra,S. Maria u. S.
+Andrea//Istrien          Beide?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri unciam unam
+
+DOK$AMSI_1130/1130.11.22/1130.11.22/1130 November 22/anno ab incarnacione domini MCXXX die
+vigesimo secundo mense novembris indictione nona/Ravenna/Ravenna//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Johannes vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Domenikus, seinem Bruder Azo und dessen Frau Retina und dem Johannes
+de Azone merlo je ein Drittel von 12 Tornatura (ital. Ackerma·) Land und
+Weingarten in Casalicio und in Fabriaco in der Gemeinde S. Pietro in Selve gegen
+einen Zins in der Hîhe von zwei venetian. Pfennigen zu Erbrecht. Die
+Vertragspartei, welche gegen die Abmachungen verstî·t, mu· der anderen Partei
+eine Unze Gold bezahlen.
+
+REG$Abt Johannes vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Domenikus, seinem Bruder Azo und dessen Frau Retina und dem Johannes
+de Azone merlo je ein Drittel von 12 Tornatura (ital. Ackerma·) Land und
+Weingarten in Casalicio und in Fabriaco in der Gemeinde S. Pietro in Selve gegen
+einen Zins in der Hîhe von zwei venetian. Pfennigen zu Erbrecht. Die
+Vertragspartei, welche gegen die Abmachungen verstî·t, mu· der anderen Partei
+eine Unze Gold bezahlen.
+F$AMSI 11/1130*/30f/31
+G$Domenikus/Priester/X/X//
+G$Azo/X/X/X//
+G$Johannes/Genannter/unbekannt Azone merlo?/Azo merlo?//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$pensionem dare debeamus denariorum duorum Veneticorum
+B$Achte Indiktion! Byzantinischer Jahresanfang.
+
+REG$Abt Johannes vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Domenikus, seinem Bruder Azo und dessen Frau Retina und dem Johannes
+de Azone merlo je ein Drittel von 12 Tornatura (ital. Ackerma·) Land und
+Weingarten in Casalicio und in Fabriaco in der Gemeinde S. Pietro in Selve gegen
+einen Zins in der Hîhe von zwei venetian. Pfennigen zu Erbrecht. Die
+Vertragspartei, welche gegen die Abmachungen verstî·t, mu· der anderen Partei
+eine Unze Gold bezahlen.
+F$AMSI 11/1130*/30f/31
+G$Domenikus/Priester/X/X//   beide?
+G$Azo/X/X/X//
+G$Johannes/Genannter/unbekannt Azo merlo/Azo merlo?//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$pene (auri) unciam unam
+B$Achte Indiktion! Byzantinischer Jahresanfang.
+
+DOK$AMSI_1137/1137.6.3/1137.6.3/1137 Juni 3/anno ab incarnacione domini MCXXVII. tempore
+Innocentii pape et Lotharii imperatoris die tercio mensis Iunii indictione
+quinta decima/InsulaSerra/Insula Serra//wo??
+S$X/X/X
+V$X/X/X
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was Boulus, der
+Sohn des Peter Alberto Casamarti geschenkt und dessen Bruder
+Albert testamentarisch vermacht hat, nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was Boulus, der
+Sohn des Peter Alberto Casamarti geschenkt und dessen Bruder
+Albert testamentarisch vermacht hat, nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht.
+F$AMSI 11/1137*/31ff/32
+G$Albert/Priester/Ravenna S.Maria de Portu?/Ravenna,S. Maria in Porto//wo??
+G$Manfred/Kleriker/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Rambald/Novize/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$pensionem dare debeatis \dots omni anno denariorum Veneticorum quatuor
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was Boulus, der
+Sohn des Peter Alberto Casamarti geschenkt und dessen Bruder
+Albert testamentarisch vermacht hat, nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht.
+F$AMSI 11/1137*/31ff/32
+G$Albert/Priester/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Manfred/Kleriker/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Rambald/Novize/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$X/X/X
+Z$8/sol./X
+M$X/den./X/Z
+Q$calcearii nomine denariorum lucensium soldos octo
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was Boulus, der
+Sohn des Peter Alberto Casamarti geschenkt und dessen Bruder
+Albert testamentarisch vermacht hat, nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht. Sollte der Abt oder seine Nachfolger gegen diesen Vertrag
+versto·en, hat er eine Pînale von 3 Unzen Gold zu zahlen.
+F$AMSI 11/1137*/31ff/32
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Albert/Priester/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Manfred/Kleriker/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Rambald/Novize/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias tres
+
+DOK$AMSI_1137a/1137.6.3/1137.6.3/1137 Juni 3/die tercio mensis Iunii indictione
+quinta decima/InsulaSerra/Insula Serra//wo??
+S$X/X/X
+V$X/X/X
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was die
+BrÅder Boulus und Albert, die Sîhne des Peter Alberto Casamarti geschenkt haben,
+nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was die
+BrÅder Boulus und Albert, die Sîhne des Peter Alberto Casamarti geschenkt haben
+, nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht.
+F$AMSI 11/1137a*/33f/34
+G$Albert/Priester/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Manfred/Kleriker/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Rambald/Novize/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$pensionem dare debeatis omni anno denariorum Veneticorum quatuor
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was die
+BrÅder Boulus und Albert, die Sîhne des Peter Alberto Casamarti geschenkt haben
+,nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht.
+F$AMSI 11/1137a*/33f/34
+G$Albert/Priester/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Manfred/Kleriker/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+G$Rambald/Novize/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$X/X/X
+Z$8/sol./X
+M$X/den./X/Z
+Q$calcearii nomine denariorum lucentium soldos octo
+B$denarios lucentes Pfennige von Lucca?
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Priester Albert und dem Kleriker Manfred von S. Maria in Porto und dem
+Novizen Rambald und der Gemeinschaft auf fÅnfzig Jahre das, was die
+BrÅder Boulus und Albert, die Sîhne des Peter Alberto Casamarti geschenkt haben
+, nÑmlich GÅter in Decimello, Faventino und
+Corneliense in der Gemeinde S. Pietro in Selve gegen einen jÑhrlichen  Zins in der
+Hîhe von vier venetian. Pfennigen und acht Schilling Pfennige von Lucca
+calciarium zu Erbrecht. Sollte der Abt oder seine Nachfolger gegen diesen Vertrag
+versto·en, hat er eine Pînale von 3 Unzen Gold zu zahlen.
+F$AMSI 11/1137a*/33f/34
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$Albert/Priester/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Manfred/Kleriker/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Rambald/Novize/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pene nomine auri uncias tres
+
+DOK$AMSI_1138/1138.12.19/1138.12.19/1138 Dezember 19/anno ab incarnacione domini MCXXXVIII.
+die nono decimo mense decembris indictione secunda/X/X//
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Paul vom Kloster S. Maria in Pomposa ersucht Abt Martin vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf 100 Jahre
+das zu Erbrecht zu Åbergeben, was einst Guido und Albert, der Sohn des Azo von
+Budrio innehatten, sowie andere GÅter in S. Pietro in Selve und S. Stefan in
+Panigale   ?alle anfÅhren?
+gegen einen jÑhrlichen  Zins in der Hîhe von drei Schilling venetian. Pfennige
+und 12 Pfund venetian. Pfennige calciarium.
+
+REG$Abt Paul vom Kloster S. Maria in Pomposa ersucht Abt Martin vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf 100 Jahre
+das zu Erbrecht zu Åbergeben, was einst Guido und Albert, der Sohn des Azo von
+Budrio innehatten, sowie andere GÅter in S. Pietro in Selve und S. Stefan in
+Panigale   ?alle anfÅhren?
+gegen einen jÑhrlichen  Zins in der Hîhe von drei Schilling venetian. Pfennige
+und 12 Pfund venetian. Pfennige calciarium.
+F$AMSI 11/1138*/34ff/36
+G$X/Kloster/Pomposa/Pomposa,S.Maria//sw.Venedig
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+H$Zins/Immobilien/Panigai ?Panigale/S. Stefan in Panigale//Kloster in Panigale
+(bei Pravisdomini di S.Vito nw.Portogruaro)
+W$Venedig/X/
+O$X/X/X
+Z$3/sol./X
+M$X/den./X/Z
+Q$omni anno \dots in dei nomine denariorum Veneticorum soldos tres
+B$Indiktion 1! Wohl byzantinischer Jahresanfang.
+
+REG$Abt Paul vom Kloster S. Maria in Pomposa ersucht Abt Martin vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf 100 Jahre
+das zu Erbrecht zu Åbergeben, was einst Guido und Albert, der Sohn des Azo von
+Budrio innehatten, sowie andere GÅter in S. Pietro in Selve und S. Stefan in
+Panigale   ?alle anfÅhren?
+gegen einen jÑhrlichen  Zins in der Hîhe von drei Schilling venetian. Pfennige
+und 12 Pfund venetian. Pfennige calciarium.
+F$AMSI 11/1138*/34ff/36
+G$X/Kloster/Pomposa/Pomposa,S.Maria//sw.Venedig
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$12/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$calcearii nomine denariorum Veneticorum libras duodecim
+B$Indiktion 1! Wohl byzantinischer Jahresanfang.
+
+REG$Abt Paul vom Kloster S. Maria in Pomposa ersucht Abt Martin vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf 100 Jahre
+das zu Erbrecht zu Åbergeben, was einst Guido und Albert, der Sohn des Azo von
+Budrio innehatten, sowie andere GÅter in S. Pietro in Selve und S. Stefan in
+Panigale   ?alle anfÅhren?
+gegen einen jÑhrlichen  Zins in der Hîhe von drei Schilling venetian. Pfennige
+und 12 Pfund venetian. Pfennige calciarium.
+Wer gegen diese Abmachung verstî·t, mu· der anderen Vertragspartei zwei Pfund
+Gold Pînale bezahlen.
+F$AMSI 11/1138*/34ff/36
+G$X/Kloster/Pomposa/Pomposa,S.Maria//sw.Venedig     beide?
+E$X/Kloster/InsulaSerra Pola/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri libras duas
+B$Indiktion 1! Wohl byzantinischer Jahresanfang.
+
+DOK$AMSI_1139/1139.1.3/1139.1.3/1139 JÑnner 3/anno ab incarnacione domini MCXXXIX. die
+tercia mensis Ianuarii indictione secunda/S.PietroinSelve/S. Pietro i.
+Selve (Reisewagen!)//wo??
+S$Ugo/X/Ugo
+V$Ugo/X/Ugo
+K$Archipresbiter Bono der Pfarre S. Pietro in Selve ersucht Abt Martin vom Kloster
+S. Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf sechzig
+Jahre eine Hube in der Grî·e von 40 Turnaturiae (ital. Ackerma·) Land und
+Weingarten gegen einen Zins in der Hîhe von sechs venetian. Pfennigen zu
+verpachten.
+
+REG$Archipresbiter Bono der Pfarre S. Pietro in Selve ersucht Abt Martin vom Kloster
+S. Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf sechzig
+Jahre eine Hube in der Grî·e von 40 Turnaturiae (ital. Ackerma·) Land und
+Weingarten gegen einen Zins in der Hîhe von sechs venetian. Pfennigen zu
+verpachten.
+F$AMSI 11/1139*/255f/256
+G$Bono/Archipresbiter/S.PietroinSelve/S. Pietro i. Selve//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$pensionem dare debeamus \dots denarios Veneticorum sex
+
+REG$Archipresbiter Bono der Pfarre S. Pietro in Selve ersucht Abt Martin vom Kloster
+S. Maria und S. Andrea in Insula Serra, ihm und seinen Nachfolgern auf sechzig
+Jahre eine Hube in der Grî·e von 40 Turnaturiae (ital. Ackerma·) Land und
+Weingarten gegen einen Zins in der Hîhe von sechs venetian. Pfennigen zu
+verpachten. Wer gegen diesen Vertrag verstî·t, soll der anderen Vertragspartei
+vier Unzen Gold bezahlen.
+F$AMSI 11/1139*/255f/256
+G$Bono/Archipresbiter/S.PietroinSelve/S. Pietro i. Selve// beide?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$4/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias quatuor
+
+DOK$AMSI_1139a/1139.1.8/1139.1.8/1139 JÑnner 8/anno ab incarnacione domini MCXXXIX. die
+octavo mensis Ianuarii indictione secunda/Ravenna/Ravenna//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Unganus, dem Sohn des Ugo Spacia-Infernus und dessen Frau Claricia und ihren
+Kindern und Enkeln Land in Casamarisi und Fornace in der Gemeinde S. Pietro in
+Selve und in S. Stefano in Panigale, welches schon deren Gro·vater Unganus
+Spacia-Infernus und danach Girardo Spacia-Infernus innehatten, gegen einen
+jÑhrlichen Zins in der Hîhe von 30 Schilling venetian. Pfennige zu Erbrecht.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Unganus, dem Sohn des Ugo Spacia-Infernus und dessen Frau Claricia und ihren
+Kindern und Enkeln Land in Casamarisi und Fornace in der Gemeinde S. Pietro in
+Selve und in S. Stefano in Panigale, welches schon deren Gro·vater Unganus
+Spacia-Infernus und danach Girardo Spacia-Infernus innehatten, gegen einen
+jÑhrlichen Zins in der Hîhe von 30 Schilling venetian. Pfennige zu Erbrecht.
+F$AMSI 11/1139a*/256f/257
+G$Unganus Spacia-Infernus/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$30/sol./X
+M$X/den./X/Z
+Q$pensionem dare debeamus omni anno denariorum Veneticorum soldos triginta
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Unganus, dem Sohn des Ugo Spacia-Infernus und dessen Frau Claricia und ihren
+Kindern und Enkeln Land in Casamarisi und Fornace in der Gemeinde S. Pietro in
+Selve und in S. Stefano in Panigale, welches schon deren Gro·vater Unganus
+Spacia-Infernus und danach Girardo Spacia-Infernus innehatten, gegen einen
+jÑhrlichen Zins in der Hîhe von 30 Schilling venetian. Pfennige zu Erbrecht.
+Sollte eine Vertragspartei sich nicht an die Abmachungen halten, mu· sie der
+anderen ein Pînale in der Hîhe von zwei Unzen Gold bezahlen.
+F$AMSI 11/1139a*/256f/257
+G$Unganus Spacia-Infernus/X/X/X// beide?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias duas
+
+DOK$AMSI_1139b/1139.1.9/1139.1.9/1139 JÑnner 9/anno ab incarnacione domini MCXXXIX. die nono
+mensis Ianuarii indictione secunda/Ravenna/Ravenna//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Oddolo Pietro ersucht Abt Martin vom Kloster S. Maria und S. Andrea in Insula
+Serra, ihm und seiner Frau Gualda und ihren Kindern und Enkeln jene GÅter zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von zwei venetian. Pfennigen
+und 40 Schilling venetian. Pfennige calciarium zu geben, die
+seine Schwiegermutter in Sambucita in der Gemeinde S. Pietro in Selve innehatte.
+
+REG$Oddolo Pietro ersucht Abt Martin vom Kloster S. Maria und S. Andrea in Insula
+Serra, ihm und seiner Frau Gualda und ihren Kindern und Enkeln jene GÅter zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von zwei venetian. Pfennigen
+und 40 Schilling venetian. Pfennige calciarium zu geben, die
+seine Schwiegermutter in Sambucita in der Gemeinde S. Pietro in Selve innehatte.
+F$AMSI 11/1139b*/257f/258
+G$Oddolo Pietro/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$pensionem dare debeamus vobis omni anno denarios Veneticorum duos
+
+REG$Oddolo Pietro ersucht Abt Martin vom Kloster S. Maria und S. Andrea in Insula
+Serra, ihm und seiner Frau Gualda und ihren Kindern und Enkeln jene GÅter zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von zwei venetian. Pfennigen
+und 40 Schilling venetian. Pfennige calciarium zu geben, die
+seine Schwiegermutter in Sambucita in der Gemeinde S. Pietro in Selve innehatte.
+F$AMSI 11/1139b*/257f/258
+G$Oddolo Pietro/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$40/sol./X
+M$X/den./X/Z
+Q$calcearii nomine denariorum Veneticorum soldos quadraginta
+
+REG$Oddolo Pietro ersucht Abt Martin vom Kloster S. Maria und S. Andrea in Insula
+Serra, ihm und seiner Frau Gualda und ihren Kindern und Enkeln jene GÅter zu
+Erbrecht gegen einen jÑhrlichen Zins in der Hîhe von zwei venetian. Pfennigen
+und 40 Schilling venetian. Pfennige calciarium zu geben, die
+seine Schwiegermutter in Sambucita in der Gemeinde S. Pietro in Selve innehatte.
+Sollte eine Vertragspartei gegen die Abmachung versto·en, mu· sie der anderen
+2 Unzen Gold bezahlen.
+F$AMSI 11/1139b*/257f/258
+G$Oddolo Pietro/X/X/X//    beide?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri uncias duas
+
+DOK$AMSI_1149/1149.11.23/1149.11.23/1149 November 23/anno ab incarnacione domini MCIL?. die
+vigesimo tercio mensis Novembris indictione tercia
+decima/unbekannt Reisewagen/Reisewagen?//wo??
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Ubaldino, Rodulfo und Ungarello ersuchen Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihnen und ihren Kindern und Enkeln GÅter in Sambuceta
+in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von zwei
+venetian. Pfennigen und 12 Pfennige aus Lucca calciarium zu Erbrecht zu geben,
+welche sie von Acarisio toscario gekauft haben.
+
+REG$Ubaldino, Rodulfo und Ungarello ersuchen Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihnen und ihren Kindern und Enkeln GÅter in Sambuceta
+in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von zwei
+venetian. Pfennigen und 12 Pfennige aus Lucca calciarium zu Erbrecht zu geben,
+welche sie von Acarisio toscario gekauft haben.
+F$AMSI 11/1149*/258f/259
+G$Ubaldino;Rodulfo;Ungarello/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$pensionem dare debeamus omni anno denariorum Venecie duos
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+
+REG$Ubaldino, Rodulfo und Ungarello ersuchen Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihnen und ihren Kindern und Enkeln GÅter in Sambuceta
+in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von zwei
+venetian. Pfennigen und 12 Pfennige aus Lucca calciarium zu Erbrecht zu geben,
+welche sie von Acarisio toscario gekauft haben.
+F$AMSI 11/1149*/258f/259
+G$Ubaldino;Rodulfo;Ungarello/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$calceario damus denarios lucentes infarcitorum duodecim
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.  infarcire hineinstopfen?
+B$denarios lucentes Pfennige von Lucca?
+
+REG$Ubaldino, Rodulfo und Ungarello ersuchen Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihnen und ihren Kindern und Enkeln GÅter in Sambuceta
+in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins in der Hîhe von zwei
+venetian. Pfennigen und 12 Pfennige aus Lucca calciarium zu Erbrecht zu geben,
+welche sie von Acarisio toscario gekauft haben.
+Nach ihrem Tod sollen diese bei Strafe von einer Unze Gold an das Kloster
+zurÅckfallen.
+F$AMSI 11/1149*/258f/259
+G$Ubaldino;Rodulfo;Ungarello/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$pene auri unciam unam
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+
+DOK$AMSI_1149a/1149.11.24/1149.11.24/1149 November 24/anno ab incarnacione domini MCIL?. die
+vigesimo quarto mensis Novembris indictione tercia decima/Ravenna/Ravenna//Romagna/
+S$Ugo/Ravenna/Ugo
+V$Ugo/Ravenna/Ugo
+K$Russo von Guidone ersucht Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihm, seiner Frau und ihren Kindern GÅter in
+Granarigo und Casalicio in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins
+in der Hîhe von einem venetian. Pfennig und 24 Pfennige aus Lucca calciarium zu
+Erbrecht zu geben, welche sie von Giulia, der Frau des Peter von Paganino
+gekauft haben.
+
+REG$Russo von Guidone ersucht Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihm, seiner Frau und ihren Kindern GÅter in
+Granarigo und Casalicio in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins
+in der Hîhe von einem venetian. Pfennig und 24 Pfennige aus Lucca calciarium zu
+Erbrecht zu geben, welche sie von Giulia, der Frau des Peter von Paganino
+gekauft haben.
+F$AMSI 11/1149a*/259f/260
+G$Russo di? Guidone/X/X/X//Familie
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$pensionem dare debeamus omni anno denariorum Veneticorum unum
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+
+REG$Russo von Guidone ersucht Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihm, seiner Frau und ihren Kindern GÅter in
+Granarigo und Casalicio in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins
+in der Hîhe von einem venetian. Pfennig und 24 Pfennige aus Lucca calciarium zu
+Erbrecht zu geben, welche sie von Giulia, der Frau des Peter von Paganino
+gekauft haben.
+F$AMSI 11/1149a*/259f/260
+G$Russo di ?Guidone/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$calcearii nomine denariorum lucentium viginti quatuor
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+denarios lucentes Pfennige von Lucca?
+
+REG$Russo von Guidone ersucht Abt Angelo vom Kloster S. Maria und
+S. Andrea in Insula Serra, ihm, seiner Frau und ihren Kindern GÅter in
+Granarigo und Casalicio in der Gemeinde S. Pietro in Selve gegen jÑhrlichen Zins
+in der Hîhe von einem venetian. Pfennig und 24 Pfennige aus Lucca calciarium zu
+Erbrecht zu geben, welche sie von Giulia, der Frau des Peter von Paganino
+gekauft haben.
+Nach ihrem Tod sollen diese bei Strafe von einer Unze Gold an das Kloster
+zurÅckfallen.
+F$AMSI 11/1149a*/259f/260
+G$Russo di? Guidone/X/X/X//
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pena auri unciam unam
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+
+DOK$AMSI_1149b/1149.12.1/1149.12.1/1149 Dezember 1/anno ab incarnacione domini MCIL. die
+primo mensis decembris indictione tercia decima/Ravenna/Ravenna//Romagna/
+S$Petrus/Ravenna/Petrus
+V$Petrus/Ravenna/Petrus
+K$Abt Solus von S. Maria in Cosmedin Rom? ersucht den Abt Angelo vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinem Konvent GÅter in Armentaria
+in der Gemeinde S. Pietro in Selve, welche der Presbiter Rusticus ihrem Kloster
+hinterlie·, auf sechzig Jahre gegen jÑhrlichen Zins in der Hîhe von 2
+venetian. Pfennigen und zwei Schilling Luccheser Pfennige calciarium zu
+Åbergeben.
+
+REG$Abt Solus von S. Maria in Cosmedin Rom? ersucht den Abt Angelo vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinem Konvent GÅter in Armentaria
+in der Gemeinde S. Pietro in Selve, welche der Presbiter Rusticus ihrem Kloster
+hinterlie·, auf sechzig Jahre gegen jÑhrlichen Zins in der Hîhe von 2
+venetian. Pfennigen und zwei Schilling Luccheser Pfennige calciarium zu
+Åbergeben.
+F$AMSI 11/1149b*/260f/261
+G$X/Kloster/Rom/Rom,S.Maria in Cosmedin//Rom
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$sub pensione omni marcio mense \dots denarios Veneticorum duos
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+
+REG$Abt Solus von S. Maria in Cosmedin Rom? ersucht den Abt Angelo vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinem Konvent GÅter in Armentaria
+in der Gemeinde S. Pietro in Selve, welche der Presbiter Rusticus ihrem Kloster
+hinterlie·, auf sechzig Jahre gegen jÑhrlichen Zins in der Hîhe von 2
+venetian. Pfennigen und zwei Schilling Luccheser Pfennige calciarium zu
+Åbergeben.
+F$AMSI 11/1149b*/260f/261
+G$X/Kloster/Rom/Rom,S.Maria in Cosmedin//Rom/
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$X/X/X
+Z$2/sol./X
+M$X/den./X/Z
+Q$pro calceario soldos duos denariorum Lucencium
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+denarios lucentes Pfennige von Lucca?
+
+REG$Abt Solus von S. Maria in Cosmedin Rom? ersucht den Abt Angelo vom Kloster S.
+Maria und S. Andrea in Insula Serra, ihm und seinem Konvent GÅter in Armentaria
+in der Gemeinde S. Pietro in Selve, welche der Presbiter Rusticus ihrem Kloster
+hinterlie·, auf sechzig Jahre gegen jÑhrlichen Zins in der Hîhe von 2
+venetian. Pfennigen und zwei Schilling Luccheser Pfennige calciarium zu
+Åbergeben. Jene Vertragspartei, welche gegen die Abmachungen verstî·t, mu· der
+anderen eine Unze Gold Pînale bezahlen.
+F$AMSI 11/1149b*/260f/261
+G$X/Kloster/Rom/Rom,S.Maria in Cosmedin//Rom   beide?
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene auri unciam unam
+B$12. Indiktion ! Wohl byzantinischer Jahresanfang.
+
+DOK$AMSI_1153/1153.11.27/1153.11.27/1153 November 27/anno ab incarnacione domini MCLIII.
+tempore domini Anastasii pape et Friderici regis die vigesimo septimo mensis
+Novembris indictione secunda/Ravenna/Ravenna//Romagna/
+S$Johannes/Ravenna/Johannes
+V$Johannes/Ravenna/Johannes
+K$Abt Sipoto vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Prior Girardo fÅr den Prior Manfred von S. Maria in Porto del lido del mare
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser Pfennige calciarium.
+
+REG$Abt Sipoto vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Prior Girardo fÅr den Prior Manfred von S. Maria in Porto del lido del mare
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser Pfennige calciarium.
+F$AMSI 11/1153*/264ff/267
+G$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto del lido del
+mare//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/Faenza/Faenza//wo??
+H$Zins/Immobilien/Livenza ?/Liviense//wo??
+H$Zins/Immobilien/Faenza ??Corneliense/Corneliense//wo??
+H$Zins/Immobilien/Bologna ?/Bolognese//wo??
+W$Byzanz/X
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/auri/Z
+A$1 Byzantiner Golddukaten/5 Schill. luccheser Pf.
+Q$omni marcii mense vel infra in ducatis Bizancium unum auri aud quinque
+soldorum denarios lucentium
+B$Indiktion 1 ! Wohl byzantinischer Jahresanfang.
+
+REG$Abt Sipoto vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Prior Girardo fÅr den Prior Manfred von S. Maria in Porto del lido del mare
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser Pfennige calciarium.
+F$AMSI 11/1153*/264ff/267
+G$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto del lido del
+mare//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/Faenza/Faenza//wo??
+H$Zins/Immobilien/Livenza ?/Liviense//wo??
+H$Zins/Immobilien/Faenza ??Corneliense/Corneliense//wo??
+H$Zins/Immobilien/Bologna ?/Bolognese//wo??
+W$Lucca/X/
+O$X/X/X
+Z$5/sol./X
+M$X/den./X/Z
+A$5 Schill. luccheser Pf./1 Byzantiner Golddukaten
+Q$omni marcii mense vel infra in ducatis Bizancium unum auri aud quinque
+soldorum denarios lucentium
+B$Indiktion 1 ! Wohl byzantinischer Jahresanfang.
+denarios lucentes Pfennige von Lucca?
+
+REG$Abt Sipoto vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Prior Girardo fÅr den Prior Manfred von S. Maria in Porto del lido del mare
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser Pfennige calciarium.
+F$AMSI 11/1153*/264ff/267
+G$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto del lido del
+mare//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$25/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$calcearii nomine denarios lucentes libras viginti quinque
+B$Indiktion 1 ! Wohl byzantinischer Jahresanfang.
+denarios lucentes Pfennige von Lucca?
+
+REG$Abt Sipoto vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem
+Prior Girardo fÅr den Prior Manfred von S. Maria in Porto del lido del mare
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser Pfennige calciarium.
+Sollte Abt Sipoto gegen die Abmachungen versto·en, verspricht er 500 Pfund Gold
+Pînale zu bezahlen.
+F$AMSI 11/1153*/264ff/267
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto del lido del
+mare//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$500/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub nomine pene auri libras quingenta
+B$Indiktion 1 ! Wohl byzantinischer Jahresanfang.
+
+DOK$AMSI_1154/1154.5.12/1154.5.12/1154 Mai 12/anno ab incarnacione eius MCLIV. tempore
+domini Anastasii pape et Federici regis die duodecimo mensis Madii indictione
+secunda/unbekannt Insula ecclesiarum S. Andree et S. Flurani/Insula ecclesiarum
+S. Andree et S. Flurani//wo??
+S$Johannes/Ravenna/Johannes
+V$Johannes/Ravenna/Johannes
+K$Abt Sipoto vom Kloster S. Maria di Cirito und S. Andrea in Insula Serra
+Åbergibt mit Zustimmung von Papst Anastasius und Bischof Rodolfo von Pola dem
+Kanoniker Ugo fÅr den Prior Manfred von S. Maria in Porto
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser (Pfennige) calciarium.
+
+REG$Abt Sipoto vom Kloster S. Maria di Cirito und S. Andrea in Insula Serra
+Åbergibt mit Zustimmung von Papst Anastasius und Bischof Rodolfo von Pola dem
+Kanoniker Ugo fÅr den Prior Manfred von S. Maria in Porto
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser (Pfennige) calciarium.
+F$AMSI 11/1154*/268ff/271
+G$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto del lido del
+mare//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/Faenza/Faenza//wo??
+H$Zins/Immobilien/Livenza ?/Liviense//wo??
+H$Zins/Immobilien/Faenza ??Corneliense/Corneliense//wo??
+H$Zins/Immobilien/Bologna ?/Bolognese//wo??
+W$Byzanz/X
+O$X/X/X
+Z$X/X/X
+M$bisancius/aurum/X/Z
+A$1 Byzantiner Golddukaten/5 Schill. Luccheser Pf.
+Q$omni marcii mense vel infra in dictis Bizancium unum auri aud quinque
+soldos denarios lucenses
+B$1153 in ducatis statt in dictis, soldorum denarios lucentium statt soldos
+denarios lucenses. ?
+
+REG$Abt Sipoto vom Kloster S. Maria di Cirito und S. Andrea in Insula Serra
+Åbergibt mit Zustimmung von Papst Anastasius und Bischof Rodolfo von Pola dem
+Kanoniker Ugo fÅr den Prior Manfred von S. Maria in Porto
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser (Pfennige) calciarium.
+F$AMSI 11/1154*/268ff/271
+G$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/Faenza/Faenza//wo??
+H$Zins/Immobilien/Livenza ?/Liviense//wo??
+H$Zins/Immobilien/Faenza ??Corneliense/Corneliense//wo??
+H$Zins/Immobilien/Bologna ?/Bolognese//wo??
+W$Lucca/X/
+O$X/X/X
+Z$5/sol./X
+M$X/den./X/Z
+A$5 Schill. Luccheser Pf./1 Byzantiner Golddukaten
+Q$omni marcii mense vel infra in dictis Bizancium unum auri aud quinque
+soldos denarios lucenses
+B$1153 in ducatis statt in dictis, soldorum denarios lucentium statt soldos
+denarios lucenses. ?
+denarios lucentes Pfennige von Lucca?
+
+REG$Abt Sipoto vom Kloster S. Maria di Cirito und S. Andrea in Insula Serra
+Åbergibt mit Zustimmung von Papst Anastasius und Bischof Rodolfo von Pola dem
+Kanoniker Ugo fÅr den Prior Manfred von S. Maria in Porto
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser (Pfennige) calciarium.
+F$AMSI 11/1154*/268ff/271
+G$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto//wo??
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$calcearii nomine libras viginti et quinque \dots lucenses
+B$1153 denarios genannt.
+
+REG$Abt Sipoto vom Kloster S. Maria di Cirito und S. Andrea in Insula Serra
+Åbergibt mit Zustimmung von Papst Anastasius und Bischof Rodolfo von Pola dem
+Kanoniker Ugo fÅr den Prior Manfred von S. Maria in Porto
+(Venedig?) genannte GÅter in den Grafschaften Faenza, Liviense, Corneliense und
+Bolognese gegen jÑhrlichen Zins in der Hîhe von einem Byzantiner Golddukaten
+oder 5 Schilling Luccheser Pfennige und 25 Pfund Luccheser (Pfennige) calciarium.
+Sollte Abt Sipoto gegen die Abmachungen versto·en, verspricht er 50 Pfund Gold
+Pînale zu bezahlen.
+F$AMSI 11/1154*/268ff/271
+G$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+E$X/Kloster/Ravenna ?Porto del lido del mare/S. Maria in Porto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$500/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub nomine pene auri librarum quinquaginta
+B$1153 500 Pfund Gold!
+
+DOK$AMSI_1170/1170.5.24/1170.5.24/1170 Mai 24/anno eiusdem nativitatis MCLXX. tempore
+Alexandri pape et Frederici Imperatoris die XXIIII. mense madii/X/X//
+S$Oliverius/S. Veit;Pomposa/Oliverius
+V$Oliverius/S. Veit;Pomposa/Oliverius
+K$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem Abt
+Guido vom Kloster S. Maria in Pomposa auf dreihundert Jahre das zu Erbrecht,
+was einst Guido und Albert, der Sohn des Azo von Budrio, dem Kloster gegeben
+haben, sowie andere GÅter, die Guido und Marozia von Marcone Åbergeben haben, in
+Faventino in der Gemeinde S. Pietro in Selve und S. Stefan in Panigale
+gegen einen jÑhrlichen  Zins in der Hîhe von sieben Veroneser Pfennigen
+und 3 Pfund Veroneser Pfennigen calciarium.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem Abt
+Guido vom Kloster S. Maria in Pomposa auf dreihundert Jahre das zu Erbrecht,
+was einst Guido und Albert, der Sohn des Azo von Budrio, dem Kloster gegeben
+haben, sowie andere GÅter, die Guido und Marozia von Marcone Åbergeben haben, in
+Faventino in der Gemeinde S. Pietro in Selve und S. Stefan in Panigale
+gegen einen jÑhrlichen  Zins in der Hîhe von sieben Veroneser Pfennigen
+und 3 Pfund Veroneser Pfennigen calciarium.
+F$AMSI 11/1170*/275ff/277
+G$X/Kloster/Pomposa/Pomposa,S.Maria//sw.Venedig
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+H$Zins/Immobilien/Panigai ?Panigale/S. Stefan in Panigale//wo??
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/Z
+Q$annualem pensionem persolvendas omni martii mense \dots denariorum
+Veronentium septem titulo pensionis
+B$Vgl. 1138.12.19.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem Abt
+Guido vom Kloster S. Maria in Pomposa auf dreihundert Jahre das zu Erbrecht,
+was einst Guido und Albert, der Sohn des Azo von Budrio, dem Kloster gegeben
+haben, sowie andere GÅter, die Guido und Marozia von Marcone Åbergeben haben, in
+Faventino in der Gemeinde S. Pietro in Selve und S. Stefan in Panigale
+gegen einen jÑhrlichen  Zins in der Hîhe von sieben Veroneser Pfennigen
+und 3 Pfund Veroneser Pfennigen calciarium.
+F$AMSI 11/1170*/275ff/277
+G$X/Kloster/Pomposa/Pomposa,S.Maria//sw.Venedig
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$calcearii nomine denariorum Veronensium libras tres
+B$Vgl. 1138.12.19.
+
+REG$Abt Martin vom Kloster S. Maria und S. Andrea in Insula Serra Åbergibt dem Abt
+Guido vom Kloster S. Maria in Pomposa auf dreihundert Jahre das zu Erbrecht,
+was einst Guido und Albert, der Sohn des Azo von Budrio, dem Kloster gegeben
+haben, sowie andere GÅter, die Guido und Marozia von Marcone Åbergeben haben, in
+Faventino in der Gemeinde S. Pietro in Selve und S. Stefan in Panigale
+gegen einen jÑhrlichen  Zins in der Hîhe von sieben Veroneser Pfennigen
+und 3 Pfund Veroneser Pfennigen calciarium.
+Sollte das Kloster S. Maria in Pomposa gegen die Abmachungen versto·en, hat es
+ein Pfund Gold Pînale bezahlen.
+F$AMSI 11/1170*/275ff/277
+G$X/Kloster/Pomposa/Pomposa,S.Maria//sw.Venedig
+E$X/Kloster/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sub nomine pene auri obtimi libram unam
+B$Vgl. 1138.12.19.
+
+DOK$AMSI_1170a/1170.0.0/1170.0.0/1170/sub anno dominice incarnacionis MCLXX. indictione
+tercia/Ravenna/Ravenna//Romagna/
+S$X/X/X
+V$X/X/X
+K$?BestÑtigung der Zinszahlungen, die 1170 von Abt Martin vom Kloster S. Maria
+und S. Andrea Apostolo in Insula Serra eingetrieben worden sind.
+   Urbar?
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von zwei venetian. Pfennigen.
+F$AMSI 11/1170a*/278f/278
+G$X/X/X/X//
+G$Anastasius/X/Ravenna ?S.Apollinare/S. Apollinare//wo?? ?
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo/Insula Serra,S. Maria u. S. Andrea Apostolo/wo??
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$denariorum II de Venecia
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von einem Luccheser (Pfennig).
+F$AMSI 11/1170a*/278f/278
+G$Johannes Galina/X/X/X//
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/S.PietroinSelve/Armentaria in S. Pietro i. Selve//
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$1/den.?/X/A
+Q$per unumquemque annum lucensem I (unum) dare debeatis
+B$den. aus dem Zusammenhang erschlossen.
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von 14 venetian. Pfennigen.
+F$AMSI 11/1170a*/278f/278
+G$Peter/Abt/uIstrien S.Vitale/S. Vitale//prato Medelano/
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/A
+Q$denariorum de Venecia XIIII
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von vier venetian. Pfennigen von Ramisinus
+fÅr seinen Herrn Wido.
+F$AMSI 11/1170a*/278f/278
+G$Ramisinus/X/X/X//
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$denariorum de Venecia IIII
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von vier venetian. Pfennigen.
+F$AMSI 11/1170a*/278f/278
+G$Azo/Priester/uIstrien S.Laurencius/S. Laurencius//wo??
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/uIstrien S.Laurencius/S. Laurencius//wo??
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$denariorum eiusdem IIII
+B$Venedig aus dem Zusammenhang erschlossen.
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von zwei venetian. Pfennigen.
+F$AMSI 11/1170a*/278f/278
+G$Balbo de Artuso/Genannter/Ravenna/Ravenna//Romagna/
+G$Johannes/Genannter/Ravenna/Ravenna//Romagna/
+G$Azallo;Mosculo/X/X/X//
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$denariorum de Venecia II
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von zwei venetian. Pfennigen.
+F$AMSI 11/1170a*/278f/279
+G$Alvolario;Albertino/X/X/X//
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$denariorum de Venecia II
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Hîhe von drei venetian. Pfennigen.
+F$AMSI 11/1170a*/278f/279
+G$Wido/Abt/Pomposa/Pomposa,S.Maria//sw.Venedig
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$annualem pensionem denariorum blanchi de Venecia III
+
+REG$Zinszahlung an Abt Martin vom Kloster S. Maria und S. Andrea Apostolo in
+Insula Serra im Jahr 1170 in der Summe von 19 Luccheser Pfennigen.?
+F$AMSI 11/1170a*/278f/279
+G$X/X/X/X//
+E$Martin/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea Apostolo//wo??
+H$Zins_Summe/Immobilien/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$19/den.?/X/A
+Q$super totum comprehenditur XVIIII lucenses (IIII.) blanchi
+
+DOK$AMSI_1182/1182.5.24/1182.5.24/1182 Mai 24/anno ab incarnacione eius MCLXXXII. die
+vigesimo quarto mensis madii indictione quinta decima/Ravenna/Ravenna//Romagna/
+S$Causa/Ravenna/Causa
+V$Causa/Ravenna/Causa
+K$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria im Wald erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+
+REG$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria in Selve erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+F$AMSI 11/1182*/279ff/280
+G$Martin/Abt/uIstrien S.Adalberto/S. Adalberto//wo??
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Zins/Immobilien/unbekannt S.MariainSelve/S. Maria in Selve//wo?? in cerito??
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$dare debeatis omni annno \dots duodecim denarios lucentes
+B$Die angesprochene Urkunde stammt vom 1154 Mai 12.
+denarios lucentes Pfennige von Lucca?
+
+REG$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria in Selve erhalten hat, gegen einen
+jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+F$AMSI 11/1182*/279ff/280
+G$Martin/Abt/uIstrien S.Adalberto/S. Adalberto//wo??
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$10/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Pro calceario dare nobis debeatis \dots decem libras denariorum lucensium
+B$Die angesprochene Urkunde stammt vom 1154 Mai 12.
+denarios lucentes Pfennige von Lucca?
+
+REG$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria im Wald erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+Sollte der Prior gegen die Abmachung versto·en, mu· er ein Pînale in der Hîhe
+von zwei Pfund Gold bezahlen.
+F$AMSI 11/1182*/279ff/280
+G$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S.Maria in Porto//wo??
+E$Martin/Abt/uIstrien S.Adalberto/S. Adalberto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene duas libras auri
+B$Die angesprochene Urkunde stammt vom 1154 Mai 12.
+
+DOK$AMSI_1181/1181.8.5/1181.8.5/1181 August 5/anno ab incarnacione eius MCLXXXI. die quinto
+mensis augusti indictione quarta decima/Ravenna/Ravenna//Romagna/
+S$Causa/Ravenna/Causa
+V$Causa/Ravenna/Causa
+K$Prior Rainero von der Kirche S. Maria in Porto Åbergibt die eine HÑlfte der
+genannten GÅter in Faventino und Corneliense in der Gemeinde S. Pietro in Selve
+dem Drudolo und dessen Frau Mazzola , die andere aber dem Guido Rizardo und
+dessen Frau Morgana  und den Eheleuten Albertino und Doniola.
+Es wird ein jÑhrlicher Zins in der Hîhe von zwei Luccheser Pfennigen und
+calciarium von sechs Schilling Luccheser Pfennigen festgesetzt.
+
+REG$Prior Rainero von der Kirche S. Maria in Porto Åbergibt die eine HÑlfte der
+genannten GÅter in Faventino und Corneliense in der Gemeinde S. Pietro in Selve
+dem Drudolo und dessen Frau Mazzola , die andere aber dem Guido Rizardo und
+dessen Frau Morgana  und den Eheleuten Albertino und Doniola.
+Es wird ein jÑhrlicher Zins in der Hîhe von zwei Luccheser Pfennigen und
+calciarium von sechs Schilling Luccheser Pfennigen festgesetzt.
+F$AMSI 11/1181*/281ff/282
+G$Drudolo/X/X/X//
+G$Guido Rizardo/X/X/X//
+G$Albertino/X/X/X//
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$pensionem \dots duos denarios lucenses
+
+REG$Prior Rainero von der Kirche S. Maria in Porto Åbergibt die eine HÑlfte der
+genannten GÅter in Faventino und Corneliense in der Gemeinde S. Pietro in Selve
+dem Drudolo und dessen Frau Mazzola , die andere aber dem Guido Rizardo und
+dessen Frau Morgana  und den Eheleuten Albertino und Doniola.
+Es wird ein jÑhrlicher Zins in der Hîhe von zwei Luccheser Pfennigen und
+calciarium von sechs Schilling Luccheser Pfennigen festgesetzt.
+F$AMSI 11/1181*/281ff/282
+G$Drudolo/X/X/X//wo??
+G$Guido Rizardo/X/X/X//wo??
+G$Albertino/X/X/X//
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X
+O$X/X/X
+Z$6/sol./X
+M$X/den./X/Z
+Q$datis michi calcearii nomine sex soldos denariorum lucensium
+
+REG$Prior Rainero von der Kirche S. Maria in Porto Åbergibt die eine HÑlfte der
+genannten GÅter in Faventino und Corneliense in der Gemeinde S. Pietro in Selve
+dem Drudolo und dessen Frau Mazzola , die andere aber dem Guido Rizardo und
+dessen Frau Morgana  und den Eheleuten Albertino und Doniola.
+Es wird ein jÑhrlicher Zins in der Hîhe von zwei Luccheser Pfennigen und
+calciarium von sechs Schilling Luccheser Pfennigen festgesetzt.
+Jene Partei, die gegen diesen Vertrag verstî·t, mu· der anderen eine Unze Gold
+Pînale bezahlen.
+F$AMSI 11/1181*/281ff/282
+G$Drudolo/X/X/X//     beide?
+G$Guido Rizardo/X/X/X//
+G$Albertino/X/X/X//
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$nomine pene unam unciam auri
+
+DOK$AMSI_1182a/1182.5.24/1182.5.24/1182 Mai 24/die vigesimo quarto mensis madii indictione
+quinta decima/Ravenna/Ravenna//Romagna/
+S$X/X/X
+V$X/X/X
+K$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria im Wald erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+
+REG$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria im Wald erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+F$AMSI 12/1182a*/21ff/22
+G$Martin/Abt/uIstrien S.Adalberto/S. Adalberto//Wo??
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Zins/Immobilien/unbekannt S.Maria in Selve/S. Maria in Selve//wo??
+W$Lucca/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$pensio \dots duodecim denariorum lucensium
+B$Die angesprochene Urkunde stammt vom 1154 Mai 12. Vgl. AMSI 11, 279ff Urkunde
+gleichen Datums.
+
+REG$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria im Wald erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+F$AMSI 12/1182a*/21ff/23
+G$Martin/Abt/uIstrien S.Adalberto/S. Adalberto//wo??
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Lucca/X/
+O$10/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Pro calceario decem libras denariorum lucensium
+B$Die angesprochene Urkunde stammt vom 1154 Mai 12. Vgl. AMSI 11, 279ff Urkunde
+gleichen Datums.
+
+REG$Prior Rainerio von der Kirche S. Maria in Porto Åbergibt mit Zustimmung seiner
+MitbrÅder Abt Martin vom Kloster S. Adalberto und seinen Nachfolgern auf 80
+Jahre die HÑlfte der Kapelle S. Maria in Fabriaco mit allen Kirchenspenden fÅr
+die Lebenden und die Toten. Au·erdem Åbergibt er, was die Kirche von Abt Sipoto
+vom Klosters S. Maria de Cerito und S. Andrea in Insula Serra an GÅtern in
+Faventino in der Gemeinde S. Maria im Wald erhalten hat, gegen einen jÑhrlichen
+Zins in der Hîhe von 12 Luccheser Pfennigen und 10 Pfund Luccheser Pfennigen
+calciarium. Die genannte Kapelle soll unbesteuert? bleiben.
+Sollte der Prior gegen die Abmachung versto·en, mu· er ein Pînale in der Hîhe
+von zwei Pfund Gold bezahlen.
+F$AMSI 12/1182a*/21ff/23
+G$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Martin/Abt/uIstrien S.Adalberto/S. Adalberto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$pena duas libras auri
+B$Die angesprochene Urkunde stammt vom 1154 Mai 12. Vgl. AMSI 11, 279ff Urkunde
+gleichen Datums.
+
+DOK$AMSI_1212/1212.10.18/1212.10.18/1212 Oktober 18/anno ab incarnacione eius MCCXII. die
+XVIII. mensis octobris indictione XV./Ravenna/Ravenna//Romagna/
+S$Gerhard/Ravenna/Gerhard
+V$Gerhard/Ravenna/Gerhard
+K$Alexander bittet Prior Leone von der Kirche S. Maria in Porto, da· er und
+seine MitbrÅder ihm und seinen Kindern und Enkeln 4,5 Tornaturae Land und
+WeingÑrten in Faventino in der Gemeinde S. Pietro in Selve, welche einst Pietro de
+Bunga innehatte, gegen jÑhrlichen Zins in der Hîhe von drei Ravennater Pfennigen
+und 10 Schilling Ravennater (Pfennige) calciarium zu Erbrecht Åbergibt.
+
+REG$Alexander bittet Prior Leone von der Kirche S. Maria in Porto, da· er und
+seine MitbrÅder ihm und seinen Kindern und Enkeln 4,5 Tornaturae Land und
+WeingÑrten in Faventino in der Gemeinde S. Pietro in Selve, welche einst Pietro de
+Bunga innehatte, gegen jÑhrlichen Zins in der Hîhe von drei Ravennater Pfennigen
+und 10 Schilling Ravennater (Pfennige) calciarium zu Erbrecht Åbergibt.
+F$AMSI 12/1212*/23f/24
+G$Alexander/X/X/X//
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//Wo??
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//wo??
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$pensionem inde vobis dare debeamus omni anno \dots tres denarios Ravenne
+B$1212 ist die fÅnfte (!) Indiktion, nicht die 15. Es handelt sich wohl um einen
+Druckfehler.
+
+REG$Alexander bittet Prior Leone von der Kirche S. Maria in Porto, da· er und
+seine MitbrÅder ihm und seinen Kindern und Enkeln 4,5 Tornaturae Land und
+WeingÑrten in Faventino in der Gemeinde S. Pietro in Selve, welche einst Pietro de
+Bunga innehatte, gegen jÑhrlichen Zins in der Hîhe von drei Ravennater Pfennigen
+und 10 Schilling Ravennater (Pfennige) calciarium zu Erbrecht Åbergibt.
+F$AMSI 12/1212*/23f/24
+G$Alexander/X/X/X//
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$Ravenna/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$nomine calcearii decem solidos Ravenne
+B$1212 ist die fÅnfte (!) Indiktion, nicht die 15. Es handelt sich wohl um einen
+Druckfehler.
+
+REG$Alexander bittet Prior Leone von der Kirche S. Maria in Porto, da· er und
+seine MitbrÅder ihm und seinen Kindern und Enkeln 4,5 Tornaturae Land und
+WeingÑrten in Faventino in der Gemeinde S. Pietro in Selve, welche einst Pietro de
+Bunga innehatte, gegen jÑhrlichen Zins in der Hîhe von drei Ravennater Pfennigen
+und 10 Schilling Ravennater (Pfennige) calciarium zu Erbrecht Åbergibt.
+Jene Partei,die gegen diese Abmachung verstî·t, mu· der anderen 15 Schilling
+ravennater (Pfennige) Pînale bezahlen.
+F$AMSI 12/1212*/23f/24
+G$Alexander/X/X/X//                      beide?
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$pensionem inde vobis dare debeamus omni anno \dots tres denarios Ravenne
+B$1212 ist die fÅnfte (!) Indiktion, nicht die 15. Es handelt sich wohl um einen
+Druckfehler.
+
+DOK$AMSI_1223/1223.7.1/1223.7.1/1223 Juli 1/anno ab incarnacione eius MCCXXIII. die primo
+mensis Iulii indictione XV./Ravenna/Ravenna//Romagna/
+S$Gerhard/Ravenna/Gerhard
+V$Gerhard/Ravenna/Gerhard
+K$Abt Johannes vom Kloster S. Maria und S. Andrea in Istien bestÑtigt, von
+Matheus, dem Prior von S. Maria in Porto, den Zins erhalten zu haben, den seine
+Kirche fÅr GÅter in Faventino in der Gemeinde S. Pietro in Selve 30 Jahre nicht
+bezahlt hat, nÑmlich 50 Schilling ravennater Pfennige.
+
+REG$Abt Johannes vom Kloster S. Maria und S. Andrea in Istien bestÑtigt, von
+Matheus, dem Prior von S. Maria in Porto, den Zins erhalten zu haben, den seine
+Kirche fÅr GÅter in Faventino in der Gemeinde S. Pietro in Selve 30 Jahre nicht
+bezahlt hat, nÑmlich 50 Schilling ravennater Pfennige.
+F$AMSI 12/1223*/31f/31
+G$Matheus/Prior/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Johannes/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$ZinsrÅckstand/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+W$Ravenna/X/
+O$X/X/X
+Z$50/sol./X
+M$X/den./X/A
+Q$quinquaginta soldos denariorum Ravenne
+B$1. Indiktion (1223), wohl Venezianischer 1.-MÑrz-Jahresbeginn.
+  Porto in Ravenna oder anwesend in Ravenna?
+
+REG$Abt Johannes vom Kloster S. Maria und S. Andrea in Istien bestÑtigt, von
+Matheus, dem Prior von S. Maria in Porto, den Zins erhalten zu haben, den seine
+Kirche fÅr GÅter in Faventino in der Gemeinde S. Pietro in Selve 30 Jahre nicht
+bezahlt hat, nÑmlich 50 Schilling ravennater Pfennige.
+F$AMSI 12/1223*/31f/32
+G$Matheus/Prior/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Johannes/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Quittung_Zins/Geldsumme/unbestimmt/unbestimmt//
+W$Ravenna/X/
+O$X/X/X
+Z$50/sol./X
+M$X/den./X/A
+Q$quinquaginta soldos denariorum Ravenne
+B$1. Indiktion (1223), wohl Venezianischer 1.-MÑrz-Jahresbeginn.
+
+REG$Abt Johannes vom Kloster S. Maria und S. Andrea in Istien bestÑtigt, von
+Matheus, dem Prior von S. Maria in Porto, den Zins erhalten zu haben, den seine
+Kirche fÅr GÅter in Faventino in der Gemeinde S. Pietro in Selve 30 Jahre nicht
+bezahlt hat. Au·erdem ist die Kirche bei Nachla· der vereinbarten Pînale fÅr
+den ZinsrÅckstand verpflichtet, jÑhrlich drei ravennater Pfennige Zins in
+Venedig bei der Kirche S. Maria de Caritate? zu bezahlen.
+F$AMSI 12/1223*/31f/32
+G$Matheus/Prior/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+E$Johannes/Abt/InsulaSerra/Insula Serra,S. Maria u. S. Andrea//Istrien/
+H$Zinsverpflichtung/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+W$Ravenna/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$deinde tenearis \dots dare \dots tres denarios Ravenne in Venecia apud
+ecclesiam sancte Marie caritatis
+B$1. Indiktion (1223), wohl Venezianischer 1.-MÑrz-Jahresbeginn.
+
+DOK$AMSI_1228/1228.3.5/1228.3.5/1228 MÑrz 5/anno ab incarnacione eius MCCXXVIII. tempore
+Gregorii pape imperatore vero domino Frederico die quinto exeunte Marzio in die
+prima/Ravenna/Ravenna//Romagna/
+S$Guido/kaiserl. Notar;Ravenna/Guido
+V$Guido/kaiserl. Notar;Ravenna/Guido
+K$Graf Malviziano von Bagnacavallo und Graf Malviziano von Castello d\'Imola
+ersuchen Prior Matheus von S. Maria in Porto, ihnen mit Zustimmung seiner
+MitbrÅder in der Gemeinde S. Pietro in Selve, die sie von S. Maria de Ceredo und
+S. Andrea di Serra in Istrien innehatten, gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Silber Ravennater Pfennige und fÅnf Schilling Silberpfennige
+calciarium zu Erbrecht zu Åbergeben.
+
+REG$Graf Malviziano von Bagnacavallo und Graf Malviziano von Castello d\'Imola
+ersuchen Prior Matheus von S. Maria in Porto, ihnen mit Zustimmung seiner
+MitbrÅder in der Gemeinde S. Pietro in Selve, die sie von S. Maria de Ceredo und
+S. Andrea di Serra in Istrien innehatten, gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Silber Ravennater Pfennige und fÅnf Schilling Silberpfennige
+calciarium zu Erbrecht zu Åbergeben.
+F$AMSI 12/1228*/33ff/34
+G$Malviziano/Graf/Bagnacavallo/Bagnacavallo//w. Ravenna
+G$Malviziano/Graf/unbekannt ?Castellod\'Imola/Castello d\'Imola//wo??
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$Zins/Immobilien/S.PietroinSelve/S. Pietro i. Selve//
+W$Ravenna/X
+O$X/X/X
+Z$X/X/X
+M$3/den./croxus;puri argenti/Z
+Q$tres denarios puri argenti videlicet de denariis croxis ravenne nuper factis
+B$die quinto ex?eunte Marzio in die prima
+
+REG$Graf Malviziano von Bagnacavallo und Graf Malviziano von Castello d\'Imola
+ersuchen Prior Matheus von S. Maria in Porto, ihnen mit Zustimmung seiner
+MitbrÅder in der Gemeinde S. Pietro in Selve, die sie von S. Maria de Ceredo und
+S. Andrea di Serra in Istrien innehatten, gegen jÑhrlichen Zins in der Hîhe von
+drei Pfennigen Silber Ravennater Pfennige und fÅnf Schilling Silberpfennige
+calciarium zu Erbrecht zu Åbergeben.
+F$AMSI 12/1228*/33ff/34
+G$Malviziano/Graf/Bagnacavallo/Bagnacavallo//wo??
+G$Malviziano/Graf/unbekannt ?Castellod\'Imola/Castello d\'Imola//wo??
+E$X/Kirche/Ravenna S.Maria in Porto/Ravenna,S. Maria in Porto//wo??
+H$calciarium/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$X/X/X
+Z$5/sol./X
+M$X/den./puri argenti/Z
+Q$nomine calzearii quinque soldos denariorum puri argenti
+B$die quinto ex?eunte Marzio in die prima
+
+

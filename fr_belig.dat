@@ -1,0 +1,204 @@
+note *** Urkunden Beligna
+        Nummerierung nach Editions-Konzept Anfang 2018 nachgefÅhrt
+
+note *** Einlesen der Rohdaten fr_abeli.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+
+DOK$abel_05/1173.0.0/1173.0.0/1173/anno dominice incarnationis MCLXXIII,
+indictione sexta, concurentes septem/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Patriarch Ulrich II. von Aquileia schenkt dem Kloster Beligna Besitz in Sezza
+in der NÑhe von Piran.
+
+REG$Das Kloster Beligna hat dem Patriarchen Ulrich II. von Aquileia fÅr Besitz in
+Sezza in der NÑhe von Piran Zins in der Hîhe von 20 Pfennigen Friesacher MÅnze
+jÑhrlich zu zahlen.
+F$Piran/2/2f/3
+F$Kos 4/536/272/272
+G$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kloster/Beligna/Beligna//Friaul-SÅd/
+H$Zinsverpflichtung/Immobilien/Sezza/Sezza//Istrien/
+W$Friesach/moneta/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$nomine census viginti denarios Fricacensis monete Aquilegensi ecclesie \dots
+annuatim persolvatis
+B$Zins ist zu zahlen an Kirche Aquileia
+
+DOK$abel_07/1174.1.5/1174.1.5/1174 JÑnner 5/anno dominice incarnationis
+MCLXXIV. indictione VII. quinta die mensis Ianuarii/Oberburg/Oberburg//Stmk.-Unt./
+S$X/X/X
+V$Romulus/Aquileia/Romulus
+K$Patriarch Ulrich [II.] von Aquileia entscheidet den Streit zwischen dem Abt
+Richervon Beligna und dem Erzdiakon Berthold von Sanntal wegen der Kirche St.
+Pankraz zu Altenmarkt bei Windischgraz.
+
+REG$Im Streit um die St. Pankraz-Kirche zu Altenmarkt bei Windischgraz sagt Abt
+Richer von Beligna vor Patriarch Ulrich (II.) von Aquileia aus, da· der
+Erzdiakon Berthold von Sanntal ihm 14 Mark fÅr die Kirche zu zahlen
+verpflichtet ist.
+F$StUB 1/554/525f/525
+F$Kos 4/544/276f/276
+F$BCU Ms. Joppi 368 Fasz. 5/34/1f/1
+G$Berthold/Erzdiakon/Windischgraz/Windischgraz (Sanntal)/Sanntal/Stmk.-Unt./
+E$Richer/Abt/Beligna/Beligna//Friaul-SÅd/
+H$Forderung/unbekannt/Altenmarkt/Altenmarkt//Stmk.-Unt./
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$archidiaconus quatuordecim sibi marchas dare teneretur
+B$Sanntal HÑ Windischgraz, weil damals faktisch Hauptort des Erzdiakonats
+
+REG$Patriarch Ulrich (II.) von Aquileia entscheidet den Streit des Abtes Richer
+von Beligna mit dem Erzdiakon Berthold von Sanntal um die St. Pankraz-Kirche
+zu Altenmarkt bei Windischgraz und setzt fest, da· der Erzdiakon vom Abt mit
+der genannten Kirche unter der Bedingung investiert werden soll, da· er 2 Mark
+Silber jÑhrlich als Zins zahlt.
+F$StUB 1/554/525f/525
+F$Kos 4/544/276f/277
+F$BCU Ms. Joppi 368 Fasz. 5/34/1f/1
+G$Berthold/Erzdiakon/Windischgraz/Windischgraz (Sanntal)/Sanntal/Stmk.-Unt./
+E$Richer/Abt/Beligna/Beligna//Friaul-SÅd/
+H$Zahlungsverpflichtung_Zins/Immobilien/Altenmarkt b.W.Graz/Altenmarkt b.W.Graz//Stmk.-Unt./
+W$X/X
+O$2/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$eo tenore ut ipse duas marchas argenti nomine census annuatim in Purificatione
+beate Marie abbati et ius monasterio persolvat
+B$Sanntal HÑ Windischgraz, weil damals faktisch Hauptort des Erzdiakonats
+
+DOK$abel_09/1178.6.30/1178.6.30/1178 Juni 30/anno dominice incarnationis
+MCLXXVIII.
+indictione XI. II. kalendas Iulii/S.Daniele/San Daniele//Friaul-Mitte/
+S$Konrad/Aquileia/Konrad
+V$Konrad/Aquileia/Konrad
+K$Patriarch Ulrich [II.] von Aquileia beurkundet den Vergleich zwischen Abt
+Richer von Beligna und dem Erzdiakon Berthold von Sanntal betreffend die Kirche
+St. Pankraz zu Altenmarkt bei Windischgraz.
+
+REG$Patriarch Ulrich [II.] von Aquileia beurkundet den Vergleich zwischen Abt
+Richer von Beligna und dem Erzdiakon Berthold von Sanntal betreffend die Kirche
+St. Pankraz zu Altenmarkt bei Windischgraz, worin sich der Erzdiakon
+verpflichtet, 2 Mark Zins jÑhrlich an den Abt fÅr die Kirche bei Windischgraz zu
+bezahlen.
+F$StUB 1/595/562f/562
+F$Kos 4/611/311/311
+F$BCU Ms. Joppi 368 Fasz. 5/46/1f/1
+G$Berthold/Erzdiakon/Windischgraz/Windischgraz (Sanntal)/Sanntal/Stmk.-Unt./
+E$Richer/Abt/Beligna/Beligna//Friaul-SÅd/
+H$Zahlungsverpflichtung_Zins/Immobilien/Altenmarkt b.W.Graz/Altenmarkt b.W.Graz//Stmk.-Unt./
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$duas marcas annuatim in Purificatione beate Marie memorato abbati et ecclesie
+sue pro ecclesia de Grace \dots nomine census persolvet
+B$Puschnigg hat 1000 Mark fÅr angebliches RechtsgeschÑft. (Reg. S. 9 Nr. 51)
+
+DOK$abel_10/1186.9.5/1186.9.5/1186 September 5/anno dominice incarnationis
+MCLXXXVI.
+indictione quarta quinto die Septembris/Aquileia/Aquileia//Friaul-SÅd/
+S$Hermann/Aquileia/Hermann
+V$Hermann/Aquileia/Hermann
+K$Graf Engelbert von Gîrz bekennt sein Unrecht gegenÅber dem Kloster Beligna und
+verzichtet mit Zustimmung seiner Sîhne Meinhard und Engelbert auf einen Berg
+bei Cormons samt den zugehîrigen Zehnten und Rechten bei einer Pînale von 30
+Mark gewogenen Silbers halbteils dem Abt und halbteils dem Patriarchen zahlbar.
+
+REG$Graf Engelbert von Gîrz bekennt sein Unrecht gegenÅber dem Kloster Beligna und
+verzichtet mit Zustimmung seiner Sîhne Meinhard und Engelbert auf einen Berg
+bei Cormons samt den zugehîrigen Zehnten und Rechten bei einer Pînale von 30
+Mark gewogenen Silbers halbteils dem Abt und halbteils dem Patriarchen zahlbar.
+F$AT NS 11/08/389f/390
+F$Reg. Gîrz 1/282/78/78
+F$Kos 4/727/363/363
+F$BCU Ms. Joppi 369 Fasz. 5/01/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 6/42/1ff/2
+G$Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$X/Kloster/Beligna/Beligna//Friaul-SÅd/
+E$X/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$30/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/Z
+Q$triginta marchas examinati argenti \dots debeam componere
+
+DOK$abel_13/1188.0.0/1188.0.0/1188/anno ab incarnatione Domini MCLXXXVIII.
+indictione VI./Aquileia/Aquileia//Friaul-SÅd/
+S$Aldericus/Aquileia/Aldericus
+V$Aldericus/Aquileia/Aldericus
+K$Patriarch Gottfried von Aquileia bestÑtigt einen Vergleichsvertrag zwischen
+Stephan von Duino und dem Abt Witmar von Beligna Åber Zehente, Mauten und
+Besitzungen in Mereto.
+
+REG$Patriarch Gottfried von Aquileia bestÑtigt einen Vergleichsvertrag zwischen
+Stephan von Duino und dem Abt Witmar von Beligna Åber Zehente, Mauten und
+Besitzungen in Mereto, wonach Abt Witmar Stephan fÅr den Verzicht auf alle
+Rechte im genannten Besitz die Zehnten, die Berthold von Floriano zu einem
+jÑhrlichen Zins von der Kirche von Beligna innehatte, und 5 Mark gab.
+F$Scalon Dipl.Patr./8/35f/35
+F$Rubeis MEA/X/633ff/634
+F$Kos 4/754/378f/378
+F$Scalon Dipl.Patr./13/45f/45
+G$Witmar/Abt/Beligna/Beligna//Friaul-SÅd/
+E$Stephan/Genannter/Duino/Duino// wo??
+H$Ablîse/Zehent/MerettodiCapitolo/Meretto (di Capitolo?)/Mereto/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit insuper eidem V marcas
+B$Bei Rubeis und Kos fehlt die Zahl 5.
+
+DOK$abel_19/1242.3.22/1242.3.22/1242 MÑrz 22/anno domini MCCXLII. die sabbati X.
+die exeunte
+martio indictione XV./uFriaul_Ost/uFriaul_Ost, St. Johann i.Karst//Karst/
+S$Widotus/kaiserl. Notar/Widotus
+V$Widotus/kaiserl. Notar/Widotus
+K$Abt Wezelo von Beligna investiert Jakob von Prapot mit einem Weingarten auf
+dem Karst.
+
+REG$Abt Wezelo von Beligna investiert Jakob von Prapot mit einem Weingarten auf
+dem Karst unter der Bedingung, da· der Abt ein Vorkaufsrecht zu einem um
+16 Agleier Pfennige niedrigeren Preis, als jener, der sonst erzielt werden
+kann, haben soll.
+F$ACU Cod. 54/024/17/17
+G$Jakob/Genannter/Prepotto di Cividale/Prepotto di Cividale/Prapot/Friaul-Ost
+E$Wezelo/Abt/Beligna/Beligna//Friaul-SÅd/
+H$Kauf_Abschlag/Immobilien_Weingarten/Karst/Karst//Karst/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./minus/Z
+Q$proferre ipsi abbati pro XVI denariis Aquilegensibus minus quam posset ab alio
+habere
+
+DOK$abel_29/1248.7.14/1248.7.14/1248 Juli 14/anno domini MCCXLVIII. indictione
+sexta die Iovis quatuordecimo exeunte Iulio/Cividale/Cividale//Friaul-Ost/
+S$Franziskus/kaiserl. Notar/Franziskus
+V$Franziskus/kaiserl. Notar/Franziskus
+K$Konrad Boianus von Cividale verkauft dem Abt Wezelo von Beligna ein
+Haus in Cividale um 22 Mark Agleier MÅnze.
+
+REG$Konrad Boianus von Cividale verkauft dem Abt Wezelo von Beligna ein
+Haus in Cividale um 22 Mark Agleier MÅnze.
+F$MAN Perg. Boiani 1/21/13/13
+G$Wezelo/Abt/Beligna/Beligna//Friaul-SÅd/
+E$Konrad Boianus/Kapitel/Cividale/Cividale//Friaul-Ost/
+H$Kauf/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$22/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro viginti duabus marcis Aquilegensis monete
+
+

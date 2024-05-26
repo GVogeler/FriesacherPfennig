@@ -1,0 +1,137 @@
+öbersicht Åber die Dateien
+
+Datei           Dok.-Kennungen  Arbeitsgrundlage
+
+al_heg79.dat    Heger           Heger, Reiserechnungen Wolfger, S. 79-85
+al_heg85.dat    Heger           Heger, Reiserechnungen Wolfger, S. 85-89
+al_heg89.dat    Heger           Heger, Reiserechnungen Wolfger, S. 89-92
+al_heg92.dat    Heger           Heger, Reiserechnungen Wolfger, S. 92-97
+al_urbar.dat    UrbareI2        LandesfÅrstliche Urbare 1, 2
+al_varia.dat    chmel           Chmel, FRA II 1
+                FRAII31         CD Austriaco Frisingensis 1 (FRA II 31)
+fr_akapi.dat    akau            Domkapitel Aquileia, eig. Slg.
+                fjop            Domkapitel Aquileia, aus Coll. Joppi
+fr_anecr.dat    akan            Domkapitel Aquileia, Necrologium (Scalon)
+fr_asma1.dat    anon            Nonnenkloster Aquileia, eig. Slg.
+                cdi             Nonnenkloster Aquileia, eig. Slg.
+fr_asma2.dat    anon            Ausgaben zu Casellis (MAN OF 15)
+fr_asons.dat    abel            Kloster Beligna, eig. Slg.
+                aste            Propstei S. Stefano zu Aquil., eig. Slg.
+fr_conco.dat    fcon            Concordia (eig. Slg.)
+fr_ckapi.dat    ckap            Kapitel Cividale, eig. Slg.
+fr_csons.dat    cand            Sonstige Quellen aus Cividale, eig. Slg.
+fr_cvall.dat    cval            Kloster S. Maria in Valle, eig. Slg.
+fr_goerz.dat    RegGîrz1        Regesten Gîrz 1
+fr_joppi.dat    fjop            Sonstiges aus dem Friaul, Coll. Joppi
+fr_moggi.dat    fmog            Kloster Moggio, eig. Edition
+fr_sesto.dat    fses            Kloster Sesto (Edition Della Torre)
+fr_sonst.dat    fand            Sonstiges aus dem Friaul, eig. Slg.
+fr_venet.dat    fven            Friaul, venez. Betreffe (eig. Slg.)
+io_kra12.dat    chmel           Chmel, FRA II 1
+                KrUB1           UB Krain 1
+                KrUB2           UB Krain 2
+io_mdc12.dat    chmel           Chmel, FRA II 1
+                MDC1            Mon. hist. duc. Carinthiae 1 (Gurk 1)
+                MDC2            Mon. hist. duc. Carinthiae 2 (Gurk 2)
+io_mdc_3.dat    MDC3            Mon. hist. duc. Carinthiae 3
+io_mdc_4.dat    MDC4I           Mon. hist. duc. Carinthiae 4, 1
+                MDC4II          Mon. hist. duc. Carinthiae 4, 2
+io_sonst.dat    MDC3            Mon. hist. duc. Carinthiae 3
+                MDC4I           Mon. hist. duc. Carinthiae 4, 1
+                StUB1           UB Steiermark 1
+                StUB3 / StUB3N  UB Steiermark 3 (einschl. NachtrÑge)
+io_stmk1.dat    StUB1           UB Steiermark 1
+io_st2u3.dat    GZM1            Gradivo za zgodovino Maribora 1
+                StUB2           UB Steiermark 2
+                StUB3           UB Steiermark 3 (einschl. NachtrÑge)
+                StUBerg         UB Steiermark ErgÑnzungsheft
+io_stson.dat    StUB1           UB Steiermark 1
+                StUB2           UB Steiermark 2
+                StUB3 / StUB3N  UB Steiermark 3  (einschl. NachtrÑge)
+is_allg0.dat    iand            Istrien, sonstige Dokumente (eig. Slg.)
+                icap            Istrien, Koper (eig. Slg.)
+                ipir            Istrien, Piran (Ed. De Franceschi)
+                ipol            Istrien, Pula (eig. Slg.)
+                iprz            Istrien, Porec (eig. Slg.)
+                itri            Istrien, Triest (eig. Slg.)
+                triest          Istrien, Triest (eig. Slg. ?)
+is_amsi0.dat    AMSI            Atti e memorie Soc. istriana 10, 11, 12
+no_boehm.dat    CDB             Cod. dipl. et epist. Bohemiae 1, 2, 3, 4
+no_gottw.dat    FRAII51         UB Gîttweig 1
+                FRAII69         UB Gîttweig 2
+no_klnbg.dat    FRAII4          UB Klosterneuburg (FRA II 4)
+no_spoel.dat    NôUB1           UB St. Pîlten 1
+no_ooe_1.dat    OôUB1           OôUB 1
+                QENF6           Quellen und Erîrterungen NF 6
+no_ooe23.dat    CDB             Cod. dipl. et epist. Bohemiae 3
+                OôUB2           OôUB 2
+                OôUB3           OôUB 3
+no_seite.dat    FRAII33         UB Seitenstetten (FRA II 33)
+no_wrneu.dat    BabUB2          UB Babenberger 2
+sa_ub__1.dat    SUB1            UB Salzburg 1
+sa_ub__2.dat    SUB2            UB Salzburg 2
+sa_ub3u4.dat    SUB1            UB Salzburg 1
+                SUB2            UB Salzburg 2
+                SUB3            UB Salzburg 3
+                SUB4            UB Salzburg 4
+un_allg0.dat    FII und FIII    Fejer II und III
+                FRAII11         UB Heiligenkreuz (FRA II 11)
+                Hazai6          Hazai 6
+                MGHScr5         MGH Scriptores 5 (Tageno)
+                MHH             welche Edition ?
+                Smic3           Smiciklas 3 (?)
+                Smic4           Smiciklas 4 (?)
+                Ungarn          Varia als Quellengrundlagen
+                Wenzel6         Wenzel 6
+                Wenzel7         Wenzel 7
+                Wenzel20        Wenzel 20
+un-burgl.dat    BgldUB1         UB Burgenland 1
+                FRAII11         UB Heiligenkreuz (FRA II 11)
+un_slowa.dat    CDS             CD Slovaciae 1
+                MGHScr5         MGH Scriptores 5
+we_bayr1.dat    BiblFamFeschQu  Bibl. fam.gesch. Quellen 13 I
+                Ebersberg       welche Edition ?
+                FRAII31         CD Austriaco Frisingensis 1 (FRA II 31)
+                Indersdorf      welche Edition ?
+                MB01            Monumenta Boica 1
+                MB02            Monumenta Boica 2
+                MB14            Monumenta Boica 14
+                MGH_DD10II      MGH DD Friedrich I. 2
+                QENF14          Quellen und Erîrterungen NF 14
+                QENF21          Quellen und Erîrterungen NF 21
+                QENF23          Quellen und Erîrterungen NF 23
+                QENF27I         Quellen und Erîrterungen NF 27, 1
+                QENF27II        Quellen und Erîrterungen NF 27, 2
+                QENF29          Quellen und Erîrterungen NF 29
+                QENF31          Quellen und Erîrterungen NF 31
+                QENF32I         Quellen und Erîrterungen NF 32, 1
+                QENF33          Quellen und Erîrterungen NF 33
+                QENF36I         Quellen und Erîrterungen NF 36, 1
+                QENF36II        Quellen und Erîrterungen NF 36, 2
+                QENF39I         Quellen und Erîrterungen NF 39, 1
+                RenzRbg         Renz, Regensburg
+we_bayr2.dat    Chmel           welche Publikation?
+                QE1             Quellen und Erîrterungen 1
+                QE5             Quellen und Erîrterungen 5
+                QENF05          Quellen und Erîrterungen NF 5
+                QENF07          Quellen und Erîrterungen NF 7
+                QENF09          Quellen und Erîrterungen NF 7
+                QENF10I         Quellen und Erîrterungen NF 10, 1
+                QENF10II        Quellen und Erîrterungen NF 10, 2
+                QENF17          Quellen und Erîrterungen NF 17
+                QENF28I         Quellen und Erîrterungen NF 28, 1
+                QENF34          Quellen und Erîrterungen NF 34
+                Schmid1         Schmid, Alte Kapelle Regensburg
+                Trad.Regensburg Traditionen Regensburg
+we_tirol.dat    ActaTir1        Acta Tirolensia 1 (Trad. Brixen)
+                FRAII76         Neustift bei Brixen (FRA II 66)
+                FRAII77         Neustift bei Brixen (Urkunden) (FRA II 77)
+                TGQU27          Fiecht
+                TUB3            Tiroler UB 3
+                UBrix1          Brixner Hochstiftsarchive 1
+we_trent.dat    FRAII5          Trient
+                Trient          Hochstift Trient (?)
+                TrReg           Regesten Trient (?)
+
+
+

@@ -1,0 +1,3631 @@
+note *** Lokalisierungen sind noch zu berprfen.
+        LamprecBentzt wurde: Lamprecht Johann, Historisch-Topographische
+        Matrikel oder Geschichtliches Ortsverzeichnis des Landes ob der Ens
+        als Erl„uterung zur Charte des Landes ob der Ens. Wien 1863.
+
+note *** Trad Passau = QE NF 6 hier aufgenommen (nicht zu Bayern gestellt)
+
+note *** Einlesen der Rohdaten no_oe123.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$O™UB1_197/1200.12.31/1200.12.31/Ende 12. Jh./X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Marquard von Garsten erwirbt einen Weingarten in Krems vom Mnzmeister
+Cadelhoh und dessen Frau zum Preis von 25,5 Talent Mnze dieser Stadt.
+
+REG$Abt Marquard von Garsten erwirbt einen Weingarten in Krems vom Mnzmeister
+Cadelhoh und dessen Frau zum Preis von 25,5 Talent Mnze dieser Stadt.
+F$O™UB 1/197/182/182
+G$Marquard/Abt/Garsten/Garsten//O™,s.Steyr/
+E$Cadelhoh/Mnzmeister/Krems/Krems?//N™/
+H$Kauf/Immobilien_Weingarten/Krems/Krems//N™/
+W$Krems?/moneta/
+O$25,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$comparaverit \dots viginti quinque talentis et dimidio eiusdem civitatis
+monet\c{e}
+B$Mnzmeister Cadelhoh und als Zeuge Mnzmeister Rimunt genannt.
+
+REG$NN
+F$O™UB 1/197/182/182
+G$Cadelhoh/Mnzmeister/Krems/Krems?//N™/
+E$Marquard/Abt/Garsten/Garsten//O™,s.Steyr/
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$decem talenta conferret
+B$Mnzmeister Cadelhoh und als Zeuge Mnzmeister Rimunt genannt.
+
+REG$NN
+F$O™UB 1/197/182/182
+G$Cadelhoh/Mnzmeister/Krems/Krems?//N™/
+E$X/X/X/X//
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$18/sol./X
+M$X/X/X/Z
+Q$Cui ipse dans decem et octo solidos
+B$Mnzmeister Cadelhoh und als Zeuge Mnzmeister Rimunt genannt.
+
+REG$NN
+F$O™UB 1/197/182/182
+G$X/X/X/X/?
+E$X/X/X/X/
+H$Kauf/Immobilien_Weingarten/Krems/Krems//N™/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$consensit accepitque ius venditionis quinque videlicet denarios
+B$Mnzmeister Cadelhoh und als Zeuge Mnzmeister Rimunt genannt.
+
+DOK$O™UB1_179/1215.0.0/1215.0.0/ca. 1215/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Pabo von Lozzenkirchen bergibt die Frau des Engelmar von Uberech, Bertha, mit
+ihren S”hnen und T”chtern dem Altar von St. Pankratius (Ranshofen) unter der
+Bedingung, daá sie Zins zahlen. Wenn sie aber keinen zahlen mssen, mit dem Gut
+in Uberch 10 Schilling Passauer Mnze.
+
+REG$NN
+F$O™UB 1/179/269/269
+F$MB 03/179/304f/304
+G$X/X/X/X//
+E$X?/Kloster/Ranshofen/Ranshofen//O™,s.Braunau/
+H$Zins/Immobilien/šberackern ?Uberch/šberackern?/Uberch/ ? wo??
+W$Passau/moneta/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$cum X solidis Pataviensis monete.
+
+DOK$O™UB1_181/1215.0.0/1215.0.0/ca. 1215/X/X/X//
+S$X/X/X
+V$X/X/X
+K$šbergabe von Gtern und H”rigen an das Kloster Ranshofen.
+
+REG$Propst Wichard und der Konvent von Ranshofen versprechen am selben Tag, an dem
+Pabo von Lozenchirchen und dessen Frau Gertrud und derem Sohn Konrad ein
+Gut in Uberechen dem Kloster fr das Seelenheil ihrer Vorfahren bergeben, den
+Genannten solche Pfrnde zu geben wie sie ein Priester hat. Auáerdem erhielten
+sie 90 Talent Regensburger Mnze.
+F$O™UB 1/181/270f/270
+F$MB 03/181/305f/306
+G$X/Kloster/Ranshofen/Ranshofen//O™,s.Braunau/
+E$Pabo;Konrad/Genannter/uDonaul„nder,
+Lozenkirchen/uDonaul„nder,Lozenkirchen//wo??
+E$Gertrud/Genannte/uDonaul„nder Lozenkirchen/uDonaul„nder,Lozenkirchen//wo??
+H$Abl”se?/Immobilien/šberackern ?Uberechen/šberackern?/Uberechen/BH
+Braunau,šberackern?    oben Uberech
+W$Regensburg/moneta/
+O$90/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$receptis tamen a nobis nonaginta talentis Ratisbonensis monete
+
+REG$Friedrich von Rise und dessen Frau Diemud bergeben dem hl. Pankratius in
+Ranshofen die Magd Alheid mit ihrem Sohn Otto zu einem j„hrlichen Zins in der
+H”he von 5 Pfennigen.
+F$O™UB 1/181/270f/270
+F$MB 03/181/305f/306
+G$X/Kloster/Ranshofen/Ranshofen//O™,s.Braunau/
+E$Friedrich/Genannter/uDonaul„nder Rise/uDonaul„nder,Rise// wo??
+E$Diemud/Genannte/uDonaul„nder Rise/uDonaul„nder,Rise//O™,G.Tiefgraben,GB
+Mondsee ? Risa, Reisen, G.Eitting, LkErding,OB
+H$Zins/H”rige/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ad censum V denariorum annuatim persolvendum
+
+REG$Mechthild von Reuffelsperch und ihr Gemahl und ihr Sohn Reutold bergeben
+drei H”rige an den Altar des hl. Pankratius in Ranshofen zu einem Zins in der
+H”he von 5 Pfennigen.
+F$O™UB 1/181/270f/271
+F$MB 03/181/305f/306
+G$X/Kloster/Ranshofen/Ranshofen//O™,s.Braunau/
+E$Mechthild/Genannte/uDonaul„nder Reuffelsberg/uDonaul„nder,Reuffelsberg/Reuffelsperch/  ?
+E$Reutold/Genannter/uDonaul„nder Reuffelsberg/uDonaul„nder,Reuffelsberg/Reuffelsperch/?
+H$Zins/H”rige/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$sub censu V denariorum
+
+DOK$O™UB1_122/1152.0.0/1168.0.0/ca. 1152 - 1168/X/X/X//
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$Otakar von Steyr erh„lt vom Kloster Reichersberg 50 Pfund Regensburger Mnze
+fr die Zustimmung zum Tausch des Gutes Mnsteuer.
+F$O™UB 1/122/337ff/338
+F$MB 03/111/451ff/452
+G$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+E$Otakar/Herzog/Steyr/Steyr//O™/
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$L librarum Ratisponensis monete intercessione
+B$1152 begannen die komplizierten Verhandlungen ber den Erwerb des Gutes
+Mnsteuer, die schon 1153 zu einem Vertragsabschluá Gerhochs mit dem Inhaber des
+Lehens Mnsteuer, Erchenbert von Stein, auf dem kaiserlichen Hoftag zu
+Regensburg fhrten, und zur Best„tigung des Tausches durch Heinrich den L”wen
+auf dem Landtag zu Regensburg 1157. Das Rechtsgesch„ft wurde aber von den
+Verwandten Erchenberts angefochten, und Gerhoch muáte in den letzten Jahren
+seines Lebens noch darum vor dem Gericht des Kaisers k„mpfen (900 Jahre
+Augustiner Chorherrenstift Reichersberg, S. 53).
+Die Burg Stein wurde 1153 vom Babenberger Herzog Heinrich Jasomirgott von
+Bayern zerst”rt wegen lokaler Fehden, die Erchenbert von Stein angelastet
+wurden. In einer groáen Tauschaktion berrnahm Reichersberg dann das
+betr„chtliche bambergische Lehensgut Erchenberts mit allem Zubeh”r. Erchenbert
+selbst aber trat zusammen mit seinem Bruder Arnulf und einem Sohne als Konverse
+in das Stift Reichersberg ein (S. 36).
+1162 erwirkte Gerhoch  endlich auch die gerichtliche Einantworung des Gutes
+Mnsteuer, das zwar schon in den Jahren 1153 bis 1157 durch Tausch ans Stift
+gekommen aber feierlich noch nicht war bergeben worden (Appel, Reichersberg, S.
+51).
+
+REG$Einknfte des Klosters Reichersberg in der H”he von 2 Mark von einer Hube im
+Ennstal und der Fischerei zu Kraubat.
+F$O™UB 1/122/337ff/338
+F$MB 03/111/451ff/452
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+H$Einknfte/Immobilien/Stmk_Ober (?)Ennstal/Ennstal//  wo??
+H$Einknfte/Immobilien/Kraubath/Kraubath//Stmk,i.Murtal,sw.Leoben  nicht
+sicher!!?? eher Kraut  K,nw.Millstatt
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ad reditus duarum marcarum
+B$Vgl. SUB 2 Nr. 358.
+
+REG$Einknfte des Klosters Reichersberg in der H”he von 2 Mark, n„mlich eine Mark
+von der Fischerei in Kraubath und eine von einer Hube in Ennstal.
+F$O™UB 1/122/337ff/338
+F$MB 03/111/451ff/452
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+H$Einknfte/Immobilien/Kraubath/Kraubath//Stmk,i.Murtal,sw.Leoben  nicht
+sicher!!??  eher Kraut K,nw.Millstatt
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ad reditum unius marce
+B$Vgl. SUB 2 Nr. 358.
+
+REG$Auáer dem Getreidedienste der drei H”fe zu Mnsteuer wurde die Einknfte von
+den anderen Mansen auf 7 Pfund veranschlagt.
+F$O™UB 1/122/337ff/340
+F$MB 03/111/451ff/454
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+H$Einknfte/Immobilien/Mnsteuer/Mnsteuer//O™,”.Reichersberg/
+W$X/X/
+O$7/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Preter frumentum trium curtium, omnes redituum utilitates ex mansis
+computate sunt ad septem talenta.
+
+REG$Die Einknfte von den Mansen und Mhlen, auáer dem Getreide von den drei
+H”fen zu Roábach, wurde auf 8 Pfund und 60 Pfennige berechnet.
+F$O™UB 1/122/337ff/341
+F$MB 03/111/451ff/455
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+H$Einknfte/Immobilien/Roábach/Roábach//NB
+W$X/X/
+O$8/tal./X
+Z$X/X/X
+M$60/nummus/X/Z
+Q$Preter frumentum trium curtium omnes utilitates redituum ex mansis et
+molendinis computate sunt ad octo talenta et sexaginta nummos.
+
+REG$Die Gter, welche Reichersberg zu Mnsteuer abtrat, bertrafen jene, die es
+dafr zu Roábach erhielt, im Fl„chenmaá um 2,5 Mansen und bei den Einknften um
+1 Pfund und 60 Pfennige.
+F$O™UB 1/122/337ff/341
+F$MB 03/111/451ff/455
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+H$Einknfte_Vergleich?/Immobilien/Mnsteuer/Mnsteuer//O™,”.Reichersberg/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$60/nummus/X/A
+Q$in pensione nummorum uno talento et LX nummis
+
+DOK$O™UB1_157/1160.0.0/1160.0.0/1160/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Poumgarten bergibt nach Empfang von einem Talent Regensburger
+Mnze an den Altar des hl. Michael in Reichersberg From\o{v}da, die Tochter des
+Walter, zu einem j„hrlichen Zins in der H”he von 5 Pfennigen.
+
+REG$Heinrich von Poumgarten bergibt nach Empfang von einem Talent Regensburger
+Mnze an den Altar des hl. Michael in Reichersberg From\o{v}da, die Tochter des
+Walter, zu einem j„hrlichen Zins in der H”he von 5 Pfennigen.
+F$O™UB 1/157/370/370
+F$MB 03/145/486/486
+G$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+E$Heinrich/Genannter/O™_s.Donau Paumgarten/O™_s.Donau,Paumgarten/Poumgarten/
+wo??Df.Aichet,G.St.Willibald,B.Raab
+H$šbergabe/H”rige/unbestimmt/unbestimmt?Bamberg//Bayern/
+W$Regensburg/moneta/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$accepto talento Ratisponensis monete
+
+REG$Heinrich von Poumgarten bergibt nach Empfang von einem Talent Regensburger
+Mnze an den Altar des hl. Michael in Reichersberg From\o{v}da, die Tochter des
+Walter, zu einem j„hrlichen Zins in der H”he von 5 Pfennigen.
+F$O™UB 1/157/370/370
+F$MB 03/145/486/486
+G$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+E$Heinrich/Genannter/O™_s.Donau Paumgarten/O™_s.Donau,Paumgarten/wo??Df.Aichet,G.St.Willibald,B.Raab
+H$Zins/H”rige/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ad censum quinque denariorum annuatim persolvendum
+
+DOK$O™UB1_255/1201.0.0/1231.0.0?/nach 1200?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Poppo von Rechpocking erwarb, da er kein Eigen nahe Reichersberg besaá, bei
+der Kirche von Reichersberg eine halbe Hube fr fnf Talent Passauer Mnze und
+vermachte diese fr das Seelenheil seiner Frau und aller seiner Vorfahren dem
+Altar des hl. Michael in Reichersberg.
+
+REG$Poppo von Rechpocking erwarb, da er kein Eigen nahe Reichersberg besaá, bei
+der Kirche von Reichersberg eine halbe Hube fr fnf Talent Passauer Mnze.
+F$O™UB 1/255/411f/412
+G$Poppo/Genannter/O™_s.Donau Rechpocking/O™_s.Donau,Rechpocking// wo??
+E$X/X/X/X//
+H$Kauf/Immobilien/Reichersberg/Reichersberg//O™,a.Inn/
+W$Passau/moneta/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro V talentis Pataviensis monete
+
+DOK$O™UB1_005/1240.0.0/1240.0.0/ca. 1240/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Zahlungen an den Grafen K(onrad) von Wasserburg fr den Verkauf des Schlosses
+in Vichtenstein an die Passauer Kirche.
+
+REG$Die Kirche von Passau ist dem Grafen K(onrad) von Wasserburg fr das Schloá
+Vichtenstein mit 1100 Mark verpflichtet.
+F$O™UB 1/005/482f/482
+G$X/Kirche/Passau/Passau//Bayern/
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in mille et C marc.
+B$MB 29 II 222) O™UB3 Nr. 86 S. 91 Urkunde ber Nachlaá von 100 Mark.
+
+REG$Bischof Rdiger von (Chiemsee) macht an den Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein eine Teilzahlung in der H”he von 300
+Mark minus 36.
+F$O™UB 1/005/482f/482
+G$Rdiger/Bischof/Chiemsee/(Chiemsee)//OB/
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$300/marca/X
+O$36/marca/minus
+Z$X/X/X
+M$X/X/X/A
+Q$CCC marc. minus XXXVI
+B$MB 29 II 222)
+
+REG$Die Brger von Passau t„tigen an den Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein eine Teilzahlung in der H”he von 400
+Mark minus 37.
+F$O™UB 1/005/482f/482
+G$X/Brger/Passau/Passau//Bayern/
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$400/marca/X
+O$37/marca/minus
+Z$X/X/X
+M$X/X/X/A
+Q$CCCC marc. minus XXXVII
+B$MB 29 II 222)
+
+REG$Graf K(onrad) von Wasserburg l„át der Kirche von Passau 100 Mark vom Verkauf
+des Schlosses Vichtenstein nach.
+F$O™UB 1/005/482f/482
+G$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+E$X/Kirche/Passau/Passau//Bayern/
+H$Nachlaá_Kauf/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$C marc.
+B$MB 29 II 222)
+
+REG$Bischof B. von ? t„tigt an den Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein eine Teilzahlung in der H”he von 50
+Mark.
+F$O™UB 1/005/482f/482
+G$B./Bischof/X/?//
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$L marc.
+B$MB 29 II 222)
+
+REG$Hugo von Sauerstetten t„tigt an den Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein eine Teilzahlung in der H”he von 80
+Mark.
+F$O™UB 1/005/482f/482
+G$Hugo/Genannter/Safferstetten/Safferstetten/Sauerstetten/Bez.Passau
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell   ?
+W$X/X/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$LXXX marc.
+B$MB 29 II 222)
+
+REG$Wernhard von Waltkirch t„tigt an den Grafen K(onrad) von Wasserburg fr den
+Verkauf des Schlosses Vichtenstein eine Teilzahlung in der H”he von 15 Mark in
+B”hmen?.
+F$O™UB 1/005/482f/482
+G$Wernhard/Genannter/Waldkirchen/Waldkirchen/Waltchirch/O™,Mhlkreis/
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XV marc.
+B$MB 29 II 222)
+
+REG$X? t„tigt anstatt des Grafen K(onrad) von Wasserburg fr den
+Verkauf des Schlosses Vichtenstein eine Zahlung in der H”he von 40 Pfund
+Passauer an B. von Weiern.
+F$O™UB 1/005/482f/482
+G$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn    ?
+E$B./Genannter/Weyarn/Weyarn/Weiern/OB,i.Mangfalltal s.Aibling  oder Weiher,Burkhard von
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$Passau/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XL libre Patavienses
+B$MB 29 II 222)
+
+REG$Bischof Rdiger von Chiemsee zahlt dem Edlen von Baumgarten fr einen
+Hof in Gravendorf anstatt des Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein 40 Pfund Regensburger.
+F$O™UB 1/005/482f/482
+G$R(diger)/Bischof/Chiemsee/Chiemsee//Bayern/
+E$X/Genannter/O™_s.Donau Baumgarten/O™_s.Donau,Baumgarten//
+wo??Df.Aichet,G.St.Willibald,B.Raab   welches??
+H$Zahlung/Immobilien/Grafendorf/Grafendorf/Gravendorf/O™,Gem.Kopfing,B.Engelszell/
+W$Regensburg/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XL libras Ratisponenses
+B$MB 29 II 222)
+
+REG$X? zahlt anstatt des Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein 30 Pfund Regensburger an Christanus.
+F$O™UB 1/005/482f/482
+G$X?/?/X/?//
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn   ?
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$Regensburg/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XXX libras Ratisponensis
+B$MB 29 II 222)
+
+REG$X? zahlt anstatt des Grafen K(onrad) von Wasserburg fr
+den Verkauf des Schlosses Vichtenstein 100 Pfund Wiener fr Tutenpach.
+F$O™UB 1/005/482f/482
+G$X?/?/X/?//
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$Wien/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$C libras Wiennenses
+B$MB 29 II 222)
+
+REG$Graf K(onrad) von Wasserburg erh„lt fr den Verkauf des Schlosses
+Vichtenstein Teilzahlungen in der H”he von insgesamt 1014 Mark.
+F$O™UB 1/005/482f/482
+G$X/X/X/X//
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung_Summe/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$1014/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Summa horum mille marce et XIIII.
+B$MB 29 II 222)
+
+REG$Der Stuhl des Bischofs Rdiger von Chiemsee hatte 23 Mark Silber, denen Herr
+Christanus 9 hinzufgte, die  zur Bezahlung der 300 Mark gegeben worden sind,
+(die Bischof Rdiger von (Chiemsee) an den Grafen K(onrad) von Wasserburg
+fr den Verkauf des Schlosses Vichtenstein zu zahlen versprochen hatte.
+F$O™UB 1/005/482f/482
+G$Rdiger/Bischof/Chiemsee/Chiemsee//Bayern/
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Gewichtsangabe/Bischofsstuhl/Chiemsee/Chiemsee//Bayern/
+W$X/X
+O$23/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$XXIII marc. argent.
+B$MB 29 II 222)
+
+REG$Der Stuhl des Bischofs Rdiger von Chiemsee hatte 23 Mark Silber, denen Herr
+Christanus 9 hinzufgte, die  zur Bezahlung der 300 Mark gegeben worden sind,
+(die Bischof Rdiger von (Chiemsee) an den Grafen K(onrad) von Wasserburg
+fr den Verkauf des Schlosses Vichtenstein zu zahlen versprochen hatte.
+F$O™UB 1/005/482f/482
+G$Rdiger/Bischof/Chiemsee/Chiemsee//Bayern/
+E$K(onrad)/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in solutione CCC marcarum
+B$MB 29 II 222)
+
+REG$Die Kirche von Passau hat von den Gtern des Ulrich von Andiesenberg, n„mlich
+von zwei H”fen in Andiesenberg, Einknfte in der H”he von 40 Pfennigen.
+F$O™UB 1/005/482f/482
+G$Ulrich/Genannter/Andiesenberg/Andiesenberg/Antesenperg/O™,Matichgau BHRied ?
+E$X/Kirche/Passau/Passau//Bayern/
+H$Einknfte?/Immobilien/Andiesenberg/Andiesenberg?/Antesenperg/O™,Matichgau/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$solventes quodlibet XL denarios
+B$MB 29 II 222)
+
+REG$Die Kirche von Passau hat von den Gtern des Ulrich von Andiesenberg, n„mlich
+von zwei Huben in Mersbach und einem quartale, Einknfte in der H”he von 40
+Pfennigen.
+F$O™UB 1/005/482f/482
+G$Ulrich/Genannter/Andiesenberg/Andiesenberg/Antesenperg/O™,Matichgau  ?  BH Ried
+E$X/Kirche/Passau/Passau//Bayern/
+H$Einknfte?/Immobilien/Mehrnbach/Mehrnbach?/Mersbach/O™,Matichgau    w.Ried
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$XL denarios
+B$MB 29 II 222)
+
+DOK$O™UB1_027/1218.0.0/1223.0.0/1218 - 1223/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Vertrag zwischen dem Domkapitel von Passau und dem Brger Rudolf von Aschach
+ber Zehnten zu Eferding und Rudling.
+
+REG$Der Brger Rudolf von Aschach hat von Zehnten zu Eferding dem Domkapitel zu
+Passau ein Talent zu zahlen.
+F$O™UB 1/027/524f/524
+F$QE NF 06/1001/336f/336
+G$Rudolf/Brger/Aschacha.d.Donau/Aschach a.d. Donau//O™,Traungau? eher
+a.d.Donau Bh Wels
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zahlungsverpflichtung/Zehnten/Eferding/Eferding//O™,BH Wels/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nobis talentum solvere tenetur
+
+REG$Der Brger Rudolf von Aschach hat von Zehnten? zu Rudling Zins von einer Hube
+zu Rudling in der H”he von 9 Pfennigen im Herbst an das Domkapitel zu Passau zu
+zahlen.
+F$O™UB 1/027/524f/524
+F$QE NF 06/1001/336f/336
+G$Rudolf/Brger/Aschacha.d.Donau/Aschach a.d. Donau//O™,Traungau?  welches??
+a.d.Donau?
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zahlungsverpflichtung/Zehnten/Rudling/Rudling//O™,R.G.Ferschnitz,BH Melk       ?
+eher OG Hinzenbach, BH Eferding
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/Z
+Q$in autumpno in novem den. \dots nobis similiter esset obligatus
+
+REG$Der Brger Rudolf von Aschach hat von Zehnten? zu Rudling Zins von einer Hube
+zu Rudling in der H”he von 30 Pfennigen zu St. Georg an das Domkapitel zu Passau
+zu zahlen.
+F$O™UB 1/027/524f/524
+F$QE NF 06/1001/336f/336
+G$Rudolf/Brger/Aschacha.d.Donau/Aschach a.d. Donau//O™,Traungau?   welches??
+a.d.Donau?
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zahlungsverpflichtung/Zehnten/Rudling/Rudling//O™,R.G.Ferschnitz,BH Melk      ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$in festo Sancti Georgii in XXX denarios nobis similiter esset obligatus
+
+REG$Das Domkapitel zu Passau hat gesch„tzte Einknfte von den Zehnten zu Eferding
+und von einer Hube in Rudling in der H”he von 20 Schillingen Wiener Mnze, die
+der Brger Rudolf von Aschach leisten muá.
+F$O™UB 1/027/524f/524
+F$QE NF 06/1001/336f/337
+G$Rudolf/Brger/Aschacha.d.Donau/Aschach a.d. Donau//O™,Traungau?  welches??
+a.d.Donau?
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Einknfte/Zehnten/Eferding/Eferding//O™,BH Wels/
+H$Einknfte/Immobilien/Rudling/Rudling//O™,R.G.Ferschnitz,BH Melk/
+W$Wien/moneta/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$in XX solidos Wiennensis monete duximus
+
+REG$Sollte der Brger Rudolf von Aschach und seine Tochter Liubel die
+Geldleistungen die Zehnten zu Eferding und Rudling betreffend nicht zu Maria
+Geburt bezahlt haben, hat er eine Strafe in der H”he von 6 Talent zu leisten.
+F$O™UB 1/027/524f/525
+F$QE NF 06/1001/336f/337
+G$Rudolf/Brger/Aschacha.d.Donau/Aschach a.d. Donau//
+E$Liubel/Brgerin/Aschacha.d.Donau/Aschach a.d. Donau//
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$6/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$penam huius sue negligentie nobis sex talentorum existant debitores
+
+DOK$O™UB1_286/1228.0.0/1228.0.0/1228/Anno ab incarnatione domini MCCXXVIII. indictione
+prima/Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Propst Ulrich und der Konvent von St. Nikola zu Passau bergeben drei G„rten
+bei der Quelle des hl. Jakob? dem Heinrich, genannt Wischelinch, und seiner Frau
+Rihza zu Leibgeding gegen einen j„hrlichen Zins in der H”he von 12 Schilling
+Passauer Mnze zu St. Martin.
+
+REG$Propst Ulrich und der Konvent von St. Nikola zu Passau bergeben drei G„rten
+bei der Quelle des hl. Jakob? dem Heinrich, genannt Wischelinch, und seiner Frau
+Rihza zu Leibgeding gegen einen j„hrlichen Zins in der H”he von 12 Schilling
+Passauer Mnze zu St. Martin.
+F$O™UB 1/286/612ff/613/
+F$MB 04/081/281f/281
+G$Heinrich, genannt Wischelinch/X/X/X// BA Vilshofen? Wisselsing
+G$Rihza/X/X/X//
+E$X/Konvent/Passau/Passau,St. Nikola//Bayern/
+H$Zins/Immobilien/uDonaul„nder Quelle des hl.Jakob/uDonaul„nder,Quelle des hl. Jakob//wo??
+W$Passau/moneta/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/Z
+Q$solvat nobis annuatim in festo s. Martini XII. solidos Pataviensis monete
+
+REG$Propst Ulrich und der Konvent von St. Nikola zu Passau bergeben drei G„rten
+bei der Quelle des hl. Jakob? dem Heinrich, genannt Wischelinch, und seiner Frau
+Rihza zu Leibgeding gegen einen j„hrlichen Zins in der H”he von 12 Schilling
+Passauer Mnze zu St. Martin bei Strafe von 12 Pfennigen.
+F$O™UB 1/286/612ff/613/
+F$MB 04/081/281f/281
+G$Heinrich, genannt Wischelinch/X/X/X//
+G$Rihza/X/X/X//
+E$X/Konvent/Passau/Passau,St. Nikola//Bayern/
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$pena XII denariorum
+
+REG$Jeder, der Recht im Garten bei der Quelle des hl. Jakob? kauft und verkauft,
+muá dem Propst 15 Pfennige bezahlen.
+F$O™UB 1/286/612ff/613/
+F$MB 04/081/281f/281
+G$X/X/X/X//
+E$Ulrich/Propst/Passau/Passau, St. Nikola//Bayern/
+H$Abgabe/Kaufgesch„ft/uDonaul„nder Quelle des hl.
+Jakob/uDonaul„nder,Quelle des hl. Jakob//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$tam vendens quam emens uterque XV denarios solvat domino preposito
+
+REG$Propst Ulrich und der Konvent von St. Nikola zu Passau bergeben G„rten
+bei der Quelle des hl. Jakob? an genannte Personen zu Leibgeding gegen einen
+j„hrlichen Zins in der H”he von 7 Schillingen.
+F$O™UB 1/286/613f/614
+G$X/X/X/X//  ?nur ersten nennen, alle
+E$X/Konvent/Passau/Passau,St. Nikola//Bayern
+H$Zins/Immobilien/uDonaul„nder Quelle des hl. Jakob?/uDonaul„nder,Quelle des hl. Jakob?//wo??
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/Z
+Q$unde solvunt nobis VII solidos
+
+REG$Propst Ulrich und der Konvent von St. Nikola zu Passau bergeben G„rten
+infra vallim an genannte Personen zu Leibgeding gegen einen
+j„hrlichen Zins in der H”he von 3 Schillingen.
+F$O™UB 1/286/613f/614
+G$X/X/X/X//  ?nur ersten nennen, alle
+E$X/Konvent/Passau/Passau,St. Nikola//Bayern/
+H$Zins/Immobilien/uDonaul„nder infra vallim/uDonaul„nder,infra vallim/wo??
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$qui solvit tres solidos
+
+REG$Propst Ulrich und der Konvent von St. Nikola zu Passau bergeben G„rten
+infra vallim an Siboto Sunculanus und seine Frau Mechthild? zu Leibgeding gegen
+einen j„hrlichen Zins in der H”he von 3 Schillingen.
+F$O™UB 1/286/613f/614
+G$Siboto Sunculanus/X/X/X//
+G$Mechthild/X/X/X//  ?nur ersten nennen, alle
+E$X/Konvent/Passau/Passau,St. Nikola//Bayern/
+H$Zins/Immobilien/uDonaul„nder infra vallim/uDonaul„nder,infra vallim//wo??
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$qui solvit tres solidos
+
+DOK$O™UB1_228/1230.8.17/1230.8.17/1230 August 17/anno MCCXXX. indictione III. XVI. kalendas
+Septembris/X/X//
+S$X/X/X
+V$X/X/X
+K$Miles Heinrich hatte das Gut in Eichberg nahe dem Kloster Formbach fr 14
+Talent Passauer verpf„ndet und war durch Armut gezwungen, das genannte Gut
+unter Verzicht seines Sohnes Christanus und seiner Tochter dem Altar S. Maria in
+Formbach unter der Bedingung zu bergeben, daá nach šbergabe der 14 Talent, fr
+welche das Gut verpf„ndet worden war, es ihm und seiner Verwandtschaft als
+Lebensunterhalt bergeben werde. Nach dem Tod des einen soll der šberlebende die
+Pfrnde zur G„nze erhalten.
+
+REG$Miles Heinrich hatte das Gut in Eichberg nahe dem Kloster Formbach fr 14
+Talent Passauer verpf„ndet und war durch Armut gezwungen, das genannte Gut
+unter Verzicht seines Sohnes Christanus und seiner Tochter dem Altar S. Maria in
+Formbach unter der Bedingung zu bergeben, daá nach šbergabe der 14 Talent, fr
+welche das Gut verpf„ndet worden war, es ihm und seiner Verwandtschaft als
+Lebensunterhalt bergeben werde. Nach dem Tod des einen soll der šberlebende die
+Pfrnde zur G„nze erhalten.
+F$O™UB 1/228/697/697
+F$MB 04/119/89f/89
+G$X/X/X/X//
+E$Heinrich/miles/X/X//
+H$Pfandgesch„ft/Immobilien/Taufkirchen Eichberg/Taufkirchen,Eichberg//O™,b.Vornbach a.Inn/
+W$Passau/X/
+O$14/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XIIII talentis Pataviensibus
+
+REG$Miles Heinrich hatte das Gut in Eichberg nahe dem Kloster Formbach fr 14
+Talent Passauer verpf„ndet und war durch Armut gezwungen, das genannte Gut
+unter Verzicht seines Sohnes Christanus und seiner Tochter dem Altar S. Maria in
+Formbach unter der Bedingung zu bergeben, daá nach šbergabe der 14 Talent, fr
+welche das Gut verpf„ndet worden war, es ihm und seiner Verwandtschaft als
+Lebensunterhalt bergeben werde. Nach dem Tod des einen soll der šberlebende die
+Pfrnde zur G„nze erhalten.
+F$O™UB 1/228/697/697
+F$MB 04/119/89f/90
+G$X/Kloster/Vornbach/Vornbach//O™/
+E$X/X/X/X//
+H$šbergabe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$14/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$datis XIIII talentis
+
+REG$Miles Heinrich hatte das Gut in Eichberg nahe dem Kloster Formbach fr 14
+Talent Passauer verpf„ndet und war durch Armut gezwungen, das genannte Gut
+unter Verzicht seines Sohnes Christanus und seiner Tochter dem Altar S. Maria in
+Formbach unter gewissen Bedingungen zu bergeben. Das Kloster kaufte das Gut
+fr 14 Talent und einen Pelzmantel von Ortolf von Reinpach zurck.
+F$O™UB 1/228/697/697
+F$MB 04/119/89f/90
+G$X/Kloster/Vornbach/Vornbach//O™/
+E$Ortolf/Genannter/Rainbach/Rainbach/Reinpach/O™,”.Sch„rding/
+H$Pfand_Ausl”se/Immobilien/Taufkirchen Eichberg/Taufkirchen,Eichberg//O™,b.Vornbach a.Inn/
+W$X/X/
+O$14/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$predio pro XIIII talentis et novo pellicio a quodam Ortolfo de Reinpach, qui
+idem predium tenebat, redempto
+
+REG$Miles Heinrich hatte das Gut in Eichberg nahe dem Kloster Formbach fr 14
+Talent Passauer verpf„ndet und war durch Armut gezwungen, das genannte Gut
+unter Verzicht seines Sohnes Christanus und seiner Tochter dem Altar S. Maria in
+Formbach unter gewissen Bedingungen zu bergeben. Das Kloster kaufte das Gut
+fr 14 Talent, welche es von Gertrud von Sauersteten erhalten hat, zurck.
+F$O™UB 1/228/697/697
+F$MB 04/119/89f/90
+G$Gertrud/Genannte/Safferstetten/Safferstetten/Sauerstetten/O™,Bez.Passau,l.U.d.Inns/
+E$X/Kloster/Vornbach/Vornbach//O™/
+H$šbergabe/Geldsumme/unbestimmt/unbestimmt//
+H$Anniversar/Anniversar/Vornbach/Vornbach//O™    ?
+W$X/X/
+O$14/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Predicta XIIII talenta, quibus iam dictum predium in Eichperc est redemptum,
+quedam matrona domna Gertrudis de Sauersteten ecclesie nostre contradidit
+
+DOK$O™UB1_244/1101.0.0/1200.0.0/12.Jh.?/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Machthilde von Aeigling bergibt mit Zustimmung ihrer Tochter Sophia ein Gut
+in Weiding fr ihr Seelenheil und das ihrer Tochter an den Altar S. Maria in
+Formbach zur Zeit Abt Gerhochs. Dasselbe Gut, das j„hrlich einen halben Wagen
+Bier und 30 Pfennige zahlt, war Swiker, dem Richter von Flinsperch, fr 18
+Schilling Passauer Mnze verpf„ndet worden.
+
+REG$Machthilde von Aeigling bergibt mit Zustimmung ihrer Tochter Sophia ein Gut
+in Weiding fr ihr Seelenheil und das ihrer Tochter an den Altar S. Maria in
+Formbach zur Zeit Abt Gerhochs. Dasselbe Gut, das j„hrlich einen halben Wagen
+Bier und 30 Pfennige zahlt, war Swiker, dem Richter von Flinsperch, fr 18
+Schilling Passauer Mnze verpf„ndet worden.
+F$O™UB 1/244/703f/704
+G$Swiker/Richter/Bogen Flinsberg/Bogen,Flinsberg/Flinsperch/NB, bei Bogen
+E$X/X/X/X//?
+H$Pfandgesch„ft/Immobilien/O™_s.Donau Weiding/O™_s.Donau,Weiding// welches?
+W$Passau/moneta/
+O$X/X/X
+Z$18/sol./X
+M$X/X/X/A
+Q$pro XVIII solidis Pataviensis monete
+
+REG$Machthilde von Aeigling bergibt mit Zustimmung ihrer Tochter Sophia ein Gut
+in Weiding fr ihr Seelenheil und das ihrer Tochter an den Altar S. Maria in
+Formbach zur Zeit Abt Gerhochs. Dasselbe Gut, das j„hrlich einen halben Wagen
+Bier und 30 Pfennige zahlt, war Swiker, dem Richter von Flinsperch, fr 18
+Schilling Passauer Mnze verpf„ndet worden.
+F$O™UB 1/244/703f/704
+G$X/X/X/X// ?
+E$X/Altar/Vornbach/Vornbach,S.Maria//O™/
+H$Zins/Immobilien/O™_s.Donau Weiding/O™_s.Donau,Weiding//  welches?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$solvit et XXX denarios omni anno
+
+DOK$QENF6_1017/1220.0.0/1240.0.0/1220 - 1240/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Sigehard und seine Gemahlin Chunegund von Antersham bergeben ein Gut zu
+Inding.
+
+REG$Sigehard und seine Gemahlin Chunegund von Antersham bergeben ein Gut zu
+Inding dem Domkapitel von Passau, das sie um 24 Schilling Passauer zurckgekauft
+haben.
+F$QE NF 06/1017/344/344
+G$Sigehard/Genannter/Antershaim/Antershaim/Antersham/BH Sch„rding
+G$Chunegund/Genannnte/Antershaim/Antershaim/Antersham/wo??
+E$X/X/X/X//
+H$Rckkauf/Immobilien/Inding/Inding//O™,D.G.Diersbach,BH Sch„rding/
+W$Passau/X/
+O$X/X/X
+Z$24/sol./X
+M$X/X/X/A
+Q$redemi \dots pro XX IIII solidis Pataviensibus
+
+DOK$QENF6_1316/1220.0.0/1240.0.0/1220 - 1240/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Censualen des Domkapitels von Passau von Pichl, Dobel, Heining, Weg, Anger,
+Hof.
+
+REG$Heinrich der Prunner von Pichl und Heinrich von Dobel sind Censualen des
+Domkapitels von Passau zu einem Zins von 5 Pfennigen.
+F$QE NF 06/1316/417f/417
+G$Heinrich der Prunner/Genannter/uNBayern Pichl/uNBayern,Pichl/  wo??
+G$Heinrich/Genannter/uNBayern Tobel/uNBayern,Tobel/Dobel/welches??
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zensus/H”rige/Passau/Passau//Bayern/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ad V denarios
+
+REG$Mechthilde von Heining ist eine Censuale des Domkapitels von Passau zu einem
+Zins von 5 Pfennigen.
+F$QE NF 06/1316/417f/417
+G$Mechthilde/Genannte/Heining/Heining//Bayern,D.G.BA Passau/
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zensus/H”rige/Passau/Passau//Bayern/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ad V denarios
+
+REG$Heinrich de Wege ist ein Censuale des Domkapitels von Passau zu einem Zins
+von 5 Pfennigen.
+F$QE NF 06/1316/417f/417
+G$Heinrich/Genannter/uNBayern Wege/uNBayern,Wege//wo??
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zensus/H”rige/Passau/Passau//Bayern/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ad V denarios
+
+REG$Pilgrim von Anger ist ein Censuale des Domkapitels von Passau zu einem Zins
+von 5 Pfennigen.
+F$QE NF 06/1316/417f/417
+G$Pilgrim/Genannter/Anger/Anger// welche?? Stadtteil von
+Passau?
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Zensus/H”rige/Passau/Passau//Bayern/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ad V denarios
+
+REG$Herbord bergibt dem Domkapitel von Passau zu seinem Seelenheil 4
+Regensburger.
+F$QE NF 06/1316/417f/417
+G$Herborg/X/X/X//
+E$X/Domkapitel/Passau/Passau//Bayern/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//  ?
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$4/den.?/X/Z
+Q$dedit in remedio IIII Ratisponenses
+
+
+
+
+DOK$O™UB2_108/1125.7.30/1125.7.30/1125 Juli 30/anno domini MCXXV. indictione III.
+\dots III kalendas augusti/Ranshofen/Ranshofen//O™,s.Braunau/
+S$Bernhard/X/Bernhard
+V$Wernhard/X/Wernhard
+K$Herzog Heinrich von Bayern, schenkt mit Einwilligung seiner Gemahlin Wulfhilde
+dem Stift Ranshofen im Gau Ranshofen Zehnte um den Weilhart, die Gter
+Hantenberg, die Kirche Engnach etc.
+
+REG$Strafbestimmung in der H”he von 60 goldenen mancusios?.
+F$O™UB 2/108/161f/162
+F$MB 03/005/314f/314
+G$X/X/X/X//
+E$X/Kasse/Dt.k”nigl./Dt.k”nigl.//
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/mancusius/aureus/Z
+Q$in cameram regis vel imperatoris sexaginta mancusios aureos persolvat
+B$Mancusus - byzantinische Goldmnze?  (Du Cange fr marca)
+
+DOK$O™UB2_122/1139.3.29/1139.3.29/1139 M„rz 29/IIII kalendas aprilis. indictione II.
+incarnationis dominice anno MCXXXVIIII/Rom/Rom,Lateran//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Innocenz II. nimmt das Kloster Formbach in den besonderen Schutz des
+apostolischen Stuhls.
+
+REG$J„hrliche Zinszahlung des Klosters Formbach an den apostolischen Stuhl in der
+H”he von einem Byzantiner.
+F$O™UB 2/122/181ff/182
+F$MB 04/004/130ff/131
+G$X/Kloster/Vornbach/Vornbach//NB,s.Passau/
+E$Innozenz II./Papst/Rom/Rom//Italien/
+H$Zinsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/X/Z
+Q$ad indicium autem huius percepte a Romana ecclesia libertatis nobis nostrisque
+successoribus unum bizanzium singulis annis census nomine persolvetis
+
+DOK$O™UB2_164/1149.0.0/1149.0.0/1149/anno ab incarnacione domini
+MCXLIX/Greifenstn./Greifenstein/Griffensteine/N™,”.Tulln/
+S$X/X/X
+V$X/X/X
+K$Der Edle Otto von Machland verordnet, daá all sein bewegliches Gut zwischen
+den Kl”stern Baumgartenberg und Sabenich geteilt werde und daá die von dem
+Bischof von Passau dem Kloster Sabenich gegebenen Gter nach Baumgartenberg
+geh”ren sollen.
+
+REG$J„hrliche Zinszahlung der Kirche St. Andrea an den apostolischen Stuhl in der
+H”he von einem Byzantiner.
+F$O™UB 2/164/247ff/248
+G$X/Kirche/Baumgartenberg/Baumgartenberg,St.Andrea//O™,w.Grein/
+E$X/R”m.Kirche/R”m.Kirche/R”m.Kirche//Italien/
+H$Zinsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/aureus/Z
+Q$eamque libertati sedis apostolice cum multis nobilibus sub uno aureo Bisancio
+quoque omni anno prepositus serviret
+
+DOK$O™UB2_247/1179.3.29/1179.3.29/1179 M„rz 29/IV. kal. aprilis, indictione XII.
+incarnationis dominice anno MCLXXIX/Rom/Rom,Lateran//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Alexander III. nimmt das Kloster Formbach in den besonderen Schutz des
+apostolischen Stuhles.
+
+REG$J„hrliche Zinszahlung des Klosters Formbach an den apostolischen Stuhl in der
+H”he von einem Byzantiner.
+F$O™UB 2/247/356ff/358
+F$MB 04/008/136ff/138
+G$X/Kloster/Vornbach/Vornbach//NB,s.Passau/
+E$Alexander III./Papst/Rom/Rom//Italien/
+H$Zinsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/X/Z
+Q$ad indicium autem huius a Romana ecclesia percepte libertatis nobis nostrisque
+successoribus bizantium unum annis singulis nomine census persolvetis
+
+DOK$O™UB2_267/1185.4.11/1185.4.11/ca. 1185 April 11/III idus aprilis/Velletri/Velletri//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Lucius III. nimmt das von der edlen Frau Beatrix von Chlamb am Gestade
+der Donau zu Pahin gestiftete Pilgerspital in seinen besonderen Schutz.
+
+REG$J„hrliche Zinszahlung des Klosters Formbach an den apostolischen Stuhl in der
+H”he von einem Byzantiner.
+F$O™UB 2/267/394ff/394
+G$X/Pilgerspital/uO™_s.Donau Pahin/uO™_s.Donau,Pahin//wo?? um Perg in Riedmark -Machland
+-Ostmark
+E$X/apostol. Stuhl/Rom/Rom//Italien/
+H$Zinsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/X/aureus
+Z$X/X/X
+M$X/X/X/Z
+Q$predium quoddam iuxta littus danubii, quod Pahin dicitur, beato Petro sub
+unius aurei censu annis singulis exhibendo pie devocionis intuitu obtulit
+B$Datum oder Ausstellungsort wohl nicht richtig.
+
+DOK$O™UB2_318/1198.11.0/1198.12.0/1198 (November - Dezember)/anno ab incarnatione
+domini MCXCVIII. indictione I. anno pontificatus nostri XXXI./Salzburg/Salzburg//S/
+S$X/X/X
+V$X/Salzburg/AIIIB
+K$Erzbischof Albert III. von Salzburg bestimmt dem Stift Reichersberg j„hrlich
+zehn, der Propstei zu Suben j„hrlich drei Salzpfund aus der Saline am Tuval,
+die ihnen Dompropst Berthold und seine Nachfolger j„hrlich vor dem Johannstag
+(24. Juni) verabreichen sollen.
+
+REG$Erzbischof Albert III. von Salzburg berl„át dem Stift Reichersberg zur
+Verbesserung von dessen Unterhalt 10 Pfund Salzburger Mnze aus dem
+Gewinn der Saline am Tuval, die Dompropst Berthold und seine Nachfolger j„hrlich
+vor dem Johannstag (24. Juni) verabreichen sollen.
+F$O™UB 2/318/462f/463
+F$SUB 2/0525/713f/714
+G$Albert III./Erzbischof/Salzburg/Salzburg//S/
+E$X/Stift/Reichersberg/Reichersberg//O™,a.Inn/
+H$Schenkung/GeldsummeJahrgeld?/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ad annualem pensionem Richerspergensibus decem librarum Salzburgensis
+monet\c{e} \dots donavimus
+
+REG$Erzbischof Albert III. von Salzburg schenkt der Propstei Suben
+3 Pfund Salzburger Mnze aus dem Gewinn der Saline am Tuval, die
+Dompropst Berthold und seine Nachfolger j„hrlich vor dem Johannstag (24. Juni)
+verabreichen sollen.
+F$O™UB 2/318/462f/463
+F$SUB 2/0525/713f/714
+G$Albert III./Erzbischof/Salzburg/Salzburg//S/
+E$X/Propstei/Suben/Suben//O™,b.Sch„rding/
+H$SchenkungAnnuit„t?/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ad annualem pensionem \dots Subnensibus trium librarum eiusdem monet\c{e}
+\dots donavimus
+B$"Salzburg" aus dem Zusammenhang erschlossen.
+
+DOK$O™UB2_326/1200.0.0/1200.0.0/ca. 1200/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Wolfger von Passau schlichtet den Streit zwischen dem Kloster
+Waldhausen und Rudiger von Senftenberg wegen des Marktes K”nigswiesen.
+
+REG$Bischof Wolfger von Passau bestimmt, daá Rdiger von Senftenberg dem
+Kloster Waldhausen wegen des Marktes in K”nigswiesen 10 Talent Wiener Mnze zu
+zahlen habe.
+F$O™UB 2/326/473/473
+G$Rdiger?/Genannter/Senftenberg/Senftenberg//N™,n.Krems/
+E$X/Kloster/Waldhausen/Waldhausen//O™,b.Grein/
+H$Zahlung?Zins/Geldsumme/unbestimmt/unbestimmt? //
+W$Wien/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$eidem ecclesi\c{e} in primo aditu post decisam litem decem talenta Winnensis
+(sic) monet\c{e}
+
+REG$Rudiger von Senftenberg muá dem Kloster Waldhausen laut Entscheidung des
+Bischofs Wolfger von Passau j„hrlich 12 Schilling zahlen.
+F$O™UB 2/326/473/473
+G$Rudiger/Genannter/Senftenberg/Senftenberg//N™,n.Krems/
+E$X/Kloster/Waldhausen/Waldhausen//O™,b.Grein/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt? //
+W$X/X/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/Z
+Q$eidem ecclesi\c{e} \dots annuatim duodecim solidos \dots persolvat
+
+REG$Bischof Wolfger von Passau bestimmt, daá, sollte Rdiger von Senftenberg die
+bestimmte Zahlung an das Kloster Waldhausen
+nicht zur festgesetzten Zeit leisten, er 2 Talent Strafgeld zu zahlen habe.
+F$O™UB 2/326/473/473
+G$Rdiger/Genannter/Senftenberg/Senftenberg//N™,n.Krems/
+E$X/Kloster/Waldhausen/Waldhausen//O™,b.Grein/
+H$P”nale/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pactum statuto tempore \dots solvere neglexerit, in primo anno duo talenta
+resarciat
+
+DOK$O™UB2_363/1209.7.6/1209.7.6/1209 Juli 6/anno domini MCC. nono, II. nonas
+Iulii/Gramastetten/Gramastetten//O™,a.Rotel,Mhlkreis/
+S$X/X/X
+V$X/X/X
+K$Bischof Manegold von Passau best„tigt einen Tausch zwischen dem Passauer
+Kanoniker Tiemo und Rudeger Biber.
+
+REG$Rudeger Biber und seiner Frau Benedicta verkaufen dem Passauer Kanoniker Tiemo
+eine Hube in Pinphingen, eine in Otherbach und den vierten Teil einer Hube in
+Ruite um 40 Pfund.
+F$O™UB 2/363/523f/523
+F$MB 29II/?/280/?
+G$Tiemo/Kanoniker/Passau/Passau//Bayern/
+E$Rudeger Biber/X/X/X//
+H$Kauf/Immobilien/Pimpfing/Pimpfing/Pinphingen/O,G.Andorf,B.Raab/
+H$Kauf/Immobilien/St.Florian_Otterbach/St.Florian_Otterbach/Otherbach/G.St.Florian, B.Sch„rding/
+H$Kauf/Immobilien/uO™_s.Donau Ruite/uO™_s.Donau,Ruite/  Verschreibung ?? riude Rodung //
+W$X/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$sibi venderent pro certa pecunie quantitate, libris videlicet quadraginta
+
+REG$Zwischen Rdiger Biber und dessen Frau Benedicta einerseits und dem
+Kanoniker Thiemo von Passau andererseits wird vereinbart, daá die verkauften
+Huben in Pinphingen, in Otherbach und in Ruite fr den Fall der Anfechtung oder
+Aufl”sung des Kaufgesch„ftes als um 200 Pfund Passauer Mnze an besagten Thiemo
+verpf„ndet gelten sollen.
+F$O™UB 2/363/523f/524
+F$MB 29II/?/280/?
+G$Rudeger Biber/X/X/X//
+E$Tiemo/Kanoniker/Passau/Passau//Bayern/
+H$Pfandgesch„ft/Immobilien/Pimpfing/Pimpfing/Pinphingen/O,G.Andorf,B.Raab/
+H$Pfandgesch„ft/Immobilien/St.Florian_Otterbach/Otherbach/G.St.Florian,B.Sch„rding
+H$Pfandgesch„ft/Immobilien/uO™_s.Donau Ruite/uO™_s.Donau,Ruite/  Verschreibung ?? riude
+Rodung //
+W$Passau/moneta/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$predia \dots pro ducentis libris monete pataviensis habeat obligata
+
+DOK$O™UB2_371/1210.0.0/1210.0.0/ca. 1210/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Vergleich zwischen dem Propst Heinrich von St. Nikola und Ortolf von
+Grieskirchen wegen eines Zehnts in dieser Pfarre.
+
+REG$Ortolf von Grieskirchen bergibt den Kanonikern von St. Nikola ein Gut namens
+Tegerbach, das er von Manegold um 10 Talent erworben hat.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/318
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$Manegold/X/X/X//
+H$Kauf/Immobilien/Schlálberg Tegernbach/Schlálberg,Tegernbach//i.Tal
+d.Tratnach??welches/
+W$X/X/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$predium nomine Tegerbach, quod conparavit a Manegoldo X talenta (sic)
+B$"talentis" in MB.
+
+REG$Ortolf von Grieskirchen bergibt den Kanonikern von St. Nikola ein Gut namens
+Tegerbach fr sein Seelenheil, das er auf Lebenszeit zu einem j„hrlichen Zins
+von 5 nummi zurckerh„lt.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$X/Altar/Passau/Passau,St.Nikola//Bayern/
+H$Zinsverpflichtung/Immobilien/Schlálberg Tegernbach/Schlálberg,Tegernbach//i.Tal d.Tratnach??welches/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/nummus/X/Z
+Q$predium in beneficium a manu prepositi recepit ad tempus vite sue ea lege, ut
+singulis annis V nummos ad altare sancti Nycolai deferat
+
+REG$Propst Heinrich von St. Nikola leiht von Ortolf von Grieskirchen fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$Heinrich/Propst/Passau/Passau,St.Nikola//Bayern/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$mutuo accepit X talenta Ratisponensis monete et VI ensensis monete
+
+REG$Propst Heinrich von St. Nikola leiht von Ortolf von Grieskirchen fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$Heinrich/Propst/Passau/Passau,St.Nikola//Bayern/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Enns/moneta/
+O$6/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$mutuo accepit X talenta Ratisponensis monete et VI ensensis monete
+B$"Talent" aus dem Zusammenhang erschlossen.
+
+ ?nur Enns Regensburg aufnehmen
+
+REG$Ortolf von Grieskirchen leiht Propst Heinrich von St. Nikola fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze. Sollte er vor
+der Rckzahlung der Schulden sterben, sind diese fr sein Seelenheil zu
+verwenden. Die Kanoniker von St. Nikola sollen 5 Talent Regensburger Mnze
+erhalten.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$X/Kanoniker/Passau/Passau,St.Nikola//Bayern/
+H$Seelger„tstiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$V talenta ratisponensis (monete) fratribus s. Nycolai
+B$? Die selben 6 Talent Ennser werden kurz darauf einfach als ensarios
+bezeichnet.
+
+REG$Ortolf von Grieskirchen leiht Propst Heinrich von St. Nikola fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze. Sollte er vor
+der Rckzahlung der Schulden sterben, sind diese fr sein Seelenheil zu
+verwenden. Die Kanoniker der maior ecclesia sollen 3 Talent
+Regensburger Mnze erhalten.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$X/Kanoniker/Passau/Passau?,ecclesia maior//Bayern/
+H$Seelger„tstiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$3/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$tria cononicis maioris ecclesie
+B$"Talent Regensburger Mnze" aus dem Zusammenhang erschlossen.
+
+REG$Ortolf von Grieskirchen leiht Propst Heinrich von St. Nikola fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze. Sollte er vor
+der Rckzahlung der Schulden sterben, sind diese fr sein Seelenheil zu
+verwenden. Die Armen ad sanctum Egidium (1. Sept.) sollen 2 Talent Regensburger Mnze
+erhalten.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$X/Arme/X/X//
+H$Seelger„tstiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$duo pauperibus ad sanctum Egidium
+B$"Talent Regensburger Mnze" aus dem Zusammenhang erschlossen.
+
+REG$Ortolf von Grieskirchen leiht Propst Heinrich von St. Nikola fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze. Sollte er vor
+der Rckzahlung der Schulden sterben, sind diese fr sein Seelenheil zu
+verwenden. Wilhering soll 2 Talent Ennser Mnze erhalten.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$X/Stift/Wilhering/Wilhering//O™,b.Linz/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Enns/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ensensium duo talenta ad Willehringen
+
+REG$Ortolf von Grieskirchen leiht Propst Heinrich von St. Nikola fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze. Sollte er vor
+der Rckzahlung der Schulden sterben, sind diese fr sein Seelenheil zu
+verwenden. Zwei Alt„re in der Kirche Grieskirchen sollen 2 Talent Ennser Mnze
+erhalten.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$X/Alt„re/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+H$Seelger„tstiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Enns/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad duo altaria in ecclesia Griezkirchen duo talenta
+B$"Enns" aus dem Zusammenhang erschlossen.
+
+REG$Ortolf von Grieskirchen leiht Propst Heinrich von St. Nikola fr eine
+Romreise 10 Talent Regensburger Mnze und 6 Talent Ennser Mnze. Sollte er vor
+der Rckzahlung der Schulden sterben, sind diese fr sein Seelenheil zu
+verwenden. Propst Heinrich von St. Nikola soll 2 Talent Ennser Mnze fr sein
+Seelenheil erhalten.
+F$O™UB 2/371/530f/531
+F$MB 04/012/318f/319
+G$Ortolf/Genannter/Grieskirchen/Grieskirchen//zw.Wels,Riedau u.Passau/
+E$Heinrich/Propst/Passau/Passau,St.Nikola//Bayern/
+H$Seelger„tstiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Enns/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$reliqua duo in potestate sint domini prepositi danda pro redempcione anime sue
+B$"Talent Enns" aus dem Zusammenhang erschlossen.
+
+DOK$O™UB2_381/1212.0.0/1212.0.0/ca. 1212/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Wichart und der Konvent von Ranshofen versprechen bei der šbergabe des
+Gutes šberacker dem Pubo von Lozenkirchen eine Herrenpfrnde.
+
+REG$Propst Wichart und der Konvent von Ranshofen geben dem Pubo von Lozenkirchen
+fr die šbergabe des Gutes šberacker 90 Talent Regensburger Mnze und eine
+Herrenpfrnde.
+F$O™UB 2/381/557f/558
+F$MB 03/017/331/331
+G$Wichart/Propst/Ranshofen/Ranshofen//O™,s.Braunau/
+E$Pubo/Genannter/uDonaul„nder Lozenkirchen/uDonaul„nder,Lozenkirchen//wo?? uDonaul„nder
+H$Abl”se/Immobilien/šberackern/šberackern/šberacker/Matichgau,rechtes
+Salzachufer?/
+W$Regensburg/moneta/
+O$90/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$receptis tamen a nobis nonaginta talentis ratisponensis monete
+B$In MB mit ca. 1220 datiert.
+
+DOK$O™UB2_391/1215.0.0/1215.0.0/1215/anno ab incarnatione domini MCCXV/Grein/Grein/Griene/O™/
+S$X/X/X
+V$X/X/X
+K$Propst Marquard von Waldhausen und Propst Hartmann von Ardaker beurkunden die
+Beilegung eines zwischen beiden Kl”stern bestandenen Streites in betreff der
+Pfarre Neustadt durch gew„hlte Schiedsrichter.
+
+REG$Strafbestimmung in der H”he von 100 Pfund Wiener Mnze.
+F$O™UB 2/391/577ff/577
+G$Marquard/Propst/Waldhausen/Waldhausen//O™,b.Grein/
+G$Hartmann/Propst/Ardagger/Ardaker/N™,n.Amstetten/
+E$Perenger/Dekan/X/X//
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pena centum librarum Wiennensis monete
+B$Von den Empf„ngern wurde nur der erste Schiedsmann bercksichtigt.
+
+REG$Strafbestimmung in der H”he von 100 Pfund Wiener Mnze.
+F$O™UB 2/391/577ff/578
+G$Marquard/Propst/Waldhausen/Waldhausen//O™,b.Grein/
+G$Hartmann/Propst/Ardagger/Ardaker/N™,n.Amstetten/
+E$Perenger/Dekan/X/X//
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$violati pacti reum solutione centum librarum Wiennensis monete decernentes
+condempnandum
+B$Von den Empf„ngern wurde nur der erste Schiedsmann bercksichtigt.
+
+DOK$O™UB2_394/1216.8.27/1216.8.27/1216 August 27/VI. kalend. septembris, indictione
+IIII. episcopatus mei anno X. pontificatus domini Honorii pape anno
+primo/Wrzburg/Wrzburg//Bayern/
+S$OB/X/X
+V$X/X/X
+K$Bischof Otto von Wrzburg verpf„ndet seinem Kapitel fr jene 1300 Mark Silber,
+welche er vom Herzog Leopold von ™sterreich fr die bisch”flichen Besitzungen zu
+Lambach erhalten hatte (sic), alle anderen noch unverpf„ndeten Gtern des
+Bistums Wrzburg.
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Heidingesvelt aus Bittleihe
+in der H”he von 30 Pfund.
+F$O™UB 2/394/584ff/584
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Heidingsfeld/Heidingsfeld/Heidingesvelt/links v.Main,a.Ausfluá d.Klingenbachs i.diesen/
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Heidingesvelt ad precaria XXX libras
+
+REG$Zinseinknfte von Besitzungen des Bistums Wrzburg in Heidingesvelt
+in der H”he von 16 Pfund.
+F$O™UB 2/394/584ff/584
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Zins/Immobilien/Heidingsfeld/Heidingsfeld/Heidingesvelt/links v.Main,a.Ausfluá d.Klingenbachs i.diesen/
+W$X/X/
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Heidingesvelt \dots census officii XVI libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Randersake aus Bittleihe
+in der H”he von 20 Pfund.
+F$O™UB 2/394/584ff/584
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Randersacker/Randersacker/Randersake/a.rechten Mainufer,s”.Heidingsfeld/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Randersake de precaria XX libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Ahusen
+in der H”he von 20 Pfund Pfennige.
+F$O™UB 2/394/584ff/584
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Sommmer-u.Winterhausen a.Main/Sommmer-u.Winterhausen a.Main/Ahusen/zw.Randersacker u.Ochsenfurt a.Main/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Ahusen denariorum XX libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Frikkenhusen aus Bittleihe
+in der H”he von 30 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Frickenhausen/Frickenhausen/Frikkenhusen/”.Ochsenfurt a.Main/
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Frikkenhusen ad precaria XXX libras
+
+REG$Zinseinknfte von Besitzungen des Bistums Wrzburg in Frikkenhusen
+in der H”he von 7 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Zins/Immobilien/Frickenhausen/Frickenhausen/Frikkenhusen/”.Ochsenfurt a.Main/
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Frikkenhusen \dots de censibus VII libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in der Vogtei Stephe
+in der H”he von 20 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Marktsteft/Marktsteft/Stephe/n”.Frickenhausen/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in advocatia Stephe XX libras
+
+REG$Zinseinknfte von Besitzungen des Bistums Wrzburg in Httenheim
+in der H”he von einem Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Httenheim/Httenheim/Hittenheim/s”.Marktsteft/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Httenheim censuum libram unam
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Windesheim
+in der H”he von 12 Pfund Pfennigen.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Windsheim/Windsheim/Windesheim/a.d.Aisch,LGOrt/
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$in Windesheim denariorum XII libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Windesheim aus Bittleihe
+in der H”he von 30 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Windsheim/Windsheim/Windesheim/a.d.Aisch/
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Windesheim \dots precaria XXX libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Berneheim und Gessele aus
+Bittleihe in der H”he von 30 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Burg-oder Altenbernheim u. ??/Burg-oder Altenbernheim u. ??/Berneheim und Gessele/wo??
+H$Einknfte/Immobilien/Gessel/Gessel/Gessele/wo?? Niedersachsen Gessel oder
+Gesseln
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Berneheim et in Gessele precaria XXX libras
+B$wohl nicht Geislingen b.Oberickelsheim i.LG.Uffenheim, da zu entfernt.
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Heilichbrunnen
+in der H”he von 13 Mark.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Heilbronn/Heilbronn/Heilichbrunnen/a.Neckar,OASt./
+W$X/X/
+O$13/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Heilichbrunnen de mansis XIII marcas
+
+REG$Einknfte von Fischereien des Bistums Wrzburg in Heilichbrunnen
+in der H”he von 5 Pfund Haller.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien_Fischereien/Heilbronn/Heilbronn/Heilichbrunnen/a.Neckar,OASt./
+W$Hall/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Heilichbrunnen \dots de piscationibus V libras hallensium
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Heilichbrunnen aus der
+villicatio [im Gegensatz zur vorher genannten Fischerei] in der H”he von 20
+Mark.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Heilbronn/Heilbronn/Heilichbrunnen/a.Neckar,OASt./
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Heilichbrunnen \dots de villicatione XX marcas
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Heilichbrunnen aus Bittleihe
+in der H”he von 30 Mark Pfennigen.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Heilbronn/Heilbronn/Heilichbrunnen/a.Neckar,OASt./
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$in Heilichbrunnen \dots de precaria denariorum XXX marcas
+
+REG$Zinseinknfte von Besitzungen des Bistums Wrzburg in Homburch
+in der H”he von 4,5 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Homburg/Homburg/Homburch/a.Main,LGO./
+W$X/X/
+O$4,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Homburch de censu IIII libras et dimidiam
+
+REG$Zolleinknfte des Bistums Wrzburg in Karleburch in der H”he von 60 Pfund
+Pfennigen.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Zolleinknfte/Geldsumme/Karleburg/Karleburg/Karleburch/a.Main,LG Karlstatt/
+W$X/X/
+O$60/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Karleburch de teloneo LX libras denariorum
+
+REG$Zinseinknfte von Besitzungen des Bistums Wrzburg in Karleburch
+in der H”he von 10 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Karleburg/Karleburg/Karleburch/a.Main,LG Karlstatt/
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Karleburch \dots de censibus X libras
+
+REG$Zinseinknfte von Besitzungen des Bistums Wrzburg bei Seligenstat
+in der H”he von 14 Pfund.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/54
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Seligenstatt/Seligenstatt/Selilgenstat/Hof,LG Settelbach/
+W$X/X/
+O$14/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Seligenstat de censibus XIIII libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg in Geltersheim
+in der H”he von 8 Pfund Pfennigen.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/55
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Geltersheim/Geltersheim//nw.Schweinfurt/
+W$X/X/
+O$8/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Geltersheim \dots denariorum VIII libras
+
+REG$Einknfte von Besitzungen des Bistums Wrzburg bei Ebern, Salzburch,
+Vachedorph, Mebiuhestat und Rochperch in der H”he von 200 Pfund Pfennigen.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/55
+G$X/X/X/X//
+E$X/Bistum/Wrzburg/Wrzburg//Bayern/
+H$Einknfte/Immobilien/Ebern/Ebern//a.d.Baunach,LG O./
+H$Einknfte/Immobilien/Salzburg b.Neustadt a.d.Saale/Salzburg b.Neustadt a.d.Saale/Salzburch/b.Neustadt a.d.Saale/
+H$Einknfte/Immobilien/Vachdorf i.Werragrunde/Vachdorf i.Werragrunde/Vachedorph/i.Meiningischen/
+H$Einknfte/Immobilien/Melrichstatt a.Streuflsschen/Melrichstatt a.Streuflsschen/Mebiuhestatm/LGO/
+H$Einknfte/Immobilien/Rupperg/Rupperg/Rochperch/b.Wasungen i.Meiningischen/
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$apud Ebern, Salzburchm, Vachedorph, Mebiuhestat, Rochperch per totum
+denariorum CC libras
+
+REG$Bischof Otto von Wrzburg verpf„ndet seinem Kapitel fr jene 1300 Mark Silber,
+welche er vom Herzog Leopold von ™sterreich fr die bisch”flichen Besitzungen zu
+Lambach erhalten hatte, andere noch unverpf„ndete Gter des Bistums Wrzburg.
+F$O™UB 2/394/584ff/585
+F$WBUB 3/596/54ff/55
+G$Leopold VI./Herzog/™sterreich/™sterreich//™/
+E$Otto/Bischof/Wrzburg/Wrzburg//Bayern/
+H$Kauf?/Immobilien/Lambach/Lambach//O™/
+W$X/X
+O$1300/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro mille et trecentis marcis argenti de predio Lambach a duce austrie habitis
+
+DOK$O™UB2_409/1220.2.3/1220.2.3/1220 Februar 3/anno incarnationis dominice MCCXX.
+indictione VIII. tercio nonas februarii/Passau/Passau//Bayern/
+S$Konrad/Passau/Konrad
+V$Konrad/Passau/Konrad
+K$Bischof Ulrich von Passau berl„át dem Kloster St. Nikolaus bei Passau
+tauschweise die Pfarre Widemspach (Wimspach) gegen jenen j„hrlichen Zins,
+welchen das Kloster bisher von der Insel Golderwerd bezogen hat.
+
+REG$Bischof Ulrich von Passau berl„át dem Stift St. Nikolaus bei Passau
+tauschweise die Pfarre Widemspach (Wimspach) anstelle der bisherigen
+j„hrlichen Zuwendungen
+in der H”he von einem Talent goldener Pfennige und 12 Schillinge oder 6 Pfund
+Passauer Geldes, wie sie dem Stift bisher aus den bisch”flichen Einknften von
+der Insel Golderwerd seit Bischof Altmann angewiesen worden waren.
+F$O™UB 2/409/602ff/603
+G$X/Stift/Passau/Passau,St.Nikolaus//Bayern/
+E$Ulrich/Bischof/Passau/Passau//Bayern/
+H$J„hrl. Zuwendung/Immobilien/Goldw”rth/Goldw”rth/Golderwerd/Insel
+zw.?P”sen-Bach u.Donau/
+W$X/X/
+O$1/tal./X
+Z$12/sol./X
+M$X/den./aureus/Z
+A$1 Talent 12 Schill. goldener Pf./6 Pfund Passauer Mnze
+Q$in concambium talenti aureorum denariorum et XII solidorum vel Pataviensis
+monet\c{e} VI librarum
+
+REG$Bischof Ulrich von Passau berl„át dem Kloster St. Nikolaus bei Passau
+tauschweise die Pfarre Widemspach (Wimspach) gegen jenen j„hrlichen Zins in der
+H”he von einem Talent goldener Pfennige und 12 Schillinge oder 6 Pfund
+Passauer Geldes, welchen das Kloster bisher von der Insel Golderwerd bezogen
+hat.
+F$O™UB 2/409/602ff/603
+G$X/Kloster/Passau/Passau,St.Nikolaus//Bayern                  wie oben?
+E$Ulrich/Bischof/Passau/Passau//Bayern/
+H$Tausch/Zins/Wimsbach/Wimsbach/Widemspach/s.Lambach/
+H$Zins?/Immobilien/Goldw”rth/Goldw”rth/Golderwerd/Insel zw?P”sen-Bach u.Donau/
+W$Passau/moneta/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+A$6 Pfund Passauer Mnze/1 Talent 12 Schill. goldener Pf.
+Q$in concambium talenti aureorum denariorum et XII solidorum vel Pataviensis
+monet\c{e} VI librarum
+
+DOK$O™UB2_436/1222.7.5/1222.7.5/1222 Juli 5/anno domini  MCCXXII. indiccione decima,
+III. nonas iulii/Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Bischof Gebhart von Passau beurkundet einen Vergleich zwischen dem Kloster St.
+Nikolaus und dem Dekan Otakar zu Enns bezglich auf die bei der Kirche der hl.
+Maria (Maria Anger) bei Enns eingehenden Opfer.
+
+REG$Das Kloster St. Nikolaus und der Dekan Otakar zu Enns kompromittieren auf ein
+Schiedsgericht bei Strafe von 30 Pfund.
+F$O™UB 2/436/634ff/634
+G$Ulrich/Propst/Passau/Passau,St.Nikola//Bayern/
+G$Otakar/Dekan/Enns/Enns//O™/
+E$X/Abt/Aldersbach/Aldersbach/Alderspach/LK Vilshofen, NB
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$partes in arbitros compromiserunt sub pena XXX librarum
+
+REG$Strafbestimmung in der H”he von 30 Pfund Wiener Mnze.
+F$O™UB 2/436/634ff/635
+G$Ulrich/Propst/Passau/Passau,St.Nikola//Bayern/
+E$Otakar/Dekan/Enns/Enns//O™   beide?
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$alteri parti XXX libras Wiennensis monete persolvat
+B$wechselweise Konventionalstrafe, die Rollen von Geldgeber und Empf„nger k”nnen
+auch vertauscht werden.
+
+DOK$O™UB2_457/1226.0.0/1226.0.0/1226/anno incarnationis domini MCCXXVI. indictione
+XIIII./Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Graf Konrad von Wasserburg beurkundet, daá er das Schloá Vichtenstein und
+all sein Eigentum zwischen der Salzach und Enns, und von der Isar bis zum
+B”hmerwald dem Bistum Passau abgetreten habe.
+
+REG$Graf Konrad von Wasserburg vereinbart mit Bischof Gebhard von Passau, daá
+seine Witwe, falls sie heiraten wollte, von der Passauer Kirche 300 Mark
+erhalten solle, wofr sie auf alle Lehensbesitzungen verzichten muá.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/146
+G$X/Kirche/Passau/Passau//Bayern/
+E$Kunigunde/Gr„fin/Wasserburg/Wasserburg//OB,a.Inn/
+H$Abl”se/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Si autem marito nubere forsan voluerit, trecentas marcas Pataviensis ecclesia
+sibi solvet
+B$MB 29 II 222) O™UB3 Nr. 86 S. 91 Urkunde ber Nachlaá von 100 Mark.
+O™UB1 Nr. 5 ber Verkauf des Schlosses.
+
+REG$Graf Konrad von Wasserburg vereinbart mit Bischof Gebhard von Passau, daá
+seine Witwe, falls er ohne Erben sterben sollte, von der Passauer Kirche 300
+Mark erhalten solle, wonach sie berhaupt kein Recht in allen Besitzungen haben
+werde.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/146
+G$X/Kirche/Passau/Passau//Bayern/
+E$Kunigunde/Gr„fin/Wasserburg/Wasserburg//OB,a.Inn/
+H$Abl”se/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$trecente tamen marce a pataviensi ecclesia persolventur
+
+REG$Fr die Schenkung des Schlosses Vichtenstein, der Ministerialen und genannten
+Besitzungen muá Bischof Gebhard von Passau Konrad von Wasserburg 1200 Mark
+Passauer Gewichts zahlen.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/147
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Kauf/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell    Gegengabe sp„ter O™UB3 86 Kauf
+W$Passau/pondus/
+O$1200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$mille et ducentas marcas pataviensis ponderis
+B$Der Kauf ist als Schenkung und Geldzahlung maskiert.
+
+REG$Fr die Schenkung des Schlosses Vichtenstein, der Ministerialen und genannten
+Besitzungen muá Bischof Gebhard von Passau Konrad von Wasserburg 1200 Mark
+Passauer Gewichts zahlen, 600 am Fest des Hl. Georg und die restlichen 600 in
+der Pfingstwoche.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/147
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Zahlungsverpflichtung/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$Passau/pondus/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sexcentas in festo Georii futuro proximo
+B$"Mark Passauer Gewichts" aus dem Zusammenhang erschlossen.
+
+REG$Fr die Schenkung des Schlosses Vichtenstein, der Ministerialen und genannten
+Besitzungen muá Bischof Gebhard von Passau Konrad von Wasserburg 1200 Mark
+Passauer Gewichts zahlen, 600 am Fest des Hl. Georg und die restlichen 600 in
+der Pfingstwoche.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/147
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Zahlungsverpflichtung/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$Passau/pondus/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$reliquas vero sexcentas in futura proxima ebdomada pentecostes
+B$"Mark Passauer Gewichts" aus dem Zusammenhang erschlossen.
+
+REG$Fr die Schenkung des Schlosses Vichtenstein, der Ministerialen und genannten
+Besitzungen zahlt Bischof Gebhard von Passau Graf Konrad von Wasserburg unter
+anderem 300 Pfund Passauer.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/147
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Abl”se/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$Passau/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ter hec omnia centum libre patavienses pro hiis meo consilio sunt collate
+
+REG$Graf Konrad von Wasserburg best„tigt von Bischof Gebhard von Passau fr die
+Schenkung des Schlosses Vichtenstein, der Ministerialen und genannten
+Besitzungen 1200 Mark und 100 Pfund vor den genannten Terminen erhalten zu
+haben.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/148
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Best„tigung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1200/marca/X
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$mille et ducentis marcis videlicet et centum libris
+
+REG$Graf Konrad von Wasserburg und seine Frau Kunigunde verpf„nden das Schloá
+Vichtenstein mit allen Besitzungen um 6000 Mark an die Passauer Kirche.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/148
+G$X/Kirche/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Pfandgesch„ft/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$6000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$tytulo pignoris pro sex milibus marcarum
+
+REG$Wer auch immer Schloá Vichtenstein mit seinen Besitzungen von der Passauer
+Kirche ausl”sen will, muá dieser 6000 Mark bezahlen.
+F$O™UB 2/457/659ff/661
+F$MB 28II/038/144ff/148
+G$X/X/X/X//
+E$X/Kirche/Passau/Passau//Bayern/
+H$Pfandgesch„ft_Ausl”sung/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$6000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in sex marcarum millibus teneatur
+
+DOK$O™UB2_461/1227.7.6/1227.7.6/ca. 1227 Juli 6/anno domini subnotato, in octava
+apostolorum Petri et Pauli/Passau/Passau//Bayern/
+S$Konrad/X/Konrad
+V$Konrad/X/Konrad
+K$Bischof Gebhard von Passau erl„át dem Kloster St. Nikolaus bei Passau gewisse
+ihm zu zahlende Zinse von dessen Besitzungen bei Krems, welcher Schenkung der
+Priester Manegold mit dem Zunamen episcopus, noch 6 Schillinge beifgt, damit
+des Bischofs Jahrtag im Kloster gefeiert werde.
+
+REG$Das Kloster St. Nikolaus bei Passau hatte unter anderem an Bischof Gebhard von
+Passau bzw. an einen Ministerialen der Kirche Passau namens Walther 25 und 32
+Pfennige Zins fr seine Besitzungen bei Krems zu zahlen.
+F$O™UB 2/461/667f/667
+G$X/Kloster/Passau/Passau,St.Nikolaus//Bayern/
+E$Walther sin/Ministeriale/Passau/Passau//Bayern/
+H$Zins/Immobilien/Krems/Krems//welches?? G.Inzersdorf,B.Kirchdorf/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$25/den./X/A
+M$32/den./X/A
+Q$XXV denarii et XXXII denarii
+
+REG$Bischof Gebhard von Passau erl„át dem Kloster St. Nikolaus bei Passau gewisse
+ihm zu zahlende Zinse von dessen Besitzungen bei Krems, welcher Schenkung der
+Priester Manegold mit dem Zunamen episcopus, noch 6 Schillinge beifgt, damit
+des Bischofs Jahrtag im Kloster gefeiert werde.
+F$O™UB 2/461/667f/668
+G$Manegold "episcopus"/Priester/X/X//
+E$X/Kloster/Passau/Passau,St.Nikolaus//Bayern/
+H$Anniversar/Geldsumme/Passau/Passau,St.Nikolaus//Bayern/
+W$Passau/moneta/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/A
+Q$meus anniversarius VI. solidos pataviensis monete singulis annis a conventu
+sancti Nycolai debeat memoriter celebrari
+
+REG$Bischof Gebhard von Passau erl„át dem Kloster St. Nikolaus bei Passau gewisse
+ihm zu zahlende Zinse von dessen Besitzungen bei Krems, welcher Schenkung der
+Priester Manegold mit dem Zunamen episcopus, noch 6 Schillinge beifgt, damit
+des Bischofs Jahrtag im Kloster gefeiert werde. 60 Pfennige sollen fr das
+Abendessen der M”nche verwendet werden.
+F$O™UB 2/461/667f/668
+G$Manegold "episcopus"/Priester/X/X//
+E$X/Kloster/Passau/Passau,St.Nikolaus//Bayern/
+H$Pitanz/Geldsumme/Passau/Passau,St.Nikolaus//Bayern/
+W$Passau/moneta/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$meus anniversarius VI. solidos pataviensis monete singulis annis a conventu
+sancti Nycolai debeat memoriter celebrari LX denariis in vesperis
+B$"Passauer Mnze" aus dem Zusammenhang erschlossen.
+
+REG$Bischof Gebhard von Passau erl„át dem Kloster St. Nikolaus bei Passau gewisse
+ihm zu zahlende Zinse von dessen Besitzungen bei Krems, welcher Schenkung der
+Priester Manegold mit dem Zunamen episcopus, noch 6 Schillinge beifgt, damit
+des Bischofs Jahrtag im Kloster gefeiert werde. 60 Pfennige sollen fr das
+Abendessen der M”nche, 4 Schillinge fr das Frhstck verwendet werden.
+F$O™UB 2/461/667f/668
+G$Manegold "episcopus"/Priester/X/X//
+E$X/Kloster/Passau/Passau,St.Nikolaus//Bayern/
+H$Pitanz/Geldsumme/Passau/Passau,St.Nikolaus//Bayern/
+W$Passau/moneta/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/A
+Q$meus anniversarius VI. solidos pataviensis monete singulis annis a conventu
+sancti Nycolai debeat memoriter celebrari LX denariis in vesperis et IIII
+solidis in mane ad fratrum refeccionem feliciter expendendis (sic)
+B$"Passauer Mnze" aus dem Zusammenhang erschlossen.
+
+DOK$O™UB2_468/1228.0.0/1228.0.0/1228/ab incarnatione domini MCCXXVIII. indictione
+prima/Passau/Passau,St. Nikolaus//Bayern/
+S$X/X/X
+V$X/X/X
+K$Das Kloster St. Nikolaus bei Passau verleiht ein Gut bei Chaluviham (Kallham)
+seinem Verwalter dasselbst, mit Namen Heinrich, zu Landsiedelrecht.
+
+REG$Das Kloster St. Nikolaus bei Passau verleiht ein Gut bei Chaluviham (Kallham)
+seinem Verwalter Heinrich zu Landsiedelrecht, wofr dieser j„hrlich zu Mari„
+Geburt 3 Schilling Passauer Mnze ad oblagium [Opfer anl„álich eines
+Leichenbeg„ngnisses?] zu zahlen hat.
+F$O™UB 2/468/673f/673
+G$Heinrich/Verwalter/Kallham/Kallham//Pfdf.,B.Peuerbach/
+E$X/Kirche/Passau/Passau//Bayern/
+H$Zahlungsverpflichtung/ad oblagium [Opfer anl„álich eines
+Leichenbeg„ngnisses?]/unbestimmt/unbestimmt//
+W$Passau/moneta/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$ut inde nobis solvat annuatim in nativitate beate Marie tres solidos
+Pataviensis monete tunc dative ad nostrum obblagium
+
+REG$Das Kloster St. Nikolaus bei Passau verleiht eine Gut bei Chaluviham (Kallham)
+seinem Verwalter Heinrich zu Landsiedelrecht, wofr dieser j„hrlich zu Mari„
+Geburt 30 Pfennige an den Propst Ulrich als Steuer zu zahlen hat.
+F$O™UB 2/468/673f/673
+G$Heinrich/Verwalter/Kallham/Kallham//Pfdf.,B.Peuerbach/
+E$Ulrich/Propst/Passau/Passau//Bayern/
+H$Zahlungsverpflichtung/Steuer/Kallham/Kallham//Pfdf.,B.Peuerbach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$solvat annuatim \dots XXX denarios domino preposito pro steura
+
+DOK$O™UB2_469/1228.0.0/1228.0.0/1228/anno verbis incarnati MCCXXVIII. indict. II./X/X//
+S$X/X/X
+V$X/X/X
+K$Die Kl”ster Michaelbeuern und Traunkirchen vergleichen sich wegen des Gutes
+Primsing (bei Vormoosen sw. Feldkirchen, O™) dahin, daá Michaelbeuern von allen
+seinen Ansprchen auf das Gut und die Nachkommenschaft des Arnold gegen 15 Pfund
+Wiener Pfennige absteht.
+
+REG$Das Kloster Traunkirchen zahlt dem Kloster Michaelbeuern fr den Verzicht auf
+ein Gut zu Brisingen und die Nachkommenschaft des Arnold 15 Talent Wiener Mnze.
+F$O™UB 2/469/674/674
+F$SUB 3/0822/354f/354
+G$X/Kloster/Traunkirchen/Traunkirchen//O™,a.Gmundnersee/
+E$X/Kloster/Michaelbeuern/Michaelbeuern//Salzburggau/
+H$Abl”se/Immobilien/O™_s.Donau Preising/O™_s.Donau, Preising/Brisingen/O™,”.Regau
+(od.Primsing,sw.Feldkirchen)?/
+W$Wien/moneta/
+O$15/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut ecclesia Trunchirch(en) XV talenta Wienensis monete Burensi monasterio
+refundat
+
+DOK$O™UB2_470/1228.0.0/1228.0.0/1228/anno dominice incarnationis MCCXXVIII.
+indictione I./Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Das Domkapitel zu Passau ratifiziert den von einem Brger daselbst mit dem Abt
+von Kremsmnster um bedeutend geringeren Wert abgeschlossenen Verkauf eines
+Weingartens.
+
+REG$Das Domkapitel zu Passau ratifiziert den vom Passauer Brger Heinrich und
+dessen Frau Kunigunde mit dem Abt von Kremsmnster um 12 Pfund Wiener Mnze
+abgeschlossen Verkauf eines Weingartens bei M\o{v}ttarn.
+F$O™UB 2/470/675/675
+F$UB Kremsmnster/60/77f/78
+G$X/Abt/Kremsmnster/Kremsmnster//O™/
+E$Heinrich/Brger/Passau/Passau//Bayern/
+H$Ratifizierung_Kauf/Immobilien_Weingarten/Mautern/Mautern/M\o{v}ttarn/N™/
+W$Wien/moneta/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ementes ab eisdem vineam iuxta M\o{v}ttarn sitam pro XII libris monete
+Wienensis
+
+DOK$O™UB3_004/1231.12.17/1231.12.17/1231 Dezember 17/anno dominice incarnationis
+MCCXXXI. XVI. Kalendas Ianuarii, indictione
+IIII/Ostermiething Felm/Ostermiething,Felm/Velden/wo??G.Ostermieting,B.Wildshut
+S$X/X/X
+V$X/X/X
+K$Bischof Gebhard von Passau kauft den Teil des Lehens, der zwischen dem
+Mhlfluá und  der Donau liegt und den der b”hmische Edle Witigo von ihm und der
+Kirche B”hmen zum Lehen hat, fr 300 Mark Silber nach Passauer Gewicht, die an
+bestimmten Tagen zu zahlen sind, zurck.
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+dessen Lehen, die er von der Kirche hatte, um 300 Mark Silber Passauer Gewichts
+einl”sen kann.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/334
+F$CDB 3/012/10f/10
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$Einl”sung/Lehen/uO™_s.Donau zw. "Reuschmhl" u.Donau/uO™_s.Donau,zw.
+"Reuschmhl" u.Donau//O™/
+W$Passau/pondus
+O$300/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$quod ei ccctas marcas argenti Pataviensis ponderis pro quadam parte feodi
+solveremus, que protenditur a fluvio illo, qui dicitur Rveschenmuhel, in
+inferiori parte usque ad danubium
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+fr die Einl”sung von dessen Lehen, die er von der Kirche hatte, eine erste
+Teilzahlung in der H”he von 100 Mark zu Marie Reinigung (2. Februar) leisten
+werde.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/334
+F$CDB 3/012/10f/10
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$Teilzahlung/Zahlungsversprechen/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod ei in festo purificationis beate virginis proximo venturo c marcas
+persolvamus
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+fr die Einl”sung von dessen Lehen, die er von der Kirche hatte, die zweite
+Teilzahlung in der H”he von 100 Mark zu Pfingsten leisten werde.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/334
+F$CDB 3/012/10f/10
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$Teilzahlung/Zahlungsversprechen/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod ei \dots persolvamus in pentecoste C
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+fr die Einl”sung von dessen Lehen, die er von der Kirche hatte, die dritte
+Teilzahlung in der H”he von 100 Mark am Fest des hl. Martin leisten werde.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/334
+F$CDB 3/012/10f/10
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$Teilzahlung/Zahlungsversprechen/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod ei \dots persolvamus in festo beati Martini similiter C
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+fr die Einl”sung von dessen Lehen, die er von der Kirche hatte, drei
+Teilzahlungen leisten werde. Sollte die zweite Teilzahlung zu Pfingsten in der
+H”he von 100 Mark nicht gemacht werden, verf„llt die erste Teilzahlung in der
+H”he von 100 Mark.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/334
+F$CDB 3/012/10f/11
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$P”nale/Zahlungsverfall/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in secunda solutione in festo videlicet pentecostes c marcas persolvere
+negligamus, prima solutio c marcarum sit deperdita
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+fr die Einl”sung von dessen Lehen, die er von der Kirche hatte, drei
+Teilzahlungen leisten werde. Sollte die zweite Teilzahlung zu Pfingsten in der
+H”he von 100 Mark nicht gemacht werden, verf„llt die erste Teilzahlung in der
+H”he von 100 Mark.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/334
+F$CDB 3/012/10f/11
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$P”nale/Zahlungsverfall/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in secunda solutione in festo videlicet pentecostes c marcas persolvere
+negligamus, prima solutio c marcarum sit deperdita
+
+REG$Bischof Gebhard von Passau vereinbart mit dem Edlen Witigo aus B”hmen, daá er
+fr die Einl”sung von dessen Lehen, die er von der Kirche hatte, drei
+Teilzahlungen leisten werde. Sollte er das Geld nicht zu den vereinbarten
+Terminen zahlen, werden seine Ministerialen die Besitzungen zurckgeben oder am
+Sonntag Invocavit Einlager leisten, bis diesem 50 Mark bezahlt werden.
+F$O™UB 3/004/5f/5
+F$MB 28II/090/334f/335
+F$CDB 3/012/10f/11
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$Einlager/Einlager_Ausl”sung/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quousque quinquaginta marce predicto viro nobili persolvantur
+
+REG$Sollte der Edle Witigo aus B”hmen die Kirche von Passau nicht verteidigen
+k”nnen oder wollen, werden von den 300 Mark, die Bischof Gebhard von Passau fr
+die Einl”sung der Lehen, die Witigo von der Kirche hatte, zu zahlen versprochen
+hatte, 50 abgezogen.
+F$O™UB 3/004/5f/6
+F$MB 28II/090/334f/335
+F$CDB 3/012/10f/11
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$Zahlungsverpflichtung/Lehen/uO™_s.Donau zw. "Reuschmhl"
+u.Donau/uO™,s.Donau,zw. "Reuschmhl" u.Donau//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Quod si facere non poterit vel voluerit, de predictis ccctis marcis L nobis
+tenebitur relaxare.
+
+REG$Sollte der Edle Witigo aus B”hmen die Kirche von Passau nicht verteidigen
+k”nnen oder wollen, werden von den 300 Mark, die Bischof Gebhard von Passau fr
+die Einl”sung der Lehen, die Witigo von der Kirche hatte, zu zahlen versprochen
+hatte, 50 abgezogen.
+F$O™UB 3/004/5f/6
+F$MB 28II/090/334f/335
+F$CDB 3/012/10f/11
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$Witigo/Edler/B”hmen/B”hmen//wo??
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Quod si facere non poterit vel voluerit, de predictis ccctis marcis L nobis
+tenebitur relaxare.
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+DOK$O™UB3_009/1233.2.12/1233.2.12/1233 Februar 12/anno domini MCCXXXIII predie idus
+februarii, indictione VI./Senftenberg/Senftenberg//N™,n.Krems/
+S$X/X/X
+V$X/X/X
+K$Karl von Gutrat bezeugt, daá Tuta von Zebingen, seine Groáschwiegermutter, dem
+Kloster Reichersberg ihre Besitzung in Grub verkauft habe.
+
+REG$Juger zahlt 6 Pfennige Zins an Rapotus.
+F$O™UB 3/009/10f/10
+F$MB 04/038/440f/441
+G$Juger/X/X/X//
+E$Rapotus/X/X/X//
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$Juger agri solvens VI denarios
+
+REG$Tuta von Zebingen verkauft dem Kloster Reichersberg ihre Besitzungen in Grub
+um 50 Talent Wiener Mnze.
+F$O™UB 3/009/10f/10
+F$MB 04/038/440f/441
+G$X/Kloster/Reichersberg/Reichersberg//O™,a.Inn/
+E$Tuta/Genannte/Z”bing/Z”bing/Zebingen/N™,a.Kamp/
+H$Kauf/Immobilien/Obergrub/Obergrub/Grub/N™,b.Oberhollabrunn(
+?) b.Bergau
+W$Wien/moneta/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$venditionis titulo pro L talentis Wienensis monete
+
+REG$Propst Ulrich von Reichersberg teilt der Frau des Karl von Gutrat, Margarete,
+ein halbes Talent und ihren beiden anderen Kindern je 60 "Salpfennige" zu.
+F$O™UB 3/009/10f/11
+F$MB 04/038/440f/441
+G$Ulrich/Propst/Reichersberg/Reichersberg//O™,a.Inn/
+E$Margarete/Genannte/Gutrat/Gutrat//jetzt Ruine b.Taxach b.Hallein/
+H$Salpfennige/Salpfennige/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$uxori mee pregnate pro se et quam in ventre portabat sobole, dimidium
+talentum, duobus aliis parvulis utrique LX denarios
+
+REG$Propst Ulrich von Reichersberg teilt der Frau des Karl von Gutrat, Margarete,
+ein halbes Talent und ihren beiden anderen Kindern je 60 "Salpfennige" zu.
+F$O™UB 3/009/10f/11
+F$MB 04/038/440f/441
+G$Ulrich/Propst/Reichersberg/Reichersberg//O™,a.Inn/
+E$X/X/X/X//
+H$Salpfennige/Salpfennige/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$uxori mee pregnate pro se et quam in ventre portabat sobole, dimidium
+talentum, duobus aliis parvulis utrique LX denarios
+
+DOK$O™UB3_010/1233.3.12/1233.3.12/1233 M„rz 12/IIII. idus Martii anno incarnationis
+domini MCCXXXIII. indictione V./Werfen/Werfen//S,n.Bischofshofen/
+S$X/Salzburg/EIIO
+V$X/Salzburg/EIIO
+K$Erzbischof Eberhard II. von Salzburg bekennt, daá er zur Befreiung des Stiftes
+Reichersberg vom Druck der V”gte dessen Vogtei um 60 Pfund von dem Edlen Ludwig
+von Hagenau abgel”st hat, verspricht, um dem Stift von seiner Armut aufzuhelfen,
+j„hrlich, so lange er lebt, 20 Pfund anweisen zu lassen, wofr das Stift
+gelobte, von den Einknften des Gutes Grub, das es von der Frau Diemud von
+Zebing unter Verzicht des Hochstiftministerialen Karl von Gutrat und seiner
+Erben um 50 Pfund Wiener Pfennige gekauft hat, dreimal im Jahr des Erzbischofs
+mit Spende und Jahrtag zu gedenken.
+
+REG$Erzbischof Eberhard II.von Salzburg zahlt Ludwig von Hagenowe 60 Pfund
+Regensburger Mnze fr den Verzicht auf die angemaáte Vogtei von Reichersberg.
+F$O™UB 3/010/11f/12
+F$SUB 3/0891/441ff/442
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Ludwig/Genannter/Hagenau/Hagenau//O™,n”.Braunau/
+H$Verzicht/Vogtei/Reichersberg/Reichersberg//O™,a.Inn/
+W$Regensburg/moneta/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$redemimus dantes ipsi LX libras Ratisponensis monete
+B$Hauthaler und Martin sprechen von 60 Pfund, das O™UB nennt 70 Pfund als Abl”se
+fr die Vogtei.
+
+REG$Erzbischof Eberhard II. von Salzburg verspricht, dem Stift
+Reichersberg, solange er lebt, zur Untersttzung, um ihm von seiner Armut
+aufzuhelfen, 20 Pfund j„hrlich anweisen zu lassen.
+F$O™UB 3/010/11f/12
+F$SUB 3/0891/441ff/442
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Stift/Reichersberg/Reichersberg//O™,a.Inn/
+H$Jahrgeld/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim in festo beati Georgii XX libras Salzburgensis monete tempore vite
+nostre dare ipsis promisimus
+
+REG$Das Stift Reichersberg erwirbt von der Witwe Diemud von Zebing das Gut Grub
+unter Verzicht des Hochstiftministerialen Karl von Gutrat und seiner Erben fr
+50 Pfund Wiener Mnze.
+F$O™UB 3/010/11f/12
+F$SUB 3/0891/441ff/442
+G$X/Stift/Reichersberg/Reichersberg//O™,a.Inn/
+E$Diemud/Genannte/Z”bing/Z”bing/Zebing/N™,a.Kamp/
+H$Kauf/Immobilien/Obergrub/Obergrub/Grub/N™,b.Niederhollabrunn/
+W$Wien/moneta/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro L libris Wiennensis monete conpararunt Karolo de G\o{v}trat
+
+DOK$O™UB3_015/1233.0.0/1233.0.0/1233/anno dominice incarnationis MCCXXXIII/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt und Konvent zu Garsten best„tigen die Stiftung eines M”nches Gerung, der
+einige Gter zur Besserung der Pfrnde der Brder anwies.
+
+REG$Abt Berthold von Garsten erwirbt zusammen mit dem M”nch Gerung von Rudolf von
+Heimburg zwei Gter in Garsten um  28 Talent.
+F$O™UB 3/015/17f/17
+G$Gerung/M”nch/Garsten/Garsten//O™,s.Steyr/
+E$Rudolf/Genannter/Haimburg/Haimburg/Heimburg/(Hainburga.d.Donau??) Haimburg
+b.V”lkermarkt
+H$Kauf/Immobilien/Garsten/Garsten//O™,s.Steyr/
+W$X/X/
+O$28/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$duo prediola in territorio Gerstensi sita \dots pro XXVIII talentis conparavit
+
+REG$Rudolf von Heimburg hat von zwei Gtern in Garsten j„hrlich (ohne Steuern) in
+der H”he von 7 Schilling Pfennige.
+F$O™UB 3/015/17f/17
+E$Rudolf/Genannter/Haimburg/Haimburg/Heimburg/a.d.Donau??/
+H$Zins/Immobilien/Garsten/Garsten//O™,s.Steyr/
+W$X/moneta usualis/
+O$X/X/X
+Z$7/sol./X
+M$X/den./X/A
+Q$prediola VII solidos denariorum usualis monete absque stiura annuatim
+persolvere consueverunt
+
+REG$Abt Berthold von Garsten erwirbt zusammen mit dem M”nch Gerung
+ein Gut im Ennstal um zwei Mark.
+F$O™UB 3/015/17f/17
+G$Gerung/M”nch/Garsten/Garsten//O™,s.Steyr/
+E$X/X/X/X//
+H$Kauf/Immobilien/Edling/Edling//(wo? G.Schlierbach?)bei ™blarn,Sonnberg
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$prediolum in Enstal de villa Edlinge duabus marcis comparatum fuit
+
+REG$J„hrliche Einknfte in der H”he von 60 Pfennigen Friesacher Mnze.
+F$O™UB 3/015/17f/17
+G$X/X/X/X//
+E$X/X/X/X//
+H$Einknfte/Immobilien/Edling/Edling//(wo? G.Schlierbach?)bei ™blarn,Sonnberg
+W$Friesach/moneta/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$prediolum \dots cuius annuus proventus per omnia sunt LX denarii Frisacensis
+monete
+
+REG$Abt Berthold von Garsten erwirbt zusammen mit dem M”nch Gerung
+ein Haus in M\o{u}nde von Marquardus von Adelwanc um 4 Talent.
+F$O™UB 3/015/17f/17
+G$Gerung/M”nch/Garsten/Garsten//O™,s.Steyr/
+E$Marquardus/Genannter/Adlwang/Adlwang/Adelwanc/s.Hall/
+H$Kauf/Immobilien/uO™ Mund/uO™,Mund?/M\o{u}nde/wo??
+W$X/X/
+O$4/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$domus quedam in M\o{u}nde, quam Marquardus de Adelwanc vir nobilis precio
+IIII talentorum vendidit
+
+REG$J„hrliche Einknfte des Konventes von Garsten in der H”he von 60 Pfennigen
+Friesacher Mnze von einem Haus in M\o{u}nde.
+F$O™UB 3/015/17f/17
+G$X/X/X/X//
+E$X/Konvent/Garsten/Garsten//O™,s.Steyr/
+H$Zins/Immobilien/uO™ Mund/uO™,Mund?/M\o{u}nde/wo??
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$ad annuum censum V solidorum
+
+DOK$O™UB3_023/1235.1.20/1235.1.20/1235 J„nner 20/anno ab incarnatione domini MCCXXXV. XIII
+kalendas februarii indictione VIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Kuno und das Kapitel zu Reichersberg verkaufen an St. Florian das
+Pr„dium in Prantst„tten um 60 Pfund Wiener Pfennige.
+
+REG$Propst Kuno und das Kapitel zu Reichersberg verkaufen an St. Florian das
+Pr„dium in Prantst„tten um 60 Pfund Wiener Pfennige.
+F$O™UB 3/023/26f/26
+G$Kuno/Propst/Reichersberg/Reichersberg//O™,a.Inn/
+E$X/Kloster/StiftSt.Florian/StiftSt.Florian//O™/
+H$Kauf/Immobilien/uDonaul„nder Prantst„tten/uDonaul„nder,Prantst„tten//welches??
+W$Wien/moneta/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$titulo emptionis vendidimus pro certa summa pecunie videlicet pro LX libris
+Wiennensis monete
+
+DOK$O™UB3_024/1235.1.28/1235.1.28/1235 J„nner 28/anno MCCXXXV. V. kalendas Februarii,
+indictione VIII/Wien/Wien//™/
+S$X/X/X
+V$X/X/X
+K$Poppo von Peckau gibt dem Kloster Reichersberg seine Besitzungen zu Ober- und
+Mittelgrub (im Land unter der Enns), die er von seiner Mutter geerbt hat.
+
+REG$Poppo von Peckau gibt dem Kloster Reichersberg seine Besitzungen zu Ober- und
+Mittelgrub (N™), welche er dem Juden Techan und einigen Wiener
+Brgern um 120 Pfund Wiener Mnze verpf„ndet hat.
+F$O™UB 3/024/27/27
+F$StUB 2/320/423/423
+G$Techan/Jude/Wien/Wien//™/
+E$Poppo/Ganannter/Peggau/Peggau/Peckau/Stmk,n.Graz?/
+H$Pfandgesch„ft/Immobilien/Obergrub und Mittel-/Ober-u.Mittelgrub//Land unter
+der Enns (N™),
+W$Wien/moneta/
+O$120/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$predium Techano iudeo et quibusdam civibus Winnensibus pro centum XX libris
+Winnensis monete fuerat obligatum
+B$1233 erwarb Reichersberg von Diemud von Zebingen Obergrub? um 50 Pfund Wiener Mnze.
+SUB 3, 891.
+
+REG$Poppo von Peckau widmet dem Kloster Reichersberg sein Gut zu Grub (N™),
+welches indes dem Juden Techan zu Wien um 120 Pfund Wiener Mnze verpf„ndet, von
+Propst Kuno von Reichersberg gel”st werden muáte, wobei Poppo noch 10 Pfund
+erhielt.
+F$O™UB 3/024/27/27
+F$StUB 2/320/423/423
+G$Kuno/Propst/Reichersberg/Reichersberg//O™/
+E$Poppo/Genannter/Peggau/Peggau/Peckau/Stmk,n.Graz/
+H$Gegengabe/Immobilien/Obergrub und Mittel-/Ober-u.Mittelgrub//Land unter der
+Enns, ?b.Oberhollabrunn/
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$prepositus ex sua potius liberalitate quam ex mea instantia obtulit decem
+libras
+
+DOK$O™UB3_033/1235.0.0/1235.0.0/1235/anno domini MCCXXXV. indictione VIII/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst und Konvent zu Reichersberg verpflichten sich, dem Pfarrer von
+Odespach, der zum Ankauf von Grub 60 Pfund gegeben hat, die H„lfte der j„hrlichen
+Einknfte hievon zu reichen und ein Gut fr ihn zu kaufen, das j„hrlich 4 Pfund
+tr„gt.
+
+REG$Der Pfarrer von Odespach hat dem Propst und Konvent von Reichersberg zum
+Ankauf von Grub die H„lfte des Kaufpreises, n„mlich 60 Pfund gegeben.
+F$O™UB 3/033/35f/35
+G$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+E$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$medietatem pecunie videlicet LX libras Wienensis monete persolvit
+
+REG$Einknfte des Propstes und des Konventes von Reichersberg aus dem Gut Grub
+in der H”he von j„hrlich 8 Pfund.
+F$O™UB 3/033/35f/35
+G$X/X/X/X//
+E$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+H$Einknfte/Immobilien/Obergrub und Mittel-/Ober-u.Mittelgrub/Grub/N™,b.Niederhollabrunn/
+W$X/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ut medietatem redituum, qui ad octo libras estimantur
+
+REG$Der Pfarrer von Odespach fordert vom Propst und Konvent von Reichersberg, daá
+sie ihm fr ein Darlehen zum Kauf des Gutes Grub j„hrlich zu St. Michael 4
+Wiener Pfund zahlen.
+F$O™UB 3/033/35f/35
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quatuor libras Wienenses in festo beati Michahelis sibi annis singulis
+assignemus
+
+REG$Der Pfarrer von Odespach fordert vom Propst und Konvent von Reichersberg, daá
+sie ihm fr ein Darlehen zum Kauf des Gutes Grub j„hrlich zu St. Michael 4
+Wiener Pfund zahlen. Weiters vereinbaren Pfarrer und Konvent, daá, wenn
+in einem Jahr die Einknfte geringer sein sollten, sie nicht zur Zahlung
+der 4 Pfund verpflichtet sind.
+F$O™UB 3/033/35f/35
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Zahlungsaufschub/Schuldentilgung/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Tunc enim ad solutionem predictarum quatuor librarum integraliter non tenemur
+
+REG$Der Pfarrer von Odespach fordert vom Propst und Konvent von Reichersberg, daá
+sie ihm fr ein Darlehen zum Kauf des Gutes Grub j„hrlich zu St. Michael 4
+Wiener Pfund zahlen. Weiters vereinbaren Pfarrer und Konvent, daá, wenn
+in einem Jahr die Einknfte geringer sein sollten, der Konvent nicht zur Zahlung
+der 4 Pfund verpflichtet ist, sondern daá der Pfarrer entsprechend der
+Einkommensminderung die Zahlung herabsetzen wird.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Zahlungserleichterung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sed secundum estimationem diminutionis ipse quoque de predictis quatuor libris
+remittet.
+
+REG$Propst und Konvent von Reichersberg sind unter Strafe von 30 Pfund
+verpflichtet, dem Pfarrer Johannes von Odespach innerhalb von vier Jahren ein
+Gut zu kaufen.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XXX librarum obligati sumus dicto magistro Johanni
+
+REG$Propst und Konvent von Reichersberg mssen, wenn sie ein Gut fr den Pfarrer
+Johannes von Odespach gefunden haben, jene 60 Pfund, die er ihnen zum Kauf von
+Grub gegeben hat, zurckgeben, um das Gut zu bezahlen.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$LX scilicet libras \dots refundere debemus, ut ex ea inventum predium
+conparetur
+
+REG$Sobald Propst und Konvent von Reichersberg ein Gut fr Pfarrer Johannes von
+Odespach erworben haben, brauchen sie die vereinbarte Zahlung von vier Pfund
+j„hrlich nicht mehr zu leisten.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quo comparato \dots a solutione supradictarum quatuor librarum liberi erimus
+
+REG$Sobald Propst und Konvent von Reichersberg ein Gut fr Pfarrer Johannes von
+Odespach erworben haben, brauchen sie die vereinbarte Zahlung von vier Pfund
+j„hrlich nicht mehr zu leisten, auáer sie dulden die Minderung der Einknfte
+oder den Verlust des Gutes.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nichilominus sibi prefate quatuor libre in dicto termino persolventur
+
+REG$Sollten der Propst und Konvent von Reichersberg dem Pfarrer Johannes
+von Odespach die vereinbarte Zahlung von vier Pfund zum vereinbarten Termin
+nicht leisten, mssen sie auáer den vier Pfund weitere sechs Pfund in diesem
+Jahr zahlen.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quatuor libre sibi in dicto temino non solvantur
+
+REG$Sollten der Propst und Konvent von Reichersberg dem Pfarrer Johannes
+von Odespach die vereinbarte Zahlung von vier Pfund zum vereinbarten Termin
+nicht leisten, mssen sie auáer den vier Pfund weitere sechs Pfund in diesem
+Jahr zahlen.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quatuor libre sibi in dicto temino non solvantur, nos et ecclesia preter
+quatuor libras
+
+REG$Sollten der Propst und Konvent von Reichersberg dem Pfarrer Johannes
+von Odespach die vereinbarte Zahlung von vier Pfund zum vereinbarten Termin
+nicht leisten, mssen sie auáer den vier Pfund weitere sechs Pfund in diesem
+Jahr zahlen.
+F$O™UB 3/033/35f/36
+G$X/Propst;Konvent/Reichersberg/Reichersberg//O™/
+E$Johannes/Pfarrer/uDonaul„nder Odespach/uDonaul„nder,Odespach//wo??
+H$P”nale/Strafgeld/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quatuor libre sibi in dicto temino non solvantur, nos et ecclesia preter
+quatuor libras ad sex libras tenemur obligati sibi in eodem anno persolvendas
+
+DOK$O™UB3_042/1236.0.0/1236.0.0/ca. 1236/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Vergleich zwischen dem Kloster Reichersberg und Hugo von Sigenheim wegen der
+Vogtei zu Eholvingen.
+
+REG$Hugo von Sigenheim kann die Vogtei zu Eholvingen, die er Rapoto von
+Ezzenbach verpf„ndet hat, um 24 Pfund Passauer Mnze ausl”sen.
+F$O™UB 3/042/45f/46
+F$MB 04/040/443f/443
+G$Hugo/Genannter/uDonaul„nder Sigenheim/uDonaul„nder,Sigenheim//wo??
+E$Rapoto/Genannter/Essenbach/Essenbach/Ezzenbach/O™,zur Pfarre H”henstatt geh.Ort,Isengau,Passau nach Regensburg/
+H$Pfand_Ausl”sung/Vogtei/Passau Eholfing/Passau,Eholfing/Eholvingen/O™,Rotah-Gau BA.Passau
+W$Passau/moneta/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro XXIIII libris Pataviensis monete apud prefatum Rapotonem absolvam
+
+DOK$O™UB3_043/1237.1.3/1237.1.3/(1237) J„nner 3/III. Januarii, decime indictionis/Graz/Graz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich II. beauftragt den Albero von Polheim, den Rupert von Enns
+zur Vergtung des dem Stift Seckau angetanen Schadens zu verhalten.
+
+REG$Rupert von Enns hat dem Stift Seckau in dessen Wald einen Schaden in der
+gesch„tzten H”he von 100 Wiener Pfund zugefgt.
+F$O™UB 3/043/47/47
+F$StUB 2/347/453/453
+G$Rupert/Genannter/Enns/Enns//O™/
+E$X/Stift/Seckau/Seckau//Stmk,s.Feistritz,b.Knittelfeld/
+H$Schadensverzeichnis/Immobilien/Seckau/Seckau//Stmk,b.Knittelfeld/
+W$Wien/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$in quadam silva ecclesie sue usque ad estimacionem centum librarum Wyenensium
+ipsum dampnificarit
+
+DOK$O™UB3_057/1237.8.0/1237.8.0/1237 August/anno domini MCCXXXVII, in mense Augusto, decime
+indictionis/Weilheim/Weilheim/Wilheim (bei)/Bayern/
+S$X/X/X
+V$X/X/X
+K$K”nig Friedrich II. schlieát mit dem Bischof Rudiger von Passau, den seine
+Gl„ubiger aus Rom und Siena sehr bedr„ngen, einen Vertrag, in welchem letzterer
+ihm die ”sterreichischen Lehen verpf„ndet.
+
+REG$Bischof Rudiger von Passau verpf„ndet K”nig Friedrich II. jene Lehen, die
+er von Herzog Leopold von ™sterreich und Steiermark erhalten hat, fr 1400
+Mark Silber K”lner Gewichts und 600 Pfund Pfennige Passauer Mnze.
+F$O™UB 3/057/63ff/64
+F$MB 30I/755/262ff/263
+G$Friedrich II./K”nig/R”m.Reich/R”m. Reich//wo??
+E$Rudiger/Bischof/Passau/Passau//Bayern/
+H$Pfandgesch„ft/Lehen/™sterreich u. Stmk./™sterreich u. Stmk.//wo??
+W$K”ln/pondus
+O$1400/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro mille quadringentis marcis argenti ad pondus Coloniense solvendis
+obligavit
+
+REG$Bischof Rudiger von Passau verpf„ndet K”nig Friedrich II. jene Lehen, die
+er von Herzog Leopold von ™sterreich und Steiermark erhalten hat, fr 1400
+Mark Silber K”lner Gewichts und 600 Pfund Pfennige Passauer Mnze.
+F$O™UB 3/057/63ff/64
+F$MB 30I/755/262ff/263
+G$Friedrich II./K”nig/Dt.k”nigl./Dt.k”nigl. ?//wo??
+E$Rudiger/Bischof/Passau/Passau//Bayern/
+H$Pfandgesch„ft/Lehen/™sterreich u. Stmk./™sterreich u. Stmk.//wo??
+W$Passau/moneta/
+O$600/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro mille quadringentis marcis argenti ad pondus Coloniense solvendis
+obligavit et insuper pro sexcentis libris denariorum Pataviensis monete
+
+REG$Bischof Rudiger von Passau verpf„ndet K”nig Friedrich II. jene Lehen, die er
+von Herzog Leopold von ™sterreich und Steiermark erhalten hat, fr 1400
+Mark Silber K”lner Gewichts. Diese Summe verpflichtet sich der K”nig an zwei
+festgesetzten Terminen zu bezahlen.
+F$O™UB 3/057/63ff/64
+F$MB 30I/755/262ff/264
+G$Friedrich II./K”nig/Dt.k”nigl./Dt.k”nigl. ?//wo??
+E$Rudiger/Bischof/Passau/Passau//Bayern/
+H$Zahlungsverpflichtung/Pfandsumme/unbestimmt/unbestimmt//
+W$X/X
+O$1400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$volumus adimplere de predictis mille quadringentis marcis argenti
+
+REG$Bischof Rudiger von Passau verpf„ndet K”nig Friedrich II. jene Lehen, die er
+von Herzog Leopold von ™sterreich und Steiermark erhalten hat, fr 1400
+Mark Silber K”lner Gewichts. Diese Summe verpflichtet sich der K”nig an zwei
+festgesetzten Terminen zu bezahlen, n„mlich 500 Mark K”lner Gewichts am Fest des
+hl. Martin und 900 Mark an den Kalenden des Mai.
+F$O™UB 3/057/63ff/64
+F$MB 30I/755/262ff/264
+G$Friedrich II./K”nig/Dt.k”nigl./Dt.k”nigl. ?//wo??
+E$Rudiger/Bischof/Passau/Passau//Bayern/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$K”ln/pondus
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$debere ac velle solvere primo venturo festo beati Martini undecime
+indicitonis quingentas marcas argenti ad pondus Coloniense et reliquas
+nongentas marcas ad pondus memoratum in Kalendis primi tunc venturi mensi Madii
+
+REG$Bischof Rudiger von Passau verpf„ndet K”nig Friedrich II. jene Lehen, die er
+von Herzog Leopold von ™sterreich und Steiermark erhalten hat, fr 1400
+Mark Silber K”lner Gewichts. Diese Summe verpflichtet sich der K”nig an zwei
+festgesetzten Terminen zu bezahlen, n„mlich 500 Mark K”lner Gewichts am Fest des
+hl. Martin und 900 Mark an den Kalenden des Mai.
+F$O™UB 3/057/63ff/64
+F$MB 30I/755/262ff/264
+G$Friedrich II./K”nig/Dt.k”nigl./Dt.k”nigl. ?//wo??
+E$Rudiger/Bischof/Passau/Passau//Bayern/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//wo??
+W$K”ln/pondus/
+O$900/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$debere ac velle solvere primo venturo festo beati Martini undecime
+indicitonis quingentas marcas argenti ad pondus Coloniense et reliquas
+nongentas marcas ad pondus memoratum in Kalendis primi tunc venturi mensi Madii
+B$"K”ln" aus dem Zusammenhang erschlossen.
+
+DOK$O™UB3_061/1239.2.10/1239.2.10/1239 Februar 10/anno domini MCCXXXVIIII. quarto idus
+februarii/Spital_a.Pyhrn/Spital a. Pyhrn//O™,n.Lietzen/
+S$X/X/X
+V$X/X/X
+K$Hertnid von Ort berl„át dem Spital am Pyhrn einige Lehen.
+
+REG$Hertnid von Ort verpf„ndet alle Besitzungen, die er von der Bamberger Kirche
+zu Lehen hat und die zwischen dem Fluá Steyr und dem Berg Pyhrn liegen, mit
+Ausnahme von zwei Lehen, die Heinrich Holzmann innehat, dem Spital am Pyhrn um
+16 Mark Silber und 30 Pfund Pfennige Wiener Mnze.
+F$O™UB 3/061/68/68
+G$X/X/Spital_a.Pyhrn/Spital a. Pyhrn//O™/
+E$Hertnid/Genannter/Ort/Ort//O™,auf Insel d.Traunsees oder a.Einmndung des Osternachbaches in die Antissen/
+H$Pfandgesch„ft/Immobilien/O™_s.Donau zw.Fluá Steyr u.Berg Pyhrn/uO™_s.Donau,zw.Fluá
+Steyr u.Berg Pyhrn//O™/
+W$X/X
+O$16/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$ecclesie hospitalis sancte Marie in Pyrn obligaveram pro XVI marcis argenti et
+XXX libris denariorum Wiennensis monete
+
+REG$Hertnid von Ort verpf„ndet alle Besitzungen, die er von der Bamberger Kirche
+zu Lehen hat und die zwischen dem Fluá Steyr und dem Berg Pyrdo? liegen, mit
+Ausnahme von zwei Lehen, die Heinrich Holzmann innehat, dem Spital am Pyhrn um
+16 Mark Silber und 30 Pfund Pfennige Wiener Mnze.
+F$O™UB 3/061/68/68
+G$X/X/Spital_a.Pyhrn/Spital a. Pyhrn//O™/
+E$Hertnid/Genannter/Ort/Ort//O™,auf Insel d.Traunsees oder a.Einmndung des Osternachbaches in die Antissen/
+H$Pfandgesch„ft/Immobilien/uO™_s.Donau zw. Fluá Steyr und Berg
+Pyhrn/uO™_s.Donau,zw. Fluá Steyr und Berg Pyhrn/Pyrdo/O™/
+W$Wien/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$ecclesie hospitalis sancte Marie in Pyrn obligaveram pro XVI marcis argenti et
+XXX libris denariorum Wiennensis monete
+
+DOK$O™UB3_064/1239.7.9/1239.7.9/1239 Juli 9/anno dominice incarnationis MCCXXXIX.
+VII. idus Iulii/Mautern/Mautern//N™?/
+S$X/X/X
+V$X/X/X
+K$Der Subdiakon Blasius schenkt dem Kloster St. Nikolaus in Passau zu seinem
+Seelenheil Gter zu Mauer an der Traisen, zu Hirschau, Stalhofen und zwei
+Weing„rten zu Rossaz,
+die es jedoch von dem Juden Bibas, dem er selbe fr eine Schuld von zehn Pfund
+Wiener Mnze verpf„ndet hatte, einl”sen muá.
+
+REG$Der Subdiakon Blasius schenkt dem Kloster St. Nikolaus in Passau zu seinem
+Seelenheil unter anderem zwei Weing„rten zu Rossaz, die es jedoch von dem Juden
+Bibas, dem er diese um zehn Pfund Wiener Mnze verpf„ndet hatte, einl”sen muá.
+F$O™UB 3/064/70f/71
+F$O™UB 1/287/614/614
+F$MB 04/082/282f/282
+G$X/Kloster/Passau/Passau,St.Nikolaus//Bayern/
+E$Bibas/Jude/X/X//
+H$Pfandgesch„ft_Ausl”sung/Immobilien_Weing„rten/Rossatz/Rossatz//wo?? BH Krems
+W$Wien/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solverent vineas easdem pro X libris Wienensis monete apud Judeum nomine Bibas
+B$Rosatze Roáweide ?
+
+DOK$O™UB3_065/1239.7.11/1239.7.11/1239 Juli 11/anno gratie MCCXXXVIIII. idus Julii/Melk/Melk//N™/
+S$X/X/X
+V$X/X/X
+K$Abt Walther von Melk verkauft dem Kloster Baumgartenberg fnf Huben in
+Str„nik.
+
+REG$Einknfte des Stiftes Melk in der H”he von 70 Pfund.
+F$O™UB 3/065/71f/71
+G$X/X/X/X//
+E$X/Stift/Melk/Melk/N™/
+H$Einknfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ecclesie nostre redditus septuaginta librarum conquisivimus
+
+REG$Einknfte des Stiftes Melk aus Immobilien in Str„nik in der H”he von 10 Pfund.
+F$O™UB 3/065/71f/71
+G$X/X/X/X//
+E$X/Stift/Melk/Melk//N™
+H$Einknfte/Immobilien/uDonaul„nder Str„nik/uDonaul„nder,Str„nik//wo??
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quinque mansos in Straenik cum omnibus sibi pertinentiis annuatim solventes
+decem libras
+
+REG$Einknfte des Stiftes Melk aus dem Bergrecht in Str„nik in der H”he von 3
+Schillingen und 15 Wiener Pfennigen.
+F$O™UB 3/065/71f/71
+G$X/X/X/X//
+E$X/Stift/Melk/Melk//N™/
+H$Einknfte/Immobilien/uDonaul„nder Str„nik/uDonaul„nder,Str„nik//wo??/
+W$Wien/X/
+O$X/X/X
+Z$3/sol./X
+M$15/den./X/Z
+Q$ius montis, quod solvit tres solidos et quindecim denarios Wienensium
+denariorum
+
+REG$Abt Walther von Melk verkauft dem Kloster Baumgartenberg fnf Huben in Str„nik
+und das Bergrecht um 100 Pfund Wiener Pfennige.
+F$O™UB 3/065/71f/71
+G$X/Kloster/Baumgartenberg/Baumgartenberg//O™,w.Grein/
+E$X/Stift/Melk/Melk//N™/
+H$Kauf/Immobilien/uDonaul„nder Str„nik/uDonaul„nder,Str„nik//wo??
+H$Kauf/Bergrecht/uDonaul„nder Str„nik/uDonaul„nder,Str„nik ?//wo??
+W$Wien/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$vendidimus quedam bona de predictis reddititibus pro centum libris eiusdem
+monete
+B$"Wiener Pfennige" aus dem Zusammenhang erschlossen.
+
+REG$Einknfte des Stiftes Melk in Perinkyrchen in der H”he von 10 Pfund.
+F$O™UB 3/065/71f/71
+G$X/X/X/X/
+E$X/Kloster/Baumgartenberg/Baumgartenberg//O™,w.Grein/
+H$Einknfte/Immobilien/Pergkirchen/Pergkirchen??/Perinkyrchen/O™,B.Perg/
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ipsi de bonis ecclesie nostre in Perinkyrchen redditus decem librarum tamdiu
+percipiant
+
+DOK$O™UB3_086/1240.0.0/1240.0.0/ca. 1240/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Konrad von Wasserburg bezeugt, daá er dem Bistum Passau von dem
+Kaufschilling seines Schlosses Vichtenstein hundert Mark nachgelassen habe.
+
+REG$Graf Konrad von Wasserburg verkauft dem Bistum Passau sein Schloá
+Vichtenstein um 1100 Mark.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$X/Bistum/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Kauf/Immobilien_Schloá/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$1100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Pataviensi episcopo et ecclesie Pataviensi in proprietatem peretuam venderemus
+pro mille et c marcis
+
+REG$Der Kaufpreis fr Schloá Vichtenstein in der H”he von 1100 Mark wird mit
+300 Mark aus der Kasse des Bischofs, 400 Mark von den Passauer Brgern und 400
+Mark von den Offizialen des Bischofs in Passau getragen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$X/Kasse_Bistum/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt Passau? //Bayern/
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ex quibus trecentas marcas de camera domini episcopi recipere debebamus
+
+REG$Der Kaufpreis fr Schloá Vichtenstein in der H”he von 1100 Mark wird mit
+300 Mark aus der Kasse des Bischofs, 400 Mark von den Passauer Brgern und 400
+Mark von den Offizialen des Bischofs in Passau getragen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$X/Brger/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quadringentas vero marcas de universitate civium in patavia sumus recepturi
+
+REG$Der Kaufpreis fr Schloá Vichtenstein in der H”he von 1100 Mark wird mit
+300 Mark aus der Kasse des Bischofs, 400 Mark von den Passauer Brgern und 400
+Mark von den Offizialen des Bischofs in Passau getragen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$X/Offizialen/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$reliquas vero quadringentas marcas officiales domini episcopi in patavia nobis
+solvere promiserint
+
+REG$(Kunigunde), die Frau Graf Konrads von Wasserburg, soll die ihr von
+Bischof Gebhard von Passau versprochenen 300 Mark bekommen.?
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$Gebhard/Bischof/Passau/Passau//Bayern/
+E$(Kunigunde)/Gr„fin/Wasserburg/Wasserburg//OB,a.Inn/
+H$Verzicht?Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$CCC marcis, que uxori nostre in prima emptione a domino Gebhardo episcopo
+pataviensi \dots promisse fuerant \dots ipsum et ecclesiam solvere deberemus
+
+REG$Der Kaufpreis fr Schloá Vichtenstein in der H”he von 1100 Mark wird
+unter anderem durch 400 Mark von den Offizialen des Bischofs in Passau getragen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$X/Offizialen/Passau/Passau//Bayern/
+E$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quadringentas marcas, quas in ultima solutione ab officialibus domini episcopi
+recipere debemus
+
+REG$Graf Konrad von Wasserburg verspricht dem Bischof von Passau seine Schulden
+bei den M”nchen von Seitenstetten in der H”he von 90 Mark mit der letzten
+Zahlung von den Offizialen des Bischofs zu bezahlen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+E$X/M”nche?/Seitenstetten/Seitenstetten//N™            Hugo  von Safferstetten Sauerstetten? B.Passau
+H$Schuldentilgung/Schuldverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$90/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$promittimus etiam, quod de ultima solutione fratribus de Saversteten pro LXXXX
+marcis obligatas \dots exsolvamus
+
+REG$Graf Konrad von Wasserburg verspricht dem Bischof von Passau, die Besitzungen
+in Tuetenbach, mit denen er Ekkehard von Tanne belehnt hat, von einigen Vasallen
+der Edlen von Scounberg fr 100 Talent Wiener Mnze zurckzukaufen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+E$X/Vassallen?/Schaumberg/Schaumberg?/Scounberg/O™,GB Eferding/
+H$Rckkauf/Immobilien/Dittenbach/Dittenbach/Tuetenbach/wo??
+W$Wien/moneta/
+O$100/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$possessiones in Tuetenbach \dots a quibusdam militibus nobilium de Scounberch
+pro C talentis Wiennensis monete in integrum redimamus
+
+REG$Graf Konrad von Wasserburg verspricht dem Bischof von Passau seinen Hof in
+Gravendorf, den er dem Edlen von Baumgarten um 90 Mark verpf„ndet hat, mit der
+letzten Zahlung von den Offizialen des Bischofs auszul”sen.
+F$O™UB 3/086/91f/91
+F$MB 28II/076/306ff/307
+G$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+E$X/Edler/Baumgarten/Baumgarten//welches??
+H$Pfand_Ausl”sung/Immobilien/Grafendorf/Grafendorf/Gravendorf/O™,G.Kopfing,B.Engelszell/
+W$Regensburg/moneta/
+O$40/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$curiam in Gravendorf \dots quam nobilis de Poumgarten pro XL talentis
+Ratisponensis monete tenet obligatam, de ultima solutione \dots redimemus
+
+REG$Graf Konrad von Wasserburg l„át dem Bistum von Passau 100 Mark vom Kaufpreis
+fr Schloá Vichtenstein nach.
+F$O™UB 3/086/91f/92
+F$MB 28II/076/306ff/308
+G$Konrad/Graf/Wasserburg/Wasserburg//OB,a.Inn/
+E$X/Bistum/Passau/Passau//Bayern/
+H$Kauf_Abschlag/Immobilien/Vichtenstein/Vichtenstein//O™,nw.Engelhartszell/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$centum marcas \dots relaxavimus
+
+DOK$O™UB3_093/1241.2.18/1241.2.18/1241 Februar 18/anno domini MCCXLI. XII. kal. marcii/Wels/Wels//O™/
+S$X/X/X
+V$X/X/X
+K$Vertrag zwischen dem Stift Kremsmnster und Hertnid von Ort in betreff
+gewisser Rechte und Bezge des letzteren.
+
+REG$Hertnid von Ort verzichtet fr die Vergebung der Snden und nach Zahlung
+von 115 Talent Wiener Mnze durch den Abt von Kremsmnster auf alle Rechte und
+Bezge, welche er in den Besitzungen der Kirche hatte.
+F$O™UB 3/093/98/98
+F$UB Kremsmnster/70/87f/87
+G$X/Abt/Kremsmnster/Kremsmnster//O™/
+E$Hertnid/Genannter/Ort/Ort//O™,auf Insel d.Traunsees oder a.Einmndung des
+Osternachbaches in die Antissen/
+H$Verzicht/Immobilien/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$115/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum XV talentis Wiennensis monete exsolutis per abbatem ecclesie
+memorate
+
+DOK$O™UB3_094/1241.2.18/1241.2.18/1241 Februar 18/anno ab incarnatione domini MCCXLI. XII
+kalendas marcii/Wels/Wels//O™/
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich II. von ™sterreich best„tigt die von Hertnid von Ort dem
+Kloster Kremsmnster vertragsm„áig gemachte Verzichtleistung auf gewisse Rechte
+und Bezge.
+
+REG$Herzog Friedrich II. von ™sterreich best„tigt, daá Hertnid von Ort fr sein
+Seelenheil und die Zahlung von 115 Talent Wiener Mnze auf gewisse Rechte und
+Bezge in Besitzungen des Klosters Kremsmnster vertragsm„áig verzichtet hat.
+F$O™UB 3/094/98f/99
+F$UB Kremsmnster/71/88f/88
+F$BabUB 2/375/218f/219
+G$X/Stift?/Kremsmnster/Kremsmnster//O™/
+E$Hertnid/Genannter/Ort/Ort//O™,auf Insel d.Traunsees oder a.Einmndung des Osternachbaches in die Antissen/
+H$Best„tigung_Verzicht/Immobilien/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$115/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum et quindecim talentis Winnensis monete
+
+DOK$O™UB3_095/1241.2.19/1241.2.19/1241 Februar 19/anno domini MCCXLI. XI. kalendas
+marcii, indictione XIIII/Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Vertrag zwischen dem Pfalzgrafen von Bayern Rapoto und dem Bischof Rdiger von
+Passau zur Beilegung verschiedener zwischen ihnen herrschenden Streitigkeiten.
+
+REG$Pfalzgraf Rapoto von Bayern erl„át dem Bischof Rdiger von Passau verschiedene
+Pfandausl”sungen, so 800 Pfund Regensburger fr Weinzehnten in Krems.
+F$O™UB 3/095/99f/100
+F$MB 28II/097/341f/341
+G$Rapoto/Pfalzgraf/Bayern/Bayern/wo??
+E$Rdiger/Bischof/Passau/Passau//Bayern/
+H$Pfand_Verzicht?/Zehnten/Krems/Krems//N™/
+W$Regensburg/X/
+O$800/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$decima vini \dots que pro octingentis libris ratisponensibus \dots obligata
+
+REG$Pfalzgraf Rapoto von Bayern erl„át dem Bischof Rdiger von Passau verschiedene
+Pfandausl”sungen, so 300 Pfund fr Besitzungen, die zum Schloá Mattsee geh”ren.
+F$O™UB 3/095/99f/100
+F$MB 28II/097/341f/341
+G$Rapoto/Pfalzgraf/Bayern/Bayern//wo??
+E$Rdiger/Bischof/Passau/Passau//Bayern/
+H$Pfand_Verzicht?/Immobilien/Mattsee/Mattsee//S/
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$possessionibus ad castrum in Matse pertinentibus que pro CCC libris
+pro emptione castri in Rotenberch \dots patri nostro \dots
+fuerant obligata
+
+REG$Pfalzgraf Rapoto d.J. von Ortenburg! von Bayern? erl„át dem Bischof Rdiger von Passau verschiedene
+Pfandausl”sungen, so 800 Mark Silber K”lner Gewichts fr Besitzungen in
+Sulzpach, Neuhauen?, Hofkirchen und Pleitingen.
+F$O™UB 3/095/99f/100
+F$MB 28II/097/341f/341
+G$Rapoto/Pfalzgraf/Bayern/Bayern//wo??/
+E$Rdiger/Bischof/Passau/Passau//Bayern/
+H$Pfand_Verzicht?/Immobilien/uO™
+Sulzbach/Sulzbach/Sulzpach/welches??G.Pichel,B. W e ls oder S.585
+H$Pfand_Verzicht?/Immobilien/uBayern Neuhofen/uBayern,Neuhofen//  Ilzgau?? welches?
+H$Pfand_Verzicht?/Immobilien/Hofkirchen/Hofkirchen//welches?? LK Passau
+H$Pfand_Verzicht?/Immobilien/Pleinting/Pleinting/Pleitingen/wo?? LK Passau
+W$K”ln/pondus
+O$800/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$possessionibus \dots in Sulzpach et in Niwenhouen, Hofchirchen et
+Pleitingen, \dots pro octingentis marcis argenti Coloniensis ponderis obligate
+B$Historischer Atlas von Bayern, Passau,S.42. an Pfalzgraf Rapoto d.., der 1231
+gestorben ist, verpf„ndet, anl„álich des Kaufes einer "comitia trans Danubium".
+Pfalzgraf Rapoto d.. hatte diese Grafschaft, die einst Heinrich von Waxenberg
+innehatte, resigniert.
+
+DOK$O™UB3_114/1242.9.23/1242.9.23/1242 September 23/Nona kal. octobris, anno ab
+incarnatione domini MCCXLII./Salzburg/Salzburg//S/
+S$X/X/X
+V$X/Salzburg/EIIU
+K$Erzbischof Eberhard II. von Salzburg vertauscht an das Stift Reichersberg
+genannte Besitzungen in der Abtenau und genannten anderen Orten mit bestimmten
+Einknften gegen das Gut Wirlsdorf (w. Millstatt, K„rnten), das er wieder dem
+Grafen von Ortenburg, der das Kloster in der Vogtei beschwerte, fr seine
+Besitzungen in Lessach (Lungau) abtritt.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf andere Gter, so in Abtenau fnf Lehen, in Rota
+zwei und in Strubsteg drei, deren Zins 150 K„se oder 12 Schilling
+gebr„uchlicher Mnze betr„gt.
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+F$MDC 4I/2248/297f/298
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Zins/Immobilien/Abtenau/Abtenau//S/
+H$Zins/Immobilien/Abtenau Radochsberg/Abtenau,Radochsberg/Rota/S,G.Abtenau
+H$Zins/Immobilien/Abtenau O.Riegaus,Strubsteg/Abtenau, O.Riegaus,Strubsteg/Strubsteg/S/
+W$X/moneta usualis/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/Z
+A$12 Schill. gebr„uchlicher Mnze/150 K„se
+Q$quorum quodlibet estimatione taxata centum quinquaginta caseos solvit vel
+duodecim solidos usualis monete
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf andere Gter, so in Abtenau fnf Lehen, in Rota
+zwei und in Strubsteg drei, deren Zehnten ein Pfund Salzburger betragen.
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Zehnten/Immobilien/Abtenau/Abtenau//S/
+H$Zehnten/Immobilien/Abtenau Radochsberg/Abtenau,Radochsberg/Rota/S,G.Abtenau
+H$Zehnten/Immobilien/Abtenau O.Riegaus,Strubsteg/Abtenau, O.Riegaus,Strubsteg/Strubsteg/S/
+W$Salzburg/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$decimam in eisdem feodis pro libra Salzburgensium computata
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf andere Gter, so bei Albm, gew”hnlich Gig\oe{}r
+genannt, ein Lehen, das 200 K„se oder 2 Pfund leistet.
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Zins/Immobilien/uDonaul„nder Albm Gigaer/uDonaul„nder,Albm Gigaer/wo??S oder O™
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+A$2 Pfund/200 K„se
+Q$apud Albm, quod vulgariter dicitur Gig\oe{}r, unum feodum valens ducentos
+caseos vel duas libras
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf (Wirlsdorf, nw. Millstatt) andere Gter, so in
+Verrepach ein Lehen, das 300 K„se oder 2 Pfund leistet.?
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Zins/Immobilien/uDonaul„nder Verrepach/uDonaul„nder,Verrepach//S oder O™?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+A$2 Pfund/300 K„se
+Q$item in Verrepach trecentos caseos vel totidem libras
+B$"2" Pfund aus dem Zusammenhang erschlossen.
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf andere Gter, so in Hohenwart
+ein Lehen, das 30 Pfennige leistet.
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Zins/Immobilien/Hohenwart/Hohenwart//wo?? w.Burghausen/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$item Hohenwart triginta denarios
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf andere Gter, so in Albenliten
+ein Lehen, das 60 Pfennige leistet.
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Zins/Immobilien/uDonaul„nder Albenliten/uDonaul„nder,Albenliten//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$item Albenliten denarios sexaginta
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+REG$Erzbischof Eberhard von Salzburg berl„át dem Kloster Reichersberg fr seine
+Besitzungen in Werenhersdorf andere Gter, deren Einknfte 14 Pfund betragen.
+F$O™UB 3/114/118f/118
+F$SUB 3/0995/546f/547
+F$MDC 4I/2248/297f/298
+G$X/Kloster/Reichersberg/Reichersberg//O™/
+E$X/X/X/X//
+H$Einknfte_Summe/Immobilien/Abtenau/Abtenau/Appenawe/S
+H$Einknfte_Summe/Immobilien/Abtenau Radochsberg/Abtenau,Radochsberg/Rota/S,G.Abtenau
+H$Einknfte_Summe/Immobilien/Abtenau O.Riegaus,Strubsteg/Abtenau, O.Riegaus,Strubsteg/Strubsteg/S
+H$Einknfte_Summe/Immobilien/uDonaul„nder Albm Gigaer/uDonaul„nder,Albm Gigaer//
+H$Einknfte_Summe/Immobilien/uDonaul„nder Verrepach/uDonaul„nder,Verrepach//
+H$Einknfte_Summe/Immobilien/Hohenwart/Hohenwart//
+H$Einknfte_Summe/Immobilien/uDonaul„nder Albenliten/uDonaul„nder,Albenliten//
+W$X/X/
+O$14/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$reddituum summa est quatuordecim libre
+B$Summe der Einknfte.
+B$Die Continuatio Magni presb. (Mon. Germ. SS XVII, 529) erw„hnen diesen Tausch
+beim Jahr 1246.
+
+DOK$O™UB3_138/1247.7.16/1247.7.16/1247 Juli 16/MCCXLVII. XVII. kalendas Augusti/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Rudiger von Passau beurkundet einen Vergleich zwischen dem Kloster
+St. Nikola und Leutold Prschink wegen des Hofes zu Lintheim.
+
+REG$Der Konvent des Klosters St. Nikola einigt sich mit Leutold Prschink wegen
+des Hofes zu Lintheim auf einen j„hrlichen Zins von 2 Pfund Wiener Mnze.
+F$O™UB 3/138/140f/140
+G$Leutold Prschink/X/X/X//
+E$X/Konvent/Passau/Passau?,St.Nikola//Bayern/
+H$Zins/Immobilien/uDonaul„nder Lintheim/uDonaul„nder,Lintheim//  wo??
+W$Wien/moneta/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub annuo censu duarum librarum Wiennensis monete
+
+REG$Strafbestimmung in der H”he von 10 Pfund Wiener.
+F$O™UB 3/138/140f/141
+G$Leutold Prschink/X/X/X//
+G$Wernhard/X/X/X//
+G$Friedrich/Genannter/uDonaul„nder Walde/uDonaul„nder,Walde//wo??
+E$X/Konvent/Passau/Passau,St.Nikola//Bayern/
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$Wien/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solveret antedicto conventui X libras Wiennenses
+
+DOK$O™UB3_140/1247.12.1/1247.12.1/1247 Dezember 1/anno domini MCCXLVII. kalendas
+Decembris/Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Bischof Rdiger von Passau begnadigt das Kloster Wilhering dahin, daá
+dasselbe von seinen Weinbergen in Zukunft nur ein Pfund Pfennige j„hrlich statt
+des Zehntes an ihn zu entrichten habe.
+
+REG$Bischof Rdiger von Passau begnadigt das Kloster Wilhering dahin, daá
+dasselbe von seinen Weinbergen in Zukunft nur ein Pfund Pfennige j„hrlich statt
+des Zehntes an ihn zu entrichten habe.
+F$O™UB 3/140/142/142
+G$X/Kloster/Wilhering/Wilhering//O™,b.Linz/
+E$Rdiger/Bischof/Passau/Passau//Bayern/
+H$Zehnt/Immobilien_Weinberge/unbestimmt/unbestimmt//
+W$Wien/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unam libram Wiennensem \dots annuatim solvant nomine decimarum
+
+DOK$O™UB3_141/1247.0.0/1247.0.0/1247/anno domini MCCXLVII/X/X//
+S$X/X/X
+V$X/X/X
+K$Gundacker von Storchenberg bezeugt, dem Kloster Ebersberg zu Zeiten des Abtes
+Konrad einen Zehnt zu Wedling bergeben zu haben.
+
+REG$Sifrid Slegil und Rdiger von Ekkelpurch bergeben dem Kloster Ebersburg 200
+Pfund Regensburger Mnze, die Gundacker von Storchenberg fr die Verpf„ndung
+eines Zehnts zu Wedling bezahlt hatte.
+F$O™UB 3/141/142f/143
+G$Sifrid Slegil/X/X/X//
+G$Gundacker?/Genannter/Starhemberg/Starhemberg/Storchenberg/O™
+G$Rdiger/Genannter/uDonaul„nder Eckelburg/uDonaul„nder,Eckelburg?/Ekkelpurch/wo??
+E$X/Kloster/Ebersberg/Ebersberg//OB/
+H$Pfandgesch„ft?/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$dederunt et confirmaverunt per obligationem manu mea factam CC libras
+Ratisponensis monete \dots domino et cenobio
+
+REG$Abt Heinrich von Ebersberg bestimmt, daá dem Sifrid Slegil und dem Rdiger von
+Ekkelpurch j„hrlich von den  200 Pfund Regensburger Mnze, 30 Pfennige abgezogen
+werden.
+F$O™UB 3/141/142f/143
+G$X/Kloster/Ebersberg/Ebersberg//OB/
+E$Sifrid Slegil/X/X/X//
+E$Gundacker?/Genannter/Starhemberg/Starhemberg/Storchenberg/O™
+E$Rdiger/Genannter/uDonaul„nder Eckelburg/uDonaul„nder,Eckelburg?/Ekkelpurch/wo??
+H$Abzug?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$de summa prescripte peccunie omni anno XXX denarios defalcari
+
+DOK$O™UB3_143/1248.1.20/1248.1.20/1248 J„nner 20/anno domini MCCXLVIII. XIII. kalendas
+Februarii/Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Das Domkapitel zu Passau gibt seine Zustimmung zu dem Gnadenbrief des
+Bischofs Rdiger, dat. 1. Dezember 1247 fr das Kloster Wilhering.
+
+REG$Das Domkapitel zu Passau gibt seine Zustimmung zu dem Gnadenbrief des Bischofs
+Rdiger fr das Kloster Wilhering, infolgedessen dieses
+von seinen Weinbergen in Zukunft nur ein Pfund Pfennige j„hrlich statt
+des Zehntes an ihn zu entrichten habe.
+F$O™UB 3/143/144/144
+G$X/Kloster/Wilhering/Wilhering//O™,b.Linz/
+E$Rdiger/Bischof/Passau/Passau//Bayern/
+H$Best„tigung?_Zehnt/Immobilien_Weinberge/unbestimmt/unbestimmt//
+W$Wien/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unam libram Wiennensem \dots annuatim solvant nomine decimarum
+
+DOK$O™UB3_152/1248.10.8/1248.10.8/1248 Oktober 8/VIII. idus octobris anno domini
+MCCXLVIII./Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Revers Meinhart Tr”stel's, ber drei von Bischof Rdiger von Passau zu Lehen
+erhaltene H”fe zu Ofteringen, Leidrating und Meisching.
+
+REG$Meinhart Tr”stel vereinbart mit Bischof Rdiger von Passau, daá dieser, falls
+Meinhard erbenlos sterben sollte, den Hof in Meisching den Kanoniker von Passau
+geben oder gegen Zahlung von 25 Pfund Wiener Mnze an die Kanoniker nehmen soll.
+F$O™UB 3/152/151f/152
+F$MB 29II/?/77/?
+G$X/Bischof/Passau/Passau//Bayern/
+E$X/Kanoniker/Passau/Passau//Bayern/
+H$Abl”se/Immobilien/Wilhering Meisching/Wilhering,Meisching/Meisching/O™,B.Linz/
+W$Wien/moneta/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$si pataviensis episcopus eandem sibi assumere voluerit, loco ipsius XXV libras
+Wiennensis monete \dots dictis canonicis reconpenset
+
+DOK$O™UB3_160/1249.9.0/1249.9.0/1249 September/anno domini MCCXLVIIII. in mense
+Septmbri/Wels/Wels//O™/
+S$X/X/X
+V$X/X/X
+K$Abt und Konvent zu Kremsmnster verleihen erblehensweise zwei Gter im Amt
+Buchkirchen an Wulfing zu Grub und seine Brder.
+
+REG$Das Amt Buchkirchen nimmt ein halbes Talent von einem Gut in Zaizendorf ein.
+F$O™UB 3/160/159f/159
+F$UB Kremsmnster/77/97f/98
+G$X/X/X/X//
+E$X/Amt/Burgkirchen/Burgkirchen/Buchkirchen/O™,zw.Mauerkirchen u.Braunau/
+H$Abgabe/Immobilien/Burgkirchen/Burgkirchen/Buchkirchen/O™,zw.Mauerkirchen u.Braunau/
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$de quibus officiatus noster in P\o{u}chchirichen dimidium talentum
+
+REG$Die Kasse des Klosters Kremsmnster nimmt 60 Pfennige Wiener Mnze von einem
+Gut in Campus? ein.
+F$O™UB 3/160/159f/159
+F$UB Kremsmnster/77/97f/98
+G$X/X/X/X//
+E$X/Kasse/Kremsmnster/Kremsmnster//O™/
+H$Abgabe/Immobilien/uO™ Campo/uO™,Campo?//wo??
+W$Wien/moneta publica/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$de quibus \dots camerarius ecclesie sexaginta denarios publice monete
+Wienensium singulis annis recipere consueverunt
+B$Kamp Kamm Bzeichnung fr einen Bergrcken. Kamp nannte man aber auch aus dem
+unverteilten Gemeindegrund zu Eigenbesitz ausgeschiedene, eingez„unte Parzellen.
+
+REG$Abt und Konvent zu Kremsmnster verleihen erblehensweise zwei Gter im Amt
+Buchkirchen zu einem Zins von 6 Schilling an Wulfing zu Grub und seine Brder.
+F$O™UB 3/160/159f/159
+F$UB Kremsmnster/77/97f/98
+G$Wulfing/Genannter/Obergrub und
+Mittel-/Ober-u.Mittelgrub/Grub/N™,b.Niederhollabrunn/
+G$Marquard;Hartwig/X/X/X//
+E$X/Amt/Buchkirchen/Buchkirchen//O™,b.Wels/
+E$X/Kasse/Kremsmnster/Kremsmnster//O™/
+H$Zins/Immobilien/Buchkirchen/Buchkirchen//O™,b.Wels/
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/Z
+Q$iure hereditario contulimus ad dictum censum \dots sex videlicet solidorum
+predictis officiato nostro de Puchchirichen et Camerario \dots annuatim \dots
+persolvatur
+
+DOK$O™UB3_161/1249.0.0/1249.0.0/1249/anno domini MCCXLVIIII. indictione VII./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Rdiger von Passau beurkundet, daá Gundaker von Storchenberch mit
+seiner Einwilligung dem Kloster Ebersberg die von Passau zu Lehen tragenden
+Zehnte zu Wedling teils durch Verkauf?, teils durch Schenkung berlassen hat.
+
+REG$Die mit Zehnten belehnten Ministerialen des Klosters Ebersberg geben durch
+Gundaker von Storchenberch dem Abt Heinrich und dem Konvent von Ebersberg fr
+die Belehnung 200 Pfund Regensburger. ?
+F$O™UB 3/161/160f/161
+G$X/Ministerialen/Ebersberg/Ebersberg//OB/
+E$X/Konvent/Ebersberg/Ebersberg//OB/
+H$Abl”se?/Zehnten/uDonaul„nder Wedling/uDonaul„nder ,Wedling//wo??
+H$Pfandgesch„ft?/Zehnten/uDonaul„nder Wedling/uDonaul„nder ,Wedling ? //wo??
+W$Regensburg/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ministriales \dots per manum domini Gundakeri dederunt \dots abbati er
+conventui super eisdem decimis CC libras Ratisponenses
+
+REG$Die mit Zehnten belehnten Ministerialen des Klosters Ebersberg geben durch
+Gundaker von Storchenberch dem Abt Heinrich und dem Konvent von Ebersberg fr
+die Belehnung 200 Pfund Regensburger ?, damit 30 Pfennig j„hrlich fr den Zins ?
+abgezogen werden.
+F$O™UB 3/161/160f/161
+G$X/Ministerialen/Ebersberg/Ebersberg//OB/
+E$X/Konvent/Ebersberg/Ebersberg//OB/
+H$Zins/Zehnten/uDonaul„nder Wedling/uDonaul„nder ,Wedling ?//wo??
+H$Abzug?/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$ut XXX denarii pro censu detescant annuatim
+
+DOK$O™UB3_164/1250.4.8/1250.4.8/1250 April 8/anno domini MCCL. VI. idus Aprilis/Passau/Passau//Bayern/
+S$X/X/X
+V$X/X/X
+K$Bischof Rudiger von Passau verleiht dem Wernhart von Inne die Gter, welche
+dem Bistum Passau von Rudiger dem Eferdinger heimgefallen sind.
+
+REG$Vom Bistum Passau wurden dem Eferdinger Rudiger 4 Huben in Ahalminge um 32
+Pfund verpf„ndet.
+F$O™UB 3/164/163f/163
+F$MB 29II/?/369/369?
+G$Rudiger/X/Eferding/Eferding//O™/
+E$X/Bistum/Passau/Passau//Bayern/
+H$Pfandgesch„ft/Immobilien/uDonaul„nder Ahalminge/uDonaul„nder,Ahalminge/
+Aholming??wo??
+W$X/X/
+O$32/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$hubas in Ahalminge, que dicto Everdingario pro triginta duabus libris a nobis
+obligate fuerant
+
+REG$Bischof Rudiger von Passau verpf„ndet dem Wernhard von Inne und seiner Frau
+Alheid vier Hube in Ahalminge fr 32 Pfund, welche von Bischof oder seinen
+Nachfolgern fr die selbe Summe Regensburger Mnze eingel”st werden k”nnen.
+F$O™UB 3/164/163f/163
+F$MB 29II/?/369/369?
+G$X/Bistum/Passau/Passau//Bayern/
+E$Rudiger/Bischof/Passau/Passau//Bayern/
+H$Pfandgesch„ft_Ausl”sung/Immobilien/uDonaul„nder Ahalminge/uDonaul„nder,Ahalminge//
+Aholming??wo??
+W$Regensburg/moneta/
+O$32/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$donec eisdem de prefata pecunia videlicet ratisponsensis monete per nos vel
+successores nostros integraliter fuerit satisfactum
+B$"32 Pfund" aus dem Zusammenhang erschlossen.
+
+DOK$O™UB3_170/1250.0.0/1250.0.0/ca. 1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt und Konvent zu Kremsmnster berlassen erblehensweise und unter mehrfachen
+Bedingungn einigen Winzern die Weing„rten des Stiftes Kremsmnster bei Aschach.
+
+REG$Abt und Konvent zu Kremsmnster berlassen erblehenweise einigen Winzern die
+Weing„rten des Stiftes bei Aschach unter der Bedingung, daá sie j„hrlich eine
+bestimmte Menge Wein abliefern. Sollten sie weder selbst den Wein liefern noch
+in Linz oder Anasus? kaufen k”nnen, mssen sie stattdessen 30 Pfennige Wiener
+Mnze pro Urne zahlen.
+F$O™UB 3/170/167f/168
+F$UB Kremsmnster/78/99f/99
+G$Wernhard/Genannter/O™_s.Donau Hainbach/O™_s.Donau, Hainbach/Haimpach/?alle
+s.Donau,Hartkirchen nahe Aschach a.d.Donau
+G$Wernhard Hakchteufel/X/X/X//
+G$Rudof Haekchelheimer/X/X/X//
+G$Heinrich Zaengel/X/X/X//
+G$Rdiger/Kellermeister/X/X//
+E$X/Konvent/Kremsmnster/Kremsmnster//O™/
+H$Abl”se/Zins?_Weing„rten/Aschacha.d.Donau/Aschach a.d.Donau oder Steyr??//O™??/
+W$Wien/moneta/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$vinum aput nos redimant, dantes nobis pro qualibet urna XXX denarios
+Wyennensis monete
+
+REG$Strafbestimmung in der H”he von 5 Talent Wiener Pfennigen.
+F$O™UB 3/170/167f/168
+F$UB Kremsmnster/78/99f/100
+G$Wernhard/Genannter/O™_s.Donau Hainbach/O™_s.Donau, Hainbach/Haimpach/
+welches??
+G$Wernhard Hakchteufel/X/X/X//
+G$Rudof Haekchelheimer/X/X/X//
+G$Heinrich Zaengel/X/X/X//
+G$Rdiger/Kellermeister/X/X//
+E$X/Konvent/Kremsmnster/Kremsmnster//
+H$P”nale/Strafgeld/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$5/tal./X
+Z$X/X/X
+M$X/den./X/Z
+Q$insuper quinque talentis denariorum Wiennensium monete? nostre ecclesie
+teneatur
+
+

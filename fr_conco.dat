@@ -1,0 +1,225 @@
+note *** Urkunden Concordia (Bistum und Kapitel)
+        Aufnahme nach Materialsammlung zum Zeitpunkt der Erstaufnahme
+
+note *** Einlesen der Rohdaten fr_conco.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$fcon_1140/1140.1.10/1140.1.10/1140 JÑnner 10/anno dominice incarnationis MCXL. decimo
+die mensis ianuarii indictione secunda/Portogruaro/Portogruaro//Friaul-West/
+S$Dietrich/X/Dietrich
+V$Dietrich/X/Dietrich
+K$Bischof Gervino von Concordia erteilt einigen genannten Kaufleuten und
+allen aus Portulane? zu Porto Gruaro ?die Erlaubnis, auf einem GrundstÅck in
+"Pontem de Corra"
+in? Portogruaro einen Hafen und HÑuser zu errichten gegen einen jÑhrlichen Zins
+im Sinne einer Pacht auf 29 Jahre.
+
+REG$Bischof Gervino von Concordia erteilt einigen genannten Kaufleuten und
+allen aus Portulane? die Erlaubnis, auf einem GrundstÅck in "Pontem de Corra"
+in? Portogruaro einen Hafen und HÑuser zu errichten gegen einen jÑhrlichen Zins
+von einem Ferto Silber pro Meier? im Sinne einer Pacht auf 29 Jahre.
+F$Foucard, CD Portogr./1/1ff/1
+F$Ughelli 5/X/329/329
+G$X/Portulani?/Portogruaro/Portogruaro//Friaul-West/
+E$Gervino/Bischof/Concordia/Concordia//Friaul-West/
+H$Zins/Immobilien_Hafen/Portogruaro/Portogruaro//Friaul-West/
+W$X/X
+O$X/X/X
+Z$1/ferto/argenteus
+M$X/X/X/Z
+Q$per unum quemque annum et per unum quemque massarium negotiatorem \dots
+persolvat verdunem unum argenti
+B$Venedig ist zwar nicht genannt, doch dÅrfte Joh. Venerio ein Venezianer
+gewesen sein.
+
+REG$Bischof Geruino von Concordia erteilt einigen genannten Kaufleuten und
+allen aus Portulane? die Erlaubnis, auf einem GrundstÅck in "Pontem de Corra"
+in? Portogruaro einen Hafen und HÑuser zu errichten gegen einen jÑhrlichen Zins
+im Sinne einer Pacht auf 29 Jahre, wobei die Menschen, die dort wohnen 4
+marcucios (sic) venetianischer Pfennige zahlen sollen.
+F$Foucard, CD Portogr./1/1ff/2
+F$Ughelli 5/X/329/329
+G$X/Portulani?/Portogruaro/Portogruaro//Friaul-West/
+E$Gervino/Bischof/Concordia/Concordia//Friaul-West/
+H$Zins/Hafen/Portogruaro/Portogruaro//Friaul-West/
+W$Venedig/X/
+O$4/mancusius/X
+Z$X/X/X
+M$X/den./X/Z
+Q$homines ibi habitantes persolvant quattuor marcucios Veneticorum
+denariorum
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$Foucard, CD Portogr./1/1ff/2
+F$Ughelli 5/X/329/329
+G$Gervino/Bischof/Concordia/Concordia//Friaul-West/
+E$X/Portulani?/Portogruaro/Portogruaro//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$pena auri optimi libras quinque
+
+DOK$fcon_1209/1209.8.23/1209.8.23/1209 August 23/anno ab incarnatione domini MCCIX
+indictione duodecima die dominico VIIII. exeunte Augusto/Brische/Brische//Friaul-West/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Gabriel von Prata, Vogt von Concordia, und der Kanoniker Ropretus, Wroinus de
+Toppo und Artuicus de Meduno als von den Parteien bestimmte Schiedsleute
+schlie·en zwischen diesen einen Vergleich. Bischof Ulrich von Concordia soll die
+EinkÅnfte bestimmter GÅter zur Bezahlung seiner Schulden haben und die
+Kanoniker seiner Kirche sollen jene LehenPfrÅnde? besitzen, derer sie durch den
+Bischof beraubt worden sind.
+
+REG$Strafbestimmung in der Hîhe von 50 Mark.
+F$Degani, Concordia 1/X/126ff/128
+F$Degani, Concordia 2/X/147ff/148
+F$BCU Ms. Joppi 369 Fasz. 1/43/1f/2
+G$Ulrich/Bischof/Concordia/Concordia//Friaul-West/
+E$X/Kapitel/Concordia/Concordia//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena L? 50 marcarum
+
+DOK$fcon_1210a/1210.9.15/1210.9.15/1210 September 15/eiusdem salutifere nativitatis anno
+MCCX. indictione tertia decima die martis quintodecimo intrante mense
+septembris/Concordia/Concordia//Friaul-West/
+S$Lambertinus de Lonado/kaiserl. Notar/Lambertinus de Lonado
+V$Lambertinus de Lonado/kaiserl. Notar/Lambertinus de Lonado
+K$Bischof Ulrich von Concordia erlÑ·t, auf Ersuchen des Scholasters
+Dietrich, der auf die Pfarre Gruaro verzichtet, der Kasse oder Sakristei der
+Kathedralkirche
+vorbehaltlich 4 Pfund der Sammlung?, um SchÑtze anzusammeln.  ?
+
+REG$NN
+F$Degani, Concordia 1/X/128f/129
+F$Degani, Concordia 2/X/149f/149
+G$Ulrich/Bischof/Concordia/Concordia//Friaul-West/
+E$Pînale/Strafgeld/Concordia Kathedrale/Concordia,Kathedrale//Friaul-West/
+H$Nachlass/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quatuor libras collecte, consilio cleri et fidelium et ministralium suorum, ad
+thesaurizandum indulsit
+
+DOK$fcon_1211a/1211.3.31/1211.3.31/1211 MÑrz 31/eiusdem salutifere nativitatis anno MCCXI.
+indictione XIV. die ultimo exeunte mense martio/X/X//
+S$X/X/X?
+V$Dietrich/X/Dietrich
+K$Bischof Urich von Concordia Åbergibt Abt Richer von Summaga bzw. dem Kloster
+Summaga die Pfarre Quinto, auf welche von Pfarrer Heinrich verzichtet hat.
+
+REG$NN
+F$Ughelli 5/X/335/335
+G$X/Pfarre/Quinto diTreviso/Quinto di Treviso//wo??  Friaul-West
+E$X/Bischof/Concordia/Concordia//Friaul-West/
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solo constituto Cathedratico scil. quinque librarum venerabilibus
+successoribus reservato
+
+DOK$fcon_1219/1219.8.7/1219.8.7/1219 August 7/anno domini M\dotsVIIII.
+indict. VII. die VII. intrante mense Augusto/Fanna/Fanna//Friaul-West/
+S$Johannes de Cott./kaiserl. Notar/Johannes de Cott.
+V$Johannes de Cott./kaiserl. Notar/Johannes de Cott.
+K$Johannes Gratianus schenkt zusammen mit seiner Tochter Antiocha dem
+Herrn Benedikt des Klosters S. Maria de Pomposa GÅter in Fanna und dieser
+investiert Johannes und Antiocha namens des Klosters mit dem Besitz gegen
+jÑhrlichen Zins.
+
+REG$Johannes Gratianus schenkt zusammen mit seiner Tochter Antiocha dem
+Herrn Benedikt des Klosters S. Maria de Pomposa GÅter in Fanna und dieser
+investiert Johannes und Antiocha namens des Klosters mit dem Besitz gegen
+jÑhrlichen Zins in der Hîhe von unter anderem 8 Schilling Veroneser.
+F$Degani, Concordia 2?/X/479f/480
+G$Johannes Gratianus/X/X/X//Friaul-West?/
+E$X/Kloster/Pomposa/Pomposa//Romagna/
+H$Zinsverpflichtung/Immobilien/Fanna/Fanna//Friaul-West/
+W$Verona/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/Z
+Q$VIII solidos Veronenses et duas situlas de vino
+
+DOK$fcon_1232a/1232.0.0/1232.0.0/1232/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia gestattet dem Kapitel von Concordia auf
+Vermittlung des Bischofs Gregor von Emona hin die AusÅbung der Vogtei Åber einge
+Einwohner von Rivolto, welche Graf Meinhard von Gîrz dem genannten Kapitel fÅr
+eine ansehnliche Geldsumme Åbertragen hatte.
+
+REG$Patriarch Berthold von Aquileia gestattet dem Kapitel von Concordia auf
+Vermittlung des Bischofs Gregor von Emona hin die AusÅbung der Vogtei Åber
+einige Einwohner von Rivolto, welche Graf Meinhard von Gîrz dem genannten
+Kapitel fÅr eine ansehnliche Geldsumme Åbertragen hatte.
+F$Reg. Gîrz 1/441/119/119
+F$Manzano AF 2/X/313/313
+G$X/Kapitel/Concordia/Concordia//Friaul-West/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Ablîse/Vogtei/Rivolto/Rivolto//Friaul-Mitte/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/A
+Q$?
+B$Vom Regest aufgenommen.
+
+DOK$fcon_1245/1245.5.23/1245.5.23/1245 Mai 23/1245 die 23. May/X/X//
+S$Martin/kaiserl. Notar/Martin
+V$Martin/kaiserl. Notar/Martin?
+K$Graf Meinhard von Gîrz gibt dem Artuico Mascone auf Konto des Kapitels von
+Concordia die Vogtei Åber das Dorf Rivolto fÅr 1000 Pfund Venetianischer
+Pfennige zum Pfand.
+
+REG$Graf Meinhard von Gîrz gibt dem Artuico Mascone auf Konto des Kapitels von
+Concordia die Vogtei Åber das Dorf Rivolto fÅr 1000 Pfund Venetianischer
+Pfennige zum Pfand.
+F$ACU Coll. Bini DH V/23/X/X/
+F$AôG 21 Bianchi/147/218/218
+F$Reg. Gîrz 1/512/135/135
+G$Artuico Mascone/X/Concordia/Concordia?//Friaul-West/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Vogtei/Rivolto/Rivolto//Friaul-Mitte/
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$50000/den./X/A
+Q$pro 50000 den. Venet.
+B$Bianchi und Wiesflecker rechnen die 50 000 Venetianischen Pfennige in 1000
+Pfund Venetianischer Pfennige um.?
+
+DOK$fcon_1229a/1229.4.23/1229.4.23/1229 April 23 oder 8?/anno domini MCCXXVIIII.? indictione secunda die
+octava exeunte mense Aprilis/Concordia/Concordia//Friaul-West/
+S$Otolinus Vincentinus/kaiserl. Notar/Otolinus Vincentinus
+V$Otolinus Vincentinus/kaiserl. Notar/Otolinus Vincentinus
+K$Privilegien Bischof Friedrichs von Concordia fÅr das Spital der Leprîsen in
+Portogruaro.
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$ACUP Stampa M/8/X/X
+F$Ughelli 5/X/337f/338
+F$BCU Ms. Joppi 369 Fasz. 3/57/1f/?
+G$Friedrich/Bischof/Concordia/Concordia//Friaul-West/
+E$X/Leprosenspital/Portogruaro/Portogruaro,Hl.Lazarus//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$teneatur rectori ipsius ecclesie solvere quinque libras puri auri
+B$Ughelli liest "intrante", Joppi schreibt "extante" und rechnet intrante??
+
+

@@ -1,0 +1,362 @@
+note *** Cod. dipl. et epistolaris regni Bohemiae, Bde 1, 2, 3 und 4
+
+note *** Einlesen der Rohdaten no_boehm.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$CDB1_290/1174.0.0/1178.0.0/[1174 - 1178]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Verordnung Herzog Sobeslaus II. von Bîhmen fÅr die vor Prag wohnenden
+Deutschen.
+
+REG$Herzog Sobeslaus II. von Bîhmen bestimmt fÅr die vor Prag wohnenden
+Deutschen, da· bei Mord das Abschlagen der rechten Hand oder die
+Zahlung von 10 Talent Regensburger MÅnze die Strafe sein soll.
+F$CDB 1/290/255ff/256
+G$X/X/X/X//
+E$Sobeslaus II./Herzog/Bîhmen/Bîhmen//
+H$Pînale/Mord/Prag/Prag//Bîhmen/
+W$Regensburg/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvantur principi decem talenta Ratisponensis monete
+
+REG$Herzog Sobeslaus II. von Bîhmen bestimmt fÅr die vor Prag wohnenden
+Deutschen, da· wer den Frieden bricht, 10 Talent Strafe zahlt.
+F$CDB 1/290/255ff/256
+G$X/X/X/X//
+E$Sobeslaus II./Herzog/Bîhmen/Bîhmen//
+H$Pînale/Fehde/Prag/Prag//Bîhmen/
+W$X/X/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Qui pacem inter eos fregerit, X talenta principi solvat
+B$Si falsa vel fracta moneta inventa fuerit in cista Theutonici. Falschgeld.
+
+DOK$CDB2_228/1222.0.0/1222.0.0/1222/anno domini MCCXXII., indictione
+nona/Prag/Prag,bei//Bîhmen/
+S$X/X/X
+V$X/X/X
+K$Abt Dluhomilus von Breunow und sein Konvent Åberlassen den Besitz, den er
+und seine Kirche in Raghrad hatten, Abt Bonifazius von Hradisch und dessen
+Konvent gegen Zahlung von 20 Mark minus 1 Ferto Silber Prager Gewichts.
+
+REG$Abt Dluhomilus von Breunow und sein Konvent Åberlassen den Besitz, den er
+und seine Kirche in Raghrad hatten, Abt Bonifazius von Hradisch und dessen
+Konvent gegen Zahlung von 20 Mark minus 1 Ferto Silber Prager Gewichts.
+F$CDB 2/228/213f/214
+G$Bonifazius/Abt/Hradisch/Hradisch/Gradisch/Bîhmen,d.p.OlmÅtz?/
+E$Dluhomilus/Abt/Breunow/Breunow//Bîhmen,b.Prag/
+H$Ablîse/Besitz/Raghrad/Raghrad/Raigern/d.p.Hustope\{v}c/
+W$Prag/pondus/
+O$20/marca/X
+Z$1/ferto/minus
+M$X/argentum/X/A
+Q$XX marcas argenti et fertonem ad pondus Pragense \dots reciperemus
+
+DOK$CDB2_329/1229.8.15/1229.8.15/1229 August 15/in assumpcione sancte Marie, anno dominice
+incarnacionis MCCXXVIIII, indicione II, epacta XXIII./Wisegrad/Wisegrad//Bîhmen/
+S$X/X/X
+V$X/X/X
+K$Das Kapitel der Kirche in Wisegrad gibt auf Bitten des Probstes Arnold die
+GÅter in Zdenicz bei Alt-Prachatitz dem Heinrich Saxo zu Lehen, damit er dort
+zwei Dîrfer grÅnde?.
+
+REG$Das Kapitel der Kirche in Wisegrad gibt auf Bitten des Probstes Arnold die
+GÅter in Zdenicz bei Alt-Prachatitz dem Heinrich Saxo unter der Bedingung zu
+Lehen, da· er sie 5 Jahre frei besitzt und dann jÑhrlich der Kirche eineinhalb
+Mark zahlt.
+F$CDB 2/329/335f/336
+G$Heinrich Saxo/X/X/X//
+E$X/Kirche/Wisegrad/Wisegrad//Bîhmen/
+H$Zinsverpflichtung/Lehen/Zdenicz b.Alt-Prachatitz /Zdenicz
+b.Alt-Prachatitz//Bîhmen/
+W$X/X/
+O$1,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis ecclesie nostre marcam et dimidiam persolvat
+
+REG$Das Kapitel der Kirche in Wisegrad gibt auf Bitten des Probstes Arnold die
+GÅter in Zdenicz bei Alt-Prachatitz dem Heinrich Saxo zu Lehen, damit er dort
+zwei Dîrfer grÅnde?. Diese sollen 10 Jahre ohne Zahlungen bleiben und danach
+soll jedes einen Schilling Passauer MÅnze der Kirche jÑhrlich Zins zahlen.
+F$CDB 2/329/335f/336
+G$X/X/X/X//
+E$X/Kirche/Wisegrad/Wisegrad//Bîhmen/
+H$Zinsverpflichtung/Lehen/Zdenicz b.Alt-Prachatitz/Zdenicz b.Alt-Prachatitz//Bîhmen/
+W$Passau/moneta/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$solidum Pataviensis monete ecclesie nostre per singulos annos persolveret
+
+DOK$CDB3_083/1234.9.24/1234.9.24/1234 September 24/MCCXXXIIII. octavo kalendarum
+octobrium/Prag/Prag//Bîhmen/
+S$X/Prag/Johannes II.3
+V$X/X/X
+K$Bischof Johann II. von Prag gibt dem Kloster in MÅhlhausen sein halbes Dorf
+Hruschtitz fÅr das Dorf Horosedl im Tausch, indem er 80 Mark bîhmischer
+WÑhrung?! Gewichts hinzufÅgt.
+
+REG$Bischof Johann II. von Prag gibt dem Kloster in MÅhlhausen sein halbes Dorf
+Hruschtitz fÅr das Dorf Horosedl im Tausch, indem er 80 Mark bîhmischer
+WÑhrung?! Gewichts hinzufÅgt.
+F$CDB 3/083/89f/90
+G$Johann II./Bischof/Prag/Prag//Bîhmen/
+E$X/Kloster/MÅhlhausen/MÅhlhausen//K.Budweis oder K.Prag??
+H$Tausch/Immobilien/Horosedl/Horosedl//p.Behin??      Jechnitz oder Mirowitz
+W$Bîhmen/pondus/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in pondere Bohemico marcas addidimus octoginta.
+
+DOK$CDB3_095II/1234.12.6/1234.12.6/1234 Dezember 6/VII. idus decembris anno domini
+MCCXXXIIII., pontificatus domini Gregorii pape noni anno octavo/Kîln/Kîln//Dtld./
+S$X/X/X
+V$X/X/X
+K$Philipp von Assisi, Skriptor und Gesandter des Papstes, bekennt, da· er von
+Engilbert, dem Prokurator des Probstes Arnold von Wischehrad, den dem
+Apostolischen Stuhl fÑlligen Zins erhalten habe.
+
+REG$Philipp von Assisi, Skriptor und Gesandter des Papstes, bekennt, da· er von
+Engilbert, dem Prokurator des Probstes Arnold von Wischehrad, den dem
+Apostolischen Stuhl fÑlligen Zins in der Hîhe von 15 Mark Gold minus 1 Ferto
+Kîlner Gewichts statt 113 Mark Silber erhalten habe.
+F$CDB 3/095II/110f/111
+G$Engilbert/Prokurator/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+E$Philipp/Gesandter/Rom/Rom//Italien/
+H$Quittung/Geldsumme/unbestimmt/unbestimmt//
+W$Kîln/pondus
+O$15/marca/legitime ponderata
+Z$0,5/ferto/minus
+M$X/aurum/X/A
+A$15 Mark Gold minus 0,5 Ferto Kîlner Gewichts/113 Mark Silber
+Q$quindecim marcas auri dimidio fertone minus ad pondus Coloniense legitime
+ponderatas, pro tredecim et centum marcis argenti de censu sedi apostolice
+debito preteriti temporis a memorata ecclesia
+
+REG$Philipp von Assisi, Skriptor und Gesandter des Papstes, bekennt, da· er von
+Engilbert, dem Prokurator des Probstes Arnold von Wischehrad, den dem
+Apostolischen Stuhl fÑlligen Zins in der Hîhe von 15 Mark Gold minus 1 Ferto
+Kîlner Gewichts statt 113 Mark Silber erhalten habe.
+F$CDB 3/095II/110f/111
+G$Engilbert/Prokurator/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+E$Philipp/Gesandter/Rom/Rom//Italien/
+H$Quittung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$113/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+A$113 Mark Silber/15 Mark Gold minus 0,5 Ferto Kîlner Gewichts
+Q$quindecim marcas auri dimidio fertone minus ad pondus Coloniense legitime
+ponderatas, pro tredecim et centum marcis argenti de censu sedi apostolice
+debito preteriti temporis a memorata ecclesia
+
+REG$Philipp von Assisi, Skriptor und Gesandter des Papstes, bekennt, da· er von
+Engilbert, dem Prokurator des Probstes Arnold von Wischehrad, den dem
+Apostolischen Stuhl fÑlligen Zins, 5 Mark Silber pro Jahr, erhalten habe.
+F$CDB 3/095II/110f/111
+G$Arnold/Probst/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+E$X/Apostolischer Stuhl/Rom/Rom//Italien/
+H$Zinsverpflichtung/Zins/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+W$X/X
+O$5/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro quolibet anno quinque marcas argenti
+
+REG$Philipp von Assisi, Skriptor und Gesandter des Papstes, bekennt, da· 2 Mark
+Gold, wenn diese, wie Engilbert, der Prokurator des Probstes Arnold von
+Wischehrad, behauptet, dem Apostolischen Stuhl bezahlt worden sind,
+zurÅckgegeben werden oder auf eine kÅnftige Zahlung angerechnet werden.
+F$CDB 3/095II/110f/111
+G$Philipp/Gesandter/Rom/Rom//Italien/
+E$Arnold/Probst/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+H$RÅckzahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X
+O$2/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$si due marce auri
+
+DOK$CDB3_109/1235.5.17/1235.5.17/1235 Mai 17/XVI. kalendas iunii, pontificatus nostri anno
+nono/Perugia/Perugia//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Gregor IX. beauftragt den Bischof Ekkart von Merseburg, da· er Åber die
+Summe des der rîmischen Kirche geschuldeten Zinses von der Kirche St. Petri in
+Wischehrad und Åber den Wert des bîhmischen Geldes in der Zeit der Auflegung des
+Zinses nachforscht.
+
+REG$Philipp von Assisi, Skriptor und Gesandter des Papstes, fordert vom Probst und
+Kapitel von Wischehrad den der Rîmischen Kirche geschuldeten jÑhrlichen Zins in
+der Hîhe von 12 Mark Silber.
+F$CDB 3/109/134f/135
+G$X/Kapitel/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zinsforderung?/Zins/Rom/Rom//Italien/
+W$X/X
+O$12/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$censum ab eis ecclesie Romane debitum, scilicet duodecim marcas argenti
+
+REG$Philipp von Assisi, Skriptor und Gesandter des Papstes, fordert vom Probst und
+Kapitel von Wischehrad den der Rîmischen Kirche geschuldeten jÑhrlichen Zins
+in der Hîhe von 12 Mark bîhmischer MÅnze mit einem Wert von 5 Mark Silber.
+F$CDB 3/109/134f/135                                 ?
+G$X/Kapitel/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zinsverpflichtung/Zins/Rom/Rom//Italien/
+W$Bîhmen/moneta/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$12 Mark Bîhmischer MÅnze/5 Mark Silber
+Q$quod eadem ecclesia duodecim marcarum bohemice monete annuum censum debet
+
+REG$Probst und Kapitel von Wischehrad erklÑren, da· zur Zeit der Auflegung des
+Zinses an den apostolischen Stuhl 12 Mark bîhmischer MÅnze nur 5 (Mark) Gewicht
+in Silber wert waren.
+F$CDB 3/109/134f/135
+G$X/X/X/X//
+E$X/X/X/X//
+H$Wertangabe/WÑhrung/Bîhmen/Bîhmen//Bîhmen/
+W$X/X
+O$5/marca/X
+Z$X/X/X
+M$X/argentum/bonum/A
+A$5 Mark Silber/12 Mark Bîhmischer MÅnze
+Q$duodecim marcarum bohemice monete \dots quas non nisi quinque in pondere boni
+argenti
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$Papst Gregor IX. erklÑrt, da· er wÅnscht, da· die Kirche nicht wider die
+Gerechtigkeit beschwert werde, wenn in dem Privileg enthalten ist, da· der
+Zins 12 Mark jener (bîhmischer) MÅnze betrÑgt.
+F$CDB 3/109/134f/135
+G$X/Kapitel/Prag Wissegrad/Prag,Wissegrad/Wischehrad/Bîhmen/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zinsverpflichtung/Zins/Rom/Rom//Italien/
+W$Bîhmen/moneta/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$si censum in ipso duodecim marcarum illius monete inveneris contineri
+
+DOK$CDB4_037/1243.0.0/1243.0.0/1243/anno dominice incarnationis MCCXLIII./X/X//
+S$X/Bîhmen?/V3
+V$X/X/X
+K$Otto, Probst der Kirche in Melnik, und das Kapitel verkaufen dem Kloster in
+Hotesouich den Berg Vrabina, zwei Dîrfer namens Chirnotin und das Dorf Thurow.
+
+REG$Otto, Probst der Kirche in Melnik, und das Kapitel verkaufen dem Kloster in
+Hotesouich den Berg Vrabina, zwei Dîrfer namens Chirnotin und das Dorf Thurow um
+300 Mark Silber bîhmisches Gewicht.
+F$CDB 4/037/117ff/118
+G$X/Kloster/Hotesouich/Hotesouich/Chot\{v}e\{v}sov b.Plze\{v}n/Bîhmen,Diîzese Prag/
+E$Otto/Probst/Melnik/Melnik//K.Prag/
+H$Kauf/Immobilien/Vrabina/Vrabina//Bîhmen,b.Chot\{v}e\{v}sov/
+H$Kauf/Immobilien/Chirnotin/Chirnotin/\{v}Cernotin b.Plze\{v}n/Bîhmen/
+H$Kauf/Immobilien/Turouo/Turouo/Thorow/Bîhmen,b.Stod b.Plze\{v}n/
+W$Bîhmen/pondus/
+O$300/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$pro marcis CCC argenti ad pondus Bohemie
+
+DOK$CDB4_125/1247.0.0/1247.0.0/1247/anno dominice incarnationis MCCXLVII./X/X//
+S$X/X/X
+V$X/X/X
+K$Kînigin Kunegunde von Bîhmen gibt ihre Zustimmung zum Vergleich, der im Streit
+zwischen dem Spital S. Johannes Baptista in Prag und dem Spital S. Franciscus
+de vico Theutonicorum in Prag um das Dorf Vy\vsehn\vevice geschlossen wurde.
+
+REG$Kînigin Kunegunde von Bîhmen gibt ihre Zustimmung zum Vergleich, der im Streit
+zwischen dem Spital S. Johannes Baptista in Prag und dem Spital S. Franciscus
+de vico Theutonicorum in Prag um das Dorf Vy\vsehn\vevice geschlossen wurde,
+und wonach die Erstgenannten vom Ertrag der Letztgenannten vom Hl. Kreuz in
+Wirben 80 Mark (Silber?) Prager Gewichts nehmen dÅrfen und dafÅr auf alle Rechte
+verzichten. ?
+F$CDB 4/125/219ff/220
+G$S. Johannes Baptista/Spital/Prag/Prag//Bîhmen/
+E$S. Franciscus de vico Theutonicorum/Spital/Prag/Prag//Bîhmen/
+H$Ablîse/Immobilien/Wissehnewice/Wissehnewice/Vy\vsehn\vevice/Bîhmen,b.P\{v}relou\{v}c
+W$Prag/pondus/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$colligere debeant marcas octoginta ad pondus Pragense
+
+DOK$CDB4_173/1249.9.22/1249.9.22/1249 September 22/anno domini MCCXLIX., decimo kalendas
+octobris/Prag/Prag//Bîhmen/
+S$Heburd/Prag/Heburd
+V$X/X/X
+K$Wenceslaus I., Kînig von Bîhmen, schenkt der Kirche von Prag die Eintreibung
+der mensura regali, que chtwrtne vulgaliter appellatur,? in der Stadt Prag und
+setzt fest, da· von jeder mensura Getreide, die in der Stadt verkauft wird, ein
+Obulus Prager MÅnze an die Prager Kirche bezahlt wird.
+
+REG$Wenceslaus I., Kînig von Bîhmen, schenkt der Kirche von Prag die Eintreibung
+der mensura regali, que chtwrtne vulgaliter appellatur,? in der Stadt Prag und
+setzt fest, da· von jeder mensura Getreide, die in der Stadt verkauft wird, ein
+Obulus Prager MÅnze an die Prager Kirche bezahlt wird.
+F$CDB 4/173/283f/284
+G$X/X/X/X//
+E$X/Kirche/Prag/Prag//Bîhmen/
+H$Steuer?/Getreide/Prag/Prag//Bîhmen/
+W$Prag/moneta/
+O$X/X/X
+Z$X/X/X
+M$1/obulus/X/Z
+Q$debet unum obulum Pragensis monete persolvere ecclesie ac canonicis
+
+REG$Wenceslaus I., Kînig von Bîhmen, schenkt der Kirche von Prag die Eintreibung
+der mensura regali, que chtwrtne vulgaliter appellatur,? in der Stadt Prag und
+setzt fest, da· von jeder mensura Getreide, die in der Stadt verkauft wird, ein
+Obulus Prager MÅnze an die Prager Kirche bezahlt wird bei Strafe von 10
+Schilling an die kînigliche Kasse und 5 Schilling an die Kanoniker der Kirche.
+F$CDB 4/173/283f/284
+G$X/X/X/X//
+E$X/Kasse/Bîhmen/kîniglich?Bîhmen//Bîhmen/
+E$X/Kirche/Prag/Prag//Bîhmen/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+Z$5/sol./X
+M$X/X/X/Z
+Q$penam decem solidorum in cameram nostram persolvat ac canonicis ecclesie \dots
+quinque solidos reddat pro illata iniuria.
+
+DOK$CDB4_196/1250.0.0/1250.0.0/1250/anno domini MCCL./Chladrun/Chladrun/Kladruby/Bîhmen,b.T†bor/
+S$X/Kladruby/X
+V$X/X/X
+K$Abt Reinher und der Konvent des Klosters in Kladruby verkaufen Probst Gotthard
+und dem Konvent des Klosters in Chot\{v}e\{v}sov das Dorf La\v zany um 85 Mark
+Silber Prager Gewichts und kaufen mit diesem Geld das Dorf StarÇ Sedlo von Bo\v
+rita de \v Redho\v st'.
+
+REG$Abt Reinher und der Konvent des Klosters in Kladruby verkaufen Probst Gotthard
+und dem Konvent des Klosters in Chot\{v}e\{v}sov das Dorf La\v zany um 85 Mark
+Silber Prager Gewichts und kaufen mit diesem Geld das Dorf StarÇ Sedlo von Bo\v
+rita de \v Redho\v st'.
+F$CDB 4/196/357f/358
+G$X/Kloster/Hotesouich/Hotesouich/Chot\{v}e\{v}sov b.Plze\{v}n/Bîhmen,Diîzese Prag/
+E$X/Kloster/Chladrun/Chladrun/Kladruby/Bîhmen,b.T†bor//
+H$Kauf/Immobilien/Lasan/Lasan/La\{v}zany/Bîhmen,ad Dne\{v}sice pert.a.Chot\{v}e\{v}sov/
+W$Prag/pondus
+O$85/marca/X
+Z$X/X/X
+M$X/argentum/purum;examinatum/A
+Q$pro LXXXV marcis puri et examinati argenti ad pondus Pragense iure hereditario
+vendidimus
+
+

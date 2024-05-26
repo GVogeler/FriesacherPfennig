@@ -1,0 +1,1116 @@
+note *** Urkunden Cividale Benediktinerinnenkloster S. Maria in Valle (I)
+        Aufnahme nach Materialsammlung zum Zeitpunkt der Erstaufnahme
+        Nummerierung anhand der Edition Maffei 2006 nachgefÅhrt
+        Quellenangaben usw. aufgrund Edition 2006 noch nicht nachgefÅhrt
+        VollstÑndigkeit anhand der Edition 2006 noch zu ÅberprÅfen
+
+note *** Einlesen der Rohdaten fr_cval1.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$cval_02/1097.5.12/1097.5.12/1097 Mai 12/anno dominice incarnationis MXCVII, decima die
+madii, indictione quinta/Cividale/Cividale//Friaul-Ost/
+S$Bertaldus/Cividale/Bertaldus
+V$Bertaldus/Cividale/Bertaldus
+K$ébtissin Irmingard von S. Maria in Valle zu Cividale ÅberlÑ·t an Pezmann,
+Johannes und deren Erben alle dem Kloster gehîrigen GÅter zu Buja auf 29 Jahre
+gegen jÑhrlichen Zins.
+
+REG$ébtissin Irmingard von S. Maria in Valle zu Cividale ÅberlÑ·t an Pezmann,
+Johannes und deren Erben alle dem Kloster gehîrigen GÅter zu Buja auf 29 Jahre
+gegen jÑhrlichen Zins in der Hîhe von einem Mancusius Pfennigen.
+F$BCU Ms. 1223,1/027/32/32
+F$Novello/02/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 3/49/1f/1
+G$Pezmann;Johannes/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Buja/Buja//wo??
+W$X/X/
+O$1/mancusius/X
+Z$X/X/X
+M$X/den./X/Z
+Q$censum dare debeamus per singulos anno nec plus dare debeamus de ficto et de
+censu terre nisi unum mancusium denariorum
+
+REG$Strafbestimmung in der Hîhe von 20 Unzen Gold und 40 pondera? Silber.
+F$BCU Ms. 1223,1/027/32/32
+F$Novello/02/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 3/49/1f/2
+G$Pezmann;Johannes/X/X/X//       Beide?
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/uncia/X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$pena auri optimi uncias viginti et argenti pondera XL
+
+REG$Strafbestimmung in der Hîhe von 20 Unzen Gold und 40 pondera? Silber.
+F$BCU Ms. 1223,1/027/32/32
+F$Novello/02/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 3/49/1f/2
+G$Pezmann;Johannes/X/X/X//       Beide?
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$40/uncia/X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$pena auri optimi uncias viginti et argenti pondera XL
+
+DOK$cval_05/1178.7.7/1178.7.7/1178 Juli 7/anno ab incarnatione domini
+nostri Iesu Christi MCLXXVIII, indictione undecima, die
+veneris septimo intrante mense iulii/Cividale/Cividale?//Friaul-Ost/
+S$Vivian/Aquileia?/Vivian
+V$Vivian/Aquileia/Vivian
+K$Ulrich Mucho verzichtet auf seine Rechte an einer Hube zu Chiasacco zugunsten
+der ébtissin Herrt?adis von S. Maria in Valle zu Cividale. DafÅr erhÑlt er von
+dieser zwei Mark Silber.
+
+REG$Ulrich Mucho verzichtet auf seine Rechte an einer Hube in Chiasacco zugunsten
+der ébtissin Hert?adis von S. Maria in Valle zu Cividale fÅr das Seelenheil
+der Eltern und Erben seiner Frau Richisa und fÅr zwei Mark Silber.
+F$BCU Ms. 1223,1/041/73/73
+F$BCU Ms. Joppi 368 Fasz. 5/47/1f/1
+F$Novello/04/1ff/1
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Ulrich Mucho/X/Cusano/Cusano//Friaul-West/
+H$Verzicht/Immobilien/Chiazzacco/Chiazzacco/Chiasacco/wo?
+W$X/X
+O$2/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro duo marchis argenti refutavit prescriptum mansum
+B$zu cvall2 gehîrig ?
+
+  ?anderes Datum? 10.7. Cussano
+REG$Richisa vollzieht ihrerseits diesen Ausgleich (Odoricus Mucha verzichtet
+zugunsten von Seelenheil und Geld auf die Hube) unter einer Strafbestimmung
+in der Hîhe von 10 Mark.
+F$BCU Ms. 1223,1/041/73/73
+F$BCU Ms. Joppi 368 Fasz. 5/47/1f/2
+F$Novello/04/1ff/2
+G$Richisa Mucho/X/Cusano/Cusano//Friaul-West/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena decem marcharum
+B$zu cvall1 gehîrig
+
+DOK$cval_06/1205.9.19/1205.9.19/1205 September 19/anno domini MCCV, XII. die
+exeunte Sept. indic. VIII/Cividale/Cividale//Friaul-Ost/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$ébtissin Sophia von S. Maria in Valle zu Cividale investiert Magister Konrad,
+Johannes und Maria, Sîhne und Tochter des Wariend und der Kunigunde, mit einem
+baiarcium zu Porta Brossana.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale investiert Magister Konrad,
+Johannes und Maria, Sîhne und Tochter des Wariend und der Kunigunde, mit einem
+baiarcium zu Porta Brossana, wofÅr sie von Wariend vier Mark erhÑlt.?
+F$BCU Ms. 1223,1/176/261/261
+G$Wariend/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Investitur/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit nobis dictus Wariendus quattuor marcas
+B$nach dem Original gearbeitet
+
+DOK$cval_07/1211.12.2/1211.12.6/1211? Dezember 2 - 6/anno domini \dots III non.
+Dezembris, ind. XIIII/Cividale/Cividale//Friaul-Ost/
+S$Leonhard/kaiserl. Notar/Leonhard
+V$Leonhard/kaiserl. Notar/Leonhard
+K$Bonazul verkauft Heimo GÅter in Cividale zum Preis von 3 Mark.?
+
+REG$Bonazul verkauft Heimo GÅter in Cividale zum Preis von 3 Mark. ?
+F$BCU Ms. 1223,1/086/134/134
+G$Heimo/X/X/X//
+E$Bonazul?/X/X/X//
+H$Kauf/Immobilien/Cividale/Cividale?//Friaul-Ost/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio III marcarum
+B$Durch Flecken am linken und rechten Rand zu gro·en Teilen unleserliches
+Original.
+
+DOK$cval_09/1212.2.24/1212.2.24/1212 Februar 24/anno domini MCCXII V. die
+exeunte febr., indict. XV/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$ébtissin Sophia von S. Maria in Valle zu Cividale erhÑlt kraft Urteilspruchs
+ein GrundstÅck in Porta Brossana von Richer, einem Familiaren des Klosters, um
+es nach Belieben weiterzuvergeben, und sie investiert damit die BrÅder Juan und
+Bussinut [?] gegen jÑhrlichen Zins.
+
+REG$Juan und Bussinut zahlen ébtissin Sophia von S. Maria in Valle zu Cividale fÅr
+die Investitur mit einem GrundstÅck in Porta Brossana 8 Mark. ?
+F$BCU Ms. 1223,1/090/137/137
+F$MAN SM Valle/045/41/41
+G$Juan;Bussinut/X/X/X//
+E$Sophia/ébtissin/Cividale/Cividale,S.M.Valle//Friaul-Ost/
+H$Investitur/Immobilien/Cividale Porta Brossana/Cividale,Porta Brossana// ?
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro octo marchis
+
+DOK$cval_10/1212.12.2/1212.12.2?/1212 Dezember 2/anno domini MCCXII, IV non.
+decem. ind. XV/Prestento/Prestento//Friaul-Ost/
+S$Leonhard/kaiserl. Notar/Leonhard
+V$Leonhard/kaiserl. Notar/Leonhard
+K$Aricolus von Prestento urkundet fÅr Johannes von Cividale, Sohn des Arpo,
+wegen Anrechten auf "Castenetto" (dem Kloster S. Maria in Valle zu Cividale
+gehîrig).
+
+REG$Johannes von Cividale, der Sohn des Arpo, kauft von Aricolus von Prestento ein
+GrundstÅck? zum Preis von 2 Mark und 16 Pfennigen Agleier MÅnze.
+F$BCU Ms. 1223,2/054/118/118
+G$Johannes/X/Cividale/Cividale//Friaul-Ost/
+E$Aricolus/X/Prestento/Prestento//Friaul-Ost/
+H$Kauf/Immobilien/Prestento/Prestento//Friaul-Ost/
+W$Aquileia/moneta/
+O$2/marca/X
+Z$X/X/X
+M$16/den./X/A
+Q$pro precio duarum marcarum et XVI den. Aquilegensis monete
+
+DOK$cval_13/1222.3.10/1222.3.10/1222 MÑrz 10/anno domini MCCXXII. X. die
+intrante martio indict. X. /Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Businardus, der Sohn des Karl von Villalta, urkundet mit Zustimmung des Ortolf
+von Partistagno fÅr Juvan Button wegen einer Besitzung zu Rivula.
+
+REG$Strafbestimmung in der Hîhe von 10 Mark.
+F$BCU Ms. 1223,1/177/261/261
+G$Businard/Genannter/Villalta/Villalta//wo??
+E$Juvan Button/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena X marcarum ?
+
+DOK$cval_14/1222.8.17/1222.8.17/1222 August 17/anno domini MCCXXII. XV. die
+exeunte augusto indictione X./Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Richter
+Ognibene mit einer Hube in der villa S. Eliseo am Ort Casari und mit GÅtern zu
+Erisano zu einem jÑhrlichen Zins in der Hîhe von 8 Pfennigen Agleier MÅnze.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Richter
+Ognibene mit einer Hube in der villa S. Eliseo am Ort Casari und mit GÅtern zu
+Erisano. Au·erdem wird vereinbart, da· die ébtissin ein Vorkaufsrecht um einen
+Preis, der um 8 Pfennige geringer als der SchÑtzwert? ist, besitzen soll.
+F$BCU Ms. 1223,2/179/347/347
+F$Novello/13/1f/2
+G$Ognibene/Richter/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Kauf_Abschlag/Immobilien/S.Eliseo;uFriaul_Mitte/S.Eliseo;Erisano?//Friaul-Mitte/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$vendere octo denarios minus iusto precio
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Richter
+Ognibene mit einer Hube in der villa S. Eliseo am Ort Casari und mit GÅtern zu
+Erisano zu einem jÑhrlichen Zins in der Hîhe von 8 Pfennigen Agleier MÅnze.
+F$BCU Ms. 1223,2/179/347/347
+F$Novello/13/1f/2
+G$Ognibene/Richter/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/S.Eliseo;uFriaul_Mitte/S.Eliseo;Erisano?//Friaul- Mitte/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$solvendo annuatim \dots octo denarios Aquilegensis monete
+
+DOK$cval_15/1222.9.13/1222.9.13/1222 September 13/anno domini MCCXXII. XIII. die
+intrante Septembre indictione X./Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$ébtissin Sophia von S. Maria in Valle zu Cividale ÅberlÑ·t dem Carutto
+Carpentario eine MÅhle am Natisone gegen einen jÑhrlichen Zins.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale ÅberlÑ·t dem Carutto
+Carpentario eine MÅhle am Natisone gegen einen jÑhrlichen Zins in der Hîhe
+von unter anderem 2 Mark Pfennigen. ?
+F$BCU Ms. 1223,1/094/140/140
+F$Novello/14/1ff/2
+G$Carutto Carpentario/X/X/X//
+E$X/Kloster/Cividale/Cividale,SM Valle//Friaul-Ost    ?
+H$Zinsleistung/Immobilien_MÅhle/Natisone/Natisone//Friaul-Ost    ?
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$duas marchas denariorum dedit
+
+REG$Strafbestimmung in der Hîhe von 5 Mark.
+F$BCU Ms. 1223,1/094/140/140
+F$Novello/14/1ff/2
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Carutto Carpentario/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena quinque marcharum
+
+DOK$cval_18/1225.1.25/1225.1.25/1225 JÑnner 25/anno domini MCCXXV. indict.
+XIII. VII. die exeunte ianuar./Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$ébtissin Sophia von S. Maria in Valle zu Cividale verleiht dem Friedrich von
+Barbana und einigen von dessen Verwandten eine Roggia mit zwei MÅhlen in
+Villanova del Judri gegen einen jÑhrlichen Zins.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale verleiht dem Friedrich von
+Barbana und einigen von dessen Verwandten eine Roggia mit zwei MÅhlen in
+Villanova del Judri gegen einen jÑhrlichen Zins. Au·erdem wird vereinbart, da·
+die ébtissin ein Vorkaufsrecht um einen Preis, der um 8 Pfennige geringer als
+der SchÑtzwert? ist, besitzen soll.
+F$BCU Ms. 1223,2/197/372/372
+G$Friedrich/Genannter/Barbana/Barbana di Bigliana//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Kauf_Abschlag/Immobilien/Villanova/Villanova//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII denarios minus iusto precio
+
+DOK$cval_19/1227.10.28/1227.10.28/1227 Oktober 28/anno domini MCCXXVII.
+indictione X. die quarta exeunti octubri/Cividale/Cividale//Friaul-Ost/
+S$Nikolaus v.Gagliano/kaiserl. Notar/Nikolaus v.Gagliano
+V$Nikolaus v.Gagliano/kaiserl. Notar/Nikolaus v.Gagliano
+K$égidius, der Sohn des Rudolf von Grupignano, und Laurentius \dots kommen dahin
+Åberein, da· égidius dem Laurentius fÅr eine Wiese in Moimacco einen gewissen
+Zins zu entrichten habe [?].
+
+REG$égidius, der Sohn des Rudolf von Grupignano, und Laurentius \dots kommen dahin
+Åberein, da· égidius dem Laurentius fÅr eine Wiese in Moimacco einen gewissen
+Zins zu entrichten habe [?], nÑmlich jÑhrlich an zwei festgesetzten Terminen
+jeweils 4 Pfennige Agleier MÅnze.
+F$MAN SM Valle/137/214/214
+G$Egidius/Genannter/Grupignano/Grupignano//wo?
+E$Laurentius/X/X/X//
+H$Zinsverpflichtung/Immobilien/Moimacco/Moimacco//Friaul-Ost/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$annuatim quatuor denarios Aquilegensis monete
+
+REG$égidius, der Sohn des Rudolf von Grupignano, und Laurentius \dots kommen dahin
+Åberein, da· égidius dem Laurentius fÅr eine Wiese in Moimacco einen gewissen
+Zins zu entrichten habe [?], nÑmlich jÑhrlich an zwei festgesetzten Terminen
+jeweils 4 Pfennige Agleier MÅnze.
+F$MAN SM Valle/137/214/214
+G$Egidius/X/Grupignano/Grupignano//wo?
+E$Laurentius/X/X/X//
+H$Zinsverpflichtung/Immobilien/Moimacco/Moimacco//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$quatuor denarios
+
+DOK$cval_20/1230.3.25/1230.3.25/1230 MÑrz 25/anno domini MCCXXX. indictione
+tertia VII. die exeunti mens. Martii/Cividale/Cividale//Friaul-Ost/
+S$Konrad/kaiserl. Notar/Konrad
+V$Konrad/kaiserl. Notar/Konrad
+K$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Konrad Porta
+[?] mit einem LandstÅck zu Ronchis di Prestento.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Konrad Porta
+[?] mit einem LandstÅck zu Ronchis di Prestento, wofÅr er 32 Pfennige an sie
+zahlt. ?
+F$MAN SM Valle/170/277/277
+F$Novello/14a/1/1
+G$Konrad Potta/X/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Investitur/Immobilien/Ronchis_diPrestento/Ronchis di Prestento//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$32/den./X/A
+Q$XXXII denarios
+
+DOK$cval_21/1233.9.17/1233.9.17/1233 September 17/anno domini MCCXXXIII.
+indictione sexta
+quarto decimo die exeunte septembri/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob  wieso immer Jakob von Cividale?
+K$ébtissin Sophia von S. Maria in Valle zu Cividale verleiht dem Heinrich
+Musarotta und dessen Frau Palma eine Hube in der villa Brazzano.
+
+REG$Zulian und seine Frau Cordula geben zum Preis von 12 Mark
+Pfennigen Agleier MÅnze, die sie von Heinrich Musarotta und dessen Frau Palma
+erhalten haben, eine Hube in der villa Brazzano, die sie vom Kloster hatten, an
+ébtissin Sophia zurÅck.
+F$BCU Ms. 1223,1/033/39/39
+F$Novello/15/1f/1
+G$Heinrich Musarotta/X/X/X//
+E$Zulian;Cordula/X/X/X//
+H$Verzicht/Immobilien/Brazzano/Brazzano//Friaul-Ost/
+W$Aquileia/moneta/
+O$12/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$precio duodiecim marcharum denariorum Aquilejensis monete
+
+DOK$cval_22/1234.5.12/1234.5.12/1234 Mai 12/anno domini MCCXXXIIII. indic.
+VII. XII. intrante madio /Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$ébtissin Sophia von S. Maria in Valle zu Cividale und ihre genannten
+Klosterschwestern schlie·en ein TauschgeschÑft mit Johannes de Monasterio und
+Jakob von Orzone.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale und ihre genannten
+Klosterschwestern schlie·en ein TauschgeschÑft mit Johannes de Monasterio und
+Jakob von Orzone, wobei eine Ausgleichszahlung in der Hîhe von 2 Mark Pfennigen
+Agleier MÅnze an das Kloster? vereinbart wird.
+F$BCU Ms. 1223,1/178/262/262
+F$MAN SM Valle/046/41/41
+G$Johannes/Genannter/Monastero/Monastero//wo?              ?
+G$Jakob/Genannter/Orzano/Orzano//Friaul-Ost              ?
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost    ?
+H$Tausch_Ausgleich/Immobilien/Gagliano etc./Gagliano etc.//Friaul-Ost/
+W$Aquileia/moneta/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$duas marcas denariorum Aquilegensis monete
+B$Tesoro, nach dem handschriftlichen Regest gearbeitet
+
+DOK$cval_23/1235.2.28/1235.2.28/1235 Februar 28/anno domini MCCXXXV. ind. VIII.
+ultima die exeunte mense febrarii/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Heinrich von Villalta erhÑlt von der ébtissin Sophia von S. Maria in Valle zu
+Cividale 26 Mark Agleier MÅnze und eine Wiese in Tezano und Åbergibt dafÅr dem
+Grafen Meinhard von Gîrz die gesamte Vogtei, die er in Prapot innehatte, unter
+der Bedingung, da· der Graf die Vogtei dem Patriarchen von Aquileia weitergebe.
+Dies geschieht, und der Patriarch gibt die Vogtei der genannten ébtissin namens
+ihres Klosters weiter.
+
+REG$Heinrich von Villalta erhÑlt von der ébtissin Sophia von S. Maria in Valle zu
+Cividale 26 Mark Agleier MÅnze und eine Wiese in Tezano und Åbergibt dafÅr dem
+Grafen Meinhard von Gîrz die gesamte Vogtei, die er in Prapot innehatte, unter
+der Bedingung, da· der Graf die Vogtei dem Patriarchen von Aquileia weitergebe.
+Dies geschieht, und der Patriarch gibt die Vogtei der genannten ébtissin namens
+ihres Klosters weiter.
+F$SM Valle/?/25f/25
+F$BCU Ms. 1223,2/087/169/169   hier: Giacomo?
+F$ACU Coll. Bini DH IV/10/1ff/1
+F$MAN SM Valle/107/137/137
+F$MAN SM Valle/108/138/138
+F$Novello/16/1ff/1
+F$AT NS 11/17/400f/400
+F$AôG 21 Bianchi/116/210/210
+F$Reg. Gîrz 1/461/123/123
+F$Manzano AF 2/X/319/319
+F$Kos 5/626/298f/298
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost    eig.Sophia?
+E$Heinrich/Genannter/Villalta/Villalta//Friaul-Mitte/
+H$Verzicht/Vogtei/Prepotto/Prepotto//Friaul-Ost/
+W$Aquileia/moneta/
+O$26/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio XXVI marcharum aquilegensis monete
+B$Bianchi nennt 25 Mark, Wiesflecker 24 Mark.
+ACU Coll. Bini DH IV Nr. 10 nennt 25 Mark.
+
+DOK$cval_26/1241.1.27/1241.1.27/1241 (oder 1240) JÑnner 27/anno domini MCCXLI.
+indictione XIIII. quinto die exeunte Ianuarii/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Das Kloster S. Maria in Valle zu Cividale gestattet, da· Carutto den Corre
+und dessen Erben mit einem sedimen in Prestento investiert.
+
+REG$Das Kloster S. Maria in Valle zu Cividale gestattet, da· Carutto den Corre
+und dessen Erben mit einem sedimen in Prestento investiert, wofÅr Carutto
+18 Agleier Pfennige bezahlt.
+F$MAN SM Valle/167/263/263
+F$BCU Ms. 1223,1/243/121/121
+F$Novello/18/1/1
+G$Carutto/X/X/X/X             ?
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Investitur/Immobilien/Prestento/Prestento//Friaul-Ost/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$XVIII den. aquilegen.
+B$Tesoro, nach dem Regest gearbeitet
+
+REG$NN
+F$MAN SM Valle/167/263/263
+F$BCU Ms. 1223,1/243/121/121
+F$Novello/18/1/1
+G$Carutto/X/X/X//             ?
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$N/Immobilien/Prestento/Prestento//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III den.
+
+DOK$cval_28/1243.7.14/1243.7.14/1243 Juli 14/anno domini MCCXLIII. indictione
+prima, quarto decimo die intrante Iuglio/Cividale/Cividale//Friaul-Ost/
+S$Heinrich/kaiserl. Notar/Heinrich
+V$Heinrich/kaiserl. Notar/Heinrich
+K$ébtissin Gisela von S. Maria in Valle zu Cividale einerseits und Meinhard
+Belhivalerund dessen Sîhne andererseits einigen sich in ihrem Streit um den
+Besitz dreier Knechte auf ein Schiedsgericht.
+
+REG$ébtissin Gisela von S. Maria in Valle zu Cividale einerseits und Meinhard
+Belhuiana und dessen Sîhne andererseits einigen sich in ihrem Streit um den
+Besitz dreier Knechte auf ein Schiedsgericht unter Strafe von 10 Mark.
+F$BCU Ms. 1223,1/095/141/141
+F$Novello/20/1f/2
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Meinhard Belhuiana/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena decem marcharum
+
+REG$ébtissin Gisela von S. Maria in Valle zu Cividale einerseits und Meinhard
+Belhuiana und dessen Sîhne andererseits einigen sich in ihrem Streit um den
+Besitz dreier Knechte auf ein Schiedsgericht, die bestimmen, da· Meynard fÅr den
+Verzicht auf die drei fÅnf Mark vom Kloster erhalten soll.
+F$BCU Ms. 1223,1/095/141/141
+F$Novello/20/1f/2
+F$NAV NS 12/X/325/325
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Meinhard Belhuiana/X/X/X//
+H$Ablîse/Hîrige/unbestimmt/unbestimmt//   Kauf?
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Meynardus cum filiis debent habere a monasterio pro servis quinque marchas
+
+REG$ébtissin Gisela von S. Maria in Valle zu Cividale einerseits und Meinhard
+Belhuiana und dessen Sîhne andererseits einigen sich in ihrem Streit um den
+Besitz dreier Knechte auf ein Schiedsgericht unter Strafe von 10 Mark.
+F$BCU Ms. 1223,1/095/141/141
+F$Novello/20/1f/2
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Meinhard Belhuiana/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena decem marcharum
+
+DOK$cval_29/1243.9.27/1243.9.27/1243 September 27/anno domini MCCXLIII.
+indictione prima quarto die exeunte septembre/Cividale/Cividale//Friaul-Ost/
+S$Anselm/kaiserl. Notar/Anselm
+V$Anselm/kaiserl. Notar/Anselm
+K$Pano, Johannes und Dominikus von Pizori?, erklÑren, zur Zahlung eines
+jÑhrlichen Zinses an das Kloster S. Maria in Valle zu Cividale verpflichtet zu
+sein.
+
+REG$Pano, Johannes und Dominikus von Pizori?, erklÑren, zur Zahlung eines
+jÑhrlichen Zinses von unter anderem 6 Pfund Pfennigen an das Kloster S. Maria in
+Valle zu Cividale verpflichtet zu sein.
+F$BCU Ms. 1223,1/010/12/12
+F$Novello/21/1f/1
+G$Pano;Johannes;Dominikus/Genannter/Picon/Picon di Castello del Monte
+Udinese/Pizori/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Picon/Picon di Castello del Monte Udinese/Picone?/
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sex libras denariorum
+B$zu cvall23 gehîrend, Angabe "Land" daraus erschlossen, da· es sich um
+"coloni" handelt, Angabe "Ort" aus dem Namen der Bauern geschlossen,
+Angelegenheit in eigener Sache, da mehrere Bauern in der Urkunde
+genannt  ?
+
+REG$Pano, Johannes und Dominikus von Pizori?, erklÑren, zur Ablîse von
+Dienstleistungen in der Hîhe von 28 Pfennigen ?
+zur Zahlung eines jÑhrlichen Zinses von unter anderem 28 Pfennigen ?
+an das Kloster S. Maria in Valle zu Cividale verpflichtet zu sein.
+F$BCU Ms. 1223,1/010/12/12
+F$Novello/21/1f/1
+G$Pano;Johannes;Dominikus/Genannter/Picon/Picon di Castello del Monte
+Udinese/Pizori/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Ablîse/Dienstleistungen/Picon/Picon di Castello del Monte Udinese/Picone
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$28/den./X/Z
+Q$item viginti octo denarios pro pluribus serviciis in eodem festo
+
+REG$Dominikus, Dominikus und Stoian de Alzeda erklÑren, zur Zahlung eines
+jÑhrlichen Zinses an das Kloster S. Maria in Valle zu Cividale verpflichtet zu
+sein, wobei die beiden Dominikus 19 Pfennige und Stoian 4 Pfennige zu
+entrichten haben.
+F$BCU Ms. 1223,1/010/12/12
+F$Novello/21/1f/1
+G$Dominikus;Dominikus;/Genannter/Azzida/Azzida con S.Pietro al Natisone/Alzeda/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Azzida/Azzida con S.Pietro al Natisone/Alzeda?/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$19/den./X/Z
+Q$decem et novem denarios in festo Sancti Mauri
+B$zu cvall23 gehîrend, Angabe "Land" daraus erschlossen, da· es sich um
+"coloni" handelt, Angabe "Ort" aus dem Namen der Bauern geschlossen,
+Angelegenheit in eigener Sache, da mehrere Bauern in der Urkunde
+genannt  ?
+
+REG$Dominikus, Dominikus und Stoian de Alzeda erklÑren, zur Zahlung eines
+jÑhrlichen Zinses an das Kloster S. Maria in Valle zu Cividale verpflichtet zu
+sein, wobei die beiden Dominikus 19 Pfennige und Stoian 4 Pfennige zu
+entrichten haben.
+F$BCU Ms. 1223,1/010/12/12
+F$Novello/21/1f/1
+G$Stoian/Genannter/Azzida/Azzida con S.Pietro al Natisone/Alzeda/
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Azzida/Azzida con S.Pietro al Natisone/Alzeda?/Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$Stoian quatuor denarios
+B$zu cvall23 gehîrend, Angabe "Land" daraus erschlossen, da· es sich um
+"coloni" handelt, Angabe "Ort" aus dem Namen der Bauern geschlossen,
+Angelegenheit in eigener Sache, da mehrere Bauern in der Urkunde
+genannt  ?
+
+DOK$cval_30/1243.10.6/1243.10.6/1243 Oktober 6/anno domini MCCXLIII. indictione
+prima die sexto intrante octubri/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$ébtissin Sophia von S. Maria in Valle zu Cividale verleiht dem Dominicus,
+Dekan von Villanova, und dessen Erben, eine Roggia mit zwei MÅhlen gegen
+jÑhrlichen Zins.
+
+REG$ébtissin Sophia von S. Maria in Valle zu Cividale investiert den Dominikus,
+Dekan von Villanova und dessen Erben mit einem Wasserlauf samt
+zwei MÅhlen zwischen Brazzano und Villanova del Judri gegen jÑhrlichen Zins.
+Au·erdem wird vereinbart, da· die ébtissin ein Vorkaufsrecht um einen Preis,
+der um 8 Pfennige geringer als der SchÑtzwert? ist, besitzen soll.
+F$BCU Ms. 1223,2/027/43/43
+F$Novello/22/1ff/2
+G$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+E$Domenikus/Dekan/Villanova/Villanova//Friaul-Ost/
+E$X/X/X/X//
+H$Kauf_Abschlag/Immobilien_MÅhlen/Villanova/Villanova//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$eidem dare octo denarios minus iusto precio
+
+DOK$cval_31/1243.11.5/1243.11.5/1243 November 5/anno domini MCCXLIII. indictione
+prima V. die intrante Novembris/Villalta/Villalta//Friaul-Mitte/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Johannes Sbrul, Arzt von Cividale, urkundet fÅr Andreas Tirello wegen
+Rechten an einem Haus in Cividale in der Contrata S. Maria.
+
+REG$Johannes Sbrul, Arzt von Cividale verkauft dem Andreas Tirello ein Haus in
+Cividale zum Preis von 17,5 Mark Pfennigen Agleier MÅnze.  ?
+F$BCU Ms. 1223,1/096/142/142
+G$Andreas Tirello/X/X/X//
+E$Zuanne Sbrui/Arzt/Cividale/Cividale//Friaul-Ost/
+H$Kauf/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$17,5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio XVII marcarum et dimidium denariorum Aquilegensis monete
+
+REG$Johannes Sbrui, Arzt von Cividale verkauft dem Andreas Tirello ein Haus in
+Cividale zum Preis von 17,5 Mark Pfennigen Agleier MÅnze, wofÅr Andreas dem
+Heinrich? einen jÑhrlichen Zins in der Hîhe von 32 Agleier Pfennigen zu bezahlen
+hat.
+F$BCU Ms. 1223,1/096/142/142
+G$Andreas Tirello/X/X/X//
+E$Heinrich/X/X/X//
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$32/den./X/Z
+Q$XXXII den. de Aquilegia
+
+REG$Johannes Sbrui, Arzt von Cividale verkauft dem Andreas Tirello ein Haus in
+Cividale zum Preis von 17,5 Mark Pfennigen Agleier MÅnze.  ?
+Au·erdem wird vereinbart, da· Heinrich? ein Vorkaufsrecht um einen Preis,
+der um 8 Pfennige geringer als der SchÑtzwert? ist, besitzen soll.
+F$BCU Ms. 1223,1/096/142/142
+G$Andreas Tirello/X/X/X//
+E$Heinrich/X/X/X//?
+H$Kauf_Abschlag/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$dare  VIII den. minus iusto precio
+
+DOK$cval_34/1244.7.15/1244.7.15/1244 Juli 15/anno domini MCCXLIIII. indictione
+secunda die quinto decimo mense intrante iulii/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Frau Cesera Åbergibt zu ihrem und ihrer Eltern Seelenheil den Berthold und
+dessen Frau Erbura, deren Sohn Pilgrim wie deren gesamte Nachkommenschaft der
+ébtissin Gisela bzw. dem Kloster S. Maria zu Cividale.
+
+REG$Frau Cesera Åbergibt zu ihrem und ihrer Eltern Seelenheil den Berthold und
+dessen Frau Erbura, deren Sohn Pilgrim wie deren gesamte Nachkommenschaft der
+ébtissin Gisela bzw. dem Kloster S. Maria zu Cividale. Die Ñlteren Hîrigen haben
+einen jÑhrlichen Zensus in der Hîhe von drei Agleier Pfennigen zu zahlen, nach
+dem Tod von Frau Ceserea aber 6 Agleier Pfennige fÅr ihr Anniversar.
+F$BCU Ms. 1223,1/097/143/143
+F$Novello/24/1f/1
+G$Bertold/Hîriger/X/X//
+G$Erbura/Hîrige/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Hîrige/Cividale/Cividale?//Friaul-Ost?/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$solvere debent nomine census singulis annis tres denarios aquileiensis
+
+REG$Frau Cesera Åbergibt zu ihrem und ihrer Eltern Seelenheil den Berthold und
+dessen Frau Erbura, deren Sohn Pilgrim wie deren gesamte Nachkommenschaft der
+ébtissin Gisela bzw. dem Kloster S. Maria zu Cividale. Die Ñlteren Hîrigen haben
+einen jÑhrlichen Zensus in der Hîhe von drei Agleier Pfennigen zu zahlen, nach
+dem Tod von Frau Ceserea aber 6 Agleier Pfennige fÅr ihr Anniversar.
+F$BCU Ms. 1223,1/097/143/143
+F$Novello/24/1f/1
+G$Bertold/Hîriger/X/X//
+G$Erbura/Hîrige/X/X//
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Hîrige/Cividale/Cividale?//Friaul-Ost?/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$solvere debent nomine census \dots sex denarios Aquileienses ad celebrandos
+sex missas
+
+DOK$cval_35/1245.2.5/1245.2.5/1245 Februar 5/anno domini MCCXLV indictione
+tertia quinto die intr. februario/ Cividale/ Cividale//Friaul-Ost/
+S$Anselm/kaiserl. Notar/Anselm  wieso von Cividale?
+V$Anselm/kaiserl. Notar/Anselm
+K$Herbord, der Sohn des Ulrich Gallina, urkundet wegen einer MÅhle in Porta
+Brossana.
+
+REG$Herbord, der Sohn des Ulrich Gallina, investiert Moltinus und seine drei
+BrÅder mit einer MÅhle in Porta Brossana gegen jÑhrlichen Zins.
+Au·erdem wird vereinbart, da· Herbord ein Vorkaufsrecht um einen Preis,
+der um 8 Pfennige geringer als der SchÑtzwert? ist, besitzen soll.
+F$BCU Ms. 1223,1/179/263/263
+G$Moltinus?/Genannter/Friaul_Ost S.Giorgio/S. Giorgio//wo?
+E$Herbord/X/X/X//
+H$Kauf_Abschlag/Immobilien/Cividale Porta Brossana/Cividale,Porta Brossana//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$dare sibi VIII denarios minus iusto precio
+
+DOK$cval_37/1248.6.3/1248.6.3/1248 Juni 3/anno domini MCCXLVIII. indict. VI.
+die III. intrante iunio/Cividale/Cividale//Friaul-Ost/
+S$Jakob/Cividale?/Jakob
+V$Jakob/Cividale?/Jakob
+K$Der Goldschmied Konrad urkundet fÅr Andreas Tirellus wegen eines Hauses vor
+der Porta Brossana zu Cividale.
+
+REG$Der Goldschmied Konrad verkauft Andreas Tirellus und dessen Frau ein Haus vor
+der Porta Brossana zu Cividale zum Preis von 3 Mark Pfennigen Agleier MÅnze
+minus 40 Pfennigen.
+F$BCU Ms. 1223,1/181/265/265
+G$Andreas Tirellus/X/X/X//
+E$Konrad/Goldschmied/Cividale/Cividale!//Friaul-Ost/
+H$Kauf/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$40/den./minus/A
+Q$pro precio III marcarum denariorum monete Aquilegensis minus 40 denariis
+
+DOK$cval_39/1250.11.6/1250.11.6/1250 November 6/1250
+ind.8/Cividale/Cividale//Friaul-Ost/
+S$Jakob/X/Jakob
+V$Jakob/X/Jakob
+K$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina". zu akau 99
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina" um 44 Mark Agleier MÅnze, Pînale.
+F$SM Valle 2/Nr. 53/?/?
+F$AôG 21 Bianchi/173/384/384
+F$Novello Azienda App. II/27/1ff/1   Novello gleich akap 144 November 6?
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Kauf/Immobilien/Stregna/Stregna//Friaul-Ost/
+W$Aquileia/moneta/
+O$44/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quadraginta quattuor marchas monete Aquileiensis;qui solvere \dots
+duas marchas
+B$zu cvall 28 gehîrig
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen in
+der "villa Sdreina" um 44 Mark Agleier MÅnze, welche jÑhrlich zweieinhalb Mark
+zahlen mÅssen.
+F$Novello Azienda App. II/27/1ff/2
+G$X/X/X/X//
+E$Gisela/ébtissin/Cividale/Cividale_SM Valle//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Stregna/Stregna?//Friaul-Ost?/
+W$X/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$qui solvere debent singulis annis duas marchas et dimidiam
+B$Dazu Siegelurkunde vorhanden, datiert mit 1250 (Bini DH V Nr. 27).
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina" um 44 Mark Agleier MÅnze, Pînale I.
+F$SM Valle 2/r. 53/?/?
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Straferleichterung/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./minus
+M$X/X/X/Z
+Q$sub pena dupli minus quinque soldis
+B$zu cvall 27 gehîrig. "Non numerati denarii" ohne Zahlenangabe
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina" um 44 Mark Agleier MÅnze, Pînale II.
+F$SM Valle 2/r. 53/?/?
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena centum marcharum
+B$zu cvall 27 gehîrig. "Non numerati denarii" ohne Zahlenangabe
+
+DOK$cval_40/1250.11.7/1250.11.7/1250 nach November 6/1250
+ind.8/Cividale/Cividale//Friaul-Ost/
+S$Konrad/X/Konrad
+V$Konrad/X/Konrad      zu akau 99
+K$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina". Notar Konrad.
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina" um 44 Mark Agleier MÅnze, Pînale.
+F$SM Valle 2/Nr. 53?/?/?
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Kauf/Immobilien/Stregna/Stregna//Friaul-Ost/
+W$Aquileia/moneta/
+O$44/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quadraginta quattuor marchas monete Aquileiensis;qui solvere \dots
+duas marchas
+B$zu cvall 28 gehîrig
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen in
+der "villa Sdreina" um 44 Mark Agleier MÅnze, welche jÑhrlich zweieinhalb Mark
+zahlen mÅssen.
+F$Novello Azienda App. II/27/1ff/2
+G$X/X/X/X//
+E$Gisela/ébtissin/Cividale/Cividale_SM Valle//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Stregna/Stregna?//Friaul-Ost?/
+W$X/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$qui solvere debent singulis annis duas marchas et dimidiam
+B$Dazu Siegelurkunde vorhanden, datiert mit 1250 (Bini DH V Nr. 27).
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina" um 44 Mark Agleier MÅnze, Pînale I.
+F$SM Valle 2/r. 53?/?/?
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Straferleichterung/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./minus
+M$X/X/X/Z
+Q$sub pena dupli minus quinque soldis
+B$zu cvall 27 gehîrig. "Non numerati denarii" ohne Zahlenangabe
+
+REG$Patriarch Berthold von Aquileia verkauft mit Zustimmung des Kapitels von
+Aquileia an die ébtissin Gisela von S. Maria in Valle (Cividale) drei Mansen
+in der "villa Sdreina" um 44 Mark Agleier MÅnze, Pînale II.
+F$SM Valle 2/r. 53/?/?
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/sol./X
+M$X/X/X/Z
+Q$sub pena centum marcharum
+B$zu cvall 27 gehîrig. "Non numerati denarii" ohne Zahlenangabe
+Der Verkauf erfolgte mit der öbereinstimmung des Kapitels. Dazu Siegelurkunde
+vorhanden, datiert mit 1250 (Bini DH V Nr. 27).
+
+DOK$cval_41/1251.2.19/1251.2.19/1251 Februar 19/anno eiusdem MCCLI indictione
+nona die undecimo exeunte februario/Cividale/Cividale//Friaul-Ost/
+S$Petrus/Cividale/Petrus
+V$Petrus/Cividale/Petrus
+K$Pilinus, der Sohn des Nikolaus, ÅberlÑ·t der ébtissin Gisela von S. Maria in
+Valle zu Cividale den Berg Cuc.
+
+REG$Pilinus, der Sohn des Nikolaus, ÅberlÑ·t der ébtissin Gisela von S. Maria in
+Valle zu Cividale den Berg Cuc gegen Zahlung von 20 Mark Agleier MÅnze.
+F$BCU Ms. 1223,1/?/12/12
+F$Novello/28/1f/2
+G$Gisela/ébtissin/Cividale/Cividale_SM Valle//Friaul-Ost/
+E$Pilinus/X/X/X//
+H$Ablîse/Immobilien/Cucco/Cucco/Cuc/
+W$Aquileia/moneta/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio viginti marcarum denariorum aquileiensis monete quem precium fuit
+confessus se habuisse et recipisse
+
+REG$Strafbestimmung in der Hîhe von des doppelten SchÑtzwertes des genannten
+Berges minus 5 Schillinge.
+F$BCU Ms. 1223,1/?/12/12
+F$Novello/28/1f/2
+G$Pilinus/X/X/X//
+E$Gisela/ébtissin/Cividale/Cividale_SM Valle//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./minus
+M$X/X/X/Z
+Q$sub pena dupli extimationis dicti montis minus quinque soldi
+
+DOK$cval_42/1251.4.22/1251.4.22/1251 April 22/anno domini MCCLI indictione
+nona die nono exeunte aprili/Cividale/Cividale//Friaul-Ost/
+S$Anselm/Cividale/Anselm
+V$Anselm/Cividale/Anselm
+K$Konrad, der Sohn des Leonhard Scuxonus von Prestento, verkauft der ébtissin
+Gisela und dem Konvent von S. Maria in Valle zu Cividale, ein baiarcium zu
+Prestento.
+
+REG$Konrad, der Sohn des Leonhard Scuxonus von Prestento, verkauft der ébtissin
+Gisela und dem Konvent von S. Maria in Valle zu Cividale, ein baiarcium zu
+Prestento zum Preis von 3 Mark Agleier MÅnze.
+F$BCU Ms. 1229,2/057/119/119
+F$Novello/29/1f/1
+G$Gisela/ébtissin/Cividale/Cividale_SM Valle//Friaul-Ost/
+E$Konrad/Genannter/Prestento/Prestento//wo??
+H$Kauf/Immobilien/Prestento/Prestento//wo??
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio trium marcharum Aquileiensis monete
+
+DOK$cval_43/1251.5.25/1251.5.25/1251 Mai 25/anno domini MCCLI. indictione
+VIIII. die VII. exeunte maio/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Die Sabbadini von Antro urkunden fÅr Rudolf, Jakob und Balsulus wegen der
+Abtretung eines Hauses.
+
+REG$Die Sabbadini von Antro urkunden fÅr Rudolf, Jakob und Balsulus wegen der
+Abtretung eines Hauses zum Preis von 3 Mark Pfennigen Agleier MÅnze.
+F$BCU Ms. 1223,1/100/146/146
+G$Sabbadino?/Genannte/Antro/Antro//
+E$Rudolf;Jakob;Balsulus/X/X/X//
+H$Kauf/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dederunt atque contulerunt precio tredecim marcarum denariorum monete
+Aquilegensis
+
+REG$NN
+F$BCU Ms. 1223,1/100/146/146
+G$X?/Genannter/Villalta/Villalta//wo??
+E$?/?/X/?//
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$28,5/den./X/Z
+Q$annuatim XXVIII denarios monete Aquilegensis et dimidiam
+
+REG$NN
+F$BCU Ms. 1223,1/100/146/146
+G$?/?/X/?//
+E$?/?/X/?//
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$13/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$debis supradictis XIII marcas denariorum
+
+REG$NN
+F$BCU Ms. 1223,1/100/146/146
+G$?/?/X/?//
+E$?/?/X/?//
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$dimidia marca denariorum
+
+REG$NN
+F$BCU Ms. 1223,1/100/146/146
+G$?/?/X/?//
+E$?/?/X/?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XX marcarum
+
+DOK$cval_44/1251.6.7/1251.6.7/1251 Juni 7/anno domini MCCLI. indictione nona
+die septimo intrante iunio/Cividale/Cividale//Friaul-Ost/
+S$Galvano/Cividale/Galvano
+V$Galvano/Cividale/Galvano
+K$Andreas Tirello kauft ein Haus bei der Kirche St. Peter Åber dem Natisoneufer.
+
+REG$Andreas Tirello kauft ein Haus bei der Kirche St. Peter Åber dem Natisoneufer.
+F$BCU Ms. 1223,1/182/266/266
+G$Andreas Tirello/X/X/X//
+E$?/?/X/?//
+H$Kauf/Immobilien/Cividale/Cividale?//Friaul-Ost/
+W$Aquileia/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro V marcis denariorum Aquilegensis monete
+
+REG$Andreas Tirello kauft ein Haus bei der Kirche St. Peter Åber dem Natisoneufer.
+F$BCU Ms. 1223,1/182/266/266
+G$Andreas Tirello/X/X/X//
+E$?/?/X/?//
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale?//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den.
+
+REG$Strafbestimmung in der Hîhe einer Mark.
+F$BCU Ms. 1223,1/182/266/266
+G$Andreas Tirello/X/X/X//
+E$?/?/X/?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena I marce
+
+DOK$cval_45/1251.7.22/1251.7.22/1251 Juli 22/anno domini MCCLI. indictione
+VIIII. die decimo exeunte Iulii/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Berthold, der Sohn des Rumpold, verkauft ein Haus zu Porta Brossana dem
+Johannes Galigarius.
+
+REG$Berthold, der Sohn des Rumpold, verkauft ein Haus zu Porta Brossana dem
+Johannes Galigarius zum Preis von 6 Mark Pfennigen Agleier MÅnze.
+F$MAN SM Valle/032/32/32
+G$Johannes Galigarius/X/X/X//
+E$Berthold/X/X/X//
+H$Kauf/Immobilien/Cividale Porta Brossana/Cividale,Porta Brossana//
+W$Aquileia/moneta/
+O$6/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio sex marcarum denariorum monete Aquilegensis
+
+DOK$cval_46/1251.10.6/1251.10.6/1251 Oktober 6/anno MCCLI. indictione nona,
+sexto die intrante octubre/Cividale/Cividale//Friaul-Ost/
+S$Jakob/Cividale/Jakob
+V$Jakob/Cividale/Jakob
+K$Otto Bergogna von Spilimbergo Åbergibt dem Kloster S. Maria in Valle zu
+Cividale eine MÅhle an einer Roggia zwischen Brazzano und Villanova, fÅr welche
+der Dekan von Villanova einen Zins an das Kloster gezahlt hatte.
+
+REG$Strafbestimmung in der Hîhe von 50 Mark Agleier Pfennigen.
+F$BCU Ms. 1223,2/029/44/44
+F$Novello/30/1f/1
+G$Otto Bergogna/Genannter/Spilimbergo/Spilimbergo//wo??
+E$SM Valle/Kloster/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$50/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena quinquaginta marcharum denariorum Aquileiensium
+
+REG$Otto Bergogna von Spilimbergo Åbergibt dem Kloster S. Maria in Valle zu
+Cividale eine MÅhle an einer Roggia zwischen Brazzano und Villanova, fÅr welche
+der Dekan von Villanova einen Zins an das Kloster gezahlt hatte.
+F$BCU Ms. 1223,2/029/44/44
+F$Novello/30/1f/1
+G$Gisela/ébtissin/Cividale/Cividale_SM Valle//Friaul-Ost/
+E$Otto Bergogna/Genannter/Spilimbergo/Spilimbergo//wo??
+H$BestÑtigung_öbergabe/Geldsumme/unbestimmt/unbestimmt?//
+W$Aquileia/X/
+O$4/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$marchas quattuor denariorum Aquileiensium accepisse
+
+

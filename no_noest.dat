@@ -1,0 +1,978 @@
+note *** In dieser Datei sind enthalten:
+        Urkunden-Identif. gottw51 = UB Gîttweig (!), FRA II 51
+        Urkunden-Identif. gottw69 = UB Gîttweig (!), FRA II 69
+        Urkunden-Identif. klnbg4 = Klosterneuburg, FRA II 4
+        Urkunden-Identif. seite33 = UB Seitenstetten, FRA II 33
+        Urkunden-Identif. spoelt1 = UB St. Pîlten I
+        Urkunden-Identif. wrneu_01 = Mautordnung Hz. Friedr. II. f. WN
+
+note *** Einlesen der Rohdaten no_noest.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$gottw51_066/1207.1.9/1207.1.31?/1207 [nach JÑnner 8]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold VI. bestÑtigt den Schiedsspruch in dem Streit zwischen Melk und
+Gîttweig um den Besitz zu Maiersch.
+
+REG$Herzog Leopold VI. bestÑtigt den Schiedsspruch in dem Streit zwischen Melk und
+Gîttweig um den Besitz zu Maiersch, wonach Melk gegen 30 Pfund Wiener MÅnze den
+Besitz zu Maiersch abtritt.
+F$FRA II 51/066/83f/83
+G$Wezilo/Abt/Gîttweig/Gîttweig//Nô/
+E$Renold/Abt/Melk/Melk//Nô/
+H$Verzicht/Immobilien/Maiersch/Maiersch//GB Horn/
+W$Wien/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$de triginta libris monete Wiennensis abbatem Medilicensem videlicet Renoldum
+securum reddidit
+B$Da die Urkunde der Schiedsrichter in die Zeit von Februar 22 bis September 23,
+1207 fÑllt (Nr. 64 u. 65) und anzunehmen ist, da· das Stift Gîttweig sich beeilt
+hat, sich diesen Schiedsspruch vom Herzog bestÑtigen zu lassen, so kann diese
+Urkunde noch in das Jahr 1207 nach JÑnner 8 eingereiht werden (Fuchs FRA II
+51 s. 83).
+
+DOK$gottw51_083/1218.6.26/1218.6.26/1218 Juni 26/anno domini MCCXVIII. indictione VI. VI.
+kalendas Iulii/X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold VI. beurkundet den Vergleich zwischen den Geschwistern
+Heinrich, Otto und Heilka von Marsbach einerseits und dem Stifte Gîttweig
+andererseits, wodurch erstere gegen Zahlung von 400 Pfund Wiener MÅnze seitens
+des Stiftes alle AnsprÅche auf benannte GÅter aufgeben.
+
+REG$Herzog Leopold VI. beurkundet? den Vergleich zwischen den Eheleuten Heinrich
+von Chr\o{u}ge und Gisila einerseits und dem Stifte Gîttweig
+andererseits, wodurch erstere gegen Zahlung von 110 Talent seitens
+des Stiftes alle AnsprÅche auf benannte GÅter aufgeben.
+F$FRA II 51/083/95ff/98
+G$X/Stift/Gîttweig/Gîttweig//Nô/
+E$Heinrich/Genannter/Krug/Krug/Chr\o{u}ge/O.M.B./
+E$Gisila/X/X/X//
+H$Verzicht/Immobilien/Kamp/Kamp//O.M.B./
+H$Verzicht/Immobilien/Gîsing/Gîsing/Goznich/U.M.B./
+H$Verzicht/Immobilien/Haitzendorf/Strunzenreut
+(Haitzendorf)/Strvnzenrevt/verschollenes Dorf b.Haitzendorf,GB Krems/
+H$Verzicht/Immobilien/Donaudorf î.Krems/Marchwartesurwar/Marchartesvrvar/verschollener Ort b.Donaudorf î.Krems/
+W$X/X/
+O$110/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$centum et X talenta ipsis persolveret
+B$Fuchs datiert die Vorurkunde, die der genannten zugrundeliegen mu·, mit 18.
+Juni 1217, Lilienfeld (FRA II 51 S. 95f).
+
+REG$Herzog Leopold VI. beurkundet den Vergleich zwischen den Geschwistern
+Heinrich, Otto und Heilka von Marsbach einerseits und dem Stifte Gîttweig
+andererseits, wodurch erstere gegen Zahlung von 400 Pfund Wiener MÅnze seitens
+des Stiftes alle AnsprÅche auf benannte GÅter aufgeben.
+F$FRA II 51/083/95ff/98
+G$X/Stift/Gîttweig/Gîttweig//Nô/
+E$Heinrich;Otto/Genannter/Marsbach/Marsbach//Innviertel/
+E$Heilka/Genannte/Marsbach/Marsbach//Innviertel/
+H$Verzicht/Immobilien/Kamp/Kamp//O.M.B./
+H$Verzicht/Immobilien/Gîsing/Gîsing/Goznich/U.M.B./
+H$Verzicht/Immobilien/Haitzendorf/Strunzenreut/Strvnzenrevt/versch
+ollenes Dorf b.Haitendorf,GB Krems/
+H$Verzicht/Immobilien/Donaudorf
+î.Krems/Marchwartesurwar/Marchartesvrvar/verschollener Ort b.Donaudorf î.Krems/
+W$Wien/moneta/
+O$400/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quadringentas libras Wiennensis monete persolveret
+B$Fuchs datiert die Vorurkunde, die der genannten zugrundeliegen mu·, mit 18.
+Juni 1217, Lilienfeld (FRA II 51 S. 95f).
+
+DOK$gottw51_084/1219.8.23/1219.8.23/1219 August 23/anno ab incarnationis dominice MCCXVIII.
+indictione IIII. X. kalendas septembris/Korneuburg/Korneuburg//U.M.B./
+S$X/X/X
+V$X/X/X
+K$Die ébte von Melk und Gîttweig, der Propst von Ardagger und der Dechant von
+St. Agatha entscheiden einen Streit zwischen dem Stift Seitenstetten und dem
+Pfarrer von MÅhlbach Åber die Kapelle in Elsarn und Åber GÅter in Tulbing.
+
+REG$Abt Dietmar von Seitenstetten und Pfarrer Konrad von MÅhlbach verpflichten
+sich bei Strafe von 40 Pfund Wiener MÅnze, dem Streit zu entsagen und zu
+befolgen, was die Schiedsrichter, die ébte von Melk und Gîttweig, der Propst von
+Ardagger und der Dechant von St. Agatha, hinsichtlich ihres Streites Åber die
+Kapelle in Elsarn und Åber GÅter in Tulbing entscheiden.
+F$FRA II 51/084/99ff/100
+F$FRA II 33/25/34ff/35
+G$Dietmar/Abt/Seitenstetten/Seitenstetten//Nô/
+G$Konrad/Pfarrer/MÅhlbach/MÅhlbach//Ried welches??  z.Hl.Martin
+E$Konrad/Abt/Melk/Melk//Nô/
+E$Wezelo/Abt/Gîttweig/Gîttweig//Nô/
+E$Eberhard/Popst/Ardagger/Ardagger//Nô,n.Amstetten/
+E$Ulrich/Dechant/St.Agatha/St. Agatha//U.M.B./
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$se obligarent XL libris Winensis monete, ut quicquid arbitraremur, ratum
+haberent
+B$Die Jahreszahl und die Indiktion stimmen nicht miteinander Åberein, weil der
+Urkundenschreiber irrtÅmlich Indictio VI statt IIII schrieb (FRA II 51 Nr. 84 S.
+99). Karlin S. 211 spricht von Wr. Neustadt als Ausstellungsort.
+
+REG$Die ébte von Melk und Gîttweig, der Propst von Ardagger und der Dechant von
+St. Agatha entscheiden einen Streit zwischen dem Stift Seitenstetten und dem
+Pfarrer von MÅhlbach Åber die Kapelle in Elsarn und Åber GÅter in Tulbing, da·
+der Priester Almarus, solange er lebt, die Kapelle innehaben und jÑhrlich
+ein halbes Talent Wiener MÅnze dem Pfarrer von MÅhlbach zahlen soll.
+F$FRA II 51/084/99ff/100
+F$FRA II 33/25/34ff/35
+G$Almarus/Priester/X/X//
+E$Konrad/Pfarrer/MÅhlbach/MÅhlbach//Ried welches??
+H$Zahlungsverpflichtung?/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$dimidium talentum Winensis monete plebano de Mulbach persolvat
+B$Die Jahreszahl und die Indiktion stimmen nicht miteinander Åberein, weil der
+Urkundenschreiber irrtÅmlich Indictio VI statt IIII schrieb (FRA II 51 Nr. 84 S.
+99). Karlin S. 211 spricht von Wr. Neustadt als Ausstellungsort.
+
+REG$Die ébte von Melk und Gîttweig, der Propst von Ardagger und der Dechant von
+St. Agatha entscheiden einen Streit zwischen dem Stift Seitenstetten und dem
+Pfarrer von MÅhlbach Åber die Kapelle in Elsarn und Åber GÅter in Tulbing, da·
+nach dem Tod des Priesters Almarus Pfarrer Konrad von MÅhlbach die Kapelle in
+Elsarn und die GÅter in Tulbing innehaben und jÑhrlich 12 Schilling Wiener MÅnze
+dem Abt von Seitenstetten zahlen soll.
+F$FRA II 51/084/99ff/100
+F$FRA II 33/25/34ff/36
+G$Konrad/Pfarrer/MÅhlbach/MÅhlbach//Ried welches??
+E$Dietmar/Abt/Seitenstetten/Seitenstetten//Nô/
+H$Zahlungsverpflichtung?/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/Z
+Q$solvant annuatim \dots XII solidos Winensis monete
+B$Die Jahreszahl und die Indiktion stimmen nicht miteinander Åberein, weil der
+Urkundenschreiber irrtÅmlich Indictio VI statt IIII schrieb (FRA II 51 Nr. 84 S.
+99). Karlin S. 211 spricht von Wr. Neustadt als Ausstellungsort.
+Tulbing und Elsarn sind î.Tulln und i.StrasserTal
+
+DOK$gottw51_096/1222.1.0/1226.10.8/[1222 ca. JÑnner - 1226] Oktober 8/octavo idus
+octobris, papa Honorio in ecclesiam dei regente, Friderico imperatore regnante/Gîttweig/Gîttweig//Nô/
+S$X/X/X
+V$X/X/X
+K$Abt Wezelo von Gîttweig erhÑlt von Graf Siboto von Hernstein den Eselshof zu
+Burgrecht zu einem Jahreszins von einem halben Talent Wiener MÅnze.
+
+REG$Abt Wezelo von Gîttweig erhÑlt von Graf Siboto von Hernstein den Eselshof zu
+Burgrecht zu einem Jahreszins von einem halben Talent Wiener MÅnze.
+F$FRA II 51/096/106ff/107
+G$Wezelo/Abt/Gîttweig/Gîttweig//Nô/
+E$Siboto/Graf/Hernstein/Hernstein//U.W.W./
+H$Zins/Immobilien/Eggendorf Eselhof/Eggendorf (Eselhof)/Eselshof/eingegangen
+b.Eggendorf,GB Mautern/
+W$Wien/moneta/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$resolvunt annuatim de ipsa curia dimidium talentum Winnensis monete
+B$Das vorliegende Datum wird nÑher bestimmt durch die Angabe des Pontificates
+Papst Honorius\'III. (\dag 1227 MÑrz 18). Da nun das Tagesdatum mit October 8
+angegeben ist, so ist der 8. October 1226 der terminus ad quem. Andererseits ist
+der terminus a  quo durch den Regierungsantritt des Bischofes Gebhard von Passau
+c. JÑnner 1222 gegeben (Eubel, Hierarch. 411).
+
+DOK$gottw51_125/1250.11.14/1250.11.14/1250 November 14/anno domini MCCL. XVIII. kalendas
+decembris/Krems/Krems//a.d.Donau/
+S$X/X/X
+V$X/X/X
+K$Abt Heinrich III. von Gîttweig verpfÑndet dem Ritter Albert von Weidling den
+Weinzehnt des Stiftes zu Rechberg fÅr eine Schuld von 18 Pfund Wiener Pfennigen
+auf 6 Jahre, damit er sich davon bezahlt mache.
+
+REG$Abt Heinrich III. von Gîttweig verpfÑndet dem Ritter Albert von Weidling den
+Weinzehnt des Stiftes zu Rechberg fÅr eine Schuld von 18 Pfund Wiener Pfennigen
+auf 6 Jahre, damit er sich davon bezahlt mache.
+F$FRA II 51/125/132ff/133
+G$Albert/Ritter/Altweidling/Altweidling/Weidling/î.Krems O.M.B./
+E$Heinrich III./Abt/Gîttweig/Gîttweig//Nô/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/X/
+O$18/tal./X
+Z$X/X/X
+M$X/X/X/Z?
+Q$controversia verteretur super quadam summa pecunie XVIII talentorum
+Wiennensium videlicet, in qua sibi extitimus debitores
+
+DOK$gottw69_411/1216.0.0/1231.4.16/1216 - 1231 vor April
+17/X/Gîttweig/Gîttweig//Nô/
+S$X/X/X
+V$X/X/X
+K$Der zwischen Gîttweig einerseits und den BrÅdern Ulrich und Heinrich von
+Kierling andererseits wegen der widerrechtlichen Anma·ung der Bergrechts-
+aufzeichnungen des Stiftes Åber das Bergrecht am Regelnperge seitens
+der letzteren ausgebrochene Streit wurde vom Herzog dahin entschieden, da· das
+Bergrecht und dessen Urbar dem Stifte zustehe. Da aber nachtrÑglich beide
+Proze·parteien sich auf ein Schiedsgericht einigten, entschied dieses, da·
+letztere auf die angema·te Vogtei und das Bergrecht auf dem Besitz zu
+Kînigstetten gegen eine Abfindung von 30 Pfund Wiener MÅnze seitens des Abtes
+zu verzichten haben. Jeder fernere Streit soll im herzoglichen Gerichte
+ausgetragen werden.
+
+REG$Der zwischen Gîttweig einerseits und den BrÅdern Ulrich und Heinrich von
+Kierling andererseits wegen dem Bergrecht am Regelnperge ausgebrochene Streit
+wurde von einem Schiedsgericht dahin entschieden, da· die BrÅder auf die
+angema·te Vogtei und das Bergrecht auf dem Besitz zu Kînigstetten gegen eine
+Abfindung von 30 Pfund Wiener MÅnze seitens des Abtes zu verzichten haben.
+F$FRA II 69/411/546ff/547
+G$X/Abt/Gîttweig/Gîttweig//Nô/
+E$Ulrich;Heinrich/Genannter/Kierling/Kierling/w.Klosterneuburg O.W.W./
+H$Verzicht/Vogtei;Bergrecht/Kînigstetten w.Klosterneuburg /Kînigstetten
+w.Klosterneuburg/sî.Tulln O.W.W./
+W$Wien/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$abbas predictus fratribus predictis XXX libras Wiennensis monete persolveret
+
+
+
+DOK$klnbg4_06/1221.3.5/1221.3.5/1221 MÑrz 5/anno incarnationis domini MCCXXI. nonas Martii
+/Klosterneuburg/(Kloster-)Neuburg//Nô/
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold VII. von ôsterreich und Steiermark bekrÑftigt den Vergleich,
+welchen Probst Walter von Klosterneuburg mit Otto von Plankenstein geschlossen
+hatte.
+
+REG$Herzog Leopold VII. von ôsterreich und Steiermark bekrÑftigt den Vergleich,
+welchen Probst Walter mit Otto von Plankenstein wegen eines
+Weingartens in Widniche geschlossen hatte. Der Propst ÅberlÑ·t Otto von
+Plankenstein und seiner Frau den Weingarten auf Lebenszeit zu Bergrecht gegen
+Zahlung von 3 Talent Pfennige Wiener MÅnze.
+F$FRA II 04/06/191f/192
+F$BabUB 2/235/54f/54
+G$Otto/Genannter/Plankenstein/Plankenstein//Nô,GB Mank/
+E$Walter/Probst/Klosterneuburg/Klosterneuburg//Nô/
+H$Vergleich?/Immobilien_Weingarten/Weidling/Weidling/Widniche/GB Klosterneuburg/
+W$Wien/moneta/
+O$3/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$tria talenta denariorum Wienensis monete preposito numeravit.
+B$BabUB 54,30
+
+DOK$klnbg4_14/1229.0.0/1229.0.0/1229/anno Christi MCCXXVIIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Probst Konrad I. von Klosterneuburg verleiht den drei BrÅdern von Haderstorf
+zwei Lehen daselbst auf ihre und ihrer Sîhne Lebenszeit um jÑhrlich zwei Talent
+Pfennig Wiener MÅnze Zins und dem Vorbehalt des Heimfallsrechtes.
+
+REG$Probst Konrad I. von Klosterneuburg verleiht den drei BrÅdern von Haderstorf
+zwei Lehen daselbst auf ihre und ihrer Sîhne Lebenszeit um jÑhrlich zwei Talent
+Pfennig Wiener MÅnze Zins und dem Vorbehalt des Heimfallsrechtes.
+F$FRA II 04/14/197f/197
+F$BabUB 2/279/113f/113
+G$Heinrich;Ulrich/Genannter/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+E$X/Kloster/Klosterneuburg/Klosterneuburg//Nô/
+H$Zins/Immobilien/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+W$Wien/moneta/
+O$2/tal./X
+Z$X/X/X
+M$X/den./X/Z
+Q$ut singulis annis \dots persolvant ecclesie Nuimburgensi duo talenta
+denariorum Wiennensis monete
+
+REG$Probst Konrad I. von Klosterneuburg verleiht den drei BrÅdern von Haderstorf
+zwei Lehen daselbst auf ihre und ihrer Sîhne Lebenszeit um jÑhrlich zwei Talent
+Pfennig Wiener MÅnze Zins und dem Vorbehalt des Heimfallsrechtes. Sollten sie
+die zwei Talent nicht am vereinbarten Tag zahlen, mÅssen sie 4 Talent
+derselben MÅnze bezahlen.
+F$FRA II 04/14/197f/197
+G$Heinrich;Ulrich/Genannter/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+E$X/Kloster/Klosterneuburg/Klosterneuburg//Nô/
+H$Zahlungsverpflichtung/Immobilien/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+W$Wien/moneta/
+O$4/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$tenebuntur dare quatuor talenta eiusdem monete
+B$"Wien" aus dem Zusammenhang erschlossen.
+
+REG$Probst Konrad I. von Klosterneuburg verleiht den drei BrÅdern von Haderstorf
+zwei Lehen daselbst auf ihre und ihrer Sîhne Lebenszeit um jÑhrlich zwei Talent
+Pfennig Wiener MÅnze Zins und dem Vorbehalt des Heimfallsrechtes. Sollten sie
+die zwei Talent nicht am vereinbarten Tag zahlen, mÅssen sie 4 Talent
+derselben MÅnze bezahlen, wofÅr sie bis zu den 3. Iden (13.) des Oktober Zeit
+haben.
+F$FRA II 04/14/197f/197
+G$Heinrich;Ulrich/Genannter/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+E$X/Kloster/Klosterneuburg/Klosterneuburg//Nô/
+H$Zahlungsverpflichtung/Immobilien/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+W$X/X/
+O$4/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$habebunt indutias persolvendi illa IIII talenta
+
+REG$Probst Konrad I. von Klosterneuburg verleiht den drei BrÅdern von Haderstorf
+zwei Lehen daselbst auf ihre und ihrer Sîhne Lebenszeit um jÑhrlich zwei Talent
+Pfennig Wiener MÅnze Zins und dem Vorbehalt des Heimfallsrechtes. Sollten sie
+die zwei Talent nicht am vereinbarten Tag zahlen, mÅssen sie 4 Talent
+derselben MÅnze bezahlen, wofÅr sie bis zu den 3. Iden (13.) des Oktober Zeit
+haben. Wenn sie auch dann nicht zahlen, sollen die Lehen heimfallen.
+F$FRA II 04/14/197f/197
+G$Heinrich;Ulrich/Genannter/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+E$X/Kloster/Klosterneuburg/Klosterneuburg//Nô/
+H$Zahlungsverpflichtung/Immobilien/Wien/Wien,Hadersdorf-Weidlingen,Teil des 14.Bezirkes/Haderstorf/Wien/
+W$X/X/
+O$4/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ita ut quatuor talenta non solvant
+
+DOK$klnbg4_15/1231.0.0/1231.0.0/1231/anno domini MCCXXXI./X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrichs II. Entscheidung in der Streitsache des Stiftes
+Klosterneuburg mit der Witwe Konrad des Schwaben Åber HÑuser und WeingÑrten, die
+zu Leibgeding gegeben waren.
+
+REG$Herzog Friedrichs II. Entscheidung in der Streitsache des Stiftes
+Klosterneuburg mit der Witwe Konrad des Schwaben Åber HÑuser und WeingÑrten, die
+zu Leibgeding gegeben waren dahin, da· die Witwe dem Kloster fÅr die öbergabe
+der Immobilien 40 Talent Wiener MÅnze zu zahlen hat.
+F$FRA II 04/15/198f/199
+F$BabUB 2/288/124f/125
+G$X/X/Wien/Wien//   Witwe eines Ritters und Wiener BÅrgers?
+E$X/Kloster/Klosterneuburg/Klosterneuburg//Nô/
+H$öbergabe?/Immobilien/Wien/Wien?,Kahlenberg//Wien oder Nô/
+W$Wien/moneta/
+O$40/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Statutum est autem ut pro hac traditione det vidua ecclesie Niumburgensi XL
+talenta Wiennensis monete.
+
+
+DOK$seite33_21/1199.4.5/1199.4.5/1199 April 5/anno dominice incarnacionis
+MCXCVIIII. indict. II. non. Aprilis/Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X
+K$Abt Berengar von St. Lambrecht und Propst Konrad von Gurk beurkunden den von
+ihnen als pÑpstlichen Schiedsrichtern getroffenen Vergleich zwischen dem Stift
+Seitenstetten und dem Pfarrer von Vîcklabruck wegen der Kapelle in Regau.
+
+REG$Das Stift Seitenstetten und der Pfarrer von Vîcklabruck vergleichen sich wegen
+der Kapelle in Regau dahin, da· der Pfarrer jÑhrlich drei Schilling Friesacher
+Geldes dem Abt als Zins? bezahlen mu·.
+F$FRA II 33/21/29f/30
+G$X/Pfarrer/Vîcklabruck/Vîcklabruck//Oô/
+E$X/Abt/Seitenstetten/Seitenstetten//Nô,GB St.Peter i.d.Au/
+H$Zins/Immobilien_Kapelle/Regau/Regau//Oô,sî.Vîcklabruck/
+W$Friesach/moneta
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$plebanus annuatim sub nomine pensionis tres solidos monete illius terre domino
+abbati debet persolvere
+B$"Friesach" aus dem Zusammenhang erschlossen.
+
+
+DOK$spoelt1_27/1227.0.0/1227.0.0/1227/anno verbi MCCXXVII./St.Gotthard/St.
+Gotthard//wo?? Atlas,Nô,S.162 Viertel ober WrWald
+S$X/X/X
+V$X/X/X
+K$Heinrich von Kuenring entscheidet in besonderem Auftrage des Herzogs Leopold
+VI. von ôsterreich den Streit zwischen dem Stifte und Heinrich von Texing Åber
+einen Weingarten in der Wachau.
+
+REG$Heinrich von Kuenring entscheidet in besonderem Auftrage des Herzogs Leopold
+VI. von ôsterreich den Streit zwischen dem Stifte und Heinrich von Texing Åber
+einen Weingarten in der Wachau derart, da· Propst Marquard und das Kapitel von
+St. Pîlten dem Heinrich und seiner Frau, Bertha von Sazza, und deren Kindern 10
+Talent Wiener MÅnze zahlen.
+F$SPoelten 1/027/41f/41
+G$X/Kapitel/St.Pîlten/St. Pîlten//Nô/
+G$Marquard/Propst/St.Pîlten/St. Pîlten//Nô/
+E$Heinrich/Genannter/Texing/Texing//Viertel ober d.Wienerwald/
+E$Bertha/Genannte/Thumeritz ThumeritzerSaa·wald b.Geras/Thumeritzer Saa·wald
+b.Geras/Sazza/Soosberg b.Altlengbach?
+H$Verzicht/Immobilien_Weingarten/Wachau/Wachau//Nô/
+W$Wien/moneta probata/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$donaret \dots X talenta Wiennensis monete probate
+
+REG$Heinrich von Kuenring entscheidet in besonderem Auftrage des Herzogs Leopold
+VI. von ôsterreich den Streit zwischen dem Stifte und Heinrich von Texing Åber
+einen Weingarten in der Wachau derart, da· Propst Marquard und das Kapitel von
+St. Pîlten dem Heinrich und seiner Frau, Bertha von Sazza, und deren Kindern 10
+Talent Wiener MÅnze zahlen, von welchen Heinrich von Kuenring 2 Talent ?
+F$SPoelten 1/027/41f/41
+G$Heinrich/Genannter/KÅhnring/KÅhnring/Kuenring/Nô,b.Eggenburg/
+E$X?/Kapitel/St.Pîlten/St. Pîlten//Nô/
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$quibus et ego pro dilectione prepositi suique capituli duo talenta superogavi
+
+REG$Heinrich von Kuenring entscheidet in besonderem Auftrage des Herzogs Leopold
+VI. von ôsterreich den Streit zwischen dem Stifte und Heinrich von Texing Åber
+einen Weingarten in der Wachau derart, da· Propst Marquard und das Kapitel von
+St. Pîlten dem Heinrich und seiner Frau, Bertha von Sazza, und deren Kindern 10
+Talent Wiener MÅnze zahlen. Heinrich verspricht unter Strafe von 60 Pfund, da·
+weder er noch seine Frau und Kinder an den Propst oder das Kapitel wegen des
+Weingartens AnsprÅche stellen werden.
+F$SPoelten 1/027/41f/41
+G$Heinrich/Genannter/Texing/Texing//Viertel ober d.Wienerwald/
+E$X/Kapitel/St.Pîlten/St. Pîlten//Nô/
+E$Marquard/Propst/St.Pîlten/St. Pîlten//Nô/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena LX librarum promisit
+
+DOK$spoelt1_36/1243.9.8/1243.9.8/1243 September 8/anno domini MCCXL tercio,
+sexto idus septembris/Gîttweig/Gîttweig//Nô/
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich II. von ôsterreich und Steiermark befreit die GÅter und Leute
+des Stiftes St. Pîlten von der Gerichtsbarkeit seines Landrichters in Tulln, der
+nur bei todeswÅrdigen Handlungen unter gewissen BeschrÑnkungen amten darf.
+
+REG$Herzog Friedrich II. von ôsterreich und Steiermark befreit die GÅter und Leute
+des Stiftes St. Pîlten von der Gerichtsbarkeit seines Landrichters in Tulln, der
+nur bei todeswÅrdigen Handlungen unter gewissen BeschrÑnkungen amten darf. Doch
+hat der Propst der herzoglichen Kammer jedes Jahr zu St. Michael 26 Talent
+Wiener MÅnze Marchfutter und Ausgeding zu geben.
+F$SPoelten 1/036/55ff/57
+F$BabUB 2/419/267ff/269
+G$X/Stift/St.Pîlten/St. Pîlten//Nô/
+E$X/Kasse/ôsterreich und Stmk./Herzogl. ôsterreich und Stmk.//wo??
+H$Marchfutter;Ausgeding/Geldsumme/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$26/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$XXVI talenta Wiennensis monete nomine avene que machfu\¯ter vulgariter
+appellatur et nomine iuris quod uzgeding dicitur ad cameram nostram dabit.
+B$Lateinische und deutsche Fassung.
+
+
+DOK$wrneu_01/1244.5.28/1244.5.28/1244 Mai 28/anno ab incarnatione domini
+millesimo
+ducentesimo quadragesimo quarto, quinto kalendas iunii, secunde indictionis/Starhemberg/Starhemberg//Nô,Ruine,GB Wr.Neustadt/
+S$X/X/Markward
+V$X/herzogl./Leopold von Probstdorf
+K$Herzog Friedrich von ôsterreich und Steiermark erlÑ·t eine Maut-, Zoll- und
+Marktordnung fÅr die Stadt Wiener Neustadt.
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr ein Rind, das aus dem
+Ausland kommt.
+F$BabUB 2/427/278ff/279
+G$X/Landleute/Wr.Neustadt/Wr. Neustadt,Umgebung//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Rind_Ausland/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de bove unus denarius circa confinium
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr ein Rind, das
+jenseits der Grenze, also aus ôsterreich oder aus Ungarn kommt.
+F$BabUB 2/427/278ff/279
+G$X/Landleute/Wr.Neustadt ,Umgebung/Wr. Neustadt,Umgebung//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Rind_ôsterreich Ungarn/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$de bove \dots ultra confinium duo denarii
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr eine Ziege.
+F$BabUB 2/427/278ff/279
+G$X/Landleute/Wr.Neustadt ,Umgebung/Wr. Neustadt,Umgebung//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Ziege/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/obulus/X/Z
+Q$de capra obulus
+B$Ein "obulus" entspricht 0,5 den.
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr 10 HÅhner.
+F$BabUB 2/427/278ff/279
+G$X/Landleute/Wr.Neustadt ,Umgebung/Wr. Neustadt,Umgebung//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_HÅhner/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de decem pullis unus denarius
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr 10 KÑseleibe.
+F$BabUB 2/427/278ff/279
+G$X/Landleute/Wr.Neustadt/Wr. Neustadt,Umgebung//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//Nô/
+H$Maut/Lebensmittel_KÑse/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de decem caseis unus denarius
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr kleine VerkÑufer, die
+fÅr einen Wagen zugefÅhrter Waren 2 Pfennige zahlen.
+F$BabUB 2/427/278ff/279
+G$X/VerkÑufer/Wr.Neustadt/Wr. Neustadt,Umgebung//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$duxerint ad civitatem, de hoc dabunt de curru duos denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Graz, Leoben und Judenburg, die fÅr einen Wagen nach Neustadt gebrachter Waren
+12 Pfennige zahlen.
+F$BabUB 2/427/278ff/279
+G$X/Handelsleute/Graz/Graz//Stmk/
+G$X/Handelsleute/Leoben/Leoben//Stmk/
+G$X/Handelsleute/Judenburg/Judenburg//Stmk/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$de curru duodecim denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Graz, Leoben und Judenburg, die mit auswÑrts gekauften Waren die Stadt
+Neustadt passieren, in der Hîhe von 12 Pfennigen fÅr einen Wagen Waren.
+F$BabUB 2/427/278ff/279
+G$X/Handelsleute/Graz/Graz//Stmk/
+G$X/Handelsleute/Leoben/Leoben//Stmk/
+G$X/Handelsleute/Judenburg/Judenburg//Stmk/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$cum redierint cum mercimoniis suis, dabunt iterum de curru duodecim denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Friesach fÅr eine Saumtierlast herbeigefÅhrter Waren in der Hîhe von 24
+Friesacher Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Friesach/Friesach//K/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$de qualibet sarcina, que dicitur vulgariter savm, viginti quatuor Frisaticos
+denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Friesach auf der RÅckfahrt fÅr 100 HÑute in der Hîhe von 12 Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Friesach/Friesach//K/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_HÑute/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$in reditu de centum cutibus duodecim denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Friesach auf der RÅckfahrt fÅr einen Wagen mit HandelsgÅtern in der Hîhe von 12
+Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Friesach/Friesach//K/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$dabunt de curru duodecim denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Venedig fÅr einen Wagen mit HandelsgÅtern in der Hîhe von 24 Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Venedig/Venedig//Friaul/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$de s\¯{a}vm viginti quatuor Frisacenses denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Venedig auf der RÅckfahrt fÅr einen Wagen mit HandelsgÅtern in der Hîhe von 12
+Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Venedig/Venedig//Friaul/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$in reditu vero duodecim Frisacenses et triginta denarios Winnenses ad wisode
+
+REG$Weisat Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Venedig auf der RÅckfahrt.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Venedig/Venedig//Friaul/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Zahlungsverpflichtung/Weisat/Wr.Neustadt/Wr. Neustadt//Nô/
+W$Wien/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$in reditu vero duodecim Frisacenses et triginta denarios Winnenses ad wisode
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus Wien
+fÅr einen Wagen Waren in der Hîhe von 6 Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Wien/Wien//ô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//ô/
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$de sovm sex denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Wien fÅr 100 HÑute in der Hîhe von 12 Pfennigen.
+F$BabUB 2/427/278ff/279
+G$X/BÅrger/Wien/Wien//ô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//ô/
+H$Maut/Mobilien_HÑute/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$de centum cutibus duodecim denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Wien, die einen Wagen Ware in Neustadt gekauft haben, in der Hîhe von 2
+Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Wien/Wien//ô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$si cives Winnenses emerint aliquid apud Novam Civitatem, dabunt de curro duos
+denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus
+Wien fÅr eine Saumtierlast Glas, auf einen Wagen geladen, in der Hîhe von 2
+Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Wien/Wien//ô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Glas/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$de sarcina vitrorum in curru locata duos denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Handelsleute aus Wien
+fÅr einen Wagen Getreide in der Hîhe von 2 Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Wien/Wien//ô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Getreide/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$de curru frumenti duos denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Waren von einen
+Verkaufswert von 30 Pfennigen in der Hîhe von einem Pfennig.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de negociatione triginta denariorum dabitur unus denarius
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Waren von einem
+Verkaufswert von 15 Pfennigen in der Hîhe von einem Obulus.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$infra hunc numerum usque ad quindecim denarios obulus
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Waren von einem
+Verkaufswert von 15 Pfennigen in der Hîhe von einem Obulus.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/obulus/X/Z
+Q$infra hunc numerum usque ad quindecim denarios obulus
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr die Einfuhr von Wein
+nach Neustadt in der Hîhe von 2 Pfennigen pro Wagen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Wein/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$de curru vini in civitatem adducto duo denarii
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr die Ausfuhr von Wein
+aus Neustadt in der Hîhe von 4 Pfennigen pro Wagen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Wein/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$de civitate abducto quatuor denarii
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Trauben zum Verkauf
+in der Hîhe von 6 Pfennigen pro Wagen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Weintrauben/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$de curru botrorum venalium sex denarii
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr Obst in der Hîhe von
+2 Pfennigen pro Wagen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Obst/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$de curru fructuum duo denarii
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr einen Wagen mit
+Tuchballen in der Hîhe von 2 Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Tuch/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$laneos pannos \dots de curru duos denarios
+
+REG$JahresgebÅhr Herzog Friedrichs von ôsterreich und Steiermark fÅr NichtbÅrger
+in der Hîhe von einem Schilling.
+F$BabUB 2/427/278ff/280
+G$X/NichtbÅrger/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Zahlungsverpflichtung/NichtbÅrger/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/Z
+Q$inquilini \dots dabunt annualem solidum
+B$Mayer, Geschichte von Wr. Neustadt 1, 116 vermutet, da· 1 Schilling 12
+Pfennigen entspricht.
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr HÑndler aus
+Neunkirchen am Mittwoch in der Hîhe von 2 Pfennigen pro Wagen.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Neunkirchen/Neunkirchen//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$feriis quartis de quolibet curru duos denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr HÑndler aus
+Neunkirchen in der Hîhe von 4 Pfennigen pro Hausen.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Neunkirchen/Neunkirchen//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Fisch/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$de esoce quatuor denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr HÑndler aus
+Neunkirchen in der Hîhe von einem Pfennig fÅr einen Handwagen Getreide.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Neunkirchen/Neunkirchen//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Getreide/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de biga frumenti unum denarium
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr HÑndler aus
+Neunkirchen in der Hîhe von einem Pfennig fÅr einen gro·en Wagen Gras oder ein
+gleichwertiges BÅndel.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Neunkirchen/Neunkirchen//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Gras/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de carrata graminis unum denarium aut fasciculus equivalens
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark in Warth fÅr die Einfuhr
+in der Hîhe von 2 Pfennigen pro Wagen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$in reditu tantum duos denarios
+
+REG$Wochenrecht Herzog Friedrichs von ôsterreich und Steiermark fÅr die Einfuhr in
+der Hîhe von einem Pfennig.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Zahlungsverpflichtung/Wochenrecht/Zillingdorf/Zillingdorf (ehem.Warth)//Nô,GB
+Wr.Neustadt,abgek.Ort b.Zillingdorf/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$unum denarium ad wochenreht
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr ein Pferd in der
+Hîhe von 6 Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Pferd/Zillingdorf/Zillingdorf (ehem.Warth)//Nô,GB Wr.Neustadt,abgek.Ort b.Zillingdorf/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$de equo sex denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr ein Rind in der Hîhe
+von einem Pfennig.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Mobilien_Rind/Zillingdorf/Zillingdorf (ehem.Warth)//Nô,GB Wr.Neustadt,abgek.Ort b.Zillingdorf/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$de bove unum denarium
+
+REG$Wochenrecht Herzog Friedrichs von ôsterreich und Steiermark fÅr ein Rind in
+der Hîhe von einem Obulus.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Zahlungsverpflichtung/Wochenrecht/Zillingdorf/Zillingdorf (ehem.Warth)//Nô,GB Wr.Neustadt,abgek.Ort b.Zillingdorf/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/obulus/X/Z
+Q$de bove \dots obulum ad wochenreht
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr ein Fuder Wein in der
+Hîhe von 12 Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Wein/Zillingdorf/Zillingdorf (ehem.Warth)//Nô,GB Wr.Neustadt,abgek.Ort b.Zillingdorf/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$de carrata vini duodecim denarios
+
+REG$Maut Herzog Friedrichs von ôsterreich und Steiermark fÅr einen Fischtisch zu
+Ostern in der Hîhe von 6 Pfennigen.
+F$BabUB 2/427/278ff/280
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Maut/Lebensmittel_Fisch/Wr.Neustadt/Wr. Neustadt//Nô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$mense piscium solvent quolibet pascha singule sex denarios
+
+REG$Herzog Friedrich von ôsterreich und Steiermark verpflichtet die BÅrger von Wr.
+Neustadt, 4 Pferde(?) im Wert von 24 Talent Wiener Geldes zu kaufen.
+F$BabUB 2/427/278ff/280
+G$X/BÅrger/Wr.Neustadt/Wr. Neustadt//Nô/
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo??
+H$Kauf/Mobilien_Pferde/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$24/tal./X
+Z$X/X/X
+M$X/X/X/Z
+A$24 Talent Wiener MÅnze/4 Pferde
+Q$de sua pecunia quatuor spadones ad estimationem viginti quatuor talentorum
+Winnensis monete debeant comparare
+
+

@@ -1,0 +1,2511 @@
+note *** Aus Bibl. com. Udine, Ms. Joppi 368 und Ms. Joppi 369
+        Offenbar hier nur insoweit, als nicht schon anderweitig aufgenommen
+        Noch auf Dubletten zu ÅberprÅfen
+
+note *** Einlesen der Rohdaten fr_joppi.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$MDC3_1445/1194.4.27/1194.4.27/1194 April 27/anno domini MCXCIIII. indicione XII. quinto
+kalend. may./Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Patriarch Gottfried von Aquileia beurkundet die Beilegung des Streites um die
+Vogtei der Propstei Eberndorf zwischen Cholo und dessen Bruder Heinrich
+einerseits und Haward von Jaun, beziehungsweise zwischen Heinrich von Trixen und
+Chuno Hawards Sohn, demnach Heinrich zugunsten Chunos auf die Vogtei verzichtet,
+dafÅr Chuno dem Herzog (Ulrich II.) zwîlf Huben zur Belehnung des Heinrich
+heimsagt und diesem noch 30 Mark auszahlt. Der Patriarch setzt die BezÅge des
+Vogtes und dessen VerhÑltnis zum Propste fest.
+
+REG$Heinrich von Trixen verzichtet zugunsten Chunos von Jaun auf die Vogtei der
+Propstei Eberndorf, wofÅr dieser dem Herzog (Ulrich II.) zwîlf Huben zur
+Belehnung des Heinrich heimsagt und diesem noch 30 Mark auszahlt.
+F$MDC 3/1445/560f/561
+F$BCU Ms. Joppi 368 Fasz. 7/24/5f/5
+F$BCU Ms. Joppi 368 Fasz. 7/26/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 7/26/7f/7
+G$Chuno/Genannter/Jaun/Jaun//s.Eberndorf
+E$Heinrich/Genannter/Trixen/Trixen//nw.Vîlkermarkt
+H$Streitbeilegung/Vogtei/Eberndorf/Eberndorf//KÑ.-SÅd/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XXX marcas dedit
+B$Eingeschaltet in Urkunde Herzog Ulrichs III. dd. Vîlkermarkt 1266 MÑrz 1.
+
+REG$Heinrich von Trixen verzichtet zugunsten Chunos von Jaun auf die Vogtei der
+Propstei Eberndorf, wofÅr dieser dem Herzog (Ulrich II.) zwîlf Huben zur
+Belehnung des Heinrich heimsagt und diesem noch 30 Mark auszahlt. Patriarch
+Gottfried von Aquileia setzt die BezÅge des Vogtes mit jÑhrlich 3 Pfennigen je
+Hube fest.
+F$MDC 3/1445/560f/561
+F$BCU Ms. Joppi 368 Fasz. 7/24/5f/5
+F$BCU Ms. Joppi 368 Fasz. 7/26/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 7/26/7f/7
+G$X/X/X/X//
+E$Chuno/Genannter/Jaun/Jaun//wo??
+H$BezÅge/Vogtei/Eberndorf/Eberndorf//KÑ.-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$de quolibet manso singulis annis tres denarios idem advocatus percipiat.
+B$Eingeschaltet in Urkunde Herzog Ulrichs III. dd. Vîlkermarkt 1266 MÑrz 1.
+
+DOK$fjop_46/1177.3.31/1177.3.31/1177 MÑrz 31/anno domini MCLXXVII. ultimo die exeunte marcio
+indictione decima/Venedig/Venedig//Venedig/
+S$Pilgrim/X/Pilgrim
+V$Pilgrim/X/Pilgrim
+K$In Gegenwart des Ezzelino von Romano schlie·en Patriarch Ulrich von
+Aquileia und Vizedom Oberto von Piacenza, Podesta von Treviso, einen
+Friedensvertrag betreffend die Ungerechtigkeiten der Tarviser gegen die
+Menschen von Cavolano?.
+
+REG$Oberto, Podesta von Treviso und Vizedom von Piacenza, gibt Patriarch
+Ulrich von Aquileia fÅr sich und die Komune von Tarvis ein Wadium in der Hîhe
+von 210 Pfund Veroneser, welche er den Bewohnern von Cavolano dargeboten
+hatte, bis zum Ende des Mai.
+F$Ezzelino/6/187f/187
+F$BCU Ms. Joppi 368 Fasz. 5/41/1/1
+G$Oberto/Podesta/Tarvis/Tarvis//wo??
+E$Ulrich/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Wadium/Wadium/unbestimmt/unbestimmt//
+W$Verona/X/
+O$210/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$wadiavit CC et X libras Veronenses
+
+DOK$fjop_47/1182.0.0/1195.0.0/1182 - 1195/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Beschwerde Åber SchÑden, die dem Patriarchen von Aquileia in den Dîrfern S.
+Paolo und S. Giorgio vom villicus Martin von Medadis zur Zeit Patriarch
+Gottfrieds zugefÅgt worden sind.
+
+REG$Tristan von S. Giorgio gab dem villicus Martin von Medadis 40 Schilling fÅr
+die Investitur mit einem Neubruch.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Tristan/Genannter/S.Giorgio/S. Giorgio//wo??
+E$Martin/Villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Investitur/Immobilien/S.Giorgio/S. Giorgio?//wo??
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$dedit ei XL solidos
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Tristan(?) von S. Giorgio gab dem villicus Martin (?) von Medadis 15 Pfund
+Pfennige und 3 Pfund.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Tristan(?)/Genannter/S.Giorgio/S. Giorgio//wo??
+E$Martin(?)/Villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$15/lib./X
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$XV libras denar. et tres libras
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Villicus Martin von Medadis schÑdigte ? um 100 Schillinge.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1                             entzieht ihm?
+G$?X/X/X/X//                                                   fÅgt Schaden zu?
+E$Martin/Villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$100/sol./X
+M$X/X/X/A
+Q$centum solidos abstulit
+B$Der Patriarch ist bereits 1194 gestorben. Schadhafte Stelle in Urkunde?
+
+REG$Villicus Martin von Medadis nimmt dem Friedrich ungerechterweise 25 Schilling
+weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Friedrich/X/X/X//
+E$Martin/Villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$25/sol./X
+M$X/X/X/A
+Q$XX et V sol. abstulit Fedrico iniuste
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, villicus des Patriarchen in Medadis, nimmt fÅr die Investitur mit
+einer halben Hube von Abonus 25 Schilling.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Abonus?/X/X/X//
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Investitur/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$25/sol./X
+M$X/X/X/A
+Q$pro investitura dimidii mansi accepit Aboni omo XXV solidos
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Volteia gab Martin, dem villicus des Patriarchen in Medadis, 3 Pfund.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Volteia/X/X/X//
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit ei tres libras
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes Delia von
+S. Giorgio 3 Pfund Pfennige fÅr den Grundbesitz weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes Delia/Genannter/S.Giorgio/S. Giorgio//wo??
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Grundbesitz/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$abstulit ei tres libras denariorum pro ocasione unius predii
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes Delia von
+S. Giorgio 12 Pfund Pfennige weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes Delia/Genannter/S.Giorgio/S. Giorgio//wo??
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//   ?
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$abstulit ei XII libras denariorum
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Der Geschworene des Patriarchen von Aquileia nimmt 3 Pfund Pfennige
+ungerechterweise ? weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$X?/Geschworener/Aquileia/Patr.-Aquil.//Friaul-Patr./
+E$X/X/X/X//
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$iuratus abstulit tres libras denar. iniuste pro sua ocasione
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes von
+Tristano von S. Giorgio 50 Schilling Pfennige und eine Kuh im Wert von 3
+Pfund weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes de Tristano/Genannter/S.Giorgo/S.Gorgo/wo?  sî.S.Polo diPiave
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$50/sol./X
+M$X/den./X/A
+Q$Johanni de Tristano de S. Gorgo? abstulit L solidos denar.
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes von
+Tristano von S. Giorgio 50 Schilling Pfennige und eine Kuh im Wert von 3
+Pfund weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes de Tristano/Genannter/S.Giorgo/S.Gorgo/wo?  sî.S.Polo diPiave ?
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden_Wertangabe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+A$3 Pfund/1 Kuh
+Q$vacam unam tres libras valentem ideoque ipse dedit comedere preconi Coneclani
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes von
+Tristano von S. Giorgio 3 Pfund Pfennige wegen einer falschen Klage weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes de Tristano/Genannter/S.Giorgo/S.Gorgo/wo?  sî.S.Polo diPiave
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$alias tres libras denar. abstulit ei pro occasione false querimonie
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes von
+Tristano von S. Giorgio 3 Pfund unter einem Vorwand weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes de Tristano/Genannter/S.Giorgo/S.Gorgo/wo?  sî.S.Polo diPiave
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$tres libras abstulit dicto Johanni pro ocasione
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm von Johannes de Albigo
+fÅr die Investitur mit einer Hube 35 Schillinge.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes/Genannter/uFriaul Albigo/Albigo//wo??
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Investitur/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$35/sol./X
+M$X/X/X/A
+Q$abstulit XXX et V solidos pro investitura unius mansi
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm von Johannes de Albigo
+fÅr die Investitur mit einer Hube 35 Schillinge und wollte ihn danach von dieser
+vertreiben, weshalb er ihm ein Pfund Pfennige gab.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes/Genannter/uFriaul Albigo/Albigo//wo??
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$unde ipse dedit ei unam libram denar.
+B$Der Patriarch ist bereits 1194 gestorben.
+
+REG$Martin, der villicus des Patriarchen in Medadis, nahm dem Johannes de Plaza de
+S. Paulo, dem Geschworenen des Patriarchen, 20 Schilling weg.
+F$BCU Ms. Joppi 368 Fasz. 6/20/1f/1
+G$Johannes de Plaza/Genannter/S.Polo_diPiave/Plaza de S. Paulo//wo??
+E$Martin/villicus/Lozzon di Meolo Medadis/Medadis//wo??
+H$Schaden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$Martinus abstulit ei XX solidos
+B$Der Patriarch ist bereits 1194 gestorben.
+
+DOK$fjop_47a/1143.1.8/1143.1.8/1143 JÑnner 8/anno dominice incarnationis MCXLIII. IIX.? die
+mensis ianuarii indictione VI./Cividale/Cividale//Friaul-Ost/
+S$Arpo/X/Arpo
+V$Arpo/X/Arpo
+K$Arnold, der Sohn des Diep.?, der nach langobardischem Recht lebt, schenkt
+Alda, der Tochter des Artuicus, GÅter in Fontana, Cividale, Pasago und S. Vito.
+
+REG$Arnold, der Sohn des Diep.?, der nach langobardischem Recht lebt, schenkt
+Alda, der Tochter des Artuicus, fÅr den Empfang eines launechilds GÅter in
+Fontana, Cividale, Pasago und S. Vito.
+F$BCU Ms. Joppi 368 Fasz. 4/27/1f/1
+G$Alda/X/X/X//
+E$Arnold/X/X/X//
+H$launechild/Immobilien/Cividale/Cividale//Friaul-Ost/
+H$launechild/Immobilien/uFriaul Fontana/Fontana//wo??
+H$launechild/Immobilien/uFriaul Pasago/Pasago//wo??
+H$launechild/Immobilien/S.VitoalTagliamento ?/S. Vito//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$per hanc cartulam dono tibi et pro suscepto launehil
+
+REG$Arnold, der Sohn des Diep.?, der nach langobardischem Recht lebt, schenkt
+Alda, der Tochter des Artuicus, fÅr den Empfang eines launechilds GÅter in
+Fontana, Cividale, Pasago und S. Vito.
+F$BCU Ms. Joppi 368 Fasz. 4/27/1f/1
+G$Alda/X/X/X//
+E$Arnold/X/X/X//
+H$launechild/Immobilien/Cividale/Cividale//Friaul-Ost/
+H$launechild/Immobilien/uFriaul Fontana/Fontana//wo??
+H$launechild/Immobilien/uFriaul Pasago/Pasago//wo??
+H$launechild/Immobilien/S.VitoalTagliamento ?/S. Vito//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro suprascripto launehil trado dono nulli alii venditas
+
+REG$Arnold, der Sohn des Diep.?, der nach langobardischem Recht lebt, schenkt
+Alda, der Tochter des Artuicus, fÅr den Empfang eines launechilds GÅter in
+Fontana, Cividale, Pasago und S. Vito. Sollten er oder seine Erben diese GÅter
+nicht verteidigen kînnen, verpflichtet er sich, das Doppelte der Schenkung
+wiederherzustellen,? ohne da· sie ihm Åber das launechild hinaus etwas gegen
+mu·.
+F$BCU Ms. Joppi 368 Fasz. 4/27/1f/2
+G$Alda/X/X/X//
+E$Arnold/X/X/X//
+H$launechild/Immobilien/Cividale/Cividale//Friaul-Ost  ?
+H$launechild/Immobilien/uFriaul Fontana/Fontana//wo??
+H$launechild/Immobilien/uFriaul Pasago/Pasago//wo??
+H$launechild/Immobilien/S.VitoalTagliamento ?/S. Vito//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/Z
+Q$nihil mihi ex ipso launehil amplius dare debes
+
+REG$Arnold, empfÑngt von Alda fÅr die Schenkung von GÅter in
+Fontana, Cividale, Pasago und S. Vito ein launechild.
+F$BCU Ms. Joppi 368 Fasz. 4/27/1f/2
+G$Alda/X/X/X//
+E$Arnold/X/X/X//
+H$launechild/Immobilien/Cividale/Cividale//Friaul-Ost  ?
+H$launechild/Immobilien/uFriaul Fontana/Fontana//wo??
+H$launechild/Immobilien/uFriaul Pasago/Pasago//wo??
+H$launechild/Immobilien/S.VitoalTagliamento ?/S. Vito//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$suprascriptum launehil recepit
+
+DOK$fjop_48/1189.10.6/1189.10.6/1189 Oktober 6/anno domini MCLXXXVIIII. indictione VII. die
+VI. intrante mense Octubris/Fanna/Fanna//Friaul-West/
+S$Johannes de coll\dots/X/Johannes de coll\dots
+V$Johannes de coll\dots/X/Johannes de coll\dots
+K$Diemut und ihre Sîhne Pilgrim und BartholomÑus schenken dem Kloster S. Maria
+de Pomposa anlÑ·lich des Eintritts ihres Ehegatten bzw. Vaters in den Orden
+GÅter in der NÑhe von Fanna.
+
+REG$Diemut und ihre Sîhne Pilgrim und BartholomÑus schenken dem Kloster S. Maria
+de Pomposa anlÑ·lich des Eintritts ihres Ehegatten bzw. Vaters in den Orden
+GÅter in der NÑhe von Fanna und versprechen unter Strafe von 5 Mark Silber diese
+zu schÅtzen.
+F$BCU Ms. Joppi 368 Fasz. 6/54/1f/1
+G$Diemut;Pilgrim;BartholomÑus/X/X/X//
+E$X/Kloster/Pomposa/Pomposa,S.Maria//Romagna/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena V marcarum argenti
+
+DOK$fjop_49/1192.1.13/1192.1.13/1192 JÑnner 13/anno domini MCXCII. XIII. die intrante
+ianuario indic. X./Reana/Reana//Friaul-nîrdl. Udine/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Die Eheleute Adam und Ita und ihre Tochter Almingarda verkaufen den BrÅdern
+Andrea und Daniel ein Allod in Reana zum Preis von einer Mark.
+
+REG$Die Eheleute Adam und Ita und ihre Tochter Almingarda verkaufen den BrÅdern
+Andrea und Daniel ein Allod in Reana zum Preis von einer Mark.
+F$BCU Ms. Joppi 368 Fasz.7/12/1/1
+G$Andrea;Daniel/X/X/X//
+E$Adam;Ita;Almingarda/X/X/X//
+H$Kauf/Immobilien/Reana/Reana//Friaul/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio unius marce
+
+DOK$fjop_50/1200.0.0/1250.0.0/1200 - 1250/X/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Konrad vermacht der Kirche von Cividale testamentarisch ein Allod fÅr sein
+Seelenheil und das seiner Mutter, soda· Heinrich und seine Erben und die Kirche
+von Cividale ohne Streit? mit dessen Sîhnen Marquard, Friedrich und Jakob das
+Allod besitzen.
+
+REG$Konrad vermacht der Kirche von Cividale testamentarisch ein Allod fÅr sein
+Seelenheil und das seiner Mutter, soda· Heinrich und seine Erben und die Kirche
+von Cividale ohne Streit? mit dessen Sîhnen Marquard, Friedrich und Jakob das
+Allod besitzen. Das versprechen die genannten Sîhne unter Strafe von 20 Mark.
+F$BCU Ms. Joppi 369 Fasz. 4/18/3/3
+G$Marquard;Friedrich;Jakob/X/X/X//
+E$Heinrich/X/X/X// ?
+E$X/Kirche/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XX m.
+B$Der Anfang der Urkunde fehlt nicht nur auf der in Graz vorhandenen Kopie.
+
+DOK$fjop_02/1207.4.2/1207.4.2/1207 April 2/anno domini MCCVII. ind. X. die
+lune secundo intrante aprilis/Stabiuzzo/Stabiuzzo//Veneto/
+S$Vitalis/kaiserl. Notar/Vitalis
+V$Vitalis/kaiserl. Notar/Vitalis
+K$Schiedspruch im Streit zwischen dem Abt von S. Maria Follina und
+dem Patriarchen Wolfger von Aquileia um Lehen, die dem Kloster vom Patriarchen
+Åbergeben worden sind.
+
+REG$Abt Inselmus von S. Maria Follina verpflichtet sich unter Strafe von 200 Pfund
+Pfennigen, den Schiedspruch im Streit mit Patriarch Wolfger von Aquileia um
+Lehen, die dem Kloster vom Patriarchen Åbergeben worden sind, anzuerkennen.
+F$BCU Ms. Joppi 369 Fasz. 1/35/1ff/2
+G$X/Kloster/Follina/Follina,S.Maria//Veneto                   ?Anselm Inselm
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena CC librarum denariorum
+
+REG$Adalbert de Cividado, villicus des Patriarchen Wolfger von Aquileia, verpflichtet
+sich unter Strafe von 200 Pfund Pfennigen, den Schiedspruch im Streit mit Abt
+Inselmus von S. Maria Follina um  Lehen, die dem Kloster vom Patriarchen
+Åbergeben worden sind, anzuerkennen.
+F$BCU Ms. Joppi 369 Fasz. 1/35/1ff/3
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+G$Adalbert de Cividado/villicus/Stabiuzzo/Stabiuzzo//
+E$X/Kloster/Follina/Follina,S.Maria//Veneto/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena CC librarum denariorum
+B$Adalbert handelt als Verwalter von Stabiuzzo, daher zu dieser
+Ortsbezeichnung gekommen.
+
+REG$Adalbert de Cividado, villicus des Patriarchen Wolfger von Aquileia, und Abt
+Inselm von S. Maria Follina verpflichten sich unter Strafe von 200 Pfund
+Pfennigen, nicht gegen den Schiedspruch zu handeln, der in ihrem Streit um
+Lehen, die dem Kloster vom Patriarchen Åbergeben worden sind, gefÑllt wurde.
+F$BCU Ms. Joppi 369 Fasz. 1/35/1ff/3
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+G$Adalbert de Cividado/villicus/Stabiuzzo/Stabiuzzo//
+E$X/Kloster/Follina/Follina,S.Maria//Veneto                       ?beide
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$debeat solvere alteri parti CC libras denariorum
+
+DOK$fjop_04/1214.3.11/1214.3.11/1214 MÑrz 11/anno domini MCCXIIII. indict. secunda die Martis intrante
+mense martio/S.GiovannidiCasarsa/S.Giovanni di Casarsa//
+S$Otolinus Vicentinus/X/Otolinus Vicentinus
+V$Otolinus Vicentinus/X/Otolinus Vicentinus
+K$Bischof Ulrich von Concordia bestÑtigt, fÅr den Verkauf von Zehnten der
+Diîzese Concordia an Meinhard Sbroiavacca 400 Pfund venezianischer Pfennige
+erhalten zu haben.
+
+REG$Bischof Ulrich von Concordia bestÑtigt, fÅr den Verkauf von Zehnten der
+Diîzese Concordia an Meinhard Sbroiavacca 400 Pfund venezianischer Pfennige
+erhalten zu haben.
+F$BCU Ms. Joppi 369 Fasz. 2/28/1/1
+G$Meinhard/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Ulrich/Bischof/Concordia/Concordia//Friaul-West/
+H$Kauf/Zehnten/Concordia/Diîz.Concordia//Friaul-West/
+W$Venedig/X/
+O$400/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio CCCC librarum denariorum Venec.
+B$S.Giovanni bei Casarsa wegen NÑhe zu Sbroiavacca und nicht das bei Polcenigo.
+
+REG$Bischof Ulrich von Concordia bestÑtigt, fÅr den Verkauf von Zehnten der
+Diîzese Concordia an Meinhard Sbroiavacca 400 Pfund venezianischer Pfennige
+erhalten zu haben. Er investiert Meinhard und verspricht die Zehnten bei pena
+dupli minus 10 Schillingen zu schÅtzen.
+F$BCU Ms. Joppi 369 Fasz. 2/28/1/1
+G$Ulrich/Bischof/Concordia/Concordia//Friaul-West/
+E$Meinhard/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$10/sol./minus
+M$X/X/X/Z
+Q$in pena dupli minus X sol.
+
+DOK$fjop_05/1214.4.11/1214.4.11/1214 April 11/anno domini MCCXIIII. indictione secunda die iovis XI.
+intrante Aprili/Lorenzaga/Lorenzaga//Friaul-West/
+S$Florian/kaiserl. Notar/Florian
+V$Florian/kaiserl. Notar/Florian
+K$Albert von Lorenzaga und sein Sohn Orsatus teilen unter sich ihren Besitz in
+Lorenzaga, Spinedo und Ronchada. Sie versprechen fÅr sich und ihre Erben unter
+Strafe von 100 Pfund Pfennigen, den Besitz zu behalten und falls einer diesen
+verkaufen wolle, mÅsse er dem anderen diesen um einen geringeren Preis als einem
+anderen anbieten. Will dieser ihn nicht kaufen, hat er innerhalb von 30 Tagen
+abzusagen.
+
+REG$Albert von Lorenzaga und sein Sohn Orsatus teilen unter sich ihren Besitz in
+Lorenzaga, Spinedo und Ronchada. Sie versprechen fÅr sich und ihre Erben unter
+Strafe von 100 Pfund Pfennigen, den Besitz zu behalten und falls einer diesen
+verkaufen wolle, mÅsse er dem anderen diesen um einen geringeren Preis als einem
+anderen anbieten. Will dieser ihn nicht kaufen, hat er innerhalb von 30 Tagen
+abzusagen.
+F$BCU Ms. Joppi 369 Fasz. 2/30/1/1
+G$Albert/Genannter/Lorenzaga/Lorenzaga//Friaul-West   beide?
+E$Orsatus/Genannter/Lorenzaga/Lorenzaga//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$in pena centum librarum denariorum
+
+REG$Albert von Lorenzaga und sein Sohn Orsatus teilen unter sich ihren Besitz in
+Lorenzaga, Spinedo und Ronchada. Sie vereinbaren ein gegenseitiges Vorkaufsrecht
+innerhalb von 30 Tagen. Wer sich nicht an diese Vereinbarung hÑlt, mu· dem
+anderen 100 Pfund Pfennige Strafe bezahlen.
+F$BCU Ms. Joppi 369 Fasz. 2/30/1/1
+G$Albert/Genannter/Lorenzaga/Lorenzaga//Friaul-West   beide?
+E$Orsatus/Genannter/Lorenzaga/Lorenzaga//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$centum librarum denariorum solvat alteri parti pro pena
+
+DOK$fjop_05aa/1214.4.25/1214.4.25/1214 April 25/anno domini MCCXIIII. indictione secunda die Iovis
+septima? exeunte Aprili/Pomposa/Pomposa//
+S$Robert/kaiserl. Notar/Robert
+V$Robert/kaiserl. Notar/Robert
+K$Abt Crescencius von Pomposa verkauft Ulrich? von Caporiacco Besitzungen in
+Latisana, Sescava, Cregono und Petrone zum Preis von 3250 Pfund Pfennigen. ?
+
+REG$Abt Crescencius von Pomposa verkauft Ulrich? von Caporiacco Besitzungen in
+Latisana, Sescava, Cregono und Petrone zum Preis von 3250 Pfund Pfennigen. ?
+F$BCU Ms. Joppi 369 Fasz. 2/31/1ff/2
+G$Ulrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Crescensius/Abt/Pomposa/Pomposa//Romagna/
+H$Kauf/Immobilien/Latisana;unbekannt;unbekannt;unbekannt/Latisana;Sescava;Crego
+no;Petrone?//wo??  in 2.U Mosano;S. Michele
+W$X/X/
+O$3250/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$premio MMMCCL librarum denariorum
+B$Zweite Ausfertigung am selben Tag mit teilweise anderem Wortlaut.
+
+DOK$fjop_06/1215.4.5/1215.4.5/1215 April 5/anno domini MCCXV. die V. intrante aprili indictione III.
+/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Berthold Camisinus Åbergibt zusammen mit seinen Enkeln Dietrich und Berthold
+und mit Zustimmung seiner Frau Galitia und seiner Tochter Anita?  seiner Verwandten
+Emma und derem Mann Ulrich von Bottenico genannte GÅter.
+
+REG$Berthold Camisinus Åbergibt zusammen mit seinen Enkeln Dietrich und
+Berthold und mit Zustimmung seiner Frau Galitia und seiner Tochter Anita? seiner
+Verwandten Emma und derem Mann
+unter anderem zwei écker. FÅr einen von diesen, der der Kirche von Cividale
+gehîrt, sind 8 Pfennige jÑhrlich zu zinsen.
+F$BCU Ms. Joppi 369 Fasz. 2/39/1f/1
+G$Ulrich/Genannter/Bottenicco/Bottenicco/Bottenico/Friaul-Ost/
+E$X/Kanoniker/Cividale/Cividale//Friaul-Ost/
+H$Zinsleistung/Zins/Grions (b.Udine)/Grions di Torre di Povoletto//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$pro quo solvuntur octo denarii canonicis annuatim
+B$unter welchem Datum schon aufgenommen?
+
+REG$Dietrich und Berthold verpflichten sich unter Strafe von 2 Mark ? zu zahlen.
+F$BCU Ms. Joppi 369 Fasz. 2/39/1f/1
+G$Dietrich;Berthold/X/X/X//
+E$X/Kanoniker/Cividale/Cividale//Friaul-Ost       ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$promiserunt sub pena duarum marcarum se integraliter soluturos
+
+DOK$fjop_07/1216.6.28/1216.6.28/1216 Juni 28/anno domini MCCXVI. indictione quarta die sabbati tertio
+exeunte Iunio/Treviso/Treviso//Veneto/
+S$Robert/kaiserl. Notar/Robert
+V$Robert/kaiserl. Notar/Robert
+K$Ulrich von Caporiacco stellt dem Gabriel von Camino einen Sicherheitsbrief
+Åber 575 Pfund Pfennige aus.  ?
+
+REG$Ulrich von Caporiacco verspricht dem Gabriel von Camino unter Strafe von 575
+Pfund Pfennigen, alles zu zahlen, was Gabriel dem Musolinus von den Schulden
+zahlt.
+F$BCU Ms. Joppi 369 Fasz. 2/43/1/1
+G$Ulrich/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo?//Veneto /
+H$Sicherheitsbrief/Geldsumme/unbestimmt/unbestimmt//
+H$Pînale?/Strafgeld/unbestimmt/unbestimmt//?
+W$X/X/
+O$575/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$sub pena CCCCCLXXV librarum denariorum
+
+REG$Ulrich von Caporiacco verspricht dem Gabriel von Camino unter Strafe von 575
+Pfund Pfennigen, alles zu zahlen, was Gabriel dem Musolinus von den Schulden in
+der Hîhe von 575 Pfund Pfennigen zahlt.
+F$BCU Ms. Joppi 369 Fasz. 2/43/1/1
+G$Gabriel/Genannter/Camino_diOderzo/Camino di Oderzo ?//Veneto/
+E$Musolinus/X/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$575/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$de debito CCCCCLXXV librarum denariorum
+
+DOK$fjop_23/1217.6.21/1217.6.21/1217 Juni 21/anno domini MCCXVII. X. die exeunte Iunio ind. V.
+/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Ulrich von Lacunis? verkauft dem Heinrich, dem Sohn des Konrad von Orzano, ?
+die HÑlfte in Casali ? zum Preis von 21 Mark.
+
+REG$Ulrich von Lacunis? verkauft dem Heinrich, dem Sohn des Konrad von Orzano, ?
+die HÑlfte in Casali ? zum Preis von 21 Mark.
+F$BCU Ms. Joppi 369 Fasz. 4/18*3/1/1
+G$Heinrich/Genannter/Orzano/Orzano//Friaul-Ost/
+E$Ulrich/Genannter/uFriaul Lacunis/Lacunis?//wo??/
+H$Kauf/Immobilien/uFriaul Lacunis/Lacunis?//wo??/
+W$X/X/
+O$21/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro pretio XXI m.
+B$In ders. Urk. auch die 21 Mark Kaufpreis von 1217.6.21 nochmals
+erwÑhnt.
+
+DOK$fjop_24/1217.6.18/1217.6.18/1217 Juni 18/anno domini MCCXVII. XIII. exeunte Iunio ind. V.
+/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Johannes von Zuccola verpfÑndet dem Heinrich von Orzano ein Allod bei Strafe
+von 32 Mark ?
+
+REG$Strafbestimmung in der Hîhe von 32 Mark.  ?
+F$BCU Ms. Joppi 369 Fasz. 4/18*4/1f/1
+G$Johannes/Genannter/Zuccola/Zuccola//Friaul-Ost/
+E$Heinrich/Genannter/Orzano/Orzano//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$32/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XXXII marcarum
+B$In ders. Urk. auch die 21 Mark Kaufpreis von 1217.6.21 nochmals
+erwÑhnt.
+
+REG$Strafbestimmung in der Hîhe von 32 Mark.   ?
+F$BCU Ms. Joppi 369 Fasz. 4/18*4/1f/1
+G$Johannes/Genannter/Zuccola/Zuccola//Friaul-Ost/
+E$Heinrich/Genannter/Orzano/Orzano//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt?//
+W$X/X/
+O$32/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$XXXII m.
+B$In ders. Urk. auch die 21 Mark Kaufpreis von 1217.6.21 nochmals
+erwÑhnt.
+
+DOK$fjop_24aa/1219.6.23/1219.6.23/1219 Juni 23/anno domini MCCXVIIII. die VIII. exeunte Iunio ind. V.
+/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Ulrich von Lacunis gibt der ébtissin Sophia des Klosters in Cividale einen
+halben Acker in Casalis zurÅck, den Heinrich Scrizolinus gekauft hatte, worauf
+die ébtissin ihn mit dem halben Acker gegen einen jÑhrlichen Zins in der Hîhe
+von 2 Pfennigen investiert.
+
+REG$Ulrich von Lacunis gibt der ébtissin Sophia des Klosters in Cividale einen
+halben Acker in Casalis zurÅck, den Heinrich Scrizolinus gekauft hatte, worauf
+die ébtissin ihn mit dem halben Acker gegen einen jÑhrlichen Zins in der Hîhe
+von 2 Pfennigen investiert.
+F$BCU Ms. Joppi 369 Fasz. 4/18*4aa/1/1
+G$Heinrich Scrizolinus/Kanoniker?/Cividale/Cividale//Friaul-Ost/
+E$X/Kloster/Cividale/Cividale,SM Valle//Friaul-Ost/
+H$Zahlungsverpflichtung/Zins/uFriaul_West Casalis/Casalis//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$daturum \dots census omni anno duos denarios \dots eidem monasterio pro ipso
+dimidio agro
+
+REG$Ulrich von Lacunis gibt der ébtissin Sophia des Klosters in Cividale einen
+halben Acker in Casalis zurÅck, den Heinrich Scrizolinus gekauft hatte, worauf
+die ébtissin ihn mit dem halben Acker gegen einen jÑhrlichen Zins in der Hîhe
+von 2 Pfennigen investiert.
+F$BCU Ms. Joppi 369 Fasz. 4/18*4aa/1/1
+G$Heinrich Scrizolinus/Kanoniker?/Cividale/Cividale//Friaul-Ost/
+E$X/Kloster/Cividale/Cividale,SM Valle//Friaul-Ost/
+H$Zahlungsverpflichtung/Zins/uFriaul_West Casalis/Casalis//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$solvendo \dots duos denarios
+
+
+DOK$fjop_08/1220.3.26/1220.3.26/1220 MÑrz 26/anno domini MCCXX. ind. VIII. die VI. exeunte mense Martio
+/Concordia/Concordia//Friaul-West/
+S$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+V$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+K$Bischof Friedrich von Concordia belehnt mit Zustimmung Patriarch Bertholds von
+Aquileia und des Kapitels von Concordia Meinhard von Sbroiavacca mit
+genannten GÅtern gegen 1500 Pfund venezianischer Pfennige.
+
+REG$Bischof Friedrich von Concordia bestÑtigt, von Meinhard von Sbroiavacca 1500
+Pfund venezianischer Pfennige fÅr die Belehnung mit genannten GÅtern erhalten zu
+haben.
+F$BCU Ms. Joppi 369 Fasz. 2/56/1f/2
+G$Meinhard/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Friedrich/Bischof/Concordia/Concordia//Friaul-West/
+H$BestÑtigung_Belehnung/Immobilien/Fossalta/Fossalta di Portogruaro, etc.//Friaul-West/
+W$Venedig/X/
+O$1500/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$confessus fuit se acceppisse \dots mille et quingenti lib. dn. Ven.
+
+DOK$fjop_25/1220.5.30/1220.5.30/1220 Mai 30/anno domini MCCXX. secundo die exeunte Maio ind. VIII.
+/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Pilgrim von Cormons verkauft zum Preis von 14 Mark Pfennigen Agleier MÅnze dem
+Heinrich Scriz?, einem Kanoniker von Cividale, eine Hube von seinem Allod in
+Moimacco.
+
+REG$Pilgrim von Cormons verkauft zum Preis von 14 Mark Pfennigen Agleier MÅnze dem
+Heinrich Scriz?, einem Kanoniker von Cividale, eine Hube von seinem Allod in
+Moimacco.
+F$BCU Ms. Joppi 369 Fasz. 4/18*5/1f/1
+G$Heinrich Scrizolinus/Kanoniker?/Cividale/Cividale//Friaul-Ost  ?
+G$Heinrich/Scriz/Cividale/Cividale//Friaul-Ost                   ?
+E$Pilgrim/Genannter/Cormons/Cormons//Friaul-Ost/
+H$Kauf/Immobilien/Moimacco/Moimacco//Friaul-Ost/
+W$Aquileia/moneta/
+O$14/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio XIIII marcarum denariorum Aquilegiensis monete
+
+DOK$fjop_26/1221.1.23/1221.1.23/1221 JÑnner 23/anno domini MMCCXXI. VIIII. die exeunte Ianuario Ind.
+VIIII./Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Benedikta verkauft dem Heinrich Scriz neun? écker in Moimacco zum Preis von 40
+Mark und 40 Pfennigen .
+
+REG$Benedikta verkauft dem Heinrich Scriz neun? écker in Moimacco zum Preis von 40
+Mark und 40 Pfennigen.
+F$BCU Ms. Joppi 369 Fasz. 4/18*6/1f/1
+G$Heinrich/Scriz/X/X/X//
+G$Heinrich Scrizolinus/Kanoniker?/Cividale/Cividale//Friaul-Ost  ?
+E$Benedikta/X/X/X//
+H$Kauf/Immobilien/Moimacco/Moimacco//Friaul-Ost/
+W$X/X/
+O$40/marca/X
+Z$X/X/X
+M$40/den./X/A
+Q$pro pretio XI m. et XI (XL ?) den.
+
+
+DOK$fjop_09/1221.12.6/1221.12.6/1221 Dezember 6/anno domini MCCXXI. die sexto intrante
+mense decembris indictione nona/Aquileia/Aquileia//Friaul-SÅd/
+S$Konrad/kaiserl. Notar/Konrad
+V$Konrad/kaiserl. Notar/Konrad
+K$Ermanuccio von Rodeano gibt in Gegenwart des Patriarchen Berthold von
+Aquileia dem Isenrico von Rodeano genannte GÅter zu Lehen gegen 12 Mark Agleier
+MÅnze.
+
+REG$Ermanuccio von Rodeano gibt in Gegenwart des Patriarchen Berthold von
+Aquileia dem Isenrico von Rodeano genannte GÅter zu Lehen gegen 12 Mark Agleier
+MÅnze.
+F$BCU Ms. Joppi 369 Fasz. 3/12/1/1
+G$Isenrico/Genannter/Rodeano/Rodeano//Friaul-Mitte/
+E$Ermanuccio/Genannter/Rodeano/Rodeano//Friaul-Mitte/
+H$Belehnung/Immobilien/Rodeano/Rodeano//Friaul-Mitte/
+W$Aquileia/moneta/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in proximo festo purificationis sancte Marie venturo XII
+marchas Aquilegensis monete ei deberet persolvere
+
+DOK$fjop_10/1222.2.24/1222.2.24/1222 Februar 24/anno nativitatis eiusdem
+MCCXXII. indictione decima, die quinta exeunte mense Februari/Pisino/Pisino//Istrien/
+S$Meinhard/X/Meinhard
+V$Meinhard/X/Meinhard
+K$Graf Meinhard (II.) von Gîrz Åbergibt zusammen mit seiner Verwandten GrÑfin
+Mathilde von Pisino und
+seinem Neffen Graf Meinhard dem Kloster S. Pietro de Selva Besitzungen in
+Rovazolo fÅr das Seelenheil des verstorbenen Grafen Engelbert.
+
+REG$Graf Meinhard (II.) von Gîrz Åbergibt zusammen mit seiner Verwandten GrÑfin
+Mathilde von Pisino und seinem Neffen Graf Meinhard dem Kloster S. Pietro de
+Selva Besitzungen in Rovazolo fÅr das Seelenheil des verstorbenen Grafen
+Engelbert. Das Kloster sollte diese Schenkung weder verkaufen
+noch anderweitig verleihen, die Grafen aber wollten es in seinem
+Besitz schirmen bei Pînale von 22 Pfund Gold im öbertretungsfall.
+F$CDI 2/232/415/415
+F$Kos 5/356/185/185
+F$Reg. Gîrz 1/400/109/109
+F$BCU Ms. Joppi 369 Fasz. 3/15/1f/1
+G$Meinhard II./Graf/Gîrz/Gîrz//Friaul-Ost/
+G$Meinhard III./Graf/Gîrz/Gîrz//Friaul-Ost/
+G$Mathilde/GrÑfin/Pisino/Pisino//wo??
+E$X/Kloster/S.PietroinSelve/S.Pietro i.Selva//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$22/lib./X
+Z$X/X/X
+M$X/aurum/purum;optimum/Z
+Q$sub pena XXII librarum puri et optimi auri
+
+DOK$fjop_51/1222.11.3/1222.11.3/1222 November 3/anno domini MCCXXII indicione X. die tercio
+intrante Novembris/Polcenigo/Polcenigo//Friaul-West/
+S$Dietrich de Prato/kaiserl. Notar/Dietrich de Prato
+V$Dietrich de Prato/kaiserl. Notar/Dietrich de Prato
+K$Erbteilung zwischen den BrÅdern Aldricus und Varnerius von Polcenigo.
+
+REG$Zins in der Hîhe von 40 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Pilgrim/Genannter/unbekannt Gall./Gall.//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$XL solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 5 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Pilgrim/Genannter/unbekannt Gall./Gall.//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$V solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "precum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Possa/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos precum
+B$Zins genannt "precum".
+
+REG$Zins in der Hîhe von 8 Schillingen "pro culta".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Possa/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$VIII solidos pro culta
+B$Zins genannt "pro culta".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Possa/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Posottus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 5 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/3
+G$Posottus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$V solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Paganus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Paganus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos soldos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Barzanus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 5 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Barzanus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$V solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Durilus/Genannter/uFriaul_West Lamma/Lamma//wo?? uFriaul-West
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 5 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Durilus/Genannter/uFriaul_West Lamma/Lamma//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$V solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$X/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Steuer in der Hîhe von 4 Schillingen.
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$X/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Steuer/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/A
+Q$IV solidos colette
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Albert?/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Albert?/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$II solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Martin/Genannter/uFriaul_West Lamma/Lamma//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Martin/Genannter/uFriaul_West Lamma/Lamma//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "precum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Aylinus/Genannter/Costa/Costa//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos precum
+B$Zins genannt "precum".
+
+REG$Zins in der Hîhe von 40 Schillingen "precum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/4
+G$Aylinus/Genannter/Costa/Costa//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$XL solidos precum
+B$Zins genannt "precum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Aylinus/Genannter/Costa/Costa//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Johannes/Genannter/uFriaul_West Lamma/Lamma//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 5 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Johannes/Genannter/uFriaul_West Lamma/Lamma//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$V solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Ambrosius/Genannter/Colle/Colle//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Ambrosius/Genannter/Colle/Colle//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Laurentius/Genannter/uFriaul_West Barro/Barro//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Laurentius/Genannter/uFriaul_West Barro/Barro//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 30 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Agenamus/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$XXX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Agenamus/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Ardemarus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Bolgarellus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Bolgarellus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos soldos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Coradus/Genannter/uFriaul S.Egidio/S. Egidio//n.Aquileia uFriaul/
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Coradus/Genannter/uFriaul S.Egidio/S.Egidio//n.Aquileia/
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos soldos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/5
+G$Gabriel/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Gabriel/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Leonardus Fractamissa/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Leonardus Fractamissa/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Sigard/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Sigard/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Varnerius/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Varnerius/Schmied/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Martin/Genannter/uFriaul_West Rylino/Rylino?//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Martin/Genannter/uFriaul_West Rylino/Rylino?//wo??
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/6
+G$Johannes Bonus Saurellus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Ronconus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Ronconus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Ambrosius/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Steuer in der Hîhe von 6 Schillingen "pro coletta".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Ambrosius/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Steuer/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/A
+Q$VI solidos pro coletta
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Ambrosius/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 40 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Zunittus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$XL solidos porcum
+B$Zins genannt "porcum".
+
+REG$Zins in der Hîhe von 2 Schillingen "boaticum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Zunittus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos solidos boaticum
+B$Zins genannt "boaticum".
+
+REG$Zins in der Hîhe von 20 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Martin Botegnus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$XX solidos porcum
+B$Zins genannt "porcum".
+
+REG$Steuer in der Hîhe von 8 Schillingen "pro coleta".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Martin Botegnus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$VIII pro coleta
+B$"sol." aus dem Zusammenhang erschlossen.
+
+REG$Zins in der Hîhe von 2 Schillingen.
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Martin Botegnus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$duos soldos
+
+REG$Zins in der Hîhe von 10 Schillingen "porcum".
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/7
+G$Berthold Serodinus/X/X/X//
+E$Aldricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$X solidos porcum
+B$Zins genannt "porcum".
+
+REG$Aldricus wÑhlt sich Zehnten einer dominicale?, die von Bonus, dem Sohn des
+Artinisius zum Preis von 18 Pfund gekauft worden ist, vom Erbteil.
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/9
+G$X?/Genannter/Polcenigo/Polcenigo//Friaul-West/
+E$Bonus/X/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//Friaul-West/
+W$X/X/
+O$18/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$que empta fuit per decem et octo libras
+
+REG$Die BrÅder Aldricus und Warnerius de Polcenig verzichten gegenseitig auf alle
+angefÅhrten Erbteile unter Strafe von 1000 Mark Silber.
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/11
+G$Adricus/Genannter/Polcenigo/Polcenigo//Friaul-West/
+E$Warnerius/Genannter/Polcenigo/Polcenigo//Friaul-West  ?beide
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//Friaul-West/
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$sub pena mille marcharum boni argenti
+
+DOK$fjop_45/1222.11.3/1222.11.3/1222 November 3/anno domini MCCXXII. indictione decima die
+tercio intrante Novembris/Polcenigo/Polcenigo//wo??
+S$Dietrich/Prato/Dietrich
+V$Dietrich/Prato/Dietrich
+K$Erbschaftsteilung ? zwischen den BrÅdern Aldricus und Warner von Polcenigo.
+  alle Angaben aufnehmen?
+
+REG$Zehnten der Huben? des Bonus, des Sohnes des Artinisius, die um 18 Pfund
+gekauft worden sind.
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/9
+G$X/X/X/X//
+E$Bonus/X/X/X//
+H$Kauf/Zehnten?Immobilien?/unbestimmt/unbestimmt//
+W$X/X/
+O$18/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$que empta fuit per decem et octo libras
+
+REG$Die BrÅder Aldricus und Warner von Polcenigo versprechen unter Strafe von 1000
+Mark Silber sich an die vereinbarte Teilung der Erbschaft zu halten.
+F$BCU Ms. Joppi 369 Fasz. 3/21/1ff/11
+G$Aldricus/Genannter/Polcenigo/Polcenigo//wo??
+E$Warner/Genannter/Polcenigo/Polcenigo//wo??  beide?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$sub pena mille marcharum boni argenti
+
+DOK$fjop_12/1226.6.14/1226.6.14/1226 Juni 14/anno domini MCCXXVI. indictione XIIII. die XIIII. intrante
+Iunio/Attimis/Attimis//Friaul-Ost/
+S$Arnold/kaiserl. Notar/Arnold
+V$Arnold/kaiserl. Notar/Arnold
+K$Patriarch Berthold von Aquileia investiert Diemut, die Tochter des Ottaco von
+Attimis, mit einem Hof in Ariis, Huben und Hîrigen.
+
+REG$Patriarch Berthold von Aquileia investiert Diemut, die Tochter des Ottaco von
+Attimis, mit einem Hof in Ariis, Huben und Hîrigen. Rudolf von Ariis und seine
+BrÅder Ottaco und Ulrich von Attimis versprechen fÅr sich und ihre Erben,
+nicht gegen diesen Vertrag mit Diemut, der Tochter des Ottaco von Attimis,
+bei Strafe in der Hîhe von 100 Mark Silber, die an Diemut zu zahlen sind, zu
+handeln.
+F$BCU Ms. Joppi 369 Fasz. 3/34/1ff/3
+G$Rudolf/Genannter/Ariis/Ariis//con Rivignano/
+G$Ottaco;Ulrich/Genannter/Attimis/Attimis//wo??
+E$Diemut/Genannte/Attimis/Attimis//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$sub pena centum marcharum puri argenti
+
+DOK$fjop_12aa/1228.6.13/1228.6.13/1228 Juni 13/anno a nativitate domini MCCXXVIII.
+indictione prima die tertio decimo mensis Iunii
+introeuntis/Cividale/Cividale?//Friaul-Ost/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Schiedsspruch des Propstes During von S. Felice zu Aquileia, des Vizedomes
+Friedrich des Klosters S. Maria und des Richters Magister Omnebonum im Streit
+zwischen Artuicus von Strassoldo und der ébtissin
+Meregardis des Klosters S. Maria in Aquileia um Besitzungen und SchÑden, die
+den Untertanen? der ébtissin bzw. des Klosters durch Artuicus von Strassoldo zu
+Alture, zu Cervignano, Muscoli und Casellis? zugefÅgt wurden. Infolgedessen
+Åbergibt Artuicus der ébtissin Pratmuel und Rongamazut.
+
+REG$SchÑden in der Hîhe von 8 Mark, den Artuicus von Strassoldo den Untertanen?
+der ébtissin Meregardis von S. Maria in Aquileia zu Alture zugefÅgt hat.
+F$BCU Ms. Joppi 369 Fasz. 3/47/1ff/1
+G$Artuicus/Genannter/Strassoldo/Strassoldo//wo??
+E$X/Hîrige?/Alture/Alture/Alturis/con Cerviganano/
+H$Schadensverzeichnis/SchÑden/Alture/Alture/Alturis/con Cerviganano/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de dampnis datis hominibus \dots in villa de Alturis in VIII marcis
+B$Einigung auf Schiedsleute siehe anon 84. Anon 97 42 Pfennige als
+Wiedergutmachung von Palmera und Bernhard von Strassoldo (13. Juli 1229).
+
+REG$SchÑden in der Hîhe von 7 Mark, den Artuicus von Strassoldo den Untertanen?
+der ébtissin Meregardis von S. Maria in Aquileia zu Muscoli zugefÅgt hat.
+F$BCU Ms. Joppi 369 Fasz. 3/47/1ff/2
+G$Artuicus/Genannter/Strassoldo/Strassoldo//wo??
+E$X/Hîrige?/Muscoli/Muscoli//wo??
+H$Schadensverzeichnis/SchÑden/Muscoli/Muscoli//wo??
+W$X/X/
+O$7/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de dampnis datis hominibus \dots in villa de Musculo in VII marcis
+B$Einigung auf Schiedsleute siehe anon 84. Anon 97 42 Pfennige als
+Wiedergutmachung von Palmera und Bernhard von Strassoldo (13. Juli 1229).
+
+REG$Schiedsspruch des Propstes During von S. Felice zu Aquileia, des Vizedomes
+Friedrich des Klosters S. Maria und des Richters Magister Omnebonum im Streit
+zwischen Artuicus von Strassoldo und der ébtissin
+Meregardis des Klosters S. Maria in Aquileia um Besitzungen und SchÑden, die
+den Untertanen? der ébtissin bzw. des Klosters durch Artuicus von Strassoldo zu
+Alture, zu Cervignano, Muscoli und Casellis? zugefÅgt wurden. Bei
+Zuwiderhandeln wird eine Strafe in der Hîhe von 100 Mark festgesetzt.
+F$BCU Ms. Joppi 369 Fasz. 3/47/1ff/2
+G$Artuicus/Genannter/Strassoldo/Strassoldo//wo??
+G$Meregardis/ébtissin/Aquileia/Aquileia,S.Felice//Friaul-SÅd/
+E$During/Propst/Aquileia/Aquileia,S.Maria//Friaul-SÅd  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena C marcarum
+B$Einigung auf Schiedsleute siehe anon 84. Anon 97 42 Pfennige als
+Wiedergutmachung von Palmera und Bernhard von Strassoldo (13. Juli 1229).
+
+DOK$fjop_14/1229.4.7/1229.4.7/1229 April 7/anno domini MCCXXIX. die sabbati septimo intrante
+mense Aprili/Vendoglio (Varmo)/Vendoglio (Varmo)//Friaul-Mitte/
+S$Silvester/kaiserl. Notar/Silvester
+V$Silvester/kaiserl. Notar/Silvester
+K$Der Deutschordensmeister Chuniemunt bestÑtigt Asquin von Varmo und seinen
+Erben, fÅr den Verkauf eines Hauses in Vendoglio 40 Mark Agleier Pfennige
+erhalten zu haben.
+
+REG$Der Deutschordensmeister Chuniemunt bestÑtigt Asquin von Varmo und seinen
+Erben, fÅr den Verkauf eines Hauses in Vendoglio 40 Mark Agleier Pfennige
+erhalten zu haben.
+F$BCU Ms. Joppi 369 Fasz. 3/56/1ff/2
+G$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+E$Chuniemunt/Deutschorden/unbestimmt/Allgemein//Allgemeinwo??/
+H$BestÑtigung_Kauf/Immobilien/Vendoglio (Varmo)/Vendoglio (Varmo)//Friaul-Mitte/
+W$Aquileia/X/
+O$40/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$quadraginta marchas denariorum Aquilegensium
+
+REG$Der Deutschordensmeister Chuniemunt bestÑtigt Asquin von Varmo und seinen
+Erben, fÅr den Verkauf eines Hauses in Vendoglio 40 Mark Agleier Pfennige
+erhalten zu haben, und verspricht, sich bei Strafe des doppelten Kaufpreises
+minus 10 Schilling kleiner Venezianer an die Vereinbarungen zu halten.
+F$BCU Ms. Joppi 369 Fasz. 3/56/1ff/3
+G$Chuniemunt/Deutschorden/unbestimmt/Allgemein//Allgemeinwo??/
+E$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/parv.;minus/Z
+Q$nomine pene duplum precii minus decem solidis Venecianorum parvorum
+B$ [Aqu.den.]-20 sol.? woher kommt diese Angabe in File?
+
+DOK$fjop_16/1229.5.16/1229.5.31/1229 Mai 16 - 31/anno domini MCCXX\dots ind. II. die \dots
+exeunte Madio/Udine/Udine//Friaul-Mitte/
+S$Paul/kaiserl. Notar/Paul
+V$Paul/kaiserl. Notar/Paul
+K$Patriarch Berthold von Aquileia verspricht dem Asquin von Varmo 700 Pfund
+Veroneser fÅr die Verteidigung seiner Kirche bes. gegen Graf Meinhard von Gîrz
+zu zahlen. Da er diese Summe nicht besitzt, verpfÑndet der Patriarch ihm
+genannte EinkÅnfte.
+
+REG$Patriarch Berthold von Aquileia verspricht dem Asquin von Varmo 700 Pfund
+Veroneser fÅr die Verteidigung seiner Kirche bes. gegen Graf Meinhard von Gîrz
+zu zahlen.
+F$BCU Ms. Joppi 369 Fasz. 3/60/1f/1
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+H$Zahlungsversprechen/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$700/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$promisit \dots septingentas libras Veronensium
+
+REG$Patriarch Berthold von Aquileia verspricht dem Asquin von Varmo 700 Pfund
+Veroneser fÅr die Verteidigung seiner Kirche bes. gegen Graf Meinhard von Gîrz
+zu zahlen. Da er diese Summe nicht besitzt, verpfÑndet? der Patriarch ihm
+EinkÅnfte in Pers und zwar 150 Pfund pro Mark EinkÅnfte.
+F$BCU Ms. Joppi 369 Fasz. 3/60/1f/1
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+H$Ablîse/EinkÅnfte-Kapitalisierung/Pers/Pers//Friaul-Mitte/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Mark EinkÅnfte/150 Pfund Ablîse
+Q$ad reditum marche pro centum et quinquaginta lib.
+
+REG$Patriarch Berthold von Aquileia verspricht dem Asquin von Varmo 700 Pfund
+Veroneser fÅr die Verteidigung seiner Kirche bes. gegen Graf Meinhard von Gîrz
+zu zahlen. Da er diese Summe nicht besitzt, verpfÑndet? der Patriarch ihm
+EinkÅnfte in Pers und zwar 150 Pfund pro Mark EinkÅnfte.
+F$BCU Ms. Joppi 369 Fasz. 3/60/1f/1
+G$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Ablîse/EinkÅnfte-Kapitalisierung/Pers/Pers//Friaul-Mitte PfandgeschÑft?
+W$X/X/
+O$150/lib./X
+Z$X/X/X
+M$X/X/X/Z
+A$150 Pfund Ablîse/1 Mark EinkÅnfte
+Q$ad reditum marche pro centum et quinquaginta lib.
+
+REG$Patriarch Berthold von Aquileia verspricht dem Asquin von Varmo 700 Pfund
+Veroneser fÅr die Verteidigung seiner Kirche bes. gegen Graf Meinhard von Gîrz
+zu zahlen. Sollte dieser dem nicht nachkommen, mu· er dem Patriarchen 2100 Pfund
+Pînale zahlen. ?
+F$BCU Ms. Joppi 369 Fasz. 3/60/1f/1
+G$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+H$Besetzung?/Immobilien?/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$2100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$usque ad duo mille et centum lib.
+
+REG$Patriarch Berthold von Aquileia verspricht dem Asquin von Varmo 700 Pfund
+Veroneser fÅr die Verteidigung seiner Kirche bes. gegen Graf Meinhard von Gîrz
+zu zahlen. Sollte dieser dem nicht nachkommen, kann der Patriarch sich seiner
+Besitzungen bemÑchtigen, bis er ihm 2100 Pfund Pînale gezahlt hat. ?
+F$BCU Ms. Joppi 369 Fasz. 3/60/1f/2
+G$Asquin/Genannter/Varmo/Varmo//Friaul-Mitte/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$donec pena duo mille et centum librarum fuerit persoluta
+
+DOK$fjop_17/1230.1.30/1230.1.30/1230 JÑnner 30/anno domini MCCXXX. indictione tercia die secundo exeunte
+ianuario/Serone/Serone//wo??
+S$Gerhard/kaiserl. Notar/Gerhard
+V$Gerhard/kaiserl. Notar/Gerhard  Salglo?
+K$Graf Heinrich von Polcenigo und seine Sîhne verkaufen fÅr 1500 Pfund
+venezianischer Pfennige Besitzungen in Polcenigo an Heinrich von Pagano, Konrad
+Vilico und Gerald von Miza?.
+
+REG$Graf Heinrich von Polcenigo und seine Sîhne verkaufen fÅr 1500 Pfund
+venezianischer Pfennige Besitzungen in Polcenigo an Heinrich von Pagano, Konrad
+Vilico und Gerald von Miza? und andere genannte nicht anwesende Personen.
+F$BCU Ms. Joppi 369 Fasz. 3/64/1ff/1
+G$Heinrich/Genannter/uFriaul_West Pagano/Pagano//wo??
+G$Konrad Vilico/X/X/X//
+G$Gerald/Genannter/uFriaul_West Miza/Miza//wo?? ?
+E$Heinrich/Graf/Polcenigo/Polcenigo//Friaul-West/
+H$BestÑtigung_Kauf/Immobilien/Polcenigo/Polcenigo//Friaul-West/
+W$Venedig/X/
+O$1500/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$precio mille et quingentarum librarum denariorum Ven.
+
+REG$Graf Heinrich von Polcenigo und seine Sîhne verkaufen fÅr 1500 Pfund
+venezianischer Pfennige Besitzungen in Polcenigo an Heinrich von Pagano, Konrad
+Vilico und Gerald von Miza? und andere genannte nicht anwesende Personen und
+verpflichten sich bei Strafe des doppelten
+Kaufpreises minus 20 Pfund venezianischer Pfennige das Lehen zu verteidigen.
+F$BCU Ms. Joppi 369 Fasz. 3/64/1ff/4
+G$Heinrich/Graf/Polcenigo/Polcenigo//Friaul-West/
+E$Heinrich/Genannter/uFriaul_West Pagano/Pagano//Fontanabona?
+E$Konrad Vilico/X/X/X//
+E$Gerald/Genannter/uFriaul_West Miza/Miza//wo?? ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$20/lib./minus
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena dupli sumpti precii minus XX libris denariorum ven.
+
+DOK$fjop_18/1231.3.15/1231.3.15/1231 MÑrz 15/anno domini MCCXXXI. indictione quarta die XV. Martii
+/Sesto/Sesto//Friaul-West/
+S$Hencius/kaiserl. Notar/Hencius
+V$Hencius/kaiserl. Notar/Hencius
+K$Blaveta von Marignana verkauft zusammen mit ihren Tîchtern zum Preis von 100
+Pfund venezianischer Pfennige eine Hube in Gleris an Rudolf von Sbroiavacca.
+
+REG$Blaveta von Marignana bestÑtigt, fÅr den Verkauf einer Hube in Gleris 100
+Pfund venezianischer Pfennige von Rudolf von Sbroiavacca erhalten zu haben.
+F$BCU Ms. Joppi 369 Fasz. 4/04/1/1
+G$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Blaveta/Genannte/Marignana/Marignana//Friaul-West/
+H$BestÑgigung_Kauf/Immobilien/Gleris/Gleris//Friaul-West/
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio \dots centum librarum denariorum Ven.
+
+REG$Blaveta von Marignana verkauft zusammen mit ihren Tîchtern zum Preis von 100
+Pfund venezianischer Pfennige eine Hube in Gleris an Rudolf von Sbroiavacca und
+verspricht diese bei Strafe des doppelten Kaufpreises minus 20 Schillingen
+zu verteidigen.
+F$BCU Ms. Joppi 369 Fasz. 4/04/1/1
+G$Blaveta/Genannte/Marignana/Marignana//Friaul-West/
+E$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./minus
+M$X/X/X/Z
+Q$sub pena dupli precii accepti minus XX sol.
+
+DOK$fjop_19/1232.6.5/1232.6.5/1232 Juni 5/anno domini MCCXXXII. indictione quinta die quinta intrante
+Iunio/Caporiacco/Caporiacco//Friaul-Mitte/
+S$Omnebonum/kaiserl. Notar/Omnebonum
+V$Omnebonum/kaiserl. Notar/Omnebonum
+K$Walchun von Vendoglio verkauft zum Preis von 200 Pfund Venetianer minus 3
+Schilling dem Rudolf von Cusano und dessen Bruder Liazaro? ein Feld in
+Caporiacco.
+
+REG$Walchun von Vendoglio verkauft zum Preis von 200 Pfund Venetianer minus 3
+Schilling dem Rudolf von Cusano und dessen Bruder Liazaro? ein Feld in
+Caporiacco.
+F$BCU Ms. Joppi 369 Fasz. 4/11/1/1
+G$Rudolf;Liazaro/Genannter/Cusano/Cusano//Friaul-West/
+E$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte?/
+H$Kauf/Immobilien/Caporiacco/Caporiacco//Friaul-Mitte/
+W$Venedig/X/
+O$200/lib./X
+Z$3/sol./minus
+M$X/X/X/A
+Q$pretio ducen. librarum Venetarum diffinito, et accepto minus tribus soldis
+
+DOK$fjop_19aa/1233.2.8/1233.2.8/1233 Februar 8/a. d. MCCXXXIII. ind. VI. die VIII. intrante februario
+/Vittorio Ceneda/Vittorio Veneto (Ceneda)//wo??
+S$Johannes de Collis/kaiserl. Notar/Johannes de Collis
+V$Johannes de Collis/kaiserl. Notar/Johannes de Collis
+K$Die BrÅder Wecilo und Tholbert, Sîhne des Biachini? von Camino, bestÑtigen,
+dem Friedrich von Castello di Porpetto die HÑlfte aller Lehen am Schlo·
+Camino und Oderzo? zum Preis von 6 000 Pfund Veroneser Pfennige verkauft zu
+haben.
+
+REG$Die BrÅder Wecilo und Tholbert, Sîhne des Biachini? von Camino, bestÑtigen dem
+Friedrich von Castello di Porpetto? die HÑlfte aller Lehen am Schlo·
+Camino und Oderzo? zum Preis von 6 000 Pfund Veroneser Pfennige verkauft zu
+haben.
+F$BCU Ms. Joppi 369 Fasz. 4/14/1ff/2
+G$Friedrich/Genannter/CastellodiPorpetto/Castello di Porpetto//wo??
+E$Wecilo;Tholbert/Genannter/Camino_diOderzo/Camino di Oderzo?//wo??
+H$BestÑtigung_Kauf/ImmobilienLehen?/Camino_diOderzo;Oderzo/Camino_diOderzo?;
+Oderzo//wo??
+W$Verona/X/
+O$6000/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$hoc pretio sex millium librarum denariorum Veronensium quas ab eodem d.
+Frederico acceperunt et in se habere confessi fuerunt
+
+DOK$fjop_21/1234.5.11/1234.5.11/1234 Mai 11/anno domini MCCXXXIIII. ind. VII. die XI. intrante Madio/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Iubigen von Partistagno investiert Hartwig von Tolmein mit einer Hube in
+Lazis.
+
+REG$Iubigen von Partistagno investiert Hartwig von Tolmein mit einer Hube in
+Lazis und verspricht, diese Investitur bei Strafe von 20 Mark durchzufÅhren?
+F$BCU Ms. Joppi 369 Fasz. 4/18*1/1/1
+G$Iubigen/Genannter/Partistagno/Partistagno//Friaul-Ost/
+E$Hartwig/Genannter/Tolmein/Tolmein//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XX marcharum
+B$Patriarch Wolfker starb 1218!
+
+DOK$fjop_28/1234.8.15/1234.8.15/1234 August 15/anno domini MCCXXXIIII. indictione VII. die mercurii XVI.
+exeunte mense Augusti/Belgrado di Varmo/Belgrado di Varmo//Friaul-Mitte/
+S$Silvester/kaiserl. Notar/Silvester
+V$Silvester/kaiserl. Notar/Silvester
+K$Heinrich von Belgrado verspricht dem Hermann von Sacile als Heiratsgut fÅr
+seine Schwester Elisabeth 9 Huben.
+
+REG$Heinrich von Belgrado verspricht dem Hermann von Sacile unter Strafe von
+100 Mark Agleier Pfennigen neun Huben als Heiratsgut fÅr seine Schwester
+Elisabeth.
+F$BCU Ms. Joppi 369 Fasz. 4/21/1ff/2
+G$Heinrich/Genannter/Belgrado/Belgrado//Friaul-Mitte/
+E$Hermann/Genannter/Sacile/Sacile//Friaul-West?/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena C marcarum Aquilegensium denariorum
+B$Heiratsgutsache, GÅter in KÑrnten betreffend
+
+DOK$fjop_29/1235.2.28/1235.2.28/1235 Februar 28/anno domini MCCXXXV. ind. VIII. die ultimo mensis
+Februarii/Meduna/Meduna//Friaul-West/
+S$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+V$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+K$Volkmar von Panigai verkauft dem Rudolf von Sbroiavacca eine Hube in
+Villota zum Preis von 300 Pfund Veroneser Pfennigen.
+
+REG$Volkmar von Panigai verkauft dem Rudolf von Sbroiavacca eine Hube in
+Villota zum Preis von 300 Pfund Veroneser Pfennigen.
+F$BCU Ms. Joppi 369 Fasz. 4/23/1f/1
+G$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Volkmar/Genannter/Panigai/Panigai//Friaul-West/
+H$Kauf/Immobilien/Villotta/Villotta di Chions/Villota/Friaul-West/
+W$Verona/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio CCC librarum den(ariorum ?) Veron.
+
+REG$Volkmar von Panigai verkauft dem Rudolf von Sbroiavacca eine Hube in
+Villota zum Preis von 300 Pfund Veroneser Pfennigen und verspricht ihm bei
+Strafe von 500 Pfund Veroneser Pfennigen, dafÅr zu sorgen, da· der Vizedom
+Heinrich von Meduna?o ihn mit der Hube investiert.
+F$BCU Ms. Joppi 369 Fasz. 4/23/1f/2
+G$Volkmar/Genannter/Panigai/Panigai//Friaul-West/
+E$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$500/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena quingentarum librarum denariorum Veronensium
+
+REG$Volkmar von Panigai verkauft dem Rudolf von Sbroiavacca eine Hube in
+Villota zum Preis von 300 Pfund Veroneser Pfennigen und verspricht ihm bei
+Strafe von 500 Pfund, auf das Lehen zu verzichten und dafÅr
+zu sorgen, da· der Vizedom Heinrich von Meduna? ihn mit der Hube investiert.
+F$BCU Ms. Joppi 369 Fasz. 4/23/1f/2
+G$Volkmar/Genannter/Panigai/Panigai//Friaul-West/
+E$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub \dots pena \dots quingentarum librarum
+
+DOK$fjop_30/1235.3.16/1235.3.31?/1235 MÑrz 16 - 31/anno domini MCCXXXV. indictione VIII. exeunte mense Martii
+/Venzone/Venzone//Friaul-Nord/
+S$Heinrich/kaiserl. Notar/Heinrich
+V$Heinrich/kaiserl. Notar/Heinrich
+K$Die BrÅder Rainer und Heinrich von Venzone Åbergeben dem Glizoi von Mels eine
+Roia de molendino und ein Feld in Venzone.
+
+REG$Die BrÅder Rainer und Heinrich von Venzone Åbergeben dem Glizoi von Mels eine
+Roia de molendino und ein Feld in Venzone, wofÅr sie jÑhrlich einen Zins in der
+Hîhe von 8 Pfennigen zu zahlen haben.
+F$BCU Ms. Joppi 369 Fasz. 4/24/1/1
+G$Rainer;Heinrich/Genannter/Venzone/Venzone//Friaul-Nord/
+E$Glizoi/Genannter/Mels/Mels//Friaul-Mitte/
+H$Zinsverpflichtung/Zins/Venzone/Venzone//Friaul-Nord/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$ab anno octo denarios ad fictum Aquileiensem
+
+REG$Die BrÅder Rainer und Heinrich von Venzone Åbergeben dem Glizoi von Mels eine
+Roia de molendino und ein Feld in Venzone, wofÅr sie jÑhrlich unter Strafe
+des Doppelten ?einen Zins in der Hîhe von 8 Pfennigen zu zahlen haben.
+F$BCU Ms. Joppi 369 Fasz. 4/24/1/1
+G$Rainer;Heinrich/Genannter/Venzone/Venzone//Friaul-Nord/
+E$Glizoi/Genannter/Mels/Mels//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena duplicis denarii Aquilegensis ?
+B$pena dupli
+
+REG$Die BrÅder Rainer und Heinrich von Venzone Åbergeben dem Glizoi von Mels eine
+Roia de molendino und ein Feld in Venzone, wofÅr sie jÑhrlich
+einen Zins in der Hîhe von 8 Pfennigen zu zahlen haben. Au·erdem dÅrfen sie bei
+Strafe einer Unze Gold nicht zum Gerichtstermin des Glizoi gehen. ?
+F$BCU Ms. Joppi 369 Fasz. 4/24/1/1
+G$Rainer;Heinrich/Genannter/Venzone/Venzone//Friaul-Nord/
+E$Glizoi/Genannter/Mels/Mels//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/uncia/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pena unius uncie auri
+
+DOK$fjop_31/1235.9.30/1235.9.30/1235 September 30/anno domini MCCXXXV. indictione VIII. die ultimo septembri
+/Casarsa/Casarsa//Friaul-West/
+S$Ugolinus Balductanus/kaiserl. Notar/Ugolinus Balductanus
+V$Ugolinus Balductanus/kaiserl. Notar/Ugolinus Balductanus
+K$Konrad, der Sohn des Wariend von Ziracco, verkauft zum Preis von 900 Pfund
+venezianischer Pfennige dem Heinrich, dem Sohn der Gotman?, einen Hof in Ziracco
+mit dem Dorf und eine Hube in Cavazo?.
+
+REG$Konrad, der Sohn des Wariend von Ziracco, verkauft zum Preis von 900 Pfund
+venezianischer Pfennige dem Heinrich, dem Sohn der Gotman?, einen Hof in Ziracco
+mit dem Dorf und eine Hube in Cavazo?. Das Geld soll Frau Wridou von Portogruaro
+bekommen.
+F$BCU Ms. Joppi 369 Fasz. 4/25/1ff/1
+G$Heinrich/X/X/X//
+E$Wridou/Genannte/Portogruaro/Portogruaro//Friaul-West  Frau?
+E$Konrad/Genannter/Ziracco di Remanzacco/Ziracco di Remanzacco//Friaul-Ost,b.Cividale     oder weglassen
+H$Kauf/Immobilien/Ziracco di Remanzacco/Ziracco di Remanzacco//Friaul-Ost/
+W$Venedig/X/
+O$900/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro novem centum libris denariorum Venetorum
+
+DOK$fjop_32/1237.2.23/1237.2.23/1237 Februar 23/anno domini MCCXXXVII. indictione decima sexto die exeunte
+Februario/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Cosan und Nodan investieren Konrad Pappus mit einem sedimen in Porta Brexena?
+zu einem jÑhrlichen Zins in der Hîhe von 2 Agleier Pfennigen pro Schritt, also
+22 Pfennigen in Summe.
+
+REG$Cosan und Nodan investieren Konrad Pappus mit einem sedimen in Porta Brexena?
+zu einem jÑhrlichen Zins in der Hîhe von 2 Agleier Pfennigen pro Schritt, also
+22 Pfennigen in Summe.
+F$BCU Ms. Joppi 369 Fasz. 4/31/1ff/1
+G$Konrad Pappus/X/X/X//
+E$Cosan;Nodan/X/X/X//
+H$Zinsverpflichtung_Einheit?/Zins/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$debet solvere annuatim \dots duos denarios Aquilegenses pro quolibet
+passu sub pena dupli summa denariorum viginti duo
+
+REG$Cosan und Nodan investieren Konrad Pappus mit einem sedimen in Porta Brexena?
+zu einem jÑhrlichen Zins in der Hîhe von 2 Agleier Pfennigen pro Schritt, also
+22 Pfennigen in Summe.
+F$BCU Ms. Joppi 369 Fasz. 4/31/1ff/1
+G$Konrad Pappus/X/X/X//
+E$Cosan;Nodan/X/X/X//
+H$Zinsverpflichtung_Summe/Zins/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$22/den./X/Z
+Q$debet solvere annuatim \dots duos denarios Aquilegenses pro quolibet
+passu sub pena dupli summa denariorum viginti duo
+
+REG$Cosan und Nodan investieren Konrad Pappus mit einem sedimen in Porta Brexena?
+zu einem jÑhrlichen Zins in der Hîhe von 2 Agleier Pfennigen pro Schritt, also
+22 Pfennigen in Summe. Au·erdem wird ein Vorkaufsrecht vereinbart, wonach Konrad
+verpflichtet ist, den BrÅdern das sedimen um 8 Pfennige weniger, als der
+gerechte Preis ist, anzubieten, falls er verkaufen will.
+F$BCU Ms. Joppi 369 Fasz. 4/31/1ff/1
+G$Konrad Pappus/X/X/X//
+E$Cosan;Nodan/X/X/X//
+H$Vorkaufsrecht_Abschlag/Immobilien/Cividale/Cividale,PortaBrexena/Porta
+Brexena wohl Brossana
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$et eisdem dare octo denariis minus iusto pretio
+
+DOK$fjop_33/1237.2.26/1237.2.26/1237 Februar 26/a. d. MCCXXXVII. ind. X. die iovis III. exeunte Februario
+/Artegna/Artegna//Friaul-Mitte/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Burkhard von Artegna und seine Frau Maitel tauschen mit Noongus von
+Premariacco einen Hof und HÑuser in Cividale gegen 20 Pfund kleiner
+Venezianer und eine Hube in Carpeneto.
+
+REG$Burkhard von Artegna und seine Frau Maitel tauschen mit Noongus von
+Premariacco einen Hof und HÑuser in Cividale gegen 20 Pfund kleiner
+Venezianer und eine Hube in Carpeneto.
+F$BCU Ms. Joppi 369 Fasz. 4/32/1f/1
+G$Noongus/Genannter/Premariacco/Premariacco//Friaul-Ost     Nodongo ckap 152aa?
+E$Burkhard/Genannter/Artegna/Artegna//Friaul-Mitte/
+E$Maitel/Genannte/Artegna/Artegna//Friaul-Mitte/
+H$Tausch/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Venedig/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$pro precio XX librarum Venecianorum parvulorum
+
+REG$Burkhard von Artegna und seine Frau Maitel tauschen mit Noongus von
+Premariacco einen Hof und HÑuser in Cividale gegen 20 Pfund
+und eine Hube in Carpeneto.
+F$BCU Ms. Joppi 369 Fasz. 4/32/1f/1
+G$Noongus/Genannter/Premariacco/Premariacco//Friaul-Ost    Nodongo ckap 152aa
+E$Burkhard/Genannter/Artegna/Artegna//Friaul-Mitte/
+H$Tausch/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro dictis XX libris
+
+REG$Burkhard von Artegna und seine Frau Maitel tauschen mit Noongus von
+Premariacco einen Hof und HÑuser in Cividale gegen 20 Pfund kleiner
+Venezianer und eine Hube in Carpeneto und versprechen unter Strafe von 50 Mark
+Agleier MÅnze, da· sie selbst und ihre Erben diese Immobilien nicht verkaufen, Åbergeben,
+verschenken oder entfremden?.
+F$BCU Ms. Joppi 369 Fasz. 4/32/1f/2
+G$Burkhard/Genannter/Artegna/Artegna//Friaul-Mitte/
+E$Noongus/Genannter/Premariacco/Premariacco//Friaul-Ost    Nodongo ckap 152aa
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in pena L marcharum Aquilegensis monete
+
+DOK$fjop_34/1238.1.15/1238.1.15/1238 JÑnner 15/In MCCXXXVIII. indictione XII. die XV. intrante mense
+ianuarii/X/X//
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Gottschalk von Cascanon und seine Frau Cumundis verkaufen dem Friedrich von
+Colmalisio genannte GÅter zum Preis von 4 Mark und 40 Pfennigen Agleier MÅnze.
+
+REG$Gottschalk von Cascanon und seine Frau Cumundis verkaufen dem Friedrich von
+Colmalisio genannte GÅter zum Preis von 4 Mark und 40 Pfennigen Agleier MÅnze.
+F$BCU Ms. Joppi 369 Fasz. 4/34/1/1
+G$Friedrich/Genannter/ColleMolisio/Colmalisio//Colle Malisio î.Moruzzo
+E$Gottschalk/Genannter/uFriaul_Mitte Cascanon/Cascanon//wo??
+E$Cumundis/Genannte/uFriaul_Mitte Cascanon/Cascanon//wo??
+H$Kauf/Immobilien/uFriaul_Mitte Cascanon/Cascanon//wo??
+W$Aquileia/moneta/
+O$4/marca/X
+Z$X/X/X
+M$40/den./X/A
+Q$pretio et foro quartuor marcarum et XL denariorum Aquilegensis
+monete
+B$Cascanon  (so ?) "ultra aquam qui dicitur Cormor ubi dicitur Ripa". î.Moruzzo
+Albiula de Valle.
+Regest.
+
+DOK$fjop_35/1238.4.23/1238.4.23/1238 April 23/a. d. MCCXXXVIII. ind. XII. die VIII. exeunte mense
+aprilis/X/X//
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Johannes Murtisinus von Udine verkauft dem Friedrich von Colmalisio ein
+Haus in Udine zum Preis von drei Mark Pfennigen Agleier MÅnze.
+
+REG$Johannes Murtisinus von Udine verkauft dem Friedrich von Colmalisio ein
+Haus in Udine zum Preis von drei Mark Pfennigen Agleier MÅnze.
+F$BCU Ms. Joppi 369 Fasz. 4/35/1/1
+G$Friedrich/Genannter/ColleMolisio/Colmalisio//wo??
+E$Johannes Murtisinus/Genannter/Udine/Udine//Friaul-Mitte/
+H$Kauf/Immobilien/Udine/Udine//Friaul-Mitte/
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pretio et foro trium marcarum denariorum Aquilegensis monete
+
+DOK$fjop_37/1239.1.17/1239.1.17/1239 JÑnner 17/anno domini MCCXXXIX. ind. XII. die XV. exeunte ianuario
+/uFriaul Castello/Castello//Friaul-wo??
+S$Philipp/kaiserl. Notar/Philipp
+V$Philipp/kaiserl. Notar/Philipp
+K$Schiedsspruch im Streit zwischen dem Kapitel zu Aquileia und Hartwig von
+Castello.
+
+REG$Schiedsspruch im Streit zwischen dem Kapitel zu Aquileia und Hartwig von
+Castello, an den sich die Genannten bei Strafe von 100 Mark Pfennigen Agleier
+MÅnze zu halten haben.
+F$BCU Ms. Joppi 369 Fasz. 4/37/1ff/1
+G$Hartwig/Genannter/uFriaul Castello/Castello//Friaul-wo??
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena centum marcarum denariorum Aquilegensis monete
+B$Gehîrt zu Kapitel Aquileia ! akau 83a Regest?
+                               akau 84 Urkunde 1239 JÑnner 26
+
+DOK$fjop_38/1241.2.23/1241.2.23/1241 Februar 23/anno domini MCCXXXXI. die sexto exeunte februario
+indictione XIV./Mels/Mels//Friaul-Mitte/
+S$Samson/kaiserl. Notar/Samson
+V$Samson/kaiserl. Notar/Samson
+K$During, Clisoi?, Hermann, Azzo, Heinrich und Wariend, die Sîhne des During von
+Mels, schlie·en einen Erbvertrag das Schlo· und das Dorf Mels mit allem Zugehîr
+und die Dîrfer Entestano und Meleson betreffend.
+
+REG$During, Clisoi?, Hermann, Azzo, Heinrich und Wariend, die Sîhne des During von
+Mels, schlie·en bei Strafe von 500 Mark Silber einen Erbvertrag das Schlo· und
+das Dorf Mels mit allem Zugehîr und die Dîrfer Entestano und Meleson
+betreffend.
+F$BCU Ms. Joppi 369 Fasz. 4/47/1ff/2
+G$During/Genannter/Mels/Mels//Friaul-Mitte    nur zwei genannt?
+E$Hermann/Genannter/Mels/Mels//Friaul-Mitte/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena CCCCCarum marcharum argenti
+
+DOK$fjop_39/1241.7.7/1241.7.7/1241 Juli 7/X/Montereale/Montereale//Friaul-West/
+S$Heinrich v.Montesella/X/Heinrich v.Montesella
+V$Heinrich v.Montesella/X/Heinrich v.Montesella
+K$Hermann und Johannes von Portis, S? von Treppo, Toppo und Jakob von Butrio
+schlie·en mit Wolfrad von Maniago, Scotto ? und Pietro von Montereale Frieden.
+
+REG$Hermann und Johannes von Portis, S? von Treppo, Toppo und Jakob von Butrio
+schlie·en mit Wolfrad von Maniago, Scotto ? und Pietro von Montereale Frieden
+und geben ihnen ein Wadium in der Hîhe von 1000 Mark Silber.
+F$BCU Ms. Joppi 369 Fasz. 4/49/1/1
+G$Hermann;Johannes/Genannter/Portis;Cividale/Portis;Cividale//Friaul-Ost   alle nennen?
+G$S?/Genannter/TreppoGrande/Treppo//wo??
+G$Toppo;Jakob/Genannter/Buttrio/Buttrio//wo??
+E$Wolfrad/Genannter/Maniago/Maniago//Friaul-West/
+E$Scotto?/X/X/X//
+E$Pietro/Genannter/Montereale/Montereale//wo??
+H$Friedensschlu·/Wadium/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$dederunt eis wadiam mille marcharum argentum
+
+DOK$fjop_22/1242.10.24/1242.10.24/1242 Oktober 24/anno domini MCCXLII. ind. XV. octavo die exeunte Octabrio
+/Cividale/Cividale//Friaul-Ost/
+S$Anselm/kaiserl. Notar/Anselm
+V$Anselm/kaiserl. Notar/Anselm
+K$Pabalinus von Partistagno verkauft dem Heinrich Scrizolinus verschiedene
+Naturalabgaben, die er vom Abt von Rosazzo zu Lehen hatte, zum Preis von drei
+Mark Agleier MÅnze.
+
+REG$Pabalinus von Partistagno verkauft dem Heinrich Scrizolinus verschiedene
+Naturalabgaben, die er vom Abt von Rosazzo zu Lehen hatte, zum Preis von drei
+Mark Agleier MÅnze.
+F$BCU Ms. Joppi 369 Fasz. 4/18*2/1/1
+G$Heinrich Scrizolinus/X/X/X//
+E$Pabalinus/Genannter/Partistagno/Partistagno//Friaul-Ost/
+H$Kauf?öbergabe/Naturalabgaben/Orsaria/Orsaria//Friaul-Ost/
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro pretio trium marcharum Aquilegiensis monete
+B$1242 August 7 Resignation.
+
+DOK$fjop_40/1246.9.2/1246.9.2/1246 September 2/anno domini MCCXLVI. indicione quinta die secundo intrantis
+Septembris/S.VitoalTagliamento/S. Vito al Tagliamento//Friaul-West/
+S$Hencius/kaiserl. Notar/Hencius
+V$Hencius/kaiserl. Notar/Hencius
+K$Heinrich von Savorgnano, der Sohn des Arpo von S. Vito, bestÑtigt, 110 Pfund
+Pfennige von Patessius von Settimo und dessen Sohn Jakob erhalten zu haben,
+wofÅr die BrÅder Heinrich, Sclavus und Paiero sie mit einer Hube und den Zehnten
+derselben Hube in Tau investierten.
+
+REG$Heinrich von Savorgnano, der Sohn des Arpo von S. Vito, bestÑtigt, 110 Pfund
+Pfennige von Patessius von Settimo und dessen Sohn Jakob erhalten zu haben,
+wofÅr die BrÅder Heinrich, Sclavus und Paiero sie mit einer Hube und den Zehnten
+derselben Hube in Tau investierten.
+F$BCU Ms. Joppi 369 Fasz. 5/02/1/1
+G$Patessius;Jakob/Genannter/Settimo/Settimo//Friaul-West/
+E$Heinrich/Genannter/Savorgnano/Savorgnano//Friaul-Mitte/
+H$Investitur/Immobilien/uFriaul_West Tau/Tau//Friaul-West/
+W$X/X/
+O$110/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse centum et X libras denariorum
+
+REG$Strafbestimmung in der Hîhe des Doppelten minus 10 Schillinge.  ?
+F$BCU Ms. Joppi 369 Fasz. 5/02/1/1
+G$Heinrich/Genannter/Savorgnano/Savorgnano//Friaul-Mitte   ?
+E$Patessius;Jakob/Genannter/Settimo/Settimo//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$10/sol./minus
+M$X/X/X/Z
+Q$sub pena dupli minus X solidis
+
+DOK$fjop_40aa/1246.9.2/1246.9.2/1246 September 2/anno domini MCCXLVI. indicione quinta die secundo
+intrantis Septembris/S.VitoalTagliamento/S. Vito al Tagliamento//Friaul-West/
+S$Hencius/kaiserl. Notar/Hencius
+V$Hencius/kaiserl. Notar/Hencius
+K$Heinrich von Savorgnano, der Sohn des Arpo von S. Vito, bestÑtigt, 110 Pfund
+Pfennige von Patessius von Settimo und dessen Sohn Jakob erhalten zu haben,
+wofÅr die BrÅder Heinrich, Sclavus und Paiero sie mit einer Hube und den Zehnten
+derselben Hube in Godia investierten.
+
+REG$Heinrich von Savorgnano, der Sohn des Arpo von S. Vito, bestÑtigt, 110 Pfund
+Pfennige von Patessius von Settimo und dessen Sohn Jakob erhalten zu haben,
+wofÅr die BrÅder Heinrich, Sclavus und Paiero sie mit einer Hube und den Zehnten
+derselben Hube in Godia investierten.
+F$BCU Ms. Joppi 369 Fasz. 5/03/1/1
+G$Patessius;Jakob/Genannter/Settimo/Settimo//Friaul-West/
+E$Heinrich/Genannter/Savorgnano/Savorgnano//Friaul-Mitte/
+H$Investitur/Immobilien/Godia/Godia//Friaul-West/
+W$X/X/
+O$110/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse centum et X libras denariorum
+
+REG$Strafbestimmung in der Hîhe des Doppelten minus 10 Schillinge.  ?
+F$BCU Ms. Joppi 369 Fasz. 5/03/1/1
+G$Heinrich/Genannter/Savorgnano/Savorgnano//Friaul-Mitte   ?
+E$Patessius;Jakob/Genannter/Settimo/Settimo//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$10/sol./minus
+M$X/X/X/Z
+Q$sub pena dupli minus X solidis
+
+DOK$fjop_42/1247.8.14/1247.8.14/1247 August 14/anno domini MCCXLVII?. ind. V die XIV. intrante augusto
+/Cormons S.Quirino di/Cormons, S.Quirino di/S.Quirino am Judrio
+(Kirche)/Friaul-Ost,zw.Cormons u.Villanova/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Graf Meinhard von Gîrz legt die Streitfragen um gewisse GÅter zwischen
+Leonhard Abt von Rosazzo und den Herren von Gramogliano freundschaftlich bei.
+
+REG$Abt Leonhard von Rosazzo und die Herren von Gramogliano versprechen Graf
+Meinhard von Gîrz unter Strafe von 100 Mark Pfennigen Agleier MÅnze, die
+Vereinbarungen gewisse GÅter betreffend einzuhalten. ?
+F$BCU Ms. Joppi 369 Fasz. 5/07/1f/1?
+F$Reg. Gîrz 1/523/138/138
+F$MSF 16, Paschini Bertoldo/X/68/68  ?
+F$Bianchi Documenta, AfôG XXII/X/379/379  ?
+G$Leonhard/Abt/Rosazzo/Rosazzo//Friaul-Ost/
+G$X/Herren/Gramogliano/Gramogliano di Corno di Rosazzo//wo??
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost   ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena centum marcharum denariorum monete Aquilegensis
+
+DOK$fjop_43/1248.3.10/1248.3.10/1248 MÑrz 10/anno domini MCCXLVIII. ind. VI. die X. intrante Marti?s
+/Sbrojavacca/Sbrojavacca//Friaul-West/
+S$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+V$Otolinus Vicentinus/kaiserl. Notar/Otolinus Vicentinus
+K$Rudolf Picutto, der Sohn des Lazarus? de Cusano, und seine Frau
+Verimburg verkaufen dem Rudolf von Sbroiavacca und seiner Frau Beraliana? und
+ihren Kindern eine Hube in Basedo zum Preis von 130 Pfund venezianischer
+Pfennige.
+
+REG$Rudolf Picutto, der Sohn des Lazarus? von Cusano, und seine Frau
+Verimburg verkaufen dem Rudolf von Sbroiavacca und seiner Frau Beraliana? und
+ihren Kindern eine Hube in Basedo zum Preis von 130 Pfund venezianischer
+Pfennige.
+F$BCU Ms. Joppi 369 Fasz. 5/10/1/1
+G$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+G$Beraliana/Genannte/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Rudolf Picutto/Genannter/Cusano/Cusano//Friaul-West/
+E$Verimburg/Genannter/Cusano/Cusano//Friaul-West/
+H$Kauf/Immobilien/Basedo/Basedo//Friaul-West/
+W$Venedig/X/
+O$130/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio Cum et XXXa librarum denariorum Venetorum
+
+REG$Rudolf von Sbroivacca verspricht dem Rudolf Picutto, dem Sohn des Lazarus? von
+Cusano, unter Strafe von 200 Pfund venezianischer Pfennige, die 130 Pfund
+venezianischer Pfennige zu bezahlen.
+F$BCU Ms. Joppi 369 Fasz. 5/10/1/1
+G$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Rudolf Picutto/Genannter/Cusano/Cusano//Friaul-West/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$sub pena CCum librarum denariorum Venetorum
+
+REG$Rudolf von Sbroivacca verspricht dem Rudolf Picutto, dem Sohn des Lazarus? von
+Cusano, unter Strafe von 200 Pfund venezianischer Pfennige, die 130 Pfund
+venezianischer Pfennige zu bezahlen.
+F$BCU Ms. Joppi 369 Fasz. 5/10/1/1
+G$Rudolf/Genannter/Sbrojavacca/Sbrojavacca//Friaul-West/
+E$Rudolf Picutto/Genannter/Cusano/Cusano//Friaul-West/
+H$Zahlungsverpflichtung/Kaufsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$130/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$C et XXXta libras denariorum Venetorum
+
+DOK$fjop_44/1218.0.0/1251.0.0/1218 - 1251/X/X/X//
+S$X/X/X
+V$X/X/X
+K$UntersuchungPrÅfung? des Protokolls seiner ? des Patriarchen in S. Pietro und
+S. Quirino, Zeugen ? Herren von Villalta
+
+REG$Einnahmen fÅr ein Schaf des Patriarchen Berthold von Aquileia in S. Pietro in
+der Hîhe von 6 Pfennigen.
+F$BCU Ms. Joppi 369 Fasz. 5/26/1f/1
+G$X/X/X/X//
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Einnahmen/Mobilien?/S.PietroalNatisone/S. Pietro al Natisone//di Natisone!
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$solvit quilibet dictorum mansorum VI denarios pro ove
+
+REG$Mauteinnahmen des Patriarchen Berthold von Aquileia in S. Quirino
+in der Hîhe von 40 Pfennigen.
+F$BCU Ms. Joppi 369 Fasz. 5/26/1f/1
+G$X/X/X/X//
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr.  ?
+H$Einnahmen/Maut/S.PietroalNatisone S.Quirino/S.Pietro al Natisone,S.
+Quirino//in S.Pietro di Natisone
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$qui acciepiebat mutam et dixit quod accipiebat aliquando XL denarios
+
+REG$Warner Sclencha, der Gastalde? des Patriarchen Berthold von Aquileia,
+zahlte aus verwendete? eine Mark.
+F$BCU Ms. Joppi 369 Fasz. 5/26/1f/1
+G$Warner/Gastalde/Aquileia/Aquileia//Friaul-SÅd/
+E$X/X/X/X//
+H$Ausgaben/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$Warnerus expendebat aliquando de suis denariis unam marcham
+
+
+

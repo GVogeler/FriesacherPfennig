@@ -1,0 +1,2951 @@
+note *** Urkunden Kloster Moggio
+        Nummerierung nach Edition Moggio
+        Ausnahme 1: Inventar Abt Jakob (nach Battistellam Abb. S. 117-122)
+        Ausnahme 2: Urbar (nur KÑrntner Teil) aus MDC IV-1 Nr. 2149
+        Noch prÅfen: Kos, KÅstenlandurbare S. 298-302 aufgenommen?
+        Rest noch aus Fotos aufzunehmen
+
+note *** Einlesen der Rohdaten fr_moggi.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$fmog_trad/1214.4.3(!)/1214.4.3(!)/vor 1214 April 3/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Irmintrud, Gattin des Hermann von Pinzano, schenkt dem Kloster Moggio eine
+Hube zu Giavons.
+
+REG$EinkÅnfte der Irmintrud, Gattin des Hermann von Pinzano, aus einer Hube zu
+Giavons in der Hîhe von jÑhrlich 12 Pfennigen.
+F$Moggio/T1/75/75
+G$X/X/X/X//
+E$Irmintrud/Genannte/Pinzano/Pinzano?//nî.Spilimbergo/
+H$EinkÅnfte/Immobilien/Giavons/Giavons//s.San Daniele del Friuli/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$mansus \dots persolvit annuatim XII denarios
+B$Da bei Torre, Nr. 26 S. 141f, datiert 1214 April 3 von Irmintrud als Witwe
+gesprochen wird, mu· die Urkunde vor diesem Datum geschrieben worden sein.
+
+DOK$fmog_u11/1146.6.19/1146.6.19/1146 Juni 19/anno dominic\c{e} incarnacionis
+MCXLVI, duodecimo die exeunte mense iunii, inditione
+octava/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+S$Dietrich/X/Dietrich
+V$Dietrich/X/Dietrich
+K$Die Eheleute Johannes und Gerelda sowie deren genannte Sîhne und Tîchter
+verkaufen in Gegenwart und mit Zustimmung ihres Vaters bzw. Gro·vaters Pilgrim
+[von Vendoglio] dem Kloster Moggio genannte GÅter zu Vendoglio, welche sie von
+eben diesem Pilgrim bekommen hatten, um den Gegenwert von 30 Pfund
+venezianischer MÅnze.
+
+REG$Die Eheleute Johannes und Gerelda sowie deren genannte Sîhne und Tîchter
+verkaufen in Gegenwart und mit Zustimmung ihres Vaters bzw. Gro·vaters Pilgrim
+[von Vendoglio] dem Kloster Moggio genannte GÅter zu Vendoglio, welche sie von
+eben diesem Pilgrim bekommen hatten, um den Gegenwert von 30 Pfund
+venezianischer MÅnze.
+F$Moggio/11/85f/85
+G$Ulrich/Abt/Moggio/Moggio//Friaul-Nord,sw.Pontafel/
+E$Johannes/X/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+H$Kauf/Immobilien/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+W$Venedig/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$inter argentum et aliam mercem valentem libras triginta Uenetiensis monet\c{e}
+
+DOK$fmog_u13/1149.5.8/1149.5.8/1149 Mai 8/VIII. idus maii,
+anno dominic\c{e} incarnationis MCXLVIIII/Gemona/Gemona//Friaul-Mitte/
+S$Arnold/X/Arnold?
+V$Arnold/X/Arnold
+K$Kînig Konrad [III.] stellt dar, wie er nach Eroberung der Stadt Roas auf die
+Ermahnungen des Papstes Eugen [III.] und des Abtes Bernhard von Clairvaux einen
+Kreuzzug unternommen, seiner SÅnden halber jedoch wenig ausgerichtet habe. Nach
+Anbetung des heiligen Kreuzes in Ierosolimis habe er die Heimreise angetreten
+und glÅcklich Aquileia errreicht. Hier mu·te er sehen, wie infolge seiner langen
+Abwesenheit und Åberhaupt wegen der seltenen kîniglichen Aufenthalte in dieser
+Stadt der Besitz von Propsteien, Abteien und der anderen Kirchen in hîchstem
+Ma·e durch Belehnungen entfremdet worden war. Jenseits der Alpen dringend
+gebraucht, lÑ·t der Kînig die entfremdeten Besitzungen kraft Hofgerichtsspruch
+zurÅckerstatten. Insbesondere stellt er dem Abt O\~{v}dolricus Mosacensis und
+den BrÅdern dieses Klosters die entfremdeten GÅter zurÅck und erlaubt ihnen die
+Annahme von in Zukunft geschenkten AllodialgÅtern. Zuwiderhandelnde verfallen
+dem kîniglichen Bann und zahlen 30 Pfund Goldes je an die kînigliche Kammer und
+an das Kloster.
+
+REG$Strafbestimmung in der Hîhe von 30 Pfund Goldes je an die kînigliche Kammer
+und an das Kloster.
+F$Moggio/13/87f/88
+F$Ughelli 5/X/63f/63
+F$MGH DK III/198/357ff/359
+F$Liruti V/X/237ff/238
+F$Mascovius, Comment./11/351ff/352/
+F$Reg. Gîrz 1/220/60f/60
+G$X/X/X/X//
+E$X/Kammer/Rîm.Reich/Rîm.Reich//Rîm.Reich/
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Pînale/Strafgeld/Moggio/Moggio/Friaul-Nord/
+W$X/X
+O$30/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$XXX libras auri camere nostre, tantumdem iam dictis fratribus persolvat.
+B$MDC 3, 877, datiert 15. Mai Friesach Ñhnlich mit 100 Mark Gold Strafe.
+
+DOK$fmog_u16/1150.7.5/1150.7.5/1150 [!] Juli 5/tercio non. iulii,
+anno dominice incarnationis MCL, indictione quarta/Regensburg/Regensburg//Bayern/
+S$Arnold/X/Arnold ?
+V$Arnold/X/Arnold
+K$Kaiser [!] Friedrich [I.] bestÑtigt nach dem Beispiel seiner VorgÑnger der
+ecclesia Mosacensis auf Bitten von deren Abt Odalricus den gegenwÑrtigen wie den
+kÅnftighin rechtmÑ·ig erworbenen Besitzstand, ferner das Recht, Schenkungen von
+AllodialgÅtern anzunehmen. Zuwiderhandelnde verfallen dem Bann des Herrschers
+und zahlen je 30 Pfund Goldes an dessen Kammer und an das Kloster.
+
+REG$Strafbestimmung in der Hîhe von 30 Pfund Goldes je an die kînigliche Kammer
+und an das Kloster.
+F$Moggio/16/91f/91
+F$Stumpf Acta ined./120/149f/149
+F$MGH DF. I1/13/24f/25
+F$Leicht/172?/?/?
+F$Cappelletti Chiese 8/X/208ff/209
+F$Benedictina 5/2/48f/48
+G$X/X/X/X//
+E$X/Kammer/Rîm.Reich/Rîm.Reich//Rîm.Reich/
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Pînale/Strafgeld/Moggio/Moggio//Friaul-Nord/
+W$X/X
+O$30/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$triginta libras auri camerae nostr\c{e} et tantumdem iam dictis fratribus
+persolvat.
+B$Stumpf, Acta ined. S. 149 datiert die Urkunde mit 1152.
+Insert in Urkunde Friedrich II. von 1227 Dezember, Foggia.
+
+DOK$fmog_u202/1166.2.2/1166.2.2/1166 Februar 2/in purificatione anno
+dominic\c{e}
+incarnationis MCLXVI, indictione XIIII./Cividale/Cividale//Friaul-Ost
+S$Romulus/Aquileia/Romulus
+V$Romulus/Aquileia/Romulus
+K$Nach dem Tode der Vetradis, Gattin des Eckbert, bestÑtigt der ErwÑhlte Ulrich
+[II.] von Aquileia dem Kloster Moggio den eingetauschten Besitz und bestimmt
+einen Jahrtag fÅr sich und seine VorgÑnger.
+
+REG$Nach dem Tode der Vetradis, Gattin des Eckbert, bestÑtigt der ErwÑhlte Ulrich
+[II.] von Aquileia dem Kloster Kloster den eingetauschten Besitz und bestimmt
+einen Jahrtag fÅr sich und seine VorgÑnger, unter anderem eine halbe Mark fÅr
+Fisch und ôl und Bohnen.
+F$Moggio/20II/94ff/95
+G$Ulrich II.?/ErwÑhlter/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Konvent?/Moggio/Moggio//Friaul-Nord/
+H$Anniversar/Anniversar/Moggio/Moggio//Friaul-Nord/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dimidiam marcham pro piscibus et oleo ac fabis
+
+DOK$fmog_u30/1188.0.0/1188.0.0/1188/MCLXXXVIII/uFriaul/[Villa Petra?]/X//
+S$X/X/X
+V$X/X/X
+K$Stephan von Duino und seine Frau Adelmot verzichten gegenÅber Abt Giselher
+[von Moggio] und gegen Zahlung von acht Mark Friesacher MÅnze auf fÅnf strittige
+GÅter zu Tolmezzo, Imponzo und Maiaso.
+
+REG$Stephan von Duino und seine Frau Adelmot verzichten gegenÅber Abt Giselher
+[von Moggio] und gegen Zahlung von acht Mark Friesacher MÅnze auf fÅnf strittige
+GÅter zu Tolmezzo, Imponzo und Maiaso.
+F$Moggio/30/100/100
+F$MSF 39/069/48/48
+G$Giselher/Abt/Moggio/Moggio//Friaul-Nord/
+E$Stefan/Genannter/Duino/Duino//Istrien,sî.Monfalcone/
+H$Verzicht/Immobilien/Tolmezzo/Tolmezzo//Friaul-Nord/
+H$Verzicht/Immobilien/Imponzo/Imponzo//Friaul-Nord,nî.Tolmezzo/
+H$Verzicht/Immobilien/Maiago/Maiago/Majaso/Friaul-Nord,î.Ampezzo/
+W$Friesach/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro VIII marcis Frix(acensium)
+B$Nach dem Regest aufgenommen.
+
+DOK$fmog_u34/1194.9.16/1194.9.16/1194 September 16/anno domini MCLXXXXIIII.,
+XV. die exeunte sept., indictione XII./Buja/Buja//Friaul-Mitte,s.Gemona/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Konrad, Sohn des Dietmar von San Daniele, verzichtet auf zwei GÅter zu San
+Daniele, derentwegen er mit Abt Giselher von Moggio in Streit gelegen war, gegen
+Zahlung von zwei Mark und 60 Pfennigen Friesacher MÅnze.
+
+REG$Konrad, Sohn des Dietmar von San Daniele, verzichtet auf zwei GÅter zu San
+Daniele, derentwegen er mit Abt Giselher von Moggio in Streit gelegen war, gegen
+Zahlung von zwei Mark und 60 Pfennigen Friesacher MÅnze.
+F$Moggio/34/102/102
+F$MSF 39/112/52/52
+F$BCU Ms. Joppi 368 Fasz. 7/27/1/1
+G$Konrad/Genannter/S.Daniele/San Daniele//Friaul-Mitte/
+E$Giselher/Abt/Moggio/Moggio//Friaul-Nord/
+H$Verzicht/Immobilien/S.Daniele/San Daniele//Friaul-Mitte/
+W$Friesach/X/
+O$2/marca/X
+Z$X/X/X
+M$60/den./X/Z
+Q$dedit pretaxatus dominus abbas supradicto Conrado duas marcas et LX denarios
+Frisacen(ses)
+B$Corgnali, Inventario 52 n. 112 nennt 2 Mark Friesacher. Joppi "XV! die exeunte
+sept.", also 11. September. ?
+
+REG$Strafbestimmung in der Hîhe von 20 Mark.
+F$Moggio/34/102/102
+F$BCU Ms. Joppi 368 Fasz. 7/27/1/1
+G$Konrad/Genannter/S.Daniele/San Daniele//Friaul-Mitte/
+E$Giselher?/Abt/Moggio/Moggio//Friaul-Nord/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub nomine pene viginti marcarum
+
+DOK$fmog_u39/1203.12.6/1203.12.6/1203 Dezember 6/MCCIII, sexto
+decembr./Biauzzo/Biauzzo//Friaul-Mitte,w.Codroipo/
+S$Petrus/X/Petrus
+V$Petrus/X/Petrus
+K$Engelbert, Sohn des weiland Adalbert von Biauzzo, gibt dem Abt Konrad [von
+Moggio] gegen einen Geldbetrag sein Lehen zu Biauzzo auf.
+
+REG$Engelbert, Sohn des weiland Adalbert von Biauzzo, gibt dem Abt Konrad [von
+Moggio] gegen 6 oder 11 Mark Friesacher sein Lehen zu Biauzzo auf.
+F$Moggio/39/105/105
+G$Konrad/Abt/Moggio/Moggio//Friaul-Nord/
+E$Engelbert/Genannter/Biauzzo/Biauzzo//Friaul-Mitte,w.Codroipo/
+H$Kauf/Immobilien/Biauzzo/Biauzzo//Friaul-Mitte,w.Codroipo/
+W$Friesach/X/
+O$6/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio marcarum VI Frix(acensium)
+B$Leseschwierigkeit der Editoren. "Ob VI oder vielleicht XI zu lesen ist, war
+auch mit Ultraviolettlicht nicht mehr eindeutig festzustellen." (HÑrtel, Moggio,
+105). Nach dem Regest aufgenommen.
+
+DOK$fmog_u40/1208.0.0/1208.0.0/1208/MCCVIII/X/X//
+S$X/X/X
+V$X/X/X
+K$Lazar von Cusano gibt dem Abt Konrad [von Moggio] gegen einen Geldbetrag sein
+Lehen zu Latschach in KÑrnten auf.
+
+REG$Lazar von Cusano gibt dem Abt Konrad [von Moggio] gegen einen Geldbetrag, etwa
+30 Mark?, sein Lehen zu Latschach in KÑrnten auf.
+F$Moggio/40/105/105
+F$MSF 39/098/51/51
+G$Konrad/Abt/Moggio/Moggio//Friaul-Nord/
+E$Lazarus/Genannter/Cusano/Cusano//Friaul-West,î.Pordenone/
+H$Kauf/Immobilien/Latschach/Latschach//KÑ.,s.Faakersee/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$N/den./X/A
+Q$XXX marcarum minus \dots denarios
+B$Unlesbarkeit. Nach dem Regest aufgenommen.
+
+DOK$fmog_u42/1211.12.9/1211.12.9/1211 Dezember 9/anno domini MCCXI, nono
+die intrante decembr., indictione XIIII/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Patriarch Wolfger von Aquileia beurkundet die Beilegung des Streits zwischen
+abbas et collegium Mosacense einerseits und den comites Meinardus [II.] und
+Engelbertus [III.] de Goricia andererseits um die Vogtei in Velach superius et
+inferius und zu Inianum, welche sich die Grafen unrechtmÑ·ig angema·t hatten. Zu
+besserer Einsicht gekommen, Åbergeben diese nun dem Patriarchen all ihre
+tatsÑchlichen oder vermeintlichen Rechte an jener Vogtei: Der Abt entrichtet dem
+comes Meinardus 450 Pfund Veroneser.
+
+REG$Im Streit zwischen abbas et collegium Mosacense einerseits und den comites
+Meinardus [II.] und Engelbertus [III.] de Goricia andererseits um die Vogtei in
+Velach superius et inferius und zu Inianum verzichten die Grafen gegen 450 Pfund
+Veroneser auf alle Rechte an jener Vogtei.
+F$Moggio/42/106/106
+F$AT NS 11 Joppi/12/393f/394
+F$Kos 5/181/97/97
+F$AôG 21 Bianchi/033/183f/184
+F$Reg. Gîrz 1/361/99/99
+G$X/Abt/Moggio/Moggio//Friaul-Nord/
+E$Meinhard II./Graf/Gîrz/Gîrz//wo??
+H$Streitbeilegung/Vogtei/Fella/Fella?/Velach/Friaul-Nord/
+W$Verona/X/
+O$45O/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quadringentas et quinquaginta libras Veronensium comiti Meynardo persolvit.
+B$Wiesflecker (Reg. Gîrz 1, Nr. 361, S. 99) spricht von "550 libras Veronensium".
+
+DOK$fmog_u43/1213.6.21/1213.6.21/1213 Juni 21/MCCXIII, die X. exeunte
+iun./X/X//
+S$Laurentius/X/Laurentius
+V$Laurentius/X/Laurentius
+K$Die Grafen Engelbert [III.] und Meinhard [II.] von Gîrz verpfÑnden dem Abt
+Konrad [von Moggio] die Vogtei Åber Biauzzo um 500 Pfund.
+
+REG$Die Grafen Engelbert [III.] und Meinhard [II.] von Gîrz verpfÑnden dem Abt
+Konrad [von Moggio] die Vogtei Åber Biauzzo um 500 Pfund.
+F$Moggio/43/106/106
+F$MSF 39/014/43/43
+G$Konrad/Abt/Moggio/Moggio//Friaul-Nord/
+E$Engelbert III.;Meinhard II./Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Vogtei/Biauzzo/Biauzzo//Friaul-Mitte,w.Codroipo/
+W$X/X/
+O$5OO/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$obbligaverunt pignori advocatiam ville de Blaucio pro lb. V\+{c} [quingentis]
+B$Nach dem Regest aufgenommen.
+
+DOK$fmog_u44/1213.6.30/1213.6.30/1213 Juni 30/anno domini MCCXIII,
+indictione I., die ultimo exeunte iunio/Dignano/Dignano//Friaul-Mitte,sw.San Daniele del Friuli/
+S$Omnebonum/kaiserl. Notar/Omnebonum
+V$Omnebonum/kaiserl. Notar/Omnebonum
+K$Abt Chunradus Mosacensis hat die Vogtei Åber die ville scilicet de Ingiano et
+de Velach superius et inferius von den comites [Engelbert III. und Meinhard II.]
+de Goricia um 450 Pfund zurÅckgekauft, welche diese sich ohne Recht angema·t
+hatten. Nun sieht er, wie die villa de Ingiano durch mehrere Unbefugte behelligt
+wird, und so vertraut er sie dem Waltheruspertoldus [von Spilimbergo] zum
+Schutze an und bestimmt diesem zur EntschÑdigung EinkÅnfte aus demselben Dorf:
+32 Ma· Getreide, 32 HÅhner und 15 LÑmmer, dazu das Recht auf Gastung mit 16
+Pferden einmal im Jahr, sofern er durch Nacht oder öberschwemmung dazu genîtigt
+ist.
+
+REG$Abt Chunradus Mosacensis hat die Vogtei Åber die ville scilicet de Ingiano et
+de Velach superius et inferius von den comites [Engelbert III. und Meinhard II.]
+de Goricia um 450 Pfund zurÅckgekauft, welche diese sich ohne Recht angema·t
+hatten.
+F$Moggio/44/107/107
+F$Carreri, Spilimbergica/2/58/58  # ist gleich ASMA ?
+G$Konrad/Abt/Moggio/Moggio//Friaul-Nord/
+E$Engelbert III.;Meinhard II./Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Kauf/Vogtei/Fella/Fella?/Velach/Friaul-Nord/
+H$Kauf/Vogtei/Dignano/Dignano//Friaul-Mitte,sw. San Daniele del Friuli/
+W$X/X/
+O$45O/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quadringentis et quinquaginta libris redemit
+
+DOK$fmog_u47/1222.8.6/1222.8.6/1222 August 6/anno domini MCCXXII.,
+indictione X., die sexto intrante augusto/Aquileia/Aquileia//Friaul-SÅd/
+S$Omenbonum/kînigl. Notar/Omnebonum
+V$Omenbonum/kînigl. Notar/Omnebonum
+K$Rudolf von Cipriano steht gegenÅber Abt Azzo von Moggio von seinem Anspruch
+auf ein jÑhrliches Fohlen ab, von welchem er behauptet hatte, sein Vater Konrad
+hÑtte dieses Anrecht von den VorgÑngern des Abtes zu Lehen gehabt. DafÅr erhÑlt
+Rudolf zwei Mark. Ferner haben der Abt und seine Nachfolger an Rudolf und seine
+Erben jÑhrlich zwei Schuhe zu entrichten.
+
+REG$Rudolf von Cipriano steht gegenÅber Abt Azzo von Moggio von seinem Anspruch
+auf ein jÑhrliches Fohlen ab, von welchem er behauptet hatte, sein Vater Konrad
+hÑtte dieses Anrecht von den VorgÑngern des Abtes zu Lehen gehabt. DafÅr erhÑlt
+Rudolf zwei Mark.
+F$Moggio/47/108f/109
+F$AôG 21 Bianchi/074/199/199
+G$Azzo/Abt/Moggio/Moggio//Friaul-Nord/
+E$Rudolf/Genannter/Savorgnano di Torre/Savorgnano di Torre/Ciprianum/Comune di Povoletto/
+H$Verzicht/Lehen/Savorgnano di Torre/Savorgnano di Torre/Ciprianum/Friaul-Mitte?
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$receptis ab eo nomine transactionis duabus marcis
+
+DOK$fmog_u50/1225.3.23/1225.3.23/1225 MÑrz 23/anno domini MCCXXV., die
+nono exeunte marcio, indictione XIII./Moggio/Moggio//Friaul-Nord/
+S$Samson/kaiserl. Notar/Samson
+V$Samson/kaiserl. Notar/Samson
+K$Arnold von Venzone gibt fÅr sich und zugleich im Namen der Gemeinde von
+Venzone Abt Azzo und dem Konvent von Moggio ein Haus zu Venzone im Friedhof bei
+der Andreaskirche und empfÑngt dafÅr tauschweise ein anderes Haus in demselben
+Friedhof fÅr sich und die Gemeinde.
+
+REG$Strafbestimmung in der Hîhe von 50 Mark.
+F$Moggio/50/110/110
+G$Arnold/Genannter/Venzone/Venzone//Friaul-Mitte,n.Gemona/
+E$X/Konvent/Moggio/Moggio//Friaul-Nord/
+H$Pînale/Strafgeld/Moggio/Moggio//Friaul-Nord/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena L marcarum
+
+DOK$fmog_u67/1232.10.18/1232.10.18/1232 Oktober 18/anno domini MCCXXXII.,
+indictione V., die
+XIIII exeunte octubri/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+S$Omnebonum/kînigl. Notar/Omnebonum
+V$Omnebonum/kînigl. Notar/Omnebonum
+K$Walchun von Vendoglio macht sein Testament. Unter anderem bestimmt er das
+Kloster Moggio zu seiner GrabstÑtte und stiftet dort einen Jahrtag fÅr sich und
+seine Frau.
+
+REG$Walchun von Vendoglio hinterlÑ·t dem Spital St. Johann de ultramare eine Mark
+Agleier Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Spital/uFriaul/St. Johann de ultramare//wo??Johanniterorden
+H$Testament/Legat/uFriaul/St. Johann de ultramare//wo??
+W$Aquileia/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$hospitali sancti Iohannis de ultramare I marcam denariorum Aquilegensium
+
+REG$Walchun von Vendoglio hinterlÑ·t seinem Priester 24 Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/X/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$sacerdoti meo de penitentia XXIIII denarios
+
+REG$Walchun von Vendoglio hinterlÑ·t einem Priester von Vendoy 16 Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Priester/Vendoglio/Vendoglio/Vendoy/Friaul-Mitte,nw.Tricesimo/
+H$Testament/Legat/Vendoglio/Vendoglio/Vendoy/Friaul-Mitte,nw.Tricesimo/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$sacerdoti de Vendoy XVI denarios
+
+REG$Walchun von Vendoglio hinterlÑ·t der Kirche St. Nikolai de B\^ar 40 Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Kirche/Bari/Bari,Nikolauskirche/St. Nikolai de B\^ar/Apulien/
+H$Testament/Legat/Bari/Bari,Nikolauskirche/St. Nikolai de B\^ar/Apulien/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ecclesie sancti Nicholai de B\^ar XL denarios
+
+REG$Walchun von Vendoglio hinterlÑ·t der St. Peters Kirche in Rom 40 Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Kirche/Rom/Rom,St.Peter//Italien/
+H$Testament/Legat/Rom/Rom,St.Peter//Italien/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ecclesie sancti Petri de Roma XL denarios
+
+REG$Walchun von Vendoglio hinterlÑ·t der Kirche zu Vendoy 40 Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Kirche/Vendoglio/Vendoglio/Vendoy/Friaul-Mitte,nw.Tricesimo/
+H$Testament/Legat/Vendoglio/Vendoglio/Vendoy/Friaul-Mitte,nw.Tricesimo/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ecclesie de Vendoy XL denarios ad apparatum emendum
+
+REG$Walchun von Vendoglio hinterlÑ·t der Kirche St. Maria de Artenia 40 Pfennige.
+F$Moggio/67/118f/118
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Kirche/Artegna/Artegna,S.Maria/S. Maria de Artenia/Friaul-Mitte,sî.Gemona/
+H$Testament/Legat/Artegna/Artegna,S.Maria/S. Maria de Artenia/Friaul-Mitte,sî.Gemona/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ecclesie sancte Marie plebis de Artenia XL denarios ad fabricam eiusdem
+ecclesie
+
+REG$Walchun von Vendoglio hinterlÑ·t der Kirche St. Andrea de Zelaco 40 Pfennige.
+F$Moggio/67/118f/119
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Kirche/Zegliacco/Zegliacco,S.Andrea/S. Andrea de Zelaco/w.Tarcento(n.Udine)/
+H$Testament/Legat/Zegliacco/Zegliacco,S.Andrea/S. Andrea de Zelaco/w.Tarcento/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ecclesie sancti Andree de Zelaco XL denarios ad fabricam eius
+
+REG$Walchun von Vendoglio zahlt dem Kloster Moggio jÑhrlich 4 Pfennige fÅr den
+Fruchtgenu· an einer Hube in Vendoy, die er diesem fÅr einen Jahrtag fÅr sich
+und seine Frau ÅberlÑ·t.
+F$Moggio/67/118f/119
+G$Walchun/Genannter/Vendoglio/Vendoglio//Friaul-Mitte,nw.Tricesimo/
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Ablîse?/Immobilien_Fruchtgenu·/Moggio/Moggio?//Friaul-Nord/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$monasterium percipiat singulis annis IIII denarios de predicto manso quamdiu
+vixerimus nomine tenute
+
+DOK$fmog_u68a/1233.7.20/1233.7.20/1233 Juli 20/anno domini MCCXXXIII.,
+indictione VI., die
+duodecimo exeunte mense iulii/Chiusaforte/Chiusaforte//im Ferrokanal/
+S$X/X/X
+V$X/X/X
+K$Pfarrer Leonhard von Gemona und andere Genannte entscheiden als Schiedsleute
+zwischen dem Kloster Moggio und Heinrich von Gemona wegen des Bergs Medea und
+wegen verschiedener Besitzungen zu Chiusaforte.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark reinen Silbers, von 50 an den
+Patriarchen und 50 jener Partei zu zahlen sind, die sich an den Schiedsspruch
+hÑlt.
+F$Moggio/68a/119ff/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Berthold?/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+E$Heinrich/Genannter/Gemona/Gemona//Friaul-Mitte/
+H$Pînale/Strafgeld/Moggio/Moggio?//Friaul-Nord/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$omnia non observaverit incorrupta nomine pene centum marchas puri argenti
+solvere teneatur, quarum quinquaginta solvere tenebitur domino patriarche
+Aquilegensi, et alias quinquaginta illi parti, que eamdem sententiam firmam et
+ratam voluerit observare
+
+REG$Strafbestimmung in der Hîhe von 100 Mark reinen Silbers, von 50 an den
+Patriarchen und 50 jener Partei zu zahlen sind, die sich an den Schiedsspruch
+hÑlt.
+F$Moggio/68a/119ff/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Berthold?/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/Moggio/Moggio?//Friaul-Nord/
+W$X/X
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$omnia non observaverit incorrupta nomine pene centum marchas puri argenti
+solvere teneatur, quarum quinquaginta solvere tenebitur domino patriarche
+Aquilegensi, et alias quinquaginta illi parti, que eamdem sententiam firmam et
+ratam voluerit observare
+B$"Mark Silber" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark reinen Silbers, von 50 an den
+Patriarchen und 50 jener Partei zu zahlen sind, die sich an den Schiedsspruch
+hÑlt.
+F$Moggio/68a/119ff/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Heinrich/Genannter/Gemona/Gemona//Friaul-Mitte/
+H$Pînale/Strafgeld/Moggio/Moggio?//Friaul-Nord/
+W$X/X
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$omnia non observaverit incorrupta nomine pene centum marchas puri argenti
+solvere teneatur, quarum quinquaginta solvere tenebitur domino patriarche
+Aquilegensi, et alias quinquaginta illi parti, que eamdem sententiam firmam et
+ratam voluerit observare
+B$"Mark Silber" aus dem Zusammenhang erschlossen.
+
+DOK$fmog_u69/1234.0.0/1234.0.0/[1234 ?]/MCCLIIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich genannt Botizo von Moggio gibt dem Elekten Jakob [von Moggio] gegen
+einen Geldbetrag sein Lehen auf, das er von diesem Kloster zu San Daniele und zu
+Moggio besessen hat.
+
+REG$Heinrich genannt Botizo von Moggio gibt dem Elekten Jakob [von Moggio] gegen
+7 Mark Friesacher sein Lehen auf, das er von diesem Kloster zu San Daniele und
+zu Moggio besessen hat.
+F$Moggio/69/121/121
+F$MSF 39/113/52/52
+G$Jakob/Elekte/Moggio/Moggio//Friaul-Nord/
+E$Heinrich Botizo/Genannter/Moggio/Moggio//Friaul-Nord/
+H$Kauf/Immobilien/S.Daniele/San Daniele//Friaul-Mitte,nw.Udine/
+H$Kauf/Immobilien/Moggio/Moggio//Friaul-Nord/
+W$Friesach/X/
+O$7/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$precio marcharum septem Frix(acensium)
+B$Nach dem Regest aufgenommen. Die im Inventar angegebene Jahreszahl 1254 ist
+unmîglich. Abt Jakob regierte von 1231 bis 1242. Corgnali (oder schon sein
+GewÑhrsmann Dii Gaspero) hat die Handlung auf 1234 angesetzt. (HÑrtel, Moggio
+121).
+
+DOK$fmog_u70/1234.0.0/1234.0.0/1234/[MC]CXXXIIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Jakob [von Moggio] ÅbertrÑgt dem Priester Jakob von Fagagna ein baiarcium
+zu Fagagna gegen jÑhrlichen Dienst.
+
+REG$Abt Jakob [von Moggio] ÅbertrÑgt dem Priester Jakob von Fagagna ein baiarcium
+zu Fagagna gegen jÑhrlichen Dienst.
+F$Moggio/70/121/121
+F$MSF 39/117/52/52
+G$Jakob/Priester/Fagagna/Fagagna//Friaul-Mitte,nw.Udine/
+E$Jakob/Elekte/Moggio/Moggio//Friaul-Nord/
+H$Verpachtung?/Immobilien/Fagagna/Fagagna//Friaul-Mitte?,nw.Udine/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$40/X/X/Z
+Q$solvendo annuatim nativitate sancte Marie Frix(acenses) XL
+B$Nach dem Regest aufgenommen.
+
+DOK$fmog_u71/1235.2.27/1235.2.27/1235 Februar 27/MCCXXXV., secundo
+exeunte febr./Cividale/Cividale?//Friaul-Ost/
+S$Bernardin/X/Bernardin  Bernhard?
+V$Bernardin/X/Bernardin
+K$Graf Meinhard [III.] von Gîrz verpfÑndet dem ErwÑhlten Jakob von Moggio die
+Vogtei Åber Biauzzo um 600 Pfund.
+
+REG$Graf Meinhard [III.] von Gîrz verpfÑndet dem ErwÑhlten Jakob von Moggio die
+Vogtei Åber Biauzzo um 600 Pfund.
+F$Moggio/71/122/122
+F$MSF 39/016/44/44
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$Meinhard III./Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Vogtei/Biauzzo/Biauzzo//Friaul-Mitte,w.Codroipo/
+W$X/X/
+O$6OO/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pignori obligavit advocaciam de Blaucio pro lb. VI\+{c}
+B$Nach dem Regest aufgenommen.
+
+DOK$fmog_u72/1235.0.0/1235.0.0/1235/MCCXXXV./X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Jakob [von Moggio] ÅberlÑ·t dem Konrad von Entrampo den halben Berg von
+Tulleia gegen jÑhrlichen Zins.
+
+REG$Abt Jakob [von Moggio] ÅberlÑ·t dem Konrad von Entrampo den halben Berg von
+Tulleia gegen einen jÑhrlichen Zins von 6 sedicinas?(16) KÑse minus 4 Pfund.
+F$Moggio/72/122/122
+G$Konrad/Genannter/Entrampo/Intramp/Friaul-Nord,i.Canale di Gorto/
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Tualis/Tulleia/Friaul-Nord,i.Raum um Ovaro u.Entrampo im Canale di Gorto/
+W$X/X/
+O$4/lib./minus
+Z$X/X/X
+M$X/X/X/Z
+Q$solvendo annuatim in festo sancti Michaelis sex sedicinas casei minus lb. IIII
+B$Nach dem Regest aufgenommen. lib. vielleicht nur Gewichtsangabe.
+
+DOK$fmog_u74/1236.0.0/1236.0.0/1236/MCCXXVI./X/X//
+S$X/X/X
+V$X/X/X
+K$Johannes Scabla von Amaro, Sohn des weiland Maroldus, verkauft dem Vitalis von
+Amaro vor Abt Jakob [von Moggio] all sein Recht an einer Wiese zu Amaro.
+
+REG$Johannes Scabla von Amaro, Sohn des weiland Maroldus, verkauft dem Vitalis
+von Amaro vor Abt Jakob [von Moggio] all sein Recht an einer Wiese zu Amaro um
+20 Pfund kleiner VeroneserVenetianer?.
+F$Moggio/74/122f/123
+G$Vitalis/Genannter/Amaro/Amaro//Friaul-Nord,sî.Tolmezzo/
+E$Johannes Scabla/Genannter/Amaro/Amaro//Friaul-Nord,sî.Tolmezzo/
+H$Kauf/Immobilien/Amaro/Amaro//Friaul-Nord,sî.Tolmezzo/
+W$X/X/
+O$2O/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$precio lb. XX parvorum vendidit et cessit \dots omne ius
+B$Nach dem Regest aufgenommen.
+
+DOK$fmog_u75/1237.3.11/1237.3.11/1237 MÑrz 11/MCCXXXVII., die XI. marcii/X/X//
+S$Hermann de Pertica/X/Hermann   Artucus?
+V$Hermann de Pertica/X/Hermann
+K$Abt Jakob [von Moggio] kauft gemÑ· dem Spruch des Bischofs Friedrich von
+Concordia die Vogtei von Castions [di Strada] von Ruprecht von Valvasone und
+dessen BrÅdern zurÅck.
+
+REG$Abt Jakob [von Moggio] kauft gemÑ· dem Spruch des Bischofs Friedrich von
+Concordia die Vogtei von Castions [di Strada] von Ruprecht von Valvasone und
+dessen BrÅdern um 60 Pfund kleiner Veroneser zurÅck.
+F$Moggio/75/123/123
+F$MSF 39/032/45/45
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Ruprecht/Genannter/Valvasone/Valvasone//Friaul-West?,nî.Casarsa/
+H$Kauf/Vogtei/CastionsdiStrada/Castions di Strada/Castions/w.Palmanova/
+W$Verona?/X/
+O$6O/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$pro lb. LX parvorum
+B$Nach dem Regest aufgenommen. "60 lire di piccoli veronesi" als Notiz bei
+Battistella, Moggio 24.
+
+DOK$fmog_u76/1237.5.28/1237.5.28/1237 Mai 28/anno domini MCCXXXVII., die
+quarta exeunte mense Madii,
+regnante domino Frederico Romanorum imperatore, indictione decima/Udine/Udine//Friaul-Mitte/
+S$Hartwig/kaiserl. Notar/Hartwig  Artuicus ist Hartwig?!
+V$Hartwig/kaiserl. Notar/Hartwig
+K$Patriarch Berthold von Aquileia bestÑtigt den Verkauf aller Besitzungen des
+monasterium Mosacense zu Kirchheim durch den ErwÑhlten Iacobus Mosacensis an Abt
+Conradus und das Kloster von Admont um 46 Mark Aquileier Pfennige, die der
+ErwÑhlte zum Nutzen der ecclesia Mosacensis anzulegen versprochen hat.
+
+REG$Patriarch Berthold von Aquileia bestÑtigt den Verkauf aller Besitzungen des
+monasterium Mosacense zu Kirchheim durch den ErwÑhlten Iacobus Mosacensis an Abt
+Conradus und das Kloster von Admont um 46 Mark Aquileier Pfennige, die der
+ErwÑhlte zum Nutzen der ecclesia Mosacensis anzulegen versprochen hat.
+F$Moggio/76/123f/123
+F$StUB 2/356/465f/466
+F$MDC 4I/2139/242f/242
+F$Wichner,Adm. 2/149/310f/310
+F$Reg. Gîrz 1/467/124/124
+G$Konrad/Abt/Admont/Admont//Stmk.-Ober/
+E$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+H$Verkauf/Immobilien/Gro·kirchheim/Gro·kirchheim/Kirchheim/KÑ.-Ob.,heute Sagritz sî.Heiligenblut/
+W$Aquileia/X/
+O$46/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$precio quadraginta sex marcarum denariorum Aquilegensium
+B$Bei Battistella, Moggio, S. 122 Verweis auf dieses RechtsgeschÑft.
+
+REG$Patriarch Berthold von Aquileia bestÑtigt den Verkauf aller Besitzungen des
+monasterium Mosacense zu Kirchheim durch den ErwÑhlten Iacobus Mosacensis an Abt
+Conradus und das Kloster von Admont um 46 Mark Aquileier Pfennige, die der
+ErwÑhlte zum Nutzen der ecclesia Mosacensis anzulegen versprochen hat.
+F$Moggio/76/123f/123
+F$StUB 2/356/465f/466
+F$MDC 4I/2139/242f/242
+F$Wichner,Adm. 2/149/310f/310
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Anlage/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$46/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$precio quadraginta sex marcarum denariorum Aquilegensium quas XLVI marcas
+promisit ponere et dare in utilitatem ecclesie Mosacensis
+B$Bei Battistella, Moggio, S. 122 Verweis auf dieses RechtsgeschÑft.
+
+DOK$fmog_u77/1237.8.13/1237.8.13/1237 August 13/MCCXXXVII. die XIII.
+Augusti/X/X//
+S$Haustericus/X/Haustericus
+V$Haustericus/X/Haustericus
+K$Pitussius, Sohn des weiland Weichard von Udine, verkauft dem ErwÑhlten Jakob
+von Moggio drei Huben und zwei WÑlder zu Boriago um 70 Mark Friesacher MÅnze.
+
+REG$Pitussius, Sohn des weiland Weichard von Udine, verkauft dem ErwÑhlten Jakob
+von Moggio drei Huben und zwei WÑlder zu Boriago um 70 Mark Friesacher MÅnze.
+F$Moggio/77/124/124
+F$MSF 39/027/45/45
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$Pitussius/Genannter/Udine/Udine//Friaul-Mitte/
+H$Kauf/Immobilien/uFriaul/Boriago//wo??
+W$Friesach/X/
+O$7O/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$precio LXX marcarum Frix(acensium) vendidit
+B$Nach dem Regest aufgenommen.
+
+DOK$fmog_u78/1237.8.14/1237.8.14/1237 August 14/anno domini MCCXXXVII.,
+indictione decima, die veneris XIIII. intrante augusto/Udine/Udine//Friaul-Mitte/
+S$Haustericus/kaiserl. Notar/Haustericus
+V$Haustericus/kaiserl. Notar/Haustericus
+K$Wulfing und Bertram, Sîhne des weiland Weichard von Udine, erklÑren sich damit
+einverstanden, da· ihr Bruder Pitusius drei Huben und zwei WÑlder in Boriago um
+70 Mark Aquileier MÅnze an den ErwÑhlten Jakob von Moggio verkauft hat.
+
+REG$Wulfing und Bertram, Sîhne des weiland Weichard von Udine, erklÑren sich damit
+einverstanden, da· ihr Bruder Pitusius drei Huben und zwei WÑlder in Boriago um
+70 Mark Aquileier MÅnze an den ErwÑhlten Jakob von Moggio verkauft hat.
+F$Moggio/78/124f/125
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$Pitussius/Genannter/Udine/Udine//Friaul-Mitte/
+H$BestÑtigung_Verkauf/Immobilien/uFriaul/Boriago//wo?
+W$Aquileia/X/
+O$7O/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$precio septuaginta marcharum Aquileg(ensis) monete
+B$Friesach u.Aquileia WÑhrung gleich bewertet? (siehe Moggio U. 77)
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier MÅnze.
+F$Moggio/78/124f/125
+G$Wulfing/Genannter/Udine/Udine//Friaul-Mitte/
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena C marcharum Aquileg(ensis) monete
+B$Friesach u.Aquileia WÑhrung gleich bewertet? (siehe Moggio U. 77)
+
+DOK$fmog_u83/1242.5.1/1242.5.1/1242 Mai 1/anno domini M[CC]XLII.,
+indictione quintadecima, prima die maio intrante/Moggio/Moggio//Friaul-Nord/
+S$Bernhard/kaiserl. Notar/Bernhard
+V$Bernhard/kaiserl. Notar/Bernhard
+K$Der ErwÑhlte Jakob von Moggio ÅberlÑ·t mit Willen der namentlich genannten
+MitbrÅder dem Philipp Pazettus um zweieinhalb Mark Aquileier Pfennige eine Hube
+zu Ovedasso samt allem Zugehîr fÅr sich und seine Erben zu den angefÅhrten
+Bedingungen.
+
+REG$Der ErwÑhlte Jakob von Moggio ÅberlÑ·t mit Willen der namentlich genannten
+MitbrÅder dem Philipp Pazettus um zweieinhalb Mark Aquileier Pfennige eine Hube
+zu Ovedasso samt allem Zugehîr fÅr sich und seine Erben zu den angefÅhrten
+Bedingungen.
+F$Moggio/83/126f/127
+G$Philipp Pazettus/X/X/X//
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Immobilien/Ovedasso/Ovedasso//Friaul-Nord,i.Ferrokanal/
+W$Aquileia/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio duarum marcarum et dimidie Aquil(egensium) denariorum diffinito,
+soluto et accepto
+B$Abschrift Ende 13. oder Anfang 14. Jhs.
+
+REG$Der ErwÑhlte Jakob von Moggio ÅberlÑ·t mit Willen der namentlich genannten
+MitbrÅder dem Philipp Pazettus um zweieinhalb Mark Aquileier Pfennige eine Hube
+zu Ovedasso samt allem Zugehîr fÅr sich und seine Erben, wobei jÑhrlich ein Zins
+in der Hîhe von 5 saumas brase? oder 5 Schillingen kleiner Veroneser bezahlt
+werden soll.
+F$Moggio/83/126f/127
+G$Philipp Pazettus/X/X/X//
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Zins/Immobilien/Ovedasso/Ovedasso//Friaul-Nord,i.Ferrokanal/
+W$Verona/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/parv./Z
+Q$solvere teneantur quinque soldos Uer(onensium) parvorum pro aportaturis
+cuiuslibet saume
+B$Abschrift Ende 13. oder Anfang 14. Jhs.
+
+REG$Der ErwÑhlte Jakob von Moggio ÅberlÑ·t mit Willen der namentlich genannten
+MitbrÅder dem Philipp Pazettus um zweieinhalb Mark Aquileier Pfennige eine Hube
+zu Ovedasso samt allem Zugehîr fÅr sich und seine Erben, wobei jÑhrlich ein
+Zehnt in der Hîhe von 20 Schillingen kleiner Veroneser bezahlt werden soll.
+F$Moggio/83/126f/127
+G$Philipp Pazettus/X/X/X//
+G$Jakob/ErwÑhlter/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Zehnt?/Immobilien/Ovedasso/Ovedasso//Friaul-Nord,i.Ferrokanal/
+W$Verona/moneta?/
+O$X/X/X
+Z$20/sol./X
+M$X/X/parv./Z
+Q$solvere teneantur \dots XX solidos annis singulis eiusdem monete pro decima
+blave
+B$Abschrift Ende 13. oder Anfang 14. Jhs. "Kleine Veroneser" aus dem
+Zusammenhang erschlossen.
+
+DOK$fmog_u84/1242.11.2/1242.11.2/1242 November 2/anno domini MCCXLII.,
+indictione quintadecima, die secundo intrante novembri/Udine/Udine//Friaul-Mitte/
+S$Bernhard/kaiserl. Notar/Bernhard
+V$Bernhard/kaiserl. Notar/Bernhard
+K$Libigoy und Pabel, Sîhne des Ottokar von Partistagno, verkaufen um sechs Mark
+Aquileier Pfennige an Abt Jakob von Moggio EinkÅnfte in der Hîhe einer halben
+Mark Pfennige, die sie vom Kloster zu Lehen hatten.
+
+REG$Libigoy und Pabel, Sîhne des Ottokar von Partistagno, verkaufen um sechs Mark
+Aquileier Pfennige an Abt Jakob von Moggio EinkÅnfte in der Hîhe einer halben
+Mark Pfennige, die sie vom Kloster zu Lehen hatten.
+F$Moggio/84/127f/128
+G$X/X/X/X/
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Libigoy;Paul/Genannter/Partistagno/Partistagno//Friaul-Ost,sî.Attimis/
+H$Kauf/EinkÅnfte/unbestimmt/unbestimmt//  Verzicht?
+W$Aquileia/X/
+O$6/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$precii recepisse sex marcas denariorum Aquilegiensium
+
+REG$Libigoy und Pabel, Sîhne des Ottokar von Partistagno, verkaufen um sechs Mark
+Aquileier Pfennige an Abt Jakob von Moggio EinkÅnfte in der Hîhe einer halben
+Mark Pfennige, die sie vom Kloster zu Lehen hatten.
+F$Moggio/84/127f/128
+G$X/X/X/X//
+E$Jakob/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$de dimidia marca denariorum Aquilegensium
+
+REG$Strafbestimmung in der Hîhe von 25 Mark Agleier Pfennigen.
+F$Moggio/84/127f/128
+G$Libigoy;Paul/Genannter/Partistagno/Partistagno//Friaul-Ost,sî.Attimis/
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$25/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena viginti et quinque marcarum Aquilegiensium denariorum
+
+DOK$fmog_inv/1250.0.0/1250.0.0/ca.1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Inventar des Abtes Wezelo? Åber den Nachla· des Abtes Jakob, seines
+VorgÑngers.  dazwischen Abt Bernhard!?
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr 200 Pfund kleiner Venezianer
+zwei Glocken gekauft.
+F$Battistella,Moggio/1/117f/117
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Glocken/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$II campane empte pro CC libris veneciensium parvorum
+B$Abt Wezelo (1250-1270).
+
+REG$Laut Inventar des Abtes Wezelo wurden im Nachla· Abt Jakobs 64 Mark Pfennige
+alter MÅnze und 16 von neuer MÅnze gefunden.
+F$Battistella,Moggio/1/117f/118
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Nachla·/Geldsumme/unbestimmt/unbestimmt//  ?
+W$X/moneta vetus/
+O$64/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$invente sunt LXIIII marce denariorum veteris monete et XVI de nova moneta
+
+REG$Laut Inventar des Abtes Wezelo wurden im Nachla· Abt Jakobs 64 Mark Pfennige
+alter MÅnze und 16 von neuer MÅnze gefunden.
+F$Battistella,Moggio/1/117f/118
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Nachla·/Geldsumme/unbestimmt/unbestimmt//  ?
+W$X/moneta nova/
+O$16/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$invente sunt LXIIII marce denariorum veteris monete et XVI de nova moneta
+
+REG$Laut Inventar des Abtes Wezelo wurde im Nachla· Abt Jakobs Wachs gefunden, das
+um 20 Pfund gekauft worden ist.
+F$Battistella,Moggio/1/117f/118
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$cera que empta est pro XX libris
+
+REG$Laut Inventar des Abtes Wezelo wurde im Nachla· Abt Jakobs Pfeffer gefunden,
+der um 6 Pfund gekauft worden ist.
+F$Battistella,Moggio/1/117f/118
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Pfeffer/unbestimmt/unbestimmt//
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$piper quod emptum fuit pro VI libris
+
+REG$Laut Inventar des Abtes Wezelo wurde im Nachla· Abt Jakobs Zucker gefunden,
+der um 7 Pfund gekauft worden ist.
+F$Battistella,Moggio/1/117f/118
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Zucker/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Zucarum pro VII libris de quo fuit defectus minus quam in libris duabus ?
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob 3 Tîpfe fÅr 30 Pfund kleiner
+Venetianer gekauft.
+F$Battistella,Moggio/1/117f/118
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Tîpfe/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$Emit etiam III ollas eneas pro XXX libris veneciensium parvorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob 2684 Pfund kleiner Venetianer von
+den Schulden seines VorgÑngers bezahlt.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2684/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$Solvit quoque de debito sui predecessoris duomilia librarum et sexcentas
+LXXXIIII Veneciensium parvorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Grafen von Gîrz fÅr den
+RÅckkauf der Vogtei? Åber die Huben de Castelonz und der villa de Rovoreto 500
+Pfund kleiner Venetianer gegeben.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$RÅckkauf/Vogtei/CastionsdiStrada/Castions di Strada/Castelonz/   Auslîsung? wo VorgeschÑft?
+H$RÅckkauf/Vogtei/Rovereto/Rovereto// Roveredo,nw.San Giorgio di Nogaro?   Auslîsung? wo VorgeschÑft?
+W$Venedig/X/
+O$500/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$Dedit \dots pro redemptione advocarie mansorum \dots D libras veneciensium
+parvorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Herren von Wolfvesoun? und
+von Sbrojavacca fÅr die advocaria? 180 Pfund gegeben.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Genannte/Valvasone/Valvasone/Wolfvesoun?/nî.Casarsa/
+E$X/Genannte/Sbrojavacca/Sbrojavacca/Sbrolavaca?/Friaul,sî.Pordenone/
+H$Schutz/Geldsumme/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$180/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Illis de Wolfvesoun et de Sbrolavaca pro advocariis C et LXXX libras
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Herren von Soncolle?
+fÅr die advocaria? einer Hube 40 Pfund gegeben.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Genannte/Spilimbergo/Soncolle//presso Sequals
+H$Schutz/Geldsumme/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Illis de Soncolle pro advocaria unius mansi XL libras
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob von Duringo von Mels und seinen
+Sîhnen EinkÅnfte in der Hîhe einer Mark um 20 Mark zurÅckgekauft.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Duringo/Genannter/Mels/Mels//nw.Colloredo di Monte Albano/
+H$RÅckkauf/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$20 Mark Kaufpreis/1 Mark EinkÅnfte
+Q$Redemit etiam a domino Duringo de Mels et a filiis unius marce pro XX marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob von Duringo von Mels und seinen
+Sîhnen EinkÅnfte in der Hîhe einer Mark um 20 Mark zurÅckgekauft.
+F$Battistella,Moggio/1/117f/119
+G$X/X/X/X//
+E$Duringo/Genannter/Mels/Mels//nw.Colloredo di Monte Albano/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$1 Mark EinkÅnfte/20 Mark Kaufpreis
+Q$Redemit etiam a domino Duringo de Mels et a filiis unius marce pro XX marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob von den Herren von Pertenstein?
+EinkÅnfte in der Hîhe einer halben Mark um 8 Mark zurÅckgekauft.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Genannte/Partistagno/Partistagno/Pertenstein?/sî.Attimis/
+H$RÅckkauf/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$8 Mark Kaufpreis/0,5 Mark EinkÅnfte
+Q$Ab illis de Pertenstain redditus dimidie marce pro VIII marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob von den Herren von Pertenstein?
+EinkÅnfte in der Hîhe einer halben Mark um 8 Mark zurÅckgekauft.
+F$Battistella,Moggio/1/117f/119
+G$X/X/X/X//
+E$X/Genannte/Partistagno/Partistagno/Pertenstein?/sî.Attimis/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$0,5 Mark EinkÅnfte/8 Mark Kaufpreis
+Q$Ab illis de Pertenstain redditus dimidie marce pro VIII marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob von einem Vasallen eine Hube in
+Blagutio fÅr 10 Mark gekauft.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Vasalle/X/X//
+H$Kauf/Immobilien/Biauzzo/Biauzzo/Blagutio/w.Codroipo/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Emit mansum unum in Blagutio a quodam vasallo pro X marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob eine Hube in Colles?
+fÅr 9 Mark gekauft.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Immobilien/Collio/Collio?/Colles/HÅgelland nw.Gîrz/
+W$X/X/
+O$9/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Emit \dots mansum unum in colles pro VIIII marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob eine halbe Hube bei S. Daniele
+fÅr 4 Mark gekauft.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Immobilien/S.Daniele del Friuli/San Daniele del Friuli/San Daniele/nw.Udine/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Emit \dots medium apud sanctum Danielem pro IIII marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob drei écker bei Gradisca
+fÅr 5 Mark gekauft.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Immobilien/Gradisca/Gradisca//G. di Sedegliano s.Dignano oder G.di Spilimbergo s.Spilimbergo?/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Emit \dots tres agros apud Gradiscam pro V marcis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Streit um ein Quartesium in
+Gorto?, das 14 Pfund Veroneser zahlt, durch Zahlung von 40 Pfund Veronesern
+beigelegt.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Ablîse/Quartesium/unbestimmt/unbestimmt//
+W$Verona/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro concordio solvit XL libras veronensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Streit um ein Quartesium in
+Gorto?, das 14 Pfund Veroneser zahlt, durch Zahlung von 40 Pfund Veronesern
+beigelegt.
+F$Battistella,Moggio/1/117f/119
+G$X/X/X/X//
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Quartesium/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$14/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quod solvit XIV libras veronensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Streit um den Berg Sarto?
+durch Zahlung von 70 Pfund an Amalricus Cragie und Berthold beigelegt.
+beigelegt.
+F$Battistella,Moggio/1/117f/119
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Amalricus Cragie;Berthold/X/X/X//
+H$Ablîse/Immobilien/Mt.Sart/Monte Sart/Sart/nw.des Monte Canin
+zw.Raccolana-u.Resiatal/
+W$X/X/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$solvit LXX libras domino Amalrico Cragie et domino Pehrtoldo
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Patriarchen von Aquileia
+pro cultis 1200 Pfund gezahlt.
+F$Battistella,Moggio/1/117f/120
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlung/pro cultis/unbestimmt/unbestimmt//
+W$X/X/
+O$1200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro cultis solvit venerabili domino Patriarche M et CC libras
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr 2 Paar ?SchuheStiefel eine
+Mark und 32 Agleier Pfennige ausgegeben.
+F$Battistella,Moggio/1/117f/120
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Schuster?/X/X//
+H$Kauf/Mobilien_Schuhe/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$1/marca/X
+Z$X/X/X
+M$32/den./X/A
+Q$fecit fieri duas calces de quibus dedit magisto I marcam denariorum et XXXII
+Aquilegensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob einen Morgengottesdienst bezahlt,
+den Pernuscius dem Bruder Simon fÅr 7 Pfund und 4 Schillinge empfangen hat.?
+F$Battistella,Moggio/1/117f/120
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Pernuscius/X/X/X// ?
+H$Zahlung/Morgengottesdienst/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$4/sol./X
+M$X/X/X/A
+Q$solvit I matutinale quod Pernuscius acceperat fratri Simoni pro VII libris et
+IIII solidis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob das Quartesium der villa S.
+Ulrich wiedererlangt, das gut 50 Jahre entfremdet war, und zahlt jÑhrlich eine
+Mark.  wer?
+F$Battistella,Moggio/1/117f/121
+G$X/X/X/X//
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Quartesium/Geldsumme/St.Ulrich/St. Ulrich//   î.Villach??
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$solvit annuatim I marcam
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr einen freundschaftlichen
+Vergleich 30 Schillinge (Denarii) Grossi.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Vergleich/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/grossus/A
+Q$Dedit inde pro amicabili compositione XXX solidos grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob ein Quartesium von Zuvel
+wiedererlnagt, das 44 Schillinge zahlt.
+F$Battistella,Moggio/1/117f/121
+G$X/X/X/X//
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Quartesium/Immobilien/uFriaul/Zuvel//wo??
+W$X/X/
+O$X/X/X
+Z$44/sol./X
+M$X/X/X/A
+Q$quod solvit XLIIII solidos
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Schneider Jakob 10 Pfund
+geborgt.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Jakob/Schneider/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$mutuavit Iacobo sartori X libras
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob BischofsstÑbe? um 6 Pfund
+Veroneser gekauft.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_BischofsstÑbe/unbestimmt/unbestimmt//   SchilfstÑbe?
+W$Verona/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$virgas de stagno que empte fuerunt pro VI libris veronensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob einen Zehnt in Gemona erlangt,
+der 32 Schillinge zahlt und mehr als 30 Jahre von der Kirche entfremdet war.
+F$Battistella,Moggio/1/117f/121
+G$X/X/X/X//
+E$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+H$Zehnt/Immobilien/Gemona/Gemona//Friaul-Mitte/
+W$X/X/
+O$X/X/X
+Z$32/sol./X
+M$X/X/X/A
+Q$decimam que solvit XXXII solidos
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr eine Ofenreparatur 60 Agleier
+Pfennige bezahlt.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Magister/X/X//
+H$Reparatur/Mobilien_Ofen/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$dedit magistro LX denarios Aquileienses
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr die Reparatur des Kamins der
+KÅche eine halbe Mark bezahlt.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Reparatur/Mobilien_Kamin/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Pro reparatione camini de coquina dedit mediam marcam
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr Wein 25 Mark bezahlt.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$solvit XXV marcas pro vino
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob 32 Pfund Veronenser fÅr Fisch
+ausgegeben.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Fisch/unbestimmt/unbestimmt//
+W$Verona/X/
+O$32/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit XXXII libras Veronensium pro esocibus
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob die HÑlfte des Chors von S.
+Benedikt reparieren lassen und dafÅr 60 Agleier bezahlt.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Magister/X/X//
+H$Reparatur/Immobilien/Moggio/Moggio,S.Benedikt//Friaul-Nord/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$60/X/X/A
+Q$fecit reparari medietatem chori Sancti Benedicti et dedit magistro LX
+Aquilegenses
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Maler und dem Maurer der
+Kapelle S. Elisabeth 3 Mark ohne Gold und Farben gegeben.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Maurer/X/X//
+E$X/Maler/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit tam pictori quam muratori capelle Sancte Elisabeth tres marchas
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr zwei Glasfenster 2 Mark und
+24 Pfennige ausgegeben.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Fenster/unbestimmt/unbestimmt//
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$24/den./X/A
+Q$dedit II marcas et XXIIII denarios
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Maurern und Zimmerleuten der
+GebÑude der Herberge 4 Mark gegeben.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Maurer;Zimmerleute/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit muratoribus et carpentariis domorum hospitalis IIII marcas
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr zwei Altarsteine 4 Pfund
+Veroneser ausgegeben.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Altarsteine/unbestimmt/unbestimmt//
+W$Verona/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit pro lapidibus altaris sancte crucis et sancti Michaelis IIII libras
+Veronensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob pro XII massis Eisen 10 Pfund
+Veroneser ausgegeben.
+F$Battistella,Moggio/1/117f/121
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Eisen/unbestimmt/unbestimmt//
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XII massis ferri \dots X libras Veronensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob als PrÑlat fÅr Wein mit Ausnahme
+der obenerwÑhnten 25 Mark mehr als 900 Pfund kleiner Venetianer ausgegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$exceptis XXV marcis suprascriptis
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob als PrÑlat fÅr Wein mit Ausnahme
+der obenerwÑhnten 25 Mark mehr als 900 Pfund kleiner Venetianer ausgegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Wein/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$900/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$exceptis XXV marcis suprascriptis plus quam DCCCC libras Venecianorum? parvorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr ein Messer mit dem die
+Hostien gemacht werden, 32 (Denarii) Grossi ausgegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Kauf/Mobilien_Messer/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$32/X/grossus/A
+Q$dedit pro ferro cum quo parantur hostie XXXII grossos
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr Angelegenheiten der Kirche 33
+Mark Agleier MÅnze ausgegeben, von welchen er dem Patriarchen von Grado als
+delegiertem Richter 13 Schilling (Denarii) Grossi gegeben hat.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Ausgaben/Kirche/Moggio/Moggio//Friaul-Nord/
+W$Aquileia/moneta/
+O$33/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$expendit XXXIII marcas Aquilegensis monete
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr Angelegenheiten der Kirche 33
+Mark Agleier MÅnze ausgegeben, von welchen er dem Patriarchen von Grado als
+delegiertem Richter 13 Schilling (Denarii) Grossi gegeben hat.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/X/X/X//
+H$Ausgaben/Kirche/Moggio/Moggio//Friaul-Nord/
+W$X/X/
+O$X/X/X
+Z$13/sol./X
+M$X/X/grossus/A
+Q$expendit XXXIII marcas Aquilegensis monete de quibus dedit \dots XIII solidos
+grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob fÅr Angelegenheiten der Kirche 33
+Mark Agleier MÅnze ausgegeben, von welchen er dem Pfarrer von S. Bartholomeo? 60
+Schillinge (Denarii) Grossi dafÅr gegeben hat, da· er ihm drei Jahre Schutz
+zu Wasser und zu Land zwischen Aquileia und Clogia? bietet
+vorbehaltlich angemessenereigener Ausgaben.?
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Pfarrer/Moggio/Moggio,S.BartholomÑus?//Friaul-Nord/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$60/sol./X
+M$X/X/grossus/A
+Q$Plebano sancti Bartholomei LX solidos grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Notar Michael 20 Schilling
+(Denarii) Grossi gegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Michael/Notar/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/grossus/A
+Q$XX solidos grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Pfarrer Vivianus von Gemona
+20 Schilling (Denarii) Grossi gegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Vivianus/Pfarrer/Gemona/Gemona//Friaul-Mitte/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/grossus/A
+Q$XX solidos grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob den Boten, die er zur Kurie ?
+sandte, 20 Schilling (Denarii) Grossi gegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$X/Boten/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/grossus/A
+Q$XX solidos grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Haidenricus, dem Kaplan des
+Patriarchen, 52 Pfund Veroneser gegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Haidenricus/Kaplan/Aquileia/Aquileia,Patr.//Friaul-SÅd/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$52/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$LII libras Veronensium
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob dem Magister Girardus Hunugaro?
+20 Schilling (Denarii) Grossi gegeben.
+F$Battistella,Moggio/1/117f/122
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Gerhard Hunugaro/Magister/X/X//wohl kein Ort HÑ
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/grossus/A
+Q$XX solidos grossorum
+
+REG$Laut Inventar des Abtes Wezelo hat Abt Jakob von Moggio dem apostolischen
+Legaten Gregor von Montelongo durch den Notar Gabriel Galuf
+von Ceneda, seinem Prokurator, 60 Pfund kleiner venezianischer MÅnze (Steuer)
+geschickt.
+F$Battistella,Moggio/1/117f/122
+F$Moggio/85/128/128
+F$Marchetti-Longhi/39/20/20
+G$Jakob/Abt/Moggio/Moggio//Friaul-Nord/
+E$Gabriel Galuf/Genannter/Vittorio Veneto, Stadtteil Ceneda/Vittorio Veneto,
+Stadtteil Ceneda/Ceneda/b.Treviso/
+H$Zahlung/Steuern/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$6O/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$misit \dots LX libras Venecianorum? parvorum
+B$"Aus den Amtszeiten des Legaten wie des Abtes ergibt sich 1234 als
+terminus post quem und 1242 als terminus ante quem. Der oben gebotene Ansatz auf
+1242 folgt Marchetti-Longhi." (HÑrtel, Moggio 128).
+Bei Battistella, Moggio, im Inventar ? S. 122 erwÑhnt.
+
+DOK$fmog_urbar/1240.0.0/1240.0.0/1240/X/Moggio/Moggio//Friaul-Nord/
+S$X/Moggio/X
+V$X/Moggio/X
+K$Verzeichnis der EinkÅnfte des Klosters Moggio (Friaul) in KÑrnten.
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3 Pfund Veronesern.
+F$Kos Urbar/X/298ff/298
+G$Malfat/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Risciutta//b.Fella/
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$In Risciutta Malfat solvit 3 libras Veronensium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 2 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Sabatinus/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$2 solidos pro pitani\c{c}a
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 7 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Sabatinus/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$7 solidos pro mossa
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in KÑse mit einem Wert von 5 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Sabatinus/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte_Wertangabe/Mobilien_KÑse/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$caseum valens 5 solidos pro decima
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 7 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Sabatinus/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$7 solidos pro mossa
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3 Pfund Veronesern.
+F$Kos Urbar/X/298ff/298
+G$Cragvvl/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$3 libras Veronensium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von einem Schilling.
+F$Kos Urbar/X/298ff/298
+G$Zernuocha/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$1 solidum pro pitaniza
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3,5? Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Zernuocha/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$3,5/sol./X
+M$X/X/X/A
+Q$3 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in KÑse mit einem Wert von 2,5 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Zernuocha/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte_Wertangabe/Mobilien_KÑse/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$2,5/sol./X
+M$X/X/X/A
+Q$caseum valens 2 solidos et dimidium pro decima
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3,5? Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Zernuocha/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$3,5/sol./X
+M$X/X/X/A
+Q$3 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 5 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Heinrich/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$5 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 40 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Heinrich/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$40 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 22 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Maiuz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$22/sol./X
+M$X/X/X/A
+Q$22 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 40 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Maiuz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$40 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6 Schillingen.
+F$Kos Urbar/X/298ff/298
+G$Bilina/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/A
+Q$6 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 20 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Gorianin/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$20 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 20 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Pirut/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$20 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6 Pfennigen.
+F$Kos Urbar/X/298ff/299
+G$Mang/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Resiutta/Resiutta_Castayn/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$6 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 30 Pfund Pfennigen und 13
+Schillingen.
+F$Kos Urbar/X/298ff/299
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$30/lib./X
+Z$13/sol./X
+M$X/den./X/A
+Q$summa denariorum 30 libre et 13 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 40 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Resiutta/Resiutta/Risciutta/b.Fella/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$summa \dots cum pityniza qui sunt 40 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 4 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Mina/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/A
+Q$4 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 7 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Mina/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$7 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 7 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Mina/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$7 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6,5 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Mina/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$6,5/sol./X
+M$X/X/X/A
+Q$pro caseo 6 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Marchuardus/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$pro caseo 8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Bilina/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/A
+Q$pro caseo solvit 6 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Giruz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Zernigoy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$pro caseo 8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 5 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Moseygna/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$5 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 5 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Pangy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$5 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 20 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Cuz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$20 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 2 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Ruprecht?/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$2 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3,5 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Ruprecht?/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$3,5/sol./X
+M$X/X/X/A
+Q$3 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3,5 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Ruprecht?/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$3,5/sol./X
+M$X/X/X/A
+Q$3 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3 Schillingen und 3 Veronesern.
+F$Kos Urbar/X/298ff/299
+G$Cusin/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$Verona/X/
+O$X/X/X
+Z$3/sol./X
+M$3/X/X/A
+Q$pro caseo 3 solidos et 3 Veronenses
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Misut;Cuz;Maria/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Misut;Cuz;Maria/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/A
+Q$pro caseo 16 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Misut;Cuz;Maria/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/299
+G$Misut;Cuz;Maria/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 15 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Misut/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$15/sol./X
+M$X/X/X/A
+Q$15 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 10 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Muganz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$10 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 56 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$56/sol./X
+M$X/X/X/A
+Q$56 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6 Pfund Veronesern und 13
+Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$Verona/X/
+O$6/lib./X
+Z$13/sol./X
+M$X/X/X/A
+Q$6 libras Veronensium et 13 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 5 Pfund und 8 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$5/lib./X
+Z$8/sol./X
+M$X/X/X/A
+Q$5 libras et 8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Pfund Veronesern und 17
+Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$14/lib./X
+Z$17/sol./X
+M$X/X/X/A
+Q$Summa 14 libre et 17 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 56 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$56/sol./X
+M$X/X/X/A
+Q$Summa \dots cum pitiniza qui sunt 56 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/PratodiResia/Prato di Resia/  ? Bela (Rezija)/  Flu·
+Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/PratodiResia/Prato di Resia/    Bela (Rezija)/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar; sol. aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/PratodiResia/Prato di Resia/  Bela (Rezija)/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/PratodiResia/Prato di Resia/  Bela (Rezija)/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/A
+Q$pro caseo 6 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Stolvizza/Resia superior_Stolbica/    Bela (Rezija)/
+Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Stolvizza/Resia superior_Stolbica/    Bela (Rezija)/
+Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/A
+Q$16 solidos pro caseo
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Stolvizza/Resia superior_Stolbica/    Bela (Rezija)/
+Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Stolvizza/Resia superior_Stolbica/    Bela (Rezija)/
+Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Pfund Veroneser.
+F$Kos Urbar/X/298ff/300
+G$Gallus;Johannes;Wekeslav;Rudolf;Galliana/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$Verona/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$8 libras Veronensium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Pfund Pfennigen und 6
+Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$14/lib./X
+Z$6/sol./X
+M$X/den./X/A
+Q$Summa denariorum 14 libre et 6 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 28 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Rezija/Bela (Rezija)/Resia superior/  Flu· Krain b.Neutal??
+W$X/X/
+O$X/X/X
+Z$28/sol./X
+M$X/X/X/A
+Q$Summa \dots cum pitinyza qui sunt 28 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svettiz;Stoian/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//ital. Oseacco,Dorf in Rzifi  ?? nach unten
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 11 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svettiz;Stoian/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$11/sol./X
+M$X/X/X/A
+Q$pro caseo 11 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svettiz;Stoian/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svettiz;Stoian/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 12 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Nikolaus;Iwan/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/A
+Q$pro caseo solvunt 12 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Stanigoy;Gerhardt/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/A
+Q$pro caseo dant 16 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 13 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Sitich;Tu\^z/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$13/sol./X
+M$X/X/X/A
+Q$pro caseo dant 13 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 13 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Supina;Piz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$13/sol./X
+M$X/X/X/A
+Q$pro caseo dant 13 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Stanigoy;Sabatinus/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/A
+Q$pro caseo dant 16 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 2 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svvetiz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$2 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 2,5 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svvetiz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$2,5/sol./X
+M$X/X/X/A
+Q$pro caseo 2 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3,5 Schillingen.
+F$Kos Urbar/X/298ff/300
+G$Svvetiz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$3,5/sol./X
+M$X/X/X/A
+Q$3 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3,5 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$Svvetiz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$3,5/sol./X
+M$X/X/X/A
+Q$3 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 50 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$50/sol./X
+M$X/X/X/A
+Q$Summa denariorum \dots 50 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 6 Pfund und 2,5 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$6/lib./X
+Z$2,5/sol./X
+M$X/X/X/A
+Q$6 libras et 2 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 4 Pfund und 7,5 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$4/lib./X
+Z$7,5/sol./X
+M$X/X/X/A
+Q$4 libras et 7 solidos et dimidium
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 13 Pfund Pfennigen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$13/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$Summa denarii 13 libre
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 56 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$56/sol./X
+M$X/X/X/A
+Q$Summa \dots cum pitaniza qui sunt 56 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 28 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Ossiach/Ossiach//
+W$X/X/
+O$X/X/X
+Z$28/sol./X
+M$X/X/X/A
+Q$Summa \dots 28 solidi pro agris exstirpatis
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$Cuz;Dobligohy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gniva/Gniva//Resiatal
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$X/X/X/A
+Q$8 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 12 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$Cuz;Dobligohy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/A
+Q$12 solidos pro caseo
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$Cuz;Dobligohy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 14 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$Cuz;Dobligohy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$14 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 2 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$Dobligoy/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$2 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/A
+Q$16 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 30 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/A
+Q$30a solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 28 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$28/sol./X
+M$X/X/X/A
+Q$28 solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3 Pfund Pfennigen und 14
+Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Gniva/Gniva//
+W$X/X/
+O$3/lib./X
+Z$14/sol./X
+M$X/X/X/A
+Q$Summa denariorum 3 libre et 14 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Schillingen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$Zins/Immobilien/Gniva/Gniva//
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/A
+Q$Summa \dots cum pitaniza qui sunt 16 solidi
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 100 Pfennigen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Salcano/Solcano/Solkan/nî. Gîrz
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$100/den./X/A
+Q$denarios 100
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 7 Pfennigen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Salcano/Solcano/Solkan/nî.Gîrz
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$7 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 3 Pfennigen.
+F$Kos Urbar/X/298ff/301
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Salcano/Solcano/Solkan/nî.Gîrz
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$in uno anno solvunt 7 denarios, in secundo vero 3
+B$Urbar; den. aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 2 Pfennigen.
+F$Kos Urbar/X/298ff/302
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Branica/Branica//  ?? bei Rihemberku nach unten weiter
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$quilibet duos denarios pro vacca
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen oder 2 Schafen.
+F$Kos Urbar/X/298ff/302
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Branica/Branica//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+A$16 den./2 Schafe
+Q$Pro ratione carnium omni anno 16 denarios vel duas oves
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 1 Pfennig fÅr den Zehnten vom
+Flachs.
+F$Kos Urbar/X/298ff/302
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Branica/Branica//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$quilibet denarium pro decima lini
+B$Urbar
+
+REG$EinkÅnfte der Kirche St. Ulrich im Karst in der Hîhe von 8 Pfund.
+F$Kos Urbar/X/298ff/302
+G$X/X/X/X//
+E$X/Kirche/St.Ulrich i.Karst/St. Ulrich i.Karst// ?? in Rihemberku  nach unten weiter
+H$EinkÅnfte/Immobilien/Karst/Karst//
+W$X/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$8 libras
+B$Urbar
+
+REG$EinkÅnfte der Kirche St. Ulrich im Karst in der Hîhe von 40 Pfennigen.
+F$Kos Urbar/X/298ff/302
+G$X/X/X/X//
+E$X/Kirche/St.Ulrich i.Karst/St. Ulrich i.Karst//
+H$EinkÅnfte/Immobilien/Rupa/Rup//??  wohl Rupa s.Gorice nach unten weiter
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40a/den./X/A
+Q$40a denarios
+B$Urbar
+
+REG$EinkÅnfte der Kirche St. Ulrich im Karst in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+G$Vidmannus/X/X/X//
+E$X/Kirche/St.Ulrich i.Karst/St. Ulrich i.Karst//
+H$EinkÅnfte/Immobilien/Rupa/Rup//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 24 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249  bei MDC streichen?!
+G$Jakob/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$Jacobus 24or
+B$Urbar; den. aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Agnes/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Agnesa 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$uxor domini Wolrici 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$German/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$German 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Dietmar/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Dietmarus 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Janes/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Janes 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Maza/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Maza 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Hugo/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Hvgo 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 12 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Petres/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$domina Petres 12 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 10 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$uxor Diez 10 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Konrad/Magister/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$magister Cvonradus 8 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 8 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Gerard/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Gerardus 8 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Lyebman/Magister/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$magister Lyebman 16 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 10 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Pezco/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pezco 10 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 12 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Bernhard/Schreiber/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Bernardus scriba denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 12 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$Stoian/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Stoian 12 denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio in der Hîhe von 16 Pfennigen.
+F$Kos Urbar/X/298ff/302
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+A$16 den./1 Schaf
+Q$16 denarios pro ove una
+B$Urbar;MDC IV, 249, 1270?
+
+

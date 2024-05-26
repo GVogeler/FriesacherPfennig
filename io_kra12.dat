@@ -1,0 +1,2571 @@
+note *** Urkunden Krain, aus Schumi, UB Krain, Bde 1 und 2
+        Patriarchenurkunden und Sittich-Urkunden noch gemeÑ· Bernhard prÅfen
+        UB Auersperg ergÑnzen
+
+note *** Einlesen der Rohdaten io_kra12.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$KrUB1_0066/1102.10.3/1102.10.3/1102 Oktober 3/anno ab incarnatione
+domini nostri Jesu Christi MCII, quod est III. die
+mensis Octobris. Indictione X./Cividale/Cividale//Friaul-Ost
+S$Waltilo/X/Waltilo?
+V$Waltil/X/Waltil?o
+K$Die Eheleute Egino und Ilmengard verkaufen im Beisein ihres Verwandten
+Reinhart und seiner Sîhne dem Schutzvogt Konrad so wie seiner Gemahlin Mathilde
+um tausend Silbersoldi ihre Besitzungen zu Latisana und Castellone in der
+Grafschaft Friaul, den Hof samt Zugehîr zu Golagoriza in Istrien, und ihren
+gesamten Besitz zu "Stermo" in Krain.
+
+REG$Die Eheleute Egino und Ilmengard verkaufen im Beisein ihres Verwandten
+Reinhart und seiner Sîhne dem Schutzvogt Konrad so wie seiner Gemahlin Mathilde
+um tausend Silbersoldi ihre Besitzungen zu Latisana und Castellone in der
+Grafschaft Friaul, den Hof samt Zugehîr zu Golagoriza in Istrien, und ihren
+gesamten Besitz zu "Stermo" in Krain.
+F$KrUB 1/066/71ff/71
+F$CDI 1/118/239f/239
+F$Kos 4/004/2/2
+F$Reg. Gîrz 1/160/44/44
+G$Konrad/Schutzvogt/X/X//
+G$Mathilde/X/X/X//
+E$Egino/X/X/X//
+E$Ilmengard/X/X/X//
+H$Kauf/Immobilien/Latisana/Latisana//Friaul-Mitte
+H$Kauf/Immobilien/CastionsdiStrada/CastionsdiStrada/Castellone/Friaul-Mitte
+H$Kauf/Immobilien_Hof/Golagorica/Golagorica//Istrien
+H$Kauf/Immobilien/uKrain/Stermetz d.Pfarre Oblak?/Stermo
+i. Carniola/Carniola ist Innerkrain/
+W$X/X
+O$X/X/X
+Z$1000/sol./X
+M$X/argentum/X/A
+Q$argentum valente sol. CCCCCD finito pretio
+
+DOK$KrUB1_0068/1106.5.6/1106.5.6/1106 Mai 6/regnante domino nostro Henrico
+Ser. imperatore, ano incarnationis domini nostri Jesu Christi
+millesimo centesimo sexto, indictione quarta decima, die sexto
+mensis Maii/Umag/Umag/Umago/Istrien,B.Parenzo/
+S$Silvester de Adalpero/X/X?
+V$Ubertus/X/Ubertus
+K$Ulrich, Patriarch von Aquileia verleiht mit Zustimmung des Papstes und des
+Grafen Konrad von Aquileia seinem Vasallen Franciscus Nobili de Guerciis aus der
+Stadt Capodistria das Schlo· s. Giovani de Corneti, welches auf seinen und des
+Kirchenrates von Aquileia Befehl von Ulrich, dem Markgrafen von Istrien zerstîrt
+worden ist. An diese Schenkung des im Bistum Emona gelegenen Schlosses wird die
+Bedingung des Neubaues geknÅpft. Au·erdem werden die einstigen Grenzen der
+Schlo·herrschaft wieder gezogen und die damit verbundenen Steuern an die Kirche
+von Aquileia bestimmt.
+
+REG$Patriarch Ulrich von Aquileia verleiht seinem Vasallen Franciscus Nobili de
+Guerciis aus der Stadt Capodistria das Schlo· s. Giovani de Corneti, wobei auch
+eine Pînale festgesetzt wird.
+F$KrUB 1/068/76ff/77
+G$X/X/X/X//
+E$Franziskus/Verzi/Capodistria/Capodistria//Istrien,s.Triest   ?Edler Verzi  stimmt!
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$optimi auri libras decem
+
+DOK$KrUB1_0071/1120.10.31/1120.10.31/1120 Oktober 31/II. kalendas novembris anno
+incarnationis domini MCXX regnante imperatore Heinrico IIII. anno imperii
+ejus XI. presidente Hugone episcopo, anno ordinationis su\c{e} III.X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Edlelmann Dietmar gibt dem Bischof Hugo von Brixen sein Landgut, das er zu
+"Cr\^{u}skilach" besa·, mit allem Zugehîr fÅr sein und seiner Eltern Seelenheil.
+DafÅr gibt ihm der Bischof auf seinen Wunsch ein Landgut im Patriarchat von
+Aquileia, mit Namen "Vochina", das er von dem Edelmann Konrad um 120 Pfund
+erkauft hat, unter der Bedingung, da· er hier, da der Ort fÅr ein Kloster
+geeignet sei, Mînche ansiedle. Die KlosterbrÅder erhalten das Recht einen Abt zu
+erwÑhlen, der von dem Bischof von Brixen bestÑtigt wird.
+
+REG$Bischof Hugo von Brixen kauft vom Edelmann Konrad ein Landgut im Patriarchat
+von Aquileia, mit Namen "Vochina", um 120 Pfund.
+F$KrUB 1/071/81f/82
+G$Hugo/Bischof/Brixen/Brixen//Tirol/
+E$Konrad/Edelmann/X/X/X//
+H$Kauf/Immobilien/WocheinerFeistritz/Wocheiner Feistritz
+/Vochina/O-Krain,Wocheinerfeistritz zu "Pozabljeno",G.RÅckersdorf/
+W$X/X/
+O$120/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$praedium in Aquileiensi patriarchatu situm Vochina nomine \dots centum viginti
+libris comparavimus
+
+DOK$KrUB1_0096/1145.4.26/1145.4.26/1145 April 26/anno ab incarnatione domini MCXLV.
+indictione VIII., VI. kal. Mai. I. anno dni. Eugenii pape XLI. anno dni.
+Ch\v{o}nradi. Salzburg. Archiepiscopi. Romani quoque  Gurc. episcopi XIV.
+anno Ch\v{o}nradi Romanorum regis VII./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Roman I. von Gurk kauft von dem Edlen Rupert von Salmanstetten die in
+Krain liegenden GÅter Wides, Vitis und Moralsz fÅr 127 Mark. Da sich der
+VerkÑufer spÑter mit einer vornehmen Witwe verehelichte, trifft er die
+Vorkehrung, da· dieselbe nach dem Tod ihres Gatten die gekauften GÅter im Namen
+ihrer BrÅder durch Meinhard von Gurk feierlich "super sacrosanctas reliquias"
+abtreten lie·.
+
+REG$Bischof Roman I. von Gurk kauft von dem Edlen Rupert von Salmannstetten die in
+Krain liegenden GÅter Wides, Vitis und Moralsz fÅr 127 Mark.
+F$KrUB 1/096/97ff/98
+G$Roman I./Bischof/Gurk/Gurk//KÑ.-Unt./
+E$Rupert/Edler/uStmkDonau/Salmanstetten//Stmk,Bayern,U.ôst. welches??/
+H$Kauf/Immobilien/Sava Vidernice/Vidernice,Pfr.Sava/Wides/O-Krain,Pfr.Sava/
+H$Kauf/Immobilien/Hîttitsch Vite\v{c}e/Vite\v{c}e,Pfr. Hîttitsch/Vitis/O-Krain,Pfr.Hoti\v{c}/
+H$Kauf/Immobilien/MorÑutsch/MorÑutsch/Moralsz/O-Krain,sî.Podpe\v{c}, î.Littai/
+W$X/X/
+O$127/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$predia aput Creine quorum hec sunt vocabula Wides Vitis et Moralsz, precio
+datis CXXVII marcis emerim
+
+DOK$KrUB1_0106/1152.0.0/1152.0.0/1152/anno autem incarnationis eius millesimo
+centessimo quinquagesimo II., indictione XIIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Patriarch Peregrin von Aquileia beurkundet und bestÑtigt die Schenkungen
+verschiedener Vornehmer an das Kloster Sittich in Krain, besonders der GrÑfin
+Emma (von Treffen) betreffs der Ortschaft Babendorf (in der Pfarre Terstenik bei
+Krainburg).
+
+REG$Strafbestimmung die Schenkung GrÑfin Emmas (von Treffen) an das Kloster
+Sittich in Krain betreffend in der Hîhe von 30 Pfund Gold.
+F$KrUB 1/106/104ff/104
+F$StUB 1/350/336ff/337
+G$X/X/X/X//
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$30/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi libras XXX
+B$In Zahn' s Urkb. Nr.I. 350 steht Bodendorf bei Murau statt Babendorf.
+
+DOK$KrUB1_0113/1154.0.0/1156.0.0/1154 - 1156/?/X/?X//
+S$X/X/X
+V$X/X/X
+K$Verschiedene genannte Adelige schenken ihre Besitzungen zu Hîflein bei
+Krainburg und in anderen Orten Krains wie KÑrntens an das Kloster Viktring.
+
+REG$Das Kloster Viktring kauft von Graf Meinhard von Schînberg das Gut
+Waitinsdorf um 43 Mark.
+F$KrUB 1/113/108ff/110
+G$X/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Meinhard/Graf/Schînberg/Schînberg_Unterkrain//U-Krain,b.Treffen          ?
+H$Kauf/Immobilien/uKÑrnten Waitinsdorf/Waitinsdorf//K/
+W$X/X/
+O$43/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$predii sui Waitinsdorf, quod fratres Victorienses ab ipso emerunt marcis XL
+tribus
+B$Diese Schenkung wird ca. 1180 von "Bertholdus IV., dux Marenensis", nach
+eigener grÅndlicher Erkundigung sowie nach dem Verhîr vieler Zeugen bestÑtigt.
+(KrUB 1 Nr.113, S. 108)
+
+DOK$KrUB1_0152/1189.7.25/1189.7.25/1189 Juli 25/anno MCLXXXVIIII. in festo beati
+Jacobi/Friesach/Friesach//Unterk./
+S$X/X/X
+V$X/X/X
+K$Graf Albert von Bogen verpfÑndet dem Erzbischof Albert
+III. von
+Salzburg um 700 Mark Silber das Schlo· Gurkfeld (a. d. Save, Krain)
+samt Zubehîr auf zwei Jahre, nach deren Ablauf von beiden Seiten
+gewÑhlte SpruchmÑnner den Verkaufspreis bestimmen sollen.
+
+REG$Graf Albert von Bogen verpfÑndet dem Erzstift Salzburg um 700 Mark Silber
+das Schlo· Gurkfeld auf zwei Jahre.
+F$KrUB 1/152/133ff/133
+F$SUB 2/0465/631ff/631
+F$GZM 1/20/X/X
+G$Albert/Erzbischof/Salzburg/Salzburg//S/
+E$Albert/Graf/Bogen/Bogen//Bayern,b.Straubing/
+H$PfandgeschÑft/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$Regensburg/pondus Gozwini Ratispon. monetarii/
+O$700/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/A
+Q$Adelbertus comes de Bogin obligavit domino Adelberto Salzburgensi
+archiepiscopo castrum Gurkeuelt cum tota dominicatura illa pro septingentis
+marcis examinati argenti in pondere datis Gozwini Ratisponensis monetarii
+B$Gewicht des Regensburger MÅnzmeisters Gozwin.
+
+REG$FÅr den Fall, da· Graf Albert von Bogen sein dem Erzstift
+Salzburg verpfÑndetes Schlo· Gurkfeld
+nicht innerhalb von zwei Jahren auslîst, soll das Schlo· von der Kirche fÅr 800
+Mark Silber ausgelîst werden.
+F$KrUB 1/152/133ff/133
+F$SUB 2/0465/631ff/632
+F$GZM 1/20/X/X
+G$Albert/Erzbischof/Salzburg/Salzburg//S/
+E$Albert/Graf/Bogen/Bogen//Bayern,b.Straubing/
+H$Pfand_Auslîsung/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$X/X
+O$800/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/Z
+Q$Quod si et illi duo tandem concordare nequiverint totum illud
+patrimonium sit
+obligatum ecclesi\c{e} pro octingentis marcis examinati argenti
+
+REG$FÅr den Fall, da· Graf Albert von Bogen die Pfandsumme nicht zurÅckzahlt,
+ist dessen Schlo· Gurkfeld um den geschÑtzten Ertrag des
+Fruchtgenusses, 180 Mark, an den Erzbischof von Salzburg
+verpfÑndet.
+F$KrUB 1/152/133ff/134
+F$SUB 2/0465/631ff/632
+F$GZM 1/20/X/X
+G$Albert/Erzbischof/Salzburg/Salzburg//S/
+E$Albert/Graf/Bogen/Bogen//Bayern,b.Straubing/
+H$PfandgeschÑft/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$X/X/
+O$180/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro usufructus preteriti temporis, quem estimavimus centum et
+octoginta marcarum erit
+
+REG$Erzbischof Albert von Salzburg und Graf Albert von Bogen vereinbaren, da·
+der letztgenannte oder seine Erben sein verpfÑndetes Schlo· am festgesetzten Tag
+um die Summe von 800 Mark Silber und 180 Mark Friesacher MÅnze einlîsen kann.
+F$KrUB 1/152/133ff/134
+F$SUB 2/0465/631ff/632
+F$GZM 1/20/X/X
+G$Albert/Graf/Bogen/Bogen//Bayern,b.Straubing/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Pfand_Auslîsung/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$X/X
+O$800/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/Z
+Q$post diffinitum diem habeat comes vel eius heredes liberam potestatem
+redimendi idem patrimonium pro octingentis marcis examinati argenti et
+centum octoginta marcis frisacensis monet\c{e} preter usufructum illius anni
+
+REG$Erzbischof Albert von Salzburg und Graf Albert von Bogen vereinbaren, da·
+der letztgenannte oder seine Erben sein verpfÑndetes Schlo· am festgesetzten Tag
+um die Summe von 800 Mark Silber und 180 Mark Friesacher MÅnze einlîsen kann.
+F$KrUB 1/152/133ff/134
+F$SUB 2/0465/631ff/632
+F$GZM 1/20/X/X
+G$Albert/Graf/Bogen/Bogen//Bayern,b.Straubing/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Pfand_Auslîsung/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$Friesach/moneta/
+O$180/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$post diffinitum diem habeat comes vel eius heredes liberam potestatem
+redimendi idem patrimonium pro octingentis marcis examinati argenti et
+centum octoginta marcis frisacensis monet\c{e} preter usufructum illius anni
+
+REG$Erzbischof Albert von Salzburg und Graf Albert von Bogen vereinbaren, da·
+der letztgenannte oder seine Erben sein verpfÑndetes Schlo· vor dem
+festgesetzten Tag um 700 Mark Silber einlîsen kann.
+F$KrUB 1/152/133ff/134
+F$SUB 2/0465/631ff/632
+F$GZM 1/20/X/X
+G$Albert/Graf/Bogen/Bogen//Bayern,b.Straubing/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Pfand_Auslîsung/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$X/X
+O$700/marca/X
+Z$X/X/X
+M$X/argentum/examinatum/Z
+Q$verum si ante diem determinatum comes vel eius heredes redimere
+voluerint, dabunt ecclesi\c{e} septingentas marcas examinati argenti
+
+DOK$KrUB1_0156/1190.1.7/1190.1.7/1190 JÑnner 7/anno dominicae incarnationis Millesimo
+C.LXXXX. Indictione VII. Clemente papa Romanae sedi praesidente, et
+Friderico Romanorum Imperatore, primo anno suae expeditionis contra
+paganos/Stra·burg/Stra·burg//K/
+S$X/X/X
+V$X/X/X
+K$Bischof Dietrich I. von Gurk beurkundet, da· sein Bruder
+Poppo von Albeck im Begriffe den Kreuzzug Kaiser Friedrichs mitzumachen, dem
+Kloster Sittich das Gut Hartwigsdorf teils um seines Seelenheiles willen, teils
+gegen Bezahlung von 60 Mark Friesacher Pfennigen abgetreten hat.
+
+REG$Der Edle Poppo von Albeck hat dem Kloster Sittich das Gut Hartwigsdorf teils
+seines Seelenheiles willen, teils gegen Bezahlung von 60 Mark Friesacher Pfennig
+abgetreten.
+F$KrUB 1/156/137f/137
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Poppo/Genannter/Albeck/Albeck//K,B.Feldkirchen/
+H$Kauf/Immobilien/Artizavas/Hartwigsdorf/Hartwigisdorf/U.Krn.Arti{v}zavas/
+W$Friesach/moneta/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$praedium quoddam nomine Hartwigisdorf partim pro pecunia, LX scilicet marcarum
+Frisacensis monete, partim pro remedio animae suae parentumque suorum \dots
+contradidit
+B$Reisegeld fÅr Kreuzzug
+
+DOK$KrUB1_0157/1191.1.8/1191.2.10/1191 JÑnner 8+1191 Februar
+10/anno ab incarnat. domini MCXCI. indict. VIIII apud Gurce. IIII idus
+februarii coram omni ecclesia. Prima autem delegatio facta est
+VI. idus Jan./Gurk/Gurk//KÑ.-Unt./
+S$X/X/X
+V$X/X/X
+K$Aufzeichnung der UmstÑnde, unter welchen Rudolf, der Vater Poppos von
+Albeck nach dem Tod seines Sohnes von den Gurker Ministerialen zur Abtretung
+aller seiner GÅter an das Bistum Gurk bewogen wurde. Rudolf erhielt dafÅr als
+Gegenleistung 30 Huben in der windischen Mark zu Wolchenberg und eine jÑhrliche
+Rente von 10 Mark auf Lebenszeit, die Vornehmen seiner Leute
+Genossenschaft mit den bischîflichen Ministerialen.
+
+REG$Rudolf, der Vater Poppos von Albeck tritt alle seine GÅter an das Bistum Gurk
+ab, wofÅr er als Gegenleistung unter anderem eine jÑhrliche Rente von 10 Mark
+auf Lebenszeit erhÑlt.
+F$KrUB 1/157/138ff/139
+F$MDC 1/351/262f/262
+G$X/Bistum/Gurk/Gurk//KÑ.-Unt./
+E$Rudolf/Genannter/Albeck/Albeck//K,B.Feldkirchen/
+H$Rente/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim decem marcas sibi loco precarie darent
+
+DOK$KrUB2_0005/1202.1.1/1202.1.26/1202 vor JÑnner 27/anno ab incarnatione
+domini M CC II/MariaSaal/Maria Saal//K/
+S$X/X/X
+V$X/X/X
+K$Die BrÅder Albert, Berthold und Leopold, Grafen von Bogen, Sîhne des
+verstorbenen Grafen
+Albert von Bogen bekunden, da· ihr Vater, Graf Albert, das Schlo·
+Gurkfeld (Unterkrain) ihrem
+Verwandten, dem Erzbischof Albert von Salzburg um 800 Mark Friesacher Gewichts
+verpfÑndet und nicht eingelîst hat. Gegen Aufzahlung von abermals 800
+Friesacher Mark und Verzicht auf EntschÑdigung fÅr die der Salzburger Kirche an
+deren Besitzungen zu Altenbuch (bei Altîtting) und Durftigenberge
+zugefÅgten SchÑden Åbertragen die BrÅder das Schlo· Gurkfeld mit
+den Ministerialen und Zugehîr dem Erzbischof
+Eberhard II. von Salzburg und empfangen es von ihm als Lehen zurÅck.
+
+REG$Die Grafen Albert, Berthold und Leopold von Bogen, Sîhne des
+verstorbenen Grafen
+Albert von Bogen, bekunden, da· ihr Vater, Graf Albert, das Schlo· Gurkfeld
+ihrem Verwandten,
+dem Erzbischof Albert von Salzburg um 800 Mark Friesacher Gewichts verpfÑndet
+habe.
+F$KrUB 2/005/2ff/3
+F$SUB 3/0554/27ff/28
+F$Kos 5/012/8f/8
+G$Albert/Erzbischof/Salzburg/Salzburg//S/
+E$Albert;Berthold;Leopold/Graf/Bogen/Bogen//Bayern,b.Straubing/
+H$PfandgeschÑft/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$Friesach/pondus
+O$800/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pater noster comes Albertus de Pogen \dots G\o{u}rkvelde castrum et
+possessiones eidem adtinentes domino et consanguineo nostro Alberto venerabili
+Salzburgensis ecclesie archiepiscopo pro octingentis marcis argenti Frisacensis
+ponderis obligassse loco pignoris
+
+REG$Die Grafen Albert, Berthold und Leopold von Bogen Åbertragen dem
+Erzbischof Eberhard II. von Salzburg gegen Zahlung
+von 800 Friesacher Mark und den Verzicht auf EntschÑdigungen fÅr die der
+Salzburger
+Kirche an deren Besitzungen zu Altenbuch und Durftigenberge zugefÅgten SchÑden
+das Schlo· Gurkfeld und empfangen es als Lehen zurÅck.
+F$KrUB 2/005/2ff/4
+F$SUB 3/0554/27ff/28
+F$Kos 5/012/8f/8
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Albert;Berthold;Leopold/Graf/Bogen/Bogen//Bayern,b.Straubing/
+H$öbergabe/Immobilien_Schlo·/Gurkfeld/Gurkfeld//Krain,U.Krn.a.d.Save/
+W$Friesach/pondus/
+O$800/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$octingentas etiam marcas ponderis Frisacensium \dots erogavit
+
+DOK$KrUB2_0007/1202.2.6/1202.2.6/1202 Februar 6/anno domini mill. CC.II. sexto
+die intrante februario, indictione V./Udine/Udine//Friaul-Mitte/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Herzog Berthold von Meranien verpfÑndet mit Zustimmung seiner Sîhne dem
+Patriarchen Pilgrim II. von Aquileia fÅr ein binnen 2 Jahren
+rÅckzahlbares
+Darlehen von 1000 Mark Friesacher seine zwei Schlîsser zu Stein sowie seine
+Åbrigen Allodialbesitzungen in Krain und bei Wippach und verpflichtet sich
+Åberdies zur Hilfeleistung gegen Treviso.
+
+REG$Patriarch Pilgrim II. von Aquileia gibt dem Herzog Berthold von Meranien
+ein binnen 2 Jahren rÅckzahlbares Darlehen von 1000 Mark Friesacher.
+F$KrUB 2/007/5f/5
+F$Kos 5/015/11f/11
+F$BCU Ms. Joppi 369 Fasz. 1/12/1f/1
+G$Pilgrim II./Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Herzog/Kroatien/Meranien//Meranien kroatisch-dalm.KÅstenland/
+H$PfandgeschÑft/Immobilien/Stein/Stein//Krain,Oberstein u.Kleinfeste?/
+H$PfandgeschÑft/Immobilien/Wippach/Wippach//Krain/
+H$PfandgeschÑft/Immobilien/unbestimmt/unbestimmt//Krain
+W$Friesach/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dominus Pelegrinus Aquilegensis patriarcha mutuo concessit mille marcas
+Frisachensium domino Pertoldo illustri duci Maranie
+
+DOK$KrUB2_0013/1207.0.0/1207.0.0/1207/anno incarnationis dominice millesimo
+ducentesimo septimo/Stein/Stein//Krain/
+S$X/X/X
+V$X/X/X
+K$Markgraf Heinrich von Istrien bekundet, da· sein Ministeriale Gerloch von
+Stein dem Abt Konrad und dem Kloster Viktring drei Huben zu Ranndorf nÑchst
+Hîflein um 23 Mark verkauft habe. Au·erdem habe Ritter Wulfing dem Gebhard von
+Kanker zugehîrig, demselben Kloster 3 Huben gleichfalls um 23 Mark verkauft, und
+zwar sei dies zu Ranndorf selbst geschehen.
+
+REG$Der Ministeriale Markgraf Heinrichs von Istrien, Gerloch von Stein, verkauft
+dem Abt Konrad und dem Koster Viktring drei Huben zu Ranndorf nÑchst Hîflein
+um 23 Mark.
+F$KrUB 2/013/9f/9
+F$Kos 5/123/71/71
+G$Konrad/Abt/Viktring/Viktring//KÑ.-Unt./
+G$X/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Gerloch/Genannter/Stein/Stein//Krain/
+H$Kauf/Immobilien/Ranndorf/Ranndorf/Rann/O-Krain,Hîflein b.Krainburg/
+W$X/X/
+O$23/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$tres mansus cum pascuis \dots pro XXIII marcis vendiderunt
+B$Kos nennt 33 Mark.?
+
+DOK$KrUB2_0013a/1207.0.0/1207.0.0/1207/anno incarnationis dominice millesimo
+ducentesimo septimo/Ranndorf/Ranndorf(?)/Rann/Krain,U-Stmk/
+S$X/X/X
+V$X/X/X
+K$Markgraf Heinrich von Istrien bekundet, da· sein Ministeriale Gerloch von
+Stein dem Abt Konrad und dem Kloster Viktring drei Huben zu Ranndorf nÑchst
+Hîflein um 23 Mark verkauft habe. Au·erdem habe Ritter Wulfing dem Gebhard von
+Kanker zugehîrig, demselben Kloster 3 Huben gleichfalls um 23 Mark verkauft, und
+zwar sei dies zu Ranndorf selbst geschehen.
+
+REG$Ritter Wulfing, dem Gebhard von Kanker zugehîrig, verkauft dem Kloster
+Viktring 3 Huben um 23 Mark.
+F$KrUB 2/013/9f/10
+G$Konrad/Abt/Viktring/Viktring//KÑ.-Unt./
+G$X/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Wulfing/Ritter/X/X//
+H$Kauf/Immobilien_Huben/Ranndorf/Ranndorf/Rann/Krain/
+W$X/X/
+O$23/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$tres mansus cum omnibus eorum pertinentiis prefato abbati et fratribus suis
+pro XXIII marcis
+B$"Ranndorf" aus dem Regest Åbernommen.
+
+DOK$KrUB2_0014/1207.0.0/1207.0.0/ca. 1207/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Markgraf Heinrich von Istrien verkÅndet, da· durch seine Hand Mechtild, die
+Mutter seiner Ministerialen Dietrich von Gutenberg und Heinrich, nach dem Tod
+Dietrichs mit Einwilligung seines Bruders Heinrich und der Sîhne Dietrichs,
+Alberam und Gerhart, ein Gut in Babenvert (Pfarre Terstenik) an das Kloster
+Viktring verkauft habe, dessen Schirmer und Verteidiger er sein werde.
+
+REG$Mechtild, die Mutter Dietrichs von Gutenberg und Heinrichs, der Ministerialen
+Markgraf Heinrichs von Istrien, verkauft durch den Markgrafen nach dem Tod
+Dietrichs ein Gut in Babenvert (Pfarre Terstenik) an das Kloster Viktring um 50
+Mark.
+F$KrUB 2/014/10f/10
+G$/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Heinrich/Markgraf/Istrien/Istrien//Istrien wo??      ?
+H$Kauf/Immobilien/Babenvert/Babenvert//O-Krain/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$vendidit ecclesie Victoriensi predium in Bauenwort pro marcis quinquaginta
+
+REG$Mechtild, die Mutter Dietrichs von Gutenberg und Heinrichs, der Ministerialen
+Markgraf Heinrichs von Istrien, verkauft durch den Markgrafen nach dem Tod
+Dietrichs ein Gut in Babenvert (Pfarre Terstenik) an das Kloster Viktring um 50
+Mark, wovon sie dem Kloster 20 Mark fÅr das Seelenheil ihres Sohnes nachlÑ·t.?
+F$KrUB 2/014/10f/11
+G$Heinrich/Markgraf/Istrien/Istrien//Istrien wo??   ?
+E$/Kloster/Viktring/Viktring//KÑ.-Unt./
+H$Preisnachla·/Immobilien/Babenvert/Babenvert//O-Krain  ?StiftungSpiritualia
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$vendidit ecclesie Victoriensi predium in Bauenwort pro marcis quinquaginta de
+quibus marcis predicta matrona cum predictis heredibus relaxavit ecclesie
+viginti marcas in sepultura filii sui Theodori pro remedio anime eius
+
+REG$Mechtild, die Mutter Dietrichs von Gutenberg und Heinrichs, der Ministerialen
+Markgraf Heinrichs von Istrien, verkauft durch den Markgrafen nach dem Tod
+Dietrichs ein Gut in Babenvert (Pfarre Terstenik) an das Kloster Viktring um 50
+Mark, wovon sie dem Kloster 20 Mark fÅr das Seelenheil ihres Sohnes nachlÑ·t?.
+Die restlichen 30 Mark hat die Kirche schon bezahlt.
+F$KrUB 2/014/10f/11
+G$/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Heinrich/Markgraf/Istrien/Istrien//Istrien  wo??   ?
+H$Quittung/GeldKaufsumme?/Babenvert/Babenvert//O-Krain/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$vendidit ecclesie Victoriensi predium in Bauenwort pro marcis quinquaginta de
+quibus marcis predicta matrona cum predictis heredibus relaxavit ecclesie
+viginti marcas in sepultura filii sui Theodori pro remedio anime eius \dots
+reliquas vero triginta marcas ecclesia iam persolvit
+
+DOK$KrUB2_0015/1207.0.0/1207.0.0/ca. 1207/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die MarkgrÑfin Sophie von Istrien schenkt fÅr ihr, ihrer Eltern und ihres
+Gemahls Heinrich des Markgrafen Seelenheil ihrer Hîrigen namens Engelburg, der
+Gattin des incisor Rupert die Freiheit, unter der Bedingung, da· deren Sîhne,
+sobald sie ins heiratsfÑhige Alter treten, dem Kloster Sittich jÑhrlich mit 5
+Pfennigen zinspflichtig sein sollen.
+
+REG$MarkgrÑfin Sophie von Istrien schenkt fÅr ihr Seelenheil, das ihrer Eltern und
+ihres Gemahls, des Markgrafen Heinrich, ihrer Hîrigen Engelburg, der Gattin des
+incisor Rupert die Freiheit, unter der Bedingung, da· deren Sîhne, sobald sie
+ins heiratsfÑhige Alter treten, dem Kloster Sittich jÑhrlich mit 5 Pfennigen
+zinspflichtig sein sollen.
+F$KrUB 2/015/11/11
+G$X/X/X/X//
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$pueros autem si genuerint, censuales erunt sanctae Mariae in Sittich
+quinque denariorum
+
+DOK$KrUB2_0021/1211.8.24/1211.8.24/1211 August 24/anno dominic\c{e}
+incarnationis MCCXI. indictione XIIII. VIIII. kalendas
+septembris/Windischgraz/Windischgraz//Stmk.-Unt./
+S$X/X/X
+V$X/X/X
+K$Markgraf Heinrich von Istrien anerkennt den Verkauf eines Gutes zu Kaindorf ob
+Murau seitens seiner DienstmÑnner Winther und Gottfried von Kronau fÅr 110 Mark
+an Bischof Walther von Gurk.
+
+REG$ Die DienstmÑnner Markgraf Heinrichs von Istrien, Winther und Gottfried von
+Kronau, verkaufen fÅr 110 Mark ein Gut zu Kaindorf ob Murau an Bischof Walther
+von Gurk.
+F$KrUB 2/021/14f/14
+F$StUB 2/114/171f/171
+G$Walther/Bischof/Gurk/Gurk//KÑ.-Unt./
+E$Winther;Gottfried/Genannter/KranjskaGora/Kranjska Gora//O-Krain,w.Radmannsdorf Kranjska Gora/
+H$Kauf/Immobilien/Kaindorf/Kaindorf//Stmk.-Mi./
+W$X/X/
+O$110/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quoddam predium apud M\o{v}ram in Chunisdorf pro centum decem marcis \dots
+duciss\c{e}
+
+DOK$KrUB2_0030/1215.0.0/1215.0.0/ca. 1215/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Aufzeichnungen Åber den Erwerb von Goste\v{c}e, Baumgarten, Slap und anderen
+GÅtern in Krain und der Mark fÅr die Kirche von Freising durch Bischof Otto.
+
+REG$Bischof Otto von Freising erwirbt fÅr die Kirche von Freising Baumgarten in
+Krain um 80 Mark.
+F$KrUB 2/030/22/22
+F$FRA II 31/126/124ff/125
+G$Otto/Bischof/Freising/Freising//Bayern/
+E$X/Bistum/Freising/Freising//Bayern
+H$Kauf/Immobilien/Baumgarten/Baumgarten//Krain,b.Bischoflack/
+W$X/X/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$comparavit villam que dicitur Paumgarten pro lxxx marcis
+
+REG$Bischof Otto von Freising erwirbt fÅr die Kirche von Freising Slap und Lonka
+in Krain um 300 Mark.
+F$KrUB 2/030/22/22
+F$FRA II 31/126/124ff/126
+G$Otto/Bistum/Freising/Freising//Bayern/
+E$Otto/Ganannter/Nassenfuss/Nassenfuss/Nazzenvvz/U-Krain/
+H$Kauf/Immobilien/Slap/Slap//U-Krain,Pfarre St.Margarethen a.d.Gurk/
+H$Kauf/Immobilien/Bischoflack/Bischoflack/Lonka/O-Krain/
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$LX heubas sitas in Marchia in villa que dicitur Zlab et in alia villa
+que dicitur Lonca, citra aquam Gurk sub castro Orishek pro trecentis marcis
+
+REG$Bischof Otto von Freising kauft ein Lehen in Mitterndorf fÅr 80 Mark.
+F$FRA II 31/126/124ff/126
+G$Otto/Bistum/Freising/Freising//Bayern/
+E$X/Bistum/Freising/Freising//Bayern   ?
+H$Kauf/Immobilien/Mitterdorf/Mitterdorf//O-Stmk,b.s.Peter a.Kammersberge/
+W$X/X/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$redemit quoddam beneficium in villa que dicitur Mitterdorf (?Mutrndorf?) aput
+Chaths situm, pro LXXX marcis et annuatim persolvit XVI marcas absque steura
+
+REG$Bischof Otto von Freising kauft ein Lehen in Dorf Mitterdorf fÅr 80 Mark und
+zahlt jÑhrlich 16 Mark Abgaben?.
+F$FRA II 31/126/124ff/126
+G$Otto/Bistum/Freising/Freising//Bayern/
+E$X/X/X/X//
+H$Zins/Immobilien/Mitterdorf/Mitterdorf//O-Stmk,b.s.Peter a.Kammersberge/
+W$X/X/
+O$16/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redemit quoddam beneficium in villa que dicitur Mittrndorf (?Mutrndorf?) aput
+Chaths situm, pro LXXX marcis et annuatim persolvit XVI marcas absque steura
+
+DOK$KrUB2_0033/1217.0.0/1217.0.0/1217/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Engelbert von Gîrz befreit die Untertanen des Klosters Sittich von der
+Zollzahlung in seinem Markt (Planina) an der Unz, dagegen seien zu Senosetsch
+jÑhrlich zwei Mark Venezianer Pfennige als Abgabe von einem dortigen GrundstÅck
+des Klosters zu entrichten.
+
+REG$Graf Engelbert von Gîrz befreit die Untertanen des Klosters Sittich von der
+Zollzahlung in seinem Markt (Planina) an der Unz, dagegen seien zu Senosetsch
+jÑhrlich zwei Mark Venezianer Pfennige als Abgabe von einem dortigen GrundstÅck
+des Klosters zu entrichten.
+F$KrUB 2/033/24f/25
+F$Reg. Gîrz 1/379/103/103
+G$X/Hîrige?/Sittich/Sittich//Krain/
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Abgabe/Immobilien/Senosetsch/Senosetsch//I-Krain/
+W$Venedig/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$in Schenossecsh vero vectigal debet anno tribuere duas marcas venetorum
+denariorum pro Sitticensi quodam fundo
+B$Laut Handschrift befreit der Graf das Kloster Sittich.
+
+DOK$KrUB2_0034/1220.4.7/1220.4.7/1220 April 7/anno domini MCCXX, VII. die
+intrante aprilis/Auersberg/Auersberg/Auersberg/Krain,s.Laibach/
+S$X/X/X
+V$X/X/X
+K$Engelbert von Auersberg belehnt die GebrÅder von Laas, Karl, Rupert und
+Albert,
+mit dem Dorf Soderschiz nÑchst Weiniz in der Reifnizer Herrschaft und gibt ihnen
+das Recht zu Neurodungen im Wald. Die LehensempfÑnger hingegen verzichteten auf
+3 Huben zu Friesach, welche ihnen um 12 Mark verpfÑndet waren, und zahlen noch
+Åberdies eine gleiche Summe an die Gemahlin Engelberts.
+
+REG$Den GebrÅdern von Laas, Karl, Rupert und Albert, sind drei Huben zu Friesach
+um 12 Mark verpfÑndet.
+F$KrUB 2/034/25f/25
+G$Karl;Rupert;Albert/Genannter/Laas/Laas//Inner-Krain/
+E$Engelbert/Genannter/Auersberg/Auersberg/Auersberg/Krain,s.Laibacch/
+H$PfandgeschÑft/Immobilien_Huben/Friesach_i.Krain/Friesach i.Krain//U.Krn.
+Pfr.Reifnitz/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$tres mansos qui iacent apud Vreisach qui erant eis obligati pro duodecim
+marcis
+
+REG$Die GebrÅder von Laas, Karl, Rupert und Albert, verzichten fÅr die Belehnung
+mit dem Dorf Soderschiz nÑchst Weiniz in der Reifnizer Herrschaft und
+das Recht zu Neurodungen im Wald auf
+3 Huben zu Friesach, welche ihnen um 12 Mark verpfÑndet waren, und zahlen noch
+Åberdies eine gleiche Summe an die Gemahlin Engelberts von Auersberg.
+F$KrUB 2/034/25f/25
+G$Karl;Rupert;Albert/Genannter/Laas/Laas//Inner-Krain/
+E$X/Genannte/Auersberg/Auersberg/Auersberg/Krain,s.Laibach/
+H$Zahlung/Geldsumme?/unbestimmt/unbestimmt//
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dederunt uxori nostre duodecim marcas
+
+DOK$KrUB2_0042/1221.0.0/1221.0.0/1221/anno gratie MCCXXI/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die vom Papst delegierten Richter, B(erthold) Abt von Sittich und B(erthold)
+Dekan von Krain, vergleichen den Streit des Klosters zu Viktring mit Walther von
+Gîrtschach und dessen Miterben im friedlichen Weg. Ersterer sprach nÑmlich zwei
+Huben als eine Stiftung von Walters Gro·vater an. Die Geklagten aber
+behaupteten da· eine derselben dem Kloster Viktring nur verpfÑndet gewesen sei,
+aber schon lange eingelîst worden sei. Man einigte sich dahin, da· dem Klosters
+statt der von den Geklagten zugestandenen Hube, welche schon in mehrere Teile
+zerstÅckt war, eine andere Hube von gleichem Wert gegeben werde.
+
+REG$Walther von Gîrtschach und seine Miterben behaupten, da· dem Kloster Viktring
+eine Hube von Walthers Gro·vater um 5 Mark verpfÑndet gewesen sein und schon
+lange eingelîst worden sei.
+F$KrUB 2/042/31f/32
+G$/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Walther/Genannter/Gîrtschach/Gîrtschach//O-Krain?,b.Grosskahlenberg/
+H$PfandgeschÑft/Immobilien_Hube/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quinque marcis ecclesie Victoriensi fuisse obligatum et dudum fuisse tam
+gratia quam precio solutum
+
+DOK$KrUB2_0044/1223.0.0/1223.0.0/1223/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Willa eine Ministerialin des Grafen Meinhart von Gîrz schenkt mit Zustimmung
+ihres Herrn 7 Eigenleuten die Freiheit und widmet diese mit der Verpflichtung
+jÑhrlich 5 Pfennige zu bzahlen als Zinshîrige dem Kloster Sittich.
+
+REG$Zinszahlung von Hîrigen des Klosters Sittich in der Hîhe von jÑhrlich 5
+Pfennigen.
+F$KrUB 2/044/33f/34
+F$Reg. Gîrz 1/403/110/110
+G$X/Hîrige/Sittich/Sittich?//Krain/
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Zensus/Hîrige/Sittich/Sittich//Krain/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$quilibet eorum annuatim solvat quinque denarios monasterio Sitticensi
+
+DOK$KrUB2_0060/1228.10.29/1228.10.29/1228 Oktober 29/anno incarnationis dominice
+MCCXXVIII, IIII kalendas novembris/X/X//
+S$Heinrich/X/Heinrich?
+V$X/X/X
+K$Patriarch Berhtold von Aquileia bestÑtigt den Kauf von GÅtern zu Olscheuk,
+St. Stephansberg und Jauchen in Krain seitens des Klosters Oberburg und von der
+Propstei Die·en (in Bayern), und beurkundet die Rechte und Freiheiten desselben
+an ihnen.
+
+REG$Patriarch Berhtold von Aquileia bestÑtigt den Kauf von GÅtern zu Olscheuk,
+St. Stephansberg und Jauchen in Krain seitens des Klosters Oberburg und von der
+Propstei Die·en (in Bayern), und beurkundet die Rechte und Freiheiten desselben
+an ihnen.
+F$KrUB 2/060/43ff/44
+F$StUB 2/251/342ff/343
+G$Albert/Abt/Oberburg/Oberburg//Stmk.-Unt.,Sannthal/
+E$X/Propst/Die·en/Die·en//Bayern/
+H$BestÑtigung_Verkauf/Immobilien_Huben/Olscheuk/Olscheuk//Ober-Krain/
+H$BestÑtigung_Verkauf/Immobilien_Huben/Stefansberg/Stefansberg//Ober-Krain,
+Pfr.Zirklach/
+H$BestÑtigung_Verkauf/Immobilien_Huben/Jauchen/Jauchen//Ober-Krain/
+W$X/X/
+O$85/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$duodecim mansos \dots in monte sancti Stephani sitos, et duos in
+Olswic \dots duos in Vichan octoginta quinque marcis
+
+DOK$KrUB2_0062/1228.11.5/1228.11.5/1228 November 5/anno incarnationis dominice
+millesimo ducentesimo vicesimo octavo, nonis novembris/X/X//
+S$Friedrich/X/Friedrich ?
+V$X/X/X
+K$Der Konvent des Stiftes Die·en bestÑtigt den Verkauf von GÅtern seines Eigens
+zu Olscheuk, St. Stephansberg und Jauchen in Krain durch seinen Propst Heinrich
+an Abt Albert von Oberburg.
+
+REG$Der Konvent des Stiftes Die·en bestÑtigt den Verkauf von GÅtern seines Eigens
+zu Olscheuk, St. Stephansberg und Jauchen in Krain durch seinen Propst Heinrich
+an Abt Albert von Oberburg.
+F$KrUB 2/062/47ff/48
+F$StUB 2/252/345f/345
+G$Albert/Abt/Oberburg/Oberburg//Stmk.-Unt.Sannthal/
+E$X/Stift/Die·en/Die·en//Bayern/
+H$BestÑtigung_Verkauf/Immobilien/Olscheuk/Olscheuk//Ober-Krain/
+H$BestÑtigung_Verkauf/Immobilien/Stefansberg/Stefansberg//Ober-Krain,Pfr.Zirklach/
+H$BestÑtigung_Verkauf/Immobilien/Jauchen/Jauchen//Ober-Krain/
+W$X/X/
+O$85/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$duodecim mansos \dots in monte sancti Stephani ac plebe sancte Marie
+sitos, et duos in Olswic et reliquos duos in Jachan (!) \dots vendidit
+\dots octoginta quinque marcis
+
+DOK$KrUB2_0064/1229.4.5/1229.4.5/1229 April 5/in nonis aprilis, anno domini
+MCCXXVIIII./Wien/Wien//ô/
+S$X/X/X
+V$X/X/X
+K$Bischof Gerold von Freising belehnt Herzog Leopold VI. von ôsterreich mit
+allen GÅtern in der Windischen Mark, welche seinem Stift nach dem Tod des
+Markgrafen von Istrien Heinrich heimgefallen waren, gegen Zahlung von 1500 und
+150 Mark Silber Kîlner Gewichts.
+
+REG$Bischof Gerold von Freising belehnt Herzog Leopold VI. von ôsterreich mit
+allen GÅtern in der Windischen Mark, welche seinem Stift nach dem Tod des
+Markgrafen von Istrien Heinrich heimgefallen waren, gegen Zahlung von 1500 und
+150 Mark Silber Kîlner Gewichts.
+F$KrUB 2/064/50f/50
+F$FRA II 31/129/128f/129
+G$Leopold VI./Herzog/ôsterreich/ôsterreich//ô/
+E$Gerold/Bischof/Freising/Freising//Bayern/
+H$Belehnung/Immobilien/unbestimmt/unbestimmt//Krain
+W$Kîln/pondus
+O$1500/marca/X
+O$150/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$dare promisit mille quingentas marcas argenti ponderis Coloniensis et ipsius
+consilio centum L marcas
+
+REG$Bischof Gerold von Freising belehnt Herzog Leopold VI. von ôsterreich mit
+allen GÅtern in der Windischen Mark, welche seinem Stift nach dem Tod des
+Markgrafen von Istrien Heinrich heimgefallen waren, gegen Zahlung von 1500 und
+150 Mark Silber Kîlner Gewichts. FÅr zwei zu zahlende TeilbetrÑge werden Termine
+vereinbart. Die erste Teilzahlung betrÑgt 1050 Mark.
+F$KrUB 2/064/50f/50
+F$FRA II 31/129/128f/129
+G$Leopold VI./Herzog/ôsterreich/ôsterreich//ô/
+E$Gerold/Bischof/Freising/Freising//Bayern/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//Krain
+W$X/X/
+O$1050/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvet ML marcas episcopo antedicto
+
+REG$Bischof Gerold von Freising belehnt Herzog Leopold VI. von ôsterreich mit
+allen GÅtern in der Windischen Mark, welche seinem Stift nach dem Tod des
+Markgrafen von Istrien Heinrich heimgefallen waren, gegen Zahlung von 1500 und
+150 Mark Silber Kîlner Gewichts. FÅr zwei zu zahlende TeilbetrÑge werden Termine
+vereinbart. Die zweite Teilzahlung betrÑgt 600 Mark.
+F$KrUB 2/064/50f/50
+F$FRA II 31/129/128f/129
+G$Leopold VI./Herzog/ôsterreich/ôsterreich//ô/
+E$Gerold/Bischof/Freising/Freising//Bayern/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//Krain
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ipsi episcopso solvere tenetur reliquas DC marcas
+
+REG$Bischof Gerold von Freising belehnt Herzog Leopold VI. von ôsterreich mit
+allen GÅtern in der Windischen Mark, welche seinem Stift nach dem Tod des
+Markgrafen von Istrien Heinrich heimgefallen waren, gegen Zahlung von 1500 und
+150 Mark Silber Kîlner Gewichts. FÅr zwei zu zahlende TeilbetrÑge werden Termine
+vereinbart. Sollte der zweite Teilbetrag nicht, wie festgesetzt, eingehalten
+werden, verfÑllt der bereits geleistete Betrag.
+F$KrUB 2/064/50f/50
+F$FRA II 31/129/128f/129
+G$Leopold VI./Herzog/ôsterreich/ôsterreich//ô/
+E$Gerold/Bischof/Freising/Freising//Bayern/
+H$Pînale/Zahlungsverpflichtung/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$DC marcas solvere forsan omiserit, ille ML marce quas solvit, sibi sint
+perdite
+
+REG$Bischof Gerold von Freising belehnt Herzog Leopold VI. von ôsterreich mit
+allen GÅtern in der Windischen Mark, welche seinem Stift nach dem Tod des
+Markgrafen von Istrien Heinrich heimgefallen waren, gegen Zahlung von 1500 und
+150 Mark Silber Kîlner Gewichts. FÅr zwei zu zahlende TeilbetrÑge werden Termine
+vereinbart. Sollte der zweite Teilbetrag nicht, wie festgesetzt, eingehalten
+werden, verfÑllt der bereits geleistete Betrag.
+F$KrUB 2/064/50f/51
+F$FRA II 31/129/128f/129
+G$Leopold VI./Herzog/ôsterreich/ôsterreich//ô/
+E$Gerold/Bischof/Freising/Freising//Bayern/
+H$Pînale/Zahlungsverpflichtung/unbestimmt/unbestimmt//Krain   ?
+W$X/X/
+O$1050/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$DC marcas solvere forsan omiserit, ille ML marce quas solvit, sibi sint
+perdite
+
+DOK$KrUB2_0068/1230.11.6/1230.11.6/1230 November 6/anno dominice
+incarnationis MCCXXX, indictione III. octava idus novembris/Schesslitz/Schesslitz//Bayern,Oberfranken/
+S$X/X/X
+V$Heidinricus/X/Heidinricus ?
+K$Herzog Otto von Meranien bekundet, da· er nach dem Tod seines Bruders
+Heinrich, des Markgrafen von Istrien, seiner SchwÑgerin Sophie ihr Heiratsgut
+um eine ungenannte Summe abgekauft habe, und da· er nun in deren Auftrag 300
+Pfund Augsburger MÅnze, beziehungsweise die EinkÅnfte von benannten
+GrundstÅcken der Kirche zu Die·en zur Stiftung eines Jahrtages Åbergeben hat.
+
+REG$Herzog Otto von Meranien Åbergibt im Auftrag seiner SchwÑgerin Sophie 300
+Pfund Augsburger MÅnze der Kirche zu Die·en zur Stiftung eines Jahrtages.
+F$KrUB 2/068/53f/53
+G$Otto/Herzog/Kroatien/Meranien//Meranien   wo?? SophieMarkgrÑfinIstrien ?
+E$X/Kirche/Die·en/Die·en//Bayern/
+H$Anniversar/Anniversar/Die·en/Die·en//Bayern/
+W$Augsburg/moneta/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro salute et remedio anime proprie \dots nobis exsolvere dederat in
+mandatis, ecclesie sancte Marie in Diezen trecentas libras Augustensis monete
+
+?
+
+DOK$KrUB2_0085/1234.0.0/1234.0.0/1234/anno ab incarnatione domini
+MCCXXXIIII, indict. VII/Meiselding/Meiselding//K,sw.Althofen/
+S$X/X/X
+V$X/X/X
+K$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und sich fÅr den Fall des Vertragsbruches einer Bu·e von 600
+Mark, sowie der pÑpstlichen Exkommunikation unterwerfen.
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark gestellt haben.
+F$MDC 2/545/15f/15
+F$KrUB 2/085/62/62
+G$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+E$X/Bistum/Gurk/Gurk//KÑ.-Unt./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad maiorem cautelam caucionem fideiussoriam sexingentarum marcarum
+ecclesi\c{e} nostr\c{e} per honestos viros subnotatos exposuerunt se et heredes
+eorum ad id persolvendum iuramento obligaverunt
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und sich fÅr den Fall des Vertragsbruches einer Strafe von 600
+Mark unterwerfen.
+F$MDC 2/545/15f/16
+F$KrUB 2/085/62/62
+G$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+E$X/Bistum/Gurk/Gurk//KÑ.-Unt./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$penam sexingentarum marcarum
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark (darunter
+Herzog Bernhard von KÑrnten fÅr 100 Mark) gestellt haben.
+F$MDC 2/545/15f/16
+G$Bernhard/Herzog/KÑrnten/KÑrnten//wo??
+E$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+H$BÅrgschaft/Pînale/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$hii sunt fideiussores: Bernhardus dux Karinthi\c{e} pro C marcis
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark (darunter
+Konrad von Lengenburg fÅr 100 Mark) gestellt haben.
+F$MDC 2/545/15f/16
+G$Konrad/Genannter/Lemberg/Lemberg/Lengenburg/U-Stmk,nw.Hochenegg u.Cilli/
+E$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+H$BÅrgschaft/Pînale/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$hii sunt fideiussores: \dots Ch\¯{u}nradus de Lengenburch pro C marcis
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark (darunter
+Konrad von Owersperch fÅr 200 Mark) gestellt haben.
+F$MDC 2/545/15f/16
+G$Konrad/Genannter/Auersberg/Auersberg/Owersperch/Krain/
+E$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+H$BÅrgschaft/Pînale/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$hii sunt fideiussores: \dots Ch\¯{u}nradus de Owersperch pro CC marcis
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark (darunter
+Heinrich von Rohatsch fÅr 50 Mark) gestellt haben.
+F$MDC 2/545/15f/16
+G$Heinrich/Genannter/Rohitsch/Rohitsch/Rohatsch?/Stmk/
+E$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+H$BÅrgschaft/Pînale/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$hii sunt fideiussores: \dots Heinricus de Rohatsch pro L marcis
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark (darunter
+Ulrich von Muntparis fÅr 50 Mark) gestellt haben.
+F$MDC 2/545/15f/16
+G$Ulrich/Genannter/Montpreis/Montpreis/Muntparis/Stmk,sî.Cilli/
+E$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+H$BÅrgschaft/Pînale/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$hii sunt fideiussores: \dots \¯{W}lricus de Muntparis pro C marcis
+
+REG$Bischof Ulrich I. von Gurk und Herzog Bernhard von KÑrnten beurkunden, da· die
+Edlen Liutold und seine Sîhne Poppo und Ulrich von Peggau von weiteren
+Anfechtungen der Gurker Kirche wegen des Gutes und der Leute in Albeck
+abgestanden sind und zur Sicherung dafÅr BÅrgen fÅr 600 Mark (darunter
+Heinrich von Silberberg fÅr 100 Mark) gestellt haben.
+F$MDC 2/545/15f/16
+G$Heinrich/Genannter/Silberberg/Silberberg//K,Ruine n.HÅttenberg/
+E$Liutold;Poppo;Ulrich/Genannter/Peggau/Peggau//Stmk.-Mi./
+H$BÅrgschaft/Pînale/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$hii sunt fideiussores: \dots Heinricus de Silberberch pro C marcis
+
+DOK$KrUB2_0086/1235.0.0/1235.0.0/1235/anno ab incarnatione domini MCCXXXV
+concurrente VII., epactis XXX., inditione octava/Wippach/Wippach//Inner-Krain/
+S$X/X/X
+V$X/X/X
+K$Heinrich der Sohn Heinrichs von Greifenfels genehmigt die Bitte des
+Ritters Hermann von Sreliz (,den er bei Verheiratung seiner Schwester dem
+Heinrich von Scharfenberg abgetreten hatte,) und ÅberlÑ·t dem Kloster Viktring
+das Eingentumsrecht an einer Hube zu Gurlitsch, welche vorher jener Hermann von
+ihm zu Lehen gehabt hatte.
+
+REG$Heinrich von Greifenfels ÅberlÑ·t dem Kloster Viktring das Eigentumsrecht an
+einer Hube zu Gurlitsch fÅr 10 Mark Pfennige.
+F$KrUB 2/086/62f/62
+G$X/Kloster/Viktring/Viktring//KÑ.-Unt./
+E$Heinrich/Genannter/Greifenfels/Greifenfels//Klagenfurt Umgeb.Pfr.Ebenthal/
+H$öbergabe/Immobilien_Hube/Hornstein/Hornstein/slow. Kurlice, Gurlitsch/Krain,
+Pfarre Tultschnik b.Klagenfurt OG Krumpendorf/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$prebuimus de manso in Curlich \dots relligiosis viris in Vittring pro X marcis
+denariorum \dots contuli proprietatem
+
+DOK$KrUB2_0090/1235.0.0/1235.0.0/ca. 1235/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gebhard von Lemberg(-Saneck) verpfÑndet dem Kloster Oberburg seine Vogtei auf
+dessen GÅtern in der Mark und beim Kloster selbst um 12 Mark MÅnze.
+
+REG$Gebhard von Lemberg(-Saneck) verpfÑndet dem Kloster Oberburg seine Vogtei auf
+dessen GÅtern in der Mark und beim Kloster selbst um 12 Mark MÅnze.
+F$StUB 2/334/438f/438
+F$KrUB 2/090/64/64
+G$X/Kloster/Oberburg/Oberburg//Stmk.-Unt./
+E$Gebhard/Genannter/Lemberg/Lemberg//Stmk.-Unt.,nw.Hochenegg u.Cilli/
+H$PfandgeschÑft/Vogtei/Oberburg/Oberburg//Stmk.-Unt./
+H$PfandgeschÑft/Vogtei/Krain/Mark?Krain//Krain/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$obligavi omnem advocatiam \dots abbati eiusdem loci pro XII marcis denariorum
+
+REG$Gebhard von Lemberg(-Saneck) verpfÑndet dem Kloster Oberburg seine Vogtei auf
+dessen GÅtern in der Mark und beim Kloster selbst um 12 Mark MÅnze unter der
+Vereinbarung, da· sein Sohn diese nach seinem Tod um 5 Mark zurÅckkaufen kann.
+F$StUB 2/334/438f/439
+G$X/Genannter/Lemberg/Lemberg//Stmk.-Unt.,nw.Hochenegg u.Cilli/
+E$X/Kloster/Oberburg/Oberburg//Stmk.-Unt./
+H$Pfand_Auslîsung/Vogtei/Oberburg/Oberburg//Stmk.-Unt./
+H$Pfand_Auslîsung/Vogtei/Krain/Mark?Krain//Krain/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$tempore vero vite mee filius meus non habeat potestatem redimendi hanc
+advocatiam, quo  expleto filius meus dabit abbati tantum V marcas
+
+REG$Gebhard von Lemberg(-Saneck) verpfÑndet dem Kloster Oberburg seine Vogtei auf
+dessen GÅtern in der Mark und beim Kloster selbst um 12 Mark MÅnze unter der
+Vereinbarung, da· er diese um 5 Mark zurÅckkaufen kann.
+F$StUB 2/334/438f/439
+G$X/Genannter/Lemberg/Lemberg//Stmk.-Unt.,nw.Hochenegg u.Cilli/
+E$X/Kloster/Oberburg/Oberburg//Stmk.-Unt./
+H$Pfand_Auslîsung/Vogtei/Oberburg/Oberburg//Stmk.-Unt./
+H$Pfand_Auslîsung/Vogtei/Krain/Mark?Krain//Krain/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ego vero si ipsam redimere voluero, XII marcas persolvam
+
+DOK$KrUB2_0091/1236.7.0/1236.7.0/1236 Juli/anno incarnationis domini MCCXXXVI.,
+VIIII. indictione, mense julii/X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich von ôsterreich verpfÑndet dem Bistum Freising fÅr 500 Mark,
+welche sein Vater noch aus dem Lehen der Windischen Mark demselben schuldete,
+den Markt Aschbach in Niederîsterreich, den er als Lehen von Freising besa·.
+
+REG$Herzog Friedrich von ôsterreich verpfÑndet dem Bistum Freising fÅr 500 Mark,
+welche sein Vater noch aus dem Lehen der Windischen Mark demselben schuldete,
+den Markt Aschbach in Niederîsterreich, den er als Lehen von Freising besa·.
+F$KrUB 2/091/64/64
+F$FRA II 31/135/132f/133
+G$X/Bistum/Freising/Freising//Bayern/
+E$Friedrich/Herzog/ôsterreich/ôsterreich//ô/
+H$PfandgeschÑft/Immobilien_Markt/Aschbach/Aschbach//Niederîst.zw.Waidhofen u.AmstÑtten/
+W$X/X
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro quingentis marcis argenti \dots obligavimus
+
+DOK$KrUB2_0102/1238.1.1/1238.12.10/1238 vor Dezember 11/anno gracie
+MCCXXXVIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Gerloch von Stein bekundet, da· er mit genannten Personen seines Geschlechtes
+Åber Veranlassung des Abtes (Albert) von Oberburg ein Frauenkloster zu
+Michelstetten gestiftet habe.
+
+REG$Abt (Albert) von Oberburg Åbergibt dem Kloster Michelstetten 100 Mark als
+UnterstÅtzung. ?
+F$KrUB 2/102/73ff/75
+G$Albert/Abt/Oberburg/Oberburg//Stmk.-Unt./
+E$X/Kloster/Michelstetten/Michelstetten//Krain i.Zicklacherthal/
+H$Schenkung_Kl.GrÅndung/Geldsumme/Michelstetten/Michelstetten//Krain i.Zicklacherthal  ?
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$prebens subsidium C marcarum
+
+DOK$KrUB2_0103/1238.12.11/1238.12.11/1238 Dezember 11/anno
+incarnationis dominice MCCXXXVIII, III. idus decembris/Michelstetten/Michelstetten//Krain i.Zicklacherthal/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia genehmigt auf Bitte des Pfarrers von Mannsburg
+Weriand und der Åbrigen GebrÅder von Stein, sowie des Abtes Albert von Oberburg,
+die GrÅndung des Frauenklosters zu Michelstetten.
+
+REG$Abt Albert von Oberburg gibt dem Frauenkloster zu Michelstetten 13 Mansen
+bei Vellde, welche er um 60 Mark gekauft hat, und fÅgt sie zu den 100 Mark, die
+er schon Åbergeben hat.
+F$KrUB 2/103/75ff/77
+G$Albert/Abt/Oberburg/Oberburg//Krain/
+E$X/X/X/X//
+H$Kauf/Immobilien/Oberfeld/Oberfeld/Vellde/O-Krain b.Michelstetten/
+W$X/X/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XIIII mansos apud Vellde, quod emit pro LX marcis addens usque ad centum
+
+REG$EinkÅnfte des Weriand von Stein von seinem ErbgutEigentum? in der Hîhe von
+10 Mark.
+F$KrUB 2/103/75ff/77
+G$X/X/X/X//
+E$Weriand/Genannter/Krain_Ostober/Ostoberkrain/Stein/Krain,b.Mannsburg/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de patrimonio suo X marcarum reditus assignabit
+
+REG$EinkÅnfte des Weriand von Stein von seinem ErbgutEigentum? in der Hîhe von
+15 Mark.
+F$KrUB 2/103/75ff/77
+G$X/X/X/X//
+E$Weriand/Genannter/Krain_Ostober/Ostoberkrain/Stein/Krain,b.Mannsburg   ?
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solverit Weriando adhuc forte superstite fratre suo eidem ad edificiorum
+perfectionem XV marcarum reditus de suo patrimonio similiter assignabit
+
+DOK$KrUB2_0112/1241.4.30/1241.4.30/1241 April 30/anno dominice
+incarnationis MCCXLI, indictione XIV. exeunte aprilis ultima
+die/Lienz/Lienz Patriasdorf//Tirol,b.Lienz/
+S$X/X/X
+V$X/X/X
+K$Graf Meinhard von Gîrz stellt unter nÑher bezeichneten Bedingungen dem Bischof
+Egno von Brixen das Schlo· Veldes mit Ausnahme der Vogtei darÅber zurÅck.
+
+REG$Bischof Egno von Brixen verpfÑndet Graf Meinhard von Gîrz alle Besitzungen des
+Bistums Brixen in Tyliach fÅr 200 Mark Silber.
+F$KrUB 2/112/85ff/86
+F$Reg. Gîrz 1/488/130/130
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$Egno/Bischof/Brixen/Brixen//Tirol/
+H$PfandgeschÑft/Immobilien/Tilliach/Tilliach//Tirol BH Lienz/
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$omnes possessiones Brixinensis ecclesie et coeteras res mobiles et
+immobiles in Tyliach constitutas pro CC marcis argenti obligavit
+
+REG$Graf Meinhard von Gîrz verpfÑndet Bischof Egno von Brixen alle Besitzungen in
+Nachel um 200 Mark.
+F$KrUB 2/112/85ff/86
+F$Reg. Gîrz 1/488/130/130
+G$Egno/Bischof/Brixen/Brixen//Tirol/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Immobilien/Naklas/Naklas/Nachel/O-Krain b.Krainburg/
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$omnes possessiones suas et alias res mobiles et immobiles, quas possidet in
+villa Nachel et circa villam eandem econverso pro CC marcis obligavit
+
+REG$Graf Meinhard von Gîrz und Bischof Egno von Brixen versprechen unter Strafe
+von 200 Mark, da· sie das Urteil der Schiedsleute anerkennen werden. ?
+F$KrUB 2/112/85ff/87
+F$Reg. Gîrz 1/488/130/130
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+G$Egno/Bistum/Brixen/Brixen//Tirol/
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$huius iustitiam se ratam et firmam sub poena CC marcarum habere promiserunt
+
+DOK$KrUB2_0114/1241.6.0/1241.6.0/1241 Juni/anno ab incarnatione domini MCC.
+quadragesimo primo, mense Junio/X/X//
+S$X/X/X
+V$X/X/X
+K$Wilhelm von Hoheneck genehmigt die Schenkung von 5 Huben zu Lippa durch seinen
+Bruder Liupold an das Kloster Seitz, fÅgt selbst 5 andere ebendort der Widmung
+bei, gestattet weiters seiner Schwester Elisabeth von Myltenberch einen
+GÅterverkauf an dasselbe Stift und gibt schlie·lich noch auf dem Krankenbett andere
+Liegensachaften zu Breitenbuch u.s.w.
+
+REG$Elisabeth von Myltenberch schenkt dem Kloster Seitz 14 Huben in Strennewitz
+teils um ihres Seelenheiles willen, teils um 18 Mark.
+F$KrUB 2/114/88/88
+F$StUB 2/397/509ff/510
+G$X/Kloster/Seitz/Seitz//Stmk.-Unt./
+E$Elisabeth/Genannte/Miltenberg/Miltenberg/Myltenberch/Stmk,b.Hohenegg oder
+Mittelfranken ?/
+H$Kauf/Immobilien_Huben/Stranitzen/Stranitzen/Strennewitz/Stmk.-Unt.,b.Cilli/
+W$X/X/
+O$18/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quatuordecim mansus prenominate ecclesie partim pro salute anime partim pro
+precio decem et octo marcharum venderet et donaret
+
+DOK$KrUB2_0115/1241.8.6/1241.8.6/1241 August 6/anno gratie MCCXLI, indictione
+XIIII., VI. die augusti/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Heinrich von Oberburg bestÑtigt die Schenkung von 100 Mark, mit welchen
+sein Vorfahr, Abt Albert die GrÅndung des Nonnenklosters Michelstetten
+unterstÅtzt hatte.
+
+REG$Abt Heinrich von Oberburg bestÑtigt die Schenkung von 100 Mark, mit welchen
+sein Vorfahr, Abt Albert die GrÅndung des Nonnenklosters Michelstetten
+unterstÅtzt hatte.
+F$KrUB 2/115/88f/89
+F$StUB 2/398/511f/511
+G$Heinrich/Abt/Oberburg/Oberburg//Stmk.-Unt.     Albert?
+E$X/Kloster/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+H$BestÑtigung_Schenkung/Geldsumme/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in earum subsidium centum marcas noscitur contulisse
+
+DOK$KrUB2_0119/1242.0.0/1242.0.0/1242/anno gratie MCCXLII/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Heinrich von Oberburg anerkennt den Ausspruch eines Schiedsrichters in
+einer Streitsache zwischen ihm und dem Kloster Michelstetten, betreffend
+Schenkungen, die sein Vorfahr, Abt Albrecht an letzteres getan hatte.
+
+REG$Abt Heinrich von Oberburg bestÑtigt eine Schenkung seines VorgÑngers Albert an
+das Kloster Michelstetten in der Hîhe von 100 Mark.
+F$KrUB 2/119/92f/92
+F$StUB 2/411/524ff/525
+G$Heinrich/Abt/Oberburg/Oberburg//Stmk.-Unt.        Albert?
+E$X/Kloster/Michelstetten/Michelstetten//Oberkrain
+H$Schenkung/Geldsumme/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$confirmavimus donationem centum marcarum quas predecessor noster felicis
+memorie Albertus \dots dederat
+
+REG$Abt Heinrich von Oberburg bestÑtigt, da· dem Kloster Michelstetten GÅter,
+die um 100 Mark gekauft worden sind, zurÅckgegeben werden.
+F$KrUB 2/119/92f/93
+F$StUB 2/411/524ff/525
+G$Heinrich/Abt/Oberburg/Oberburg//Stmk.-Unt.   ?Geber eines Wertes in der Hîhe von 100
+E$X/Kloster/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+H$Kauf/Immobilien/unbestimmt/unbestimmt//Krain i.Zicklachertal/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$predia que pro centum marcis empta sunt
+
+REG$NN
+
+F$KrUB 2/119/92f/93
+F$StUB 2/411/524ff/525
+G$Heinrich/Abt/Oberburg/Oberburg//Stmk.-Unt./
+E$X/Kloster/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+H$?/Geldsumme/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$arbitri sunt autem nobis arbitri deum pre oculis habentes triginta marcas
+denariorum
+
+REG$Abt Heinrich von Oberburg anerkennt den Ausspruch eines Schiedsrichters,
+wonach sein VorgÑnger Abt Albert dem Kloster Michelstetten von der zugesagten
+UnterstÅtzung in der Hîhe von 100 Mark 32 Mark noch nicht bezahlt habe.
+F$KrUB 2/119/92f/93
+F$StUB 2/411/524ff/525
+G$Heinrich/Abt/Oberburg/Oberburg//Stmk.-Unt.  Albert?
+E$X/Kloster/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+H$Schiedsspr._Anerkennung/Geldsumme/Michelstetten/Michelstetten//Krain i.Zicklachertal   ?
+W$X/X/
+O$32/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$cesserunt actioni triginta duarum marcarum quas idem predecessor noster
+dixerat de illis centum marcis se nondum solvisse
+
+REG$Abt Heinrich von Oberburg anerkennt den Ausspruch eines Schiedsrichters,
+wonach sein VorgÑnger Abt Albert dem Kloster Michelstetten von der zugesagten
+UnterstÅtzung in der Hîhe von 100 Mark 32 Mark noch nicht bezahlt habe.
+F$KrUB 2/119/92f/93
+F$StUB 2/411/524ff/525
+G$Heinrich/Abt/Oberburg/Oberburg//Stmk.-Unt.   Albert?
+E$X/Kloster/Michelstetten/Michelstetten//Krain i.Zicklachertal/
+H$Schiedsspr._Anerkennung/Geldsumme/Michelstetten/Michelstetten//Krain i.Zicklachertal  ?UnterstÅtzung
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$cesserunt actioni triginta duarum marcarum quas idem predecessor noster
+dixerat de illis centum marcis se nondum solvisse
+
+DOK$KrUB2_0131/1245.4.11/1245.4.11/1245 April 11/anno domini MCCXLV \dots III.
+idus aprilis/uTirol Riuenera/Riuenera//Tirol?Wasser in/
+S$X/X/X
+V$X/X/X
+K$Der erwÑhlte Bischof Egno von Brixen bekundet, da· er zur Wiedererlangung des
+Schlosses Veldes an Ritter Gerloch von Hartenberg und Wilhelm von Veldes 250
+Mark Silber zu bezahlen habe, da· sich Graf Hermann von Ortenburg fÅr diese
+Summe verbÅrgte, und da· letzterem fÅr alle SchÑden, die er daraus nehmen wÅre,
+die GÅter des Bistums haften sollen.
+
+REG$Der erwÑhlte Bischof Egno von Brixen bezahlt zur Wiedererlangung des
+Schlosses Veldes 250 Mark Silber an Ritter Gerloch von Hartenberg und Wilhelm
+von Veldes.
+F$KrUB 2/131/98f/99
+G$Egno/Bischof/Brixen/Brixen//Tirol/
+E$Gerloch/Genannter/Hartenberg/Hartenberg//O-Krain,b.St.Katharina/
+E$Wilhelm/Genannter/Veldes/Veldes//O-Krain/
+H$Ablîse/Immobilien_Burg/Veldes/Veldes//O-Krain/
+W$X/X
+O$250/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$castrum Veldes \dots Gerloho militi de Hertenberch et Wilhelmo de Veldes,
+qui subripiendo id castrum nobis alienaverant, CCL marcas argenti persolvere
+debemus
+
+DOK$KrUB2_0134/1245.11.5/1245.11.5/1245 November 5/anno domini MCCXLV.
+indictione III, die quinto mensis
+novembris/Antro/Antro/Antrum/Friaul-Ost,b.Cividale/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia bekundet, da· er dem Grafen Hermann von
+Ortenburg 50 Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im
+Vertrag wegen Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme
+verpfÑndet habe. Sollte jedoch Graf Ulrich die wegen Gelîbnisbruches eingezogene
+angewiesene Herrschaft Laas dem Patriarchen im Rechtswege wieder abstreiten
+kînnen, so gelobt diesem Graf Herrmann den Ersatz allen Schadens.
+
+REG$Patriarch Berthold von Aquileia hat dem Grafen Hermann von Ortenburg eine
+Strafe in der Hîhe von 1000 Mark fÅr die Freilassung des Grafen Ulrich von
+Sternberg zu zahlen. ?
+F$KrUB 2/134/100ff/100
+F$MDC 4I/2320/332f/332
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//    ?Lîsegeld
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$idem comes Hermannus penam a nobis mille marcarum instanter exigeret pro eo
+quod idem comes Wlricus non satisfecerat sibi, de perpetua pace, que vulgo
+appellatur vruehy
+
+REG$Patriarch Berthold von Aquileia hat dem Grafen Hermann von Ortenburg eine
+Strafe in der Hîhe von 1000 Mark fÅr die Freilassung des Grafen Ulrich von
+Sternberg zu zahlen. ?
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/332
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$nos prefato comiti Hermanno in mille marcis satisfacere tenebamur
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/332
+G$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/EinkÅnfte/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach/
+H$PfandgeschÑft/EinkÅnfte/Treffen/Treffen//KÑ.-Ob.b.Villach/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de bonis nostris obligaveramus eidem usque ad certum terminum
+proventus quinquaginta marcarum
+
+REG$Patriarch Berthold von Aquileia bezahlt? dem Grafen Hermann von Ortenburg 100
+Mark als die im Vertrag wegen Freilassung des Ritters Hermann vorgesehene
+Strafsumme. ?
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+H$Freilassung/Ritter/unbestimmt/unbestimmt// ?
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$satisfacto sibi in centum marcis pro Henrico milite quem captivatum tenebat
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/EinkÅnfte/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach  ?
+H$PfandgeschÑft/EinkÅnfte/Treffen/Treffen//KÑ.-Ob.b.Villach  ?
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quinquaginta marcis pro redditibus pignorationis anni presentis
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme von 650 Mark.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlungsverpflichtung/Strafgeld/unbestimmt/unbestimmt// Pînale?
+W$X/X/
+O$650/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de sexcentis et quinquaginta marcis, quas ei pro predicta pena solvere
+tenebamur, percipere debeat et habere proventus nostros in Tiven et Treven
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme, darunter
+Weizen im geschÑtzten Wert von 24 Pfennigen.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$X/X/X/X//
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑtzung/EinkÅnfte_Weizen/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach/
+H$SchÑtzung/EinkÅnfte_Weizen/Treffen/Treffen//KÑ.-Ob.b.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$modius tritici ad mensuram Villacensem pro viginti quatuor denariis
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme, darunter
+Roggen und Hirse im geschÑtzten Wert von 20 Pfennigen.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$X/X/X/X//
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑtzung/EinkÅnfte_Roggen u. Hirse/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach/
+H$SchÑtzung/EinkÅnfte_Roggen u. Hirse/Treffen/Treffen//KÑ.-Ob.b.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$modius vero siliginis et milii pro viginti denariis
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme, darunter
+Hafer im geschÑtzten Wert von 12 Pfennigen.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$X/X/X/X//
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑtzung/EinkÅnfte_Hafer/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach/
+H$SchÑtzung/EinkÅnfte_Hafer/Treffen/Treffen//KÑ.-Ob.b.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$modius avene pro duodecim denariis
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme, wobei 1
+Pfennig an EinkÅnften 12 Veroneser Pfennigen entsprechen soll.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$X/X/X/X//
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑtzung/EinkÅnfte_Hafer/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach  ?
+H$SchÑtzung/EinkÅnfte_Hafer/Treffen/Treffen//KÑ.-Ob.b.Villach   ?
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+A$12 Veroneser Pf./1 Pf.
+Q$denarius pro denario, ita quod duodecim Veronenses pro quolibet denario
+computentur
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme, wobei 1
+Pfennig an EinkÅnften 12 Veroneser Pfennigen entsprechen soll.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$X/X/X/X//
+E?$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$SchÑtzung/EinkÅnfte_Hafer/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach  ?
+H$SchÑtzung/EinkÅnfte_Hafer/Treffen/Treffen//KÑ.-Ob.b.Villach  ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Pf./12 Veroneser Pf.
+Q$denarius pro denario, ita quod duodecim Veronenses pro quolibet denario
+computentur
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Hermann von Ortenburg 50
+Mark EinkÅnfte zu Tiffen und Treffen (in KÑrnten) als die im Vertrag wegen
+Freilassung des Grafen Ulrich von Sternberg vorgesehene Strafsumme, unter der
+Vereinbarung, da·, wenn zum festgesetzten Termin dem Grafen Geld oder EinkÅnfte
+nicht Åbergeben worden sind, dieser die EinkÅnfte in der Hîhe von 50 Mark als
+Lehen haben soll.
+F$KrUB 2/134/100ff/101
+F$MDC 4I/2320/332f/333
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Hermann/Graf/Ortenburg/Ortenburg//KÑ.-Ob.b.Spital/
+H$BelehnungPînale/EinkÅnfte/Tiffen/Tiffen/Tiffen/KÑ.-Ob.b.Ossiach  ?
+H$BelehnungPînale/EinkÅnfte/Treffen/Treffen//KÑ.-Ob.b.Villach  ?
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$proventus quinquaginta marcarum exinde ad legale feudum habere debeat
+
+DOK$KrUB2_0138/1246.9.22/1246.9.22/1246 September 22/X kalendas octobris,
+anno domini MCCXLVI, indictione IIII/Rann/Rann//Stmk.-Unt. Rain/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg gewÑhrt den GebrÅdern Berthold und
+Geiselbrecht von Gurkfeld sowie den Åbrigen Ministerialen dieses Schlosses, zu
+dessen Besitz er nun gekommen sei, das volle Recht der Salzburger Ministerialen,
+bestÑtigt den genannten BrÅdern ihre HÑuser und die Landgerichtsbarkeit daselbst
+u.s. w.
+
+REG$Erzbischof Eberhard II. von Salzburg Åbergibt den BrÅdern Berthold und
+Geiselbrecht von Gurkfeld EinkÅnfte des Gutes Rann in der Hîhe von 50 Mark
+in den Dîrfern Polch\o{v}nitze, Vedesendorf und Welike.
+F$KrUB 2/138/105f/105
+F$SUB 3/1095/639f/640
+F$StUB 3/004/56?/56?
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Berthold;Geisebrecht/Genannter/Gurkfeld/Gurkfeld//U-Krain/
+H$öbergabe/EinkÅnfte/Pochanza/Pochanza/Polch\o{v}nitze/Krain U-Stmk
+b.Rann/
+H$öbergabe/EinkÅnfte/uKrain Vedesendorf/Vedesendorf//Krain U-Stmk
+b.Lichtenwald/
+H$öbergabe/EinkÅnfte/uKrain Welike/Welike//Krain U-Stmk b.Lichtenwald/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quadraginta marcarum redditus de predio Re\^{i}n videlicet in villa
+Polch\o{v}nitze, Vedesendorf et in tribus villis, que dicuntur Welike,
+contulimus
+
+DOK$KrUB2_0139/1246.0.0/1246.0.0/1246/A. D. MCCXLVI/Cividale/Cividale//Friaul-Ost  ?woher Ort
+S$X/X/X
+V$X/X/X
+K$SchÑtzung der EinkÅnfte der Abteien, PrÑbenden und Pfarren vorgenommen im
+Auftrag des Patriarchen Bertold von Aquileia.
+
+REG$EinkÅnfte der Propstei Eberndorf in KÑrnten in der Hîhe von 200 Mark Agleier
+Pfennigen.
+F$KrUB 2/139/106/106
+G$X/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd   ?
+H$EinkÅnfte/Propstei/Eberndorf/Eberndorf/Eberndorf/KÑ.-Unt. i.Juna/
+W$Aquileia/X/
+O$200/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$prepositura de Juna (Eberndorf in KÑrnten) CC marchas (den. Aquil.)
+
+REG$EinkÅnfte der Kirche Veldes in Krain in der Hîhe von 30 Mark Agleier
+Pfennigen.
+F$KrUB 2/139/106/106
+G$X/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Kirche/Veldes/Veldes//O-Krain/
+W$Aquileia/X/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$ecclesia Veldensis XXX marchas (den. Aqui.)
+
+REG$EinkÅnfte von Laas in der Hîhe von 20 Mark.
+F$KrUB 2/139/106/106
+G$X/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Pfarre?/Altenmarkt/Altenmarkt/Laas/Innerkrain,b.Laas/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Los XX marchas
+
+REG$EinkÅnfte des Klosters Oberburg in der Hîhe von 250 Mark.
+F$KrUB 2/139/106/106
+G$X/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Kloster/Oberburg/Oberburg//Stmk-Unter/
+W$X/X/
+O$250/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$monasterium Obremburgense CCL marchas
+
+DOK$KrUB2_0140/1247.4.7/1247.4.7/1247 April 7/anno domini
+millesimo ducentesimo quadragesimo septimo, die septimo
+intrante mense aprilis, indictione quinta/Triest/Triest//Istrien
+S$Natalis/X/Natalis?
+V$X/X/X
+K$Das Domkapitel von Triest, welchem Bischof Ulrich von Triest die durch den
+Pfarrer Pilgrim resignierte Pfarre Cosina inkorporiert hatte, verleiht
+dieselbe abermals dem genannten Peregrin mit Vorbehalt eines jÑhrlichen Zinses
+von 2 Mark Triester Pfennigen.
+
+REG$Das Domkapitel von Triest verleiht die Pfarre Cosina Pfarrer Pilgrim mit
+Vorbehalt eines jÑhrlichen Zinses von 2 Mark Triester Pfennigen.
+F$KrUB 2/140/106f/107
+F$CDI 2/278/479/479
+G$Pilgrim/Pfarrer/Koschana/Koschana/Cosana/Innerkrain
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Zins/Pfarre/Koschana/Koschana/Cosana/Innerkrain
+W$Triest/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvendo annuatim dicto capitulo duas marchas denariorum
+denariorum Tergestinorum nomine ficti, unam in nativitate Domini, aliam in festo
+sancti Michaelis
+
+REG$Das Domkapitel von Triest verleiht die Pfarre Cosana Pfarrer Pilgrim mit
+Vorbehalt eines jÑhrlichen Zinses von 2 Mark Triester Pfennigen, wovon eine zu
+Weihnachten zu zahlen ist.
+F$KrUB 2/140/106f/107
+F$CDI 2/278/479/479
+G$Pilgrim/Pfarrer/Koschana/Koschana/Cosana/Innerkrain
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Zins_Teilzahlung/Pfarre/Koschana/Koschana/Cosana/Innerkrain
+W$Triest/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvendo annuatim dicto capitulo duas marchas denariorum
+denariorum Tergestinorum nomine ficti, unam in nativitate Domini, aliam in festo
+sancti Michaelis
+B$"Mark Triester Pf." aus dem Zusammenhang erschlossen.
+
+REG$Das Domkapitel von Triest verleiht die Pfarre Cosana Pfarrer Pilgrim mit
+Vorbehalt eines jÑhrlichen Zinses von 2 Mark Triester Pfennigen, wovon eine am
+Fest des hl. Michael zu zahlen ist.
+F$KrUB 2/140/106f/107
+F$CDI 2/278/479/479
+G$Pilgrim/Pfarrer/Koschana/Koschana/Cosana/Innerkrain
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Zins_Teilzahlung/Pfarre/Koschana/Koschana/Cosana/Innerkrain
+W$Triest/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvendo annuatim dicto capitulo duas marchas denariorum
+denariorum Tergestinorum nomine ficti, unam in nativitate Domini, aliam in festo
+sancti Michaelis
+B$"Mark Triester Pf." aus dem Zusammenhang erschlossen.
+
+DOK$KrUB2_0149/1248.1.3/1248.1.3/1248 JÑnner 3/anno gratie millesimo
+ducentesimo XLVIII., III. nonis
+ianuarii/Bischoflack/Bischoflack/Lack/Ober-Krain/
+S$X/X/X
+V$X/X/X
+K$Vizedom Weriand, Gerloch von Stein und Konrad genannt Gallo beurkunden die
+Bedingungen der Wiederaufnahme Wersos in die Gnade Bischof Konrads I. von
+Freising und verbÅrgen dem letzteren die Erhaltung derselben.
+
+REG$Bischof Konrad I. von Freising nimmt Werso in seine Gnade unter der Bedingung
+auf, da· dieser ihm 30 Mark Laibacher Geldes zahlt.
+F$KrUB 2/149/115ff/116
+F$FRA II 31/153/148ff/149
+G$Werso/X/X/X//
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$Zahlungsverspr./Schadenssumme/Freising/Freising//Bayern ?
+W$Laibach/moneta/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dictus Wer. eidem episcopo XXX marcas Laibacensis monete persolveret
+
+REG$Bischof Konrad I. von Freising nimmt Werso in seine Gnade unter der Bedingung
+auf, da· ihm dieser 30 Mark Laibacher Geldes zahlt.
+Vizedom Weriand, Gerloch von Stein und Konrad genannt Gallo verbÅrgen dem
+Bischof den Erhalt des Geldes.
+F$KrUB 2/149/115ff/116
+F$FRA II 31/153/148ff/149
+G$Werso/X/X/X//  ?
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$Einlager/Zahlungsverspr./unbestimmt/unbestimmt//?    PînaleEinlager BÅrgschaft
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$nos Lokam forum intrabimus inde nullatenus exituri, donec viginti marce \dots
+in integrum persolvatur eidem
+
+REG$Bischof Konrad I. von Freising nimmt Werso in seine Gnade unter der Bedingung
+auf, da· dieser ihm 30 Mark Laibacher Geldes zahlt. Von dieser Summe erlÑ·t der
+Bischof Werso 10 Mark.
+F$KrUB 2/149/115ff/117
+F$FRA II 31/153/148ff/149
+G$Konrad/Bischof/Freising/Freising//Bayern/
+E$Werso/X/X/X//
+H$Zahlungsnachla·?/Geldsumme/Freising/Freising//Bayern ?
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$X marcas dominus episcopus relaxavit
+
+DOK$KrUB2_0162/1249.5.8/1249.5.8/1249 Mai 8/anno gratie MCCXLVIIII,
+indictione VII., VIII ydus may/X/X//
+S$Berthold/Friesach?/Berthold
+V$X/X/X
+K$Herzog Bernhard von KÑrnten erneuert die Stiftung des Zisterzienserklosters
+Marienbrunn im Tîpliztal nÑchst dem Markt Landstra·, weil die erste
+GrÅndungsurkunde vom Jahr 1234 teilweise unbedacht ausgestellt gewesen sei, er
+auch seither sein Siegel geÑndert habe. Der Herzog verspricht ferner noch 200
+Mark EinkÅnfte dem Kloster anweisen zu wollen, zu deren Deckung vorlÑufig sein
+Gut zu Laibach haften soll und fÅhrt gleichzeitig jene Besitzungen in Krain und
+KÑrnten mit Namen an, welche er bisher der Abtei geschenkt hat.
+
+REG$Herzog Bernhard von KÑrnten stattet das Zisterzienserkloster Marienbrunn im
+Tîpliztal nÑchst dem Markt Landstra· mit 200 Mark EinkÅnften aus.
+F$KrUB 2/162/125ff/125
+G$Bernhard/Herzog/KÑrnten/KÑrnten//wo??
+E$X/Kloster/Marienbrunn/Marienbrunn//Krain,i.valle Tîpliz b.Landstrass/
+H$Schenkung/EinkÅnfte/unbestimmt/unbestimmt//Krain/
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$monasterium redditibus ducentarum marcarum dotamus
+
+REG$Herzog Bernhard von KÑrnten stattet das Zisterzienserkloster Marienbrunn im
+Tîpliztal nÑchst dem Markt Landstra· mit 200 Mark EinkÅnften aus, welche er
+innerhalb von 5 Jahren zusammenzusuchen zu bestimmen ? verspricht.
+F$KrUB 2/162/125ff/125
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$X/Kloster/Marienbrunn/Marienbrunn//Krain,i.valle Tîpliz b.Landstrass/
+H$Schenkung/EinkÅnfte/unbestimmt/unbestimmt//Krain  ?
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ducentarum marcarum redditus ipsi infra quinquenium conquirere pollicemur
+
+REG$Herzog Bernhard von KÑrnten stattet das Zisterzienserkloster Marienbrunn im
+Tîpliztal nÑchst dem Markt Landstra· mit 200 Mark EinkÅnften aus, welche er
+innerhalb von 5 Jahren zu bestimmen verspricht, und vereinbart eine Regelung
+fÅr den Fall seines Todes vor der Festsetzung der EinkÅnfte. ?
+F$KrUB 2/162/125ff/126
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$X/Kloster/Marienbrunn/Marienbrunn//Krain,i.valle Tîpliz b.Landstrass/
+H$Schenkung/EinkÅnfte/unbestimmt/unbestimmt//Krain  ?
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod si de medio cedere nos contingat, antequam ipsi monasterio memoratos
+ducentarum marcarum redditus conquiramus
+
+REG$Herzog Bernhard von KÑrnten stattet das Zisterzienserkloster Marienbrunn im
+Tîpliztal nÑchst dem Markt Landstra· mit 200 Mark EinkÅnften aus, welche er
+innerhalb von 5 Jahren zu bestimmen verspricht, und vereinbart eine Regelung
+fÅr den Fall seines Todes vor der Festsetzung der EinkÅnfte. ?
+F$KrUB 2/162/125ff/126
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K   A unbestimmt
+E$X/Kloster/Marienbrunn/Marienbrunn//Krain,i.valle Tîpliz b.Landstrass/
+H$Schenkung/EinkÅnfte/unbestimmt/unbestimmt//Krain  ?KaufEinkÅnfte
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$predium sive redditus in Leybaco \dots quo adusque exinde ducentarum marcarum
+redditus sibi emat
+
+REG$Herzog Bernhard von KÑrnten stattet das Zisterzienserkloster Marienbrunn im
+Tîpliztal nÑchst dem Markt Landstra· mit 200 Mark EinkÅnften aus, welche er
+innerhalb von 5 Jahren zu bestimmen verspricht, und vereinbart eine Regelung
+fÅr den Fall seines Todes vor der Festsetzung der EinkÅnfte. ?
+F$KrUB 2/162/125ff/126
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K                 A X Herzog KÑrnten
+E$X/Kloster/Marienbrunn/Marienbrunn//Krain,i.valle Tîpliz b.Landstrass/
+H$Schenkung/EinkÅnfte/unbestimmt/unbestimmt//Krain   ?  Ablîse Immobilien
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$eidem ipsarum ducentarum marcarum redditus libere assignentur
+
+DOK$KrUB2_0165/1249.10.0/1249.10.0/1249 Oktober/anno dominice incarnationis
+millesimo ducentesimo quadragesimo nono, mense octobris, octave
+indictionis/Foggia/Foggia//Italien/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich II. erklÑrt, da· er die vom Grafen Meinhart von Gîrz, seinem
+hiezu ermÑchtigten Statthalter in der Steiermark, an Graf Hermann von Ortenburg
+erfolgte VerpfÑndung von GÅlten zu Grosslupp (bei St. Marein unter Laibach) um
+den Betrag von 600 Mark genehmige.
+
+REG$Graf Meinhart von Gîrz verpfÑndet Graf Hermann von Ortenburg GÅlten zu
+Grosslupp um 600 Mark.
+F$KrUB 2/165/129f/130
+F$StUB 3/058/117/117
+F$Huillard-Breholles, Frid. II./X/752f/752
+F$FRA II 1 Chmel/?/?/?
+F$MDC 4I/2425/378/378
+G$Hermann/Graf/Ortenburg/Ortenburg//K,b.Spital/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/GÅlten/Grosuplje/Grosuplje/Grosslupp/U-Krain b.St.Marein/
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$obligationem factam per eundem comitem H. comiti de Ortenburch \dots
+pro sexcentis marcis argenti
+
+DOK$KrUB2_0170/1250.8.13/1250.8.13/1250 August 13/1250 die 13. augusti?/Sittich/Sittich//Krain/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia bestÑtigt dem Abt Konrad und seinem Konvent
+von Sittich verschiedene namentlich angefÅhrte Besitzungen, welche dasselbe
+durch Stiftungen, TauschvertrÑge, KÑufe u.s.w. bisher erworben hatte.
+
+REG$Poppo von Albeck Åbergibt dem Kloster Sittich das Gut Hertwigisdorff um 60
+Mark.
+F$KrUB 2/170/133ff/134
+G$Konrad/Abt/Sittich/Sittich//Krain/
+E$Poppo/Genannter/Albeck/Albeck//K/
+H$Kauf/Immobilien/Artizavas/Hartwigsdorf/Hertwigisdorff/U-Krain,Pfr.St.Veit, Arti\{v}zavas/
+W$X/X/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Poppo de Albeck, praedium Hertwigisdorff, quod pro 60 marcis dedit
+
+REG$Markgraf Heinrich IV. von Istrien verpfÑndet Ulrich von Montpreis ein Landgut?
+in Stehanja Vas um 42 Mark Silber.
+F$KrUB 2/170/133ff/134
+G$Ulrich/Genannter/Montpreis/Montpreis//U-Stmk/
+E$Heinrich IV./Markgraf/Istrien/Istrien//Istrien wo??/
+H$PfandgeschÑft/Immobilien/Stockendorf/Stockendorf/Stehanja Vas/Krain/
+W$X/X
+O$42/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$Henricus marchio legavit duas villas in Stocheindorff et Lock, quarum prima
+obligata  fuit pro 42 marcis argenti Vlrico de Montpreis
+
+REG$Wegelin verkauft dem Kloster Sittich zwei Huben um 8 Mark.   ?
+F$KrUB 2/170/133ff/134
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Wegelin/X/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//?
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Wegelinus mansus duos pro 8 marcis
+
+REG$Das Kloster Sittich kauft von Otto von FÅtsch den Teil des Gutes Loka um
+50 Mark Agleier zurÅck, den Robert von FÅtsch, Ottos Vater, als Sublehen hatte.
+F$KrUB 2/170/133ff/134
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Otto/Genannter/uKrain Bi\v{c}/Bi\v{c}/FÅtsch/U-Krain b.Sittich?a.d.Obergurk?/
+H$RÅckkauf/Lehen?/Loke/Loke/Lonech/U-Krain b.Gurkfeld/
+W$Aquileia/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$partem villae Lock \dots subfeudatam Roberto de Physchs redemit monasterium
+pro 50 marcis Aquileiensibus ab Ottone filio Roberti
+
+REG$Der Sohn Heinrichs von Scharpfenberch Åbergibt dem Kloster Sittich 3
+Huben fÅr einen Schaden in der Hîhe von 40 Mark zu. ?
+F$KrUB 2/170/133ff/134
+G$NN/Genannter/Scharfenberg/Scharfenberg/Scharpfenberch/U-Krain,b.Ratschach/
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Wiedergutmachung/Schadenssumme/Sittichsdorf/Sittichsdorf//U-Krain,b.Weichselberg/
+W$X/X/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$mansos 3,  pro gravi damno ecclesiae illato Sittichsdorff quod transcendisse
+fertur 40 marcas
+
+REG$Die BrÅder Arnold und Johannes Edlinger? verkaufen dem Kloster Sittich 2 Huben
+um 6 Mark.
+F$KrUB 2/170/133ff/134
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Arnold Edlinger;Johannes Edlinger/X/X/X// ?
+H$Kauf/Immobilien_Huben/unbestimmt/unbestimmt//
+W$X/X/
+O$6/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Arnoldus et Joannes fratres, qui dicitur Edelinge, dederunt pro 6 marcis
+mansos 2
+
+REG$Das Kloster Sittich lîst 5 Huben fÅr 10 Mark aus der VerpfÑndung. ?
+F$KrUB 2/170/133ff/134
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Poppo/X/Lichtenberg/Lichtenberg/Liechtenberg/U-Krain,Loca lie Zaljina
+b.St.Marein
+H$Pfand_Auslîsung/Immobilien_Huben/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Poppo de Liechtenberg mansos 5, quos ecclesia, dum obligati erant,
+solvit marcis X
+
+REG$Das Kloster Sittich kauft von Nikolaus von Reuttenberg 6 Mansen um 15 Mark
+Agleier.
+F$KrUB 2/170/133ff/134
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Nikolaus/Genannter/Reutenberg/Reutenberg/Reuttenberg/U-Krain,b.Nassenfuss/
+H$Kauf/Immobilien_Huben/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$A Nicolao de Re\"uttenberg emit ecclesia mansos 6 pro 15 marcis
+Aquileiensibus
+
+REG$Liebhard von Harnsberg verkauft dem Kloster Sittich eine Hube und eine halbe
+um 6 Mark Agleier.
+F$KrUB 2/170/133ff/135
+G$X/Kloster/Sittich/Sittich//Krain/
+E$Liebhard/Genannter/Adelsberg/Adelsberg/Harnsberg/Krain/
+H$Kauf/Immobilien_Huben/Glogovica/Glogovica/Glogowicz/U-Krain,Pfr.St.Veit/
+W$Aquileia/X/
+O$6/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ibidem vendidit Libehardus de Arisperg mansum unum et medium pro 6 marcis
+Aquileiensibus
+
+DOK$KrUB2_0173/1250.9.12/1250.9.12/1250 September 12/anno domini
+millesimo ducentesimo quinquagesimo, die XII. intrante
+septembre, VIII. indictione/Mannsburg/Mannsburg//O-Krain,b.Stein/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia bestÑtigt dem Kloster Oberburg die von seinen
+Stiftern gewÑhrten Rechte und Privilegien, doch solle die Jagd und Fischerei auf
+dem Gebiet des Klosters ihm und seinen Beamten, gemeinsam mit dem Kloster
+zustehen. Im Åbrigen mi·billigte der Patriarch alle beklagten Rechtsverletzungen
+seiner Offizialen und verbat diesen in Zukunft alle Eingriffe in die Rechte des
+Stiftes. Das Stift hingegen erlie· dem Patriarchen und der Kirche zu Aquileia
+fÅr diese BestÑtigung jene 200 Mark Agleier Pfennige und 1100 Metzen (modios)
+verschiedenen Getreides, welche diese ihm schuldeten.
+
+REG$FÅr die BestÑtigung seiner von den Stiftern gewÑhrten Rechte und Privilegien
+erlÑ·t das Kloster Oberburg Patriarch Berthold von Aquileia und der Kirche zu
+Aquileia jene 200 Mark Agleier Pfennige und 1100 Metzen verschiedenen
+Getreides, welche diese ihm schuldeten.
+F$StUB 3/076/140ff/142
+F$KrUB 2/173/136f/137
+G$X/Kloster/Oberburg/Oberburg//Stmk.-Unt./
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$BestÑtigung/Rechte/Oberburg/Oberburg//Stmk.-Unt./
+W$Aquileia/moneta/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ducentas marcas Aquilegiensis monete et mille et centum modios cuiuslibet
+grani, in quibus suo monasterio tenebamur, nobis et ecclesie Aquilegiensi de
+libera voluntate et certa conscientia relaxarunt
+
+DOK$KrUB2_0177/1251.3.13/1251.3.13/1251 MÑrz 13/anno domini
+millesimo ducentesimo quinquagesimo primo, indictione
+VIIII., die XIII. intrante marcio/Windischgraz/Windischgraz//Stmk.-Unt./
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia verpfÑndet dem Grafen Ulrich von Sternberg fÅr
+300 Mark, die er ihm seit dem Ankauf des Schlosses Laas schuldete und fÅr
+SoldansprÅche im Betrag von 150 Mark Schillingen, EinkÅnfte zu Treffen
+in der Hîhe von 80 Mark Schillingen.
+
+REG$Patriarch Berthold von Aquileia schuldet dem Grafen Ulrich von Sternberg 300
+Mark fÅr den Ankauf des Schlosses Laas.
+F$KrUB 2/177/140f/141
+G$Ulrich/Graf/Sternberg/Sternberg//KÑ.,B.Villach,b.Wernberg/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/EinkÅnfte/Treffen/Treffen//KÑ.-Ob.b.Villach  KaufImmobilien_Schlo·Laas Schulden?
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro trecentis marchis, quas eidem pro emptione castri et provincie de Los
+\dots tenebamur
+
+REG$Patriarch Berthold von Aquileia schuldet dem Grafen Ulrich von Sternberg 150
+Mark Schillinge aus SoldansprÅchen.
+F$KrUB 2/177/140f/141
+G$Ulrich/Graf/Sternberg/Sternberg//KÑ.,B.Villach,b.Wernberg/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$PfandgeschÑft/EinkÅnfte/Treffen/Treffen//KÑ.-Ob.b.Villach   ?Zahlungsverpfl.Kriegsdienstunbestimmt
+Schulden
+W$X/X/
+O$150/marca/X
+Z$X/sol./X
+M$X/X/X/A
+Q$pro centum et quinquaginta marchis solidorum, quas etiam sibi pro servicio
+\dots tenebamur
+
+REG$EinkÅnfte des Patriarchen Berthold von Aquileia in Treffen in der Hîhe von 80
+Mark Schillingen.
+F$KrUB 2/177/140f/141
+G$X/X/X/X//
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$EinkÅnfte/Immobilien/Treffen/Treffen//KÑ.-Ob.b.Villach   ?
+W$X/X/
+O$80/marca/X
+Z$X/sol./X
+M$X/X/X/A
+Q$obtuaginta (!) marcharum redditus ad sollidus (!)
+
+DOK$KrUB2_0096/1237.0.0/1237.0.0/1237/anno gracie domini MCCXXXVII/X/?X//
+S$X/X/X
+V$X/X/X
+K$Graf Ulrich von Sternberg und dessen Bruder Wilhelm, Graf von Malta
+bezeugen, da· sie ihren Ministerialen, den Edlen? zu Laas, alle Rechte
+bestÑtigten, welche diesen von ihrem verstorbenen Vater verliehen worden waren.
+
+REG$Graf Ulrich von Sternberg und dessen Bruder Graf Wilhelm von Malta
+bezeugen, da· sie ihren Ministerialen, den Edlen zu Laas, alle Rechte
+bestÑtigten, welche diesen vom verstorbenen Vater der Grafen verliehen worden
+waren. In diesem Zusammenhang wird eine Pînale von 60 Pfennigen angesetzt. ?
+F$KrUB 2/096/70f/70
+G$X/Ministerialen/Altenmarkt/Altenmarkt/Laas/Inner-Krain,b.Laas/
+E$Ulrich/Graf/Sternberg/Sternberg//KÑ.B.Villach,b.Wernberg/
+E$Wilhelm/Graf/Malta/Maltein/KÑ.-Ob./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//Krain
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$denarios LX domino persolvendos
+
+DOK$KrUB2_0100/1238.2.17/1238.2.17/1238 Februar 17/anno incarnationis
+dominicae millesimo ducentesimo tricesimo VIII. XIII.
+calendas martii, indictione undecima/Admont/Admont//Stmk.-Ober/
+S$X/X/X
+V$X/X/X
+K$MarkgrÑfin Sophie von Istrien stellt eine zweite Urkunde Åber das von ihr bei
+dem Kloster Sittich mit 8 Huben zu Liebeck im Ort Buch gestiftete Anniversarium
+und benennt zugleich die Eigenleute, welche mit den Huben verschenkt worden
+waren.
+
+REG$MarkgrÑfin Sophie von Istrien stellt eine zweite Urkunde Åber das von ihr bei
+dem Kloster Sittich mit 8 Huben zu Liebeck im Ort Buch gestiftete Anniversarium
+aus. Die Huben haben unter anderem Fische um eine halbe Mark als Abgabe zu
+entrichten. ?
+F$KrUB 2/100/72f/73
+F$Kos 5/688/327f/328
+G$X/X/X/X//
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Anniversar/Anniversar/Sittich/Sittich//Krain  ? AbgabeEinkÅnfeFischeBuch
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de dictis octo mansis annuum servitium fratribus jam dictis in albo
+pane et caseo,  maiore mensura vini et piscibus pro dimidia marca
+comparandis debeat exhiberi
+
+DOK$KrUB1_0101/1146.0.0/1146.0.0/1146/anno ab incarnatione domini MCXLVI., indictione
+VIIII./Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Patriarch Pilgrim von Aquileia tauscht mit Graf Bernhard (von Sponheim)
+dessen Schlo· Denia in Friaul gegen 30 Mark  Silbers, zwei Teile Zehnts? der
+Pfarren Gonowitz und Maria Schleinitz und Belehnung mit 2 Teilen Zehnts? der
+Pfarre Kîtsch, sÑmtlich bei Marburg, ein.
+
+REG$Patriarch Pilgrim von Aquileia tauscht mit Graf Bernhard (von Sponheim)
+dessen Schlo· Denia in Friaul gegen 30 Mark  Silbers, zwei Teile Zehnts? der
+Pfarren Gonowitz und Maria Schleinitz und Belehnung mit 2 Teilen Zehnts? der
+Pfarre Kîtsch, sÑmtlich bei Marburg, ein.
+F$KrUB 1/101/102f/102
+F$StUB 1/253/261f/261
+G$Pilgrim/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Bernhard/Graf/Sponheim/Sponheim//B.Koblenz,b.Kreuznach/
+H$Tausch/Immobilien_Schlo·/uFriaul Denia/Friaul, Denia//Friaul/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dominus patriarcha XXX marcas propter hoc eis persolvit
+
+DOK$KrUB1_0109/1154.9.23/1154.12.20/1154 Herbst/anno MCLIIII/St.Radegund/St. Radegund//K,b.Vîlkermarkt/
+S$Konrad/X/Konrad
+V$Konrad/X/Konrad
+K$Bischof Roman I. von Gurk verkÅndet, da· er zur Zeit des Rîmerzuges, unter
+Kînig
+Friedrich, das Gut Ternberch an der Save von Herzog Heinrich V. von KÑrnten, in
+Beisein von dessen Bruder Herman um 60 Mark gekauft und der Herzog den Heinrich
+Bris bestimmt habe, das gedachte Gut der Kirche an des Herzogs statt zu
+Åbergeben.
+
+REG$Bischof Roman I. von Gurk kauft das Gut Teraberch an der Save von Herzog
+Heinrich V. von  KÑrnten um 60 Mark.
+F$KrUB 1/109/106f/107
+F$MDC 1/187/154f/154
+G$Roman I./Bischof/Gurk/Gurk//K/
+E$Heinrich V./Herzog/KÑrnten/KÑrnten//K/
+H$Kauf/Immobilien/Doberna/Doberna/Ternberch/U-Stmk,Gut a.d.Save/
+W$X/X/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$predium Ternberch \dots a duce Karinthie Hainrico \dots pro LX marcis
+comparavimus
+
+DOK$KrUB1_0121/1160.0.0/1160.0.0/ca. 1160/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der freising. Priester Johann schenkt seiner Kirche 14 Untertanen seines
+Eigens in Krain und ersucht Bischof Albert von Freising um Genehmigung seiner
+Bedingungen.
+
+REG$Der freising. Priester Johann schenkt seiner Kirche 14 Untertanen seines
+Eigens in Krain, die nach seinem Tod dem Bischof jÑhrlich je 3 Pfennige zahlen
+sollen.
+F$KrUB 1/121/115f/115
+F$FRA II 31/112/109f/109
+G$X/Hîrige/Freising/Freising//Bayern/
+E$Albert/Bischof/Freising/Freising//Bayern/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//Krain ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/nummus/X/Z
+Q$servos et ancillas quatuordecim \dots post mortem meam unus quisque tres
+nummos episcopo per annum persolveret
+
+DOK$KrUB1_0122/1160.0.0/1160.0.0/(1160)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Urbarverzeichnis der freisingischen Besitzungen zu Lack, Feichting, Safniz,
+NeusÑss (G\^{o}de\v{z}i\v{c}e bei Lack), LÑngenfeld, Pîlland, Selzach und
+Rete\v{c}e, dann der KÑrntner, Bayern und Slawen der Herrschaft Lack.
+
+REG$EinkÅnfte des Bistums Freising zu Lack.
+F$KrUB 1/122/116f/116
+F$FRA II 36/008/12ff/13
+G$X/X/X/X//
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Immobilien/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$0,5 Mark/2 Schweine
+Q$curtiferi villicorum tres et dimidius qui serviunt h\c{e}c, ille de Lonka
+\dots duos porcos vel dimidiam marcam
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising zu Lack von den Slawen.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/13
+G$X/Slawen/Bischoflack/Bischoflack/Lack?/O-Krain,b.Krainburg/
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Immobilien_Hube/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$de Sclavis centum quinquaginta tres hobe que singule serviunt triginta
+denarios
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising zu Lack von den Slawen.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/13
+G$X/Slawen/Bischoflack/Bischoflack/Lack ?/O-Krain,b.Krainburg/
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Hîrige?/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$34/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Lonca de Sclavis triginta quatuor marce
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising von der Kasse? zu Lack.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/13
+G$Pînale/Strafgeld/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Kasse?/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Lonca \dots de camera quinque marce
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising zu Lack.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/13
+G$X/X/X/X//
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Lebensmittel und Futter?/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Lonca \dots de pabulo decem marce
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising zu Lack.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/14
+G$X/X/X/X//
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Immobilien?/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Lonca \dots de malzo quatuor marcas (!)
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising zu Lack.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/14
+G$X/X/X/X//
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Lebensmittel_KÑse/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Lonca \dots de caseis quinque marce
+B$Urbar
+
+REG$EinkÅnfte des Bistums Freising zu Lack.
+F$KrUB 1/122/116f/117
+F$FRA II 36/008/12ff/14
+G$X/X/X/X//
+E$X/Bistum/Freising/Freising//Bayern/
+H$EinkÅnfte/Lebensmittel_Schweine/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg/
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$apud Lonca \dots de porcis quatuordecim marce
+B$Urbar
+
+DOK$KrUB1_0145/1181.0.0/1181.0.0?/1181?/?/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Zoure (Sora, Zaier) gibt nach Viktring ein an der Grenze des
+Sees, Werdsee genannt, gelegenes Gut, Crangizausdorff, wo die St. Johanneskirche
+ist (Kranzelhofen) mit der Pfarre St. Johann, am westlichen Ende des Werdsees,
+im Dekanat Oberrosental, welches er nach seinen Eltern erblich besa·, samt
+Zugehîr, behÑlt sich aber den lebenslÑnglichen Fruchtgenu· von drei Talenten der
+EinkÅnfte vor. WÅrde er ohne einen  Erben von einer gesetzlich angetrauten
+ebenbÅrtigen Frau sterben, so soll das Gut dem Kloster zufallen. WÅrde er aber
+einen gesetzlichen Erben zurÅcklassen, soll er das Gut ohne Unbill des Klosters
+besitzen, falls er selbes nicht vor seinem Tod abtreten wollte.
+
+REG$Heinrich von Zoure (Sora, Zaier) gibt nach Viktring ein an der Grenze des
+Werdsees gelegenes Gut, Crangizausdorff, samt Zugehîr, behÑlt sich aber den
+lebenslÑnglichen Fruchtgenu· von drei Talenten der EinkÅnfte vor.
+F$KrUB 1/145/129/129
+G$X/X/X/X//
+E$Heinrich/Genannter/Sora/Sora/Zoura/O-Krain,Zaierflu·/
+H$Fruchtgenu·/EinkÅnfte/Kranzelhofen/Kranzelhofen/Crangizausdorff/K,a.Werdsee/
+W$X/X/
+O$3/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+
+DOK$KrUB1_0161/1194.11.15/1194.11.15/1194 November 15/anno incarnationis eiusdem millesimo
+centesimo nonagesimo quarto, indictione duodecima. Regnante  d. nostro Henrico
+piissimo imperatore, die martis quintodecimo intrante novembri/Parenzo/Parenzo//Istrien/
+S$X/X/X
+V$X/X/X
+K$Markgraf Berthold IV. (v. Andechs) von Istrien und  Herzog von Meran,
+entscheidet den bestehenden Streit zwischen dem Hochstift und der Stadt Parenzo
+dahin, da· das ganze Territorium, welches die Gemeinde Parenzo besitzt, ein
+Lehen des Hochstiftes ist, und die vorgeschriebenen Abgaben dorthin zu leisten
+sind.
+
+REG$Festsetzung einer Pînale in der Hîhe von 200 Mark Silber im Streit zwischen
+dem Hochstift und der Stadt Parenzo um die Entrichtung von Abgaben. ?
+F$KrUB 1/161/142f/143
+F$CDI 1/186/347f/348
+F$Arch. Gesch. Oberfr. 55/6/20f/21
+G$X/X/X/X//
+E$Berthold IV./Markgraf/Istrien/Istrien//wo??
+E$Petrus/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub poena CC marcharum argenti \dots praecipimus observari, medietas dictae
+poenae nobis, alia vero medietas persolvatur episcopo Parentino
+
+DOK$KrUB1_0171a/1165.0.0/1165.0.0/ca. 1165/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Sophie, Witwe Meginhalm's von Krain, Åbergibt gegen Abfindung ein Gut bei
+Ober-Welz, das ihr Gatte dem Kloster Admont gewidmet hatte, diesem Stift.
+
+REG$Sophie, Witwe Meginhalm's von Krain, Åbergibt gegen eine Abfindung in der Hîhe
+von 5 Mark Silber ein Gut bei Ober-Wîlz, das ihr Gatte dem Kloster Admont
+gewidmet hatte, diesem Stift.
+F$KrUB 1/171a/149/149
+F$StUB 1/488/455f/455
+G$X/Kloster/Admont/Admont//O-Stmk/
+E$Sophie/Genannte/Krain/Krain//wo??
+H$Ablîse/Immobilien/Oberwîlz/Oberwîlz//Stmk,î.Murau/
+W$X/X
+O$5/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$acceptis argenti V marcis predium ecclesie \dots contradidit
+
+DOK$KrUB2_0032/1217.1.1/1217.4.14/1217 vor April 15/anno incarnationis dominice
+millesimo ducentesimo septimo decimo/X/X//
+S$X/X/X
+V$X/X/X
+K$Markgraf Heinrich von Istrien beurkundet, da· er eine Hube zu Tupali\v{c}e
+nÑchst Hîflein in Oberkrain nebst mehreren Eigenleuten an das Kloster Viktring
+geschenkt habe, welche das Kloster sodann dem Kleriker Humbert auf dessen
+Einspruch hin, auf Lebenszeit Åberlassen habe.
+
+REG$Markgraf Heinrich von Istrien schenkt mehrere Eigenleute an das Kloster
+Viktring, welche das Kloster dem Kleriker Humbert auf dessen Einspruch hin,
+da· sie ihm 3 Mark bringen, auf Lebenszeit ÅberlÑ·t. ?
+F$KrUB 2/032/23f/23
+G$X/Hîrige/X/X//
+E$Humbert/Kleriker/X/X//
+H$Ablîse/Hîrige/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$eos sollicitavit quod ei tres marcas contulerunt
+
+DOK$KrUB2_0074/1232.4.0/1232.4.0/1232 April/anno dominice incarnationis
+MCCXXXII., mense aprilis, quinte indictionis/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich II. bestÑtigt der Abtei Sittich das Forst- und JÑgerrecht,
+welches einst Graf Albrecht von Weichselburg in einigen GÅtern der Abtei sich
+vorbehalten, aber seine Tochter Sophia, Witwe des Markgrafen Heinrich von
+Istrien, derselben Åberlassen hat.
+
+REG$Pînale in der Hîhe von 100 Mark Silber betreffend das Forst- und Jagdrecht,
+das der Abtei Sittich von
+Sophia, der Witwe des Markgrafen Heinrich von Istrien, Åberlassen worden ist.
+F$KrUB 2/074/56ff/57
+G$X/X/X/X//
+E$X/Kurie/X/ ?//wo?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$centum marcas argenti se noverit compositurum, medietatem curie nostre et
+reliquam parti iniuriam patienti
+B$Kos, Gradivo, 5, 274, Nr. 565 datiert vor 17. April (pred 17. aprilom).
+
+DOK$KrUB2_0093/1237.2.0/1237.2.0/1237 Februar/anno dominice incarnationis
+millesimo ducentesimo tricesimo sexto, mense februario, decime indictionis
+\dots/Wien/Wien//ô/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich II. nimmt die Besitzungen des Deutschordens in ôsterreich,
+Steiermark und Krain in seinen besonderen Schutz, und betont namentlich
+desselben Gerichts- und Mautfreiheit.
+
+REG$Pînale in der Hîhe von 100 Mark Silber betreffend die Besitzungen des
+Deutschordens in ôsterreich, Steiermark und Krain.
+F$KrUB 2/093/66ff/68
+F$StUB 2/349/454ff/456
+G$X/X/X/X//
+E$X/Kurie/X/ ?//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$penam centum marcarum argenti se noverint incursuros, quarum medietas curie
+nostre, reliqua passis iniuriam persolvetur
+
+DOK$KrUB2_0099/1238.1.1/1238.2.16/1238 (vor Februar 17)/anno incarnationis
+dominicae MCCXXXVIII./Admont/Admont//O-Stmk/
+S$X/X/X
+V$X/X/X
+K$MarkgrÑfin Sophia von Istrien schenkt dem Kloster Sittich acht Huben bei
+Liebeck im Ort Buch und stiftet ein Anniversarium fÅr ihr, ihres Gemahls
+Heinrich, des Markgrafen von Istrien, ihrer Eltern und aller ihrer Ahnen
+Seelenheil, die das Kloster gestiftet haben und da begraben worden sind.
+
+REG$Die von MarkgrÑfin Sophia von Istrien dem Kloster Sittich geschenkten Huben
+bei Liebeck im Ort Buch haben dem Kloster jÑhrlich unter anderem Fische um eine
+halbe Mark abzuliefern.
+F$KrUB 2/099/71f/72
+F$Kos 5/687/327/327
+G$X/X/X/X//
+E$X/Kloster/Sittich/Sittich//Krain/
+H$Abgabe/Lebensmittel_Fisch/Liebeck_OrtBuch/Liebeck,Ort
+Buch/Liebeck/Krain,n.Littay,b.Watsch/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de dictis octo mansis annum servitium fratribus \dots piscibus pro dimidia
+marca comparandis debeat exhiberi
+
+DOK$KrUB2_0110/1240.10.10/1240.10.10/1240 Oktober 10/a. d. i. MCCXL. indict.
+XIII. VI. Id. Octobris/Vîlkermarkt/Vîlkermarkt//K/
+S$X/X/X
+V$X/X/X
+K$Abt Hartwig von St. Paul verkauft den BÅrgern von Vîlkermarkt mehrere
+HofstÑtten um 15 Mark Pfennige.
+
+REG$Abt Hartwig von St. Paul verkauft den BÅrgern von Vîlkermarkt mehrere
+HofstÑtten um 15 Mark Pfennige.
+F$KrUB 2/110/84/84
+F$FRA II 39/059/124/124
+G$X/BÅrger/Vîlkermarkt/Vîlkermarkt//K/
+E$Hartwig/Abt/St.Paul/St. Paul//K/
+H$Kauf/Immobilien/Vîlkermarkt/Vîlkermarkt//K/
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$?
+
+DOK$KrUB2_0161/1249.4.1/1249.4.1/1249 April 1/anno eiusdem nativitatis millesimo
+ducentesimo quadragesimo nono, indictione septima, die iovis primo aprilis/Manzano/Manzano/Friaul-Ost/
+S$Bonjohannes/kaiserl. Notar;Padua/Bonjohannes
+V$Bonjohannes/kaiserl. Notar;Padua/Bonjohannes
+K$Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz Åberlassen dem
+Ulrich von Reifenberg, Johann von Cucania sowie dem Dompropst von Udine,
+Markgraf Otto (von Hohenburg), die Feststellung ihrer wechselseitigen
+EntschÑdigungsansprÅche, namentlich auch bezÅglich dreier Huben auf dem Karst
+und der Zehnten des Friedrich von Valchenberch zu Wippach.
+
+REG$Patriarch Berthold von Aquileia und Graf Meinhard von Gîrz vereinbaren
+bezÅglich ihrer EntschÑdigungsansprÅche, Åber die Schiedsrichter urteilen
+sollen, eine gegenseitige Pînale in der Hîhe von 1000 Mark Agleier.
+F$KrUB 2/161/123ff/124
+F$FRA II 1 Chmel/13/14ff/16
+F$Reg. Gîrz 1/539/141/141
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$X/X/X/X//
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dare et solvere mille marchas Aquilegenses qua pena
+
+

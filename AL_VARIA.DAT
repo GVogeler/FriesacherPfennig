@@ -1,0 +1,263 @@
+
+note *** Einlesen der Rohdaten al_varia.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$Chmel_014/1249.4.30/1249.4.30/1249 April 30/anno domini MCCXLVIIII. pridie Kalendas
+Maii/X/X//
+S$X/X/X
+V$X/X/X
+K$Hadmar von Kuenring verpfÑndet (bis zum nÑchsten Sonnenwendtag) gewisses
+Silbergeschirr bei dem Bischof Konrad von Freising um 64 Mark Silber
+Regensburger Gewichts und 49 Pfund Regensburger (Pfennig) unter BÅrgschaft.
+
+REG$Hadmar von Kuenring verpfÑndet (bis zum nÑchsten Sonnenwendtag) gewisses
+Silbergeschirr bei dem Bischof Konrad von Freising um 64 Mark Silber
+Regensburger Gewichts und 49 Pfund Regensburger (Pfennig) unter BÅrgschaft.
+F$FRA II 1 Chmel/14/16f/17
+F$FRA II 31/156/152ff/153
+G$Konrad/Bischof/Freising/Freising//Bayern/
+E$Hadmar/Genannter/KÅhnring/KÅhnring/Kuenring/Nô,b.Eggenburg/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$Regensburg/pondus
+O$64/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$obligavi pro LXIIII (marcis?) argenti ponderis Ratisponensis et pro XLVI
+libris Ratisponensibus et pro III libris Ratisponensibus
+
+REG$Hadmar von Kuenring verpfÑndet (bis zum nÑchsten Sonnenwendtag) gewisses
+Silbergeschirr bei dem Bischof Konrad von Freising um 64 Mark Silber
+Regensburger Gewichts und 49 Pfund Regensburger (Pfennig) unter BÅrgschaft.
+F$FRA II 1 Chmel/14/16f/17
+F$FRA II 31/156/152ff/153
+G$Konrad/Bischof/Freising/Freising//Bayern/
+E$Hadmar/Genannter/KÅhnring/KÅhnring/Kuenring/Nô,b.Eggenburg/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$Regensburg/pondus/
+O$46/lib./X
+O$3/lib./X
+Z$X/X/X
+M$X/argentum/X/A
+Q$obligavi pro LXIIII (marcis?) argenti ponderis Ratisponensis et pro XLVI
+libris Ratisponensibus et pro III libris Ratisponensibus
+
+DOK$Chmel_001/1235.2.26/1235.2.26/1235 Februar 26/anno gratie MCCXXXV. IIII. kalendas
+marcii/Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Bischof Sifrid von Regensburg, kaiserlicher Kanzler, bezeugt, da· in seiner
+Gegenwart Dietrich, Abt von Niederalteich, einen von Hartwig von Lichtenberg
+aufgesandten Hof in Mangoltingen als erbliches Lehen dem Karl von "Lerchenvelt",
+der damals sein (des Bischofs) Hîriger war, verliehen habe. Der Hof zahlt
+jÑhrlich der Kirche in Altaich fÅnf Schilling Regensburger Pfennig und zwei
+Pfund Pfeffer. Karl von L. kann bei seinem erblosen Abgang unter Beibehaltung
+des Zinses den Hof, wem er will, vermachen.
+
+REG$Bischof Sifrid von Regensburg, kaiserlicher Kanzler, bezeugt, da· in seiner
+Gegenwart Dietrich, Abt von Niederalteich, einen von Hartwig von Lichtenberg
+aufgesandten Hof in Mangoltingen als erbliches Lehen dem Karl von "Lerchenvelt",
+der damals sein (des Bischofs) Hîriger war, verliehen habe. Der Hof zahlt
+jÑhrlich der Kirche in Altaich fÅnf Schilling Regensburger Pfennig und zwei
+Pfund Pfeffer.
+F$FRA II 1 Chmel/01/136/136
+F$MB 11/065/201f/202
+G$Karl/Domherr/Regensburg/Regensburg//uBayern ?
+E$X/Kirche/Niederalteich/Niederalteich//Bayern/
+H$Zins/Immobilien/uBayern ? Mangoltingen/Mangoltingen// ??sî.Regensburg
+Mangolding
+W$Regensburg/X/
+O$X/X/X
+Z$5/sol./X
+M$X/den./X/Z
+Q$denariorum Ratisponensium quinque solidos
+
+DOK$Chmel_003/1242.8.17/1242.8.17/1242 August 17/anno domini MCCXLII. in octava sancti
+Laurentii/X/X//
+S$X/X/X
+V$X/X/X
+K$Konrad von "Nuzperch" stellt dem Abt Dietmar von Niederalteich und seinem
+Konvent, die ihm den Hof in Pigenot verliehen haben, einen Revers aus,
+lebenslÑnglich alle Jahre ein Pfund Regensburger Pfennige zu zahlen. Nach seinem
+Tod sollen der Hof, die MÅhle, die Leute und alle Mobilien dem Kloster frei
+zurÅckfallen.
+
+REG$Konrad von "Nuzperch" stellt dem Abt Dietmar von Niederalteich und seinem
+Konvent, die ihm den Hof in Pigenot verliehen haben, einen Revers aus,
+lebenslÑnglich alle Jahre ein Pfund Pfennige Regensburger MÅnze zu zahlen.
+F$FRA II 1 Chmel/03/138f/138
+G$Konrad/Genannter/uBayern ? Nussberg/Nussberg?/Nuzperch/ ??Nô,GB.Gutenstein,
+Schlo· i.G.Miesenbach
+E$X/Konvent/Niederalteich/Niederalteich//Bayern/
+H$Zins/Immobilien/uBayern ? Pigenot/Pigenot/  ??
+W$Regensburg/moneta/
+O$1/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$unam libram denariorum Ratisponensis monete inde persolvam
+B$Nicht aufgenommen MB 11, Nr. 41, S. 52 zwei Pfund Pfennige Regensburger MÅnze
+aus dem Jahr 1254.
+
+DOK$Chmel_008/1243.7.10/1243.7.10/1243 Juli 10/Julii anno domini MCCXLIII. indictione
+prima/Landau/Landau//??
+S$X/X/X
+V$X/X/X
+K$Abt Hermann von Niederalteich ÅberlÑ·t dem Herrn Gottschalk Ritter von
+Haidolfing und seiner Gattin Hadwig, die gegen das Kloster gut gesinnt sind und
+dort ihre Grabstelle gewÑhlt, zudem 24 Pfund Regensburger Pfennige gegeben
+haben, den Hof in "Walhinstorf" auf ihre Lebenszeit, da derselbe sehr
+heruntergekommen und die écker durchgehends verbessert werden sollen. Sie dÅrfen
+nichts verpfÑnden, es soll alles dem Kloster zufallen. Wo immer disseits der
+Alpen der Ritter oder seine Gattin stirbt, wird ihr Leichnam von den BrÅdern des
+Klosters zum Kloster abgefÅhrt und dort beigesetzt. Dem Åberlebenden Teil wird
+eine Wohnung angewiesen, wo er auf seine Kosten leben kann, damit die dem
+Kloster versprochenen beweglichen und unbeweglichen (?) GÅter nicht in fremde
+HÑnde kommen.
+
+REG$Abt Hermann von Niederalteich ÅberlÑ·t dem Herrn Gottschalk Ritter von
+Haidolfing und seiner Gattin Hadwig, die gegen das Kloster gut gesinnt sind und
+dort ihre Grabstelle gewÑhlt, zudem 24 Pfund Regensburger MÅnze gegeben
+haben, den Hof in "Walhinstorf" auf ihre Lebenszeit.
+F$FRA II 1 Chmel/08/142f/142
+G$Gottschalk/Ritter/uBayern ? Haidolfing/Haidolfing/ ??
+G$Hadwig/Genannte/uBayern ? Haidolfing/Haidolfing/ ??
+E$X/Kloster/Niederalteich/Niederalteich//Bayern/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$receptis ab eisdem XXIIII libris Ratisponensis monete
+
+DOK$Chmel_012/1243.9.28/1243.9.28/1243 September 28/anno MCCXLIII. indictione secunda/X/X//
+S$X/X/X
+V$X/X/X
+K$Albert und Ulrich von Aesing hatten ihr Erbrecht auf den Klosterhof in Esing
+(gegen einen jÑhrlichen Zins an das Kloster) dem Herrn Wernhard von Sewen fÅr 8
+Pfund Regensburger MÅnze verpfÑndet. Dabei kam das Kloster in Schaden, es
+wurde durch mehr als 20 Jahre kein Zins bezahlt und der Hof war îd, auch gab es
+Klagen Åber Klagen, Streit Åber Streit. Abt Hermann von Niederalteich hat nun
+bei Herrn Wernhard zu wege gebracht, da· er Åberall vor Gericht bezeugen wird,
+da· ihm von den Aesingern dieses Recht fÅr besagte Summe wirklich verpfÑndet
+wurde.
+
+REG$Albert und Ulrich von Aesing hatten ihr Erbrecht auf den Klosterhof in Esing
+(gegen einen jÑhrlichen Zins an das Kloster) dem Herrn Wernhard von Sewen fÅr 8
+Pfund Regensburger MÅnze verpfÑndet.
+F$FRA II 1 Chmel/12/145f/145
+G$Wernhard/Genannter/Seeb/Seeb/Sewen/Nô,GB Gfîhl/
+E$Albert;Ulrich/Genannter/uBayern ? Aesing/Aesing//  ??
+H$PfandgeschÑft/Immobilien/uBayern ? Aesing/Aesing/Esing/    ??
+W$Regensburg/moneta/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$obligaverant \dots pro VIII libris Ratisponensis monete
+
+DOK$FRAII31_140/1242.11.7/1242.11.7/1242 November 7/VII. idus Novembris anno domini
+MCCXLII./LaabimWalde/Laab i.Walde/Lovpe/Nô,GB Purkersdorf/
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich von ôsterreich verspricht von der Vogtei zu Enzersdorf nicht
+mehr als 30 Talent Wiener MÅnze jÑhrlich sich entrichten zu lassen.
+
+REG$Herzog Friedrich von ôsterreich verspricht auf Bitten des Bischofs K. von
+Freising von der Vogtei zu Enzersdorf nicht mehr als 30 Talent Wiener MÅnze
+jÑhrlich sich entrichten zu lassen.
+F$FRA II 31/140/136f/137
+F$BabUB 2/407/254f/255
+G$K.?/Bischof/Freising/Freising//Bayern/
+E$Friedrich/Herzog/ôsterreich/ôsterreich//wo??
+H$Vogtei/Vogtei/Enzersdorfa.d.Fischa/Enzersdorf a.d.Fischa/Enzersdorf/Nô,GB Bruck a.d.Leitha/
+W$Wien/moneta/
+O$30/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$tantum XXX talenta Wiennensis monete semel singulis annis nos promittimus
+accepturos
+
+DOK$FRAII31_141/1242.11.7/1242.11.7/1242 November 7/VII. idus Novembris anno domini
+MCCXLII./LaabimWalde/Laab i.Walde/Lovpe/Nô,GB Purkersdorf/
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich von ôsterreich verspricht dem Bischof Konrad I. von
+Freising kÅnftighin von der Vogtei zu Enzersdorf mit einer GebÅhr von jÑhrlichen
+30 Talent Wiener MÅnze sich zu begnÅgen.
+
+REG$Herzog Friedrich von ôsterreich verspricht dem Bischof Konrad I. von
+Freising kÅnftighin von der Vogtei zu Enzersdorf mit einer GebÅhr von jÑhrlichen
+30 Talent Wiener MÅnze sich zu begnÅgen.
+F$FRA II 31/141/137/137
+G$Konrad I./Bischof/Freising/Freising//Bayern/
+E$Friedrich/Herzog/ôsterreich/ôsterreich//wo??
+H$Vogtei/Vogtei/Enzersdorfa.d.Fischa/Enzersdorf a.d.Fischa/Enzersdorf/Nô,GB Bruck a.d.Leitha/
+W$Wien/moneta/
+O$30/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$tantum XXX talenta Wiennensis monete recipiamus.
+
+DOK$FRAII31_142/1243.3.10/1243.3.10/1243 MÑrz 10/anno domini MCCXLIII., VI. idus
+Marcii/Hainburga.d.Donau/Hainburg a.d.Donau/Haimburg/Nô,GB/
+S$X/X/X
+V$X/X/X
+K$Ulrich von Himberg verzichtet gegen Bischof Konrad I. von Freising auf die von
+Herzog Friedrich ihm zu Lehen gegebene Vogtei von Enzersdorf gegen Abfindung von
+500 Talent Wiener MÅnze.
+
+REG$Ulrich von Himberg verzichtet gegen Bischof Konrad I. von Freising auf die von
+Herzog Friedrich ihm zu Lehen gegebene Vogtei von Enzersdorf gegen Abfindung von
+500 Talent Wiener MÅnze.
+F$FRA II 31/142/138/138
+F$BabUB 2/415/263f/263
+G$Konrad I./Bischof/Freising/Freising//Bayern/
+E$Ulrich/Genannter/Himberg/Himberg//Nô,sî.Wien,GB Schwechat/
+H$Verzicht/Vogtei/Enzersdorfa.d.Fischa/Enzersdorf a.d.Fischa/Enzersdorf/Nô,GB Bruck a.d.Leitha/
+W$Wien/moneta/
+O$500/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$quingenta talenta Wiennensis monete michi dedit
+
+DOK$FRAII31_151/1247.0.0/1247.0.0/1247/anno domini MCCXLVII., V.
+indictione/Enns/Enns//Oô/
+S$X/X/X
+V$X/X/X
+K$Graf Otto von Eb(er)stein, Reichsverweser in ôsterreich, stellt dem Bischof
+von Freising im Namen des Reiches genannte BÅrgen fÅr eine von demselben in Wien
+getane Auslage von 700 Talent Wiener Pfennigen.
+
+REG$Graf Otto von Eb(er)stein, Reichsverweser in ôsterreich, stellt dem Bischof
+von Freising im Namen des Reiches genannte BÅrgen fÅr eine von demselben in Wien
+getane Auslage von 700 Talent Wiener Pfennigen.
+F$FRA II 31/151/147/147
+G$Otto/Graf/Eberstein/Eberstein//Deutschland,Baden/
+E$X/Bischof/Freising/Freising//Bayern/
+H$BÅrgschaft/Auslagen/Wien/Wien//ô/
+W$Wien/X/
+O$700/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$fideiussores constituimus \dots pro DCC talentis Wiennensium denariorum
+
+DOK$UrbareI2_001/1220.0.0/1230.0.0/ca. 1220 - 1230/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Urbar aus der Zeit der Babenberger.
+
+REG$EinkÅnfte aus Regalien.
+F$Urbare I2/X/48/48
+G$?X/X/X/X//
+E$X/Herzog/Steiermark/Steiermark?Babenberg//wo??
+H$MÅnzerneuerung/MÅnze/Graz/Graz//Stmk/
+W$Graz/moneta/
+O$350/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$In Graez in renovatione monete 350 mr.
+B$Urbar.
+Ad Urbare I2 , S. 51 de moneta: bezieht sich das auf Stein?
+
+

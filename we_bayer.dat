@@ -1,0 +1,4582 @@
+
+note *** Orts-Identifizierungen aufgrund von:
+         Reitzenstein, Lexikon bayerischer Ortsnamen
+         Amtliches Ortsverzeichnis fÅr Bayern
+         Spndler
+
+note *** Bei MB-Urkk. ohne Nr. entweder 0 oder Seitenangabe
+
+note *** Einlesen der Rohdaten we_bayer.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$MB01_187/1250.0.0/1250.0.0/ca. 1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die BrÅder Eberhard, Konrad, Liebhard und Heinrich von Rattenberg? Åbergeben
+die Unfreie Diemut unter der Bedingung an den Altar von St. Maria in Au, da· sie
+jÑhrlich 4 Regensburger Pfennige oder 6 Salzburger an den Altar zinst.
+
+REG$Die BrÅder Eberhard, Konrad, Liebhard und Heinrich von Rattenberg? Åbergeben
+die Unfreie Diemut unter der Bedingung an den Altar von St. Maria in Au, da· sie
+jÑhrlich 4 Regensburger Pfennige oder 6 Salzburger an den Altar zinst.
+F$MB 01/187/203/203
+G$Diemut/Unfreie/X/X//
+E$X/Altar/Au_a.Inn/Au a.Inn,St.Maria//a.Inn,G.Gars a.Inn,LK MÅhldorf a.Inn
+H$Zensus/Unfreie/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+A$4 Regensburger Pf./6 Salzburger Pf.
+Q$IIII denarios Ratisponens. vel VI Salzpurgenses ad predictum alt. dare debeat
+annuatim.
+
+REG$Die BrÅder Eberhard, Konrad, Liebhard und Heinrich von Rattenberg? Åbergeben
+die Unfreie Diemut unter der Bedingung an den Altar von St. Maria in Au, da· sie
+jÑhrlich 4 Regensburger Pfennige oder 6 Salzburger an den Altar zinst.
+F$MB 01/187/203/203
+G$Diemut/Unfreie/X/X//
+E$X/Altar/Au_a.Inn/Au a.Inn,St.Maria//??a.Inn,G.Gars a.Inn,LK MÅhldorf a.Inn
+H$Zensus/Unfreie/unbestimmt/unbestimmt//
+W$Salzburg/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+A$6 Salzburger Pf./4 Regensburger Pf.
+Q$IIII denarios Ratisponens. vel VI Salzpurgenses ad predictum alt. dare debeat
+annuatim.
+B$den. aus dem Zusammenhang erschlossen.
+
+DOK$MB02_000/1101.0.0/1200.0.0/12. Jahrhundert/X/X/X//
+S$X/X/X
+V$X/X/X
+K$GrÅndungsgeschichte des Klosters Baumburg.
+
+REG$Das Kloster Baumburg ist verpflichtet, jÑhrlich einen goldenen Pfennig an die
+Kirche von Rom zu bezahlen.
+F$MB 02/X/173ff/179
+G$X/Kloster/Baumburg/Baumburg//Oberbayern,w.Trostberg    ?G.Altenmarkt a.d.Alz,LK Traunstein
+E$X/Kirche/Rom/Rom//Italien/
+H$Zins?/Kloster?/Rom/Rom//Italien/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./aureus/Z
+Q$aureo denario Romane Ecclesie censualis esse teneatur
+
+DOK$MB02_003/1125.1.14/1130.1.14/1125 - 1130 JÑnner 14/VI. Kal. Februarii/Rom/Rom//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Honorius II. nimmt das Kloster Baumburg auf Bitten des Propstes
+Gottschalk in seinen Schutz, bestÑtigt dessen GÅter und Rechte und legt einen
+jÑhrlichen Zins in der Hîhe von einem Aureus fest.
+
+REG$Papst Honorius II. nimmt das Kloster Baumburg auf Bitten des Propstes
+Gottschalk in seinen Schutz, bestÑtigt dessen GÅter und Rechte und legt einen
+jÑhrlichen Zins in der Hîhe von einem Aureus fest.
+F$MB 02/003/180ff/181
+F$Jaffe 1/X/839/839
+F$Migne 166/X/1308f/1308
+G$X/Kloster/Baumburg/Baumburg//Oberbayern,w.Trostberg/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zins/Kloster/Rom/Rom//Italien    ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/aureus/X/Z
+Q$Ad indicium autem huius ab apostolica sede percepte tuitionis aureum unum
+quotannis Lateranensi palatio persolvetis.
+B$"Den." aus dem Zusammenhang erschlossen.
+
+DOK$QENF29_105/1168.0.0/1180.0.0/(ca. 1168 - ca. 1180)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/501
+G$X/X/X/X//ô?
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim
+nî.Miesbach
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//ôsterreich/
+W$Krems/X/
+O$60/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$sciunt de bonis comitis S(ibotonis) LX talenta Chremsensis
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193. "Es handelt
+sich hier offenbar um die EinkÅnfte der Falkensteiner Grafen aus ihren
+Besitzungen in der Ostmark."
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/501
+G$X/X/X/X//
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$40/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$sciunt de bonis comitis S(ibotonis) \dots XL talenta Ratisponensis monete
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193. MB 7 liest 10
+Talent.
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/501
+G$X/X/X/X//
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$sciunt de bonis comitis S(ibotonis) \dots (X?) marcas argenti
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193.
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/502
+G$X/X/X/X//
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$Wertangabe/N/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Sciunt etiam \dots unum poericter ex auro dimidie marce
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193.
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/502
+G$X/X/X/X//
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$Gewichtsangabe/ArmbÑnder/unbestimmt/unbestimmt//
+W$X/X
+O$0,5/marca/X
+Z$X/X/X
+M$X/aurum/X/A
+Q$Sciunt etiam \dots duas armillas ex dimidia marca auri
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193.
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/502
+G$X/X/X/X//
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$Gewichtsangabe/GoldmÅnzen/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/nummus/aureus/A
+Q$Sciunt etiam \dots aureos nummos ponderantes dimidiam marcam
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193.
+
+REG$Verzeichnis derjenigen Geldsummen und EdelmetallgegenstÑnde aus dem Besitz
+Graf S(ibotos IV. von Neuburg - Falkenstein), von denen Helmpold (von Endorf? LK
+Rosenheim) und Wernher (Feuerstein ?) Kenntnis haben.
+F$QE NF 29/105/68/68
+F$MB 07/X/501f/502
+G$X/X/X/X//
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$Gewichtsangabe_Summe/EdelmetallgegenstÑnde/unbestimmt/unbestimmt//
+W$X/X
+O$1,5?/marca/X
+Z$X/X/X
+M$X/aurum/X/A
+Q$Sciunt etiam \dots horum summa est secunda dimidia marca auri
+B$Bastian, Mittelalterliche MÅnzstÑtten S. 12 Anm. 1 datiert 1193.
+
+DOK$QENF29_134/1168.8.5/1169.0.0/(1168 nach August 4 bis 1169)/X/Laindern/Laindern//LK Miesbach/
+S$X/X/X
+V$X/X/X
+K$Eberhard (I.) von Maisach (LK FÅrstenfeldbruck) und seine Sîhne verpfÑnden an
+Graf Siboto (IV.) von Neuburg (- Falkenstein) und dessen Sîhne (Kuno und Siboto
+V.) gegen eine Summe von 50 Talenten Regensburger Pfennigen zu nÑher
+bezeichneten Bedingungen Besitz in Flintsbach (a. Inn LK Rosenheim) und in
+Milbing (Gem. Brannenburg LK Rosenheim) mit allem Zubehîr, au·erdem die Frau des
+Gerung (von Flintsbach) mit ihren Sîhnen und ihrem Gut und die Vogtei Åber die
+Kirche in Flintsbach.
+
+REG$Eberhard (I.) von Maisach (LK FÅrstenfeldbruck) und seine Sîhne verpfÑnden an
+Graf Siboto (IV.) von Neuburg (- Falkenstein) und dessen Sîhne (Kuno und Siboto
+V.) gegen eine Summe von 50 Talenten (Regensburger Pfennigen) zu nÑher
+bezeichneten Bedingungen Besitz in Flintsbach (a. Inn LK Rosenheim) und in
+Milbing (Gem. Brannenburg LK Rosenheim) mit allem Zubehîr, au·erdem die Frau des
+Gerung (von Flintsbach) mit ihren Sîhnen und ihrem Gut und die Vogtei Åber die
+Kirche in Flintsbach.
+F$QE NF 29/134/101ff/102
+F$MB 07/X/468f/468
+F$MB 07/X/481f/481
+G$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+E$Eberhard I./Genannter/Maisach/Maisach//LK FÅrstenfeldbruck/
+H$PfandgeschÑft/Immobilien/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+H$PfandgeschÑft/Immobilien/Milbing/Milbing//LK Rosenheim,G.Brannenburg/
+H$PfandgeschÑft/Hîrige/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+H$PfandgeschÑft/Vogtei/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+A$50 Talent/4 Mark Silber
+Q$pro quinquaginta talentis, in quibus erant IIII marce examinati argenti
+B$Zwei Varianten derselben Urkunde, a und b, sowie MB 7, 468f und 481f.  ?
+
+REG$Eberhard (I.) von Maisach (LK FÅrstenfeldbruck) und seine Sîhne verpfÑnden an
+Graf Siboto (IV.) von Neuburg (- Falkenstein) und dessen Sîhne (Kuno und Siboto
+V.) gegen eine Summe von 50 Talenten aus vier Mark Silber zu nÑher
+bezeichneten Bedingungen Besitz in Flintsbach (a. Inn LK Rosenheim) und in
+Milbing (Gem. Brannenburg LK Rosenheim) mit allem Zubehîr, au·erdem die Frau des
+Gerung (von Flintsbach) mit ihren Sîhnen und ihrem Gut und die Vogtei Åber die
+Kirche in Flintsbach.
+F$QE NF 29/134/101ff/102
+F$MB 07/X/468f/468
+F$MB 07/X/481f/481
+G$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+E$Eberhard I./Genannter/Maisach/Maisach//LK FÅrstenfeldbruck/
+H$PfandgeschÑft/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$4/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+A$4 Mark Silber/50 Talent
+Q$pro quinquaginta talentis, in quibus erant IIII marce examinati argenti
+B$Zwei Varianten derselben Urkunde, a und b, sowie MB 7, 468f und 481f.  ?
+
+REG$Eberhard (I.) von Maisach (LK FÅrstenfeldbruck) und seine Sîhne verpfÑnden an
+Graf Siboto (IV.) von Neuburg (- Falkenstein) und dessen Sîhne (Kuno und Siboto
+V.) gegen eine Summe von 50 Talenten Regensburger Pfennigen zu nÑher
+bezeichneten Bedingungen Besitz in Flintsbach (a. Inn LK Rosenheim) und in
+Milbing (Gem. Brannenburg LK Rosenheim) mit allem Zubehîr, au·erdem die Frau des
+Gerung (von Flintsbach) mit ihren Sîhnen und ihrem Gut und die Vogtei Åber die
+Kirche in Flintsbach.
+F$QE NF 29/134/101ff/103
+F$MB 07/X/468f/468
+F$MB 07/X/481f/481
+G$Eberhard I./Genannter/Maisach/Maisach//LK FÅrstenfeldbruck/
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$Pfand_Einlîse/Immobilien/Flintsbach/Flintsbach//LK Rosenheim,a.Inn  ?
+H$Pfand_Einlîse/Immobilien/Milbing/Milbing//LK Rosenheim,G.Brannenburg  ?
+H$Pfand_Einlîse/Hîrige/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+H$Pfand_Einlîse/Vogtei/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+W$Regensburg/X/
+O$50/tal./X
+Z$X/X/X
+M$X/den./X/Z
+Q$illud predium redimere nisi ex propriis peccuniis  et insimul L
+talenta dari ex Ratisponensibus denariis
+B$Zwei Varianten derselben Urkunde, a und b, sowie MB 7, 468f und 481f.  ?
+Aventin Åberliefert zu der Fassung a folgende Parallelstelle aus der
+verschollenen dt. öbersetzung des CF: \dots vmb vvnzic phunt Reginsburgari
+
+DOK$QENF29_137/1170.0.0/1170.0.0/ca. 1170/X/Breitenbach Schînau/Breitenbach,Schînau//wohl
+G.Breitenbach a.Inn, GB Rattenberg i.Tirol/
+S$X/X/X F4 nachtragen?
+V$X/X/X
+K$Egino von Flie· (GB Landeck in Tirol) und seine Geschwister Åbertragen an Graf
+Siboto (IV. von Neuburg-Falkenstein) durch die Hand Reginhards von Flie· Besitz
+in Schînau (wohl Gem. Breitenbach a. Inn GB Rattenberg in Tirol) gegen eine
+Summe von 4 Mark Silber und 8 Talenten Augsburger MÅnze, wobei das Silber an
+Stift Wilten Åbergeben werden soll.
+
+REG$Egino von Flie· (GB Landeck in Tirol) und seine Geschwister Åbertragen an Graf
+Siboto (IV. von Neuburg-Falkenstein) durch die Hand Reginhards von Flie· Besitz
+in Schînau (wohl Gem. Breitenbach a. Inn GB Rattenberg in Tirol) gegen eine
+Summe von 4 Mark Silber und 8 Talenten Augsburger MÅnze, wobei das Silber an
+Stift Wilten Åbergeben werden soll.
+F$QE NF 29/137/108f/109
+F$MB 07/X/471f/471
+G$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+E$Egino/Genannter/Flie·/Flie·//GB Landeck/
+H$Kauf/Immobilien/Breitenbach Schînau/Breitenbach,Schînau//wohl
+G.Breitenbach,GB Rattenberg i.Tirol/
+W$X/X
+O$4/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro precio IIII marcarum argenti et pro octo talentis Augustensis monete
+
+REG$Egino von Flie· (GB Landeck in Tirol) und seine Geschwister Åbertragen an Graf
+Siboto (IV. von Neuburg-Falkenstein) durch die Hand Reginhards von Flie· Besitz
+in Schînau (wohl Gem. Breitenbach a. Inn GB Rattenberg in Tirol) gegen eine
+Summe von 4 Mark Silber und 8 Talenten Augsburger MÅnze, wobei das Silber an
+Stift Wilten Åbergeben werden soll.
+F$QE NF 29/137/108f/109
+F$MB 07/X/471f/471
+G$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+E$Egino/Genannter/Flie·/Flie·//GB Landeck/
+H$Kauf/Immobilien/Breitenbach Schînau/Breitenbach,Schînau//wohl
+G.Breitenbach,GB Rattenberg i.Tirol/
+W$Augsburg/moneta/
+O$8/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio IIII marcarum argenti et pro octo talentis Augustensis monete
+
+DOK$QENF29_149/1175.0.0/1176.3.12/ca. 1175 - 1176 MÑrz 12/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Sophia (von Vohburg) verpfÑndet an (ihren Schwager) Graf Siboto (IV. von
+Neuburg-Falkenstein) einen Hof in Flintsbach (a. Inn LK Rosenheim) gegen eine
+nÑher bezeichntet Summe Geldes.
+
+REG$Sophia (von Vohburg) verpfÑndet an (ihren Schwager) Graf Siboto (IV. von
+Neuburg-Falkenstein) einen Hof in Flintsbach (a. Inn LK Rosenheim) gegen drei
+Talent Regensburger MÅnze und 10 Talent und drei·ig Pfennig MÅncher.
+F$QE NF 29/149/123/123
+F$MB 07/X/480/480
+G$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+E$Sophia/Genannte/Vohburg a.d.Donau/Vohburg a.d.Donau/Vohburg/OB,Landreis Pfaffenhofen a.d.Ilm/
+H$PfandgeschÑft/Immobilien/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+W$Regensburg/moneta/
+O$3/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro III talentis Ratisponensis monete et X talentis Munechare et XXX denariis
+B$Aventin Åberliefert zu diesem Eintrag folgende Parallelstelle aus der
+verschollenen dt. öbersetzung des CF: \dots vmb drw phunt Reginspurgari vnd vmb
+zehin phunt vnd drizic phennigi Munichari.
+
+REG$Sophia (von Vohburg) verpfÑndet an (ihren Schwager) Graf Siboto (IV. von
+Neuburg-Falkenstein) einen Hof in Flintsbach (a. Inn LK Rosenheim) gegen drei
+Talent Regensburger MÅnze und 10 Talent und drei·ig Pfennig MÅncher.
+F$QE NF 29/149/123/123
+F$MB 07/X/480/480
+G$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+E$Sophia/Genannte/Vohburg a.d.Donau/Vohburg a.d.Donau/Vohburg/OB,Landreis Pfaffenhofen a.d.Ilm/
+H$PfandgeschÑft/Immobilien/Flintsbach/Flintsbach//LK Rosenheim,a.Inn/
+W$MÅnchen/X/
+O$10/tal./X
+Z$X/X/X
+M$30/den./X/A
+Q$pro III talentis Ratisponensis monete et X talentis Munechare et XXX denariis
+B$Aventin Åberliefert zu diesem Eintrag folgende Parallelstelle aus der
+verschollenen dt. öbersetzung des CF: \dots vmb drw phunt Reginspurgari vnd vmb
+zehin phunt vnd drizic phennigi Munichari.
+
+DOK$QENF29_155c/1175.0.0/1182.5.20/ca. 1175 - 1182 vor Mai 21/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die BrÅder Ortolf, Heinrich und Siboto sowie ihre Schwester (von Teisenham?
+Gem. Endorf i. OB LK Rosenheim) Åbertragen an Graf Siboto (IV. von
+Neuburg-Falkenstein) den Knecht Heinrich und versprechen, bei dessen eventuellem
+Verlust Schadenersatz zu leisten.
+
+REG$Die BrÅder Ortolf, Heinrich und Siboto sowie ihre Schwester (von Teisenham?
+Gem. Endorf i. OB LK Rosenheim) Åbertragen an Graf Siboto (IV. von
+Neuburg-Falkenstein) den Knecht Heinrich und versprechen, bei dessen eventuellem
+Verlust Schadenersatz in der Hîhe von zwei Talent Regensburger MÅnze zu leisten.
+F$QE NF 29/155c/133f/134
+F$MB 07/X/483/483
+G$Ortolf;Heinrich;Siboto/Genannte/Teisenham/Teisenham/Teisenheim?/LK
+Rosenheim,G.Endorf i.OB/
+E$Siboto IV./Graf/Neuburg-Falkenstein/Neuburg-Falkenstein/Neuburg/abgeg.Burg b.Vagen,G.Feldkirchen-Westerham,LK Rosenheim/
+H$Schadenersatz/Hîriger/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$duo talenta Ratisponensis monete
+
+DOK$QENF32I_038b/1155.9.20/1157.0.0/1155 September 20 - ca. 1157/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Schwester des Edlen Werinher, der ein Gut in Pessenhausen (Gem.
+Rott LK Landsberg) an das Kloster Wessobrunn Åbergeben hat, wobei auch sie
+ihren Anteil abgetreten hat, bestreitet nach Jahresfrist die RechtmÑ·igkeit der
+Schenkung, verzichtet aber mit ihren Sîhnen nach Erhalt von einem Talent
+Augsburger Pfennigen.
+
+REG$Die Schwester des Edlen Werinher, der ein Gut in Pessenhausen (Gem.
+Rott LK Landsberg) an das Kloster Wessobrunn Åbergeben hat, wobei auch sie
+ihren Anteil abgetreten hat, bestreitet nach Jahresfrist die RechtmÑ·igkeit der
+Schenkung, verzichtet aber mit ihren Sîhnen nach Erhalt von einem Talent
+Augsburger Pfennigen.
+F$QE NF 32I/038b/59f/60
+F$MB 07/X/346f/347
+G$X/Kloster/Wessobrunn/Wessobrunn//LK Weilheim-Schongau/
+E$X/X/X/X//
+H$Ablîse/Immobilien/Pessenhausen/Pessenhausen//LK Landsberg,G.Rott//
+W$Augsburg/X/
+O$1/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$precio talenti denariorum Augustensium
+
+DOK$QENF32I_060/1171.0.0/1172.0.0/1171 - 1172/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Augsburger Dommeier Ulrich (von Hausen Gem. Diedorf LK Augsburg) und seine
+Gemahlin (Mathilde von Aindling LK Aichach-Friedberg) erhalten fÅr 40 Talent
+Augsburger MÅnze ein Gut in Zell (Unter-, Gem. Dasing LK Aichach-Friedberg) auf
+Lebenszeit zum Jahreszins von 6 Pfennigen.
+
+REG$Der Augsburger Dommeier Ulrich (von Hausen Gem. Diedorf LK Augsburg) und seine
+Gemahlin (Mathilde von Aindling LK Aichach-Friedberg) erhalten fÅr 40 Talent
+Augsburger MÅnze ein Gut in Zell (Unter-, Gem. Dasing LK Aichach-Friedberg) auf
+Lebenszeit zum Jahreszins von 6 Pfennigen.
+F$QE NF 32I/060/90ff/93
+F$MB 07/X/354f/355
+G$Ulrich/Dommeier/Augsburg/Augsburg//Schwaben     Genannter Hausen LK Augsburg,G.Diedorf/
+E$X/Kloster/Wessobrunn/Wessobrunn//LK Weilheim-Schongau/
+H$Ablîse/Immobilien/Unterzell/Unterzell/Zell/LK Aichach-Friedberg,G.Dasing/
+W$Augsburg/moneta/
+O$40/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$data summa XL talentorum Augustensis monete utendum acceperunt
+
+REG$Der Augsburger Dommeier Ulrich (von Hausen Gem. Diedorf LK Augsburg) und seine
+Gemahlin (Mathilde von Aindling LK Aichach-Friedberg) erhalten fÅr 40 Talent
+Augsburger MÅnze ein Gut in Zell (Unter-, Gem. Dasing LK Aichach-Friedberg) auf
+Lebenszeit zum Jahreszins von 6 Pfennigen.
+F$QE NF 32I/060/90ff/93
+F$MB 07/X/355/355
+G$Ulrich/Dommeier/Augsburg/Augsburg//Schwaben    Genannter Hausen LK Augsburg,G.Diedorf/
+E$X/Kloster/Wessobrunn/Wessobrunn//LK Weilheim-Schongau/
+H$Zins/Immobilien/Unterzell/Unterzell/Zell/LK Aichach-Friedberg,G.Dasing/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$censum VI denariorum annuatim more persolvat
+
+DOK$QENF27I_160/1148.0.0/1156.0.0/1148 - 1156/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Wertangabe?
+
+REG$Ein aureus entspricht 30 Silberlingen.
+F$QE NF 27I/160/133/133
+G$X/X/X/X//
+E$X/X/X/X//
+H$Wertangabe/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/aureus/X/A?
+A$1 aureus/30 argent.
+Q$Aureus equivalet XXX argentis.
+
+REG$30 Silberlinge entsprechen einem aureus.
+F$QE NF 27I/160/133/133
+G$X/X/X/X//
+E$X/X/X/X//
+H$Wertangabe/Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/X/argenteus/A?
+A$30 argent./1 aureus
+Q$Triginta argentei equivalent aureum.
+
+DOK$QENF27I_235/1159.2.18/1162.0.0/1159 Februar 18 - ca. 1162/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Konrad (I.) von Valley (LK Miesbach) ÅbertrÑgt gegen Bezahlung eine halbe
+Hube in Odelzhausen (LK Dachau) und einen Weinberg bei Bozen (SÅdtirol).
+
+REG$Graf Konrad (I.) von Valley (LK Miesbach) ÅbertrÑgt gegen Bezahlung von
+drei Talent neuer Regensburger MÅnze und einer Wagenladung Wein eine
+halbe Hube in Odelzhausen (LK Dachau) und einen Weinberg bei Bozen (SÅdtirol).
+F$QE NF 27I/235/190f/191
+F$MB 09/X/432f/432
+F$TUB 1/231/101f/102
+G$X/Kloster/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+E$Konrad I./Graf/Valley/Valley//LK Miesbach/
+H$Gegengabe/Immobilien/Odelzhausen/Odelzhausen//LK Dachau/
+H$Gegengabe/Immobilien_Weinberg/Bozen/Bozen//SÅdtirol/
+W$Regensburg/moneta nova/
+O$3/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro tribus talentis monete Ratisponensis nove
+B$Bodos Datierung wurde gegenÅber Huters Zeitansatz (1148 - 1172) der Vorzug
+gegeben.
+
+DOK$QENF27I_317/1184.11.11/1189.5.0/1184 November 11 - 1189 Mai/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Mînch Isangrim ÅbertrÑgt durch Abt Altumo Besitz in Pettenbrunn (Gem.
+Itzling LK Freising), den er vorher vom Kloster gekauft hatte, als
+Ewiglichtstiftung fÅr eine von ihm erbaute (Marien-?) Kirche.
+
+REG$Der Mînch Isangrim ÅbertrÑgt durch Abt Altumo Besitz in Pettenbrunn (Gem.
+Itzling LK Freising), den er vorher vom Kloster um 12 Talent Regensburger
+MÅnze gekauft hatte, als Ewiglichtstiftung fÅr eine von ihm erbaute (Marien-?)
+Kirche.
+F$QE NF 27I/317/257f/258
+F$MB 09/X/471f/472
+G$Isangrim/Mînch/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+E$X/Kloster/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+H$Kauf/Immobilien/Pettenbrunn/Pettenbrunn//LK Freising,G.Itzling/
+W$Regensburg/moneta/
+O$12/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro duodecim talentis monete Ratisponensis
+
+DOK$QENF27I_342/1205.11.10/1205.11.10/1205 November 10/anno ab incarnatione domini MCC
+quinto IIII. idus novembris/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Kanoniker Albert von St. Veit (StK Freising) kauft vom Konvent von
+Weihenstephan Besitz in Osseltshausen (LK Mainburg), den er dem Kloster gegen
+jÑhrliche Zinszahlung zurÅckgibt.
+
+REG$Der Kanoniker Albert von St. Veit (StK Freising) kauft vom Konvent von
+Weihenstephan Besitz in Osseltshausen (LK Mainburg) um 5 Talent Regensburger
+MÅnze, den er dem Kloster gegen jÑhrliche Zinszahlung in der Hîhe von 5
+Pfennigen zurÅckgibt.
+F$QE NF 27I/342/280f/280
+F$MB 09/X/484f/485
+G$Albert/Kanoniker/St.Veit/St. Veit//StK Freising/
+E$X/Konvent/Freising ,Weihenstephan/Freising,Weihenstephan/Oberbayern/
+H$Kauf/Immobilien/Osseltshausen/Osseltshausen//LK Mainburg/
+W$Regensburg/moneta/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quinque talentis Ratisponensis monete
+
+REG$Der Kanoniker Albert von St. Veit (StK Freising) kauft vom Konvent von
+Weihenstephan Besitz in Osseltshausen (LK Mainburg) um 5 Talent Regensburger
+MÅnze, den er dem Kloster gegen jÑhrliche Zinszahlung in der Hîhe von 5
+Pfennigen zurÅckgibt.
+F$QE NF 27I/342/280f/280
+F$MB 09/X/484f/485
+G$X/Konvent/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+E$Albert/Kanoniker/St.Veit/St. Veit//StK Freising/
+H$Zins/Immobilien/Osseltshausen/Osseltshausen//LK Mainburg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$annuatim \dots V denarios inde percipiat
+
+DOK$QENF27I_345/1208.3.0/1209.1.0/1208 MÑrz - 1209 JÑnner/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Bozener BÅrger Arnold ÅbertrÑgt gegen Bezahlung von 12 Mark und die
+Aufnahme in die Gebetsbruderschaft des Klosters Weihenstephan Weinberge und zwei
+écker in Winkel (Gem. Sand in Taufers, Campo Tures, SÅdtirol), die der
+Weihenstephaner Familiare Elbwin von Keller (in Gries bei Bozen, SÅdtirol) dem
+Kloster auf dem Sterbebett Åbertragen und die dessen Sohn Albert zunÑchst
+unrechtmÑ·ig an ihn verpfÑndet, dann verkauft hatte.
+Der Freisinger Scholaster Heinrich von Zwiefalten (LK MÅnsingen) kauft dem
+Kloster gegen jÑhrliche Lieferung einer Karrade Weins den Besitz zurÅck.
+Derselbe Heinrich ÅbertrÑgt Besitz in Piflitz (Gem. Kollbach LK Dachau) zu einem
+JahrtagsgedÑchtnis.
+
+REG$Albert, der Sohn des Weihenstephaner Familiaren Elbwin von Keller (in Gries
+bei Bozen SÅdtirol), der dem Kloster auf dem Sterbebett Weinberge und zwei
+écker in Winkel (Gem. Sand in Taufers, Campo Tures, SÅdtirol) Åbertragen hat,
+verpfÑndete dem Bozener BÅrger Arnold diese unrechtmÑ·ig um 12 Mark.
+F$QE NF 27I/345/282ff/283
+F$MB 09/X/487f/487
+F$TUB 2/584/62f/62
+G$Arnold/BÅrger/Bozen/Bozen//SÅdtirol/
+E$Albert von Keller?/Familiare/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+H$PfandgeschÑft/Immobilien/Winkel/Winkel//SÅdtirol,G.Sand in Taufers,Campo Tures/
+H$PfandgeschÑft/Immobilien_Weinberge/Winkel/Winkel//SÅdtirol,G.Sand in Taufers,Campo Tures/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XII marcis ratione pignoris primum obligavit
+
+REG$Albert, der Sohn des Weihenstephaner Familiaren Elbwin von Keller (in Gries
+bei Bozen SÅdtirol), der dem Kloster auf dem Sterbebett Weinberge und zwei
+écker in Winkel (Gem. Sand in Taufers, Campo Tures, SÅdtirol) Åbertragen hat,
+verpfÑndete dem Bozener BÅrger Arnold diese unrechtmÑ·ig um 12 Mark und
+verkaufte sie danach um 200 Pfund Veroneser Pfennige.
+F$QE NF 27I/345/282ff/283
+F$MB 09/X/487f/487
+F$TUB 2/584/62f/62
+G$Arnold/BÅrger/Bozen/Bozen//SÅdtirol/
+E$Albert von Keller?/Familiare/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+H$Kauf/Immobilien/Winkel/Winkel//SÅdtirol,G.Sand in Taufers,Campo Tures/ /
+H$Kauf/Immobilien_Weinberg/Winkel/Winkel//SÅdtirol,G.Sand in Taufers,Campo Tures/ /
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro CC libris denariorum Veronensium vendidit.
+
+REG$Der Bozener BÅrger Arnold ÅbertrÑgt gegen Bezahlung von 12 Mark und die
+Aufnahme in die Gebetsbruderschaft des Klosters Weihenstephan Weinberge und zwei
+écker in Winkel (Gem. Sand in Taufers, Campo Tures, SÅdtirol).
+F$QE NF 27I/345/282ff/283
+F$MB 09/X/487f/487
+F$TUB 2/584/62f/62
+G$X/Kloster/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+E$Arnold/BÅrger/Bozen/Bozen//SÅdtirol/
+H$Gegengabe/Immobilien/Winkel/Winkel//SÅdtirol,G.Sand in Taufers,Campo Tures/ /
+H$Gegengabe/Immobilien_Weinberge/Winkel/Winkel//SÅdtirol,G.Sand in Taufers,Campo Tures/ /
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$reacceptis a nobis XII marcis
+
+REG$Der Freisinger Scholaster Heinrich von Zwiefalten (LK MÅnsingen) kauft dem
+Kloster Weihenstephan gegen jÑhrliche Lieferung einer Karrade Weins den Besitz
+in Winkel (Gem. Sand in Taufers, Campo Tures SÅdtirol) zurÅck.
+F$QE NF 27I/345/282ff/284
+F$MB 09/X/487f/488
+F$TUB 2/584/62f/63
+G$Heinrich/Genannter/Zwiefalten/Zwiefalten//LK MÅnsingen/
+E$X/Kloster/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+H$Kauf/RenteWeinlieferung/unbestimmt/unbestimmt// ?
+H$  Auszahlung/RÅckkaufsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$datis XII marcis
+
+REG$Der Freisinger Scholaster Heinrich von Zwiefalten (LK MÅnsingen) ÅbertrÑgt dem
+Kloster Weihenstephan Besitz in Piflitz (Gem. Kollbach LK Dachau), den er um 16
+Pfund Regensburger MÅnze verkauft und wieder erworben hat, zu einem
+JahrtagsgedÑchtnis.
+F$QE NF 27I/345/282ff/284
+F$MB 09/X/487f/488
+G$Heinrich/Genannter/Zwiefalten/Zwiefalten//LK MÅnsingen/
+E$X/X/X/X//
+H$Kauf;RÅckkauf/Immobilien/Piflitz/Piflitz//Gem. Kollbach LK Dachau/
+W$Regensburg/moneta/
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$in emendo et redimendo XVI libras Ratisponensis monete
+
+DOK$QENF27II_012/1208.3.0/1209.1.0/1208 MÑrz - 1209 JÑnner/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Eberhard von Weihenstephan gewÑhrt auf Bitten des Freisinger Plebans
+Heinrich Adelheid, der Tochter Konrads von Hohenbachern (Gem. SÅnzhausen LK
+Freising), eine PfrÅnde auf Lebenszeit und verleiht genanntem Heinrich, Konrad
+und Ulrich gegen Zahlung von etwa 40 Regensburger Pfund und einer Karrade Weins
+zu Leibrecht einen Hof in Hohenbachern mit dem gesamten Zehnt in diesem Dorf und
+einige Kolonen.
+
+REG$Abt Eberhard von Weihenstephan gewÑhrt auf Bitten des Freisinger Plebans
+Heinrich Adelheid, der Tochter Konrads von Hohenbachern (Gem. SÅnzhausen LK
+Freising), eine PfrÅnde auf Lebenszeit und verleiht genanntem Heinrich, Konrad
+und Ulrich gegen Zahlung von etwa 40 Regensburger Pfund und einer Karrade Weins
+zu Leibrecht einen Hof in Hohenbachern mit dem gesamten Zehnt in diesem Dorf und
+einige Kolonen.
+F$QE NF 27II/012/20f/20
+F$MB 09/X/486/486
+G$Adelheid/Genannte/Hohenbachern/Hohenbachern//G.SÅnzhausen LK Freising    ?
+E$X/Kloster/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+H$Wertangabe/Silber;Pfennige;Lebensmittel/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$contulit in argento, in nummmis, in victualibus circa quadraginta libras
+Ratisponenses
+
+DOK$QENF27II_018/1250.1.20/1250.1.20/1250 JÑnner 20/anno ab incarnatione domini MCCL.
+XIII. kal. februarii, indictione VIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Udalrich (II.) und der Konvent von Weihenstephan verpfÑnden dem Freisinger
+BÅrger Herbort einen Hof in Ober-(Unter-)Kienberg (Gem. Schlipps bzw.
+Allershausen LK Freising) unter dem Vorbehalt ihn weiterhin selbst in zeitlichen
+Bestand geben zu kînnen.
+
+REG$Abt Udalrich (II.) und der Konvent von Weihenstephan verpfÑnden dem Freisinger
+BÅrger Herbort gegen 10 Talent MÅncher MÅnze und 2 Talent Regensburger
+MÅnze einen Hof in Ober-(Unter-)Kienberg (Gem. Schlipps bzw. Allershausen LK
+Freising) unter dem Vorbehalt ihn weiterhin selbst in zeitlichen Bestand geben
+zu kînnen.
+F$QE NF 27II/018/226f/27
+F$MB 09/X/494f/494
+G$Herbort/BÅrger/Freising/Freising//Oberbayern/
+E$X/Kloster/Freising ,Weihenstephan/Freising,Weihenstephan//Oberbayern/
+H$PfandgeschÑft/Immobilien/Kienberg/Kienberg//LK Freising,G.Schlipps bzw.Allershausen/
+W$MÅnchen/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro X talentis Monacensis monete et duobus Ratisponensis obligavimus
+B$"Talent (Regensburger) MÅnze" aus dem Zusammenhang erschlossen.
+
+REG$Abt Udalrich (II.) und der Konvent von Weihenstephan verpfÑnden dem Freisinger
+BÅrger Herbort gegen 10 Talent MÅncher MÅnze und 2 Talent Regensburger
+MÅnze einen Hof in Ober-(Unter-)Kienberg (Gem. Schlipps bzw. Allershausen LK
+Freising) unter dem Vorbehalt ihn weiterhin selbst in zeitlichen Bestand geben
+zu kînnen.
+F$QE NF 27II/018/226f/27
+F$MB 09/X/494f/494
+G$Herbort/BÅrger/Freising/Freising//Oberbayern/
+E$X/Kloster/Freising ? Weihenstephan/Freising ? Weihenstephan//Oberbayern/
+H$PfandgeschÑft/Immobilien/Kienberg/Kienberg//LK Freising,G.Schlipps bzw.Allershausen/
+W$Regensburg/moneta/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro X talentis Monacensis monete et duobus Ratisponensis obligavimus
+B$"Talent (Regensburger) MÅnze" aus dem Zusammenhang erschlossen.
+
+DOK$QENF36I_122/1228.0.0/1231.0.0/1228 - 1231/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Heinrich von Scheyern kauft fÅr 84 Pfund Regensburger Pfennige von Konrad
+von Paindorf (Gem. Reichertshausen LK Pfaffenhofen) dessen gesamten dortigen
+Besitz mit allem Zubehîr durch den Salmann Gottfried von ((Ober-)Bachern (LK
+Dachau).
+
+REG$Abt Heinrich von Scheyern kauft fÅr 84 Pfund Regensburger Pfennige von Konrad
+von Paindorf (Gem. Reichertshausen LK Pfaffenhofen) dessen gesamten dortigen
+Besitz mit allem Zubehîr durch den Salmann Gottfried von (Ober-)Bachern (LK
+Dachau).
+F$QE NF 36I/122/117f/118
+F$MB 10/X/427/427
+G$Heinrich/Abt/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+E$Konrad/Genannter/Paindorf/Paindorf//LK Pfaffenhofen,G.Reichertshausen/
+H$Kauf/Immobilien/Paindorf/Paindorf//LK Pfaffenhofen,G.Reichertshausen/
+W$Regensburg/moneta/
+O$84/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro LXXXIIII talentis Ratisponensis monete
+
+DOK$QENF36II_001/1102.11.21/1102.11.21/1102 November 21/XI. k. decembris, indictione XI.,
+incarnationis domini\c{e}e anno MCIII., pontificatus autem domni Paschalis
+secundi pap\c{e} IIII./Benevent/Benevent//Italien/
+S$X/X/X
+V$Equitius/Pfalznotar/Equitius
+K$Papst Paschal II. nimmt das von seinen GrÅndern, der GrÑfin Haziga und ihren
+Sîhnen, den Grafen Ekkehard (I.), Bernhard (I.) und Otto (II. von Scheyern), dem
+hl. Stuhl Åbergebene Kloster St. Martin in Fischbachau (LK Miesbach) in den
+apostolischen Schutz, bestÑtigt seinen Besitz, erlaubt freie Abtwahl, gestattet
+Vornahme der Weihen durch den Diîzesanbischof, bestimmt den Grafen Otto (II.)
+und nach diesem dessen erstgeborenen Sohn als Vogt und setzt als jÑhrlichen
+Zins fÅr die von der rîmischen Kirche verliehenen Freiheiten einen
+Goldbyzantiner fest.
+
+REG$Papst Paschal II. nimmt das Kloster St. Martin in Fischbachau (LK Miesbach)
+in den apostolischen Schutz und setzt als jÑhrlichen Zins fÅr die von der
+rîmischen Kirche verliehenen Freiheiten einen Goldbyzantiner fest.
+F$QE NF 36II/001/3ff/4
+F$MB 10/X/437ff/438
+G$X/Kloster/Fischbachau/Fischbachau//LK Miesbach/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zins/Kloster/Fischbachau/Fischbachau//LK Miesbach/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/aureus/X/Z
+Q$Ad indicium autem percept\c{e} a Romana ecclesia libertatis quotannis
+Lateranensi palatio bizantium aureum persolvetis.
+
+DOK$QENF36II_003/1107.1.3/1107.1.3/1107 JÑnner 3/III. non. ianuarii anno dominic\c{e}
+incarnationis MCVII. indictione XV., anno autem ordinationis domni Heinrici
+quinti regis VIIII., regni II./Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Kînig Heinrich V. bestÑtigt die GrÅndung des Klosters St. Peter in Eisenhofen
+(LK Dachau) durch die Grafen Otto (II. von Scheyern) und Berthold (von Burgeck)
+und die öbergabe desselben in den pÑpstlichen Schutz gegen jÑhrliche Zahlung
+eines Goldbyzantiners an die Peterskirche in Rom, verleiht Freiheit von jeder
+weltlichen Herrschaft, erlaubt freie Abtwahl mit Recht zur vorzeitigen
+Absetzung, ÅbertrÑgt die Vogtei Graf Otto (II.) und dessen Ñltestem Sohn Otto
+(IV. von Wittelsbach) unter Festlegung ihrer Rechte, bestimmt die Hîhe der
+Bu·gelder fÅr die Entfremdung von Klosterbesitz, gewÑhrt den Ministerialen des
+Klosters die gleichen Rechte wie den Ministerialen der Reichsklîster und
+bestÑtigt den Klosterbesitz unter namentlicher AufzÑhlung der Schenkungen durch
+GrÑfin Haziga, Graf Bernhard (I. von Scheyern), Graf Otto (II. von Scheyern) und
+Graf Berthold (von Burgeck).
+
+REG$Kînig Heinrich V. bestÑtigt die GrÅndung des Klosters St. Peter in Eisenhofen
+(LK Dachau) durch die Grafen Otto (II. von Scheyern) und Berthold (von Burgeck)
+und bestimmt die Hîhe der Bu·gelder fÅr die Entfremdung von Klosterbesitz
+(von Weinbergen oder Huben) mit drei Talenten Gold, die an die kînigliche
+Schatzkammer zu zahlen sind.
+F$QE NF 36II/003/07ff/11
+F$MB 10/003/441ff/444
+G$X/X/X/X//
+E$X/Schatzkammer/Dt.kînigl./Dt.kînigl.//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/tal./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$tria auri talenta ad gazophilacium regis persolvat
+
+REG$Kînig Heinrich V. bestÑtigt die GrÅndung des Klosters St. Peter in Eisenhofen
+(LK Dachau) durch die Grafen Otto (II. von Scheyern) und Berthold (von Burgeck)
+und bestimmt die Hîhe der Bu·gelder fÅr die Entfremdung von Klosterbesitz
+(eines Hofes oder Dorfes) mit zehn Talenten Gold, die an die kînigliche
+Schatzkammer zu zahlen sind.
+F$QE NF 36II/003/07ff/11
+F$MB 10/003/441ff/444
+G$X/X/X/X//
+E$X/Schatzkammer/Dt.kînigl./Dt.kînigl.//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/tal./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$X auri talenta ad regiam item persolvat
+
+REG$Kînig Heinrich V. bestÑtigt die GrÅndung des Klosters St. Peter in Eisenhofen
+(LK Dachau) durch die Grafen Otto (II. von Scheyern) und Berthold (von Burgeck)
+und die öbergabe desselben in den apostolischen Schutz gegen jÑhrliche Zahlung
+eines Goldbyzantiners an die Peterskirche in Rom.
+F$QE NF 36II/003/07ff/11
+F$MB 10/003/441ff/445
+G$X/Kloster/Eisenhofen St.Peter/Eisenhofen,St.Peter//LK Dachau/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zins/Kloster/Eisenhofen St.Peter/Eisenhofen,St.Peter//LK Dachau/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/aureus/X/Z
+Q$ut unus aureus, quem byzanzium dicimus, singulis annis Romam \dots persolvatur
+
+DOK$QENF36II_005/1124.4.25/1124.4.25/1124 April 25/anno domini MCXXIIII., indictione
+XIII., VII. kl. maii/Bamberg/Bamberg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Kaiser Heinrich V. bestÑtigt die Verlegung des Klosters Eisenhofen (LK Dachau)
+nach Scheyern (LK Pfaffenhofen) und die öbergabe desselben in den pÑpstlichen
+Schutz durch die GrÑfin Beatrix und ihre Sîhne, die Grafen Konrad (I.) und Otto
+(I. von Dachau), sowie durch den Pfalzgrafen Otto (IV. von Wittelsbach) und
+seine Vettern Otto (III.), Bernhard (II.) und Ekkehard (II., alle Grafen von Scheyern)
+gegen jÑhrliche Zahlung eines Goldbyzantiners an die Peterskirche in Rom,
+verleiht Freiheit von jeder weltlichen Herrschaft, erlaubt freie Abtwahl mit
+Recht zur vorzeitigen Absetzung, ÅbertrÑgt die Vogtei dem Pfalzgrafen Otto (IV.
+von Wittelsbach) und seinen Sîhnen unter Festlegung ihrer Rechte, bestimmt die
+Hîhe der Bu·gelder fÅr die Entfremdung von Klosterbesitz und gewÑhrt den
+Ministerialen des Klosters die gleiche Rechte wie den Ministerialen der
+Reichsklîster.
+
+REG$Kaiser Heinrich V. bestÑtigt die Verlegung des Klosters Eisenhofen (LK
+Dachau) nach Scheyern (LK Pfaffenhofen) und die öbergabe desselben in den
+apostolischen Schutz gegen jÑhrliche Zahlung eines Goldbyzantiners an die
+Peterskirche in Rom.
+F$QE NF 36II/005/16ff/18
+F$MB 10/005/449ff/450
+G$X/Kloster/Eisenhofen St.Peter/Eisenhofen,St.Peter//LK Dachau/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zins/Kloster/Eisenhofen St.Peter/Eisenhofen,St.Peter//LK Dachau/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/nummus/aureus/Z
+Q$aureus nummus, quem bizancium dicimus
+
+REG$Kaiser Heinrich V. bestÑtigt die Verlegung des Klosters Eisenhofen (LK
+Dachau) nach Scheyern (LK Pfaffenhofen) und bestimmt die Hîhe der Bu·gelder fÅr
+die Entfremdung von Klosterbesitz (von Weinbergen oder Huben) mit drei Talenten
+Gold, die an die kînigliche Schatzkammer zu zahlen sind.
+F$QE NF 36II/005/16ff/19
+F$MB 10/005/449ff/451
+G$X/X/X/X//
+E$X/Schatzkammer/Dt.kînigl./Dt.kînigl.//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/tal./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$ad fiscum regis tria talenta auri persolvat
+
+REG$Kaiser Heinrich V. bestÑtigt die Verlegung des Klosters Eisenhofen (LK
+Dachau) nach Scheyern (LK Pfaffenhofen) und bestimmt die Hîhe der Bu·gelder fÅr
+die Entfremdung von Klosterbesitz (eines Hofes oder Dorfes) mit zehn Talenten
+Gold, die an die kînigliche Schatzkammer zu zahlen sind.
+F$QE NF 36II/005/16ff/19
+F$MB 10/005/449ff/451
+G$X/X/X/X//
+E$X/Schatzkammer/Dt.kînigl./Dt.kînigl.//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/tal./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$decem talenta auri ad cameram regis persolvat
+
+DOK$QENF36II_009/1145.4.30/1145.4.30/1145 April 30/II. kl. maii, indictione VIII.,
+incarnationis dominic\c{e} anno MCXLV., pontificatus vero domni Eugenii III.
+pape anno primo/Viterbo/Viterbo//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Eugen III. nimmt das Kloster Scheyern unter Abt Ulrich (III.) nach dem
+Beispiel der PÑpste Paschal II. und Calixt II. in den apostolischen Schutz,
+bestÑtigt seinen Besitz, namentlich die Orte Fischbachau (LK Miesbach) und
+Eisenhofen (LK Dachau), an denen sich die Mînche frÅher niedergelassen und die
+die erwÑhnten VorgÑnger bestÑtigt hatten, Zehntrechte und die Schenkungen der
+GrÅnderfamilie, erlaubt die Vornahme der Weihen durch den Diîzesanbischof,
+gewÑhrt freie Abtwahl, verleiht das BegrÑbnisrecht, erlaubt freie Wahl des
+Vogtes unter Verbot der Erblichkeit der Vogtei und setzt als Abgabe fÅr den
+pÑpstlichen Schutz einen Goldbyzantiner fest.
+
+REG$Papst Eugen III. nimmt das Kloster Scheyern unter Abt Ulrich (III.)
+in den apostolischen Schutz und setzt als Abgabe fÅr den pÑpstlichen Schutz
+einen Goldbyzantiner fest.
+F$QE NF 36II/009/25ff/27
+F$MB 10/008/454ff/455
+G$X/Kloster/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+E$X/Kirche/Rom/Rom//Italien/
+H$Zins/Kloster/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/aureus/X/Z
+Q$Ad indicium autem \dots a sede apostolica percept\c{e} protectionis
+bizantium aureum \dots annis singulis persolvetis.
+B$Als VU dienten die Urkunden 1, 2 und 4 (QE NF 36 II).
+
+DOK$QENF36II_018/1209.4.6/1209.4.6/1209 April 6/anno dominic\c{e} incarnationis
+MCCVIIII., indictione XII., VIII. idus aprilis, regnante illustri rege
+Ottone/Aichach/Aichach//LK Aichach-Friedberg,Schwaben/
+S$X/X/X
+V$X/X/X
+K$Propst Rapoto von IlmmÅnster (LK Pfaffenhofen) und Dekan Berthold
+von Pettendorf (LK Regensburg) entscheiden als pÑpstliche
+Delegatrichter einen Streit Åber das Patronatsrecht an der Pfarrkirche
+Berg (im Gau LK Neuburg-Schrobenhausen) zwischen Abt Konrad von
+Scheyern, der den Kleriker Ludwig von Berg als Pfarrer fÅr die vakante
+Pfarrei prÑsentierte, und Bruno von Eberstall (LK GÅnzburg), der den
+Magister Ulrich von St. Moritz (in Augsburg) prÑsentierte, wonach
+einerseits Bruno von Eberstall und sein Sohn Heinrich das
+Patronatsrecht des Klosters anerkennen mÅssen, andererseits das
+Kloster deren Kirchenvogtei als Lehen Herzog Ludwigs (I.) von Bayern.
+Magister Ulrich erhÑlt vom Abt und vom Konvent des Klosters als
+EntschÑdigung zwei Hîfe in Inchenhofen (LK Aichach-Friedberg) zum
+Nie·brauch auf Lebzeit.
+
+REG$Im Streit Åber das Patronatsrecht an der Pfarrkirche Berg (im Gau LK
+Neuburg-Schrobenhausen) zwischen Abt Konrad von Scheyern, der den
+Kleriker Ludwig von Berg als Pfarrer fÅr die vakante Pfarrei
+prÑsentiert, und Bruno von Eberstall (LK GÅnzburg), der den Magister
+Ulrich von St. Moritz (in Augsburg) prÑsentierte, erhÑlt Magister
+Ulrich vom Abt und vom Konvent des Klosters als EntschÑdigung zwei
+Hîfe in Inchenhofen (LK Aichach-Friedberg) gegen einen jÑhrlichen Zins
+in der Hîhe von einem Augsburger oder Regensburger Pfennig zur
+Nutznie·ung auf Lebzeit.
+F$QE NF 36II/018/41ff/44
+F$MB 10/013/461ff/463
+G$Ulrich/Magister/Augsburg/Augsburg,St.Moritz//Schwaben/
+E$X/Kloster/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+H$Zins/Immobilien/Inchenhofen/Inchenhofen//LK Aichach-Friedberg/
+W$Augsburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Augsburger Pf./1 Regensburger Pf.
+Q$unus denarius Augustensis vel Ratisponensis monet\c{e} solvatur
+
+REG$Im Streit Åber das Patronatsrecht an der Pfarrkirche Berg (im Gau LK
+Neuburg-Schrobenhausen) zwischen Abt Konrad von Scheyern, der den
+Kleriker Ludwig von Berg als Pfarrer fÅr die vakante Pfarrei
+prÑsentiert, und Bruno von Eberstall (LK GÅnzburg), der den Magister
+Ulrich von St. Moritz (in Augsburg) prÑsentierte, erhÑlt Magister
+Ulrich vom Abt und vom Konvent des Klosters als EntschÑdigung zwei
+Hîfe in Inchenhofen (LK Aichach-Friedberg) gegen einen jÑhrlichen Zins
+in der Hîhe von einem Augsburger oder Regensburger Pfennig zur
+Nutznie·ung auf Lebzeit.
+F$QE NF 36II/018/41ff/44
+F$MB 10/013/461ff/463
+G$Ulrich/Magister/Augsburg/Augsburg,St.Moritz//Schwaben/
+E$X/Kloster/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+H$Zins/Immobilien/Inchenhofen/Inchenhofen//LK Aichach-Friedberg/
+W$Regensburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Regensburger Pf./1 Augsburger Pf.
+Q$unus denarius Augustensis vel Ratisponensis monet\c{e} solvatur
+
+DOK$QENF36II_026/1245.0.0/1245.0.0/1245/anno gratie MCCXLV./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Konrad (I.) von Freising schlichtet einen Streit zwischen
+dem Kloster St. Martin in Fischbachau und den Tîchtern Wergands von
+Achatswies (Gem. Fischbachau LK Miesbach) Åber dessen Schenkung an
+diesem Ort und spricht dem Kloster den Besitz zu, verpflichtet es aber
+zu einer Zahlung von sechs Pfund MÅnchner Pfennige an die Tîchter.
+
+REG$Bischof Konrad (I.) von Freising schlichtet einen Streit zwischen
+dem Kloster St. Martin in Fischbachau und den Tîchtern Wergands von
+Achatswies (Gem. Fischbachau LK Miesbach) Åber dessen Schenkung an
+diesem Ort und spricht dem Kloster den Besitz zu, verpflichtet es aber
+zu einer Zahlung von sechs Pfund MÅnchner MÅnze an die Tîchter.
+F$QE NF 36II/026/55f/55
+G$X/Kloster/Fischbachau/Fischbachau,St.Martin//LK Miesbach/
+E$X/Genannte/Fischbachau Achatswies/Fischbachau,Achatswies//LK
+Miesbach,G.Fischbachau/
+H$Ablîse/Immobilien/Fischbachau Achatswies/Fischbachau,Achatswies//LK
+Miesbach,G.Fischbachau/
+W$MÅnchen/moneta/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$sex libre Monacensis monete persolverentur
+
+DOK$QENF36II_079b/1209.0.0/1210.0.0/1209 - 1210/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abgaben an die Propstei von Scheyern im Gebirge.
+
+REG$Von Stadel und von Loth werden im dritten Jahr fÅnf halbe Talent Veroneser
+MÅnze gegeben.
+F$QE NF 36II/079b/159f/159
+G$X/X/X/X//
+E$X/Propstei/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+H$Zins/Immobilien/Lothen Stadlerhof/Lothen,Stadlerhof/Stadel/abg.auf d.Berg
+Loten i.Pustertal,SÅdtirol/
+W$Verona/moneta/
+O$2,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad steuram V dimidia talenta Veronensis monet\c{e}
+B$Urbar
+
+DOK$QENF36II_375b/1216.0.0/1220.0.0/1216 - 1220/X/X/X//
+S$X/X/X
+V$X/X/X
+K$GÅter- und EinkÅnfteverzeichnis von der Propstei Scheyern.
+
+REG$Von Stadel und von Loth werden im dritten Jahr fÅnf halbe Talent Veroneser
+MÅnze gegeben.
+F$QE NF 36II/375b/191/191
+G$X/X/X/X//
+E$X/Propstei/Scheyern/Scheyern//LK Pfaffenhofen a.d.Ilm/
+H$Zins/Immobilien/Lothen Stadlerhof/Lothen,Stadlerhof/Stadel/abg.auf d.Berg
+Loten i.Pustertal,SÅdtirol/
+H$Zins/Immobilien/Lothen/Lothen/Loth/Berg u.Ort i.Pustertal,SÅdtirol/
+W$Verona/moneta/
+O$2,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$steuram V dimidia talenta Veronensis monet\c{e}
+B$Urbar
+
+DOK$QENF21_073/1160.0.0/1180.0.0/1160 - 1180/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Eberhard von GrÅnbach (Ober-, Unter-, Gem. Laaberberg, LK Rottenburg)
+verpfÑndet Besitz daselbst an Stift Rohr.
+
+REG$Eberhard von GrÅnbach (Ober-, Unter-, Gem. Laaberberg, LK Rottenburg)
+verpfÑndet Besitz daselbst um 30 Talent Regensburger MÅnze an Stift Rohr.
+F$QE NF 21/073/76f/77
+G$Eberhard/Genannter/Laaberberg GrÅnbach/Laaberberg,GrÅnbach//LK
+Rottenburg,G.Laaberberg/
+E$X/Stift/Rohr/Rohr//LK Rottenburg/
+H$Pfand_Einlîse/Immobilien/Laaberberg GrÅnbach/Laaberberg,GrÅnbach//LK
+Rottenburg,G.Laaberberg/
+W$Regensburg/moneta probata/
+O$30/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum XXX talentis Ratisponensis monete probate
+
+DOK$QENF21_095/1180.0.0/1184.0.0/1180 - 1184/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Ulrich I. von Rohr verkauft mit Zustimmung seines Konvents einen Hof in
+Mantlkirchen (Gem. Kirchdorf, LK Kelheim) an Heinrich und Tuta zu Leibrecht.
+
+REG$Propst Ulrich I. von Rohr verkauft mit Zustimmung seines Konvents einen Hof in
+Mantlkirchen (Gem. Kirchdorf, LK Kelheim) um 20 Talent Regensburger MÅnze an
+Heinrich und Tuta zu Leibrecht.
+F$QE NF 21/095/96/96
+G$Heinrich;Tuta/X/X/X//
+E$Ulrich I./Propst/Rohr/Rohr//LK Rottenburg/
+H$Kauf/Immobilien/Kirchdorf Mantlkirchen/Kirchdorf,Mantlkirchen//LK
+Kelheim,G.Kirchdorf/
+W$Regensburg/moneta/
+O$20/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Empcio facta est XX talentis Ratisponensis monete.
+
+DOK$QENF21_099/1183.7.11/1189.8.18/1183 Juli 11 - 1189 August 18/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Herzogmutter Agnes stellt ihren gesamten Eigenbesitz fÅr die RÅckzahlung
+des von Stift Rohr geliehenen Geldes (vgl. Tr. 98) als Sicherheit.
+
+REG$Die Herzogmutter Agnes stellt ihren gesamten Eigenbesitz fÅr die RÅckzahlung
+des von Stift Rohr geliehenen Geldes (vgl. Tr. 98), nÑmlich 90 Talent
+Regensburger MÅnze, als Sicherheit.
+F$QE NF 21/099/101f/102
+G$Agnes/Herzoginmutter?/Bayern/Bayern//wo??
+E$X/Stift/Rohr/Rohr//LK Rottenburg/
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta probata publica/
+O$90/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$donec reddantur XL talenta Ratisbonensis monete probate publice
+B$(Tr. 98 Die Herzogmutter Agnes und Herzog Ludwig I. verpfÑnden an Stift Rohr fÅr
+ein Darlehen von 90 Talenten zwei Hîfe in Rohr unter Vorbehalt des
+Eigentumsrechtes fÅr Heinrich von Freundsbach.) XL wohl verschrieben fÅr XC.
+
+DOK$QENF21_100/1183.7.11/1192.0.0/1183 Juli 11 - um 1192/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ekbert ÅberlÑ·t gegen eine Abfindung das Nutzungsrecht seines Hofes zu
+Alzhausen (Gem. Laaberberg, LK Rottenburg) an Stift Rohr.
+
+REG$Ekbert ÅberlÑ·t gegen eine Abfindung das Nutzungsrecht seines Hofes zu
+Alzhausen (Gem. Laaberberg, LK Rottenburg), nachdem er sich 15 Talent geborgt
+hat, Stift Rohr.
+F$QE NF 21/100/102f/103
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$Ekbert/X/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$15/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$mutuatis XV talentis
+
+REG$Ekbert ÅberlÑ·t gegen eine Abfindung? in der Hîhe von 15 Talent das
+Nutzungsrecht seines Hofes zu Alzhausen (Gem. Laaberberg, LK Rottenburg) an
+Stift Rohr.
+F$QE NF 21/100/102f/103
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$Ekbert/X/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$15/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$mutuatis item aliis XV talentis
+
+REG$Ekbert ÅberlÑ·t gegen eine Abfindung das Nutzungsrecht seines Hofes zu
+Alzhausen (Gem. Laaberberg, LK Rottenburg) an Stift Rohr, bis die 30 Talent
+Regensburger MÅnze zurÅckbezahlt werden.
+F$QE NF 21/100/102f/103
+G$Ekberg/X/X/X//
+E$X/Kirche/Rohr/Rohr//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta probata publica/
+O$30/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$donec XXX talenta Ratisponensis monete probate publice prefate ecclesie
+reddantur
+
+DOK$QENF21_108/1231.0.0/1236.0.0/1231 - 1236/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) von Rohr kauft fÅr 40 Talent Pfennige Regensburger MÅnze von
+Ulrich von Kammer (Hohen-, LK Freising) einen Hof zu Rohr.
+
+REG$Propst (Hugo II.) von Rohr kauft fÅr 40 Talent Pfennige Regensburger MÅnze von
+Ulrich von Kammer (Hohen-, LK Freising) einen Hof zu Rohr.
+F$QE NF 21/108/109ff/110
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Ulrich/Genannter/Hohenkammer/Hohenkammer/Kammer/LK Freising/
+H$Kauf/Immobilien/Rohr/Rohr//LK Rottenburg/
+W$Regensburg/moneta/
+O$40/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XL talentis denariorum Ratisponensis monete comparavimus
+
+DOK$QENF21_109/1231.0.0/1236.0.0/1231 - etwa 1236/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Hugo II. von Rohr kauft fÅr 24 Pfund Regensburger MÅnze von Ulrich
+von Schrobenhausen eine Hube zur Rohr.
+
+REG$Propst Hugo II. von Rohr kauft fÅr 24 Pfund Regensburger MÅnze von Ulrich
+von Schrobenhausen eine Hube zur Rohr.
+F$QE NF 21/109/111f/111
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Ulrich/Genannter/Schrobenhausen/Schrobenhausen//OB/
+H$Kauf/Immobilien/Rohr/Rohr//LK Rottenburg/
+W$Regensburg/moneta/
+O$24/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXIIII talentis Ratisponensis monete comparavimus
+
+DOK$QENF21_112/1240.0.0/1245.12.12?/1240 - 1245 Dezember 12/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) von Rohr kauft mit Billigung seines Konventes fÅr 60 Talent
+Pfennige Regensburger MÅnze von Eberhard und Rudger von Laaber (Gem. Laaberberg,
+LK Rottenburg) einen Hof zu Laaber, den diese von Schenk Leutold von Au (
+Schenkenau, LK Schrobenhausen) zu Lehen hatten, der aber seinerseits mit diesem
+Hof von Bischof Friedrich II. von EichstÑtt beliehen war, der wiederum auf sein
+Recht zugunsten des Stiftes verzichtete.
+
+REG$Propst (Hugo II.) von Rohr kauft mit Billigung seines Konventes fÅr 60 Talent
+Pfennige Regensburger MÅnze von Eberhard und Rudger von Laaber (Gem. Laaberberg,
+LK Rottenburg) einen Hof zu Laaber, den diese von Schenk Leutold von Au (
+Schenkenau, LK Schrobenhausen) zu Lehen hatten, der aber seinerseits mit diesem
+Hof von Bischof Friedrich II. von EichstÑtt beliehen war, der wiederum auf sein
+Recht zugunsten des Stiftes verzichtete.
+F$QE NF 21/112/114f/115
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Eberhard;Rudger/Genannter/Laaberberg/Laaber//LK Rottenburg,G.Laaberberg/
+H$Kauf/Immobilien/Laaberberg/Laaber//LK Rottenburg,G.Laaberberg/
+W$Regensburg/moneta/
+O$60/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro LX talentis denariorum Ratisponensis monete comparavimus
+
+DOK$QENF21_113/1242.0.0/1245.5.31/1242 - 1245 Mai 31/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Hugo II. von Rohr kauft mit Zustimmung seines Konvents fÅr 22 Talent
+Pfennnige Regensburger MÅnze von Siegfried Eiterstein und dessen Gattin einen
+Hof zu Obereulenbach (LK Rottenburg), den leztere von Albert von Siegenstein
+(LK Roding) zu Lehen hatte, der seinerseits mit diesem Hof von Bischof
+Siegfried I. von Regensbuurg belehnt war.
+
+REG$Propst Hugo II. von Rohr kauft mit Zustimmung seines Konvents fÅr 22 Talent
+Pfennnige Regensburger MÅnze von Siegfried Eiterstein und dessen Gattin einen
+Hof zu Obereulenbach (LK Rottenburg), den leztere von Albert von Siegenstein
+(LK Roding) zu Lehen hatte, der seinerseits mit diesem Hof von Bischof
+Siegfried I. von Regensbuurg belehnt war.
+F$QE NF 21/113/115f/116
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Siegfried Eiterstein/X/X/X//
+H$Kauf/Immobilien/Obereulenbach/Obereulenbach//LK Rottenburg/
+W$Regensburg/moneta/
+O$22/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XX duobus talentis denariorum Ratisponensis monete \dots comparavimus
+
+DOK$QENF21_114/1242.0.0/1245.5.31/1242 - 1245 Mai 31/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) von Rohr erwirbt mit Zustimmung seines Konvents fÅr 30
+Talent Pfennige Regensburger MÅnze von Friedrich und dessen Vater Ratold von
+Perge (welches?) einen Hof zu Asenkofen (Gem. Winklsa·, LK Mallersdorf), den
+jene von Herzog Friedrich II. von ôsterreich zu Lehen hatten, der ihn
+seinerseits von Bischof Siegfried von Regensburg zu Lehen trug, der aber
+gegenÅber dem Stift auf sein Eigentumsrecht verzichtet.
+
+REG$Propst (Hugo II.) von Rohr erwirbt mit Zustimmung seines Konvents fÅr 30
+Talent Pfennige Regensburger MÅnze von Friedrich und dessen Vater Ratold von
+Perge (welches?) einen Hof zu Asenkofen (Gem. Winklsa·, LK Mallersdorf), den
+jene von Herzog Friedrich II. von ôsterreich zu Lehen hatten, der ihn
+seinerseits von Bischof Siegfried von Regensburg zu Lehen trug, der aber
+gegenÅber dem Stift auf sein Eigentumsrecht verzichtet.
+F$QE NF 21/114/116ff/117
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Friedrich;Ratold/Genannter/uNBayern Rohrberg oder Hindlingberg??/
+uNBayern,Rohrberg oder Hindlingberg??/Perge/LK Rottenburg,G.Hebramsdorf oder LK
+Mallersdorf/
+H$Kauf/Immobilien/Asenkofen/Asenkofen//LK Mallersdorf,G.Winklsa·       Moosberg,G.Weng,LK Landshut??
+W$Regensburg/moneta/
+O$30/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XXX talentis denariorum Ratisponensis monete comparavimus
+
+DOK$QENF21_115/1247.0.0/1248.0.0/1247 - 1248/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) von Rohr erwirbt mit Zustimmung seines Konvents fÅr 26
+Talent Regensburger MÅnze von Konrad von Mantlkirchen (Gem. Kirchdorf, LK
+Kelheim) einen Hof zu Tollbach (Gem. Siegenburg, LK Kelheim), den jener von Otto
+von Abensberg (LK Kelkheim) zu Lehen hatte, der seinerseits mit diesem Hof von
+Bischof Albert I. von Regensburg belehnt war, der aber gegenÅber dem Stift auf
+sein Obereigentumsrecht verzichtete.
+
+REG$Propst (Hugo II.) von Rohr erwirbt mit Zustimmung seines Konvents fÅr 26
+Talent Regensburger MÅnze von Konrad von Mantlkirchen (Gem. Kirchdorf, LK
+Kelheim) einen Hof zu Tollbach (Gem. Siegenburg, LK Kelheim), den jener von Otto
+von Abensberg (LK Kelkheim) zu Lehen hatte, der seinerseits mit diesem Hof von
+Bischof Albert I. von Regensburg belehnt war, der aber gegenÅber dem Stift auf
+sein Obereigentumsrecht verzichtete.
+F$QE NF 21/115/118f/119
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Konrad/Genannter/Kirchdorf Mantlkirchen/Kirchdorf,Mantlkirchen//LK
+Kelheim,G.Kirchdorf/
+H$Kauf/Immobilien/Tollbach/Tollbach//LK Kelheim,G.Siegenburg/
+W$Regensburg/moneta/
+O$26/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XXVI talentis Ratisponensis monete comparavimus
+
+DOK$QENF21_118/1247.0.0/1248.0.0/1247 - 1248/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) von Rohr erwirbt mit Zustimmung seines Konvents fÅr 30
+Talent Regensburger Pfennige von den GebrÅdern Konrad, Friedrich und Leubmann
+einen Hof in Mantlkirchen (Gem. Kirchdorf, LK Kelheim).
+
+REG$Propst (Hugo II.) von Rohr erwirbt mit Zustimmung seines Konvents fÅr 30
+Talent Regensburger Pfennige von den GebrÅdern Konrad, Friedrich und Leubmann
+einen Hof in Mantlkirchen (Gem. Kirchdorf, LK Kelheim).
+F$QE NF 21/118/122f/123
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Konrad;Friedrich;Leubmann/X/X/X//
+H$Kauf/Immobilien/Kirchdorf Mantlkirchen/Kirchdorf,Mantlkirchen//LK
+Kelheim,G.Kirchdorf/
+W$Regensburg/X/
+O$30/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XXX talentis Ratisponensium denariorum comparavimus
+
+DOK$QENF21_119/1247.0.0/1248.0.0/1247 - 1248/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) und der Konvent von Rohr verkaufen auf Rat der Bischîfe
+Siegfried I. von Regensburg und Konrad I. von Freising aus dem Fundationsbesitz
+die GÅter in Berg (Gem. Oberhausen, LK Weilheim) und Bergerried (St. Nikolaus,
+Gem. Ammerhîfe, LK Weilheim) fÅr 128 Talent Pfennige MÅncher MÅnze an Heinrich von
+Weilheim, wofÅr sie unter HinzufÅgung von 57 Talent Regensburger MÅnze je
+einen Hof zu Eilantshouen (? Allhofen, Gem. Kirchdorf), Ursbach (Gem.
+Sallingberg), Schneidhart (Mitter-, Ober-, Unter-, alle LK Kelheim) und Egglfing
+(Gem. Kîfering, LK Regensburg) erwerben.
+
+REG$Propst (Hugo II.) und der Konvent von Rohr verkaufen auf Rat der Bischîfe
+Siegfried I. von Regensburg und Konrad I. von Freising aus dem Fundationsbesitz
+die GÅter in Berg (Gem. Oberhausen, LK Weilheim) und Bergerried (St. Nikolaus,
+Gem. Ammerhîfe, LK Weilheim) fÅr 128 Talent Pfennige MÅncher MÅnze an Heinrich von
+Weilheim, wofÅr sie unter HinzufÅgung von 57 Talent Regensburger MÅnze je
+einen Hof zu Eilantshouen (? Allhofen, Gem. Kirchdorf), Ursbach (Gem.
+Sallingberg), Schneidhart (Mitter-, Ober-, Unter-, alle LK Kelheim) und Egglfing
+(Gem. Kîfering, LK Regensburg) erwerben.
+F$QE NF 21/119/123ff/125
+G$Heinrich II./Genannter/Weilheim/Weilheim//OB/
+E$X/Stift/Rohr/Rohr//LK Rottenburg/
+H$Kauf/Immobilien/Berg_a.Inn/Berg/Berg/LK Weilheim,G.Oberhausen/
+H$Kauf/Immobilien/Ammerhîfe/Ammerhîfe,St.Nikolaus/Bergerried/LK
+Weilheim,G.Ammerhîfe/
+W$MÅnchen/moneta/
+O$128/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro CXXVIII talentis denariorum Monacensis monete vendidimus
+B$67 Pfund im Regest sind wohl ein Druckfehler.
+
+REG$Propst (Hugo II.) und der Konvent von Rohr verkaufen auf Rat der Bischîfe
+Siegfried I. von Regensburg und Konrad I. von Freising aus dem Fundationsbesitz
+dei GÅter in Berg (Gem. Oberhausen, LK Weilheim) und Bergerried (St. Nikolaus,
+Gem. Ammerhîfe, LK Weilheim) fÅr 128 Talent Pfennige MÅncher MÅnze an Heinrich von
+Weilheim, wofÅr sie unter HinzufÅgung von 57 Talent Regensburger MÅnze je
+einen Hof zu Eilantshouen (? Allhofen, Gem. Kirchdorf), Ursbach (Gem.
+Sallingberg), Schneidhart (Mitter-, Ober-, Unter-, alle LK Kelheim) und Egglfing
+(Gem. Kîfering, LK Regensburg) erwerben.
+F$QE NF 21/119/123ff/125
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$X/X/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$57/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$additis LVII talentis Ratisponensis monete pro quatuor prediis dedimus.
+B$67 Pfund im Regest sind wohl ein Druckfehler.
+
+REG$Propst (Hugo II.) und der Konvent von Rohr kaufen fÅr 46 Talent Regensburger
+MÅnze von Konrad von Imnantshouen einen Hof zu Eilantshouen (? Allhofen, Gem.
+Kirchdorf).
+F$QE NF 21/119/123ff/126
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$Konrad/Genannter/uBayern Imnantshouen/uBayern,Imnantshouen//unbestimmbar/
+H$Kauf/Immobilien/Kirchdorf Allhofen/Kirchdorf,?Allhofen/Eilantshouen/LK
+Kelheim,G.Kirchdorf/
+W$Regensburg/moneta/
+O$46/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$comparavimus pro XLVI talentis Ratisponensis monete
+
+REG$Propst (Hugo II.) und der Konvent von Rohr kaufen fÅr 17 Talent Regensburger
+MÅnze von Berthold von Harlanden (Holz-, Sand-, LK Kelheim) einen Hof zu Ursbach
+(Gem. Sallingberg).
+F$QE NF 21/119/123ff/126
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$Berthold/Genannter/Harlanden/Harlanden/Harlanden/LK Kelheim/
+H$Kauf/Immobilien/Sallingberg Ursbach/Sallingberg,Ursbach//LK
+Kelheim,G.Sallingberg/
+W$Regensburg/moneta/
+O$17/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XVII talentis Ratisponensis monete
+
+REG$Propst (Hugo II.) und der Konvent von Rohr kaufen fÅr 46 Talent Regensburger
+MÅnze von Friedrich von Perge und dessen Frau einen Hof zu Schneidhart (Mitter-,
+Ober-, Unter-, alle LK Kelheim).
+F$QE NF 21/119/123ff/126
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$Friedrich/Genannter/Berg_a.Inn/Berg/Perge/LK Kelheim,G.Oberhausen/
+H$Kauf/Immobilien/Schneidhart/Mitter-,Ober-,Unterschneidhart/Schneidhart/LK
+Kelheim/
+W$Regensburg/moneta/
+O$46/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$comparavimus \dots pro XLVI talentis denariorum Ratisponensis monete
+
+REG$Propst (Hugo II.) und der Konvent von Rohr kaufen fÅr 46 Talent Regensburger
+MÅnze von Friedrich von Perge einen Hof zu Egglfing (Gem.
+Kîfering, LK Regensburg).
+F$QE NF 21/119/123ff/126
+G$X/Stift/Rohr/Rohr//LK Rottenburg/
+E$Friedrich/Genannter/Berg_a.Inn/Berg/Perge/LK Kelheim,G.Oberhausen/
+H$Kauf/Immobilien/Egglfing/Egglfing//LK Regensburg,G.Kîfering/
+W$Regensburg/moneta/
+O$46/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$con|paravimus pro XLVI talentis Ratisponensium denariorum
+
+DOK$QENF21_120/1247.0.0/1248.0.0/ca. 1247 - 1248/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst (Hugo II.) von Rohr kauft mit Zustimmung seines Konvents fÅr 30 Talent
+Pfennige Regensburger MÅnze von Berthold von Rain (LK Straubing) die
+Vogteirechte Åber die Rohrer GÅter in Bertholsloh (abg. bei Rain), in Alburg und
+Åber zwei Hîfe in Kay (Gem. Alburg, alle LK Straubing), ferner Åber zwei
+Fischwasser in Metting (LK Straubing) und in Laaber (? Gem. Laaberberg, LK
+Rottenburg) nahe dem Hof Buch (abg.).
+
+REG$Propst (Hugo II.) von Rohr kauft mit Zustimmung seines Konvents fÅr 30 Talent
+Pfennige Regensburger MÅnze von Berthold von Rain (LK Straubing) die
+Vogteirechte Åber die Rohrer GÅter in Bertholsloh (abg. bei Rain), in Alburg und
+Åber zwei Hîfe in Kay (Gem. Alburg, alle LK Straubing), ferner Åber zwei
+Fischwasser in Metting (LK Straubing) und in Laaber (? Gem. Laaberberg, LK
+Rottenburg) nahe dem Hof Buch (abg.).
+F$QE NF 21/120/127f/127
+G$Hugo II./Propst/Rohr/Rohr//LK Rottenburg/
+E$Berthold/Genannter/Rain/Rain//LK Straubing/
+H$Kauf/Vogteirechte/Rain Bertholsloh/Rain (Bertholsloh)//LK
+Straubing,abg.b.Rain/
+H$Kauf/Vogteirechte/Alburg/Alburg//LK Straubing/
+H$Kauf/Vogteirechte/Kay/Kay//LK Straubing,G.Alburg/
+H$Kauf/Vogteirechte/Metting/Metting//LK Straubing/
+H$Kauf/Vogteirechte/Laaberberg ?/Laaber//LK Rottenburg,?G.Laaberberg/
+W$Regensburg/moneta/
+O$30/tal./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XXX talentis denariorum Ratisponensis monete comparavimus
+
+DOK$QENF21_023/1241.1.1/1241.9.23/1241 vor September 24/X/MÅhldorf/MÅhldorf//OB/
+S$X/Salzburg/X
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg ÅbertrÑgt dem Stift Rohr die Kapelle
+Eschenhart (LK Rottenburg, heute Pfr. PÅrkwang) zur Bestreitung der Beleuchtung
+gegen Haltung eines Jahrtages nach dem Tod des EB und einer jÑhrlichen Zahlung
+von 30 Salzburger Pfennigen als Anerkennung des dem EB zustehenden Patronats.
+
+REG$Erzbischof Eberhard II. von Salzburg ÅbertrÑgt dem Stift Rohr die Kapelle
+Eschenhart (LK Rottenburg, heute Pfr. PÅrkwang) zur Bestreitung der Beleuchtung
+gegen Haltung eines Jahrtages nach dem Tod des EB und einer jÑhrlichen Zahlung
+von 30 Salzburger Pfennigen als Anerkennung des dem EB zustehenden Patronats.
+F$QE NF 21/023/171f/172
+F$SUB 3/0978a/527f/528
+F$MB 16/018/121f/122
+G$X/Kapitel/Rohr/Rohr//LK Rottenburg/
+E$X/Altar/Salzburg/Salzburg,Hl.Rupert//S/
+H$Zahlungsverpflichtung/Patronat/Eschenhart/Eschenhart//LK Rottenburg,heute Pfr.PÅrkwang/
+W$Salzburg/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$XXX denarios Salzburgenses offerre super altare beati Ruberti annis singulis
+similiter teneatur.
+
+DOK$QENF21_024/1241.9.0/1241.9.0/1241 ca. September/X/X/X//
+S$X/Salzburg/X
+V$X/X/X
+K$Propst Otto II., Dekan Heinrich und das Domkapitel von Salzburg stimmen der
+von Erzbischof Eberhard II. von Salzburg vorgenommenen Schenkung der Kapelle in
+Eschenhart (Gem. Wildenberg, LK Rottenburg) an Stift Rohr zu.
+
+REG$Propst Otto II., Dekan Heinrich und das Domkapitel von Salzburg
+stimmen der von Erzbischof Eberhard II. von Salzburg vorgenommenen Schenkung der
+Kapelle in Eschenhart (Gem. Wildenberg, LK Rottenburg) an Stift Rohr und der
+jÑhrlichen Zahlung von 30 Salzburger Pfennigen als Anerkennung des dem EB
+zustehenden Patronats zu.
+F$QE NF 21/024/172f/173
+F$SUB 3/0978b/529/529
+F$MB 16/019/122f/123
+G$X/Kapitel/Rohr/Rohr//LK Rottenburg/
+E$X/Altar/Salzburg/Salzburg,Hl.Rupert//S/
+H$Zahlungsverpflichtung/Patronat/Eschenhart/Eschenhart//LK Rottenburg,G.Wildenberg/
+W$Salzburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$XXX denarios Salzburgensis monete offere
+B$Als Vorurkunde dient Nr. 23. Dort wird "moneta" nicht erwÑhnt.
+
+DOK$QENF21_028/1248.5.9/1248.5.9/1248 Mai 9/anno domini MCCXLVIII. VII idus mai/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Gottfried und der Konvent von Rohr geben Albert von Schierling (LK
+Mallersdorf) und seinem Sohn Wolfgang ihren Hof zu Gebraching (Hohen-, Nieder-,
+LK Regensburg), auf dem Albert widerrechtlich die Vogtei beanspruchte, zu
+Leibrecht, wofÅr nach beider Tod Hof und Vogtei ledig an das Stift zurÅckfallen
+sollen.
+
+REG$Propst Gottfried und der Konvent von Rohr geben Albert von Schierling (LK
+Mallersdorf) und seinem Sohn Wolfgang ihren Hof zu Gebraching (Hohen-, Nieder-,
+LK Regensburg), auf dem Albert widerrechtlich die Vogtei beanspruchte, fÅr 12
+Talent Regensburger MÅnze zu Leibrecht, wofÅr nach beider Tod Hof und Vogtei
+ledig an das Stift zurÅckfallen sollen.
+F$QE NF 21/028/178f/179
+G$Albert/Genannter/Schierling/Schierling//LK Mallersdorf/
+E$X/Stift/Rohr/Rohr//LK Rottenburg/
+H$Precarium/Immobilien/Gebraching/Hohen-,Niedergebraching/Gebraching/LK Regensburg/
+W$Regensburg/moneta/
+O$12/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro duodecim talentis Ratisponensis monete iure precario duximus
+
+DOK$QENF31_071/1221.1.6/1223.12.31/1221|23 JÑnner 6 - 1223 Ende/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ritter Werner von Berg (wohl Gem. Au am Inn LK Wasserburg, jetzt Gem. Gars LK
+MÅhldorf) ÅbertrÑgt seine Nichte Gertrud, die er vom EB von Salzburg als Hîrige
+zu Lehen hatte, durch EB Eberhard (II. von Salzburg) an Stift Gars.
+
+REG$Ritter Werner von Berg (wohl Gem. Au am Inn LK Wasserburg, jetzt Gem. Gars LK
+MÅhldorf) ÅbertrÑgt seine Nichte Gertrud, die er vom EB von Salzburg als Hîrige
+zu Lehen hatte, durch EB Eberhard (II. von Salzburg) an Stift Gars.
+F$QE NF 31/071/64f/65
+F$MB 01/073/44/44
+G$X/Stift/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$X/Genannte/Berg_a.Inn/Berg a.Inn//LK Wasserburg,wohl G.Au a.Inn/
+H$öbergabe/Hîrige/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$X/X/X
+Z$13/sol./X
+M$X/X/X/A
+Q$XIII solidi Ratisponensis monete dati sunt
+B$SUB 3, Nr. 119 datiert 1215 - 1228.
+
+DOK$QENF31_072/1221.1.6/1223.12.31/1221|23 JÑnner 6 - 1223 Ende/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ulrich von BÑrnham (Gem. Penzing LK Wasserburg, jeztz Gem. Babensham LK
+Rosenheim) und seine Frau Irmgard Åbereignen gegen sechs Pfund Regensburger
+MÅnze ihren Anteil an ihrem Besitz zu BÑrnham, auf dem Friedrich Gigere sitzt,
+an Stift Gars.
+
+REG$Ulrich von BÑrnham (Gem. Penzing LK Wasserburg, jeztz Gem. Babensham LK
+Rosenheim) und seine Frau Irmgard Åbereignen gegen sechs Pfund Regensburger MÅnze
+ihren Anteil an ihrem Besitz zu BÑrnham, auf dem Friedrich Gigere sitzt, an
+Stift Gars.
+F$QE NF 31/072/66/66
+F$MB 01/074/45/45
+G$X/Stift/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Ulrich/Genannter/BÑrnham/BÑrnham//LK Wasserburg,G.Penzing/
+H$öbergabe/Immobilien/BÑrnham/BÑrnham//LK Wasserburg,G.Penzing/
+W$Regensburg/moneta/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$receptis s\c{e}x libris Ratisponensis monet\c{e}
+
+REG$Ulrich von BÑrnham (Gem. Penzing LK Wasserburg, jeztz Gem. Babensham LK
+Rosenheim) und seine Frau Irmgard Åbereignen ihren Anteil an ihrem Besitz zu
+BÑrnham, auf dem Friedrich Gigere sitzt, an Stift Gars. Jener Teil sei mit 20
+Pfund Regensburger belastet, wenn ein Kind die Schenkung der Eltern anfechten
+wollte. ?
+F$QE NF 31/072/66/66
+F$MB 01/074/45/45
+G$X/Stift/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Ulrich/Genannter/BÑrnham/BÑrnham//LK Wasserburg,G.Penzing/
+H$PfandgeschÑft/Immobilien/BÑrnham/BÑrnham//LK Wasserburg,G.Penzing/
+W$Regensburg/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in viginti libris Ratisponensium obligaretur
+
+REG$Ulrich von BÑrnham (Gem. Penzing LK Wasserburg, jeztz Gem. Babensham LK
+Rosenheim) und seine Frau Irmgard Åbereignen gegen sechs Pfund Regensburger MÅnze
+ihren Anteil an ihrem Besitz zu BÑrnham, auf dem Friedrich Gigere sitzt, an
+Stift Gars. Sollte ein Kind die Schenkung anfechten, mu· es der Kirche von Gars
+20 Pfund zurÅckzahlen.
+F$QE NF 31/072/66/66
+F$MB 01/074/45/45
+G$X/X/X/X//
+E$X/Stift/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+H$Pfand_Einlîsung/Immobilien/BÑrnham/BÑrnham//LK Wasserburg,G.Penzing/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$XX libras \c{e}cclesi\c{e} Garzensi reddere cogeretur
+
+DOK$QENF31_074/1221.1.6/1223.12.31/1221|23 JÑnner 6 - 1223 Ende/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Heinrich (II. von Gars) kauft den von den BrÅdern Rudiger und Konrad
+Viener entfremdeten Besitz zu Stutheim (wohl abg. Ort zwischen Gîppenham und
+Stegham LK MÅhldorf) um sechseinhalb Pfund Regensburger MÅnze von denselben und
+ihren Enkeln zurÅck.
+
+REG$Propst Heinrich (II. von Gars) kauft den von den BrÅdern Rudiger und Konrad
+Viener entfremdeten Besitz zu Stutheim (wohl abg. Ort zwischen Gîppenham und
+Stegham LK MÅhldorf) um sechseinhalb Pfund Regensburger MÅnze von denselben und
+ihren Enkeln zurÅck.
+F$QE NF 31/074/67f/68
+F$MB 01/077/46f/46
+G$Heinrich II./Propst/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Rudiger Viener;Konrad Viener/X/X/X//
+H$RÅckkauf/Immobilien/Stutheim/Stutheim//LK MÅhldorf,wohl abg.Ort zw.Gîppenham u.Stegham/
+W$Regensburg/moneta/
+O$6,5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$redemit VI libris et media Ratisponensis monete
+
+DOK$QENF31_076a/1223.12.31#31?/1229.12.31/1223 Ende - vor 1224|30/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Friedrich (von Gars) kauft von Eberhard von Thalham (Gem
+Obertaufkirchen LK MÅhldorf) Besitz zu Worneding (Gem Reichertsheim LK
+Wasserburg, jetzt LK MÅhldorf) um sechs Regensburger Pfund.
+
+REG$Propst Friedrich (von Gars) kauft von Eberhard von Thalham (Gem
+Obertaufkirchen LK MÅhldorf) Besitz zu Worneding (Gem Reichertsheim LK
+Wasserburg, jetzt LK MÅhldorf) um sechs Regensburger Pfund.
+F$QE NF 31/076a/69f/70
+F$MB 01/079/47f/47
+G$Friedrich/Propst/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Eberhard/Genannter/Thalham/Thalham//LK MÅhldorf,G.Obertaufkirchen/
+H$Kauf/Immobilien/Reichertsheim Worneding/Reichertsheim,Worneding//LK
+MÅhldorf,G.Reichertsheim/
+W$Regensburg/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$comparavi \dots pro sex libris Ratisponensibus
+
+DOK$QENF31_076b/1223.12.31#31?/1229.12.31/1223 Ende - vor
+1224|30/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Friedrich (von Gars) kauft von Wolfram von Thalham (Gem
+Obertaufkirchen LK MÅhldorf) Besitz zu Worneding (Gem Reichertsheim LK
+Wasserburg, LK MÅhldorf) um ein Viertel Regensburger Halbpfund.
+
+REG$Propst Friedrich (von Gars) kauft von Wolfram von Thalham (Gem
+Obertaufkirchen LK MÅhldorf) Besitz zu Worneding (Gem Reichertsheim LK
+Wasserburg, jetzt LK MÅhldorf) um ein Viertel Regensburger Halbpfund.
+F$QE NF 31/076b/69f/70
+F$MB 01/079/47f/48
+G$Friedrich/Propst/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Wolfram/Genannter/Thalham/Thalham//LK MÅhldorf,G.Obertaufkirchen/
+H$Kauf/Immobilien/Reichertsheim Worneding/Reichertsheim,Worneding//LK
+MÅhldorf,G.Reichertsheim/
+W$Regensburg/X/
+O$0,125/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$emit \dots pro quarta dimidia libra Ratisponensi
+
+DOK$QENF31_077/1224.8.9/1230.1.4/nach 1224 August 8 - vor 1230 JÑnner
+5/X/MÅhldorf/MÅhldorf//OB/
+S$X/X/X
+V$X/X/X
+K$Propst Friedrich (von Gars) kauft von Ritter Ulrich um zehn Pfund Regensburger
+MÅnze Besitz zu BÑrnham (Gem. Penzing LK Wasserburg, jetzt Gem. Babensham LK
+Rosenheim).
+
+REG$Propst Friedrich (von Gars) kauft von Ritter Ulrich um zehn Pfund Regensburger
+MÅnze Besitz zu BÑrnham (Gem. Penzing LK Wasserburg, jetzt Gem. Babensham LK
+Rosenheim).
+F$QE NF 31/077/70f/71
+F$MB 01/080/48f/48
+G$Friedrich/Propst/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Ulrich/Ritter/X/X//
+H$Kauf/Immobilien/BÑrnham/BÑrnham//LK Rosenheim,G.Penzing/
+W$Regensburg/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro summa X librarum Ratisponensis monete
+
+DOK$QENF31_082/1224.1.1#0.0?/1240.0.0/?1224|30 - ca. 1230|40/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Schiedsrichter entscheiden, nachdem zwei BrÅder und Mîdlinger Familiare als
+SeelgerÑt zwei Besitzungen zu Meinratinge (wohl Manharting Gem. Stefanskirchen
+LK MÅhldorf, jetzt Gem. Ampfing ebenda) und Haun (Gem. Rattenkirchen ebenda)
+unter Vorbehalt lebenslÑnglicher Versorgung an Stift Gars Åbertragen haben,
+einen Streit mit den Verwandten schwesterlicherseits, wonach das Stift den
+Besitz zu Haun erhÑlt, wÑhrend jene Meinratinge vom Stift gegen eine jÑhrliche
+Zahlung von 70 Regensburger Pfennigen zu Erblehen empfangen.
+
+REG$Schiedsrichter entscheiden, nachdem zwei BrÅder und Mîdlinger Familiare als
+SeelgerÑt zwei Besitzungen zu Meinratinge (wohl Manharting Gem. Stefanskirchen
+LK MÅhldorf, jetzt Gem. Ampfing ebenda) und Haun (Gem. Rattenkirchen ebenda)
+unter Vorbehalt lebenslÑnglicher Versorgung an Stift Gars Åbertragen haben,
+einen Streit mit den Verwandten schwesterlicherseits, wonach das Stift den
+Besitz zu Haun erhÑlt, wÑhrend jene Meinratinge vom Stift gegen eine jÑhrliche
+Zahlung von 70 Regensburger Pfennigen zu Erblehen empfangen.
+F$QE NF 31/082/74/74
+F$MB 01/084/50/50
+G$X/X/Mîdling/Mîdling?//wo??
+E$X/Stift/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+H$Lehen/Immobilien/Manharting wohl/Manharting (wohl)/Meinratinge/LK
+MÅhldorf,G.Stefanskirchen/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$70/den./X/Z
+Q$LXX Ratisponenses persolvere
+B$Den. aus dem Zusammenhang erschlossen.
+
+DOK$QENF31_083/1225.0.0/1240.0.0/nach 1224|30 - ca. 1230|40/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Friedrich von Gars kauft von der Salzburger Ministerialin Gotlinde und
+ihren Sîhnen um vier Pfund und sechzig Regensburger Pfennige Besitz zu Vogldorn
+(Gem. Oberornau LK Wasserburg, jetzt Gem. Obertaufkirchen LK MÅhldorf).
+
+REG$Propst Friedrich von Gars kauft von der Salzburger Ministerialin Gotlinde und
+ihren Sîhnen um vier Pfund und sechzig Regensburger Pfennige Besitz zu Vogldorn
+(Gem. Oberornau LK Wasserburg, jetzt Gem. Obertaufkirchen LK MÅhldorf).
+F$QE NF 31/083/74f/75
+F$MB 01/085/51/51
+G$Friedrich/Propst/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Gotlinde/Ministerialin/Salzburg/Salzburg//S/
+H$Kauf/Immobilien/Vogldorn/Vogldorn//LK MÅhldorf,G.Oberornau/
+W$Regensburg/X/
+O$4/lib./X
+Z$X/X/X
+M$60/den./X/A
+Q$pro quatuor libris et LX denariis Ratisponensibus
+
+DOK$QENF31_086/1225.0.0/1240.0.0/nach 1224|30 - ca. 1230|40/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Friedrich Westner von Herbstham (Gem. Titlmoos LK Wasserburg, jetzt Gem. Kling
+LK Rosenheim) schenkt der Marienkirche in Gars seinen in Herbstham gelegenen
+Besitz Westen zu einem Jahreszins von zehn MÅnchner Pfennigen.
+
+REG$Friedrich Westner von Herbstham (Gem. Titlmoos LK Wasserburg, jetzt Gem. Kling
+LK Rosenheim) schenkt der Marienkirche in Gars seinen in Herbstham gelegenen
+Besitz Westen zu einem Jahreszins von zehn MÅnchner Pfennigen.
+F$QE NF 31/086/76f/77
+G$Hl. Maria/Kirche/Gars a.Inn/Gars a.Inn//OB LK MÅhldorf/
+E$Friedrich Westner/Genannter/Herbstham/Herbstham//LK Rosenheim,G.Kling,vorherG.Titlmoos,LK Wasserburg/
+H$Zins/Immobilien/Herbstham/Herbstham//LK Rosenheim,G.Kling,vorherG.Titlmoos,LK Wasserburg/
+W$MÅnchen/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$solvens X denarios Monacenses annuatim.
+
+DOK$QENF14_013/1240.0.0/1240.0.0/1240/anno domini MCCXL. pontificatus nostri anno
+terciodecimo/Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Bischof Siegfried von Regensburg schlichtet den Streit zwischen dem Kloster
+Weltenburg und dem Pfarrer Konrad von Kelheim um zwei Teile Zehnts aus der
+Kapelle zu GmÅnd (StK Kelheim) in der Hîhe von einem Regensburger Talent.
+
+REG$Bischof Siegfried von Regensburg schlichtet den Streit zwischen dem Kloster
+Weltenburg und dem Pfarrer Konrad von Kelheim um zwei Teile Zehnts aus der
+Kapelle zu GmÅnd (StK Kelheim) in der Hîhe von einem Regensburger Talent.
+F$QE NF 14/013/121f/121
+F$MB 13/010/365f/366
+G$Konrad/Pfarrer/Kelheim/Kelheim//NB,LK Kelheim/
+E$X/Kloster/Weltenburg/Weltenburg//LK Kelheim/
+H$Zehnt/Kapelle/GmÅnd/GmÅnd//StK Kelheim/
+W$Regensburg/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$talentum Ratisponense ipsis nomine ecclesie sue persolvere teneretur.
+
+DOK$QENF14_124/1227.4.25/1227.4.25/1227 April 25/in die sancti Marci evangeliste anno
+domini MCCXXVII./Kelheim/Kelheim//NB,LK Kelheim/
+S$X/X/X
+V$X/X/X
+K$Herzog Ludwig I. (der Kelheimer) von Bayern tauscht mit dem Kloster
+Weltenburg Besitz zu Sallingberg gegen ein Klostergut zu Schlait (LK Kelheim).
+
+REG$Herzog Ludwig I. (der Kelheimer) von Bayern tauscht mit dem Kloster
+Weltenburg Besitz zu Sallingberg, wovon das Kloster eine jÑhrliche Abgabe in der
+Hîhe von 60 Regensburger Pfennigen als Zeichen des Tausches erhÑlt, gegen ein
+Klostergut zu Schlait (LK Kelheim).
+F$QE NF 14/124/93f/94
+F$MB 13/008/364/364
+G$X/X/X/X//
+E$X/Kloster/Weltenburg/Weltenburg//LK Kelheim/
+H$Abgabe/Immobilien/Sallingberg/Sallingberg//LK Kelheim/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$singulis annis LX denarios Rati(sponenses) nobis reservatos in signum cambii
+B$Unecht. Formal FÑlschung, aber tatsÑchlich erfolgte Schenkung.
+
+DOK$BiblFamGeschQu13I_025/1237.5.4/1237.5.4/1237 Mai 4/anno domini MCCXXXVII. IIII. nonas
+mai indictione X./X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Siegfried von Regensburg beurkundet, da· die edle Frau Agnes, ehedem
+Ehefrau des Albero Wolf von Naabeck, dann aber Konversin, von ihrem Gut in
+Schatzhofen 2 Hîfe, nÑmlich den Osterhof und den Pachhof, und ein Lehen dem
+Kloster Pulenriuth zu ihrem und ihres Mannes Seelenheil mit der Bedingung
+Åbergeben hat, da· ihre Tochter und deren Ehemann, der edle Wernhard von
+Uttendorf, nach dem Tode der Stifterin das Recht der Wiederlîsung um 80 Pfund
+Regensburger MÅnze innerhalb von 30 Tagen haben sollen.
+
+REG$Bischof Siegfried von Regensburg beurkundet, da· die edle Frau Agnes, ehedem
+Ehefrau des Albero Wolf von Naabeck, dann aber Konversin, von ihrem Gut in
+Schatzhofen 2 Hîfe, nÑmlich den Osterhof und den Pachhof, und ein Lehen dem
+Kloster Pulenriuth zu ihrem und ihres Mannes Seelenheil mit der Bedingung
+Åbergeben hat, da· ihre Tochter und deren Ehemann, der edle Wernhard von
+Uttendorf, nach dem Tode der Stifterin das Recht der Wiederlîsung um 80 Pfund
+Regensburger MÅnze innerhalb von 30 Tagen haben sollen.
+F$UB Landshut/025/18f/18
+G$Wernhard/Genannter/Uttendorf/Uttendorf//Markt,mit ehem.Burg.,Bez.Mauerkirchen,Oô/
+E$X/Kloster/Pollenried/Pollenried//LK Regensburg,G.Nittendorf/
+H$Wiederlîsung/Immobilien/Schatzhofen/Schatzhofen//LK Landshut/
+W$Regensburg/moneta currens/
+O$80/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut si \dots LXXX libras Ratisponensis monete tunc currentis solvere vellent
+B$Pollenried, wahrscheinlich aber Verwechslung mit Pielenhofen.
+
+DOK$QENF33_051/1243.0.0/1243.0.0/1243/anno gratie MCCXLIII. indictione
+secunda/Windberg/Windberg//LK Straubing-Bogen/
+S$X/X/X
+V$X/X/X
+K$Propst Heinrich II. und der Konvent des Stiftes Osterhofen geben die
+Entscheidung bekannt, die die ébte von Oberaltaich (LK Straubing-Bogen) und
+Windberg (ebenda) als Schiedsrichter im Streit zwischen dem Stift und den
+Ministerialen von Steinburg (LK Straubing-Bogen) um ein Gut in Posching (heute
+geteilt in Stephansposching, LK Deggendorf, u. Mariaposching, LK
+Straubing-Bogen) getroffen haben.
+
+REG$Propst Heinrich II. und der Konvent des Stiftes Osterhofen geben die
+Entscheidung bekannt, die die ébte von Oberaltaich (LK Straubing-Bogen) und
+Windberg (ebenda) als Schiedsrichter im Streit zwischen dem Stift und den
+Ministerialen von Steinburg (LK Straubing-Bogen) um ein Gut in Posching (heute
+geteilt in Stephansposching, LK Deggendorf, u. Mariaposching, LK
+Straubing-Bogen) getroffen haben. Die Ministerialen haben demnach gegen Zahlung
+von 10 Pfund Regensburger bewÑhrtergeprÅfter? MÅnze das Gut zu Åbergeben.
+F$QE NF 33/051/64f/65
+F$MB 12/047/394/394
+G$X/Stift/Osterhofen/Osterhofen//LK Deggendorf,G.Osterhofen,heute Altenmarkt/
+E$Albert;Perchtold;Wernhard;Konrad/Ministeriale/Steinburg/Steinburg//LK Straubing-Bogen/
+H$Ablîse/Immobilien/Stephansposching,Mariaposching/Stephansposching,Mariaposching/Posching/LK Deggendorf;LK Straubing-Bogen/
+W$Regensburg/moneta probata/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$X libras Ratisponensium probate monete persolveremus
+
+DOK$MGH_DD10II_322/1161.1.29/1161.1.29/1161 JÑnner 29/anno dominic\c{e} incarnationis
+MCLXI. indictione VIII. regnante domno Frederico Romanorum imperatore
+victoriosissimo anno regni eius VIIII. imperii vero VI. IIII. kal.
+februarii/Como/Como//Italien/
+S$X/X/Ulrich B
+V$X/X/X
+K$Kaiser Friedrich schenkt auf die Bitte seines Oheims Konrad, Bischofs in
+Passau, und nach dem Rat und dem Eintreten der FÅrsten dem Bistum Passau die
+Marienabtei in Passau, die ihm, dem Kaiser und dem Reich gehîrt, mit allen
+Besitzungen. Ausgenommen von der Schenkung bleibt die  Vogtei. Zweck der
+Schenkung ist die Wiederherstellung der religiîsen Zucht in der Abtei. Dem
+kîniglichen Fiskus sind jÑhrlich aus der Abtei 40 Pfund Regensburger MÅnze zu
+reichen.
+
+REG$Kaiser Friedrich unterstellt die Abtei Niedernburg mit Ausnahme der Vogtei dem
+Bistum Passau gegen einen jÑhrlichen Zins von 40 Pfund Regensburger MÅnze.
+F$MGH DF I2/322/146f/147
+F$MGH DF I2/326/152f/153
+F$VerîffInstErfDtVolkstumPassau3/002/12f/12
+F$MB 29I/502/356ff/357
+F$MB 29I/503/359ff/360
+G$X/Bischof/Passau/Passau//Bayern/
+E$X/Fiskus/Dt.kînigl./Dt.kînigl.//?
+H$Zins/Abtei/Passau ,Niedernburg/Passau,Niedernburg/Niedernburg/Bayern/
+W$Regensburg/moneta
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$XL libras Ratisbonensis monet\c{e} regio fisco de eadem abbatia persolvant
+B$MGH DD 10II Nr.326 und MB 29I Nr.503 sind eine Neuausfertigung des MGH DD 10II
+Nr.322.
+
+REG$Kaiser Friedrich unterstellt die Abtei Niedernburg mit Ausnahme der Vogtei dem
+Bistum Passau gegen einen jÑhrlichen Zins. Wer gegen die Anordnung handelt,
+zahlt 100 Pfund Gold, je zur HÑlfte an den kîniglichen Fiskus und die genannte
+Kirche.
+F$MGH DF I2/322/146f/147
+F$MGH DF I2/326/152f/153
+F$MB 29I/502/356ff/357
+F$MB 29I/503/359ff/360
+G$X/X/X/X//
+E$X/Fiskus/Dt.kînigl./Dt.kînigl.//?
+E$X/Abtei/Passau ,Niedernburg/Passau,Niedernburg/Bayern  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$C libras auri optimi componat
+B$MGH DD 10II Nr.326 und MB 29I Nr.503 sind eine Neuausfertigung des MGH DD 10II
+Nr.322.
+
+DOK$QENF23_093/1185.0.0/1195.0.0/1185 - 1195/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Walchun von Rotenberg gibt dem Kloster Asbach als SeelgerÑt fÅr seinen
+getîteten Sohn einen Hof in Erla (Nô).
+
+REG$Walchun von Rotenberg gibt dem Kloster Asbach als SeelgerÑt fÅr seinen
+getîteten Sohn einen Hof in Erla (Nô), der 10 Schilling Wiener zinst.
+F$QE NF 23/093/65/65
+F$MB 05/050/142/142
+G$X/X/X/X//
+E$X/Kloster/Asbach/Asbach//LK Griesbach/
+H$Zins/Immobilien/Erla/Erla//Nô,GB Haag oder G.Ernegg,GB Scheibbs?/
+W$Wien/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$solvit X solidos Win(ensium)
+
+DOK$QENF23_102/1226.0.0/1235.0.0/1226 - 1235/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Wicher (I.) von Asbach befriedigt die AnsprÅche eines Heinrich auf
+einzelne Leute des Klosters durch Geld.
+
+REG$Abt Wicher (I.) von Asbach befriedigt die AnsprÅche eines Heinrich auf
+einzelne Leute des Klosters durch 17 Schilling Passauer MÅnze.
+F$QE NF 23/102/70/70
+F$MB 05/054/144f/145
+G$Wicher I./Abt/Asbach/Asbach//LK Griesbach/
+E$Heinrich/X/X/X//
+H$Verzicht/Hîrige/Asbach/Asbach//LK Griesbach/
+W$Passau/moneta/
+O$X/X/X
+Z$17/sol./X
+M$X/X/X/A
+Q$X et VII solidos Pataviensis monete recepit.
+
+DOK$QENF23_066/1201.1.1/1201.1.1/Anfang 13. Jh./X/X/X//
+S$X/X/X
+V$X/X/X
+K$EinkÅnfte des Asbacher Schergenamtes.
+
+REG$EinkÅnfte des Asbacher Schergenamtes.
+F$QE NF 23/066/174/174
+G$Wachinge/X/X/X//
+E$X/Kloster/Asbach/Asbach//LK Griesbach/
+H$EinkÅnfte/Schergenamt/Asbach/Asbach//LK Griesbach/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$60/X/X/Z
+Q$Wachinge LX Ratisp(onenses)
+B$Urbar.
+
+DOK$QENF23_067/1201.1.1/1201.1.1/Anfang 13. Jh./X/X/X//
+S$X/X/X
+V$X/X/X
+K$EinkÅnfte des Asbacher Schergenamtes.
+
+REG$EinkÅnfte des Asbacher Schergenamtes.
+F$QE NF 23/067/174/174
+G$Phaefinge/X/X/X//
+E$X/Kloster/Asbach/Asbach//LK Griesbach/
+H$EinkÅnfte/Schergenamt/Asbach/Asbach//LK Griesbach/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$40/X/X/Z
+Q$De predio Ottonis de Altenburch Phaefinge XL eciam Rat(isponenses)
+B$Urbar.
+
+DOK$MB14_114/1038.0.0/1151.0.0?/nach 1037/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Denarii oblaiales des Klosters Geisenfelden.
+
+REG$Wer den Hof in Menzenbach verlÑ·t, mu· 2 Regensburger Talent oder Vieh im
+gleichen Wert oder ein einzelnes Vieh im Wert von 72 Regensburger Pfennigen
+dem Kloster Geisenfelden zurÅcklassen.  ?
+F$MB 14/114/216/216
+G$X/X/X/X//
+E$X/Kloster/Geisenfeld/Geisenfeld/Geisenfelden/LK Pfaffenhofen a.d.Ilm/
+H$Oblay?/Immobilien/Menzenbach/Menzenbach//
+W$Regensburg/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$duo talenta Ratisbonensia
+B$Oblay - Abgabe in Geld oder Lebensmitteln oder Vieh an eine Kirche oder ein
+Kloster.
+
+REG$Wer den Hof in Menzenbach verlÑ·t, mu· 2 Regensburger Talent oder Vieh im
+gleichen Wert oder ein einzelnes Vieh im Wert von 72 Regensburger Pfennigen
+dem Kloster Geisenfelden zurÅcklassen.  ?
+F$MB 14/114/216/216
+G$X/X/X/X//
+E$X/Kloster/Geisenfeld/Geisenfeld/Geisenfelden/LK Pfaffenhofen a.d.Ilm/
+H$Wertangabe/Vieh/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$72/den./X/Z
+Q$pecus valens LXXII denarios Ratis.
+
+DOK$Indersdorf_04/1131.3.28/1131.3.28/1131 MÑrz 28/V. Kl. April. Indict. VIIII. incarnat.
+dominicae. anno MCXXXI. pontif. vero dni. Innoc. II. PP. secundo/X/X?//
+S$X/X/X
+V$X/X/X
+K$Papst Innozenz II. nimmt das Kloster Indersdorf in seinen Schutz.
+
+REG$Papst Innozenz II. nimmt das Kloster Indersdorf in seinen Schutz, bestÑtigt
+seine Besitzungen und Rechte und setzt die jÑhrliche Zahlung eines
+Goldbyzantiners an den Lateranpalast in Rom fest.
+F$Indersdorf/04/3f/3
+F$MB 10/003/235f/236
+F$MGH XX 16/183 u. 726/X/  ?
+F$Migne 179/033/80f/81
+G$X/Kloster/Indersdorf/Indersdorf//OB,LK Dachau/
+E$X/Lateranpalast/Rom/Rom//Italien/
+H$Zins/Kloster/Indersdorf/Indersdorf//OB,LK Dachau/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/ X
+M$1/bisancius/X/Z
+Q$unum bizancium nostro Lateranensi palatio persolvetis.
+B$"Den." aus dem Zusammenhang erschlossen.
+
+DOK$Indersdorf_11/1143.2.18/1143.2.18/1143 Februar 18/XII. Kal. Mar. indict. VII.
+incarnationis domini? anno MCXLIII. pontificatus vero domini Celestini II. PP.
+anno primo/Rom/Rom#Lateran//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Celestin II. nimmt das Kloster Indersdorf in seinen Schutz und bestÑtigt
+dessen Besitzungen und Rechte.
+
+REG$Papst Celestin II. nimmt das Kloster Indersdorf in seinen Schutz und bestÑtigt
+dessen Besitzungen und Rechte sowie die jÑhrliche Zinszahlung in der Hîhe von
+einem Goldbyzantiners an den Lateranpalast in Rom.
+F$Indersdorf/11/6f/6
+F$MB 10/005/238f/238
+F$Migne 179/037/803f/803
+G$X/Kloster/Indersdorf/Indersdorf//OB,LK Dachau/
+E$X/Lateranpalast/Rom/Rom//Italien/
+H$Zins/Kloster/Indersdorf/Indersdorf//OB,LK Dachau/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/X/Z
+Q$sub censu unius Bizantii nobis nostrisque successoribus annualiter persolvendo
+B$"Den." aus dem Zusammenhang erschlossen.
+Migne und Jaffe datieren 1144.
+
+DOK$RenzRbg_X/1089.0.0/1089.0.0?/1089?/X/X/X//X
+S$X/X/X
+V$X/X/X
+K$Die Mînche des Schottenklosters St. Jakob in Regensburg kauften um 30 Pfund
+Regensburger Pfennig von Graf Friedrich von Frontenhausen einen geeigneten
+Bauplatz vor dem damaligen Roselint oder Ruselinthor, im Westen der Stadt
+Regensburg, um ein neues Kloster zu errichten.
+
+REG$Die Mînche des Schottenklosters St. Jakob in Regensburg kauften um 30 Pfund
+Regensburger Pfennig von Graf Friedrich von Frontenhausen einen geeigneten
+Bauplatz vor dem damaligen Roselint oder Ruselinthor, im Westen der Stadt
+Regensburg, um ein neues Kloster zu errichten.
+F$Ried, Gesch. d. Regensburger Pfarreien. Pfarreien, Manuscr. i. d. kgl.
+Kreisbibl. Regensburg Nr. 371 u. 400.  ?/X/X/X
+G$X/Mînche/Regensburg/Regensburg,St.Jakob//Bayern/
+E$Friedrich/Graf/Frontenhausen/Frontenhausen//NB,LK Dingolfing-Landau  G.Frontenhausen oder Marklhofen?
+H$Kauf/Immobilien/Regensburg/Regensburg//Bayern/
+W$Regensburg/X/
+O$30/lib.?/X
+Z$X/X/X
+M$X/den./X/A
+Q$?
+
+DOK$RenzRbg_1156/1156.3.19/1156.3.19/1156 MÑrz 19/XIIII. Kal. Aprilis Ind. V. inc. dom. a.
+MCLVI. Pontif. dom. Adriani Pape IV. anno tercio/Rom/Rom#Lateran//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Hadrian IV. gibt dem Kloster St. Jakob und dessen Abt Gregor einen
+Schutzbrief, unter BestÑtigung der frÅheren Privilegien der PÑpste Calixtus und
+Eugenius, auch erteilt er der Abtei die Erlaubnis, fromme Christen, welche im
+Bereich des Klosters ihre GrabstÑtte haben wollen, ohne BeeintrÑchtigung der den
+Pfarrern zukommenden GebÅhren, zu beerdigen. Die Abtei hat jÑhrlich einen
+Byzantiner an den hl. Stuhl zu entrichten, die justitia canonica des
+Regensburger Bischofs erleidet keinerlei BeeintrÑchtigung und insbesondere
+bestÑtigt der Papst dem Kloster auf dessen Bitten den Aquaeduct, den der Abt
+von PrÅll dem Abt von St. Jakob rechtmÑ·ig Åberlassen hat.
+
+REG$Papst Hadrian IV. gibt dem Kloster St. Jakob und dessen Abt Gregor einen
+Schutzbrief, unter BestÑtigung der frÅheren Privilegien der PÑpste Calixtus und
+Eugenius. Die Abtei hat jÑhrlich einen Byzantiner an den hl. Stuhl zu
+entrichten.
+F$Renz, Regensbg/1156/24/24
+F$Ried, CD Ratisbon. 1/244/224f/225
+G$X/Kloster/Regensburg/Regensburg,St.Jakob//Bayern/
+E$X/Lateranpalast/Rom/Rom//Italien/
+H$Zins/Kloster/Regensburg/Regensburg,St.Jakob//Bayern/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/X/Z
+Q$bizancium unum \dots persolvetis
+
+DOK$RenzRbg_1177/1177.2.1/1177.2.1/1177 Februar 1/Kalendas Febr. Ind. X. inc. dom. MCLXXVII.
+Pontif. dom. Alex. Pape III. anno XVIII./Foggia/Foggia//Italien/
+S$X/X/X
+V$X/X/X
+K$Papst Alexander III. bestÑtigt dem Abt Gregor und dem Schottenkloster St.
+Jakob in Regensburg ihre Privilegien, nimmt sie nach dem Vorgang Calixtus II.,
+Eugen IIII., und Hadrian IV. in den Schutz des hl. Petrus, der dafÅr einen
+Goldgulden erhÑlt.
+
+REG$Papst Alexander III. bestÑtigt dem Abt Gregor und dem Schottenkloster St.
+Jakob in Regensburg ihre Privilegien, nimmt sie nach dem Vorgang Calixtus II.,
+Eugen IIII., und Hadrian IV. in den Schutz des hl. Petrus, der dafÅr einen
+Goldgulden erhÑlt.
+F$Renz, Regensbg/1156/25/25
+F$Ried, CD Ratisbon. 1/269/247f/248
+G$X/Kloster/Regensburg/Regensburg,St.Jakob//Bayern/
+E$X/Lateranpalast/Rom/Rom//Italien/
+H$Zins/Kloster/Regensburg/Regensburg,St.Jakob//Bayern/
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$1/bisancius/X/Z
+Q$bizantium unum \dots persolvetis
+
+DOK$RenzRbg_1204/1204.0.0/1204.0.0/1204/ ?/X/X//
+S$X/X/X
+V$X/X/X
+K$Walter von Gilinvelt schenkt dem Kloster Weih St. Peter in Gegenwart des
+Priors Finanus und des Abtes Gregor von St. Jakob einen vor dem Kaiserhof
+gelegenen Garten, welcher dem Prior zu St. Peter jÑhrlich 80 Regensburger
+Pfennige zu zinsen hat.
+
+REG$Walter von Gilinvelt schenkt dem Kloster Weih St. Peter in Gegenwart des
+Priors Finanus und des Abtes Gregor von St. Jakob einen vor dem Kaiserhof
+gelegenen Garten, welcher dem Prior zu St. Peter jÑhrlich 80 Regensburger
+Pfennige zu zinsen hat.
+F$Renz, Regensbg/1204/26/26
+G$X/X/X/X//
+E$X/Prior/Regensburg/Regensburg,Weih St.Peter//Bayern/
+H$Zins/Immobilien/Regensburg/Regensburg?//Bayern/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$80/den./X/Z
+Q$?
+
+DOK$RenzRbg_1216/1216.10.13/1216.10.13/1216 Oktober 13/a. d. inc. MCCXVI. Ind. IV. III. Idus
+Oktobris, Episc. n. a. XIII./Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Bischof Konrad II. von Regensburg fungiert als Schiedsrichter in einer
+Streitfrage zwischen der ébtissin und dem Konvent von ObermÅnster und dem Abt
+und Konvent von St. Jakob wegen Besetzung des Priorats Weih St. Peter und
+bestÑtigt einen zwischen den beiden Parteien abgeschlossenen gÅtlichen
+Vergleich. Bei dieser Gelegenheit entscheidet der Bischof auch, da· das dem
+Kloster Weih St. Peter angrenzende und einst dem Landgrafen gehîrige Feld,
+ersterem eigentÅmlich zugehîre, solches davon aber nach ObermÅnster jÑhrlich 40
+Regensburger Pfennige zu zinsen habe.
+
+REG$Bischof Konrad II. von Regensburg entscheidet, da· das dem
+Kloster Weih St. Peter angrenzende und einst dem Landgrafen gehîrige Feld,
+ersterem eigentÅmlich zugehîre, solches davon aber nach ObermÅnster jÑhrlich 40
+Regensburger Pfennige zu zinsen habe.
+F$Renz, Regensbg/?/30/30
+F$Ried, CD Ratisbon. 1/335/317ff/318
+G$X/Kloster/Regensburg/Regensburg,Weih St.Peter//Bayern/
+E$X/Kloster/Regensburg ObermÅnster/Regensburg,ObermÅnster/monasterium
+superius/StK Regensburg/
+H$Zins/Immobilien/Regensburg/Regensburg//Bayern/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ad censum 40 denariorum annuatim \dots persolvendum
+
+DOK$Ebersberg_12/1200.0.0/1200.0.0/?/?/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Otto von Scirun ? Åbergibt vor dem Aufbruch nach Jerusalem ein Gut bei
+Alinpach und ein zweites bei Ehimotigen fÅr sein Seelenheil durch den Edlen
+Hoholt an das Kloster Ebersberg.
+
+REG$Strafbestimmung fÅr den Fall der widerrechtlichen Entfremdung von zwei GÅtern
+bei Alinpach und Ehimotigen seitens des Abtes von Ebersberg.
+F$Ebersberg/12/163/163
+G$X/X/X/X//
+E$X/Altar/Ebersberg/Ebersberg,St.Sebastian//OB, LK Ebersberg/
+H$Auslîsung e.Stiftung/Immobilien/Niedereulenbach/Niedereulenbach/Alinpach/
+NB,Kd.L.Rottenburg/
+H$Auslîsung e.Stiftung/Immobilien/Egmating/Egmating?/Ehimotigen/LK Ebersberg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/nummus/aureus/Z
+Q$a proximo herede aureum nummum super altare predicti sancti ponente
+B$StUB2, Nr. 22 gleiches RechtsgeschÑft.
+
+DOK$Ebersberg_34/1200.0.0/1200.0.0/?/? /X/X/X//
+S$X/X/X
+V$X/X/X
+K$Dietmar von Steinhart Åbergibt ein Gut bei Mosaha an den Altar des hl.
+Sebastian, das vorher dem Meinhard, dem Vater von Abt Rupert vom Kloster
+Ebersberg gehîrt hat, mit allem Zubehîr.
+
+REG$Strafbestimmung fÅr den Fall der widerrechtlichen Entfremdung von einem Gut
+bei Mosaha seitens des Abtes von Ebersberg.
+F$Ebersberg/34/167/167
+G$X/X/X/X//
+E$X/Altar/Ebersberg/Ebersberg,St.Sebastian//OB,LK Ebersberg/
+H$Auslîsung e.Stiftung/Immobilien/Moosach/Moosach/Mosaha/LK Ebersberg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/nummus/aureus/Z
+Q$proximo herede in illo tunc genere aureum nummum super s. Sebastiani altare
+ponente
+
+DOK$Ebersberg_41/1120.0.0/1120.0.0/ca. 1120/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Edle Burkhard Åbergibt ein Gut bei Watenbach mit allem Zubehîr an den
+Altar des hl. Sebastian fÅr das BegrÑbnis seines Bruders Konrad und dessen
+Seelenheil sowie fÅr das Seelenheil seiner Eltern.
+
+REG$Strafbestimmung fÅr den Fall der widerrechtlichen Entfremdung von einem Gut
+bei Watenbach seitens des Abtes von Ebersberg.
+F$Ebersberg/41/168f/168
+G$X/X/X/X//
+E$X/Altar/Ebersberg/Ebersberg,St.Sebastian//OB,LK Ebersberg/
+H$Auslîsung e.Stiftung/Immobilien/Wattenbach/Wattenbach//wo??  Wattenbach LK
+Ansbach ,G.Lichtenau oder  LK Landshut,G.Oberwattenbach
+W$X/X
+O$X/X/X
+Z$X/X/X
+M$1/nummus/aureus/Z
+Q$proximus eius heres aureum nummum super altare predicti sancti ponat, sique
+hereditario iure possideat.
+
+DOK$Ebersberg_43/1200.0.0/1200.0.0/X/X/X /X//
+S$X/X/X
+V$X/X/X
+K$Ein Freier namens Rudolf Åbergibt vor dem Aufbruch nach Jerusalem eine MÅhle
+bei Purin und ein Gut bei Tagaleichingen mit allem Zubehîr an den Altar des hl.
+Sebastian fÅr sein Seelenheil sowie das Seelenheil seiner Eltern.
+
+REG$Strafbestimmung fÅr den Fall der widerrechtlichen Entfremdung von einer MÅhle
+bei Purin und einem Gut bei Tagaleichingen bei Watenbach seitens des Abtes von
+Ebersberg.
+F$Ebersberg/41/169/169
+G$X/X/X/X//
+E$X/Altar/Ebersberg/Ebersberg,St.Sebastian//OB,LK Ebersberg/
+H$Auslîsung e.Stiftung/Immobilien/uOBayern Purin/uOBayern,Purin//Bavaria Lat.
+LK Ebersberg
+H$Auslîsung e.Stiftung/Immobilien/Taglaching/Taglaching/Tagaleichingen/KL.G.Bruck,LK Ebersberg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/nummus/aureus/Z
+Q$proximus heres aureum nummum super altare predicti sancti ponat, sique
+hereditario iure possideat.
+
+DOK$Ebersberg_98/1220.0.0/1240.0.0/ca. 1220 - 1240/X/Abersdorf/Abersdorf/Abteshoven/W.G.Steinhîring,LK Ebersberg/
+S$X/X/X
+V$X/X/X
+K$Eine Witwe von Aberstorf und deren Tochter Åbergeben genannte Personen der
+Kirche des hl. Sebastian in Ebersberg fÅr 2 Pfund MÅncher MÅnze.
+
+REG$Eine Witwe von Aberstorf und deren Tochter Åbergeben genannte Personen der
+Kirche des hl. Sebastian in Ebersberg fÅr 2 Pfund MÅncher MÅnze.
+F$Ebersberg/98/180/180
+G$X/Altar/Ebersberg/Ebersberg,St.Sebastian//OB,LK Ebersberg/
+E$X/Genannte/Abersdorf/Abersdorf/Aberstorf/W.G.Steinhîring,LK Ebersberg/
+H$öbergabe/Hîrige/X/X//
+W$MÅnchen/moneta/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$delegaverunt \dots pro duabus libris monete Monacensis
+
+DOK$FRAII31_110/1160.3.7/1160.3.7/1160 MÑrz 7/anno domini MCLX., indictione VIIII., nonis
+Martii/Bischoflack/Bischoflack/Lack/O-Krain,b.Krainburg,b.Laibach/
+S$X/X/X
+V$X/X/X
+K$Bischof Albert von Freising belohnt Ezelin und dessen Sohn Johann in deren
+Vertreter dem Richter Jakob mit dem Schlo· und Hof Godego.
+
+REG$Ezelin und dessen Sohn Johann bezahlen Bischof Albert von Freising fÅr die
+Investitur mit dem Schlo· und Hof Godego 100  Latein. ? Mark Silber.
+F$FRA II 31/110/108f/108
+G$Ezelin;Johann/X/X/X//
+E$Albert/Bischof/Freising/Freising//Bayern/
+H$Investitur/Immobilien/Godega/Godego//Italien,b.Treviso ist das Godega
+W$X/X
+O$100/marca/latina
+Z$X/X/X
+M$X/argentum/X/A
+Q$C marcas Latinas argenti predicto Alberto episcopo
+
+DOK$FRAII31_155/1249.2.2/1249.2.2/1249 Feber 2/anno gratie MCCXLVIIII.?, IIII. nonas
+Februarii/X/X//
+S$X/X/X
+V$X/X/X
+K$GrÑfin Kunegunde von Wasserburg testiert ihre GÅter in Niederîsterreich,
+nÑmlich Rabs, Weikartsschlag, Heidenreichstein u.s.w. dem Bistum Freising und
+verfÅgt in gleicher Weise unter festgestellten Bedingungen Åber ihre Liegenschaften in
+Bayern.
+
+REG$GrÑfin Kunegunde von Wasserburg testiert ihre GÅter in Niederîsterreich,
+dem Bistum Freising und verfÅgt in gleicher Weise unter festgestellten
+Bedingungen Åber ihre Liegenschaften in Bayern und 60 Pfund Regensburger MÅnze
+EinkÅnfte, die sie als Schenkung zu ihrer VermÑhlung erhalten hat.  ?
+F$FRA II 31/155/151f/151
+G$Kunegunde/GrÑfin/Wasserburg a.Inn/Wasserburg a.Inn//LK Rosenheim/
+E$X/Bistum/Freising/Freising//Bayern/
+H$Testament/EinkÅnfte/unbestimmt/unbestimmt//  ?
+W$Regensburg/moneta/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$sexaginta librarum Ratisponensium monete reddituum rerum ex donatione
+
+DOK$Schmid1_09/1224.11.20/1224.11.20/1224 November 20/?/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Konrad von Regensburg inkorporiert mit Zustimmung des Domkapitels nach
+einigen Verhandlungen der Kirche der hl. Maria, gewîhnlich "die alte Kapelle"
+genannt, um ihrem Notstand abzuhelfen, die eben vakante St. Kassianskirche,
+welche die Pfarrkirche der alten Kapelle ist und auf welche letztere das
+PrÑsentationsrecht hat. DafÅr soll der Konvent der alten Kapelle die
+"commemoratio Beate Virginis Marie" in officio et missa einlegen und zwar von
+der Pfingstoktav bis Advent an allen jenen Samstagen, an denen das Offizium und
+die Messe nicht ohnehin De Beata gefeiert werden. Ferner soll der Konvent fÅr
+ihn (den Bischof) und seine Vorfahren, zumal fÅr seine Eltern, einen Jahrtag
+halten. Der vom Konvent auf die Pfarrkirche St. Kassian prÑsentierte Kanonikus
+hat von ihm (dem Bischof) oder seinen Nachfolgern die cura animarum zu erholen
+und dem Konvent der alten Kapelle jÑhrlich 8 Pfund Regensburger Pfennige zu
+verabreichen, die an die Kanoniker in bestimmter Weise zu verteilen sind.
+
+REG$Bischof Konrad von Regensburg inkorporiert mit Zustimmung des Domkapitels nach
+einigen Verhandlungen der Kirche der hl. Maria, um ihrem Notstand abzuhelfen,
+die eben vakante St. Kassianskirche. DafÅr soll der vom Konvent der alten
+Kapelle auf die Pfarrkirche St. Kassian prÑsentierte Kanonikus diesem jÑhrlich 8
+Pfund Regensburger Pfennige verabreichen, die an die Kanoniker in bestimmter
+Weise zu verteilen sind.
+F$Schmid 1/09/4/4
+G$X/Kanonikus/Regensburg/Regensburg,St.Kassian//Bayern/
+E$X/Konvent/Regensburg/Regensburg,Alte Kapelle//Bayern/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt// ?
+W$Regensburg/X/
+O$8/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$Schmid1_19/1235.5.5/1235.5.5/1235 Mai 5/?/Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Otto, Pfalzgraf bei Rhein und Herzog in Bayern, bekundet, da· Otto von
+Vohburch, seine Frau Mechthild und deren Sîhne Otto, Heinrich, Konrad, Hartrad,
+Berthold und Hildebrand von den BrÅdern zur alten Kapelle zu Regensburg zwei von
+seinem Notar Heinrich, Propst zu MÅnster und Kanonikus zur alten Kapelle
+resignierte Huben zu Liumerstat gegen einen jÑhrlichen Zins von einem Pfund
+Regensburger Pfennige, 3 GÑnsen und 6 HÅhnern auf Lebenszeit erhalten haben, und
+bestÑtigt diese öbertragung.
+
+REG$Otto, Pfalzgraf bei Rhein und Herzog in Bayern, bekundet, da· Otto von
+Vohburch, seine Frau Mechthild und deren Sîhne Otto, Heinrich, Konrad, Hartrad,
+Berthold und Hildebrand von den BrÅdern zur alten Kapelle zu Regensburg zwei von
+seinem Notar Heinrich, Propst zu MÅnster und Kanonikus zur alten Kapelle
+resignierte Huben zu Liumerstat gegen einen jÑhrlichen Zins von einem Pfund
+Regensburger Pfennige, 3 GÑnsen und 6 HÅhnern auf Lebenszeit erhalten haben, und
+bestÑtigt diese öbertragung.
+F$Schmid 1/19/7/7
+G$Otto/Genannter/Vohburg a.d.Donau/Vohburg a.d.Donau/Vohburch/OB,Landreis Pfaffenhofen a.d.Ilm/
+E$X/Konvent/Regensburg/Regensburg,Alte Kapelle//Bayern/
+H$Zins/Immobilien/uBayern Leumerstadt/uBayern,Leumerstadt?/Liumerstat/wo??   ##
+W$Regensburg/X/
+O$1/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.        Auf S.478 viele monetarii S.11.
+
+DOK$Schmid1_28/1250.3.25/1250.3.25/1250 MÑrz 25/?/X/X//
+S$X/X/X
+V$X/X/X
+K$Dekan Sighard und das Kapitel zur alten Kapelle in Regensburg verleihen durch
+die Hand des Obellarius Reihper ihre GÅter in Wolfspach dem gestrengen Herrn
+Hilprand von Puhperch und seinem Sohn Otto gegen jÑhrlichen Zins von 2 Pfund
+Regensburger MÅnze. Hilprand verspricht, dem Stift durch den Herzog eine gleiche
+Urkunde ausfertigen zu lassen, sobald dieser nach Regensburg kommen werde.
+
+REG$Dekan Sighard und das Kapitel zur alten Kapelle in Regensburg verleihen durch
+die Hand des Obellarius Reihper ihre GÅter in Wolfspach dem gestrengen Herrn
+Hilprand von Puhperch und seinem Sohn Otto gegen jÑhrlichen Zins von 2 Pfund
+Regensburger MÅnze. Hilprand verspricht, dem Stift durch den Herzog eine gleiche
+Urkunde ausfertigen zu lassen, sobald dieser nach Regensburg kommen werde.
+F$Schmid 1/28/9/9
+G$Hilprand;Otto/Genannter/Buchberg/Buchberg/Puhperch/abgeg.Burg bei Cham,LK Cham/
+E$X/Kapitel/Regensburg/Regensburg,Alte Kapelle//Bayern/
+H$Zins/Immobilien/uOberpfalz Wolfspach/uOberpfalz,Wolfspach//wo?? ##
+W$Regensburg/moneta/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$Trad.Regensburg_647/1080.0.0/1085.0.0/[ca. 1080 - 1085]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Naniwib Åbergibt zwei Leibeigene als Censualen an das Kloster S. Emmeran.
+
+REG$Naniwib Åbergibt zwei Leibeigene als Censualen gegen einen jÑhrlichen Zins in
+der Hîhe von 30 Passauer Pfennigen an das Kloster S. Emmeran.
+F$Trad. Regensburg/647/317/317
+G$X/Kloster/Regensburg/Regensburg,S.Emmeran//Bayern/
+E$Naniwib/X/X/X//
+H$Zins/Hîrige/unbestimmt/unbestimmt//
+W$Passau/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$ut quot annis XXX den. Pat[avienses] solvat
+
+DOK$QE5_025/1237.5.5/1237.5.5/1237 Mai 5/anno dominice incarnationis MCCXXXVII., III.
+nonas May/Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Der Bischof Sigfried von Regensburg und Herzog Otto vergleichen sich wegen
+verschiedenen Streitigkeiten.
+
+REG$Der Bischof Sigfried von Regensburg und Herzog Otto vergleichen sich wegen
+verschiedenen Streitigkeiten. FÅr die SchÑden, die von Ulrich von Vriuntsberch
+und anderen Ministerialen des Herzogs in Eberspiunt und von den Vîgten von
+Landau (an der unteren Isar) der Kirche von Regensburg zugefÅgt worden sind,
+zahlt der Herzog dem Bischof oder seinem Nachfolger 250 Talent Regensburger
+MÅnze.
+F$QE 5/025/57ff/58
+G$Otto/Herzog/Bayern/Bayern//wo??
+E$Sigfried/Bischof/Regensburg/Regensburg//Bayern/
+H$Wiedergutmachung/Schadenssumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$250/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvet \dots ducenta quinquaginta talenta ratisponensis monete
+
+DOK$QE5_026/1237.6.9/1237.6.9/1237 Juni 9/anno dominice incarnationis MCCXXXVII., quinto
+idus Junii, indictione X./X/X//
+S$X/X/X
+V$X/X/X
+K$SÅhne zwischen dem Bischof Konrad von Freising und dem Herzog Otto.
+
+REG$Herzog Otto von Bayern zahlt Bischof Konrad von Freising 500 Pfund
+Regensburger MÅnze fÅr alle ihm zugefÅgten SchÑden und verpfÑndet ihm zur
+Zahlung derselben EinkÅnfte in der Hîhe von 100 Pfund, welche er von der Kirche
+von Freising als Lehen hat,
+F$QE 5/026/60ff/62
+G$Otto/Herzog/Bayern/Bayern//wo??
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$Wiedergutmachung/Schadenssumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvet episcopo memorato pro universis dampnis sibi illatis quingentas libras
+Ratisponensis monete
+
+REG$Herzog Otto von Bayern zahlt Bischof Konrad von Freising 500 Pfund
+Regensburger MÅnze fÅr alle ihm zugefÅgten SchÑden und verpfÑndet ihm zur
+Zahlung derselben EinkÅnfte in der Hîhe von 100 Pfund, welche er von der Kirche
+von Freising als Lehen hat.
+F$QE 5/026/60ff/62
+G$Konrad/Bischof/Freising/Freising//Bayern/
+E$Otto/Herzog/Bayern/Bayern//wo??
+H$PfandgeschÑft/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro solutione peccunie memorate centum librarum redditus de feodo
+
+REG$Herzog Otto von Bayern zahlt Bischof Konrad von Freising 500 Pfund
+Regensburger MÅnze fÅr alle ihm zugefÅgten SchÑden und verpfÑndet ihm zur
+Zahlung derselben EinkÅnfte in der Hîhe von 100 Pfund, welche er von der Kirche
+von Freising als Lehen hat. Sollten die EinkÅnfte die Hîhe von 100 Pfund nicht
+erreichen, werden BÅrgen, die der Bischof auswÑhlt, die fehlende Summe ergÑnzen.
+F$QE 5/026/60ff/62
+G$X/X/X/X//
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$EinkÅnfte/Lehen/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus feodales episcopo assignandi centum librarum summam plenarie non
+attingunt
+
+DOK$QE5_034/1242.12.4/1242.12.4/1242 Dezember 4/anno domini MCCXLII., indictione prima,
+pridie nonis Decembris/Straubing/Straubing//Niederbayern,BA Erding/
+S$X/X/X
+V$X/X/X
+K$Herzog Otto von Bayern bestÑtigt dem Kloster Niederalteich die demselben von
+dem Grafen Berthold von Bogen geschenkten GÅter zu Arnpruck.
+
+REG$Herzog Otto von Bayern bestÑtigt dem Kloster Niederalteich die demselben von
+dem Grafen Berthold von Bogen geschenkten GÅter zu Arnpruck unter der Bedingung,
+da· die Schenkung ungÅltig sein soll, wenn sich herausstellt, da· Graf Berthold
+von Bogen ohne seine (Otto\'s) oder seines Vaters (Herzogs Ludwig sel.
+Andenkens), Einwilligung dieses Gut niemanden vermachen oder schenken konnte. In
+diesem Fall fÑllt es ihm zu, doch sollen die 75 Pfund Regensburger MÅnze, wofÅr
+es dem Sifrid von Grauenwisen verpfÑndet war, ersetzt werden von ihm.
+F$QE 5/034/74ff/75
+F$Chmel/005/139ff/140
+F$MB 11/072/212/213
+G$Otto/Herzog/Bayern/Bayern//
+E$X/Kloster/Niederalteich/Niederalteich//Bayern,zw.Deggendorf u.Passau/
+H$Pfand_Auslîse/Immobilien/Arnbruck/Arnbruck/Arnpruck/wo?? NB,LK Regen,G.ArnbrÅck/
+W$Regensburg/moneta/
+O$75/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$persolutis tamen prius LXX quinque libris Ratisponensis monete
+B$Insert in Chmel 5, S. 139ff.
+
+DOK$Chmel_005/1242.12.4/1242.12.4/1242 Dezember 4/anno domini MCCXLII., indictione prima,
+pridie nonis Decembris/Straubing/Straubing//Niederbayern  das ist das Datum der Urkunde oben!?
+S$X/X/X
+V$X/X/X
+K$Abt Hermann von Niederalteich lîste das Gut in "Ennepruke", welches einst
+Graf
+Berthold von Bogen der Kirche zu Altaich geschenkt hatte und das fÅr 75 Pfund
+Pfennige verpfÑndet war, um 60 Pfund wieder ein, 15 Pfund wurden nachgelassen.
+
+REG$Abt Hermann von Niederalteich lîste das Gut in "Ennepruke", welches einst
+Graf
+Berthold von Bogen der Kirche zu Altaich geschenkt hatte und das fÅr 75 Pfund
+Pfennige verpfÑndet war, um 60 Pfund wieder ein, 15 Pfund wurden nachgelassen.
+F$Chmel/005/139ff/140
+G$X/X/X/X//
+E$Hermann/Abt/Niederalteich/Niederalteich//NBayern,zw.Deggendorf u.Passau/
+H$PfandgeschÑft/Immobilien/Arnbruck/Arnbruck/Arnpruck/wo??  NB,LK Regen,G.ArnbrÅck/
+W$X/X/
+O$75/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$obligatum fuit pro LXXV libris
+
+REG$Abt Hermann von Niederalteich lîste das Gut in "Ennepruke", welches einst
+Graf
+Berthold von Bogen der Kirche zu Altaich geschenkt hatte und das fÅr 75 Pfund
+Pfennige verpfÑndet war, um 60 Pfund wieder ein, 15 Pfund wurden nachgelassen.
+F$Chmel/005/139ff/140
+G$Hermann/Abt/Niederalteich/Niederalteich//NBayern,zw.Deggendorf u.Passau/
+E$X/X/X/X//
+H$PfandgeschÑft_Auslîse/Immobilien/Arnbruck/Arnbruck/Arnpruck/wo??   NB,LK Regen,G.ArnbrÅck/
+W$X/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$redemimus pro LX talentis
+
+REG$Abt Hermann von Niederalteich lîste das Gut in "Ennepruke", welches einst
+Graf
+Berthold von Bogen der Kirche zu Altaich geschenkt hatte und das fÅr 75 Pfund
+Pfennige verpfÑndet war, um 60 Pfund wieder ein, 15 Pfund wurden nachgelassen.
+F$Chmel/005/139ff/140
+G$X/X/X/X//
+E$Hermann/Abt/Niederalteich/Niederalteich//NBayern,zw.Deggendorf u.Passau/
+H$PfandgeschÑft_Nachla·/Immobilien/Arnbruck/Arnbruck/Arnpruck/wo??      NB,LK Regen,G.ArnbrÅck/
+W$X/X/
+O$15/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XV relaxatis
+B$libra aus dem Zusammenhang erschlossen.
+
+DOK$QENF28I_013/1207.0.0/1215.0.0/(um 1207 - 1215)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Kanoniker von St. Johann in Regensburg geben Trautwein, BÅrger von
+Regensburg, seiner Hausfrau Mechthilt und ihrem Sohn Gottfried einen von Rapoto
+Wurzelinus gekauften Garten westlich vor der Stadt zu Leibrecht.
+
+REG$Die Kanoniker von St. Johann in Regensburg geben Trautwein, BÅrger von
+Regensburg, seiner Hausfrau Mechthilt und ihrem Sohn Gottfried einen von Rapoto
+Wurzelinus gekauften Garten westlich vor der Stadt zu Leibrecht.
+F$QE NF 28I/013/24ff/25
+G$Trautwein/BÅrger/Regensburg/Regensburg//Bayern/
+E$X/Kirche/Regensburg/Regensburg,St.Johann//Bayern/
+H$Leibrecht/Immobilien/Regensburg/Regensburg//Bayern  ?Leibgeding oder Zins
+W$Regensburg/moneta/
+O$0,5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Ratisponensis monet\c{e} dimidiam libram
+
+DOK$QENF28I_026/1237.0.0/1237.0.0/1237/anno incarnationis domini MCCXXXVII., indictione
+X./X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Ulrich und das Kapitel von St. Johann in Regensburg geben Adelheid,
+der Witwe des Ritters Reimar von Brennberg, Besitz in Postfelden (bei LK
+Regensburg) zu Leibrecht.
+
+REG$Propst Ulrich und das Kapitel von St. Johann in Regensburg geben Adelheid, der
+Witwe des Ritters Reimar von Brennberg, Besitz in Postfelden (bei LK
+Regensburg) zu Leibrecht.
+F$QE NF 28I/026/50ff/52
+G$Adelheid/Genannte/Brennberg/Brennberg//Oberpfalz,LK Regensburg/
+E$X/Kapitel/Regensburg/Regensburg,St.Johann//Bayern/
+H$Leibrecht/Immobilien/Postfelden/Postfelden//LK Regensburg/
+W$Regensburg/moneta dapsilis et currens/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$talentum dimidium Ratisponensis monete dapsilis et currentis.
+
+DOK$QENF28I_027/1240.0.0/1240.0.0/1240/anno ab incarnatione domini 1240/X/X//
+S$X/X/X
+V$X/X/X
+K$Reiza, abbatissa Superioris Monasterii, beurkundet, da· des Klosters Pfarrer
+Wolframmus dem Kloster zur Vermeidung von GÅterverkÑufen, da dem Konvent vor
+allem durch die BedrÅckung der Vîgte der Lebensunterhalt fehlte, 30 Pfund
+Regensburger Pfennige zum gemeinen Nutzen des Konvents mit der Auflage schenkte,
+da· der Konvent nach seinem Tod seinen Jahrtag in festgesetzter Weise begehe.
+
+REG$Reiza, abbatissa Superioris Monasterii, beurkundet, da· des Klosters Pfarrer
+Wolframmus dem Kloster zur Vermeidung von GÅterverkÑufen, da dem Konvent vor
+allem durch die BedrÅckung der Vîgte der Lebensunterhalt fehlte, 30 Pfund
+Regensburger Pfennige zum gemeinen Nutzen des Konvents mit der Auflage schenkte,
+da· der Konvent nach seinem Tod seinen Jahrtag in festgesetzter Weise begehe.
+F$QE NF 28I/027/52f/52
+G$Wolframmus/Pfarrer/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$30/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern   ?
+H$Anniversar/Anniversar/Regensburg/Regensburg,Superius Monasterium//Bayern   ?
+W$Regensburg/X/
+O$2/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die ébtissin 12 Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$Reiza/ébtissin/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die Nonnen ein Pfund.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/Nonnen/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich pro urna medonis 66 Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/X/X/X//
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$66/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die drei fratres sacerdotes 36
+Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/fratres sacerdotes/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$36/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die vier ministri 32 Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/ministri/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$32/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die clerici fratres ad sacrificium 6
+Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/clerici fratres/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die clerici fratres ad luminaria
+parrochie 12 Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/clerici fratres/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die ecclesiastici 4 Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/ecclesiastici/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die familia curie 12 Pfennige.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/familia curie/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die fraternitas 60 Pfennige, wovon
+die fratres layci 30 Pfennige fÅr Almosen geben, zur Messe 4 gro·e Kerzen
+anzÅnden und 3 Pfennige opfern sollen.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/fraternitas/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die fraternitas 60 Pfennige, wovon
+die fratres layci 30 Pfennige fÅr Almosen geben, zur Messe 4 gro·e Kerzen
+anzÅnden und 3 Pfennige opfern sollen.
+F$QE NF 28I/027/52f/53
+G$X/fratres layci/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/X/X/X//
+H$Almosen/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen, nÑmlich an die fraternitas 60 Pfennige, wovon
+die fratres layci 30 Pfennige fÅr Almosen geben, zur Messe 4 gro·e Kerzen
+anzÅnden und 3 Pfennige opfern sollen.
+F$QE NF 28I/027/52f/53
+G$X/fratres layci/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Opfer/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$ébtissin Reiza des Superioris Monasterii verfÅgt mit Zustimmung des Konvents,
+da· fÅr den Jahrtag des Wolframmus, des Pfarrer des Klosters, von dem predium
+des Klosters in Walde (Wald LK Roding) jÑhrlich am Vortag 2 Pfund Regensburger
+Pfennige gereicht werden sollen, die durch einen vom Konvent zu wÑhlenden frater
+clericus verteilt werden sollen. Zu seinen Lebzeiten erhÑlt der Pfarrer die 2
+Pfund an der Vigil von St. Andreas ausgehÑndigt, um sie am Jahrtag seiner Eltern
+an den Konvent zu verteilen.
+F$QE NF 28I/027/52f/53
+G$X/Kloster/Regensburg/Regensburg,Superius Monasterium//Bayern/
+E$Wolframmus/Pfarrer/Regensburg/Regensburg,Superius Monasterium//Bayern/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$QENF28I_028/1245.12.15/1245.12.15/1245 Dezember 15/anno domini MCCXLV. XVIII. kal. ian.,
+indictione IIII./Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Abt Kuno und der Konvent des Klosters Kastl (LK Neumarkt Opf.) geben dem
+Regensburger Archidiakon Heinrich Semann fÅr 24 Pfund Regensburger Pfennige, die
+er ihnen zur Bezahlung der ihnen in der Fehde zwischen dem Grafen von
+Hirschberg (LK Beilngries) und dem Ritter Konrad von Hohenfels (LK Parsberg)
+auferlegten Brandschatzung gab, ihr Haus in der Bruckstra·e zu Regensburg,
+genannt "Kastlerhaus", zu lebenslÑnglichem Genu·.
+
+REG$Abt Kuno und der Konvent des Klosters Kastl (LK Neumarkt Opf.) geben dem
+Regensburger Archidiakon Heinrich Semann fÅr 24 Pfund Regensburger Pfennige, die
+er ihnen zur Bezahlung der ihnen in der Fehde zwischen dem Grafen von
+Hirschberg (LK Beilngries) und dem Ritter Konrad von Hohenfels (LK Parsberg)
+auferlegten Brandschatzung, nÑmlich 85 Pfund, gab, ihr Haus in der Bruckstra·e
+zu Regensburg, genannt "Kastlerhaus", zu lebenslÑnglichem Genu·.
+F$QE NF 28I/028/53ff/54
+G$Kuno/Abt/Kastl/Kastl//LK Neumarkt Opf./
+E$X/Graf/Hirschberg/Hirschberg//LK Beilngries/
+E$Konrad/Ritter/Hohenfels/Hohenfels//LK Parsberg/
+H$Brandschatzung/Immobilien/Kastl/Kastl//LK Neumarkt Opf.  ?
+W$X/X/
+O$85/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$unde pecuniam eis dandam, LXXXV videlicet libras, habere potuissemus
+
+REG$Abt Kuno und der Konvent des Klosters Kastl (LK Neumarkt Opf.) geben dem
+Regensburger Archidiakon Heinrich Semann fÅr 24 Pfund Regensburger Pfennige, die
+er ihnen zur Bezahlung der ihnen in der Fehde zwischen dem Grafen von
+Hirschberg (LK Beilngries) und dem Ritter Konrad von Hohenfels (LK Parsberg)
+auferlegten Brandschatzung gab, ihr Haus in der Bruckstra·e zu Regensburg,
+genannt "Kastlerhaus", zu lebenslÑnglichem Genu·.
+F$QE NF 28I/028/53ff/54
+G$Heinrich Semann/Archidiakon/Regensburg/Regensburg//Bayern/
+E$X/Kloster/Kastl/Kastl//LK Neumarkt Opf./
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$24/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se probavit XXIIII libris denariorum Ratisponensis monete
+
+DOK$QENF34_038/1140.0.0/1160.0.0/1140 - 1160/X/X/X//
+S$X/X/X
+V$X/X/X
+K$ébtissin Mathild von St. Paul in Regensburg kauft von Hippo einen Hof zu
+Tiefbrunn (Gem. Moosham LK Regensburg). Als Dietwin und Hartwig Erbrecht auf dem
+Hof beanspruchen, einigt sich ébtissin Gisela mit ihnen.
+
+REG$ébtissin Mathild von St. Paul in Regensburg kauft von Hippo einen Hof zu
+Tiefbrunn (Gem. Moosham LK Regensburg). Als Dietwin und Hartwig Erbrecht auf dem
+Hof beanspruchen, einigt sich ébtissin Gisela mit ihnen. Wer gegen die Abmachung
+verstî·t, soll 20 Pfund guter Regensburger Pfennige zahlen.
+F$QE NF 34/038/37f/38
+G$Dietwin;Hartwig/X/X/X//
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$20/lib./X
+Z$X/X/X
+M$X/den./guter/Z
+Q$sull(e)n sie zu hanndt verfall(e)n sein zbaintzig pfundt gutt(er)
+Reg(e)nspurg(er) pfenni(n)g
+
+DOK$QENF34_048/1140.0.0/1170.0.0/(1140 - 1170)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Adelheid, Witwe Anteichs von Minnenhausen (heute Berghausen LK Mainburg)
+verkauft mit EinverstÑndnis ihrer Sîhne dem Konvent von St. Paul in Regensburg
+einen Hof zu Scharmassing (Gem. Oberhinkofen LK Regensburg).
+
+REG$Adelheid, Witwe Anteichs von Minnenhausen (heute Berghausen LK Mainburg)
+verkauft mit EinverstÑndnis ihrer Sîhne dem Konvent von St. Paul in Regensburg
+einen Hof zu Scharmassing (Gem. Oberhinkofen LK Regensburg) fÅr 18 Pfund guter
+Regensburger Pfennige.
+F$QE NF 34/048/44f/45
+G$X/Konvent/Regensburg/Regensburg,St.Paul//Bayern/
+E$Adelheid/Genannter/Berghausen/Berghausen/Minnenhausen/LK Mainburg/
+H$Kauf/Immobilien/Oberhinkofen Scharmassing/Oberhinkofen,Scharmassing//LK
+Regensburg,G.Oberhinkofen/
+W$Regensburg/X/
+O$18/lib./X
+Z$X/X/X
+M$X/den./guter/A
+Q$vmb achtzeh(e)n pfund gutt(er) Reg(e)nsp(ur)g(er) pfenni(n)g
+
+DOK$QENF34_034/1100.0.0/1100.0.0/(um 1100)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abgabe von Geld an das Kloster St. Paul in Regensburg.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/KallmÅnz/KallmÅnz//LK Burglengenfeld/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$Zins/Immobilien/KallmÅnz/KallmÅnz//LK Burglengenfeld/
+W$Regensburg/X/
+O$X/X/X
+Z$5/sol./X
+M$X/den./X/Z
+Q$zu zin· an geld V schilling Reg(e)nspurg(er) pfenni(n)g
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/KallmÅnz/KallmÅnz//LK Burglengenfeld/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$Schuhgeld/?Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$X den., das haist daz schuchgelt
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/Stadt/Regensburg/Regensburg//Bayern/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$Abgabe/Geldsumme/unbestimmt/unbestimmt// ?
+W$Regensburg/X/
+O$X/X/X
+Z$5/sol./X
+M$5/den./minus/Z
+Q$V schilli(n)g Reg(e)nspurger pfenni(n)g mynder V den.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Irlbach/Irlbach//LK Regensburg,G.GrÅnthal/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$Schuhgeld/?Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III schilling, di· gelt geh\e{o}rt zu den schuhen.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Ettersdorf/Ettersdorf//LK Regensburg,G.Wiesent/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Ettersdorf/Ettersdorf//LK Regensburg,G.Wiesent/
+W$X/X/
+O$0,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$1|2 lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Gailsbach Gitting/Gailsbach,Gitting//LK Regensburg,G.Hagelstadt/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Gailsbach Gitting/Gailsbach,Gitting//LK
+Regensburg,PostHagelstadt/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$V schilling
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Veitsbuch/Veitsbuch//LK Landshut,G.Weng/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Veitsbuch/Veitsbuch//LK Landshut,G.Weng/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$V schilling
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$Gunzo/X/X/X//
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$I pfund pfenni(n)g.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$Burghard/X/X/X//
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$3,5/lib./X
+Z$12/sol./X
+M$10/den./X/Z
+Q$III pfund vnd 1|2 vnd zu den sib(e)ntzig tag(en) XII schilling vnd X den.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$Burghard/X/X/X//
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$Zehent/Mobilien_LÑmmer?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$f\e{u}r die lempper X sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Wolkering/Wolkering//LK Regensburg,G.Thalmassing/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Wolkering/Wolkering//LK Regensburg,G.Thalmassing/
+W$X/X/
+O$X/X/X
+Z$3/sol./X
+M$X/X/X/Z
+Q$III schilling.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Illkofen/Illkofen//LK Regensburg,G.Illkofen/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Illkofen/Illkofen//LK Regensburg,G.Illkofen/
+W$X/X/
+O$X/X/X
+Z$13/sol./X
+M$X/X/X/Z
+Q$XIII sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Irlbach/Irlbach//LK Regensburg,G.GrÅnthal/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Irlbach/Irlbach//LK Regensburg,G.GrÅnthal/
+W$X/X/
+O$X/X/X
+Z$11/sol./X
+M$X/X/X/Z
+Q$XI schilling
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/GrÅnthal Oberackerhof/GrÅnthal,Oberackerhof//LK Regensburg,G.GrÅnthal/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/GrÅnthal Oberackerhof/GrÅnthal,Oberackerhof//LK
+Regensburg,G.GrÅnthal/
+W$X/X/
+O$0,5/lib./X
+Z$X/X/X
+M$15/den./X/Z
+Q$1|2 lb. vnd XV den.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$Weipolt/X/X/X//
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$2,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$II lb. vnd 1|2 lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/GrÅnthal Unterackerhof/G.GrÅnthal,Unterackerhof//LK
+Regensburg,G.GrÅnthal/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/GrÅnthal Unterackerhof/GrÅnthal,Unterackerhof//LK
+Regensburg,G.GrÅnthal/
+W$X/X/
+O$0,5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$1|2 pfund pfenni(n)g
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/191
+G$X/X/Gonnersdorf/Gonnersdorf//LK Regensburg,G.GrÅnthal/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Gonnersdorf/Gonnersdorf//LK Regensburg,G.GrÅnthal/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$II pfundt.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Illkofen/Illkofen//LK Regensburg,G.Illkofen/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Illkofen/Illkofen//LK Regensburg,G.Illkofen/
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/Z
+Q$XIIII sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/X/X//
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$30/den./X/Z
+Q$vier pfund vnd dreyssig pfenni(n)g gehorent zu den pelltzen den fraw(e)n
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Erlbach/Erlbach//LK Regensburg,G.Hauzendorf/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Erlbach/Erlbach//LK Regensburg,G.Hauzendorf/
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$X sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Irlbach/Irlbach//LK Regensburg,G.GrÅnthal/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Irlbach/Irlbach//LK Regensburg,G.GrÅnthal/
+W$X/X/
+O$0,5/lib./X
+Z$X/X/X
+M$60/den./X/Z
+Q$1|2 lb. vnd besunderlich von den pauern LX phenni(n)g.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Wenzenbach Lindhof/Wenzenbach/Lindhof/LK Regensburg,aufgegangen
+i.Wenzenbach/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Wenzenbach Lindhof/Wenzbenbach/Lindhof/LK
+Regensburg,aufgeg.i.Wenzenbach/
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/Z
+Q$XIIII sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Wenzenbach Lindhof/Wenzenbach/Lindhof/LK Regensburg,aufgeg.i.Wenzenbach/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte_Summe/Immobilien/Wenzenbach Lindhof/Wenzenbach/Lindhof/LK
+Regensburg,aufgeg.i.Wenzenbach/
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$60/den./minus/Z
+Q$IIII lb. my(n)der LX phenni(n)g
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Altenthann/Altenthann//LK Regensburg/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Altenthann/Altenthann//LK Regensburg/
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$zu pfrumpt X sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Degerndorf Rackendorf/Degerndorf,Rackendorf//LK Parsberg,G.Degerndorf/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Degerndorf Rackendorf/Degerndorf,Rackendorf//LK
+Parsberg,G.Degerndorf/
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$X sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Wiesendorf/Wiesendorf//LK Straubing,G.Rain/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Wiesendorf/Wiesendorf//LK Straubing,G.Rain/
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$X sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Hîslgrub/Hîslgrub//LK Regensburg,G.Pettenreuth/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Hîslgrub/Hîslgrub//LK Regensburg,G.Pettenreuth/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$V sol.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Hîslgrub/Hîslgrub//LK Regensburg,G.Pettenreuth/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte_Summe/Immobilien/Hîslgrub/Hîslgrub//LK Regensburg,G.Pettenreuth/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$60/den./X/Z
+Q$di· macht III pfunt vnd LX den.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Tiefbrunn/Tiefbrunn//LK Regensburg,G.Moosham/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Tiefbrunn/Tiefbrunn//LK Regensburg,G.Moosham/
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$VI pfund
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Traubling/(Nieder-,Ober-)Traubling/Traubling/LK Regensburg/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Traubling/(Nieder-,Ober-)Traubling/Traubling/LK Regensburg/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Oberhinkofen/Oberhinkofen//LK Regensburg/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Oberhinkofen/Oberhinkofen//LK Regensburg/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Holzheim a.Forst/Holzheim a.Forst//LK Burglengenfeld/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Holzheim a.Forst/Holzheim a.Forst//LK Burglengenfeld/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Poign HÑnghof/Poign,HÑnghof//LK Regensburg,G.Poign/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Poign HÑnghof/Poign,HÑnghof//LK Regensburg,G.Poign/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Oberhinkofen/Oberhinkofen//LK Regensburg/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Oberhinkofen/Oberhinkofen//LK Regensburg/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Gisseltshausen/Gisseltshausen//LK Rottenburg a.d.Laaber,G.Pattendorf/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Gisseltshausen/Gisseltshausen//LK Rottenburg a.d.Laaber,G.Pattendorf/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$II pfundt.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Neudorf_b.Regensburg Tenacker/Neudorf_b.Regensburg,Tenacker//LK
+Bogen,G.Neudorf eher LK Regensburg/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Mitterfels Miething/Mitterfels,Miething//LK Bogen,G.Mitterfels/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+REG$EinkÅnfte des Klosters St. Paul in Regensburg.
+F$QE NF 34/034/191f/192
+G$X/X/Mitterfels Miething/Mitterfels,Miething//LK Bogen,G.Mitterfels/
+E$X/Kloster/Regensburg/Regensburg,St.Paul//Bayern/
+H$EinkÅnfte/Immobilien/Mitterfels Miething/Mitterfels,Miething//LK Bogen,G.Mitterfels/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$I lb.
+B$Urbar.
+
+DOK$QE1_073/1150.0.0/1157.0.0/1150 - 1157/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Walter von Wessobrunn Åbergibt das Gut, das Enzeman und andere
+Wessobrunnner famuli in Widenpach besitzen und das er durch Tausch erworben
+hatte, durch die Hand des Vogtes Wernhard von Stoffen fÅr 15 Mark Silber und 5
+Talent Regensburger MÅnze an das Stift Berchtesgaden.
+
+REG$Abt Walter von Wessobrunn Åbergibt das Gut, das Enzeman und andere
+Wessobrunnner famuli in Widenpach besitzen und das er durch Tausch erworben
+hatte, durch die Hand des Vogtes Wernhard von Stoffen fÅr 15 Mark Silber und 5
+Talent Regensburger MÅnze an das Stift Berchtesgaden.
+F$QE 1/073/275/275
+G$X/Kirche/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Walter/Abt/Wessobrunn/Wessobrunn//OB,LK Weilheim-Schongau/
+H$öbergabe/Immobilien/Weidenbach/Weidenbach/Widenpach/Ldg.MÅhldorf,Pf.Heldenstein/
+W$X/X
+O$15/marca/X
+Z$X/X/X
+M$X/argentum/purum/A
+Q$pro XV marcis puri argenti et quinque talentis Ratisponensis monete.
+B$Laut QE NF 32 I ca. 1140 zu datieren.
+Datierung nicht nach Reihenfolge, sondern nach Zeugen.
+
+REG$Abt Walter von Wessobrunn Åbergibt das Gut, das Enzeman und andere
+Wessobrunnner famuli in Widenpach besitzen und das er durch Tausch erworben
+hatte, durch die Hand des Vogtes Wernhard von Stoffen fÅr 15 Mark Silber und 5
+Talent Regensburger MÅnze an das Stift Berchtesgaden.
+F$QE 1/073/275/275
+G$X/Kirche/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Walter/Abt/Wessobrunn/Wessobrunn//LK Weilheim-Schongau/
+H$öbergabe/Immobilien/Weidenbach/Weidenbach/Widenpach/LK Ansbach,Mittelfranken,Ldg.MÅhldorf,Pf.Heldenstein/
+W$Regensburg/moneta/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XV marcis puri argenti et quinque talentis Ratisponensis monete.
+B$Laut QE NF 32 I ca. 1140 zu datieren.
+Datierung nicht nach Reihenfolge, sondern nach Zeugen.
+
+DOK$QE1_140/1150.0.0/1171.0.0/1150 - 1171/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Eufemia, die Witwe Heinrichs von Hegel, verzichtet auf ihre AnsprÅche an einem
+Viertelsalzbrunnen zu (Reichen-)Hall, den einst ihre Schwiegermutter Diemud dem
+Stift Berchtesgaden Åbergeben und dann ihr Mann zu Lehen hatte, gegen 50 Pfund
+Regensburger Pfennige zugunsten Berchtesgadens.
+
+REG$Eufemia, die Witwe Heinrichs von Hegel, verzichtet auf ihre AnsprÅche an einem
+Viertelsalzbrunnen zu (Reichen-)Hall, den einst ihre Schwiegermutter Diemud dem
+Stift Berchtesgaden Åbergeben und dann ihr Mann zu Lehen hatte, gegen 50 Pfund
+Regensburger Pfennige zugunsten Berchtesgadens.
+F$QE 1/140/318ff/319
+G$X/Kloster/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Eufemia/Genannte/uOBayern Hegel/uOBayern,Hegel//wo??
+H$Verzicht/Immobilien/Reichenhall/Reichenhall/Oberbayern,LK Berchtesgadener Land/
+W$Regensburg/moneta/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quinquaginta libras Ratisponensis monete dederunt
+
+DOK$QE1_158/1162.0.0/1200.10.27/1162 - 1200 Oktober 27/X/Berchtesgaden/Berchtesgaden//Oberbayern/
+S$X/X/X
+V$X/X/X
+K$Dietrich von Baumgarten verzichtet auf GÅter in Rotehouen? und andere, welche
+sein Vetter? Megenhard dem hl. Petrus zu Berchtesgaden Åbergeben hatte,
+zugunsten von Stift Berchtesgaden gegen Erhalt von 15 Talent Regensburger MÅnze.
+
+REG$Dietrich von Baumgarten verzichtet auf GÅter in Rotehouen und andere, welche
+sein Vetter ?Megenhard dem hl. Petrus zu Berchtesgaden Åbergeben hatte,
+zugunsten von Stift Berchtesgaden gegen Erhalt von 15 Talent Regensburger MÅnze.
+F$QE 1/158/332f/333
+G$X/Stift/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Dietrich/Genannter/Baumgarten/Baumgarten//wo??  G.Schneizlreuth??welches  LK Pfarrkirchen
+H$Verzicht/Immobilien/uOBayern Rotehouen/uOBayern,Rotehouen//wo??
+W$Regensburg/moneta/
+O$15/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$traditis sibi a fratribus XV talentis Ratisponensis monet\c{e}
+
+DOK$QE1_165/1180.0.0/1183.7.11/1180 - 1183 Juli 11/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Wernhard von Wizeberg Åbergibt zusammen mit seiner Frau Elisabeth dem Stift
+Berchtesgaden ein Gut in Walde fÅr 30 Talent.
+
+REG$Wernhard von Wizeberg Åbergibt zusammen mit seiner Frau Elisabeth dem Stift
+Berchtesgaden ein Gut in Walde fÅr 30 Talent.
+F$QE 1/165/336f/336
+G$X/Stift/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Wernhard/Genannter/uOBayern Wizeberg/uOBayern,Wizeberg//wo??
+Wiesenberg,Weissenberg??
+H$Kauf/Immobilien/uOBayern Walde/uOBayern,Walde//Pf.Vogtareut,Ldg.Rosenheim/
+W$X/X/
+O$30/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$tradidit \dots pro XXX talentis predium
+
+REG$Wernhard von Wizeberg Åbergibt zusammen mit seiner Frau Elisabeth dem Stift
+Berchtesgaden ein Gut in Walde fÅr 30 Talent. Nachdem sein Sohn Hecelo Klage
+dagegen erhoben und in Ering am Inn 8 Talent Regensburger MÅnze erhalten hatte,
+verzichteten er und sein Vater bei Strafe von 40 Talent.
+F$QE 1/165/336f/336
+G$X/Stift/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Wernhard/Genannter/uOBayern Wizeberg/uOBayern,Wizeberg//wo??
+E$Hecelo/Genannter/uOBayern Wizeberg/uOBayern,Wizeberg//wo??
+H$Verzicht/Immobilien/uOBayern Walde/uOBayern,Walde//Pf.Vogtareut,Ldg.Rosenheim/
+W$Regensburg/moneta/
+O$8/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$datis rursum octo talentis Ratisponensis monet\c{e}
+
+REG$Wernhard von Wizeberg Åbergibt zusammen mit seiner Frau Elisabeth dem Stift
+Berchtesgaden ein Gut in Walde fÅr 30 Talent. Nachdem sein Sohn Hecelo Klage
+dagegen erhoben und in Ering am Inn 8 Talent Regensburger MÅnze erhalten hatte,
+verzichteten er und sein Vater bei Strafe von 40 Talent.
+F$QE 1/165/336f/336
+G$Wernhard/Genannter/uOBayern Wizeberg/uOBayern,Wizeberg//wo??
+G$Hecelo/Genannter/uOBayern Wizeberg/uOBayern,Wizeberg//wo??
+E$X/Stift/Berchtesgaden/Berchtesgaden//Oberbayern/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$40/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$uterque quadraginta talentorum preposito \dots debitor existat.
+
+DOK$QE1_173/1150.0.0/1230.0.0/1150 - 1230/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Freien Berthold und Otaker verzichten zusammen mit ihrer Mutter Gisila von
+Wenge auf das Gut Haessenheim zugunsten des Stiftes Berchtesgaden gegen 11
+Talent Regensburger MÅnze.
+
+REG$Die Freien Berthold und Otaker verzichten zusammen mit ihrer Mutter Gisila von
+Wenge auf das Gut Haessenheim zugunsten des Stiftes Berchtesgaden gegen 11
+Talent Regensburger MÅnze.
+F$QE 1/173/341/341
+G$X/Stift/Berchtesgaden/Berchtesgaden//Oberbayern/
+E$Berthold;Otaker/Genannter/uNBayern Wenge/uNBayern,Wenge//welches??  G.
+Griesbach??  LK Landshut?? b.Vilshofen nw. Passau
+H$Verzicht/Immobilien/uBayern Haessenheim/uBayern,Haessenheim//wo??
+W$Regensburg/moneta/
+O$11/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$ut \dots persolverentur undecim talenta Ratisponensis monet\c{e}
+
+DOK$QE1_192/1194.0.0/1194.0.0/1194/anno MCLXXXXIIII. ab incarnatione domini/X/X//
+S$X/X/X
+V$X/X/X
+K$Irmgard und ihre Sîhne Heinrich und Reinhold Åbergeben ihr Gut in Ebenberg dem
+Grafen Gebhard von Tollenstein, gegen 61 Talent Regensburger MÅnze, um es dem
+hl. Petrus in Berchtesgaden zu vermachen und Graf Gebhard wurde zum Vogt Åber
+das Gut bestimmt.
+
+REG$Irmgard und ihre Sîhne Heinrich und Reinhold Åbergeben ihr Gut in Ebenberg dem
+Grafen Gebhard von Tollenstein, gegen 61 Talent Regensburger MÅnze, um es dem
+hl. Petrus in Berchtesgaden zu vermachen und Graf Gebhard wurde zum Vogt Åber
+das Gut bestimmt.
+F$QE 1/192/349ff/350
+G$Gebhard/Graf/Tollnstein/Tollnstein/Tollenstein/Markt a.d.AltmÅhl/
+E$Irmgard;Heinrich;Reinhold/X/X/X//
+H$öbergabe/Immobilien/Edenstetten Ebenberg/Edenstetten,Ebenberg//LK
+Deggendorf,G.Edenstetten/
+W$Regensburg/moneta/
+O$61/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro LX et I talentis Ratisponensium probat\c{e} monet\c{e}
+B$neben Tollnstein auch Kreglingen genannt.
+
+DOK$QE1_199/1197.0.0/1197.0.0/1197/anno ab incarnatione domini MCXCVII./X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Baumgarten Åbergibt an den Altar des hl. Petrus in Berchtesgaden
+ein Gut in Eiche, das 70 Pfennige zinst, gegen 6 Talent Regensburger.
+
+REG$Heinrich von Baumgarten Åbergibt an den Altar des hl. Petrus in Berchtesgaden
+ein kleines Gut in Eiche, das 70 Pfennige zinst, gegen 6 Talent Regensburger.
+F$QE 1/199/354f/355
+G$X/Altar/Regensburg/Regensburg,hl.Petrus//Bayern/
+E$Heinrich/Genannter/Baumgarten/Baumgarten//wo??
+H$öbergabe/Immobilien/uBayern Eiche/uBayern,Eiche//wo??Eich G.See LK
+Burglengenfeld??(Oberpfalz)
+W$Regensburg/X/
+O$6/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$acceptis a nobis sex talentis Ratisponensium
+
+REG$Heinrich von Baumgarten Åbergibt an den Altar des hl. Petrus in Berchtesgaden
+ein kleines Gut in Eiche, das 70 Pfennige zinst, gegen 6 Talent Regensburger.
+F$QE 1/199/354f/355
+G$X/X/X/X//
+E$Heinrich/Genannter/Baumgarten/Baumgarten//wo??
+H$Zins/Immobilien/uBayern Eiche/uBayern,Eiche//wo??
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$70/den./X/Z
+Q$solvens non plus quam septuaginta denarios
+
+DOK$QE1_211/1150.0.0/1230.0.0/1150 - 1230/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Frau des Jordan von Kîssen vermacht der Kirche von Berchtesgaden das Gut
+Tolling, das jÑhrlich unter anderem 50 Pfennige IngolstÑdter MÅnze zinst.
+
+REG$Die Frau des Jordan von Kîssen vermacht der Kirche von Berchtesgaden das Gut
+Tolling, das jÑhrlich unter anderem 50 Pfennige IngolstÑdter MÅnze zinst.
+F$QE 1/211/359/359
+G$X/X/X/X//
+E$X/Genannte/uBayern Kîssen/uBayern,Kîssen//wo??
+H$Zins/Immobilien/Vohburg a.d.Donau/Vohburg a.d.Donau/Voburg/OB,Landreis Pfaffenhofen a.d.Ilm/
+W$Ingolstadt/moneta/
+O$X/X/X
+Z$X/X/X
+M$50/den./X/Z
+Q$L den. Ingolstetensis monete
+
+DOK$QENF09_329a/1172.0.0/1173.0.0/(1172 - 1173)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Grafen Otto und Konrad von Valley (LK Miesbach) verpfÑnden Besitz zu
+Bozen und eine Hube in Maurn (bei Steinach BH Innsbruck) und treffen darÅber
+Bestimmungen auf den Todfall.
+
+REG$Die Grafen Otto und Konrad d. J. von Valley Åbergeben einen Humpen und
+einen Kelch, welche das Benediktinerkloster Tegernsee fÅr 16
+Talent an sie verpfÑndet hat, als Pfand fÅr 24 Talent und 3 Schilling
+Regensburger.
+F$QE NF 09/329a/248ff/249
+F$MB 06/X/126ff/126
+F$TUB 1/346a/173f/173
+G$Otto;Konrad/Genannter/Valley/Valley//LK Miesbach/
+E$X/Kloster/Tegernsee/Tegernsee//Bayern/
+H$Pfand_Einlîsung/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$16/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$in pignus XVI talentorum a nobis accipientes
+
+REG$Die Grafen Otto und Konrad d. J. von Valley Åbergeben einen Humpen und
+einen Kelch, welche das Benediktinerkloster Tegernsee fÅr 16
+Talent an sie verpfÑndet hat, als Pfand fÅr 24 Talent und 3 Schilling
+Regensburger.
+F$QE NF 09/329a/248ff/249
+F$MB 06/X/126ff/126
+F$TUB 1/346a/173f/173
+G$X/Kloster/Tegernsee/Tegernsee//Bayern/
+E$Otto;Konrad/Genannter/Valley/Valley//LK Miesbach/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$24/tal./X
+Z$3/sol./X
+M$X/X/X/A
+Q$pro XXIIII talentis et tribus solidis Ratispone in pignus tradiderunt.
+
+DOK$QENF09_344c/1189.0.0/1206.0.0/(1189 - 1206)/X/Rohrdorf/Rohrdorf//LK Rosenheim/
+S$X/X/X
+V$X/X/X
+K$Heinrich von Schweinberg (LK Miesbach), Zellerar des Klosters Tegernsee, lîst
+mit zwîlf Schilling Regensburger MÅnze die AnsprÅche Dietmars auf den von Herzog
+Konrad III. von Dachau Åbereigneten Besitz in Wall (LK Miesbach) ab.
+
+REG$Heinrich von Schweinberg (LK Miesbach), Zellerar des Klosters Tegernsee, lîst
+mit zwîlf Schilling Regensburger MÅnze die AnsprÅche Dietmars auf den von Herzog
+Konrad III. von Dachau Åbereigneten Besitz in Wall (LK Miesbach) ab.
+F$QE NF 09/344c/260ff/262
+F$MB 06/X/149f/149
+G$Heinrich/Genannter/Schweinberg/Schweinberg//LK Miesbach/
+E$Dietmar/X/X/X//
+H$Ablîse/Immobilien/Wall/Wall//LK Miesbach/
+W$Regensburg/moneta/
+O$X/X/X
+Z$12/sol./X
+M$X/X/X/A
+Q$duodecim solidis Ratisponensis monet\c{e} deciditur
+
+DOK$QENF07_118/1242.0.0/1257.0.0/(etwa 1242 - 1257)/X/X/X//
+S$XI/Raitenhaslach/X
+V$X/X/X
+K$Ritter Tiemo von Dahenberch ÅbertrÑgt dem Kloster Raitenhaslach ein Gut
+"Oede".
+
+REG$Ritter Tiemo von Dahenberch ÅbertrÑgt dem Kloster Raitenhaslach ein Gut
+"Oede", das Abt Walther von Raitenhaslach fÅr 7 Pfund Regensburger MÅnze zurÅck-
+gekauft hat.
+F$QE NF 07/118/96f/97
+G$Walther/Abt/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+E$X/X/X/X//
+H$Pfand_RÅckkauf/Immobilien/Hirschhorn Oede/Hirschhorn,Oede//KA Westerndorf,BA
+Eggenfelden,G.Hirschhorn/
+W$Regensburg/moneta/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro VII libris Ratisponensis monete
+
+DOK$QENF07_119/1242.0.0/1257.0.0/(etwa 1242 - 1257)/X/X/X//
+S$XI/Raitenhaslach/X
+V$X/X/X
+K$Friedrich von Mitterskirchen (BA. Eggenfelden) ÅbertrÑgt dem Kloster
+Raitenhaslach das Gut Taiding (BA. Altîtting Gmde. Endlkirchen).
+
+REG$Friedrich von Mitterskirchen (BA. Eggenfelden) ÅbertrÑgt dem Kloster
+Raitenhaslach das Gut Taiding (BA. Altîtting Gmde. Endlkirchen), das jÑhrlich
+80 Pfennige Regensburger MÅnze zinst.
+F$QE NF 07/119/97f/98
+G$X/X/X/X//
+E$Friedrich/Genannter/Mitterskirchen/Mitterskirchen//BA. Eggenfelden/
+H$Zins/Immobilien/Taiding/Taiding//BA. Altîtting,G.Endlkirchen/
+W$Regensburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$80/den./X/Z
+Q$singulis annis LXXX denarios solvit Ratisponensis monete
+
+DOK$QENF07_120/1242.0.0/1257.0.0/(etwa 1242 - 1257)/X/X/X//
+S$XI/Raitenhaslach/X
+V$X/X/X
+K$Der Ritter Heinrich von Dahenberch ÅbertrÑgt dem Kloster Raitenhaslach das Gut
+Hinterthann (BA. Altîtting Gmde. Erlbach).
+
+REG$Der Ritter Heinrich von Dahenberch ÅbertrÑgt dem Kloster Raitenhaslach das Gut
+Hinterthann (BA. Altîtting Gmde. Erlbach), das jÑhrlich 60 Pfennige Regensburger
+MÅnze zinst.
+F$QE NF 07/120/98/98
+G$X/X/X/X//
+E$Heinrich/Genannter/uOBayern Dahenberch/uOBayern,Dahenberch//Linkes Innufer
+zw.Neuîtting u.Marktl/
+H$Zins/Immobilien/Hinterthann/Hinterthann//BA. Altîtting,G.Erlbach/
+W$Regensburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$Solvit autem annuatim denarios LX Ratisponensis monete.
+
+DOK$QENF07_121/1242.0.0/1257.0.0/(etwa 1242 - 1257)/X/X/X//
+S$XI/Raitenhaslach/X
+V$X/X/X
+K$Heinrich der Keiger ÅbertrÑgt dem Kloster Raitenhaslach sein Gut Oberzeitlarn
+(BA. Altîtting).
+
+REG$Heinrich der Keiger ÅbertrÑgt dem Kloster Raitenhaslach sein Gut Oberzeitlarn
+(BA. Altîtting), das Abt Walther fÅr 2 Talent Regensburger MÅnze zurÅckgekauft
+hat.
+F$QE NF 07/121/98f/99
+G$Walther/Abt/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+E$X/X/X/X//
+H$Pfand_RÅckkauf/Immobilien/Oberzeitlarn/Oberzeitlarn//BA.
+Altîtting,O.Zeitlarn i.Oberzeitlarn/
+W$Regensburg/moneta/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro duobus talentis Ratisponensis monete redemit
+
+DOK$QENF07_122/1242.0.0/1257.0.0/(etwa 1242 - 1257)/X/uOBayern Dahenberch/
+uOBayern,Dahenberch//Linkes Innufer zw.Neuîtting u.Marktl/
+S$XI/Raitenhaslach/X
+V$X/X/X
+K$Abt Walther von Raitenhaslach erwirbt von Peregrin Panzun ein Gut in Dornitzen
+(BA. Altîtting Gmde. SchÅtzing).
+
+REG$Abt Walther von Raitenhaslach erwirbt von Peregrin Panzun ein Gut in Dornitzen
+(BA. Altîtting Gmde. SchÅtzing) fÅr 12 Pfund Regensburger MÅnze.
+F$QE NF 07/122/99/99
+G$Walther/Abt/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+E$Peregrin Panzun/X/X/X//
+H$Kauf/Immobilien/Dornitzen/Dornitzen//BA. Altîtting,G.SchÅtzing/
+W$Regensburg/moneta/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro XII libris Ratisponensis monete \dots comparavi
+
+REG$Abt Walther von Raitenhaslach erwirbt von Peregrin Panzun ein Gut in Dornitzen
+(BA. Altîtting Gmde. SchÅtzing) fÅr 12 Pfund Regensburger MÅnze, das seine Erben
+um 30 Pfund derselben MÅnze zurÅckkaufen kînnen.
+F$QE NF 07/122/99/99
+G$X/X/X/X//
+E$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+H$RÅckkauf/Immobilien/Dornitzen/Dornitzen//BA. Altîtting,G.SchÅtzing/
+W$Regensburg/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$XXX libras abbati et ecclesie monete solveret memorate.
+B$Regensburger MÅnze aus dem Zusammenhang erschlossen.
+
+REG$Abt Walther von Raitenhaslach erwirbt von Peregrin Panzun ein Gut in Dornitzen
+(BA. Altîtting Gmde. SchÅtzing). Als Zeuge fungiert Vitulus von Burchusen, der
+10 Pfund Salzburger MÅnze als Hilfe fÅr die Zahlung ?Åbergibt.
+F$QE NF 07/122/99/99
+G$Vitulus/Genannter/Burghausen/Burghausen/Burchusen/LK Altîtting,a.d.Salzach/
+E$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$X libras Salzburgensis monete contulit in subsidium solutionis
+
+DOK$QENF07_123/1242.0.0/1257.0.0/(etwa 1242 - 1257)/X/X/X//
+S$XI/Raitenhaslach/X
+V$X/X/X
+K$Eberhard Smerbalch ÅbertrÑgt dem Kloster Raitenhaslach ein Gut in
+Schliefhausen (BA. Altîtting Gmde. Halsbach).
+
+REG$Eberhard Smerbalch ÅbertrÑgt dem Kloster Raitenhaslach ein Gut in
+Schliefhausen (BA. Altîtting Gmde. Halsbach), das jÑhrlich 40 Pfennig Salzburger
+MÅnze zinst.
+F$QE NF 07/123/100/100
+G$X/X/X/X//
+E$Eberhard Smerbalch/X/X/X//
+H$Zins/Immobilien/Halsbach Schliefhausen/Halsbach,Schliefhausen//BA.
+Altîtting,G.Halsbach/
+W$Salzburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$annuatim solvit XL denar. Salzburgensis monete
+
+DOK$QENF07_124a/1250.0.0/1250.0.0?/(Mitte des 13. Jh.)/X/X/X//
+S$XII/Raitenhaslach/X/
+V$X/X/X
+K$Walther von Wisen verkauft dem Kaufmann Heinrich und dem Berthold Hasenf\¯{v}z
+den Hof in Aham (bei MÅhldorf).
+
+REG$Walther von Wisen verkauft dem Kaufmann Heinrich und dem Berthold Hasenf\¯{v}z
+den Hof in Aham (bei MÅhldorf) fÅr 8 Pfund Regensburger MÅnze.
+F$QE NF 07/124a/100f/101
+G$Heinrich/Kaufmann/X/X//
+G$Berthold Hasenf\¯{v}z/X/X/X//
+E$Walther/Genannter/uOBayern Wiesen/uOBayern,Wiesen/Wisen/?LK Altîtting/
+H$Kauf/Immobilien/Aham b.MÅhldorf/Aham b.MÅhldorf//LK MÅhldorf/
+W$Regensburg/moneta/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro VIII libris monete Ratisponensium
+
+REG$Walther von Wisen verkauft dem Kaufmann Heinrich und dem Berthold Hasenf\¯{v}z
+den Hof in Aham (bei MÅhldorf) fÅr 8 Pfund Regensburger MÅnze und die Frauen
+geben ein halbes Pfund ?
+F$QE NF 07/124a/100f/101
+G$Heinrich/Kaufmann/X/X//  ?
+G$Berthold Hasenf\¯{v}z/X/X/X//  ?
+E$Walther/Genannter/uOBayern Wiesen/uOBayern,Wiesen/Wisen/wo??LK Altîtting    ?
+H$Kauf/Immobilien/Aham b.MÅhldorf/Aham b.MÅhldorf//LK MÅhldorf   ?
+W$X/X/
+O$0,5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$dimidiam libram dederunt domine propter concordiam
+
+REG$Walther von Wisen verkauft dem Kaufmann Heinrich und dem Berthold Hasenf\¯{v}z
+den Hof in Aham (bei MÅhldorf) fÅr 8 Pfund Regensburger MÅnze und verpfÑndet ihn
+fÅr 30 Pfund.  ?
+F$QE NF 07/124a/100f/101
+G$Walther/Genannter/uOBayern Wiesen/uOBayern,Wiesen/Wisen/wo??LK Altîtting   ?
+E$Heinrich/Kaufmann/X/X//
+H$PfandgeschÑft/Immobilien/Aham b.MÅhldorf/Aham b.MÅhldorf//LK MÅhldorf/
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$obligavit sibi predictam curiam pro XXX libris.
+
+DOK$QENF07_124b/1250.0.0/1250.0.0?/(Mitte des 13. Jh.)/X/X/X//
+S$XII/Raitenhaslach/X/
+V$X/X/X
+K$Berthold Hasenv\v{o}z und sein Bruder Heinrich verkaufen an das Kloster
+Raitenhaslach ihr Gut in Aham (bei MÅhldorf) fÅr 10 Talent Regensburger MÅnze.
+
+REG$Berthold Hasenv\v{o}z und sein Bruder Heinrich verkaufen an das Kloster
+Raitenhaslach ihr Gut in Aham (bei MÅhldorf) fÅr 10 Talent Regensburger MÅnze.
+F$QE NF 07/124b/101f/101
+G$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+E$Heinrich/Kaufmann/X/X//
+E$Berthold Hasenf\¯{v}z/X/X/X//  ?
+H$Kauf/Immobilien/Aham b.MÅhldorf/Aham b.MÅhldorf//LK MÅhldorf/
+W$Regensburg/moneta/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro X talentis Ratisponensis monete vendidimus
+
+DOK$QENF07_128/1250.0.0/1250.0.0?/(Mitte des 13. Jh.)/X/X/X//
+S$"X"/Raitenhaslach/X/
+V$X/X/X
+K$Heinrich Nevo ÅbertrÑgt dem Kloster Raitenhaslach 3 Pfund Regensburger
+MÅnze gegen eine jÑhrliche Rente von 30 Salzburger Pfennigen.
+
+REG$Heinrich Nevo ÅbertrÑgt dem Kloster Raitenhaslach 3 Pfund Regensburger
+MÅnze gegen eine jÑhrliche Rente von 30 Pfennigen Salzburger MÅnze.
+F$QE NF 07/128/103/103
+G$Heinrich Nevo/X/X/X//
+E$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+H$öbergabe/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/moneta/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$contuli \dots tres libras Ratisponensis monete
+
+REG$Heinrich Nevo ÅbertrÑgt dem Kloster Raitenhaslach 3 Pfund Regensburger
+MÅnze gegen eine jÑhrliche Rente von 30 Pfennigen Salzburger MÅnze.
+F$QE NF 07/128/103/103
+G$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+E$Heinrich Nevo/X/X/X//
+H$Rente/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$XXX recipiam den. Salzpurgensis monete
+
+DOK$QENF17II_122/1239.0.0/1239.0.0/1239/anno domini MCCXXXVIIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Der Prior von Raitenhaslach und der Dekan von Taufkirchen (LK MÅhldorf)
+vergleichen sich wegen der strittigen Zehnten und der Dotierung der Kirche von
+Niederbergkirchen (LK MÅhldorf).
+
+REG$Der Prior von Raitenhaslach und der Dekan von Taufkirchen (LK MÅhldorf)
+vergleichen sich wegen der strittigen Zehnten und der Dotierung der Kirche von
+Niederbergkirchen (LK MÅhldorf) unter Strafe von 50 Mark.
+F$QE NF 17II/122/110/110
+G$X/Prior/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+G$X/Dekan/Taufkirchen_/Taufkirchen (LK MÅhldorf)//LK MÅhldorf   ?
+E$X/diocesianus?/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Arbitrium, \dots vallatum sub p\c{e}na L marcarum, qu\c{e} solvi debent
+dyocesiano infra VI menses
+
+REG$? jÑhrlich sollen dem Pfarrer 90 Regensburger (Pfennige) am Fest des hl.
+Michael bezahlt werden.
+F$QE NF 17II/122/110/110
+G$X/X/X/X// ?
+E$X/Pfarrer/Niederbergkirchen/Niederbergkirchen?//LK MÅhldorf/
+H$Zins/Immobilien/Pfaffing/Pfaffing/Pfepfingen/LK MÅhldorf   ?
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$90/den./X/Z
+Q$annuatim plebano solvantur LXXXX Ratisponenses in festo sancti Michahelis.
+B$"den." aus dem Zusammenhang erschlossen.
+
+DOK$QENF17II_141/1243.3.3/1243.3.3/1243 MÑrz 3/anno domini MCCXLIII. quinto non. marcii/Ostermiething/Ostermiething//Oô,GB Wildshut/
+S$X/X/X
+V$X/X/X
+K$Albert von Harskirchen (LK Landshut) gibt dem Kloster Raitenhaslach zur
+Wiedergutmachung zugefÅgter SchÑden 2 Pfund Regensburger Pfennige sowie einen
+Jahreszins aus seinem Gut zu "Egke".
+
+REG$Albert von Harskirchen (LK Landshut) gibt dem Kloster Raitenhaslach zur
+Wiedergutmachung zugefÅgter SchÑden 2 Pfund Regensburger Pfennige sowie einen
+Jahreszins aus seinem Gut zu "Egke".
+F$QE NF 17II/141/126f/126
+G$Albert/Genannter/Adlkofen Harskirchen/Adlkofen,Harskirchen//LK Landshut/
+E$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+H$Wiedergutmachung/Schadenssumme/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$2/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$duas libras Ratisponensium \dots persolvendas.
+
+REG$Albert von Harskirchen (LK Landshut) gibt dem Kloster Raitenhaslach zur
+Wiedergutmachung zugefÅgter SchÑden 2 Pfund Regensburger Pfennige sowie einen
+Jahreszins in der Hîhe von 30 Regensburger Pfennigen aus seinem Gut zu "Egke".
+F$QE NF 17II/141/126f/126
+G$Albert/Genannter/Adlkofen Harskirchen/Adlkofen,Harskirchen//LK Landshut/
+E$X/Kloster/Raitenhaslach/Raitenhaslach//OB,b.Burghausen/
+H$Zins/Immobilien/Egg/Egg?/Egke/wo?? OB,nÑchst GrÅntal?/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/Z
+Q$XXX denarii Ratisponenses persolvantur.
+
+DOK$QENF10I_193/1173.12.18/1173.12.18/(1173 Dezember 18)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich (II.) von Brixen stiftet fÅr sich einen Jahrtag in
+SchÑftlarn.
+
+REG$Bischof Heinrich (II.) von Brixen stiftet fÅr sich einen Jahrtag in
+SchÑftlarn in der Hîhe von 6 Talent und 5 "siclos" Friesacher.
+F$QE NF 10I/193/190f/191
+F$MB 08/X/411/411
+G$Heinrich II./Bischof/Brixen/Brixen//Tirol/
+E$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+H$Anniversar/Anniversar/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+W$Friesach/X/
+O$6/tal./X
+Z$5/sol./X
+M$X/X/X/A
+Q$tradidit \dots sex talenta et quinque siclos Friescare
+B$"sol." wurde angenommen, da in Sch Lit. 4 f. 112'"libras 6 et 5 solidos
+Frieschariorum" angegeben werden. Au·erdem erscheint im EinkÅnfteverzeichnis der
+zur SchÑftlarner Pitanz gehîrigen Besitzungen und Stiftungen von ca. 1330
+"libras VI et V solidos Frieschariorum" (QE NF 10II S. 380).
+
+DOK$QENF10I_286/1189.1.1/1189.5.10/(1189 vor Mai 11)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Konrad von (Jacob-) Neuharting (LK Ebersberg) Åbereignet durch Gebhard Franze
+von Fischbach (? LK Rosenheim) dem Kloster SchÑftlarn vor Antritt des Kreuzzuges
+seinen Besitz in Arzl (BH Innsbruck).
+
+REG$Konrad von (Jacob-) Neuharting (LK Ebersberg) Åbereignet durch Gebhard Franze
+von Fischbach (? LK Rosenheim) dem Kloster SchÑftlarn vor Antritt des Kreuzzuges
+seinen Besitz in Arzl (BH Innsbruck) fÅr 35 Talent Regensburger MÅnze.
+F$QE NF 10I/286/286f/287
+F$MB 08/X/446/446
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Konrad/Genannter/Neuharting/Neuharting//LK Ebersberg/
+H$Kauf/Immobilien/Arzl/Arzl//BH Innsbruck/
+W$Regensburg/moneta/
+O$35/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$delegavit \dots pro talentis triginta quinque monete Ratisponensis.
+
+DOK$QENF10I_324/1196.5.2/1196.5.2/(1196 Mai 2)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Otto (II.) von Bamberg vermacht zu seinem Jahrtag 8 Talent
+Regensburger MÅnze an Kloster SchÑftlarn.
+
+REG$Bischof Otto (II.) von Bamberg vermacht zu seinem Jahrtag 8 Talent
+Regensburger MÅnze an Kloster SchÑftlarn.
+F$QE NF 10I/324/324/324
+F$MB 08/X/471/471
+G$Otto II./Bischof/Bamberg/Bamberg//Oberfranken/
+E$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+H$Anniversar/Anniversar/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+W$Regensburg/moneta/
+O$8/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit \dots octo talenta Ratisponensis monet\c{e}
+
+DOK$QENF10I_325/1196.0.0/1196.0.0/(ca.1196)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Albert (III.) von Tirol Åbergibt an Kloster SchÑftlarn zwei Tîchter
+seines Ministerialen Friedrich von Morit (bei Bozen) zum Eintritt in SchÑftlarn
+und deren Erbgut in Natters (BH Innsbruck), das SchÑftlarn mit 16 Talent
+Regensburger auslîste.
+
+REG$Graf Albert (III.) von Tirol Åbergibt an Kloster SchÑftlarn zwei Tîchter
+seines Ministerialen Friedrich von Morit (bei Bozen) zum Eintritt in SchÑftlarn
+und deren Erbgut in Natters (BH Innsbruck), das SchÑftlarn mit 16 Talent
+Regensburger auslîste.
+F$QE NF 10I/325/324ff/326
+F$MB 08/X/471f/472
+F$TUB 1/456/251f/252
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$X/X/X/X///
+H$Pfand_Auslîse/Immobilien/Natters/Natters//BH Innsbruck/
+W$Regensburg/X/
+O$16/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$fuit inpigneratum sedecim talentis Ratisponensibus
+B$Huter datiert um 1190 - 1200.
+
+DOK$QENF10I_347/1199.0.0/1200.0.0/(1199 - 1200)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Kloster SchÑftlarn kauft von Wezil (von Keller in Gries bei Bozen), einem
+Angehîrigen der SchÑftlarner Familia, um 10 Talent Berner einen Weingarten in
+Sand (Viertel Sand bei Bozen).
+
+REG$Kloster SchÑftlarn kauft von Wezil (von Keller in Gries bei Bozen), einem
+Angehîrigen der SchÑftlarner Familia, um 10 Talent Berner einen Weingarten in
+Sand (Viertel Sand bei Bozen).
+F$QE NF 10I/347/347/347
+F$TUB 1/512/289/289
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Wezil/Genannter/Bozen Keller/Bozen,Keller i.Gries b./Keller/SÅdtirol/
+H$Kauf/Immobilien_Weingarten/Bozen Sand/Bozen,Sand/Sand/SÅdtirol/
+W$Verona/X/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$emimus \dots pro X talentis Veronensium.
+B$Huter schreibt "pro X talentis Veronensibus".
+
+DOK$QENF10I_350/1199.0.0/1200.0.0/(1199 - 1200)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Bozener Kaufmann Adelbert "der Pigelare" verzichtet nach Empfang von (1)
+Talent Regensburger MÅnze vom Kloster SchÑftlarn auf seine AnsprÅche auf einen
+Weingarten in Sand (Viertel der Gem. Gries in Bozen).
+
+REG$Der Bozener Kaufmann Adelbert "der Pigelare" verzichtet nach Empfang von (1)
+Talent Regensburger MÅnze vom Kloster SchÑftlarn auf seine AnsprÅche auf einen
+Weingarten in Sand (Viertel der Gem. Gries in Bozen).
+F$QE NF 10I/350/349/349
+F$TUB 2/521/1f/2
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Adelbert/Kaufmann/Bozen/Bozen//SÅdtirol/
+H$Verzicht/Immobilien_Weingarten/Bozen Sand/Bozen,Sand/Sand/SÅdtirol/
+W$Regensburg/moneta/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Dedimus \dots tal[entum] Ratisponensium mon[etarum].
+B$Huter datiert 1200 bis 1218 und ergÑnzt "talenta Ratisponensis monete".
+
+DOK$QENF10I_352/1200.1.1/1200.4.30/1200 (vor April|Mai)/anno dominice
+incarnationis MCC/Reifeneck/Reifeneck i.Wipptal/Reifeneck/Schlo· i.Wipptal/
+S$X/X/X
+V$X/X/X
+K$Bischof Eberhard von Brixen beurkundet die öbergabe eines Gutes in Natters (BH
+Innsbruck), das dessen Ministeriale Otaker nach Empfang von 64 Augsburger Pfund
+durch seinen Sohn Konrad an Kloster SchÑftlarn Åbereignen lie·.
+
+REG$Bischof Eberhard von Brixen beurkundet die öbergabe eines Gutes in Natters (BH
+Innsbruck), das dessen Ministeriale Otaker nach Empfang von 64 Augsburger Pfund
+durch seinen Sohn Konrad an Kloster SchÑftlarn Åbereignen lie·.
+F$QE NF 10I/352/350ff/351
+F$MB 08/X/524f/525
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Otaker/Genannter/Neuenburg_Leisach/Neuenburg//b.Lienz
+H$Kauf/Immobilien/Natters/Natters//BH Innsbruck/
+W$Augsburg/X/
+O$64/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro LXIIII libris Augustensi[um] \dots tradidit
+
+DOK$QENF10I_353/1200.0.0/1200.0.0/(ca. 1200)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$a) Marquard von Russan (in Gries bei Bozen) und dessen genannte Ehefrau und
+Kinder Åbergeben ihre an Kloster SchÑftlarn um 27 Talent Veroneser verkauften
+WeingÑrten in "Funtnatse" zu Keller (Gries bei Bozen).
+b) Dessen SchwÑgerin und deren genannte Tîchter Åbergeben gleichfalls
+WeingÑrten daselbst.
+c) Die unter a) Genannten leisten Gewere fÅr ihren minderjÑhrigen Sohn bzw.
+Bruder.
+
+REG$a) Marquard von Russan (in Gries bei Bozen) und dessen genannte Ehefrau und
+Kinder Åbergeben ihre an Kloster SchÑftlarn um 27 Talent Veroneser verkauften
+WeingÑrten in "Funtnatse" zu Keller (Gries bei Bozen).
+F$QE NF 10I/353/352f/353
+F$TUB 2/526/4/4
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Marquard/Genannter/Gries b.Bozen,Russan/Gries b.Bozen,Russan/Russan/SÅdtirol/
+H$Kauf/Immobilien_Weingarten/Bozen Keller/Bozen,Keller/Keller/SÅdtirol/
+W$Verona/X/
+O$27/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$tradiderunt \dots pro XXVII talentis Veronensium
+
+REG$Irmingard, die SchwÑgerin von Marquard von Russan, und deren genannte Tîchter
+Åbergeben ihre an Kloster SchÑftlarn um 25 Talent Veroneser verkauften
+WeingÑrten in "Funtnatse" zu Keller (Gries bei Bozen).
+F$QE NF 10I/353/352f/353
+F$TUB 2/526/4/4
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Irmingard/X/X/X//
+H$Kauf/Immobilien_Weingarten/Bozen Keller/Bozen,Keller/Keller/SÅdtirol/
+W$Verona/X/
+O$25/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$tradiderunt \dots pro XXV talentis Veronensium.
+
+DOK$QENF10I_359/1200.0.0/1204.0.0/(1200 - ca. 1203|1204)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich "in der Grube" (Gruberhof auf Guntschna in Gries bei Bozen) und
+dessen genannte Vettern von Russan (in Gries bei Bozen) verkaufen um 38 Talent
+Berner an Kloster SchÑftlarn einen Weingarten.
+
+REG$Heinrich "in der Grube" (Gruberhof auf Guntschna in Gries bei Bozen) und
+dessen genannte Vettern von Russan (in Gries bei Bozen) verkaufen um 38 Talent
+Berner an Kloster SchÑftlarn einen Weingarten.
+F$QE NF 10I/359/357f/358
+F$TUB 2/524/3/3
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Heinrich in der Grube/X/X/X//
+E$Heinrich;Bozanus/Genannter/Gries Russan/Gries b.Bozen,Russan/Russan/SÅdtirol/
+H$Kauf/Immobilien_Weingarten/unbestimmt/unbestimmt//
+W$Verona/X/
+O$38/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$emimus vineam pro XXX octo talentis Veronensium
+B$VerkaufsbestÑtigung und BesitzÅbergabe vgl. QE NF 10I Nr. 360.
+
+DOK$QENF10I_360/1200.0.0/1204.0.0/(1200 - ca. 1203|1204)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich "in der Grube" (Gruberhof auf Guntschna in Gries bei Bozen) und
+dessen Vettern (von Russan) (in Gries bei Bozen) bestÑtigen vor Vogt Arnold von
+"Walwenstein" (in Gries bei Bozen) den Verkauf von WeingÑrten ("in der Grobe")
+an Kloster SchÑftlarn.
+
+REG$Heinrich "in der Grube" (Gruberhof auf Guntschna in Gries bei Bozen) und
+dessen Vettern (von Russan) (in Gries bei Bozen) bestÑtigen vor Vogt Arnold von
+"Walwenstein" (in Gries bei Bozen) den Verkauf von WeingÑrten ("in der Grobe")
+an Kloster SchÑftlarn. Dabei wird eine Pînale in der Hîhe von 80 Talent Berner
+fÅr Zuwiderhandelnde festgelegt.
+F$QE NF 10I/360/358/358
+F$TUB 2/524/3/3
+G$X/X/X/X//
+E$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$80/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$LXXX talenta Veronensium persolvat.
+B$Zum Verkauf dieses Besitzes vgl. QE NF 10I Nr.359.
+
+DOK$QENF10I_379/1208.0.0/1218.2.2/(ca. 1208|10 - 1218 Februar 2)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Haimo, Neffe des Priesters Joseph von Keller (in Gries bei Bozen), Åbergibt
+die um 170 Pfund Berner an Kloster SchÑftlarn verkauften Besitzungen.
+
+REG$Haimo, Neffe des Priesters Joseph von Keller (in Gries bei Bozen), Åbergibt
+die um 170 Pfund Berner an Kloster SchÑftlarn verkauften Besitzungen.
+F$QE NF 10I/379/374f/375
+F$TUB 2/523/2f/3
+F$MB 08/X/485/485
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Haimo/X/X/X//
+H$Kauf/Immobilien/Bozen Keller i.Gries b./Bozen,Keller i.Gries b./Keller/SÅdtirol/
+H$Kauf/Immobilien_Weingarten/Gries b.Bozen,Russan/Gries
+b.Bozen,Russan/Russan/SÅdtirol/
+H$Kauf/Immobilien/Gries b.Bozen,Russan/Gries b.Bozen,Russan/Russan/SÅdtirol/
+W$Verona/X/
+O$170/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum et septuaginta talentis Veronensium.
+B$MB 8, 485 unvollstÑndig.
+
+DOK$QENF10I_386/1208.0.0/1218.2.2/(ca. 1208|10 - 1218 Februar 2)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Albero von Russan (in Gries bei Bozen) verkauft an Klostern SchÑftlarn sein
+Gut in Russan um 120 Talent Berner und verpfÑndet es au·erdem dem genannten
+Kloster fÅr den Fall, da· einer der Erben den Verkauf anfechten sollte.
+Heinrich von Dietenfurt (Furtner Gem Gotzing LK Miesbach) gibt zu seinem Jahrtag
+120 Talent Berner zum Kauf des genannten Gutes in Russan sowie ein Gut in
+Raubling (LK Rosenheim).
+
+REG$Albero von Russan (in Gries bei Bozen) verkauft an Klostern SchÑftlarn sein
+Gut in Russan um 120 Talent Berner.
+F$QE NF 10I/386/380f/381
+F$TUB 2/525/3f/4
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Albero/Genannter/Gries b.Bozen,Russan/Gries b.Bozen,Russan/Russan/SÅdtirol/
+H$Kauf/Immobilien/Gries b.Bozen,Russan/Gries b.Bozen,Russan/Russan/SÅdtirol/
+W$Verona/X/
+O$120/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$emimus \dots pro centum et XX talentis Veronensium
+
+REG$Albero von Russan (in Gries bei Bozen) verkauft an Klostern SchÑftlarn sein
+Gut in Russan um 120 Talent Berner unter der Auflage, da· bei Besitzanfechtung
+durch die Erben des Albero von Russan an SchÑftlarn 150 Talent Berner zu
+bezahlen sind.
+F$QE NF 10I/386/380f/381
+F$TUB 2/525/3f/4
+G$X/Genannter/Gries b.Bozen,Russan/Gries b.Bozen,Russan/Russan/SÅdtirol/
+E$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+H$PfandgeschÑft/Immobilien/Gries b.Bozen,Russan/Gries
+b.Bozen,Russan/Russan/SÅdtirol/
+W$Verona/X/
+O$150/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Inpignoravit etiam idem predium pro centum et quinquaginta talentis
+Veron[ensium]
+
+DOK$QENF10I_407/1220.0.0/1225.0.0/(ca. 1220|22 - ca. 1225)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Kloster SchÑftlarn kauft von der Witwe Heilika und deren 5 genannten Sîhnen
+einen Weingarten (bei Bozen) um 30 Pfund Berner.
+
+REG$Kloster SchÑftlarn kauft von der Witwe Heilika und deren 5 genannten Sîhnen
+einen Weingarten (bei Bozen) um 30 Pfund Berner.
+F$QE NF 10I/407/397/397
+F$TUB 2/753/187f/187
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Heilika/X/X/X//
+H$Kauf/Immobilien_Weingarten/Bozen/Bozen,bei//SÅdtirol/
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$emerunt \dots pro XXX libris Veronensium
+
+DOK$QENF10I_421/1236.0.0/1239.0.0/(1236 - 1239)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bertold von (FÅrstenfeld-) Bruck und dessen Ehefrau Adelheid von (Ober-)
+Weikertshofen (LK FÅrstenfeldbruck) Åbereignen an SchÑftlarn einen Hof in
+Ruprechtsried (abgeg. bei FÅrstenfeldbruck), den Wato von Gegenpeunt (abgeg. bei
+FÅrstenfeldbruck) und dessen Leute ihrerseits am Todestage der genannten
+Adelheid gegen eine Auslîsung mit 15 Talent und GewÑhrung einer BegrÑbnisstÑtte
+durch Konrad von Holzkirchen (LK FÅrstenfeldbruck) Åbereignen lassen.
+
+REG$Bertold von (FÅrstenfeld-) Bruck und dessen Ehefrau Adelheid von (Ober-)
+Weikertshofen (LK FÅrstenfeldbruck) Åbereignen an SchÑftlarn einen Hof in
+Ruprechtsried (abgeg. bei FÅrstenfeldbruck), den sie den Leuten des Wato von
+Gegenpeunt (abgeg. bei FÅrstenfeldbruck) fÅr 12 Talent verpfÑndet hatten.
+F$QE NF 10I/421/408f/409
+F$MB 08/X/497f/497
+G$Wato/Genannter/FÅrstenfeldbruck
+Gegenpeunt/FÅrstenfeldbruck(Gegenpeunt)//OB,abgeg.bei FÅrstenfeldbruck/
+E$Bertold/Genannter/FÅrstenfeldbruck/FÅrstenfeldbruck//Oberbayern/
+E$Adelheid/Genannte/Oberweikertshofen/Oberweikertshofen//LK FÅrstenfeldbruck/
+H$PfandgeschÑft/Immobilien/FÅrstenfeldbruck
+Ruprechtsried/FÅrstenfeldbruck (Ruprechtsried)//OB,abgeg.b.FÅrstenfeldbruck/
+W$X/X
+O$12/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$obligaverant \dots pro XII talentis
+
+REG$Bertold von (FÅrstenfeld-) Bruck und dessen Ehefrau Adelheid von (Ober-)
+Weikertshofen (LK FÅrstenfeldbruck) Åbereignen an SchÑftlarn einen Hof in
+Ruprechtsried (abgeg. bei FÅrstenfeldbruck), den sie den Leuten des Wato von
+Gegenpeunt (abgeg. bei FÅrstenfeldbruck) fÅr 12 Talent verpfÑndet hatten. Wato
+eignete sich diese VerpfÑndung an und fÅgte 3 Talent MÅncher MÅnze unter der
+Bedingung dazu, da· das Kloster die 15 Talent fÅr die Auslîsung verwendet und
+eine BegrÑbnisstÑtte gewÑhrt. Die öbereignung findet am Todestage der genannten
+Adelheid durch Konrad von Holzkirchen (LK FÅrstenfeldbruck) statt.
+F$QE NF 10I/421/408f/409
+F$MB 08/X/497f/497
+G$Wato/Genannter/FÅrstenfeldbruck
+Gegenpeunt/FÅrstenfeldbruck (Gegenpeunt)//OB,abgeg.b.FÅrstenfeldbruck/
+E$Bertold/Genannter/FÅrstenfeldbruck/FÅrstenfeldbruck//Oberbayern/
+E$Adelheid/Genannte/Oberweikertshofen/Oberweikertshofen//LK FÅrstenfeldbruck/
+H$Zahlung?/Immobilien/FÅrstenfeldbruck Ruprechtsried
+/FÅrstenfeldbruck (Ruprechtsried)//OB,abgeg.b.FÅrstenfeldbruck/
+W$MÅnchen/moneta/
+O$3/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$addidit eis tria talenta Monacensis monete
+
+REG$Bertold von (FÅrstenfeld-) Bruck und dessen Ehefrau Adelheid von (Ober-)
+Weikertshofen (LK FÅrstenfeldbruck) Åbereignen an SchÑftlarn einen Hof in
+Ruprechtsried (abgeg. bei FÅrstenfeldbruck), den sie den Leuten des Wato von
+Gegenpeunt (abgeg. bei FÅrstenfeldbruck) fÅr 12 Talent verpfÑndet hatten und
+den diese und Wato ihrerseits am Todestage der genannten
+Adelheid gegen eine Auslîsung mit 15 Talent und GewÑhrung einer BegrÑbnisstÑtte
+durch Konrad von Holzkirchen (LK FÅrstenfeldbruck) Åbereignen lassen.
+F$QE NF 10I/421/408f/409
+F$MB 08/X/497f/498
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Wato/Genannter/FÅrstenfeldbruck
+Gegenpeunt/FÅrstenfeldbruck (Gegenpeunt)//abgeg.b.FÅrstenfeldbruck/
+H$Pfand_Auslîse/Immobilien/FÅrstenfeldbruck Ruprechtsried/
+FÅrstenfeldbruck (Ruprechtsried)//abgeg.b.FÅrstenfeldbruck/
+W$X/X/
+O$15/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut fratres \dots XV talenta, pro solutione darent
+
+DOK$QENF10I_429/1241.0.0/1241.0.0/1241/anno MCCXLI./Rosenheim/Rosenheim//LK Rosenheim/
+S$X/X/X
+V$X/X/X
+K$Kloster SchÑftlarn kauft von Gebhard von Edling (LK Wasserburg ?) um 22
+MÅncher Schilling Konrad von "Rossolsperge" (Samerberg LK Rosenheim) und dessen
+Sîhne.
+
+REG$Kloster SchÑftlarn kauft von Gebhard von Edling (LK Wasserburg ?) um 22
+MÅncher Schilling Konrad von "Rossolsperge" (Samerberg LK Rosenheim) und dessen
+Sîhne.
+F$QE NF 10I/429/415f/416
+F$MB 08/X/499/499
+G$X/Kloster/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Gebhard/Genannter/Edling/Edling//LK Wasserburg ?/
+H$Kauf/Hîrige/Samerberg/Samerberg/"Rossolsperge"/Samerberg LK Rosenheim/
+W$MÅnchen/X/
+O$X/X/X
+Z$22/sol./X
+M$X/X/X/A
+Q$emerunt \dots pro XX duobus solidis Monacensium.
+
+DOK$QENF10II_015/1230.9.15/1230.9.15/1230 September 15/Anno domini MCCXXX., indiccione
+III., die XV. intrante septembri/Sigmundskron/Sigmundskron,Schlo·/Firmian,auf.d.BrÅcke
+unter/SÅdtirol,Viertel Quirein-Sigmundskron zu Gries/
+S$Janellus/kaiserl. Notar/Janellus
+V$Janellus/kaiserl. Notar/Janellus
+K$Die genannten Kinder des \dag Raidel von Keller (Teil von Gries bei Bozen)
+treten SchÑftlarn ihre Rechte an einem mansus zu Kristplon (Hof auf Guntschna zu
+Gries) ab.
+
+REG$Die genannten Kinder des \dag Raidel von Keller (Teil von Gries bei Bozen)
+treten SchÑftlarn ihre Rechte an einem mansus zu Kristplon (Hof auf Guntschna zu
+Gries) gegen Zahlung von 60 Pfund Berner Pfennige durch Propst Konrad ab.
+F$QE NF 10II/015/19f/20
+F$TUB 2/938/337f/338
+G$Konrad/Propst/SchÑftlarn/SchÑftlarn//Oberbayern,LK MÅnchen/
+E$Konrad;Litold;Hermann;Friedrich/Genannter/Bozen Keller/Bozen,Keller b.Bozen/Keller/SÅdtirol/
+H$Verzicht/Immobilien/Gries Kristplon,Hof auf Guntschna/Gries,Kristplon(Hof
+auf Guntschna)/Kristplon/SÅdtirol,Guntschna zu Gries/
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$confessi fuerunt se accepisse a predicto preposito LX libras denariorum
+Veronensium et renunciaverunt
+
+DOK$QENF39I_167b/1150.0.0/1160.0.0/(ca. 1150 - 1160)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gozwin von Osterhofen (LK Deggendorf) ÅbertrÑgt Besitz in Linzing (Gem.
+Osterhofen LK Deggendorf) durch seine Sîhne Rudolf und Gozwin an Gotpolt von
+Osterhofen und dessen Sîhne Dietrich und Gotpolt zur Bewahrung fÅr das Kloster.
+Als RÅckkaufsumme fÅr das Gut werden 24 Talent Regensburger MÅnze festgesetzt.
+
+REG$Gozwin von Osterhofen (LK Deggendorf) ÅbertrÑgt Besitz in Linzing (Gem.
+Osterhofen LK Deggendorf) durch seine Sîhne Rudolf und Gozwin an Gotpolt von
+Osterhofen und dessen Sîhne Dietrich und Gotpolt zur Bewahrung fÅr das Kloster.
+Als RÅckkaufsumme fÅr das Gut werden 24 Talent Regensburger MÅnze festgesetzt.
+F$QE NF 39I/167b/131f/132
+F$MB 13/049/62/62
+G$X/Genannter/Osterhofen/Osterhofen//LK Deggendorf/
+E$X/Kloster/PrÅfening/PrÅfening//b.Regensburg/
+H$RÅckkauf/Immobilien/Linzing/Linzing//LK Deggendorf,G.Osterhofen/
+W$Regensburg/moneta/
+O$24/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$XXIIII talenta monet\c{e} Ratisponensis
+
+DOK$QENF05_1552/1159.0.0/1169.0.0/1159 - 1169/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Ministeriale Juditta von Steinkirchen Åbergibt ein Gut zu Grasbrunn.
+
+REG$Die Ministeriale Juditta von Steinkirchen Åbergibt ein Gut zu Grasbrunn an
+Gottschalk von Ismannigen, damit dieser an den Altar von St. Maria 5 Pfennige
+Freisinger MÅnze fÅr den Bau der Basilika gebe.
+F$QE NF 05/1552/383/383
+G$Gottschalk/Genannter/Ismaning/Ismaning/Ismannigen/LK MÅnchen/
+E$X/Altar/Freising/Freising,St.Maria/St.Maria/Oberbayern/
+H$ZahlungGegengabe?/Geldsumme/unbestimmt/unbestimmt//
+W$Freising/moneta/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$V denarios Frisingensis monete ad structuram basilice
+B$Der Dombrand fiel in das Jahr 1159, die Wiederherstellung dauerte bis 1161.
+
+DOK$QENF05_1803/1247.0.0/1247.0.0/1247/anno domini MCCXLVII./X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Hirschberg Åbergibt ein Gut in Hirschberg zur Beleuchtung? der
+Marienkirche in Freising unter der Bedingung, da· sein nÑchster Verwandter
+jÑhrlich 24 Pfennige MÅncher MÅnze zur Beleuchtung zahlt.
+
+REG$Heinrich von Hirschberg Åbergibt ein Gut in Hirschberg zur Beleuchtung? der
+Marienkirche in Freising unter der Bedingung, da· sein nÑchster Verwandter
+jÑhrlich 24 Pfennige MÅncher MÅnze zur Beleuchtung zahlt.
+F$QE NF 05/1803/569/569
+G$X/X/X/X/
+E$X/Kirche/Freising/Freising,St.Maria//Oberbayern/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$MÅnchen/moneta/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$ad ipsum lumen XXIIII denarios monete Monacensis singulis annis persolvat.
+
+

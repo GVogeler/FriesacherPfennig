@@ -1,0 +1,309 @@
+
+note *** Dokumente aus Wiesflecker, Regesten Gîrz
+        Offenbar hier nur insoweit, als nicht schon anderweitig aufgenommen
+        Noch auf Dubletten zu ÅberprÅfen
+
+note *** Einlesen der Rohdaten fr_goerz.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+
+DOK$RegGîrz1_037/1028.10.1/1028.10.1/1028 anfangs Oktober/a. d. 1028 ind. VIII intrante
+mense octubr/Treviso/Treviso//Italien,n.Venedig/
+S$Johannes/X/Johannes
+V$Johannes/X/Johannes
+K$GrÑfin Aduiha, Witwe nach Ingelpertus, Grafen von Treviso und deren Sohn Graf
+Ingelpertus, die zufolge ihrer Abstammung nach salischem Rechte leben, bekennen
+dem Herrn Bono, Abt des Klosters St. Hilarius, fÅr 1700 Silberdenare Veroneser
+Pfund 44 LandgÅter verkauft und Åbergeben zu haben (davon 21 in Fossa, Louara,
+Flexo, Perarolo und Fossalta, 23 bei Pedraga) samt allem Zubehîr und Rechten,
+welche alle S. Maria in Aquileia gehîrten, und ÅberlÑ·t ihm alle Zehentrechte
+auf diesen LandgÅtern.
+
+REG$GrÑfin Aduiha, Witwe nach Ingelpertus, Grafen von Treviso und deren Sohn Graf
+Ingelpertus, die zufolge ihrer Abstammung nach salischem Rechte leben, bekennen
+dem Herrn Bono, Abt des Klosters St. Hilarius, fÅr 1700 Silberdenare Veroneser
+Pfund 44 LandgÅter verkauft und Åbergeben zu haben (davon 21 in Fossa, Louara,
+Flexo, Perarolo und Fossalta, 23 bei Pedraga) samt allem Zubehîr und Rechten,
+welche alle S. Maria in Aquileia gehîrten, und ÅberlÑ·t ihm alle Zehentrechte
+auf diesen LandgÅtern.
+F$Reg. Gîrz 1/037/18/18
+F$Strina/007/35ff/35
+G$Bono/Abt/Venedig S.Ilario/Venedig,S. Ilario//Venedig!nicht Padua
+E$Aduiha/GrÑfin/Treviso/Treviso//Italien/
+E$Ingelpertus/Graf/Treviso/Treviso//Italien/
+H$Kauf/Immobilien/Fossalovara/Fossalovara bei Stra/Fossa u. Loura//
+H$Kauf/Immobilien/uVenetien/Flexo//wo?
+H$Kauf/Immobilien/uVenetien/Perarolo//wo?
+H$Kauf/Immobilien/Fossalta/Fossalta//bei Portogruaro
+H$Kauf/Immobilien/uVenetien Pedraga/Pedraga//wo?
+W$Verona/X
+O$1700/lib./X
+Z$X/X/X
+M$X/den./argenti/A
+Q$accepimus \dots arge[n]ti denariorum Veronensium libras mille et septemcentum
+finito pretio
+B$Werden bei S. Maria diese GÅter erwÑhnt - in Zusammenhang mit welcher MÅnze ?
+Ort des Gegenstandes ist ja wohl nicht entscheidend, sondern G und E.
+EDD. Hormayr,Hist.stat.Archiv,II, S.227,Nr.13 ?wo
+Strina datiert 1025 Oktober 6! und nennt Fossalovara, statt Fossa und Loura,
+welches zu Stra gehîrt.
+
+DOK$RegGîrz1_187/1130.0.0/1130.0.0/(1130)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Remmarus von Passau bestÑtigt im 9. Jahr seines Bistums VerfÅgungen
+der GrÑfin Petrissa, Gemahlin seines Onkels, des Grafen "Poto de Swarzzenburch",
+betreffend die Kirche Kirchstetten. GrÑfin Petrissa kehrte, nachdem sie
+verwitwet war und ihr in Bayern ÅbermÑ·ige WiderwÑrtigkeiten drohten, nach
+ôsterreich heim und vermochte ihre "familia Chirchstetten", welche hinsichtlich
+der Pfarrechte viel Ungemach erdulden mu·te, durch ihre Vermittlung nicht zu
+schÅtzen. Daher kaufte sie die genannte Kirche innerhalb genannter Grenzen fÅr
+18 Pfund Kremser MÅnze ("Chremensis monete") und Hingabe einiger GÅter Åber
+Vermittlung des Bischofs von Passau und mit Zustimmung des St. Pîltener Propstes
+von der St. Pîltener Kirche und der Pfarre "Pehamchirchen" los und machte sie
+unter genannten Bedingungen selbstÑndig.
+
+REG$GrÑfin Petrissa, Gemahlin des Grafen "Poto de Swarzzenburch", kehrte, nachdem
+sie verwitwet war und ihr in Bayern ÅbermÑ·ige WiderwÑrtigkeiten drohten, nach
+ôsterreich heim und vermochte ihre "familia Chirchstetten", welche hinsichtlich
+der Pfarrechte viel Ungemach erdulden mu·te, durch ihre Vermittlung nicht zu
+schÅtzen. Daher kaufte sie die Kirche Kirchstetten innerhalb genannter Grenzen
+fÅr 18 Pfund Kremser MÅnze ("Chremensis monete") und Hingabe einiger GÅter Åber
+Vermittlung des Bischofs von Passau und mit Zustimmung des St. Pîltener Propstes
+von der St. Pîltener Kirche und der Pfarre "Pehamchirchen" los und machte sie
+unter genannten Bedingungen selbstÑndig.
+F$Reg. Gîrz 1/187/52/52
+G$Petrissa/GrÑfin/Schwarzenburg/Schwarzenburg/Swarzzenburch/Oberpfalz,î.Amberg,
+danach Namensgeber fÅr Schwarzenburg am Kamp sî. Allensteig und fÅr das
+Nîstacher Schwarzenburg  oder Klebel,nach Burg bei Rîtz i.Bayrischen Walde
+E$X/Kirche/St.Pîlten/St. Pîlten//Nô/
+E$X/Pfarre/Bîheimkirchen/Bîheimkirchen/Pehamchirchen/Nô,BG St.Pîlten/
+H$Exemption?/Kirche/Kirchstetten/Kirchstetten//Nô,sî.Bîheimkirchen/
+W$Krems/moneta/
+O$18/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$per decem et octo libras Chremensis monete
+B$Bischof Wernhardus von Passau vidimiert und erneuert dem Pfarrer Symon von
+Kirchstetten, Sohn des magister Gregorius medicus des Rîmischen Kînigs am 21.
+MÑrz 1302 zu Wien folgendes gesiegeltes und signiertes altes Privileg seines
+VorgÑngers, des Bischofs Remmarus.
+
+REG$GrÑfin Petrissa, Gemahlin des Grafen "Poto de Swarzzenburch",
+kaufte die Kirche Kirchstetten innerhalb genannter Grenzen
+fÅr 18 Pfund Kremser MÅnze ("Chremensis monete") und Hingabe einiger GÅter Åber
+Vermittlung des Bischofs von Passau und mit Zustimmung des St. Pîltener Propstes
+von der St. Pîltener Kirche und der Pfarre "Pehamchirchen" los und machte sie
+unter genannten Bedingungen selbstÑndig.
+Anwesend war ein Ministeriale ihrer Tochter, der GrÑfin "Ellisa de Gorsze",
+namens Volkerus, der eine Wiese und Acker bei Aichperge schenkte, welche er von
+einem HÑndler fÅr 5 Talente erworben hatte.
+F$Reg. Gîrz 1/187/52/52
+G$Volkerus/Ministeriale/Gîrz/Gîrz//Friaul-Ost/
+E$X/HÑndler/X/X//
+H$Kauf/Immobilien/Eichberg/Eichberg/Aichperge/Nô,G.St.Pîlten,Burg Hohenegg bei(nw.)Eichberg?/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$per quinque comparavit talentys (!) eidem traditit.
+B$Bischof Wernhardus von Passau vidimiert und erneuert dem Pfarrer Symon von
+Kirchstetten, Sohn des magister Gregorius medicus des Rîmischen Kînigs am 21.
+MÑrz 1302 zu Wien folgendes gesiegeltes und signiertes altes Privileg seines
+VorgÑngers, des Bischofs Remmarus.
+Nach dem Regest aufgenommen.
+
+DOK$RegGîrz1_359/1211.1.8/1211.1.8/1211 JÑnner 8/anno dni MCCXI., ind. XIV., die sabati
+VIII. intrante ianuario/Trient/Trient//
+S$X/X/X
+V$X/X/X
+K$Ludwig von Strazzo, als VollmachttrÑger seiner Gemahlin Adelheid, seiner
+SchwÑgerin Sophia und der beiden BrÅder Friedrich und Ulrich von Cavriago,
+verkauft dem Bischof Friedrich von Trient um 900 Pfund Berner alle deren Rechte
+und AnsprÅche auf das Schlo· und den Burgfrieden von Beseno.
+
+REG$Ludwig von Strazzo als BevollmÑchtigter seiner Gemahlin Adelheid, geborenen de
+Menzano, seiner Verwandten Sophia und der beiden BrÅder Friedrich und Ulrich
+von Cavriago verkauft dem Bischof Friedrich von Trient um 900 Pfund Berner vier
+FÅnftel ihrer Rechte auf das Schlo· Beseno samt der MÅhle von Caliano
+ausgenommen ein FÅnftel, welches der Gemahlin des Johannes von Perzino gehîrt.
+F$FRA II 05/093/216ff/218
+F$Reg. Gîrz 1/359/98/98
+G$Friedrich/Bischof/Trient/Trient//
+E$Ludwig/Genannter/Strassoldo b.Cervignano/Strassoldo bei Cervignano/Strazzo/Strassoldo bei
+Cervignano
+H$BestÑtigung_Kaufsumme/Immobilien/Beseno/Beseno//nî.Rovereto
+W$Verona/X/
+O$900/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$precio et solutione novem centum librarum denariorum Veronens., quas \dots
+manifestus stetit, \dots accepisse
+
+DOK$RegGîrz1_427/1228.6.9/1228.6.9/1228 Juni 9/anno domini MCCXXVIII. nona die intrante
+mense iunio indict. I./Cividale/Cividale//Friaul-Ost/
+S$Konrad/kaiserl. Notar/Konrad
+V$Konrad/kaiserl. Notar/Konrad
+K$Patriarch Berthold von Aquileia nimmt bei Andrea di Vitaliano eine Anleihe von
+6360 Pfund Berner auf unter der Bedingung, die ganze Summe innerhalb eines
+Jahres in Treviso zurÅckzuzahlen. Mit diesem Geld wollte er die GÅter
+zurÅcklîsen, welche an Reimperto di Mureck verpfÑndet waren. Als Pfand fÅr diese
+Anleihe setzt er die GÅter des Patriarchen und stellt als BÅrgen Corrado Dekan
+von Aquileia, Otto Propst von S. Odorico, Rudolf von Zufriano, Otto Bergongia,
+Vizedom Corrado Sequario, die BrÅder Griovanni und Ermanno von Portis, Cono di
+Osoppo, Berthold von Tricano, Galucio di Cividale.
+
+REG$Patriarch Berthold von Aquileia nimmt bei Andrea di Vitaliano eine Anleihe von
+6360 Pfund Berner auf unter der Bedingung, die ganze Summe innerhalb eines
+Jahres in Treviso zurÅckzuzahlen. Mit diesem Geld wollte er die GÅter
+F$Reg. Gîrz 1/427/115/115
+F$MSF 15/X/48/48  wo?
+F$AôG 21 Bianchi/94/203/203
+F$Kos 5/476/238/238
+G$Andrea Vitaliano/X/X/X//Istrien?
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$6360/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$?CCCLX lib.Ver. parv.
+
+DOK$RegGîrz1_475/1239.3.0/1239.3.0/(1239) MÑrz/anno dominice incarnacionis MCCXXXVIII.,
+mense Marcio, XII. indictione/Padua/Padua//w.Venedig/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich (II.) beurkundet einen Vergleich zwischen Bischof Konrad von
+Freising und Graf Albert von Tirol. Nachdem sie ihr erstes öbereinkommen zu
+Klausen nicht eingehalten haben, in welchem die dreijÑhrigen Schadensstiftungen
+des Grafen Albert gegenÅber dem Freisinger Bischof in Gegenwart des Kaisers
+ausgeglichen worden waren, bestimmt der Kaiser nun einen neuen Ausgleich. Beide
+Teile versprechen den Schiedsspruch des Erzbischofes von Salzburg, des Bischofs
+von Passau, des Grafen Meinhard von Gîrz und des Propstes Heinrich von Aquensis
+einzuhalten. Auf Grund des Schiedsspruches und des kaiserlichen Gebotes
+verspricht Graf Albert dem Bischof bis 14 Tage nach kommenden Martinstag als
+EntschÑdigung 300 Mark Silber nach Kîlner Gewicht oder 3000 Pfund Veroneser zu
+bezahlen und 25 Fuhren Wein nach Bozner Ma· zu liefern. Der Graf von Gîrz,
+Ulrich von Bozen, Ulrich von Risenberch (wohl Rifen-), Burggraf Heinrich von
+Lienz und Engelmar Tarant schwîren dem Erzbischof, falls sich der Graf von Tirol
+an die Vereinbarung nicht hielte, sich nach Brixen zu begeben und hier zu
+bleiben, bis Geld und Wein abgegolten und der Empfang durch den Dekan von Brixen
+und Arnold von Rodench bestÑtigt sei.
+
+REG$Kaiser Friedrich (II.) beurkundet einen Vergleich zwischen Bischof Konrad von
+Freising und Graf Albert von Tirol.
+Auf Grund des Schiedsspruches (des Erzbischofes von Salzburg, des
+Bischofs von Passau, des Grafen Meinhard von Gîrz und des Propstes Heinrich von
+Aquensis) und des kaiserlichen Gebotes verspricht Graf Albert dem Bischof bis
+14 Tage nach kommenden Martinstag als  EntschÑdigung 300 Mark Silber nach Kîlner
+Gewicht oder 3000 Pfund Veroneser MÅnze zu bezahlen und 25 Fuhren Wein nach
+Bozner Ma· zu liefern.
+F$FRA II 31/138/134f/135
+F$Reg. Gîrz 1/475/126f/127
+F$TUB 3/1087/128f/129
+F$Ficker?3/2425/486/486
+G$Albert/Graf/Tirol/Tirol//wo?
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$EntschÑdigung/Schaden/unbestimmt/unbestimmt//
+W$Kîln/pondus/
+O$300/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$300 Mark Silber nach Kîlner Gewicht/3000 Pfund Veroneser MÅnze
+Q$persolverint (!) trecentas marcas argenti ad pondus Colonie vel tria millia
+librarum Veronensis monete, X libris pro marca qualibet
+
+REG$Kaiser Friedrich (II.) beurkundet einen Vergleich zwischen Bischof Konrad von
+Freising und Graf Albert von Tirol.
+Auf Grund des Schiedsspruches (des Erzbischofes von Salzburg, des
+Bischofs von Passau, des Grafen Meinhard von Gîrz und des Propstes Heinrich von
+Aquensis) und des kaiserlichen Gebotes verspricht Graf Albert dem Bischof bis
+14 Tage nach kommenden Martinstag als  EntschÑdigung 300 Mark Silber nach Kîlner
+Gewicht oder 3000 Pfund Veroneser MÅnze zu bezahlen und 25 Fuhren Wein nach
+Bozner Ma· zu liefern.
+F$FRA II 31/138/134f/135
+F$Reg. Gîrz 1/475/126f/127
+F$TUB 3/1087/128f/129
+G$Albert/Graf/Tirol/Tirol//wo?
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$EntschÑdigung/Schaden/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$3000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+A$3000 Pfund Veroneser MÅnze/300 Mark Silber nach Kîlner Gewicht
+Q$persolverint (!) trecentas marcas argenti ad pondus Colonie vel tria millia
+librarum Veronensis monete, X libris pro marca qualibet
+
+REG$Kaiser Friedrich (II.) beurkundet einen Vergleich zwischen Bischof Konrad von
+Freising und Graf Albert von Tirol.
+Auf Grund des Schiedsspruches (des Erzbischofes von Salzburg, des
+Bischofs von Passau, des Grafen Meinhard von Gîrz und des Propstes Heinrich von
+Aquensis) und des kaiserlichen Gebotes verspricht Graf Albert dem Bischof bis
+14 Tage nach kommenden Martinstag als  EntschÑdigung 300 Mark Silber nach Kîlner
+Gewicht oder 3000 Pfund Veroneser MÅnze, also 10 Pfund pro Mark, zu bezahlen und
+25 Fuhren Wein nach Bozner Ma· zu liefern.
+F$FRA II 31/138/134f/135
+F$TUB 3/1087/128f/129
+G$Albert/Graf/Tirol/Tirol//wo?
+E$Konrad/Bischof/Freising/Freising//Bayern/
+H$Wertangabe/Silber?/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+A$10 Pfund/1 Mark
+A$1 Mark/10 Pfund
+Q$persolverint (!) trecentas marcas argenti ad pondus Colonie vel tria millia
+librarum Veronensis monete, X libris pro marca qualibet
+
+DOK$RegGîrz1_504/1244.0.0/1244.0.0/1244/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ein zerschnittenes Instrument von Anna von Mantua auf Samuel und Raphael
+Bettan von Venedig um 3000 Pfund Venediger, die in einem halben Jahr zu bezahlen
+sind.
+
+REG$Ein zerschnittenes Instrument von Anna von Mantua auf Samuel und Raphael
+Bettan von Venedig um 3000 Pfund Venediger, die in einem halben Jahr zu bezahlen
+sind.
+F$Reg. Gîrz 1/504/134/134
+G$Anna/Genannte/Mantua/Mantua//sî.Mailand/
+E$Samuel Bettan;Raphael Bettan/Genannter/Venedig/Venedig//Friaul/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$3000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$RegGîrz1_305/1197.8.19/1197.8.19/1197 August 19/anno dominice
+incarnationis MCXCVII.,
+quarto decimo kalendas septembris/Lienz Patriarchsdorf/Lienz,Patriarchsdorf
+//Osttirol/
+S$X/X/X
+V$X/X/X
+K$Graf Heinrich von Windischmatrei lÑ·t auf Bitten seiner Freunde, der Grafen
+Meinhard II., seines Bruders Engelbert III. von Gîrz und des Grafen Otto von
+Ortenburg, gegen 20 Mark Entgelt genannte Leute in Lavant (Tirol) frei.
+
+REG$Graf Heinrich von Windischmatrei lÑ·t auf Bitten seiner Freunde, der Grafen
+Meinhard II., seines Bruders Engelbert III. von Gîrz und des Grafen Otto von
+Ortenburg, gegen 20 Mark Entgelt genannte Leute in Lavant (Tirol) frei.
+F$Reg. Gîrz 1/305/83f/83
+G$X/X/X/X//
+E$Heinrich/Graf/Windischmatrei/Windischmatrei//i.Osttirol
+H$Freilassung/Hîrige/Lavant_sî.Lienz/Lavant_sî.Lienz//sî.Lienz i.Osttirol/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+

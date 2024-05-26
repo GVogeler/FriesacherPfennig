@@ -1,0 +1,3672 @@
+
+note *** Einlesen der Rohdaten we_trent.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$Trient_009/1191.3.2/1191.3.2/1191 MÑrz 2/die secundo intrante martioanno dominice
+nativitatis MCXCI. indicione nona/Trient/Trient//SÅdtirol/
+S$Johannes Pencius/kaiserl. Notar/Johannes Pencius
+V$Johannes Pencius/kaiserl. Notar/Johannes Pencius
+K$Domdekan Martin von Trient und Kellermeister Friedrich Pantarana investieren
+den Burggrafen Berthold von Tirol und dessen Sîhne Berthold und Conzus mit einem
+Zehnt in der Pfarre Tirol zu Erbrecht gegen einen jÑhrlichen zu Martini fÑlligen
+Zins von 11 Pfund Berner.
+
+REG$Domdekan Martin von Trient und Kellermeister Friedrich Pantarana investieren
+den Burggrafen Berthold von Tirol und dessen Sîhne Berthold und Conzus mit einem
+Zehnt in der Pfarre Tirol zu Erbrecht gegen einen jÑhrlichen zu Martini fÑlligen
+Zins von 11 Pfund Berner.
+F$Trient/009/12f/13
+F$TUB 1/465/257/257
+G$Berthold/Burggraf/Tirol/Tirol//b.Meran/
+G$Berthold;Conzus/X/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Zehnt?Immobilien/Tirol/Tirol//b.Meran/
+W$Verona/X/
+O$11/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$ad fictum solvendum omni anno \dots libras undecim denariorum Veronensium
+B$Orig. einst im Domkapitel-Archiv in Trient, gegenwÑrtig nicht auffindbar.
+Kopie des Notars Albertus quondam domini Martini de Floriis civus
+Mantuani, publicus imperiali auctoritate notarius, von 1333 August 2, Trient.
+
+DOK$Trient_010/1191.5.22/1191.5.22/1191 Mai 22/die XI. kal. iunii, indictione nona, anno
+dominice incarnationis MCLXXXXI., indictione supracripta/Trient/Trient//SÅdtirol/
+S$Johannes Pencius/kaiserl. Notar/Johannes Pencius
+V$Johannes Pencius/kaiserl. Notar/Johannes Pencius
+K$Domdekan Martin von Trient und Kellermeister Friedrich Pantarana investieren
+den Adelpret, Sohn des Warimbert von Mori, mit einem Zehnt in Ala zu Erbpacht
+gegen jÑhrlichen zu Michaelis fÑlligen Zins von 30 Schilling Berner.
+
+REG$Domdekan Martin von Trient und Kellermeister Friedrich Pantarana investieren
+den Adelpret, Sohn des Warimbert von Mori, mit einem Zehnt in Ala zu Erbpacht
+gegen jÑhrlichen zu Michaelis fÑlligen Zins von 30 Schilling Berner.
+F$Trient/010/13f/14
+G$Adelpret/X/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Zehnt/Ala/Ala//Stadt i.Val Lagarina/
+W$Verona/X/
+O$X/X/X
+Z$30/sol./X
+M$X/X/X/Z
+Q$ad fictum solvendum omni anno \dots sol. XXX den. Veron.
+
+DOK$Trient_013/1199.6.27/1199.6.27/1199 Juni 27/anno a nativitate eiusdem MCXC., die
+dominico quarto exeunte mense iunii, indictione secunda/Trient/Trient//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Adelpretus de Portauriola, Domherr von Trient, macht sein Testament.
+
+REG$Adelpretus de Portauriola, Domherr von Trient, bestimmt testamentarisch, da·
+seiner Frau Nigra, falls sie nach seinem Tod das Haus verlassen mîchte, 400
+Pfund Veroneser MÅnze von seinem Erben zu geben sind.
+F$Trient/013/16f/17
+G$Heinrich/Domherr/Trient/Trient//Genannter Portauriola
+E$Nigra/X/X/X//
+H$Abfindung?/Wohnrecht;Fruchtgenu·?/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$400/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quadringentas libras Veron. monete ab herede suo dari censuit
+
+REG$Adelpretus de Portauriola, Domherr von Trient, vermacht seiner Tochter
+Mathilde testamentarisch 500 Pfund Veroneser.
+F$Trient/013/16f/17
+G$Heinrich/Domherr/Trient/Trient//Genannter Portauriola
+E$Mathilde/X/X/X//
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$filie sue Mathilde quingentas libras Veron. \dots dari disposuit
+
+REG$Adelpretus de Portauriola, Domherr von Trient, bestimmt testamentarisch, da·
+100 Pfund Veroneser MÅnze in conredium von seinem Erben zu geben sind.
+F$Trient/013/16f/17
+G$Heinrich/Domherr/Trient/Trient//Genannter Portauriola
+E$Nigra/X/X/X//
+H$Legat/in conredium?#Alimente PrÑbende/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum libras Veron. monete in coredium dari disposuit
+
+DOK$Trient_015/1208.10.24/1208.10.24/1208 Oktober 24/anno domini MCCVIII., indictione XI.,
+die VIIII. exeunte octbri/Trient/Trient//SÅdtirol/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Das Domkapitel von Trient investiert den Herrn Rudolf von Bozen pachtweise mit
+der HÑlfte des Zehnten zu Bozen gegen einen jÑhrlichen zum Gervasiusfest
+fÑlligen Zins von 24 Pfund und einem halben Denar Veroneser.
+
+REG$Das Domkapitel von Trient investiert den Herrn Rudolf von Bozen pachtweise mit
+der HÑlfte des Zehnten zu Bozen gegen einen jÑhrlichen zum Gervasiusfest
+fÑlligen Zins von 24 Pfund und einem halben Denar Veroneser.
+F$Trient/015/21/21
+G$Rudolf/Genannter/Bozen/Bozen//SÅdtirol/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Zehnt/Bozen/Bozen//SÅdtirol/
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$0,5/den./X/Z
+Q$solvendo \dots fictum \dots omni anno \dots XXIIII libras et mediam den. Ver.
+
+REG$Das Domkapitel von Trient investiert den Herrn Rudolf von Bozen pachtweise mit
+der HÑlfte des Zehnten zu Bozen gegen einen jÑhrlichen zum Gervasiusfest
+fÑlligen Zins von 24 Pfund und einem halben Denar Veroneser.
+F$Trient/015/21/21
+G$Rudolf/Genannter/Bozen/Bozen//SÅdtirol/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Zehnt/Bozen/Bozen//SÅdtirol/
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$0,5/den./X/Z
+Q$per XXIIII libras et mediam den. Ver. \dots solvendas
+
+DOK$Trient_019/1214.6.21/1214.6.21/1214 Juni 21/anno domini MCCXIIII., indictione secunda,
+die sabati X. ex. iun./Beseno/Castel Beseno//Ruine b.Besenello nî.Rovereto/
+S$Zacheus/kaiserl. Notar/Zacheus
+V$Zacheus/kaiserl. Notar/Zacheus
+K$Bischof Friedrich von Trient, Reichslegat und Vikar, investiert den Johannes
+von Lamuda von Volano mit einem GrundstÅck, gelegen zu Volano innerhalb
+angegebener Grenzen, gegen einen jÑhrlichen zu Anfang MÑrz fÑlligen Zins von 10
+Schilling Berner zu Erbrecht.
+
+REG$Bischof Friedrich von Trient, Reichslegat und Vikar, investiert den Johannes
+von Lamuda von Volano mit einem GrundstÅck, gelegen zu Volano innerhalb
+angegebener Grenzen, gegen einen jÑhrlichen zu Anfang MÑrz fÑlligen Zins von 10
+Schilling Berner zu Erbrecht.
+F$Trient/019/24f/25
+G$Johannes/Genannter/Calliano/Lamuda all Calliano//Flur (einst Hof?) i.Val Lagarina zw. Calliano u.Volano nî.Rovereto/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Volano/Volano//i.Val Lagarina n.Rovereto/
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./X/Z
+Q$ad fictum dandum omni anno X solidos denariorum Ver(onensium)
+
+REG$Bischof Friedrich von Trient, Reichslegat und Vikar, investiert den Johannes
+von Lamuda von Volano mit einem GrundstÅck, gelegen zu Volano innerhalb
+angegebener Grenzen, gegen einen jÑhrlichen zu Anfang MÑrz fÑlligen Zins von 10
+Schilling Berner zu Erbrecht und der Mîglichkeit dieses, nachdem es dem
+Domkapitel zu einem um 20 Schilling niedrigerem Preis angeboten hat,
+zu verkaufen oder zu verschenken.
+F$Trient/019/24f/25
+G$Johannes/Genannter/Calliano/Lamuda all Calliano//Flur (einst Hof?) i.Val Lagarina zw. Calliano u.Volano nî.Rovereto/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Kauf_Abschlag?/Immobilien/Volano/Volano//i.Val Lagarina n.Rovereto/
+W$X/X/
+O$X/X/X
+Z$20/sol./minus
+M$X/X/X/Z
+Q$vendere donare cui voluerit dando pro XX solidis ad minus quam aliis
+B$Art des RechtsgeschÑftes aufgrund der verkÅrzten Darstellung in
+der Quelle nicht ganz sicher, aber wahrscheinlich.
+vgl. FRA II 5 Nr.35 1189.10.13
+
+DOK$Trient_022/1226.6.23/1226.6.23/1226 Juni 23/anno domini MCCXXVI., indictione XIIII., die
+octavo exeunte iunio/Trient/Trient//SÅdtirol/
+S$Roland \c{C}acaran/kaiserl. Notar/Roland \c{C}acaran
+V$Roland \c{C}acaran/kaiserl. Notar/Roland \c{C}acaran
+K$Ulrich (von Villanders), Domherr von Trient, macht sein Testament.
+
+REG$Ulrich (von Villanders), Domherr von Trient, vermacht seiner Schwester Ita
+testamentarisch alle seine beweglichen und unbeweglichen GÅter unter der
+Bedingung, da· sie jÑhrlich dem Domkapitel zu Gregorii 3 Pfund Veroneser gibt.
+F$Trient/022/26f/26
+G$Ita/X/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zahlungsverpflichtung/Immobilien/unbestimmt/unbestimmt// ?
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ipsa det omni anno dominis canonicis Tridentine ecclesie III lib. Veron.
+
+REG$Ulrich (von Villanders), Domherr von Trient, vermacht seiner Schwester Ita
+testamentarisch alle seine beweglichen und unbeweglichen GÅter mit der Ver-
+pflichtung, da· sie jÑhrlich dem Domkapitel zu Gregorii 3 Pfund Veroneser gibt.
+Die Kanoniker sollen dieses Fest fÅr sein Seelenheil und das der Verstorbenen
+feiern und die drei Pfund unter sich aufteilen.
+F$Trient/022/26f/26
+G$Ita/X/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Anniversar/Anniversar/Trient/Trient//SÅdtirol   ?
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$dividendo illas III lib. Veron. id superstantibus
+
+REG$Ulrich (von Villanders), Domherr von Trient, vermacht dem hl. Stephan von
+Foiandro 50 Pfund Veroneser Pfennige, welche ihm Walter Paltus schuldet.
+F$Trient/022/26f/26
+G$Ulrich/Domherr/Trient/Trient//SÅdtirol/
+E$Stephan/Kirche?Altar/Villanders/Villanders//Dorf sw.Klausen/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$relinquo sancto Stephano de Foiandro L lib. denar. Veron.
+
+REG$Ulrich (von Villanders), Domherr von Trient, vermacht dem Hospital in Klausen
+testamentarisch 5 Pfund Veroneser von seinen GÅtern.
+F$Trient/022/26f/26
+G$Ulrich/Domherr/Trient/Trient//SÅdtirol/
+E$X/Hospital/Klausen/Klausen//i.Eisacktal/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquo ospitali in Clusen V lib. Veron. de meis bonis
+
+REG$Ulrich (von Villanders), Domherr von Trient, vermacht dem Hospital in Ritten (des dt. Ritterordens)
+testamentarisch 40 Schilling.
+F$Trient/022/26f/26
+G$Ulrich/Domherr/Trient/Trient//SÅdtirol/
+E$X/Hospital/Ritten/Ritten//(zu Lengmoos)nî.Bozen/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$item ospitali in Riten XL sol.
+
+DOK$Trient_024/1230.9.12/1230.9.12/1230 September 12/anno domini MCCXXX., indictione tercia,
+die XII intrante septembri/Trient/Trient//SÅdtirol/
+S$Roland \c{C}acaran/kaiserl. Notar/Roland \c{C}acaran
+V$Roland \c{C}acaran/kaiserl. Notar/Roland \c{C}acaran
+K$Magister Abelinus, Domherr von Trient, macht sein Testament.
+
+REG$Magister Abelinus, Domherr von Trient, setzt seine Verwandte Armengarda, die
+Frau des Adelpret Stardus testamentarisch als Universalerbin ein und vermacht
+ihr sein kleines Haus in Trient. Vom Zins eines anderen Hauses in der Hîhe von
+20 Pfund Veroneser hinterlÑ·t er 10 Pfund Veroneser fÅr sein Seelenheil und das
+seiner Mutter.
+F$Trient/024/28ff/28
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Seelenheil/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid pro remedio anime sue et matris eiusdem X lib. Veron.
+
+REG$Magister Abelinus, Domherr von Trient, setzt seine Verwandte Armengarda, die
+Frau des Adelpret Stardus testamentarisch als Universalerbin ein und vermacht
+ihr sein kleines Haus in Trient. Vom Zins eines anderen Hauses in der Hîhe von
+20 Pfund Veroneser, welchen Belina, die Frau des Garbagnus, jÑhrlich zahlt,
+hinterlÑ·t er 10 Pfund Veroneser fÅr sein Seelenheil und das seiner Mutter.
+F$Trient/024/28ff/28
+G$Belina/X/X/X//
+E$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$relinquid pro remedio anime sue et matris eiusdem X lib. Veron. de illis XX
+lib. Veron., quas Belina uxor Garbagni annuatim solvit fictum de domo
+
+REG$Magister Abelinus, Domherr von Trient, setzt seine Verwandte Armengarda, die
+Frau des Adelpret Stardus testamentarisch als Universalerbin ein und vermacht
+ihr sein kleines Haus in Trient, von dessen Zins in der Hîhe von 20 Pfund
+Veroneser er 10 Pfund Veroneser fÅr sein Seelenheil und das seiner Mutter
+hinterlÑ·t.
+F$Trient/024/28ff/28
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Anniversar/Anniversar/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$alias vero X lib. illius ficti dicti [\dots] prefatis canonicis qui presentes
+erunt in anniversario eiusdem pro remedio anime sue et matris eiusdem legavit
+
+REG$Magister Abelinus, Domherr von Trient, ÅbertrÑgt dem Kanoniker Adelpret
+testamentarisch, den genannten Zins in der Hîhe von 20 Pfund Veronesern
+einzunehmen und zu genannten Zwecken auszugeben.
+F$Trient/024/28ff/28
+G$X/X/X/X//
+E$Adelpret/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zins/Immobilien/Trient/Trient//SÅdtirol    ?
+H$Verwaltung/Zinsgeld/Trient/Trient//SÅdtirol   ?
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod per dictas XX lib. Veron. annuatim recipiat
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kanoniker Adelpret
+testamentarisch fÅr seine MÅhe 10 Schilling Veroneser, welchen Zins Bonainsigna,
+der Sohn der? Folla von einem Haus zahlt und 7 Schilling Veroneser, welchen Zins
+Michael von einem Haus zahlt.
+F$Trient/024/28ff/28
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Adelpret/Kanoniker/Trient/Trient//SÅdtirol/
+H$Legat/Zins/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$relinquid \dots pro labore suo X sol. Veron. ficti
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kanoniker Adelpret
+testamentarisch fÅr seine MÅhe 10 Schilling Veroneser, welchen Zins Bonainsigna,
+der Sohn der? Folla von einem Haus zahlt und 7 Schilling Veroneser, welchen Zins
+Michael von einem Haus zahlt.
+F$Trient/024/28ff/28
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Adelpret/Kanoniker/Trient/Trient//SÅdtirol/
+H$Legat/Zins/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/Z
+Q$relinquid \dots pro labore suo \dots VII sol. Veron. ficti
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kanoniker Adelpret
+testamentarisch fÅr seine MÅhe 10 Schilling Veroneser, welchen Zins Bonainsigna,
+der Sohn der? Folla von einem Haus zahlt und 7 Schilling Veroneser, welchen Zins
+Michael von einem Haus zahlt, sowie alle Rechte und das Eigentum an den
+genannten HÑusern, solange er lebt. Adelpret hat dann die Mîglichkeit, Pflichten
+und Legat einem der Kanoniker aus der Mînchsgemeinschaft in Triest zu
+hinterlassen.
+F$Trient/024/28ff/29
+G$Adelpret/Kanoniker/Trient/Trient//SÅdtirol/
+E$X/X/X/X//
+H$Legat/Zins/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$X/X/X
+Z$17/sol./X
+M$X/X/X/Z
+Q$XVII sol. Veron. ei relinquere
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t testamentarisch der
+Kirchenfabrik von St. Benedikt in Trient 60 Pfund.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Benedikt/Kirchenfabrik/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid \dots LX lib.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t testamentarisch fÅr Arbeiten
+an der Kirche St. Benedikt in Trient 60 Pfund, die nur fÅr Bauarbeiten verwendet
+werden dÅrfen.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Benedikt/Kirche/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid \dots LX lib. tantummodo ita quod ille LX lib. in redificacione
+illius ecclesie \dots expendantur et non in alio
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t testamentarisch der
+Kirchenfabrik des hl. Vigilius in Trient 60 Pfund.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Vigilius/Kirchenfabrik/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid laborerio sancti Vigilii Tridenti XX lib. Veron.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t den Pfarrern? von S. Maria
+Maggiore testamentarisch 40 Schilling und der Kirchenfabrik 20 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$S. Maria Maggiore/Kirchenfabrik/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$plebanis sancte Marie XL sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t den Pfarrern? von S. Maria
+Maggiore testamentarisch 40 Schilling und der Kirchenfabrik 20 Schilling.
+F$Trient/024/28ff/28
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$S. Maria Maggiore/Kirchenfabrik/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$laborerio XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Pfarrer von S. Maria
+Maggiore testamentarisch 20 Schilling und der Kirchenfabrik ebenso.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$S. Maria Maggiore/Pfarrer/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$presbiteris sancti Petri XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Pfarrer von S. Maria
+Maggiore testamentarisch 20 Schilling und der Kirchenfabrik ebenso.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$S. Maria Maggiore/Kirchenfabrik/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$laborerio XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Pfarrer von S. Maria
+Magdalena testamentarisch 20 Schilling und der Kirchenfabrik ebenso.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$S. Maria Magdalena/Pfarrer/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$presbiteris sancti Marie Magdalene XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Pfarrer von S. Maria
+Magdalena testamentarisch 20 Schilling und der Kirchenfabrik ebenso.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$S. Maria Magdalena/Kirchenfabrik/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$laborerio XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kirche des hl. Martin
+testamentarisch 40 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Martin/Kirche/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ecclesie sancti Martini XL sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kapelle des hl. Johannes
+testamentarisch 20 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Johannes/Kapelle/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$capelle sancti Johannes XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kapelle S. Crucis
+testamentarisch 40 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Heiligenkreuz/Kapelle/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$capelle \dots sancte Crucis XL sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Hospital St. Nikolaus
+testamentarisch 40 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Nikolaus/Hospital/Trient Venedig?/Trient Venedig?//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$ospitali sancti Nicolai XL sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kloster des hl.
+Laurentius testamentarisch 3 Pfund.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Laurentius/Kloster/Trient/Trient,bei//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$monasterio sancti Laurencii III lib.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kirche des hl.
+BartholomÑus testamentarisch 20 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. BartholomÑus/Kirche/X/?// ??
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$XX sol. ad coperiendam ecclesiam sancti Bartolomei
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kirche des Hl. Georgius
+testamentarisch 20 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Georgius/Kirche/Trient/Trient, gleichnamiger Vorort von//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$XX sol. ad coperiendam ecclesiam sancti Bartolomei et sancto Jerorio XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kapelle des Hl. Blasius
+de Castro (San Biagio im bischîflichen Schlo· Buonconsiglio zu
+Trient) testamentarisch 20 Schilling.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$St. Blasius/Kapelle/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$sancto Blasio de Castro XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kollegium der
+MinderbrÅder testamentarisch 20 Pfund fÅr sein Seelenheil und das seiner Eltern.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$MinderbrÅder/Kollegium/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid collegio fratrum minorum qui morantur apud Castrum Tridentinum XX
+lib. pro remedio anime sue
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kollegium der
+Minderschwestern testamentarisch 20 Pfund fÅr Kleidung.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Minderschwestern/Kollegium/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid collegio \dots sororum minorum XX lib. pro indumentis
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kollegium der
+Dominikaner von S. Maria delle Vergine in Verona testamentarisch 20 Pfund
+fÅr Kleidung.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Dominikaner/Kollegium/Verona/Verona//Venetien/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid \dots collegio fratrum predicatorum sancte Marie matris Domini de
+Verona XX lib. pro indumentis
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t dem Kollegiatsstift von S.
+Giorgio in Br\`a in Verona 10 Pfund.
+F$Trient/024/28ff/29
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Hl. Georgius/Kollegiatsstift/Verona ,BrÖ/Verona,BrÖ//Venetien/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$X lib. sancto Jeorio in Braida de Verona
+
+REG$Magister Abelinus, Domherr von Trient, hinterlÑ·t der Kirche des
+KreuztrÑgerordens bei Trient testamentarisch 15 Pfund.
+F$Trient/024/28ff/30
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$KreuztrÑgerorden/Kirche/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$15/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Marie XV lib. relinquid
+
+REG$Magister Abelinus, Domherr von Trient, vermacht der Mathilde testamentarisch
+3 Pfund Veroneser.
+F$Trient/024/28ff/30
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Mathilde/?/X/X//
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$relinquid Matelde serventi sue III lib. Veron.
+
+REG$Magister Abelinus, Domherr von Trient, vermacht dem Hospital San Spirito in
+Trient testamentarisch 20 Schilling.
+F$Trient/024/28ff/30
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Hl. Geist/Hospital/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ospitali sancto Spiritui XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, vermacht dem Hospital Altuspassus zu
+Trient testamentarisch 20 Schilling.
+F$Trient/024/28ff/30
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$Altuspassus/Hospital/Trient/Trient//SÅdtirol/
+H$Legat/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$ospitali Altipassi XX sol.
+
+REG$Magister Abelinus, Domherr von Trient, legt testamentarisch fest, da· 100
+Pfund Veroneser fÅr sein BegrÑbnis, Anniversare und Messen ausgegeben werden
+sollen.
+F$Trient/024/28ff/30
+G$Abelinus/Domherr/Trient/Trient//SÅdtirol/
+E$X/X/X/X//
+H$BegrÑbnis;Anniversar;Messen  SeelgerÑt?/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$disposuit C lib. Veron. expendantur pro sepultura sua et in aniversariis et
+cantandis missis
+
+DOK$Trient_025/1231.9.10/1231.9.10/1231 September 10/anno domini MCCXXXI., indictione
+quarta, die dominico X. intrante sept./Trient/Trient//SÅdtirol/
+S$Roland \c{C}acaran/kaiserl. Notar/Roland \c{C}acaran
+V$Roland \c{C}acaran/kaiserl. Notar/Roland \c{C}acaran
+K$Priester Azelus, Domherr von Trient, macht sein Testament.
+
+REG$Priester Azelus, Domherr von Trient, setzt seine Verwandte Benevenuta,
+der Tochter des Enricus, testamentarisch als Universalerbin ein und bestimmt,
+da· sie fÅr sein Seelenheil beim BegrÑbnis und am 7. und 30. 50 Pfund Veroneser
+Pfennige zahlt.
+F$Trient/025/30f/30
+G$Benevenuta/X/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Seelenheil/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$disponat pro anima mea \dots quinquaginta lib. den. Ver.
+
+REG$Priester Azelus vermacht der ecclesia maior des hl. Vigilius in Trient
+testamentarisch ein GrundstÅck? in Don und Zins in der Hîhe von 15 Schilling
+Veroneser Pfennigen, welche vom Haus der Sîhne es Lan\c{c}afam gegeben wird, das
+"inter porcelle  (?) domini Pelegrini" liegt.
+F$Trient/025/30f/30
+G$X/X/X/X//
+E$Hl. Vigilius/ecclesia maior/Trient/Trient//SÅdtirol/
+H$Legat/Zins/unbestimmt/unbestimmt//
+W$Verona/X/
+O$X/X/X
+Z$15/sol./X
+M$X/den./X/Z
+Q$fictum XV sol. denariorum Veronensium
+
+DOK$Trient_030/1241.6.4/1241.6.4/1241 Juni 4/anno domini MCCXLI., indictione XIIII., die
+martis, quarto intrante iunio/Trient/Trient//SÅdtirol/
+S$Otto/X/Otto
+V$X/X/X
+K$Das Domkapitel von Trient investiert den Herrn Heinrich, Sohn weiland des
+Herrn Adelpret von Tirol, mit einem Mansus, gelegen zu Tirol in Monteyo (Flur
+bei Tirol n. Meran), gegen
+einen alljÑhrlich zum Martinimarkt in Meran fÑlligen Zins von 15 Pfund Berner
+und 2 Diensten zu Erbpacht.
+
+REG$Das Domkapitel von Trient investiert den Herrn Heinrich, Sohn weiland des
+Herrn Adelpret von Tirol, mit einem Mansus, gelegen zu Tirol in Monteyo, gegen
+einen alljÑhrlich zum Martinimarkt in Meran fÑlligen Zins von 15 Pfund Berner
+und 2 Diensten zu Erbpacht.
+F$Trient/030/37/37
+G$Heinrich/Genannter/Tirol/Tirol//SÅdtirol/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Tirol/Tirol//SÅdtirol/
+W$Verona/X/
+O$15/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$solvendum omni anno \dots XV lib. Ver(onensium) parvulorum
+B$"den." aus dem Zusammenhang erschlossen. 1327 September 23, Trient Insert?
+(Regest Santifaller Nr. 86) gedruckt in MIôG. 55, 1945, S. 453ff.
+
+DOK$TrReg_002/1191.3.7/1191.3.7/1191 MÑrz 7/die VII. intr. mense madii, ind. nona, a.
+dni. a nat. MCLXXXXI./Trient/Trient//SÅdtirol/
+S$Johannes [Pencius]/kaiserl. Notar/Johannes [Pencius]
+V$Johannes [Pencius]/kaiserl. Notar/Johannes [Pencius]
+K$Domdekan Martin von Trient und Kellermeister Friedrich Pantarana investieren
+den den Johannes von Pinetum und Basacanus mit einem GrundstÅck in Trient
+zu Erbrecht gegen einen jÑhrlichen zu Michaeli fÑlligen
+Zins von 5 Pfund Veroneser Pfennigen.
+
+REG$Domdekan Martin von Trient und Kellermeister Friedrich Pantarana investieren
+den Johannes von Pinetum und Basacanus mit einem GrundstÅck in Trient
+zu Erbrecht gegen einen jÑhrlichen zu Michaeli fÑlligen
+Zins von 5 Pfund Veroneser Pfennigen.
+F$TrReg/002/6/6
+G$Johannes/Genannter/Pinetum und Basacanus/Pinetum und Basacanus//wo?
+eccl.S.Mouro- Val di Pinä,Talgegend n.Pergine
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$5/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$ad fictum solvendum omni anno \dots libr. quinque den. Ver.
+
+DOK$TrReg_004/1200.6.18/1200.6.18/1200 Juni 18/a. a. nat. MCC., die XVIIII. intr. iunio,
+ind. tertia/Cadine/Cadine/Cadenum/Dorf nw.Trient/
+S$Rudolf/kaiserl. Notar/Rudolf
+V$Rudolf/kaiserl. Notar/Rudolf
+K$Peladus von Cadine, der nach rîmischen Recht lebt, investiert Tridentinus von
+Fornace mit einem StÅck Ackerland in Socase und bekennt den Kaufpreis in der
+Hîhe von 7 Pfund Veroneser Pfennigen erhalten zu haben.
+
+REG$Peladus von Cadine, der nach rîmischen Recht lebt, investiert Tridentinus von
+Fornace mit einem StÅck Ackerland in Socase und bekennt, den Kaufpreis in der
+Hîhe von 7 Pfund Veroneser Pfennigen erhalten zu haben.
+F$TrReg/004/8f/9
+G$Tridentinus/Genannter/Fornace/Fornace//Dorf i.Valle di Pinä n.Pergine/
+E$Peladus/Genannter/Cadine/Cadine//nw.Trient/
+H$BestÑtigung_Kaufpreis/Immobilien/uWelschtirol Socase/uWelschtirol,Socase//wo?? 8100Welschtirol
+W$Verona/X/
+O$7/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$accepisse pretium VII libr. den. Ver.
+B$Peladus von Dominicus
+
+DOK$TrReg_005/1200.6.18/1200.6.18/1200 Juni 18/a. a. nat. MCC. die XVIII., intr. iunio,
+ind. tertia/Cadine/Cadine//nw.Trient/
+S$Rudolf/kaiserl. Notar/Rudolf
+V$Rudolf/kaiserl. Notar/Rudolf
+K$Fadinellus investiert einer Trientiner mit einem StÅck Ackerland in Coltura
+und bestÑtigt, den Kaufpreis in der Hîhe von 18 Pfund Veroneser Pfennigen
+erhalten zu haben.
+
+REG$Fadinellus investiert einer Trientiner mit einem StÅck Ackerland in Coltura
+und bestÑtigt, den Kaufpreis in der Hîhe von 18 Pfund Veroneser Pfennigen
+erhalten zu haben.
+F$TrReg/005/9/9
+G$X/X/Trient/Trient//SÅdtirol/
+E$Fadinellus/X/X/X//
+H$BestÑtigung_Kaufpreis/Immobilien/Welschtirol Coltura/Welschtirol
+Coltura//
+W$Verona/X/
+O$18/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$accepisse pretium decem octo libr. den. Ver.
+
+DOK$TrReg_007/1213.0.0/1218.0.0/1213 - 1218/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Friedrich von Trient verpfÑndet dem Arzt Albert das Haus, in dem er
+sich aufhÑlt, mit allen NebengebÑuden und, falls das nicht ausreichen sollte,
+auch seine anderen GÅter gegen 51 Pfund und viereinhalb Schilling.
+
+REG$Bischof Friedrich von Trient verpfÑndet dem Arzt Albert das Haus, in dem er
+sich aufhÑlt, mit allen NebengebÑuden und, falls das nicht ausreichen sollte,
+auch seine anderen GÅter gegen 51 Pfund und viereinhalb Schilling.
+F$TrReg/007/10f/10
+G$Albert/Arzt/X/X//
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Immobilien/Trient/Trient?//SÅdtirol/
+W$X/X/
+O$51/lib./X
+Z$4,5/sol./X
+M$X/X/X/A
+Q$pro LI libr. et IV sol. et dimidium
+
+REG$Bischof Friedrich von Trient verspricht dem Arzt Albert, einen Teil? seiner
+Schulden in der Hîhe von 21 Pfund und
+12 Schilling Veroneser Pfennige am nÑchsten Fest des hl. Johannes zu bezahlen.
+F$TrReg/007/10f/11
+G$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+E$Albert/Arzt/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$21/lib./X
+Z$12/sol./X
+M$X/X/X/Z
+Q$promisit solvere maistro Alberto medico XXI libr. et XII sol. den. Ver.
+
+DOK$TrReg_008/1221.6.28/1221.6.28/1221 Juni 28/a. dni. MCCXXI., ind. nona, die lune,
+tertio ex mense iunii/Trient/Trient//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der Mundschenk Rudolf Scantio investiert fÅr sich und seine Erben den
+SchlÑchter Pizolus, den Sohn des Paganellus de Cugnola, und dessen Erben mit
+einem Lehen.
+
+REG$Der Mundschenk Rudolf Scantio verspricht fÅr sich und seine Erben, dem
+SchlÑchter Pizolus und dessen Erben unter Strafe von 50 Pfund Veroneser
+Pfennigen dessen Lehen zu schÅtzen.
+F$TrReg/008/11f/11
+G$Rudolf Scantio/Mundschenk/unbestimmt/unbestimmt//
+E$Pizolus/SchlÑchter/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena L libr. den. Ver.
+
+REG$Der Mundschenk Rudolf Scantio verspricht, dem SchlÑchter Pizolus, falls er
+gegen die Abmachungen handelt oder Pizolus oder dessen Erben bedrÅckt, ihm als
+Strafe 50 Pfund Veroneser Pfennige zu geben, wofÅr Rudolf auf das Lehen
+verzichtet.
+F$TrReg/008/11f/12
+G$Rudolf Scantio/Mundschenk/unbestimmt/unbestimmt//
+E$Pizolus/SchlÑchter/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$promisit ei dare nom. pene emendare L libr. den. Ver.
+
+REG$Der Mundschenk Rudolf Scantio bestÑtigt, vom SchlÑchter Pizolus 200 Pfund
+Veroneser Pfennige erhalten zu haben.
+F$TrReg/008/11f/12
+G$Pizolus/SchlÑchter/X/X//
+E$Rudolf Scantio/Mundschenk/unbestimmt/unbestimmt//
+H$BestÑtigung_öbergabe?/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$ab eo Pizolo accepisse libr. den. Ver. CC.
+
+DOK$TrReg_012/1224.12.17/1224.12.17/1224 Dezember 17/a. dni. MCCXXIV., ind. XII.,
+die XV. ex dezembri/Trient/Trient//SÅdtirol/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Grimoldus von Cagnum, der Prokurator seiner abwesenden Frau Engella, verkauft
+dem Trentinellus, dem Sohn des Ottolinus aus dem Geschlecht der Gamdus, fÅr 125
+Pfund Veroneser Pfennige, welche er erhalten zu haben bestÑtigt, als Allod
+zwei HÑuser? und investiert damit den Trentinellus fÅr seinen abwesenden Vater.
+
+REG$Grimoldus von Cagnum, der Prokurator seiner abwesenden Frau Engella, verkauft
+dem Trentinellus, dem Sohn des Ottolinus aus dem Geschlecht der Gamdus, fÅr 125
+Pfund Veroneser Pfennige, welche er erhalten zu haben bestÑtigt, als Allod
+zwei HÑuser? und investiert damit den Trentinellus fÅr seinen abwesenden Vater.
+F$TrReg/012/14f/14
+G$Trentinellus/Genannter/Trient Gamdus/Trient,Gamdus//wo?? Gandi sind Trienter
+Familie
+E$Grimoldus/Genannter/Cagno/Cagno//Dorf i.Val di Pescara(Sulzberg)n.Cles/
+H$BestÑtigung_Kauf/Immobilien/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$125/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio CXXV libr. den. Ver., quas nom. pretii confessus fuit se accepisse
+
+REG$Grimoldus von Cagnum, der Prokurator seiner abwesenden Frau Engella, verkauft
+dem Trentinellus, dem Sohn des Ottolinus aus dem Geschlecht der Gamdus, fÅr 125
+Pfund Veroneser Pfennige als Allod zwei HÑuser? und investiert den
+Trentinellus fÅr seinen abwesenden Vater mit den ErtrÑgen in der Hîhe von 4,5
+und 4 Pfund Veroneser Pfennigen.
+F$TrReg/012/14f/14
+G$Grimoldus/Genannter/Cagno/Cagno//Dorf i.Val di Pescara(Sulzberg)n.Cles/
+E$Trentinellus/Genannter/Trient/Trient//Gandi sind Trientiner Familie
+H$Belehnung/Zins/Trient/Trient//Welschtirol/
+W$Verona/X/
+O$4,5/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$quatuor libr. et dimidium den. Ver. de ficto perp. de domo
+
+REG$Grimoldus von Cagnum, der Prokurator seiner abwesenden Frau Engella, verkauft
+dem Trentinellus, dem Sohn des Ottolinus aus dem Geschlecht der Gamdus, fÅr 125
+Pfund Veroneser Pfennige als Allod zwei HÑuser? und investiert den
+Trentinellus fÅr seinen abwesenden Vater mit den ErtrÑgen in der Hîhe von 4,5
+und 4 Pfund Veroneser Pfennigen.
+F$TrReg/012/14f/14
+G$Grimoldus/Genannter/Cagno/Cagno//Dorf i.Val di Pescara(Sulzberg)n.Cles/
+E$Trentinellus/Genannter/Trient/Trient//
+H$Belehnung/Zins/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$4/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$alias quatuor libr. den. Ver. de ficto perp.
+
+DOK$TrReg_013/1227.11.6/1227.11.6/1227 November 6/a. dni. MCCXXVII., ind. XV., die
+mercurii, VI. intr. novembri/Trient/Trient//SÅdtirol/
+S$Oluradinus/kaiserl. Notar/Oluradinus
+V$Oluradinus/kaiserl. Notar/Oluradinus
+K$Domdekan Ulrich von Trient investiert zusammen mit allen Kanonikern und
+BrÅdern den Notar Muso mit zwei HÑusern in Trient? zu Erbpacht gegen einen
+jÑhrlichen an den Kalenden des MÑrz fÑlligen Zins von 12 Pfund Veroneser
+Pfennigen.
+
+REG$Domdekan Ulrich von Trient investiert zusammen mit allen Kanonikern und
+BrÅdern den Notar Muso mit zwei HÑusern in Trient? zu Erbpacht gegen einen
+jÑhrlichen an den Kalenden des MÑrz fÑlligen Zins von 12 Pfund Veroneser
+Pfennigen.
+F$TrReg/013/15f/15
+G$Muso/Notar/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Trient/Trient?//SÅdtirol/
+W$Verona/X/
+O$12/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$ad fictum solvendum o. a. \dots duodecim libr. den. Ver.
+
+REG$Domdekan Ulrich von Trient investiert zusammen mit allen Kanonikern und
+BrÅdern den Notar Muso mit zwei HÑusern in Trient? zu Erbpacht gegen einen
+jÑhrlichen an den Kalenden des MÑrz fÑlligen Zins von 12 Pfund Veroneser
+Pfennigen. Gleich danach investiert Muso den Dekan fÅr seine Kanoniker mit 8
+Pfund Veroneser Pfennigen, welche dem Muso jÑhrlich an den Kalenden des
+MÑrz von Pizola und dem Sohn? des Lantraminus bezahlt werden.
+F$TrReg/013/15f/15
+G$Muso/Notar/X/X//
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Investitur/ZinsErtrag?/Trient/Trient?//
+W$Verona/X/
+O$8/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$investivit \dots de VIII libr. den. Ver.
+
+REG$Domdekan Ulrich von Trient investiert zusammen mit allen Kanonikern und
+BrÅdern den Notar Muso mit zwei HÑusern in Trient? zu Erbpacht gegen einen
+jÑhrlichen an den Kalenden des MÑrz fÑlligen Zins von 12 Pfund Veroneser
+Pfennigen. Gleich danach investiert Muso den Dekan fÅr seine Kanoniker mit 8
+Pfund Veroneser Pfennigen, welche dem Muso jÑhrlich an den Kalenden des
+MÑrz je zur HÑlfte von Pizola und dem Sohn? des Lantraminus bezahlt werden.
+F$TrReg/013/15f/15
+G$Pizola/X/X/X//
+E$Muso/Notar/X/X//
+H$Zins?/Immobilien/Trient/Trient?//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$dat IV libr.
+
+REG$Domdekan Ulrich von Trient investiert zusammen mit allen Kanonikern und
+BrÅdern den Notar Muso mit zwei HÑusern in Trient? zu Erbpacht gegen einen
+jÑhrlichen an den Kalenden des MÑrz fÑlligen Zins von 12 Pfund Veroneser
+Pfennigen. Gleich danach investiert Muso den Dekan fÅr seine Kanoniker mit 8
+Pfund Veroneser Pfennigen, welche dem Muso jÑhrlich an den Kalenden des
+MÑrz je zur HÑlfte von Pizola und dem Sohn? des Lantraminus bezahlt werden.
+F$TrReg/013/15f/15
+G$X/X/X/X//
+E$Muso/Notar/X/X//
+H$Zins?/Immobilien/Trient/Trient?//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$alias IV libr. solvitur per fil. qd. Lantramini
+
+DOK$TrReg_014/1227.11.14/1227.11.14/1227 November 14/in Chr. nom. a. dni. MCCXXVII., ind.
+XV., die XIV. intr. novembri/uWelschtirol
+Penzolum/uWelschtirol,Penzolum//wo??uWelschtirol
+S$Johannes/Trient/Johannes
+V$Johannes/Trient/Johannes
+K$Aleita, die Frau des Durentus von Penzolum, die nach rîmischem Recht lebt,
+investiert den Friedrich, den Sohn? des Marandus aus Penzolum, mit einem
+GrundstÅck in "Pra rumagnano" und bestÑtigt, den Kaufpreis in der Hîhe von 50
+Schilling Veroneser Pfennigen erhalten zu haben.
+
+REG$Aleita, die Frau des Durentus von Penzolum, die nach rîmischem Recht lebt,
+investiert den Friedrich, den Sohn? des Marandus aus Penzolum, mit einem
+GrundstÅck in "Pra rumagnano" und bestÑtigt, den Kaufpreis in der Hîhe von 50
+Schilling Veroneser Pfennigen erhalten zu haben.
+F$TrReg/014/16/16
+G$Friedrich/X/X/X//
+E$Aleita/Genannte/uWelschtirol Penzolum/uWelschtirol,Penzolum//? uWelschtirol
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol Penzolum/uWelschtirol,Penzolum//?
+uWelschtirol
+W$Verona/X/
+O$X/X/X
+Z$50/sol./X
+M$X/den./X/A
+Q$se accepisse pretium L sol. den. Ver.
+
+DOK$TrReg_015/1229.5.29/1229.5.29/1229 Mai 29/in Chr. nom. a. dni. MCCXXVIIII., ind.
+II., die III. ex madio/uWelschtirol Penzolum/uWelschtirol,Penzolum//?
+S$Johannes/Trient/Johannes
+V$Johannes/Trient/Johannes
+K$Martin, der Sohn des Bonavita? aus Penzolum, der nach rîmischem Recht lebt,
+verkauft dem Benvenutus, dem Sohn der? Belavida von Baldimmum, um 11,5 Pfund
+Veroneser Pfennig einen Acker in Pedursunus?m.
+
+REG$Martin, der Sohn des Bonavita? aus Penzolum, der nach rîmischem Recht lebt,
+verkauft dem Benvenutus, dem Sohn der? Belavida von Baldimmum, um 11,5 Pfund
+Veroneser Pfennig einen Acker in Pedursunus?m.
+F$TrReg/015/16f/16
+G$Benevenutus/Genannter/uWelschtirol
+Baldimmus/uWelschtirol,Baldimmus//wo??Castel Corno, Ruine b.Isera w.Rovereto
+E$Martin/Genannter/uWelschtirol Penzolum/uWelschtirol,Penzolum//wo??
+H$Kauf/Immobilien/uWelschtirol Pedursunus?m/uWelschtirol,Pedursunus?m//wo??
+Pedursuno?
+W$Verona/X/
+O$11,5/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pretio XI libr. et dimidii den. Ver.
+
+DOK$TrReg_019/1230.5.19/1230.5.19/1230 Mai 19/in Chr. nom. a. dni. MCCXXX., ind. III.,
+die XIII. ex madio/uWelschtirol Penzolum/uWelschtirol,Penzolum//wo??
+S$Johannes/Trient/Johannes
+V$Johannes/Trient/Johannes
+K$Albert, der Sohn des Preteudaldus von Vidaionum, der in Penzolum wohnt,
+investiert mit Zustimmung seiner Gattin Scebilia die Romagna, die Tochter des
+Balsadrus von Zostinum, fÅr ihren Gatten Bonusjohannes Belandus? mit einem Acker
+in Zostinum und bestÑtigt, den Kaufpreis in der Hîhe von 7 Pfund Veroneser
+Pfennigen erhalten zu haben.
+
+REG$Albert, der Sohn des Preteudaldus von Vidaionum, der in Penzolum wohnt,
+investiert mit Zustimmung seiner Gattin Scebilia die Romagna, die Tochter des
+Balsadrus von Zostinum, fÅr ihren Gatten Bonusjohannes Belandus? mit einem Acker
+in Zostinum und bestÑtigt, den Kaufpreis in der Hîhe von 7 Pfund Veroneser
+Pfennigen erhalten zu haben.
+F$TrReg/019/21/21
+G$Romagna/Genannte/uWelschtirol Zostinum/uWelschtirol,Zostinum//wo??
+E$Albert/Genannter/uWelschtirol Penzolum/uWelschtirol,Penzolum//wo??
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol Zostinum/uWelschtirol,Zostinum//wo??
+W$Verona/X/
+O$7/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse pretium VII libr. den. Ver.
+
+DOK$TrReg_022/1235.3.27/1235.3.27/1235 MÑrz 27/a dni. MCCXXX. quinto, ind. octava, die
+quinto ex martio/Trient/Trient//SÅdtirol/
+S$Stephan/kaiserl. Notar/Stephan
+V$Stephan/kaiserl. Notar/Stephan
+K$Bischof Aldricus von Trient lÑdt fÅr sich und seinen Hof Freschenzana, die
+Tochter des Arnold von Pixatum, peremtorisch vor, damit sie selbst oder ein
+hinreichend BevollmÑchtigter kÑme und dem Aicard, dem Sachwalter der
+Kanoniker von Trient, Antwort und Rechenschaft hinsichtlich des Zinses von
+Prevorum gÑbe. Da sie sich zu kommen weigerte, wurde die tenuta Åber die GÅter
+jener Freschenzana dem Sachwalter der Kanoniker Åbergeben und durch
+SchÑtzmeister der Kommune von Trient geschÑtzt und zum Verkauf ausgerufen. Da
+aber kein KÑufer erschien, investierte der Bischof namens des Kaufrechtes den
+genannten Aicard mit den genannten GÅtern.
+
+REG$Bischof Aldricus von Trient investiert den Sachwalter der Kanoniker von Trient
+Aicard fÅr diese mit einem Haus in Pixatum?, das auf 23 Pfund Veroneser
+geschÑtzt jÑhrlich 40 Schilling Veroneser Zins leistet.
+F$TrReg/022/23f/24
+G$X/SchÑtzmeister/Trient/Trient//SÅdtirol/
+E$X/X/X/X//
+H$SchÑtzwert/Immobilien/uWelschtirol Pixatum/uWelschtirol,Pixatum?//wo??
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$estimata XXIII libr. Ver. solvendo o. a. XL sol. Ver. fictum
+
+REG$Bischof Aldricus von Trient investiert den Sachwalter der Kanoniker von Trient
+Aicard fÅr diese mit einem Haus in Pixatum?, fÅr welches Prudentius, der Sohn
+des Rudolf Taro jÑhrlich 40 Schilling Veroneser Zins leistet.
+F$TrReg/022/23f/24
+G$Prudentius/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/uWelschtirol Pixatum/uWelschtirol,Pixatum?//wo??
+W$Verona/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$estimata XXIII libr. Ver. solvendo o. a. XL sol. Ver. fictum
+
+REG$Bischof Aldricus von Trient investiert den Sachwalter der Kanoniker von Trient
+Aicard fÅr diese mit einem GrundstÅck und Weingarten in Pixatum?, das auf 26
+Pfund Veroneser geschÑtzt jÑhrlich 30 Schilling Veroneser Zins leistet.
+F$TrReg/022/23f/24
+G$X/SchÑtzmeister/Trient/Trient//SÅdtirol/
+E$X/X/X/X//
+H$SchÑtzwert/Immobilien_Weingarten/uWelschtirol
+Pixatum/uWelschtirol,Pixatum?//wo??
+W$Verona/X/
+O$26/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$estimata per estimatores XXVI libr. Ver. solvendo o. a. fictum XXX den.
+
+REG$Bischof Aldricus von Trient investiert den Sachwalter der Kanoniker von Trient
+Aicard fÅr diese mit einem GrundstÅck und Weingarten in Pixatum?, fÅr welches
+Prudentius, der Sohn des Rudolf Taro jÑhrlich 30 Schilling Zins leistet.
+F$TrReg/022/23f/24
+G$Prudentius/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien_Weingarten/uWelschtirol
+Pixatum/uWelschtirol,Pixatum?//wo??
+W$Verona/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/Z
+Q$estimata per estimatores XXVI libr. Ver. solvendo o. a. fictum XXX den.
+
+REG$Bischof Aldricus von Trient investiert den Sachwalter der Kanoniker von Trient
+Aicard fÅr diese mit einem GrundstÅck und Weingarten in Pixatum?, das auf 20
+Pfund Veroneser geschÑtzt wird.
+F$TrReg/022/23f/24
+G$X/SchÑtzmeister/Trient/Trient//SÅdtirol/
+E$X/X/X/X//
+H$SchÑtzwert/Immobilien_Weingarten/uWelschtirol
+Pixatum/uWelschtirol Pixatum?//wo??
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$de una alia petia terre cum vineis \dots estimata XX libr. Ver.
+
+REG$Bischof Aldricus von Trient investiert den Sachwalter der Kanoniker von Trient
+Aicard fÅr diese mit einem Weingarten in Malgol, der auf 16 Pfund Veroneser
+geschÑtzt wird und fÅr welchen der Kanoniker Jakob jÑhrlich einen Eimer Wein
+Zins leistet.
+F$TrReg/022/23f/24
+G$X/SchÑtzmeister/Trient/Trient//SÅdtirol/
+E$X/X/X/X//
+H$SchÑtzwert/Immobilien_Weingarten/Malgolo/Malgolo//Dorf i.Nonsberg nî.Cles/
+W$Verona/X/
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$estimata XVI libr. Ver. per estimatores
+
+DOK$TrReg_025/1237.11.20/1237.11.20/1237 November 20/in Chr. nom. a. dni. MCCXXXVII.,
+ind. X., die XI. ex mense novembris/uWelschtirol
+Verzaum/uWelschtirol,Verzaum//wo??
+S$Johannes/Trient;kaiserl. Notar/Johannes
+V$Johannes/Trient;kaiserl. Notar/Johannes
+K$Beladoman und Benvenuta, die Schwestern des Johannes von Vedecla von Strambum,
+die nach rîm. Recht leben, investieren mit Kaufrecht und mit Zustimmung ihrer
+Mutter Ota und des Gatten der Beladoman, Albertinus, den Benevenutus, den
+Sohn des Ventura von Verzaum, mit einem Acker in Verzaum in Verteclerum? und
+bestÑtigen, den Kaufpreis in der Hîhe von 16 Pfund Veroneser erhalten zu haben.
+
+REG$Beladoman und Benvenuta, die Schwestern des Johannes von Vedecla von Strambum,
+die nach rîm. Recht leben, investieren mit Kaufrecht und mit Zustimmung ihrer
+Mutter Ota und des Gatten der Beladoman, Albertinus, den Benevenutus, den
+Sohn des Ventura von Verzaum, mit einem Acker in Verzaum in Verteclerum? und
+bestÑtigen, den Kaufpreis in der Hîhe von 16 Pfund Veroneser erhalten zu haben.
+F$TrReg/025/25f/26
+G$Benevenutus/Genannter/uWelschtirol Verzaum/Verzaum//wo??
+E$Beladoman;Benvenuta/Genannter/uWelschtirol Strambum/Strambum//wo?
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol Verzaum/uWelschtirol,Verzaum//wo??
+W$Verona/X/
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$se accepisse pretio finito XVI libr. Ver.
+
+DOK$TrReg_026/1239.6.12/1239.6.12/1239 Juni 12/a. dni. MCCXXXIX., ind. XII., die XII.
+intr. iunio/uWelschtirol Novesinum/uWelschtirol, Novesinum//wo??
+S$Friedrich/kaiserl. Notar/Friedrich
+V$Friedrich/kaiserl. Notar/Friedrich
+K$Mainentus, der Sohn des Millius, und Bontempus, der Sohn des Ulrich von
+Novesinum, bestÑtigen, von Vivinus, dem Sohn des Warientus von Novesinum 3 Pfund
+Veroneser Pfennige als Kaufpreis fÅr ein StÅck Land in Novesinum erhalten zu
+haben.
+
+REG$Mainentus, der Sohn des Millius, und Bontempus, der Sohn des Ulrich von
+Novesinum, bestÑtigen, von Vivinus, dem Sohn des Warientus von Novesinum 3 Pfund
+Veroneser Pfennige als Kaufpreis fÅr ein StÅck Land in Novesinum erhalten zu
+haben.
+F$TrReg/026/26/26
+G$Vivinus/Genannter/uWelschtirol Novesinum/uWelschtirol, Novesinum//wo??
+E$Mainentus/X/X/X//
+E$Bontempus/Genannter/uWelschtirol Novesinum/uWelschtirol, Novesinum//wo??
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol
+Novesimum/uWelschtirol,Novesimum//wo??
+W$Verona/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$nom. finiti pretii III libr. den. Ver.
+
+DOK$TrReg_029/1241.10.20/1241.10.20/1241 Oktober 20/a. dni. MCCXLI., ind. XIV., die XII.,
+ex octubri/Telve di sotto/Telve di sotto/Telvum/Dorf mit Ruine Castel alto i.Val Sugana n.Borgo/
+S$Rudolf/kaiserl. Notar/Rudolf
+V$Rudolf/kaiserl. Notar/Rudolf
+K$Ulrich, der Sachwalter der Kanoniker von Trient, investiert namens der Kirche
+und des Kapitels den Freien Belecinus von Carzanum und dessen Erben mit einem
+StÅck Ackerland in Lozenum? zu Erbpacht und gegen einen jÑhrlichen zu
+Allerheiligen fÑlligen Zins von 12 kleinen Veroneser Pfennigen.
+
+REG$Ulrich, der Sachwalter der Kanoniker von Trient, investiert namens der Kirche
+und des Kapitels den Freien Belecinus von Carzanum und dessen Erben mit einem
+StÅck Ackerland in Lozenum? zu Erbpacht und gegen einen jÑhrlichen zu
+Allerheiligen fÑlligen Zins von 12 kleinen Veroneser Pfennigen.
+F$TrReg/029/30f/31
+G$Belecinus/Genannter/uWelschtirol Carzanum/uWelschtirol, Carzanum//wo??
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/uWelschtirol Lozenum/uWelschtirol Lozenum//wo??
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./parv./Z
+Q$ad fictum redendum o. a. in festo omnium sanctorum XII. den. Ver. parv.
+
+DOK$TrReg_030/1242.3.16/1242.3.16/1242 MÑrz 16/a. dni. MCCXLII., ind. XV., die dominico,
+XVI. ex martio/Trient/Trient//SÅdtirol/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Grisa, die Frau des Zordanus von Telvum, bestÑtigt vor dem Oblay der
+Kanoniker von Trient, Konrad Husius, und auf dessen Verlangen, da· sie
+verpflichtet ist, jÑhrlich den Kanonikern an den Kalenden des MÑrz 30 Pfund
+Veroneser minus 7 Schilling Zins fÅr "palatio et turri, stala et forno", in
+welchem sie wohnt in Garten von St. Peter, und fÅr einen Garten beim Hospital
+von St. Peter in Trient zu zahlen.
+
+REG$Grisa, die Frau des Zordanus von Telvum, bestÑtigt vor dem Oblay der
+Kanoniker von Trient, Konrad Husius, und auf dessen Verlangen, da· sie
+verpflichtet ist, jÑhrlich den Kanonikern an den Kalenden des MÑrz 30 Pfund
+Veroneser minus 7 Schilling Zins fÅr "palatio et turri, stala et forno", in
+welchem sie wohnt in Garten von St. Peter, und fÅr einen Garten beim Hospital
+von St. Peter in Trient zu zahlen.
+F$TrReg/030/31/31
+G$Grisa/Genannte/Telve di sotto/Telve di sotto/Telvum/Dorf mit Ruine Castel alto i.Val Sugana n.Borgo/
+E$X/Domkapitel/Trient/Trient//SÅdtirol/
+H$BestÑtigung/Zinsverpflichtung/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$30/lib./X
+Z$7/sol./minus/
+M$X/X/X/Z
+Q$tenetur dare \dots fictum \dots XXX libr. Ver. minus VII sol.
+
+DOK$TrReg_031/1242.12.29/1242.12.29/1242 Dezember 29/a. dni.
+MCCXLII., ind. XV., die III. ex dezembri/uWelschtirol
+Strambum/uWelschtirol, Strambum//wo??
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Johannes, Cavalerius genannt, der Sohn des Zanbonus von Strambum, bestÑtigt,
+nach rîmischem Recht zu leben, und investiert den Albert, den Sohn des Fatus von
+Strambum, mit einem StÅck Ackerland in Strambum und legt offen dar, 35 Pfund
+Veroneser Pfennige als Kaufpreis erhalten zu haben.
+
+REG$Johannes, Cavalerius genannt, der Sohn des Zanbonus von Strambum, bestÑtigt,
+nach rîmischem Recht zu leben, und investiert den Albert, den Sohn des Fatus von
+Strambum, mit einem StÅck Ackerland in Strambum und legt offen dar, 35 Pfund
+Veroneser Pfennige als Kaufpreis erhalten zu haben.
+F$TrReg/031/31/31
+G$Albert/Genannter/uWelschtirol Strambum/uWelschtirol, Strambum//wo??
+E$Johannes Cavalerius/Genannter/uWelschtirol
+Strambum/uWelschtirol,Strambum//wo??
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol Strambum/uWelschtirol,
+Strambum//wo??
+W$Verona/X/
+O$35/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse XXXV libr. den. Ver. pretio finito
+
+DOK$TrReg_032/1243.2.5/1243.2.5/1243 Februar 5/a. dni. MCCXLIII., ind. prima, die
+iovis, quinto intr. februario/Trient/Trient//SÅdtirol/
+S$Obertus de Placentia/kaiserl. Notar/Obertus de Placentia
+V$Obertus de Placentia/kaiserl. Notar/Obertus de Placentia
+K$Erzdiakon Ulrich und die Kanoniker von Trient tauschen mit den BrÅdern
+Trentinus und Adelpretus, den Sîhnen des Otto von Gamdus, 35 Pfund und 12
+Veroneser Pfennige ZinseinkÅnfte gegen eine MÅhle mit Aquedukt in S. Maria in
+Trient.
+
+REG$Erzdiakon Ulrich und die Kanoniker von Trient tauschen mit den BrÅdern
+Trentinus und Adelpretus, den Sîhnen des Otto von Gamdus, 35 Pfund und 12
+Veroneser Pfennige ZinseinkÅnfte gegen eine MÅhle mit Aquedukt in S. Maria in
+Trient.
+F$TrReg/032/32f/32
+G$Trentinus;Adelpretus/Genannter/Trient/Trient//Gandi sind Trientiner Familie
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Tausch/ZinseinkÅnfte/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$35/lib./X
+Z$X/X/X
+M$12/den./parv./A
+Q$dederunt \dots fictum triginta et quinque libr. et duodecim den. Ver. parv.
+solvendas o. a. in Kal. martii
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+14 Pfund und 11 Schilling von den BrÅdern Bonus und Adebertinus, den Sîhnen
+des Trentinus von Zannum fÅr ein Haus in Trient, gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Bonus;Adebertinus/Genannter/Zanon/Zanon/Zannum/Dorf i.Fleimstal sw.Predazzo/
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//Gandi sind Trientiner Familie
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$14/lib./X
+Z$11/sol./X
+M$X/X/X/A
+Q$quatuordecim libr. et undecim sol.
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+4 Pfund von Hella, der Tochter des Amiradus, fÅr ein Haus in Trient
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Hella/X/X/X//
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quatuor libr.
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+50 Schilling von Trentinus von St. Benedikt von einem Haus in St. Benedikt
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Trentinus/Genannter/Trient/Trient,St.Benedikt//SÅdtirol/
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient,St.Benedikt//SÅdtirol/
+W$X/X/
+O$X/X/X
+Z$50/sol./X
+M$X/X/X/A
+Q$quinquaginta sol.
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+40 Schilling von Nigrellus und Omnebonus von Haus und Land in St. Martin
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Nigrellus;Omnebonus/X/X/X//
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$X/X/X
+Z$40/sol./X
+M$X/X/X/A
+Q$quadraginta sol.
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+4 Pfund von Pasius, dem Sohn des Bonafam? von einem Haus in Trient
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Pasius/X/X/X//
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quatuor libr.
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+drei Pfund von den Erben des Leuzus fÅr ein Haus mit Garten in Trient
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$X/X/X/X//
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$tres libr.
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+viereinhalb Pfund von Albertinus fÅr ein Haus in Trient
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Albertinus/X/X/X//
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$4,5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quatuor libr. et mediam
+
+REG$Trentinus und Adelpretus, die Sîhne des Otto von Gamdus, tauschen mit den
+Kanonikern von Trient Zinseinnahmen, so
+10 Schilling Veroneser von Konstantia fÅr eine Vorratskammer
+gegen eine MÅhle in Trient.
+F$TrReg/032/32f/32
+G$Konstantia/X/X/X//
+E$Trentinus;Adelpretus/Genannter/Trient/Trient//
+H$Zins/Immobilien/Trient/Trient//SÅdtirol/
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$decem sol. Ver.
+
+DOK$TrReg_034/1243.6.18/1243.6.18/1243 Juni 18/in Chr. nom., die iovis, tertiodecimo ex
+iunio a. dni. MCCXLIII., ind. prima/Sover/Sover/Soverum/Dorf i.oberen Val di Cembra sw.Cavalese/
+S$Delavantius/kaiserl. Notar/Delavantius
+V$Delavantius/kaiserl. Notar/Delavantius
+K$Dekan Friedrich von Trient setzt fÅr die Kanoniker von Trient ein Statut
+fÅr die Menschen von Soverum fest.
+
+REG$Niemand von Soverum darf sich einem Ritter oder einem anderem Herrn unter
+Strafe von 25 Pfund Veroneser unterstellen.
+F$TrReg/034/36f/37
+G$X/X/Sover/Sover/Soverum/Dorf i.oberen Val di Cembra sw.Cavalese/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XXV libr. Ver.
+
+DOK$TrReg_035/1243.11.12/1243.11.12/1243 November 12/in Chr. nom., a dni. MCCXLIII., ind.
+prima, die XII. intr. novembri/uWelschtirol
+Zostinum/uWelschtirol,Zostinum//wo??
+S$Florian/kaiserl. Notar/Florian
+V$Florian/kaiserl. Notar/Florian
+K$Maria, die Tochter des Azolinus, und Johannes ihr Gatte, der Sohn des Pilgrim
+von Zostinum, verzichten gegenÅber Palma, der Frau des Johannes, des Sohnes
+des Azolinus, auf die HÑlfte der Erbschaft von ihrem Bruder und auf alle
+AnsprÅche an beweglichen und unbeweglichen GÅtern, welche der Gatte ihr gegeben
+hat. Ebenso verzichtet Palma auf AnsprÅche an der anderen HÑlfte der Erbschaft.
+
+REG$Maria, die Tochter des Azolinus, und Johannes ihr Gatte, der Sohn des Pilgrim
+von Zostinum, verzichten gegenÅber Palma, der Frau des Johannes, des Sohnes
+des Azolinus, unter Strafe von 50 Pfund Veroneser Pfennigen auf die HÑlfte der
+Erbschaft von ihrem Bruder und auf alle
+AnsprÅche an beweglichen und unbeweglichen GÅtern, welche der Gatte ihr gegeben
+hat.
+F$TrReg/035/37ff/38
+G$Maria/X/X/X//
+G$Johannes/Genannter/uWelschtirol Zostinum/uWelschtirol,Zostinum//wo??
+E$Palma/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena L libr. den. Ver.
+
+REG$Maria, die Tochter des Azolinus, und Johannes ihr Gatte, der Sohn des Pilgrim
+von Zostinum, verzichten gegenÅber Palma, der Frau des Johannes, des Sohnes
+des Azolinus, unter Strafe von 50 Pfund Veroneser Pfennigen auf die HÑlfte der
+Erbschaft von ihrem Bruder und auf alle
+AnsprÅche an beweglichen und unbeweglichen GÅtern, welche der Gatte ihr gegeben
+hat. Ebenso verzichtet Palma auf AnsprÅche an der anderen HÑlfte der Erbschaft.
+F$TrReg/035/37ff/38
+G$Palma/X/X/X//
+E$Maria/X/X/X//
+E$Johannes/Genannter/uWelschtirol Zostinum/uWelschtirol,Zostinum//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub simili pena L libr. den. Ver. fecit refutationem
+
+DOK$TrReg_036/1243.11.13/1243.11.13/1243 November 13/a. dni. MCCXLIII., ind. I., die
+decimotertio intr. novembri/Marano/Marano//Dorf i.Val Lagarina w.Rovereto/
+S$X/X/X
+V$X/X/X
+K$der Kanoniker Konrad Husunus investiert den Egeno, den Sohn der Ermengarda von
+Ovilazum mit einer Hube samt allem Zubehîr in Ovilazum, die sein Vater Vigilius
+schon von den Kanonikern hatte, zu Erbpacht gegen
+einen jÑhrlichen zu Martini fÑlligen Zins in der Hîhe von 20 Pfund Veroneser
+Pfennigen.
+
+REG$der Kanoniker Konrad Husunus investiert den Egeno, den Sohn der Ermengarda von
+Ovilazum mit einer Hube samt allem Zubehîr in Ovilazum zu Erbpacht gegen einen
+jÑhrlichen zu Martini fÑlligen Zins in der Hîhe von 20 Pfund Veroneser
+Pfennigen.
+F$TrReg/036/39f/39
+G$Egeno/Genannter/uWelschtirol Ovilazum/uWelschtirol, Ovilazum//Familie wo?
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/uWelschtirol
+Ovilazum/uWelschtirol, Ovilazum//Familie wo?
+W$Verona/X/
+O$20/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$viginti libr. den. Ver. parv.
+
+REG$Der Zins betrug vor der Abmachung 62 KÑse im Wert von 13 Pfund Veroneser.
+F$TrReg/036/39f/39
+G$Egeno/Genannter/Trient/Trient//SÅdtirol    ?
+E$X/Kapitel/Trient/Trient//SÅdtirol/
+H$Wertangabe/KÑse/unbestimmt/unbestimmt//
+W$Verona/X/
+O$13/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$antea dabat annuatim LXII caseos valentes XIII lib. ver.
+
+DOK$TrReg_037/1244.4.1/1244.4.1/1244 April 1/in Chr. nom., a dni. MCCXLIIII., ind. II.,
+die primo intr. aprili/uWelschtirol Canisaga/uWelschtirol, Canisaga//wo??
+S$Johannes/Trient;kaiserl. Notar/Johannes
+V$Johannes/Trient;kaiserl. Notar/Johannes
+K$Johannes, der Sohn des Verzius Canisaga, der nach rîm. Recht lebt, investiert
+namens des Kaufrechtes den Odolinus, den Sohn des Petrus Bozenagus, mit einem
+Acker in Pavionum? und bestÑtigt, den Kaufpreis in der Hîhe von 17 Pfund
+Veroneser Pfennig erhalten zu haben.
+
+REG$Johannes, der Sohn des Verzius Canisaga, der nach rîm. Recht lebt, investiert
+namens des Kaufrechtes den Odolinus, den Sohn des Petrus Bozenagus, mit einem
+Acker in Pavionum? und bestÑtigt, den Kaufpreis in der Hîhe von 17 Pfund
+Veroneser Pfennig erhalten zu haben.
+F$TrReg/037/41/41
+G$Odolinus/X/X/X//
+E$Johannes/X/X/X//
+H$BestÑtigung_Kauf/Immobilien/Pavione/Pavione/Pavionum?/in Ravina,Belvedere
+W$Verona/X/
+O$17/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse pretio finito XVII libr. den. Ver.
+
+DOK$TrReg_038/1244.5.11/1244.5.11/1244 Mai 11/in Chr. nom., die XI. intr. madio,
+MCCXLIIII., ind.II./Eppan/Eppan/Pianum/sî.Bozen
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Selva, die Tochter des Junius von Mastalina, kauft zum Preis von 25 Schilling
+Veroneser, die sie von Wido, dem Sohn des Meioratus? von Planum, erhalten hat,
+fÅr diesen ein StÅck Land "capiva" oberhalb der Kirche St. Agatha von Papiana.
+
+REG$Selva, die Tochter des Junius von Mastalina, kauft zum Preis von 25 Schilling
+Veroneser, die sie von Wido, dem Sohn des Meioratus? von Planum, erhalten hat,
+fÅr diesen ein StÅck Land "capiva" oberhalb der Kirche St. Agatha von Papiana.
+F$TrReg/038/41f/41
+G$Selva/Genannte/uWelschtirol Mastalina/uWelschtirol, Mastalina//wo??
+E$X/X/X/X//
+H$Kauf/Immobilien/Pavia/Pavia??/Papiana/Lombardei/
+W$Verona/X/
+O$X/X/X
+Z$25/sol./X
+M$X/X/X/A
+Q$pretio finito XXV sol. Ver.
+
+DOK$TrReg_042/1248.4.2/1248.4.2/1248 April 2/a. dni. MCCXLVIII., ind. sexta, die iovis,
+secundo intr. aprili/Trient/Trient//SÅdtirol/
+S$Benedikt/kaiserl. Notar/Benedikt
+V$Benedikt/kaiserl. Notar/Benedikt
+K$Nikolaus entscheidet als Richter des Podest\'a und des Bischofs von Trient den
+Streit zwischen dem Notar Bonamicus, dem Prokurator des Trentinus, des Sohnes
+des Oto Gandus, einerseits und dem Ulrich Soverius und dem Petrus, dem
+Sachwalter der Kanoniker von Trient, andererseits um ZinseinkÅnfte dahin, da·
+Ulrich Soverus den 7 Jahre lang vorenthaltenen Zins in der Hîhe von
+insgesamt 49 Pfund Veroneser innerhalb eines Monats an Trentinus nachzahlen mu·
+und au·erdem dreieinhalb Pfund Veroneser.
+
+REG$Der Notar Bonamicus, der Prokurator des Trentinus, des Sohnes
+des Oto Gandus, fordert von Ulrich Soverius 7 Pfund Veroneser Zins
+die ihm 7 Jahre vorenthalten wurden, nÑmlich 7? Pfund Veroneser fÅr
+jedes Jahr, da Soverus diesen Zins gewîhnlich dem Ulrich von Rambaldus?
+gegeben hat, und Ulrich den Zins an den Vater des genannten Trentinus verkauft
+hat.
+F$TrReg/042/44f/44
+G$Ulrich Soverus/X/X/X//
+E$Trentinus/X/X/X//
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Verona/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$VII libr. Ver. ficti per VII annos ei detenti videlicet pro quolibet annno XII
+libr. Ver.
+B$VII libr. Ver. wahrscheinlich zu XII libr. Ver. verschrieben?
+?Nikolaus, der Richter des Potest\† von Trient, Seidegerius von Titum?, und des
+Bischofs, entscheidet den Streit zwischen dem Notar Bonamicus, dem Prokurator
+des Trentinus, des  Sohnes des Oto Gandus, und
+dem Ulrich Soverius und dem Petrus, dem Sachwalter
+der Kanoniker, wonach Bonamicus von Ulrich Soverius 7? Pfund Veroneser Zins
+forderte, die ihm 7 Jahre vorenthalten wurden, nÑmlich 12? Pfund Veroneser fÅr
+jedes Jahr, da Soverus diesen Zins gewîhnlich dem Ulrich von Rambaldus?
+gegeben hat, und Ulrich den Zins an den Vater des genannten Trentinus verkauft
+hat. Ulrich Soverius und Petrus hingegen behaupten, da· Ulrich fÅr 100 Pfund
+Veroneser den Zins an die Kanoniker verkauft habe und diese ihn mehr als 10
+Jahre besitzen. Trentinus und sein Vater also einen Ñhnlichen Vertrag, 7 Pfund
+Veroneser Zins im Wert von 100 Pfund Veroneser, gemacht haben, wÑhrend der Preis
+nur 50 Pfund kleine Veroneser betrug und es eine Schenkung unter Lebenden war.
+Nikolaus entscheidet den Streit dahin, da· Ulrich Soverus 49 Pfund Veroneser fÅr
+den 7 Jahre vorenthaltenen Zins dem Trentinus innerhalb eines Monats zu zahlen
+habe und 3,5 Pfund Veroneser bis zum genannten Termin.
+
+REG$Der Notar Bonamicus, der Prokurator des Trentinus, des Sohnes
+des Oto Gandus, fordert von Ulrich Soverius 7 Pfund Veroneser Zins
+die ihm 7 Jahre vorenthalten wurden, nÑmlich 7? Pfund Veroneser fÅr
+jedes Jahr, da Soverus diesen Zins gewîhnlich dem Ulrich von Rambaldus?
+gegeben hat, und Ulrich den Zins an den Vater des genannten Trentinus verkauft
+hat.
+F$TrReg/042/44f/44
+G$Ulrich Soverus/X/X/X//
+E$Trentinus/X/X/X//
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Verona/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$VII libr. Ver. ficti per VII annos ei detenti videlicet pro quolibet annno XII
+libr. Ver.
+B$VII libr. Ver. wahrscheinlich zu XII libr. Ver. verschrieben?
+
+REG$Ulrich Soverius und Petrus behaupten, da· Ulrich fÅr 100 Pfund
+Veroneser den Zins an die Kanoniker verkauft habe und diese ihn mehr als 10
+Jahre besitzen.
+F$TrReg/042/44f/44
+G$X/Kanoniker/Trient/Trient//SÅdtirol/
+E$Ulrich Rambaldus/X/X/X//
+H$Kauf/Zins/unbestimmt/unbestimmt//
+W$Verona/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$venditionem in dnis. canonicis de predicto ficto pro C libr. Ver.
+
+REG$Trentinus und sein Vater haben einen Vertrag, 7 Pfund Veroneser Zins im Wert
+von 100 Pfund Veroneser, mit Ulrich von Rambaldus geschlossen, wÑhrend der Preis
+nur 50 Pfund kleine Veroneser betrug und es eine Schenkung unter Lebenden war.
+F$TrReg/042/44f/45
+G$Trintinus/X/X/X//
+E$Ulrich Rambaldus/X/X/X//
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Verona/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+A$7 Pfund Veroneser Zins/100 Pfund Veroneser Kaufpreis?Wertangabe
+Q$VII libr. Ver. ficti valent C libr. Ver.
+
+REG$Trentinus und sein Vater haben einen Vertrag, 7 Pfund Veroneser Zins im Wert
+von 100 Pfund Veroneser, mit Ulrich von Rambaldus geschlossen, wÑhrend der Preis
+nur 50 Pfund kleine Veroneser betrug und es eine Schenkung unter Lebenden war.
+F$TrReg/042/44f/45
+G$Trintinus/X/X/X//
+E$Ulrich Rambaldus/X/X/X//
+H$Wertangabe/Zins/unbestimmt/unbestimmt//
+W$Verona/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+A$100 Pfund Veroneser Kaufpreis?/7 Pfund Veroneser Zins
+Q$VII libr. Ver. ficti valent C libr. Ver.
+
+REG$Trentinus und sein Vater haben einen Vertrag, 7 Pfund Veroneser Zins im Wert
+von 100 Pfund Veroneser, mit Ulrich von Rambaldus geschlossen, wÑhrend der Preis
+nur 50 Pfund kleine Veroneser betrug und es eine Schenkung unter Lebenden war.
+REG$Trentinus und sein Vater haben einen Vertrag, 7 Pfund Veroneser Zins im Wert
+von 100 Pfund Veroneser, mit Ulrich von Rambaldus geschlossen, wÑhrend der Preis
+nur 50 Pfund kleine Veroneser betrug und es eine Schenkung unter Lebenden war.
+F$TrReg/042/44f/45
+G$Trintinus/X/X/X//
+E$Ulrich Rambaldus/X/X/X//
+H$Schenkung unter Lebenden/Zins/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$L libr. Ver. parv.
+
+REG$Nikolaus entscheidet als Richter des Podest\'a und des Bischofs von Trient den
+Streit zwischen dem Notar Bonamicus, dem Prokurator des Trentinus, des Sohnes
+des Oto Gandus, einerseits und dem Ulrich Soverius und dem Petrus, dem
+Sachwalter der Kanoniker von Trient, andererseits um ZinseinkÅnfte dahin, da·
+Ulrich Soverus den 7 Jahre lang vorenthaltenen Zins in der Hîhe von
+insgesamt 49 Pfund Veroneser innerhalb eines Monats an Trentinus nachzahlen mu·
+und au·erdem dreieinhalb Pfund Veroneser.
+F$TrReg/042/44f/45
+G$Ulrich Soverus/X/X/X//
+E$Trintinus/X/X/X//
+H$Zahlungsverpflichtung/Zinsnachzahlung/unbestimmt/unbestimmt//
+W$Verona/X/
+O$49/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in XLVIIII libr. Ver.
+
+REG$Nikolaus entscheidet als Richter des Podest\'a und des Bischofs von Trient den
+Streit zwischen dem Notar Bonamicus, dem Prokurator des Trentinus, des Sohnes
+des Oto Gandus, einerseits und dem Ulrich Soverius und dem Petrus, dem
+Sachwalter der Kanoniker von Trient, andererseits um ZinseinkÅnfte dahin, da·
+Ulrich Soverus den 7 Jahre lang vorenthaltenen Zins in der Hîhe von
+insgesamt 49 Pfund Veroneser innerhalb eines Monats an Trentinus nachzahlen mu·
+und au·erdem dreieinhalb Pfund Veroneser.
+F$TrReg/042/44f/45
+G$Ulrich Soverus/X/X/X//
+E$Trintinus/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//  ?
+W$Verona/X/
+O$3,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in tribus libr. Ver. et dimidi
+
+DOK$TrReg_044a/1249.1.13/1249.1.13/1249 JÑnner 13/a. dni. MCCXL. nono, ind. VII., die
+mercurii XIII. intr. ianuario/Trient/Trient//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der Richter Johannes gibt dem Trentinus, dem Sohn des Oto Gandus, die
+Besitzgewalt? Åber die GÅter des Ulrich Soverus im Wert von 52 Pfund Veroneser.
+
+REG$Der Richter Johannes gibt dem Trentinus, dem Sohn des Oto Gandus, die
+Besitzgewalt? Åber die GÅter des Ulrich Soverus im Wert von 52 Pfund Veroneser.
+F$TrReg/044/46f/47
+G$Johannes/Richter/X/X//
+E$Trentinus/X/X/X//
+H$Wertangabe/Immobilien/unbestimmt/unbestimmt//
+W$Verona/X/
+O$52/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$valentibus quinquaginta et duas libr. Ver.
+
+DOK$TrReg_044b/1249.1.14/1249.1.14/1249 JÑnner 14/[a. dni. MCCXL. nono, ind. VII., die
+mercurii XIII. intr. ianuario] postea die iovis XIIII. intr. ianuario/Trient/Trient//SÅdtirol/
+S$Benedikt/kaiserl. Notar/Benedikt
+V$Benedikt/kaiserl. Notar/Benedikt
+K$Der Pilger Secus setzt im Auftrag des Richters Johannes den Bonamicus, den
+Prokurator des Trentinus, dem Sohn des Oto Gandus, in die
+Besitzgewalt? Åber einen Weingarten des Ulrich Soverus in Mesianum? fÅr eine
+Schuld in der Hîhe von  52 Pfund Veroneser.
+
+REG$Der Pilger Secus setzt im Auftrag des Richters Johannes den Bonamicus, den
+Prokurator des Trentinus, dem Sohn des Oto Gandus, in die
+Besitzgewalt? Åber einen Weingarten des Ulrich Soverus in Mesianum? fÅr eine
+Schuld in der Hîhe von  52 Pfund Veroneser.
+F$TrReg/044/46f/47
+G$Secus/Richter/X/X//
+E$Bonamicus/Prokurator/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$52/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro \dots debito LII libr. Ver.
+
+DOK$TrReg_045/1249.2.22/1249.2.22/1249 Februar 22/a. dni. MCCXL. nono, ind. VII., die
+dominico, VII. ex februario/Trient/Trient//SÅdtirol/
+S$Gerhard?/kaiserl. Notar/Gerhard
+V$Gerhard?/kaiserl. Notar/Gerhard
+K$Tridentinus Åbergibt dem Ulrich Soverus einen Weingarten in Bulgarum? zum
+Bearbeiten, Åber den? Tridentinus die Besitzgewalt fÅr eine Schuld in der Hîhe
+von 60 Pfund Veroneser hatte, und Ulrich verspricht, den Weingarten zu
+bearbeiten und den ganzen Wein und Fruchtgenu· dem Tridentinus zu geben, bis die
+genannten 60 Pfund Veroneser bezahlt sind.
+
+REG$Tridentinus Åbergibt dem Ulrich Soverus einen Weingarten in Bulgarum? zum
+Bearbeiten, Åber den? Tridentinus die Besitzgewalt fÅr eine Schuld in der Hîhe
+von 60 Pfund Veroneser hatte, und Ulrich verspricht, den Weingarten zu
+bearbeiten und den ganzen Wein und Fruchtgenu· dem Tridentinus zu geben, bis die
+genannten 60 Pfund Veroneser bezahlt sind.
+F$TrReg/045/47/47
+G$Tridentinus/X/X/X//
+E$Ulrich Soverus/X/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro uno debito LX libr. Ver.
+
+REG$Tridentinus Åbergibt dem Ulrich Soverus einen Weingarten in
+Bulgarum?(Fersina, linker Nebenflu· der Etsch) zum
+Bearbeiten, Åber den? Tridentinus die Besitzgewalt fÅr eine Schuld in der Hîhe
+von 60 Pfund Veroneser hatte, und Ulrich verspricht, den Weingarten zu
+bearbeiten und den ganzen Wein und Fruchtgenu· dem Tridentinus zu geben, bis die
+genannten 60 Pfund Veroneser bezahlt sind.
+F$TrReg/045/47/47
+G$Ulrich Soverus/X/X/X//
+E$Tridentinus/X/X/X//
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$satisfactum fuerit de suprascriptis LX libr. Ver.
+
+DOK$TrReg_046/1249.11.7/1249.11.7/1249 November 7/in Chr. nom., a. dni. MCCXLVIIII.,
+ind. VII., die VII. intr. novembri/uWelschtirol
+Penzolum/uWelschtirol,Penzolum//wo??
+S$Florian/kaiserl. Notar/Florian
+V$Florian/kaiserl. Notar/Florian
+K$Gratiadeus, der Bigotus genannt wird, der Sohn des Albert von Penzolum,
+investiert namens des Kaufrechtes den Johannes, den Sohn des Pizolus von
+Penzolum, fÅr ihn und dessen BrÅder mit einem StÅck Land in Premanum und
+bestÑtigt, den Kaufpreis in der Hîhe von 50 Schilling kleiner Veroneser Pfennig
+erhalten zu haben.
+
+REG$Gratiadeus, der Bigotus genannt wird, der Sohn des Albert von Penzolum,
+investiert namens des Kaufrechtes den Johannes, den Sohn des Pizolus von
+Penzolum, fÅr ihn und dessen BrÅder mit einem StÅck Land in Premanum und
+bestÑtigt, den Kaufpreis in der Hîhe von 50 Schilling kleiner Veroneser Pfennig
+erhalten zu haben.
+F$TrReg/046/47f/48
+G$Jonannes/Genannter/uWelschtirol Penzolum/uWelschtirol,Penzolum//wo??
+E$Gratiadeus/Genannter/uWelschtirol Penzolum/uWelschtirol,Penzolum//wo??
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol Premanum/uWelschtirol,
+Premanum//wo??
+W$Verona/X/
+O$X/X/X
+Z$50/sol./X
+M$X/den./parv./A
+Q$se accepisse pretio finito L sol. den. Ver. parv.
+
+DOK$TrReg_047/1249.11.7/1249.11.7/1249 November 7/a. dni. MCCXLVIIII., ind. VII., die
+VII. intr. mense novembris/uWelschtirol Penzolum/uWelschtirol,Penzolum//wo??
+S$Florian/kaiserl. Notar/Florian
+V$Florian/kaiserl. Notar/Florian
+K$Penzola, die Tochter des Bonacolsa, investiert mit Zustimmung ihres Gatten
+Salatinus namens des Kaufrechtes den Johannes, den Sohn des Pizolus, fÅr sich
+und dessen BrÅder mit einem StÅck Ackerland in Tresul und bestÑtigt, den
+Kaufpreis in der Hîhe von 7,5 Pfund Veroneser Pfennigen erhalten zu haben.
+
+REG$Penzola, die Tochter des Bonacolsa, investiert mit Zustimmung ihres Gatten
+Salatinus namens des Kaufrechtes den Johannes, den Sohn des Pizolus, fÅr sich
+und dessen BrÅder mit einem StÅck Ackerland in Tresul und bestÑtigt, den
+Kaufpreis in der Hîhe von 7,5 Pfund Veroneser Pfennigen erhalten zu haben.
+F$TrReg/047/48/48
+G$Johannes/X/X/X//
+E$Penzola/X/X/X//
+H$BestÑtigung_Kauf/Immobilien/uWelschtirol Tresul/uWelschtirol, Tresul//wo??
+W$Verona/X/
+O$7,5/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$se accepisse pretio finito VII libr. Ver. et dimidiam den. Ver.
+
+DOK$TrReg_048/1250.0.0/1250.0.0/ca. 1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$ZinseinkÅnfte von Paum.
+
+REG$Ulrich, der Sohn des Bonus von Grafianum? zahlt einen jÑhrlichen Zins von
+unter anderem 7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/48
+G$Ulrich/Genannter/Povo Graffiano/Povo (abg.Dorf Graffiano)/Grafianum/abg.Dorf
+i.G.Povo sî.Trient/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/den./parv./A
+Q$VII sol. Ver. parv.
+
+REG$Von einer Hube des Rustegellus mÅssen jÑhrlichen unter anderem 7 Schilling
+Veroneser Zins bezahlt werden.
+F$TrReg/048/48ff/49
+G$X/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$VII sol. Ver.
+
+REG$Johannetus zahlt einen jÑhrlichen Zins von unter anderem einer Schulter oder
+7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/49
+G$Johannetus/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$unam spallam aut VII sol. Ver. parv.
+
+REG$Johannetus zahlt einen jÑhrlichen Zins von unter anderem einer Schulter oder
+7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/49
+G$Johannetus/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$unam spallam aut VII sol. Ver.
+
+REG$Berthold Todescus von Fraselongum? zahlt einen jÑhrlichen Zins von unter
+anderem "unum ameserum" oder 7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/49
+G$Berthold Todescus/Genannter/Frassilongo (Gereut)/Frassilongo(Gereut)/Fraselongum/Dorf i.Val del Fersina nî.Pergine/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$unum ameserum aut VII sol. Ver. parv.
+
+REG$Heinrich von Grafianum? zahlt einen jÑhrlichen Zins von unter anderem
+7 Schilling.
+F$TrReg/048/48ff/50
+G$Heinrich/Genannter/Povo Graffiano/Povo (abg. Dorf Graffiano/Grafianum/abg.Dorf i.G.Povo sî.Trient/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$VII sol. pro spala
+
+REG$Petrus von Gabiollum? zahlt einen jÑhrlichen Zins von unter anderem
+"unum ameserum" oder 7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/50
+G$Petrus/Genannter/Gabbiolo/Gabbiolo/Gabiollum/Dorf sî.Trient/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$unum ameserum aut VII sol. Ver. parv.
+
+REG$Petrus von Gabiollum? zahlt einen jÑhrlichen Zins von unter anderem
+"unum ameserum" oder 7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/50
+G$Petrus/Genannter/Gabbiolo/Gabbiolo/Gabiollum/Dorf sî.Trient/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$unum ameserum aut VII sol. Ver. parv.
+
+REG$Concius Todescus zahlt einen jÑhrlichen Zins von unter anderem
+"unum ameserum" oder 7 Schilling Veroneser.
+F$TrReg/048/48ff/50
+G$Concius Todescus/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/A
+Q$unum ameserum aut VII sol. Ver.
+
+REG$Ulrich von Fraxelongus? zahlt einen jÑhrlichen Zins von unter anderem
+7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/50
+G$Ulrich/Genannter/Frassilongo (Gereut)/Frassilongo(Gereut)/Fraxelongus?/Dorf
+i.Val del Fersina nî.Pergine/
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$VII sol. Ver. parv.
+
+REG$Ulrich Todescus zahlt einen jÑhrlichen Zins von unter anderem
+"unum ameserum" oder 7 Schilling kleiner Veroneser.
+F$TrReg/048/48ff/48
+G$Ulrich Todescus/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$unum ameserum aut VII sol. Ver. parv.
+
+REG$Stephan zahlt einen jÑhrlichen Zins von unter anderem "unum ameserum" oder 7
+Schilling kleiner Veroneser.
+F$TrReg/048/48ff/48
+G$Stephan/X/X/X//
+E$X/Kanoniker/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Povo/Povo/Paum/î.Trient/
+W$Verona/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/parv./A
+Q$unum ameserum aut VII sol. Ver. parv.
+
+DOK$FRAII5_003/1147.5.5/1147.5.5/1147 Mai 5/?/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Bischof Altmann von Trient belehnt den Johann von Fai und seinen
+Schwiegersohn Johannes Calerius mit dem Zehent, wofÅr sie an das bischîfliche
+Kelleramt (canipa) in Metz einen ewigen Zins von 20 Mut Getreide entrichten
+mÅssen.
+öberdies belehnt der Bischof dieselben mit einer Wiese in Pietra forata mit
+allen dazu gehîrigen Diensten, nÑmlich dem placitum, districtus et bandum, der
+datio und preces. Und wenn sie selbst in einen Bann fallen, so ist es gnÅgend,
+wenn sie BÅrgschaft leisten, ausgenommen bei Brandstiftung, Mord und Hochverrat.
+FÅr die Aufrechthaltung dieses öbereinkommens wird beiderseits eine Pîn von 100
+Pfund Berner festgesetzt.
+
+REG$Bischof Altmann von Trient belehnt den Johann von Fai und seinen Schwiegersohn
+Johannes Calerius mit einem Zehnt und einer Wiese in Pietra forata mit allen
+dazu gehîrigen Diensten. FÅr die Aufrechterhaltung dieses öbereinkommens wird
+beiderseits eine Pîn von 100 Pfund Berner festgesetzt.
+F$FRA II 05/003/20f/21
+G$Altmann/Bischof/Trient/Trient//SÅdtirol    beide?
+E$Johann/Genannter/Fai/Fai//Dorf s.Mezolombardo/
+E$Johannes Calerius/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen. "In der Urkunde figurirt die Jahreszahl 1117, da
+doch um jene Zeit der Bischof Adalpret I. noch lebte. öber die GrÅnde, weshalb
+das Jahr 1147 angesetzt wurde, siehe Bonelli II, 65. Hormayr, Geschichte von
+Tirol II. Theil bringt Seite 64 dieselbe Urkunde, ohne sich an der Jahreszahl zu
+stossen."
+
+DOK$FRAII5_004/1155.4.4/1155.4.4/1155 April 4/die lune, qui fuit quarto die intrante mense
+aprili anno ab incarnacione dominica MCLV., indiccione tercia/Riva/Riva//am Gardasee/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Bischof Eberhard von Trient trifft mit den Einwohnern von Riva folgendes
+öbereinkommen.
+1. FÅr jedes einzelne Haus wird dem Bischof von Trient am S.
+Michaelstag ein Zins von zwîlf Bernern gezahlt. Erfolgt die Zahlung nicht zur
+bestimmten Zeit, so kann der Bischof das betreffende Haus in Besitz nehmen und
+die Einwohner von Riva selbst werden dem, der sich der Zahlung weigerte, die
+Bewohnung seines Hauses wehren, bis er zahlt.
+2. Die Einwohner von Riva werden dem Bischof einen Hafenplatz einrÑumen, wo es
+ihm gefÑllig ist, mit den bisherigen Rechten und GebrÑuchen.
+3. Sie werden keinen fremden Schutzbefohlenen auf ihrem Gebiet dulden.
+4. Sie werden dem Bischof in allen seinen HÑndeln in seinem ganzen Bistum
+behilflich sein, und zwar dem oberen Seegebiet entlang auf eigene Kosten, sonst
+auf Kosten des Bischofs. In beiden FÑllen mu· er sie aber frÅher aufbieten.
+5. Will der Bischof den unter 1 genannten Zins an andere zu Lehen oder auf
+andere Art verleihen, so kann dies nur an Einwohner von Riva selbst geschehen.
+GeschÑhe die Verleihung an AuswÑrtige, so haben sie doch das Recht, den Zins nur
+an die bischîfliche Kammer abzufÅhren.
+
+REG$Die Einwohner von Riva zahlen jÑhrlich fÅr jedes einzelne Haus dem Bischof von
+Trient am S. Michaelstag einen Zins von zwîlf Pfennigen Veroneser MÅnze.
+F$FRA II 05/004/21ff/22
+G$X/Einwohner/Riva/Riva//am Gardasee/
+E$X/Bischof/Trient/Trient//SÅdtirol/
+H$Zins/Immobilien/Riva/Riva//am Gardasee/
+W$Verona/moneta/
+O$X/X/X
+Z$X/X/X
+M$12/nummus/X/Z
+Q$dabunt \dots XII nummos veronensis monete per singulos annos
+
+DOK$FRAII5_005/1159.3.25/1159.3.25/1159 MÑrz 25/die mercurii, qui fuit octavo kalendas
+aprilis, predicto mense anno ab incarnacione dni nostri Jesu Christi MCL nono,
+indiccione septima/Riva/Riva//am Gardasee/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Der Bischof Adalpret von Trient erlÑ·t den Bewohnern von Val di Ledro ihre
+bisherigen Zahlungen fÅr das FrÅhlings- und Herbst-Placitum, woferne sie ihm zur
+Zeit des Marktes in Riva 50 Widder, 4 KÅhe und 75 Pfund Veroneser Pfennige, und
+am Andreas-Markt ebenfalls 75 Pfund, 20 Widder, 2 KÅhe und 2 Schweine
+entrichten. FÅr Ehebruch, Mord \dots mÅssen sie dem Villicus, dem Vicedom oder
+Archidiakon zu Recht stehen. Als Dienstbarkeit (servicium) mÅssen sie 150 Pfund
+dem Bischof, 50 Pfund der Kurie bezahlen. DafÅr, wenn der Bischof nach Val di
+Ledro kommt, mu· er sich alles auf seine Kosten anschaffen, ausgenommen das Heu.
+
+REG$Der Bischof Adalpret von Trient erlÑ·t den Bewohnern von Val di Ledro ihre
+bisherigen Zahlungen fÅr das FrÅhlings- und Herbst-Placitum, woferne sie ihm zur
+Zeit des Marktes in Riva 50 Widder, 4 KÅhe und 75 Pfund Veroneser Pfennige, und
+am Andreas-Markt ebenfalls 75 Pfund, 20 Widder, 2 KÅhe und 2 Schweine
+entrichten.
+F$FRA II 05/005/24ff/25
+G$X/Bewohner/ValdiLedro/Val di Ledro//w.Riva/
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$75/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$septuaginta quinque libras denar. Veronensium
+
+REG$Der Bischof Adalpret von Trient erlÑ·t den Bewohnern von Val di Ledro ihre
+bisherigen Zahlungen fÅr das FrÅhlings- und Herbst-Placitum, woferne sie ihm zur
+Zeit des Marktes in Riva 50 Widder, 4 KÅhe und 75 Pfund Veroneser Pfennige, und
+am Andreas-Markt ebenfalls 75 Pfund, 20 Widder, 2 KÅhe und 2 Schweine
+entrichten.
+F$FRA II 05/005/24ff/25
+G$X/Bewohner/ValdiLedro/Val di Ledro//w.Riva/
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$75/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$septuaginta quinque libras
+
+REG$Die Bewohner von Val di Ledro mÅssen dem Bischof Adalpret von Trient als
+Dienstbarkeit (servicium) 150 Pfund und der Kurie 50 Pfund bezahlen.
+F$FRA II 05/005/24ff/25
+G$X/Bewohner/ValdiLedro/Val di Ledro//w.Riva/
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$Zahlungsverpflichtung/servicium/Trient/Trient//SÅdtirol/
+W$X/X/
+O$150/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Servicium centum quinquaginta libras episcopo et quinquaginta curie.
+
+REG$Die Bewohner von Val di Ledro mÅssen dem Bischof Adalpret von Trient als
+Dienstbarkeit (servicium) 150 Pfund und der Kurie 50 Pfund bezahlen.
+F$FRA II 05/005/24ff/25
+G$X/Bewohner/ValdiLedro/Val di Ledro//w.Riva/
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$Zahlungsverpflichtung/servicium/Trient/Trient//SÅdtirol/
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Servicium centum quinquaginta libras episcopo et quinquaginta curie.
+B$"libra" aus dem Zusammenhang erschlossen.
+
+REG$FÅr die Aufrechthaltung des öbereinkommens zwischen Bischof Adalpret von
+Trient und den Bewohnern von Val di Ledro wird beiderseits eine Pîn von 200
+Pfund Veroneser MÅnze festgesetzt.
+F$FRA II 05/005/24ff/25
+G$X/Bewohner/ValdiLedro/Val di Ledro//w.Riva    beide?
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/moneta bona/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nomine pene libras CC Veronenses bone monete.
+
+DOK$FRAII5_007/1161.11.29/1161.11.29/1161 November 29/die mercurii, qui fuit secundus exeunte
+novembri in anno MCLXI., indictione nona/Riva/Riva//a.Gardasee
+S$Adam/kaiserl. Notar/Adam
+V$Adam/kaiserl. Notar/Adam
+K$Der Bischof Adalpret von Trient belehnt den Gumpus und Boninsigna von Madruz
+mit zwei BauplÑtzen beim neugebauten Schlo· von Madruz, und mit der Hut eben
+dieses Schlosses, unter nachstehenden Bedingungen.
+1. Das Schlo· soll dem Bischof und seinen Leuten jederzeit offen sein, und er
+soll dort einen Hof zur Wohnung haben.
+2. In Kriegszeiten kann der Bischof Kriegsleute in das Schlo· legen, jedoch soll
+den zwei LehensmÑnnern keine Gewalt geschehen. Nach eingetretenem Frieden oder
+Waffenstillstand soll ihnen das Schlo· und dessen Hut wieder, wie frÅher,
+zustehen.
+3. Wer von beiden Teilen diesen Bedingungen nicht nachkommt, zahlt 200 Pfund
+Berner Strafe. HiefÅr setzt der Bischof seine Scaria von Madruz und seine
+Besitzungen dortselbst zum Pfand, die von Madruz verpfÑnden hiefÅr ihre
+trientner\'schen Lehen in Banale.
+
+REG$Der Bischof Adalpret von Trient belehnt den Gumpus und Boninsigna von Madruz
+mit zwei BauplÑtzen beim neugebauten Schlo· von Madruz, und mit der Hut eben
+dieses Schlosses, unter genannten Bedingungen.
+Wer von beiden Teilen diesen Bedingungen nicht nachkommt, zahlt 200 Pfund
+Veroneser Strafe. HiefÅr setzt der Bischof seine Scaria von Madruz und seine
+Besitzungen dortselbst zum Pfand, die von Madruz verpfÑnden hiefÅr ihre
+trientner\'schen Lehen in Banale.
+F$FRA II 05/007/28ff/31
+G$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+E$Gumpus;Boninsigna/Genannter/Madruzzo/Madruzzo//Dorf u.Schlo· i.Val di Cavedine w.Trient/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$obligavit penam ducentarum librarum Veronensium
+B$In Abschrift des Notars Obertus vom 29. November 1233 erhalten.
+
+REG$Der Bischof Adalpret von Trient belehnt den Gumpus und Boninsigna von Madruz
+mit zwei BauplÑtzen beim neugebauten Schlo· von Madruz, und mit der Hut eben
+dieses Schlosses, unter genannten Bedingungen.
+Wer von beiden Teilen diesen Bedingungen nicht nachkommt, zahlt 200 Pfund
+Veroneser Strafe. HiefÅr setzt der Bischof seine Scaria von Madruz und seine
+Besitzungen dortselbst zum Pfand, die von Madruz verpfÑnden hiefÅr ihre
+trientner\'schen Lehen in Banale.
+F$FRA II 05/007/28ff/31
+G$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+E$Gumpus;Boninsigna/Genannter/Madruzzo/Madruzzo//Dorf u.Schlo· i.Val di Cavedine w.Trient/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$emendet eis ducentas libras Veron.
+B$In Abschrift des Notars Obertus vom 29. November 1233 erhalten.
+
+REG$Der Bischof Adalpret von Trient belehnt den Gumpus und Boninsigna von Madruz
+mit zwei BauplÑtzen beim neugebauten Schlo· von Madruz, und mit der Hut eben
+dieses Schlosses, unter genannten Bedingungen.
+Wer von beiden Teilen diesen Bedingungen nicht nachkommt, zahlt 200 Pfund
+Veroneser Strafe. HiefÅr setzt der Bischof seine Scaria von Madruz und seine
+Besitzungen dortselbst zum Pfand, die von Madruz verpfÑnden hiefÅr ihre
+trientner\'schen Lehen in Banale.
+F$FRA II 05/007/28ff/31
+G$Gumpus;Boninsigna/Genannter/Madruzzo/Madruzzo//Dorf u.Schlo· i.Val di Cavedine w.Trient/
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$obligaverunt penam ducentarum librarum Veron.
+B$In Abschrift des Notars Obertus vom 29. November 1233 erhalten.
+
+REG$Der Bischof Adalpret von Trient belehnt den Gumpus und Boninsigna von Madruz
+mit zwei BauplÑtzen beim neugebauten Schlo· von Madruz, und mit der Hut eben
+dieses Schlosses, unter genannten Bedingungen.
+Wer von beiden Teilen diesen Bedingungen nicht nachkommt, zahlt 200 Pfund
+Veroneser Strafe. HiefÅr setzt der Bischof seine Scaria von Madruz und seine
+Besitzungen dortselbst zum Pfand, die von Madruz verpfÑnden hiefÅr ihre
+trientner\'schen Lehen in Banale.
+F$FRA II 05/007/28ff/31
+G$Gumpus;Boninsigna/Genannter/Madruzzo/Madruzzo//Dorf u.Schlo· i.Val di Cavedine w.Trient/
+E$Adalpret/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Immobilien/VillaBanale/Villa Banale/Banale/Dorf i.Judikarien î.Tione/
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quibus ducentis libris obligaverunt totum illud
+B$In Abschrift des Notars Obertus vom 29. November 1233 erhalten.
+
+DOK$FRAII5_014/1181.5.31/1181.5.31/1181 Mai 31/X/Sigmundskron
+Formigar/Sigmundskron,Formigar,b.d.Etsch unterh.//wo??
+S$X/X/X
+V$X/X/X
+K$Die Grafen Friedrich und Heinrich von Eppan, ersterer auch im Namen seiner
+Sîhne, Egno, Domherr von Trient, Ulrich, Arnold und der anderen abwesenden,
+Åbergeben dem Bischof Salomon von Trient das Schlo· Greifenstein, den Wald auf
+dem Ritten und einen Meierhof in Pfatten (Vadena). Graf Friedrich Åbergibt noch
+ferner seinerseits eine Wiese bei Neumarkt, und sein Recht auf die Flî·e, die an
+der Etsch gezimmert werden, Graf Heinrich aber zwei Hîfe in Tramin, Åberdies
+beide Grafen gemeinschaftlich ihre AnsprÅche auf Kronmetz, die Goldgrube zu
+Tassul und einen Meierhof in Margreid. Der Bischof soll mit diesen Besitzungen und
+Rechten nach seinem Belieben schalten und walten kînnen, ohne eine Einsprache
+von Seite der Grafen, bei einer Pîn von 2000 Pfund Berner. Diesen Vertrag
+beschworen obige Grafen und versprachen, auch ihre jÅngeren Sîhne zur
+Eidesleistung verhalten zu wollen, sobald sie das Alter von 14 Jahren erreicht
+haben wÅrden. Als BÅrgschaft, da· auch ihre Leute diesem Vertrag beipflichten,
+keine Unordnung, und dem Bischof keine Verlegenheiten bereiten werden, setzen
+sie auf Jahresdauer, vom nÑchsten S. Johanntage angefangen, die Summe von 1000
+Mark Silber zu Pfand.
+DafÅr bezahlt Bischof Salomon den Grafen 1400 Pfund Berner, und erteilt ihnen
+die Belehnung mit allen ihren Åbrigen Stiftslehen.
+
+REG$Die Grafen Friedrich und Heinrich von Eppan Åbergeben dem Bischof Salomon von
+Trient das Schlo· Greifenstein, den Wald auf dem Ritten und einen Meierhof in
+Pfatten (Vadena). Graf Friedrich Åbergibt noch ferner seinerseits eine Wiese bei
+Neumarkt, und sein Recht auf die Flî·e, die an der Etsch gezimmert werden, Graf
+Heinrich aber zwei Hîfe in Tramnin, Åberdies beide Grafen gemeinschaftlich ihre
+AnsprÅche auf Kronmetz, die Goldgrube zu Tassul und einen Meierhof in Margreid.
+Tassul und einen Meierhof in Margreid. Der Bischof soll mit diesen Besitzungen und
+Rechten nach seinem Belieben schalten und walten kînnen, ohne eine Einsprache
+von Seite der Grafen, bei einer Pîn von 2000 Pfund Berner.
+F$FRA II 05/014/41f/42
+G$Friedrich;Heinrich/Graf/Eppan/Eppan//sî.Bozen/
+E$Salomon/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen. Abgedruckt bei Bonelli II. 468.
+
+REG$Als BÅrgschaft, da· auch ihre Leute diesem Vertrag beipflichten, keine
+Unordnung, und dem Bischof Salomon von Trient keine Verlegenheiten bereiten
+werden, setzen die Grafen Friedrich und Heinrich von Eppan
+auf Jahresdauer, vom nÑchsten S. Johanntage angefangen, die Summe von 1000
+Mark Silber zu Pfand.
+F$FRA II 05/014/41f/42
+G$Friedrich;Heinrich/Graf/Eppan/Eppan//sî.Bozen/
+E$Salomon/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Silber/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$?
+B$Nach dem Regest aufgenommen. Abgedruckt bei Bonelli II. 468.
+
+REG$FÅr die öbergabe genannter Immobilien und Rechte bezahlt Bischof Salomon von
+Trient den Grafen Friedrich und Heinrich von Eppan 1400 Pfund
+Berner, und erteilt ihnen die Belehnung mit allen ihren Åbrigen Stiftslehen.
+F$FRA II 05/014/41f/42
+G$Salomon/Bischof/Trient/Trient//SÅdtirol/
+E$Friedrich;Heinrich/Graf/Eppan/Eppan//sî.Bozen/
+H$Ablîse?/Immobilien/Greifenstein/Greifenstein//Schl.b.Terlan/
+H$Ablîse?/Immobilien/Ritten/Ritten//Mittelgebirgsterrasse b.Bozen/
+H$Ablîse?/Immobilien/Pfatten/Pfatten//b.Leifers s.Bozen/
+H$Ablîse?/Immobilien/Neumarkt/Neumarkt//SÅdtirol/
+H$Ablîse?/Immobilien/Tramin/Tramin//Bozner Unterland/
+H$Ablîse?/Immobilien/Mezotedesco/Kronmetz (Mezotedesco)//Schl.b.Deutschmetz,Mezocorona/
+H$Ablîse?/Immobilien/Tassullo/Tassullo//B.Cles/
+H$Ablîse?/Immobilien/Margreid/Margreid//wo??
+H$Ablîse/Rechte/Etsch3 ?,a.d./Etsch,a.d.//Flu·/
+W$Verona/X/
+O$1400/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen. Abgedruckt bei Bonelli II. 468.
+
+DOK$FRAII5_016/1183.6.13/1183.6.13/1183 Juni 13/anno dominice nativitatis MCLXXXIII., die
+lune tercio decimo intrante mense iunii, indiccione prima/Pergine/Pergine//î.Trient/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Maria, die Tochter Otolins von Pratalia, verkauft mit Einwilligung ihres
+Schwiegervaters und im Beisein ihres Gemahls Adalbert dem Bischof Salomon von
+Trient alle ihre BesitztÅmer, welche ihr im Umkreis des Bistums Trient von der
+Erbschaft ihres Vaters und Gro·vaters zukamen, um 1400 Pfund Berner, namentlich
+das Schlo· Pratalia, und die Besitzungen im LÑger- und im Nonstal.
+Ausgeschlossen von diesem Verkauf bleiben ein Hof in Eppan, ihre BesitztÅmer im
+Vintschgau, und was sie etwa von auswÑrtigen Herren an Lehen anzusprechen hatte.
+
+REG$Maria, die Tochter Otolins von Pratalia, verkauft mit Einwilligung ihres
+Schwiegervaters und im Beisein ihres Gemahls Adalbert dem Bischof Salomon von
+Trient alle ihre BesitztÅmer, welche ihr im Umkreis des Bistums Trient von der
+Erbschaft ihres Vaters und Gro·vaters zukamen, um 1400 Pfund Berner, namentlich
+das Schlo· Pratalia, und die Besitzungen im LÑger- und im Nonstal.
+F$FRA II 05/016/44ff/45
+G$Salomon/Bischof/Trient/Trient//SÅdtirol/
+E$Maria/Genannte/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf_BestÑtigung/Immobilien/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf_BestÑtigung/Immobilien/Lagertal/Lagertal//Vallis Lagarina
+H$Kauf_BestÑtigung/Immobilien/Nonstal/Nonstal//Hauptort Cles u.Fonto/
+W$Verona/moneta/
+O$1400/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro mille et quadringentis libris Veronensis monete, quas ab eodem episcopo se
+confessa fuit accepisse
+
+REG$Maria, die Tochter Otolins von Pratalia, verkauft mit Einwilligung ihres
+Schwiegervaters und im Beisein ihres Gemahls Adalbert dem Bischof Salomon von
+Trient alle ihre BesitztÅmer, welche ihr im Umkreis des Bistums Trient von der
+Erbschaft ihres Vaters und Gro·vaters zukamen, um 1400 Pfund Berner, namentlich
+das Schlo· Pratalia, und die Besitzungen im LÑger- und im Nonstal.
+F$FRA II 05/016/44ff/45
+G$Salomon/Bischof/Trient/Trient//SÅdtirol/
+E$Maria/Genannte/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf/Immobilien/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf/Immobilien/Lagertal/Lagertal//
+H$Kauf/Immobilien/Nonstal/Nonstal//Hauptort Cles u.Fonto/
+W$X/X/
+O$1400/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$denariorum summa, viedelicet mille et quadringentis libris, cartam
+vendicionis, donacionis et concessionis fecerunt
+
+DOK$FRAII5_022/1185.5.27/1185.5.27/1185 Mai 27/anno dni. MCLXXXV., indictione tercia/Trient/Trient//SÅdtirol/
+S$Guido/kaiserl. Notar/Guido
+V$Guido/kaiserl. Notar/Guido
+K$Der Bischof Albert von Trient belehnt den Adalbert von Villazano und seine
+beiden Sîhne mit einem Haus und Keller unweit von der porta oriola, wofÅr sie
+dem Bischof 200 Pfund Berner bezahlen und versprechen, ihm jÑhrlich zu Anfang
+MÑrz 10 Berner Schilling zu entrichten, obiges Haus und Keller nicht an
+AuswÑrtige zu verkaufen, und falls sie es sonst verkaufen wollten, dem Bischof
+vorher um 20 Schilling wohlfeiler anzubieten. DafÅr sind sie von jeder anderen
+Auflage frei, und der Bischof mu· sie in diesem Besitzum schÅtzen.
+
+REG$Der Bischof Albert von Trient belehnt den Adalbert von Villazano und seine
+beiden Sîhne mit einem Haus und Keller unweit von der porta oriola, wofÅr sie
+dem Bischof 200 Pfund Berner bezahlen und versprechen, ihm jÑhrlich zu Anfang
+MÑrz 10 Berner Schilling zu entrichten.
+F$FRA II 05/022/58ff/58
+G$Adalbert/Genannter/Villazano/Villazano//sî.Trient/
+E$Albert/Bischof/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Trient/Trient//SÅdtirol/
+W$Verona/moneta/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$omni anno persolvere debeant eidem dno episcopo \dots decem solidos denar.
+Veronensis monete
+
+REG$Der Bischof Albert von Trient belehnt den Adalbert von Villazano und seine
+beiden Sîhne mit einem Haus und Keller unweit von der porta oriola, wofÅr sie
+dem Bischof 200 Pfund Berner bezahlen und versprechen, ihm jÑhrlich zu Anfang
+MÑrz 10 Berner Schilling zu entrichten und, falls sie es sonst verkaufen
+wollten, dem Bischof vorher um 20 Schilling wohlfeiler anzubieten.
+F$FRA II 05/022/58ff/58
+G$Adalbert/Genannter/Villazano/Villazano//sî.Trient/
+E$Albert/Bischof/Trient/Trient//SÅdtirol/
+H$Kauf_Abschlag/Immobilien/Trient/Trient//SÅdtirol/
+W$X/X/
+O$X/X/X
+Z$20/sol./minus
+M$X/X/X/Z
+Q$dare eis ad XX soldorum minus, quam alteri homini
+
+REG$Der Bischof Albert von Trient belehnt den Adalbert von Villazano und seine
+beiden Sîhne mit einem Haus und Keller unweit von der porta oriola, wofÅr sie
+dem Bischof 200 Pfund Berner bezahlen und versprechen, ihm jÑhrlich zu Anfang
+MÑrz 10 Berner Schilling zu entrichten.
+F$FRA II 05/022/58ff/58
+G$Adalbert/Genannter/Villazano/Villazano//sî.Trient/
+E$Albert/Bischof/Trient/Trient//SÅdtirol/
+H$Investitur/Immobilien/Trient/Trient//SÅdtirol/
+W$Verona/moneta/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$CC libras denariorum Veronensis monete
+
+DOK$FRAII5_024/1185.8.27/1185.8.27/1185 August 27/die martis V. exeunte augusto anno
+dominice nativitatis MCLXXXV., indict. tercia/Bozen /Bozen,bei,auf
+e.Moorgegend//SÅdtirol/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Graf Heinrich von Eppan verzichtet zugunsten des Bischofs Albert von Trient
+auf alle seine Besitzungen in Bregenz, Bondo und Tione und alles, was ihm
+jenseits des Berges Durone gehîrte, seien es nun Eigenleute oder Bergwerk, samt
+allen Vasallen und deren Besitzungen dortselbst, ausgenommen Calapin von Lodron,
+Gumpo von Madruz, und Bozzo von Steniko, und Åberhaupt alle ritterlichen
+Vasallen.
+HiefÅr belehnt der Bischof den Grafen mit dem Zehentrechte in Latsch, und
+verspricht ihm bis nÑchsten hl. drei Kînig-Tag 800 Pfund Berner auszubezahlen.
+
+REG$Graf Heinrich von Eppan verzichtet zugunsten des Bischofs Albert von Trient
+auf alle seine Besitzungen in Bregenz, Bondo und Tione und alles, was ihm
+jenseits des Berges Durone gehîrte, seien es nun Eigenleute oder Bergwerk.
+HiefÅr belehnt der Bischof den Grafen mit dem Zehentrechte in Latsch, und
+verspricht ihm bis nÑchsten hl. drei Kînig-Tag 800 Pfund Berner auszubezahlen.
+F$FRA II 05/024/64ff/65
+G$Albert/Bischof/Trient/Trient//SÅdtirol/
+E$Heinrich/Graf/Eppan/Eppan//sî.Bozen/
+H$Verzicht/Immobilien/Bregenz/Bregenz//Vorarlberg/
+H$Verzicht/Immobilien/Tione/Tione//Marktort i.Judikarien/
+H$Verzicht/Immobilien/Bondo/Bondo//b.Tione/
+H$Verzicht/Immobilien/Durone/Durone,jenseits d.Berges//Grenzscheide
+zw.d.beiden Judikarien/
+W$Verona/X/
+O$800/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$octingentas libras Veronens.
+
+REG$Graf Heinrich von Eppan verzichtet zugunsten des Bischofs Albert von Trient
+auf alle seine Besitzungen in Bregenz, Bondo und Tione und alles, was ihm
+jenseits des Berges Durone gehîrte, seien es nun Eigenleute oder Bergwerk.
+HiefÅr belehnt der Bischof den Grafen mit dem Zehentrechte in Latsch, und
+verspricht ihm bis nÑchsten hl. drei Kînig-Tag 800 Pfund Berner auszubezahlen.
+DarÅberhinaus verpfÑndet der Bischof dem Grafen die curia? de domo und die
+curia? von St. Paul, welche er, sollte der Bischof ihm die genannte Summe nicht
+termingerecht bezahlen, bis zur Bezahlung besitzen soll.
+F$FRA II 05/024/64ff/65
+G$Albert/Bischof/Trient/Trient//SÅdtirol/
+E$Heinrich/Graf/Eppan/Eppan//sî.Bozen/
+H$PfandgeschÑft/Immobilien/St.Paul/St. Paul//Dorf i.G.Eppan sw.Bozen?    ?
+W$X/X/
+O$800/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$octingente libre
+
+DOK$FRAII5_025/1186.3.30/1186.3.30/1186 MÑrz 30/die dominico secundo exeunte marcio, anno
+dominice nativitatis MCLXXXVI., indiccione quarta/Coredo/Coredo//Dorf u.Schlo· i.Nonsberg î.Cles/
+S$Albert/kaiserl. Notar/Albert/
+V$Albert/kaiserl. Notar/Albert/
+K$Palmera, die Gemahlin Oluradin\'s von Coredo, verzichtet zugunsten des
+Bischofs Albert von Trient auf alle ihre AnsprÅche aus der Erbschaft Fedrizin\'s
+von Pratalia aus Anla· ihres Heiratsgutes und der Widerlage.
+HiefÅr erhÑlt ihr Gemahl Oluradin vom Bischof 180 Pfund Berner.
+
+REG$Palmera, die Gemahlin Oluradin\'s von Coredo, verzichtet zugunsten des
+Bischofs Albert von Trient auf alle ihre AnsprÅche aus der Erbschaft Fedrizin\'s
+von Pratalia aus Anla· ihres Heiratsgutes und der Widerlage. HiefÅr erhÑlt ihr
+Gemahl Oluradin vom Bischof 180 Pfund Veroneser Pfennige.
+F$FRA II 05/025/66f/67
+G$Albert/Bischof/Trient/Trient//SÅdtirol/
+E$Oluradin\'s/Genannter/Coredo/Coredo//Dorf u.Schlo· i.Nonsberg î.Cles/
+H$BestÑtigung_Verzicht/Immobilien/Sulzberg/Sulztal//Malä als Hauptort/
+W$Verona/X/
+O$180/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro centum et octuaginta libris denar. Veron.
+
+DOK$FRAII5_029/1188.6.24/1188.6.24/1188 Juni 24/anno dominice nativitatis MCLXXXVIII., die
+lune, qui fuit octavo kalendas iulii, indict. sexta/Cles/Cles//Marktort i.Nonsberg/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Arpo von Cles verkauft dem Bischof Albert von Trient fÅr 1400 Pfund Pfennige
+Veroneser MÅnze einen Meierhof im Vintschgau und alle seine
+Besitzungen dortselbst von der Tell bis gegen Mals samt Zugehîr, namentlich
+Kirchen, Vogteien, Vasallen, Gesinde (masnatas).
+Die Mutter des VerkÑufers, Christina, gibt ihre Einwilligung zu obigem Verkauf.
+
+REG$Arpo von Cles verkauft dem Bischof Albert von Trient fÅr 1400 Pfund Pfennige
+Veroneser MÅnze einen Meierhof im Vintschgau und alle seine
+Besitzungen dortselbst von der Tell bis gegen Mals samt Zugehîr, namentlich
+Kirchen, Vogteien, Vasallen, Gesinde (masnatas).
+F$FRA II 05/029/77ff/77
+G$Albert/Bischof/Trient/Trient//SÅdtirol/
+E$Arpo/Genannter/Cles/Cles//Marktort i.Nonsberg/
+H$BestÑtigung_Kauf/Immobilien/SÅdtirol Vintschgau/SÅdtirol,Vintschgau//w.Meran/
+H$BestÑtigung_Kauf/Immobilien/SÅdtirol Tell,von der bis gegen
+Mals/SÅdtirol,Tell,von der bis gegen Mals//Vintschgau, Tell 31a/
+W$Verona/moneta/
+O$1400/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio denariorum Veronensis monete librarum mille et quadringentarum
+quas se accepisse confessus fuit
+B$In der Urkunde "quadringentas".
+
+DOK$FRAII5_033/1189.4.20/1189.4.20/1189 April 20/die iovis, qui fuit duodecimo kalendas
+madii, anno dominice nativitatis MCLXXXIX., indic. septima/Ulten/Ulten//wo??
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Arnold Graf von Eppan und Ulten, und Konrad, der erwÑhlte Bischof von Trient,
+treffen folgendes öbereinkommen.
+Der Graf stellt dem Bischof alle jene Besitzungen in Fleims zurÅck, welche einst
+er und sein Vater Friedrich und sein Bruder Ulrich vom Bischof Salomo gegen
+Preore eingetauscht hatten. DafÅr zahlt ihm der Bischof 2000 Pfund Berner und
+verschreibt ihm einen Meierhof in Margreid und seine Besitzungen in Eppan und
+Vollan zu Pfand. Statt dieser 2000 Pfund kann der Graf auch einen Meierhof
+in Naturs samt Zugehîr nebst 800 Pfund nehmen oder denselben Meierhof und
+statt der 800 Pfund, das, was Jakobin von Rokabruna in Kaltern besitzt, wofern
+der Bischof es um nicht mehr als 800 Pfund zu erkaufen vermag. Zieht aber der
+Graf die 2000 Pfund vor, so sollen ihm hievon 1000 bis nÑchsten Michaelstag, und
+1000 bis nÑchste Weihnachten, und zwar im Schlo· Ulten, bezahlt werden.
+öberdies belehnt der Bischof den Grafen mit Preore, so wie es vordem mit Bischof
+Salomon geschlossenen Tauschvertrag Graf Friedrich von Eppan besessen hatte.
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund.
+F$FRA II 05/033/84ff/86
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan u.Ulten/Eppan u.Ulten//sî.Bozen u.wo??/
+H$RÅckstellung/Immobilien/Welschtirol Fleims/Welschtirol,Fleims//Tal
+zw.Cavalese u.Predazzo/
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$duo mille libras
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund und verschreibt ihm fÅr die genannten 2000 Pfund Veroneser
+Pfennige oder venetianische Pfennige oder alte Veroneser Pfennige
+einen Meierhof in Margreid und seine Besitzungen in Eppan
+und Vollan zu Pfand, bis diese vollstÑndig bezahlt sind.
+F$FRA II 05/033/84ff/86
+G$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.wo??/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Immobilien/Margreid/Margreid//wo??
+H$PfandgeschÑft/Immobilien/Eppan/Eppan//sî.Bozen/
+H$PfandgeschÑft/Immobilien/Volano/Volano?/Vollan/n.Rovereto?/
+W$Verona/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./cruciatus/Z
+A$2000 Pfund Veroneser Pf./2000 Pfund venetianischer Pf.
+A$2000 Pfund Veroneser Pf./2000 Pfund alter Veroneser Pf.
+Q$duo mille libris denariorum Veronensium cruciatorum, aut denariorum
+Venecianorum, seu denariorum Veronensium vetustorum, illius scilicet monete, que
+ex istis tribus per terram cucurrerit
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund und verschreibt ihm fÅr die genannten 2000 Pfund Veroneser
+Pfennige oder venetianische Pfennige oder alte Veroneser Pfennige
+einen Meierhof in Margreid und seine Besitzungen in Eppan
+und Vollan zu Pfand, bis diese vollstÑndig bezahlt sind.
+F$FRA II 05/033/84ff/86
+G$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Immobilien/Margreid/Margreid//wo??
+H$PfandgeschÑft/Immobilien/Eppan/Eppan//sî.Bozen/
+H$PfandgeschÑft/Immobilien/Volano/Volano?/Vollan/n.Rovereto?/
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+A$2000 Pfund venetianische Pf./2000 Pfund Veroneser Pf.
+A$2000 Pfund venetianische Pf./2000 Pfund alter Veroneser Pf.
+Q$duo mille libris denariorum Veronensium cruciatorum, aut denariorum
+Venecianorum, seu denariorum Veronensium vetustorum, illius scilicet monete, que
+ex istis tribus per terram cucurrerit
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund und verschreibt ihm fÅr die genannten 2000 Pfund Veroneser
+Pfennige oder venetianische Pfennige oder alte Veroneser Pfennige
+einen Meierhof in Margreid und seine Besitzungen in Eppan
+und Vollan zu Pfand, bis diese vollstÑndig bezahlt sind.
+F$FRA II 05/033/84ff/86
+G$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Immobilien/Margreid/Margreid//wo??
+H$PfandgeschÑft/Immobilien/Eppan/Eppan//sî.Bozen/
+H$PfandgeschÑft/Immobilien/Volano/Volano?/Vollan/n.Rovereto?/
+W$Verona/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./vetustus/Z
+A$2000 Pfund alter Veroneser Pf./2000 Pfund venetianischer Pf.
+A$2000 Pfund alter Veroneser Pf./2000 Pfund Veroneser Pf.
+Q$duo mille libris denariorum Veronensium cruciatorum, aut denariorum
+Venecianorum, seu denariorum Veronensium vetustorum, illius scilicet monete, que
+ex istis tribus per terram cucurrerit
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund und verschreibt ihm fÅr die genannten 2000 Pfund Veroneser
+Pfennige oder venetianische Pfennige oder alte Veroneser Pfennige
+einen Meierhof in Margreid und seine Besitzungen in Eppan
+und Vollan zu Pfand, bis diese vollstÑndig bezahlt sind.
+Statt dieser 2000 Pfund kann der Graf auch einen Meierhof
+in Naturs samt Zugehîr nebst 800 Pfund nehmen.
+F$FRA II 05/033/84ff/86
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$RÅckstellung/Immobilien/Welschtirol Fleims/Welschtirol,Fleims//i.Cavalese/
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$duo mille libras denariorum
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund und verschreibt ihm fÅr die genannten 2000 Pfund Veroneser
+Pfennige oder venetianische Pfennige oder alte Veroneser Pfennige
+einen Meierhof in Margreid und seine Besitzungen in Eppan
+und Vollan zu Pfand, bis diese vollstÑndig bezahlt sind.
+Statt dieser 2000 Pfund kann der Graf auch einen Meierhof
+in Naturs samt Zugehîr nebst 800 Pfund nehmen.
+F$FRA II 05/033/84ff/86
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$RÅckstellung/Immobilien/Welschtirol Fleims/Welschtirol,Fleims//i.Cavalese/
+W$Verona/X/
+O$800/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$octingentis libris denar. Veron.
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund und verschreibt ihm fÅr die genannten 2000 Pfund Veroneser
+Pfennige oder venetianische Pfennige oder alte Veroneser Pfennige
+einen Meierhof in Margreid und seine Besitzungen in Eppan
+und Vollan zu Pfand, bis diese vollstÑndig bezahlt sind.
+Statt dieser 2000 Pfund kann der Graf auch einen Meierhof
+in Naturs samt Zugehîr nebst 800 Pfund nehmen oder denselben Meierhof und
+statt der 800 Pfund, das, was Jakobin von Rokabruna in Kaltern besitzt, wofern
+der Bischof es um nicht mehr als 800 Pfund zu erkaufen vermag.
+F$FRA II 05/033/84ff/86
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$Kauf/Immobilien/Kaltern/Kaltern//Marktort sw.Bozen/
+W$X/X/
+O$800/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$octingentis libris
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund oder GÅter und Geld oder GÅter. Zieht aber der
+Graf die 2000 Pfund vor, so sollen ihm hievon 1000 bis nÑchsten Michaelstag, und
+1000 bis nÑchste Weihnachten, und zwar im Schlo· Ulten, bezahlt werden.
+F$FRA II 05/033/84ff/87
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$RÅckstellung/Immobilien/Welschtirol Fleims/Welschtirol,Fleims//i.Cavalese/
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$duo mille libras denariorum
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund oder GÅter und Geld oder GÅter. Zieht aber der
+Graf die 2000 Pfund vor, so sollen ihm hievon 1000 bis nÑchsten Michaelstag, und
+1000 bis nÑchste Weihnachten, und zwar im Schlo· Ulten, bezahlt werden.
+F$FRA II 05/033/84ff/87
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$Zahlungsverpflichtung?versprechen/Immobilien/Welschtirol
+Fleims/Welschtirol,Fleims//i.Cavalese/
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$mille
+B$"libra" aus dem Zusammenhang erschlossen.
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund oder GÅter und Geld oder GÅter. Zieht aber der
+Graf die 2000 Pfund vor, so sollen ihm hievon 1000 bis nÑchsten Michaelstag, und
+1000 bis nÑchste Weihnachten, und zwar im Schlo· Ulten, bezahlt werden.
+F$FRA II 05/033/84ff/87
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$Zahlungsverpflichtung?versprechen/Immobilien/Welschtirol
+Fleims/Welschtirol,Fleims//Cavalese/
+W$X/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$mille
+B$"libra" aus dem Zusammenhang erschlossen.
+
+REG$Bischof Konrad von Trient zahlt Graf Arnold von Eppan und Ulten fÅr die
+RÅckstellung der Besitzungen in Fleims, welche einst dieser und dessen Vater
+Friedrich und dessen Bruder Ulrich vom Bischof Salomo gegen Preore eingetauscht
+hatten, 2000 Pfund oder GÅter und 800 Pfund oder GÅter. Muscard schwîrt die
+genannten 2000 Pfund oder 800, je nachdem, was sie wÑhlen, ihnen oder einem
+Boten zu den festgesetzten Terminen selbst oder durch seinen Boten zu bezahlen.
+F$FRA II 05/033/84ff/87
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Arnold/Graf/Eppan und Ulten/Eppan und Ulten//sî.Bozen u.??/
+H$Zahlungsversprechen/Immobilien/Welschtirol Fleims/
+Welschtirol,Fleims//i.Cavalese/
+W$X/X/
+O$2000/lib./X
+O$800/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$due mille libras aut octingentas
+
+DOK$FRAII5_034/1189.8.24/1189.8.24/1189 August 24/die iovis, qui fuit VIIII. kalendas
+septembris, indict. VII., anno dominice nativitatis MCLXXXVIIII./Riva/Riva//a.Gardasee/
+S$Johannes Pencius/kaiserl. Notar/Johannes Pencius
+V$Johannes Pencius/kaiserl. Notar/Johannes Pencius
+K$Konrad, der erwÑhlte Bischof von Trient, belehnt mehrere namentlich genannte
+MÑnner von Storo mit dem Schlo· und Meierhof von Lodron, unter folgenden
+Bedingungen.
+1. Sie sollen hievon an keine auswÑrtige Person etwas verÑu·ern, namentlich an
+keinen Brescianer.
+2. Wenn einer aus ihnen stirbt, so soll die nÑhere Blutsverwandtschaft in der
+Nachfolge den Ausschlag geben.
+3. Das Schlo· soll dem Bischof zu jeder Zeit offen stehen.
+4. Die Neubelehnten sollen dem Bischof in allen seinen Fehden behilflich sein.
+5. FÅr die ErfÅllung dieser Bedingungen verschreiben sie dem Bischof alle ihre
+trientner\'schen Lehen, ihr Allod und Gesinde. Letzterer hinwieder seinerseits
+verschreibt 200 Mark Silber.
+6. Wenn die Eroberung des Schlosses notwendig fÑllt, und sie geschieht durch den
+Bischof ohne Auslagen der Belehnten, so zahlen ihm diese 100 Pfund. Geschieht
+sie durch letztere ohne Kriegsauslagen, so zahlen sie 50 Pfund, und wenn mit
+Kriegsauslagen im Wert von 50 Pfund, so behalten sie das Schlo·, ohne etwas zu
+zahlen.
+
+REG$Konrad, der erwÑhlte Bischof von Trient, belehnt mehrere namentlich genannte
+MÑnner von Storo mit dem Schlo· und Meierhof von Lodron, unter genannten
+Bedingungen. FÅr die ErfÅllung dieser Bedingungen verschreiben sie dem Bischof
+alle ihre trientner\'schen Lehen, ihr Allod und Gesinde. Letzterer hinwieder
+seinerseits verschreibt 200 Mark Silber.
+F$FRA II 05/034/88ff/91
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$X/MÑnner/Storo/Storo//b.Tione i.Judikarien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//  ?  a)wenn bezahlt A  b)als Strafe Z c)Pfand
+H$PfandgeschÑft?/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$nomine pene \dots obligavit \dots argenti CC marcas
+B$1189 September 4, Trient Wiederholung obiger Belehnung in Gegenwart mehrerer
+Zeugen.
+
+REG$Konrad, der erwÑhlte Bischof von Trient, belehnt mehrere namentlich genannte
+MÑnner von Storo mit dem Schlo· und Meierhof von Lodron, unter genannten
+Bedingungen.
+Wenn die Eroberung des Schlosses notwendig fÑllt, und sie geschieht durch den
+Bischof ohne Auslagen der Belehnten, so zahlen ihm diese 100 Pfund.
+F$FRA II 05/034/88ff/91
+G$X/MÑnner/Storo/Storo//b.Tione i.Judikarien/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$Eroberung/Immobilien/Lodrone/Lodrone/Lodron/Dorf u.Ruine i.Judikarien sw.Storo/
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/imperialis/X/A
+Q$C libras imperialium
+B$1189 September 4, Trient Wiederholung obiger Belehnung in Gegenwart mehrerer
+Zeugen.
+
+REG$Konrad, der erwÑhlte Bischof von Trient, belehnt mehrere namentlich genannte
+MÑnner von Storo mit dem Schlo· und Meierhof von Lodron, unter genannten
+Bedingungen.
+Wenn die Eroberung des Schlosses notwendig fÑllt, und sie geschieht durch den
+Bischof ohne Auslagen der Belehnten, so zahlen ihm diese 100 Pfund. Geschieht
+sie durch letztere ohne Kriegsauslagen, so zahlen sie 50 Pfund, und wenn mit
+Kriegsauslagen im Wert von 50 Pfund, so behalten sie das Schlo·, ohne etwas zu
+zahlen.
+F$FRA II 05/034/88ff/91
+G$X/MÑnner/Storo/Storo//b.Tione i.Judikarien/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$Eroberung/Immobilien/Lodrone/Lodrone/Lodron/Dorf u.Ruine i.Judikarien sw.Storo/
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/imperialis/X/A
+Q$L libras imperialium
+B$1189 September 4, Trient Wiederholung obiger Belehnung in Gegenwart mehrerer
+Zeugen.
+
+REG$Konrad, der erwÑhlte Bischof von Trient, belehnt mehrere namentlich genannte
+MÑnner von Storo mit dem Schlo· und Meierhof von Lodron, unter genannten
+Bedingungen.
+Wenn die Eroberung des Schlosses notwendig fÑllt, und sie geschieht durch
+den
+Bischof ohne Auslagen der Belehnten, so zahlen ihm diese 100 Pfund. Geschieht
+sie durch letztere ohne Kriegsauslagen, so zahlen sie 50 Pfund, und wenn mit
+Kriegsauslagen im Wert von 50 Pfund, so behalten sie das Schlo·, ohne etwas zu
+zahlen.
+F$FRA II 05/034/88ff/91
+G$X/MÑnner/Storo/Storo//b.Tione i.Judikarien/
+E$X/X/X/X//
+H$Kriegsauslagen/Kriegsauslagen/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/imperialis/X/A
+Q$L libras imperialium
+B$1189 September 4, Trient Wiederholung obiger Belehnung in Gegenwart mehrerer
+Zeugen.
+
+DOK$FRAII5_035/1189.10.13/1189.10.13/1189 Oktober 13/die veneris tercio decimo intrante mense
+octubris anno dominice nativitatis MCLXXXIX., indict. septima/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Der Bischof Konrad von Trient belehnt die Bewohner von Egna mit den
+BauplÑtzen und neuerbauten HÑusern dortselbst, unter folgenden Bedingungen.
+1. Sie sollen auf dieselbe Art, wie die HÑuser in Trient, dem Bischof jÑhrlichen
+Zins zahlen.
+2. Will einer von ihnen sein Haus verkaufen, so mu· er es vorher dem Bischof um
+20 Schilling wohlfeiler anbieten.
+3. Keiner darf sein Haus einer fremden Kirche zu seiner Seelen Heil widmen.
+GeschÑhe es aber, so kann der Bischof es von dieser fremden Kirche um 10 Pfund
+Berner zurÅckkaufen.
+4. Der jÑhrliche Zins betrÑgt fÅr eine ganze Behausung 20 Schilling, fÅr eine
+halbe 10 Schilling, und mu· am 1. MÑrz jedes Jahres entrichtet werden. Wer den
+Zins ein oder zwei Jahre nicht bezahlt, mu· ihn im darauffolgenden Jahr
+verdoppeln. Wird der im dritten Jahr wieder nicht bezahlt, so kann der Bischof
+das Haus selbst einziehen.
+5. Verkauft einer der Belehnten sein Haus, ohne den Bischof zu fragen, so
+verliert er seine Rechte. FÅr jeden erlaubten Kauf aber ist dem Bischof ein
+Pfund Pfeffer zu entrichten.
+6. öber tîdliche Verletzungen und Åber die Anliegen der Kaufleute spricht der
+bischîfliche Gastaldio Recht.
+7. Die BÅrger von Egna und die Kaufleute dortselbst sollen gleich den BÅrgern
+und Kaufleuten von Trient und Bozen von aller Zollabgabe frei sein.
+8. Der Bischof verspricht, sie niemals einer dritten Person zu Lehen zu geben,
+widrigenfalls sie von der Zinszahlung befreit sein sollen.
+
+REG$Der Bischof Konrad von Trient belehnt die Bewohner von Egna mit den
+BauplÑtzen und neuerbauten HÑusern dortselbst. Will
+einer von ihnen sein Haus verkaufen, so mu· er es vorher dem Bischof um
+20 Schilling wohlfeiler anbieten.
+F$FRA II 05/035/92ff/94
+G$X/Bewohner/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$Kauf_Abschlag/Immobilien/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+W$X/X/
+O$X/X/X
+Z$20/sol./minus
+M$X/X/X/Z
+Q$XX solidis ad minus, quam alii, sibi dare debeat
+
+REG$Der Bischof Konrad von Trient belehnt die Bewohner von Egna mit den
+BauplÑtzen und neuerbauten HÑusern dortselbst.
+Keiner darf sein Haus einer fremden Kirche zu seiner Seelen Heil widmen.
+GeschÑhe es aber, so kann der Bischof es von dieser fremden Kirche um 10 Pfund
+Veroneser Pfennigen zurÅckkaufen.
+F$FRA II 05/035/92ff/95
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$X/Kirche/unbestimmt/unbestimmt//
+H$RÅckkauf/Immobilien/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+W$Verona/X/
+O$10/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro X libris denar. Ver. redimi debet
+
+REG$Der Bischof Konrad von Trient belehnt die Bewohner von Egna mit den
+BauplÑtzen und neuerbauten HÑusern dortselbst.
+Der jÑhrliche Zins betrÑgt fÅr eine ganze Behausung 20 Schilling, fÅr eine
+halbe 10 Schilling, und mu· am 1. MÑrz jedes Jahres entrichtet werden.
+F$FRA II 05/035/92ff/95
+G$X/Bewohner/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+W$Verona/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./X/Z
+Q$pro quolibet integro casali XX solidos denar. Veronens.
+
+REG$Der Bischof Konrad von Trient belehnt die Bewohner von Egna mit den
+BauplÑtzen und neuerbauten HÑusern dortselbst.
+Der jÑhrliche Zins betrÑgt fÅr eine ganze Behausung 20 Schilling, fÅr eine
+halbe 10 Schilling, und mu· am 1. MÑrz jedes Jahres entrichtet werden.
+F$FRA II 05/035/92ff/95
+G$X/Bewohner/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$Zinsverpflichtung/Immobilien/Neumarkt/Neumarkt/Egna/Marktort i.Etschtal sî.Tramin/
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$pro dimidio casali X solidos
+B$"Verona" aus dem Zusammenhang erschlossen.
+
+DOK$FRAII5_062/1198.11.29/1198.11.29/1198 November 29/anno dominice nativitatis MCXCVIII.,
+indicc. prima, die dominico XVI. exeunte augusto/Chiusole/Chiusole//b.Rovereto/
+S$Bertram/kaiserl. Notar/Bertram
+V$Bertram/kaiserl. Notar/Bertram
+K$Brianus, Sohn Aldrighets von Castelbarco, verkauft dem Bischof Konrad von
+Trient fÅr 2200 Pfund Berner sein Schlo· zu Castelbarco und sein Haus zu
+Pratalia. Der Bischof erteilt ihm beide wieder zu Lehen, fÅr ihn und seine
+mÑnnlichen Nachkommen, und in deren Ermangelung auch fÅr die weiblichen, wofern
+sie nicht nach der Lombardei oder Veroneser Mark heiraten. In Ermangelung aller
+Nachkommenschaft fÑllt das Lehen von Castelbarco auf die Schwestern des Brianus
+und deren Erben, wofern auch diese nicht nach der Lombardei oder der Veroneser
+Mark heiraten. Pratalia hingegen fÑllt dem Bistum anheim. HiefÅr setzt Brianus
+soviel von seinen GÅtern zu Pfand, als den Wert von 2200 Pfund Berner
+ausmachen, und verspricht, das Schlo· dem Bischof stets zu îffnen, und an
+niemanden zu verÑussern.
+
+REG$Brianus, Sohn Aldrighets von Castelbarco, verkauft dem Bischof Konrad von
+Trient fÅr 2200 Pfund Veroneser Pfennig sein Schlo· zu Castelbarco und sein Haus zu
+Pratalia.
+F$FRA II 05/062/135ff/136
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Brianus/Genannter/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient
+H$Kauf/Immobilien/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+H$Kauf/Immobilien/Predaglia/Predaglia/Pratalia/Schl.i.Lagertal s.Trient/
+W$Verona/X/
+O$2200/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$precio duo mille et CC librar. denar. Veronens.
+
+REG$Brianus, Sohn Aldrighets von Castelbarco, verkauft dem Bischof Konrad von
+Trient fÅr 2200 Pfund Veroneser Pfennig sein Schlo· zu Castelbarco und sein Haus zu
+Pratalia. Von diesen verspricht der Bischof 200 Pfund bis 14 Tage nach dem
+Michaelifestes zu bezahlen.
+F$FRA II 05/062/135ff/136
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Brianus/Genannter/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+H$Zahlungsversprechen/Immobilien/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+H$Zahlungsversprechen/Immobilien/Predaglia/Predaglia/Pratalia/Schl.i.Lagertal
+s.Trient/
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$CC libras promisit iam dictus dns episcopus soluturum
+
+REG$Brianus, Sohn Aldrighets von Castelbarco, verkauft dem Bischof Konrad von
+Trient fÅr 2200 Pfund Veroneser Pfennig sein Schlo· zu Castelbarco und sein Haus zu
+Pratalia. Von diesen verspricht der Bischof 2000 Pfund bis zum Fest Maria
+Lichtm. zu bezahlen.
+F$FRA II 05/062/135ff/136
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Brianus/Genannter/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+H$Zahlungsversprechen/Immobilien/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+H$Zahlungsversprechen/Immobilien/Predaglia/Predaglia/Pratalia/Schl.i.Lagertal
+s.Trient/
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$alias vero duas mille promisit
+
+REG$Brianus, Sohn Aldrighets von Castelbarco, verkauft dem Bischof Konrad von
+Trient fÅr 2200 Pfund Berner sein Schlo· zu Castelbarco und sein Haus zu
+Pratalia. Der Bischof erteilt ihm beide unter bestimmten Bedingungen wieder zu
+Lehen. FÅr die Einhaltung dieser setzt Brianus
+soviel von seinen GÅtern zu Pfand, als den Wert von 2200 Pfund Veroneser
+Pfennig ausmachen, und verspricht, das Schlo· dem Bischof stets zu îffnen, und
+an niemanden zu verÑussern.
+F$FRA II 05/062/135ff/138
+G$Brianus/Genannter/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft/Immobilien/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+H$PfandgeschÑft/Immobilien/Predaglia/Predaglia/Pratalia/Schl.i.Lagertal
+s.Trient/
+W$Verona/X/
+O$2200/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$duo M et CC librar. den. Ver. monete
+
+REG$Brianus, Sohn Aldrighets von Castelbarco, verkauft dem Bischof Konrad von
+Trient fÅr 2200 Pfund Berner sein Schlo· zu Castelbarco und sein Haus zu
+Pratalia. Der Bischof erteilt ihm beide unter bestimmten Bedingungen wieder zu
+Lehen. FÅr die Einhaltung dieser Bedingungen wird eine Strafe in der Hîhe
+von 2200 Pfund festgesetzt.
+F$FRA II 05/062/135ff/138
+G$Brianus/Genannter/Castelbarco/Castelbarco//Schl.b.Nomi s.Trient/
+E$Konrad/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$2200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena MM librarum et CC
+
+DOK$FRAII5_063/1198.11.29/1198.11.29/1198 November 29/anno dni. MCXCVIII., indic. I, die
+veneris secundo exeunte novembri/Triest/Triest//Istrien/
+S$Ercetus/kaiserl. Notar/Ercetus
+V$Ercetus/kaiserl. Notar/Ercetus
+K$Anselm von Livo verkauft dem Bischof Konrad von Trient fÅr 30 Pfund Veroneser
+Pfennig alle seine Rechte auf den Zins von 20 Schilling von mehreren HÑusern im
+Nonsthal.
+
+REG$Anselm von Livo verkauft dem Bischof Konrad von Trient fÅr 30 Pfund Veroneser
+Pfennig alle seine Rechte auf den Zins von 20 Schilling von mehreren HÑusern im
+Nonsthal.
+F$FRA II 05/063/139f/139
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Anselm/Genannter/Livo/Livo//Dorf i.Val di Pescara(Sulzberg)n.Cles/
+H$BestÑtigung_Kauf/Rechte/Nonstal/Nonstal//Hauptort Cles u.Fonto/
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro XXX libris den. Ver.
+B$In der Urkunde ist irrig ind. XIV. angegeben, es mÅ·te denn die Jahreszahl
+falsch sein.
+
+REG$Anselm von Livo verkauft dem Bischof Konrad von Trient fÅr 30 Pfund Veroneser
+Pfennig alle seine Rechte auf den Zins von 20 Schilling von mehreren HÑusern im
+Nonsthal.
+F$FRA II 05/063/139f/139
+G$X/X/X/X//
+E$Anselm/Genannter/Livo/Livo//Dorf i.Val di Pescara(Sulzberg)n.Cles/
+H$Zins/Immobilien/Nonstal/Nonstal//Hauptort Cles u.Fonto/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./X/A
+Q$in XX solidis den. Ver.
+B$In der Urkunde ist irrig ind. XIV. angegeben, es mÅ·te denn die Jahreszahl
+falsch sein.
+
+REG$Anselm von Livo verkauft dem Bischof Konrad von Trient fÅr 30 Pfund Veroneser
+Pfennig alle seine Rechte auf den Zins von 20 Schilling von mehreren HÑusern im
+Nonsthal, die von Bischof Salomon erworben hat.
+F$FRA II 05/063/139f/139
+G$X/X/X/X//
+E$Anselm/Genannter/Livo/Livo//Dorf i.Val di Pescara(Sulzberg)n.Cles/
+H$Zins/Immobilien/Nonstal/Nonstal//Hauptort Cles u.Fonto/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$pro suprascripto feodo XX solidorum invento a suprascripto dno episcopo
+Salomone.
+B$In der Urkunde ist irrig ind. XIV. angegeben, es mÅ·te denn die Jahreszahl
+falsch sein.
+
+DOK$FRAII5_064/1199.7.17/1199.7.17/1199 Juli 17/anno dni MCLXXXXIX., indic. secunda, die
+sabati XV. exeunte iulio/Mezotedesco/Mezotedesco/Metz/Deutschmetz,Marktort i.Etschtal/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Der Bischof Konrad von Trient belehnt den Albertin und Manfredin von Thun und
+Lutus von Marostega fÅr sich und ihre Genossen mit der Hîhe von Visiaun, um
+dort ein Schlo· zu bauen, unter folgenden Bedingungen.
+1. Das Schlo· darf ohne des Bischofs Willen an niemand verliehen, verpfÑndet
+oder verÑu·ert werden.
+2. Die Neubelehnten dÅrfen in diesem Schlo· niemanden ohne des Bischofs Willen
+den Aufenthalt gewÑhren.
+3. Das Schlo· mu· dem Bischof in allen seinen Vorkommnissen und Fehden offen
+sein.
+4. Bei NichterfÅllung dieser Bedingungen zahlen die Belehnten 1000 Pfund
+Veroneser Pfennig Strafe und verlieren das Lehen.
+
+REG$Der Bischof Konrad von Trient belehnt den Albertin und Manfredin von Thun und
+Lutus von Marostega fÅr sich und ihre Genossen mit der Hîhe von Visiaun, um
+dort ein Schlo· zu bauen, unter genannten Bedingungen.
+Bei NichterfÅllung dieser Bedingungen zahlen die Belehnten 1000 Pfund
+Veroneser Pfennig Strafe und verlieren das Lehen.
+F$FRA II 05/064/140ff/141
+G$Konrad/Bischof/Trient/Trient//SÅdtirol/
+E$Albertin;Manfredin/Genannter/Thun/Thun//Schl.i.Nonsberg b.Vigo d'Anaunia n.Mezolombardo/
+E$Lutus/Genannter/Venetien/Marostica/Marostega/Venetien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena mille librarum denarior. Veronens.
+
+DOK$FRAII5_080/1209.11.5/1209.11.5/1209 November 5/anno dni MCCIX., indic. XII.,  die iovis
+quinto intrante novembri/Trient/Trient//SÅdtirol/
+S$Konrad/kaiserl. Notar/Konrad
+V$Konrad/kaiserl. Notar/Konrad
+K$Der Bischof Friedrich von Trient belehnt die BrÅder Adalbert und Berthold von
+Wangen mit der Anhîhe und dem dabei befindlichen Meierhof zu Langeck, um dort
+ein befestigtes Schlo· zu bauen, das jedoch dem Bischof jederzeit geîffnet sein
+soll.
+HiefÅr Åbergeben die beiden BrÅder dem Bischof einen Weingarten in der Gegend
+von Bozen unterhalb Weineck.
+
+REG$Der Bischof Friedrich von Trient belehnt die BrÅder Adalbert und Berthold von
+Wangen mit der Anhîhe und dem dabei befindlichen Meierhof zu Langeck. Diese
+Åbergeben dem Bischof dafÅr einen Weingarten in der Gegend von Bozen unterhalb
+Weineck und verpfÑnden dem Bischof GÅter im Wert von 1000 Mark Silber Trientiner
+Mark.
+F$FRA II 05/080/181ff/183
+G$Adalbert;Berthold/Genannter/Wangen/Wangen//Dorf i.Sarntal n.Bozen/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$PfandgeschÑft_Wertangabe?eig. Pînale/Immobilien/Bozen/Bozen//SÅdtirol/
+W$Trient/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$obligaverunt \dots mille marcis argenti ad marcam tridentinam
+
+REG$Der Bischof Friedrich von Trient belehnt die BrÅder Adalbert und Berthold von
+Wangen mit der Anhîhe und dem dabei befindlichen Meierhof zu Langeck. Diese
+Åbergeben dem Bischof dafÅr einen Weingarten in der Gegend von Bozen unterhalb
+Weineck und versprechen dem Bischof bei Strafe von 1000 Mark Silber
+die Vereinbarung zu beachten.
+F$FRA II 05/080/181ff/183
+G$Adalbert;Berthold/Genannter/Wangen/Wangen//Dorf i.Sarntal n.Bozen/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$in dicta pena mille marcarum argenti
+
+DOK$FRAII5_081/1210.1.18/1210.1.18/1210 JÑnner 18/anno dni dei eterni MCCX., indic. XIII.,
+XV kalendas februarii/Trient/Trient//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$Der Bischof Friedrich von Trient erlÑ·t dem Johannonus von Comano fÅr 100
+Pfund Veroneser MÅnze alle seine bisherigen Abgaben, ausgenommen die jÑhrliche
+Entrichtung eines Mutterschafes, und eines Modius (Mut) Getreide. öberdies
+erteilt er ihm und seinen Erben das Privilegium, niemals au·erhalb des Bistums
+zu Lehen, oder sonst verÑu·ert zu werden. DafÅr leistet letzterer den Eid der
+Treue, und verspricht, sich niemals unter einen anderen Herrn zu begeben.
+
+REG$Der Bischof Friedrich von Trient erlÑ·t dem Johannonus von Comano fÅr 100
+Pfund Veroneser MÅnze alle seine bisherigen Abgaben, ausgenommen die jÑhrliche
+Entrichtung eines Mutterschafes, und eines Modius (Mut) Getreide.
+F$FRA II 05/081/184f/184
+G$Johannes/Genannter/Comano/Comano//  wo??
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$Freikauf/Abgaben/Comano/Comano//î.Tione oder Villa Banale
+W$Verona/moneta/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro libris C Veronensis monete acceptis
+
+DOK$FRAII5_105/1212.3.28/1212.3.28/1212 MÑrz 28/in Christi nomine, die mercruii IV. exeunte
+marcio anno dni MCCXII., indic. XV./Brescia/Brescia//
+S$BartolomÑus/kaiserl. Notar/BartolomÑus
+V$BartolomÑus/kaiserl. Notar/BartolomÑus
+K$Herr Manfred von Sale, Domherr zu Brescia, und Herr Milo von S. Gervasio, und
+sein Sohn Oprand, Orichetus und Hugo von Sale geben dem Bischof Friedrich von
+Trient ihre Lehen und Rechte zu Tegnale zurÅck, und erklÑren ihre AnsprÅche auf
+die darauf haftende Schuldsumme fÅr getilgt, behalten sich jedoch die Åbrigen
+SchuldansprÅche und Pfandschaften vor.
+
+REG$Herr Manfred von Sale, Domherr zu Brescia, und Herr Milo von S. Gervasio, und
+sein Sohn Oprand, Orichetus und Hugo von Sale geben dem Bischof Friedrich von
+Trient ihre Lehen und Rechte zu Tegnale zurÅck, und erklÑren ihre AnsprÅche auf
+die darauf haftende Schuldsumme fÅr getilgt, behalten sich jedoch die Åbrigen
+SchuldansprÅche und Pfandschaften vor, so auch ein Lehen, das sie vom Bischof
+gegen 2 Mark Silber jÑhrlichen Zins? haben.
+F$FRA II 05/105/244f/245
+G$Manfred/Domherr/Brescia/Brescia/Genannter Sale/
+G$Milo;Oprand/Genannter/Lombardei S.Gervasio/Lombardei,S. Gervasio//Prov.Brescia/
+G$Orichetus;Hugo/Genannter/Lombardei Sale/Lombardei, Sale//Familie wo?
+E$Friedrich/Bischof/Trient/Trient//
+H$Zinsverpflichtung/Immobilien/unbestimmt/unbestimmt//
+W$X/X
+O$2/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$de duabus markis argenti annuatim
+
+REG$Herr Manfred von Sale, Domherr zu Brescia, und Herr Milo von S. Gervasio, und
+sein Sohn Oprand, Orichetus und Hugo von Sale geben dem Bischof Friedrich von
+Trient ihre Lehen und Rechte zu Tegnale zurÅck, und erklÑren ihre AnsprÅche auf
+die darauf haftende Schuldsumme fÅr getilgt, behalten sich jedoch die Åbrigen
+SchuldansprÅche in der Hîhe von 100 Schilling kaiserl. ?Pfennig und
+Pfandschaften vor.
+F$FRA II 05/105/244f/245
+G$Manfred/Domherr/Brescia/Brescia/Genannter Sale/
+G$Milo;Oprand/Genannter/Lombardei S.Gervasio/Lombardei,S. Gervasio//Prov.Brescia/
+G$Orichetus;Hugo/Genannter/Lombardei Sale/Lombardei,Sale//Familie wo?
+E$Friedrich/Bischof/Trient/Trient//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$100/sol./X
+M$X/imperialis/X/A
+Q$de centum solidis imperialium, quos habere debent
+
+DOK$FRAII5_111/1212.6.12/1212.6.12/1212 Juni 12/anno a nativitate eius MCCXII., indict. XV.,
+die verneris VIII. intrante iunio/Trient/Trient//SÅdtirol/
+S$X/X/X
+V$X/X/X
+K$öbereinkommen des Bischofs Friedrich von Trient mit den Einwohnern von
+Rendena.
+1. Bestimmung des Betrages der beiden placita, welche die Rendenenser an den
+Bischof abzufÅhren haben.
+2. Der Gastaldio des Bischof soll einmal im Jahr mit neun Berittenen nach
+Rendena gehen, um dort innerhalb der Octave des S. Andreastages den Zins
+einzunehmen und Recht zu sprechen, und zwar zwei Tage lang in jeder Dekanie, und
+auf ihre eigenen Kosten.
+3. Der Gastaldio kann nur Åber Klagen, welche eine Strafe bis zu 5 Schilling nach
+sich ziehen, erkennen. öber die anderen, namentlich aufgefÅhrten Verbrechen soll
+der Gastaldio sich das Urteil des Bischofs einholen.
+4. Ist einer aus den Rendenensern mit der Zahlung des Zinses sÑumig, so zahlt
+die Gemeinde das Ganze, und kann den SÑumenden strafen, jedoch nicht an seiner
+Person.
+5. FÅr dieses öbereinkommen zahlen die Einwohner von Rendena dem Bischof 3300
+Pfund Berner.
+6. FÅr die Nicht-ErfÅllung dieser Bedingungen wird beiderseits eine Pîn von 100
+Mark festgesetzt.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen, das den Betrag der beiden placita, welche die Rendenenser an den
+Bischof abzufÅhren haben, mit 260 Pfund Pfennige Veroneser MÅnze und 30 Pfund
+derselben MÅnze fÅr die SchÑtzung ?der Schweine und Rinder, die sie ihm gaben,
+festsetzt.
+F$FRA II 05/111/254ff/256
+G$X/Einwohner/VillaRendena/Villa Rendena//Judikarien,n.Tione//
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$placitum/placitum/VillaRendena/Villa Rendena//n.Tione/
+W$Verona/moneta/
+O$260/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvere teneantur \dots CC et LX libras denariorum Veronensis monete
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen, das den Betrag der beiden placita, welche die Rendenenser an den
+Bischof abzufÅhren haben, mit 260 Pfund Pfennige Veroneser MÅnze und 30 Pfund
+derselben MÅnze fÅr die SchÑtzung ?der Schweine und Rinder, die sie ihm gaben,
+festsetzt.
+F$FRA II 05/111/254ff/256
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$placitum/placitum/VillaRendena/Villa Rendena//n.Tione/
+W$Verona/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvere teneantur \dots CC et LX libras denariorum Veronensis monete
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde. "Verona" aus dem Zusammenhang erschlossen.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen, wonach der Gastaldio nur Åber Klagen, welche eine Strafe bis
+zu 5 Schilling nach sich ziehen, erkennen kann.
+F$FRA II 05/111/254ff/256
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol    oder Gastalde Trient ?
+H$Strafrahmen/Strafgeld/VillaRendena/Villa Rendena//n.Tione/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$de unaquaque lamentatione non excedat bannum V solidorum
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen, wonach der Gastaldio nur Åber UnrechtmÑ·igkeiten bis zu
+einem Streitwert von 20 Schilling,
+welche eine Strafe von 5 Schilling nach sich ziehen, erkennen kann.
+F$FRA II 05/111/254ff/256
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$X/X/X/X//
+H$Streitwert/placitum/VillaRendena/Villa Rendena//n.Tione/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$de aliis iniuriis et maleficiis a XX solidis infra conputatis bannum tantum V
+solidorum accipiat.
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen, wonach der Gastaldio nur Åber UnrechtmÑ·igkeiten bis zu
+einem Streitwert von 20 Schilling,
+welche eine Strafe von 5 Schilling nach sich ziehen, erkennen kann.
+F$FRA II 05/111/254ff/256
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$X/Gastalde/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/VillaRendena/Villa Rendena//n.Tione/
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$de aliis iniuriis et maleficiis a XX solidis infra conputatis bannum tantum V
+solidorum accipiat.
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen. FÅr die Nicht-ErfÅllung dieser Bedingungen wird eine Pîn von 100
+Mark Silber festgesetzt.
+F$FRA II 05/111/254ff/257
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/VillaRendena/Villa Rendena//n.Tione/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$in pena C marcarum boni argenti
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen. FÅr die Nicht-ErfÅllung dieser Bedingungen bzw. die
+Nichtleistung des Zinses wird eine Pîn von 100 Mark Silber festgesetzt.
+F$FRA II 05/111/254ff/258
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/VillaRendena/Villa Rendena//n.Tione/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$in pena C marcarum argenti
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+REG$Bischof Friedrich von Trient schlie·t mit den Einwohnern von Rendena ein
+öbereinkommen. FÅr dieses öbereinkommen zahlen die Einwohner von Rendena dem
+Bischof 3300 Pfund Veroneser Pfennig.
+F$FRA II 05/111/254ff/258
+G$X/Einwohner/VillaRendena/Villa Rendena//n.Tione/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$öbereinkommen/öbereinkommen/VillaRendena/Villa Rendena//n.Tione/
+W$Verona/X/
+O$3300/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$accepisse tria millia et CCC libras denariorum Veron.
+B$In der Urkunde selbst ist XII. intrante iunio, wÑhrend es im Trient. Arch.
+VIII. intr. iun. hei·t,  was mit RÅcksicht auf die veneris, auch richtig ist
+und aufgenommen wurde.
+
+DOK$FRAII5_130/1215.9.4/1215.9.4/1215 September 4/anno dni MCCXV., indic. tercia, die
+quarto intrante septembri/Trient/Trient//SÅdtirol/
+S$Johannes/kaiserl. Notar/Johannes
+V$Johannes/kaiserl. Notar/Johannes
+K$Wezilus von Caldonazzo fÅr sich und seine BrÅder, und Ulrich von Caldonazzo
+fÅr sich und seine BrÅder und Schwestern verkaufen dem Vizedom Berthold, namens
+des Bischofs Friedrich von Trient, fÅr 125 Pfund Veroneser alle ihre Rechte und
+ErtrÑgnisse auf den Hîhen von Costa Cartura in Folgaria.
+Einen gleichen Verkauf machen ihrerseits die Gemeinden von Bosentino und
+Mugazzone um den Preis von 50 Pfund Veroneser Pfennig.
+
+REG$Wezilus von Caldonazzo fÅr sich und seine BrÅder, und Ulrich von Caldonazzo
+fÅr sich und seine BrÅder und Schwestern verkaufen dem Vizedom Berthold, namens
+des Bischofs Friedrich von Trient, fÅr 125 Pfund Veroneser alle ihre Rechte und
+ErtrÑgnisse auf den Hîhen von Costa Cartura in Folgaria.
+F$FRA II 05/130/297ff/298
+G$Berthold/Vizedom/Trient/Trient//SÅdtirol/
+E$Wezilus;Ulrich/Genannter/Caldonazzo/Caldonazzo//Dorf sw.Levico/
+H$BestÑtigung_Kauf/Immobilien/Folgaria/Folgaria//wo??
+W$Verona/X/
+O$125/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum et XXV libris Veronens., quas nomine finiti precii confessi fuerunt
+se accepisse
+
+REG$Wezilus von Caldonazzo fÅr sich und seine BrÅder, und Ulrich von Caldonazzo
+fÅr sich und seine BrÅder und Schwestern verkaufen dem Vizedom Berthold, namens
+des Bischofs Friedrich von Trient, fÅr 125 Pfund Veroneser alle ihre Rechte und
+ErtrÑgnisse auf den Hîhen von Costa Cartura in Folgaria, nÑmlich 10 Veroneser
+Zins, welchen die Gemeinde Bosentino und Mugazzone jÑhrlich zahlten.
+F$FRA II 05/130/297ff/298
+G$X/Gemeinde/Bosentino/Bosentino//Dorf s.Pergine/
+G$X/Gemeinde/Bosentino Migazzone/Bosentino,Migazzone/Mugazzone/Dorf s.Pergine/
+E$Wezilus;Ulrich/Genannter/Caldonazzo/Caldonazzo//Dorf sw.Levico/
+H$Zins/Immobilien/Folgaria/Folgaria//wo??
+W$Verona/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$nominatim X solidos Veronenses
+
+REG$Wezilus von Caldonazzo fÅr sich und seine BrÅder, und Ulrich von Caldonazzo
+fÅr sich und seine BrÅder und Schwestern verkaufen dem Vizedom Berthold, namens
+des Bischofs Friedrich von Trient, fÅr 125 Pfund Veroneser alle ihre Rechte und
+ErtrÑgnisse auf den Hîhen von Costa Cartura in Folgaria, nÑmlich 10 Veroneser
+Zins, welchen die Gemeinde Busintinum und Mugazonum? jÑhrlich nur dem
+Bischof zahlen.
+F$FRA II 05/130/297ff/299
+G$X/Gemeinde/Bosentino/Bosentino/Busintinum/Dorf s.Pergine/
+G$X/Gemeinde/Bosentino Migazzone/Bosentino,Migazzone/Mugazonum/Dorf s.Pergine/
+E$Friedrich/Bischof/Trient/Trient//SÅdtirol/
+H$Zins/Immobilien/Folgaria/Folgaria//wo??
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/Z
+Q$fictum X solidorum
+
+REG$Die Gemeinden von Bosentino und Mugazzone verkaufen dem Vizedom Berthold,
+namens des Bischofs Friedrich von Trient, fÅr 50 Pfund Veroneser Pfennige alle
+ihre Rechte und ErtrÑgnisse auf den Hîhen von Costa Cartura in Folgaria.
+F$FRA II 05/130/297ff/301
+G$Berthold/Vizedom/Trient/Trient//SÅdtirol/
+E$X/Gemeinde/Bosentino/Bosentino//Dorf s.Pergine/
+E$X/Gemeinde/Bosentino Migazzone/Bosentino,Migazzone/Mugazzone/Dorf s.Pergine/
+H$BestÑtigung_Kauf/Immobilien/Folgaria/Folgaria//wo??
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$confessi fuerunt \dots se accepisse \dots L libras denar. Veron.
+
+REG$Die Gemeinden von Bosentino und Mugazzone verkaufen dem Vizedom Berthold,
+namens des Bischofs Friedrich von Trient, fÅr 50 Pfund Veroneser Pfennige alle
+ihre Rechte und ErtrÑgnisse auf den Hîhen von Costa Cartura in Folgaria.
+DafÅr verzichtet der Vizedom des Bischofs von Trient auf jene 4 Schilling
+Veroneser Pfennig, die die Bewohner von Bosentino und Mugazzone pro Fuder Heu
+dem Bischof zahlen mu·ten.
+F$FRA II 05/130/297ff/301
+G$X/Gemeinde/Bosentino/Bosentino//Dorf s.Pergine/
+G$X/Gemeinde/Bosentino Migazzone/Bosentino,Migazzone/Mugazzone/Dorf s.Pergine/
+E$Berthold/Vizedom/Trient/Trient//SÅdtirol/
+H$Abgabe/Heu/unbestimmt/unbestimmt//
+W$Verona/X/
+O$X/X/X
+Z$4/sol./X
+M$X/den./X/A
+Q$de illis  quatuor solidis denariorum Veronensium, quos homines \dots soliti
+erant dare et solvere pro foidro feni episcopatui
+
+DOK$FRAII5_149/1222.7.29/1222.7.29/1222 Juli 29/anno dni MCCXXII., indic. decima, die
+veneris tercio exeunte iulio/Neumarkt/Neumarkt//Marktort i.Etschtal sî.Tramin/
+S$X/X/X
+V$X/X/X
+K$Da die öberschwemmungen der Etsch einen gro·en Teil von Neumarkt zerstîrt
+hatten, so belehnt der Bischof Albert von Trient eine gro·e Anzahl von,
+namentlich aufgefÅhrten, Einwohnern dieses Marktes mit GrundstÅcken, um darauf
+neue HÑuser zu bauen, und dieselben nach den bei den HÑusern in Trient Åblichen
+Rechten zu besitzen.
+
+REG$Da die öberschwemmungen der Etsch einen gro·en Teil von Neumarkt zerstîrt
+hatten, so belehnt der Bischof Albert von Trient eine gro·e Anzahl von,
+namentlich aufgefÅhrten, Einwohnern dieses Marktes mit GrundstÅcken, um darauf
+neue HÑuser zu bauen, und dieselben nach den bei den HÑusern in Trient Åblichen
+Rechten zu besitzen. So mu· jemand, wenn er sein Haus verkaufen will, es zuerst
+dem Bischof um 20 Schilling Veroneser billiger anbieten.
+F$FRA II 05/149/334ff/336
+G$X/Bewohner/Neumarkt/Neumarkt//Marktort i.Etschtal sî.Tramin/
+E$Albert/Bischof/Trient/Trient//SÅdtirol/
+H$Kauf_Abschlag/Immobilien/Neumarkt/Neumarkt//Marktort i.Etschtal sî.Tramin/
+W$Verona/X/
+O$X/X/X
+Z$20/sol./ad minus
+M$X/X/X/Z
+Q$pro XX solidis Veronens. ad minus, quam ulli alii, sibi dare debeat
+
+DOK$FRAII5_166/1234.7.6/1234.7.6/1234 Juli 6/anno dni MCCXXXIV., indictione septima, die
+iovis sexto intrante iulio/Trient/Trient//SÅdtirol/
+S$MatthÑus de Placentia/kaiserl. Notar/MatthÑus de Placentia
+V$MatthÑus de Placentia/kaiserl. Notar/MatthÑus de Placentia
+K$Jakob von Lizzana Åbergibt dem Bischof Aldrich von Trient das Schlo· und die
+Gastaldie von Pratalia, ferner seine Grafschaftsrechte und alle anderen
+AnsprÅche in Lizzana, und erhÑlt dafÅr eine Summe von 2240 Pfund venetianischer
+Pfennige an Kapital, und 430 Pfund Veroneser Pfennig an Zinsen.
+
+REG$Jakob von Lizzana Åbergibt dem Bischof Aldrich von Trient das Schlo· und die
+Gastaldie von Pratalia, ferner seine Grafschaftsrechte und alle anderen
+AnsprÅche in Lizzana, und erhÑlt dafÅr eine Summe von 2240 Pfund venetianischer
+Pfennige an Kapital, und 430 Pfund Veroneser Pfennig an Zinsen.
+F$FRA II 05/166/353f/354
+G$Aldrich/Bischof/Trient/Trient//SÅdtirol/
+E$Jakob/Genannter/Lizzana/Lizzana//Dorf u.Ruine i.Val Lagarina s.Rovereto/
+H$Kauf/Immobilien/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf/Gastaldie/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf/Rechte/Lizzana/Lizzana//Dorf u.Ruine i.Val Lagarina s.Rovereto/
+W$Venedig/X/
+O$2240/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$accepisse \dots MM et CCXL denariorum venecianorum parvorum
+
+REG$Jakob von Lizzana Åbergibt dem Bischof Aldrich von Trient das Schlo· und die
+Gastaldie von Pratalia, ferner seine Grafschaftsrechte und alle anderen
+AnsprÅche in Lizzana, und erhÑlt dafÅr eine Summe von 2240 Pfund venetianischer
+Pfennige an Kapital, und 430 Pfund Veroneser Pfennig an Zinsen.
+F$FRA II 05/166/353f/354
+G$Aldrich/Bischof/Trient/Trient//SÅdtirol/
+E$Jakob/Genannter/Lizzana/Lizzana//Dorf u.Ruine i.Val Lagarina s.Rovereto/
+H$Kauf/Immobilien/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf/Gastaldie/Predaglia/Predaglia/Pratalia/Ruine b.Isera w.Rovereto/
+H$Kauf/Rechte/Lizzana/Lizzana//Dorf u.Ruine i.Val Lagarina s.Rovereto/
+W$Verona/X/
+O$430/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$accepisse \dots CCCCXXX libras Veronensium denariorum
+
+DOK$FRAII5_237/1208.0.0/1208.0.0/1208/anno dni MCCVIII., indic. XI., die iovis XII. exeunte
+mense iunii/Trient/Trient,bei//SÅdtirol/
+S$Ercetus/kaiserl. Notar/Ercetus
+V$Ercetus/kaiserl. Notar/Ercetus
+K$Bergwerksordnung des ErwÑhlten Friedrich von Trient.
+
+REG$Die Gewerken unterstehen nur dem Bischof und ihrem besonderen bischîflichen
+Gastalden. Wenn sie dem Gastalden nicht Rede stehen wollten, zahlten sie eine
+Strafe von 100 Schilling.
+F$FRA II 05/237/443f/444
+G$X/Gewerke/Trient/Trient//SÅdtirol/
+E$X/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$100/sol./X
+M$X/X/X/Z
+Q$in penam C solidorum
+B$Bergwerksordnung.
+
+REG$Die Gewerken, die SchîpfrÑder besitzen, mÅssen in der Stadt wohnen
+und sind BÅrger von Trient. Wer dagegen handelt, mu· dem Bischof 50 Pfund Strafe
+bezahlen.
+F$FRA II 05/237/443f/444
+G$X/Gewerke/Trient/Trient//SÅdtirol/
+E$X/Bischof/Trient/Trient//SÅdtirol/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$L libras nomine pene solvere teneatur
+B$Bergwerksordnung.
+
+DOK$FRAII5_273/1213.0.0/1213.0.0/1213/anno dni dei eterni MCCXIII., indic. I., XVl. kal.
+novembris/Vulsana/Vulsana//wo??
+S$X/X/X
+V$X/X/X
+K$Johannes von Zanum? verspricht Petrus von Maluscum?, dem Vizedom von Nonsberg,
+unter Strafe von 20 Schilling Veroneser MÅnze, da· er den Ministerialen des
+Hofes von Vulfana den Zins zahlt. ?
+
+REG$Johannes von Zanum? verspricht Petrus von Maluscum?, dem Vizedom von Nonsberg,
+unter Strafe von 20 Schilling Veroneser MÅnze, da· er den Ministerialen des
+Hofes von Vulfana den Zins zahlt. ?
+F$FRA II 05/273/496f/497
+G$Johannes/Genannter/Zanon/Zanon/Zanum/Dorf i.Fleimstal sw. Predazzo/
+E$Petrus/Genannter/Malosco/Malosco/Maluscum/Dorf u.Schlo· i.Nonsberg sî.Fondo/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/Z
+Q$sub pena XX solidorum Veronensis monete
+
+DOK$FRAII5_274/1213.0.0/1213.0.0/1213/anno dni dei eterni MCCXIII., indic. I., XIV. kal.
+novembris/Vulsana/Vulsana//wo??
+S$X/X/X
+V$X/X/X
+K$Petrus und Benedikt von Urs? gaben dem Petrus von Malusco, dem Vizedom von
+Nonsberg, den jÑhrlichen Zins unter Strafe von 25 Pfund Veroneser MÅnze.
+
+REG$Petrus und Benedikt von Urs? gaben dem Petrus von Malusco, dem Vizedom von
+Nonsberg, den jÑhrlichen Zins unter Strafe von 25 Pfund Veroneser MÅnze.
+F$FRA II 05/274/497f/497
+G$Petrus;Benedikt/Genannter/uWelschtirol Urs/uWelschtirol,Urs?//??
+E$Petrus/Genannter/Malosco/Malosco/Maluscum/Dorf u.Schl.i.Nonsberg sî.Fondo/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$penam obligarunt \dots Veronensis monete libras XXV
+
+DOK$FRAII5_277/1215.0.0/1215.0.0/1215/anno dni MCCXV., indic. III., III. idus
+Augusti/Vulsana/Vulsana//wo??
+S$X/X/X
+V$X/X/X
+K$Petrus von Malusco, der Vizedom von Nonsberg, ordnete unter Strafe von
+60 Schilling Veroneser MÅnze an, da· die genannten Personen das Dach von Schlo·
+Vulsana mit Schindeln des Bischofs gedeckt halten? und Wein und Holz fÅhren. ?
+
+REG$NN
+F$FRA II 05/277/499f/500
+G$X/Bewohner?/Vulsana/Vulsana//Ossana i.Sulzberg w.Malä
+E$X/Vizedom/Nonstal/Nonsberg/Anania/Landschaft beiderseits d.untern Noce
+u.Colloneum des Domkapitels/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$X/X/X
+Z$60/sol./X
+M$X/X/X/Z
+Q$in banno LX solidorum Veronensis monete
+
+

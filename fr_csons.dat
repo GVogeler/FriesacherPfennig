@@ -1,0 +1,777 @@
+
+note *** Sonst. Cividale
+
+note *** Einlesen der Rohdaten fr_csons.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$cand_21/1101.2.24/1101.2.24/1101 Februar 24/anno dominice incarnacionis MCI. sexto
+kalendas marcii ind. IX/Cividale/Cividale//Friaul-Ost/
+S$Bernhard/X/Bernhard
+V$Bernhard/X/Bernhard
+K$Ugo, seine Mutter Accela u. seine Frau Luiza schenken Konrad einige Lehen?
+
+REG$Strafbestimmung in der Hîhe von 30 Unzen Gold entsprechend 60 Pfund Silber.
+F$ACC Perg. II/001/X/X
+F$Leicht Dir. Rom./003/42f/43
+F$BCU Ms. Joppi 368 Fasz. 4/01/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 4/02/1ff/2
+G$Hugo/X/X/X//
+E$Konrad/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$30/uncia/X
+Z$X/X/X
+M$X/aurum/optimum/Z
+A$30 Unzen Gold/60 pondera Silber
+Q$pena auri optimi uncias XXX argenti pondera sexaginta
+B$zwei Mîglichkeiten des gleichen Betrages angegeben
+
+REG$Strafbestimmung in der Hîhe von 30 Unzen Gold entsprechend 60 Pfund Silber.
+F$ACC Perg. II/001/X/X
+F$Leicht Dir. Rom./003/42f/43
+F$BCU Ms. Joppi 368 Fasz. 4/01/1ff/2
+F$BCU Ms. Joppi 368 Fasz. 4/02/1ff/2
+G$Hugo/X/X/X//
+E$Konrad/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$60/lib.?/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$60 pondera Silber/30 Unzen Gold
+Q$pena auri optimi uncias XXX argenti pondera sexaginta
+B$zwei Mîglichkeiten des gleichen Betrages angegeben
+
+DOK$cand_23/1108.10.10/1108.10.10/1108 Oktober 10/anno ab incarnacione domini nostri ihesu
+xpi MVIII quidem est X. die mensis octubris indicione IX./Cividale/Cividale//Friaul-Ost/
+S$Cacilinus/X/Cacilinus?Caciolinus
+V$Cacilinus/X/Cacilinus
+K$Crescentius, der Sohn des Gausonus, verkauft Cono fÅr 100 Schilling Silber ein
+GrundstÅck mit einer HÅtte in Cividale vor dem Tor S. Salvatore.
+
+REG$NN
+F$ACC Perg. II/005/16/16
+F$Leicht Dir. Rom./005/45/45
+G$Crescenzio/X/X/X//
+E$Kuno/X/X/X//
+H$Verkauf/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$100/sol./X
+M$X/argentum/X/A
+Q$in arientum valentes solidos C finito precio
+
+DOK$cand_19/1108.10.10/1108.10.10/1108 Oktober 10/1108,10.oct.,ind.9/Cividale/Cividale//Friaul-Ost/
+S$Caciolinus/X/Caciolinus?Cacilinus
+V$Caciolinus/X/Caciolinus
+K$NN
+
+REG$NN
+F$zu ergÑnzen/?/?/?
+G$Crescenzio/X/X/X//
+E$Kuno/X/X/X//
+H$Verkauf/Immobilien/Cividale S.Salvatore/Cividale,S. Salvatore//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$100/sol./X
+M$X/argentum/X/A
+Q$in arientum valentes solidos C finito precio
+B$
+
+DOK$cand_06/1112.1.20/1112.1.20/1112 JÑnner 20/1112, 13.kal.febr.,i.3/S.Floriano/S. Floriano//Friaul-Ost/
+S$Arpo/X/Arpo
+V$Arpo/X/Arpo
+K$Der Priester Petrus kauft von Mathilde, der Tochter des q. Burkhard deren Erbe
+in Italien, Baiern, KÑrnten und Friaul.
+
+REG$wo Text ? Jaksch
+F$Cividale I?/Nr. 0/?/?
+G$Petrus/Priester/X/X//
+E$Mathilde/X/X/X//
+H$Kauf/Immobilien/Italien/Italien//Italien/
+H$Kauf/Immobilien/uBayern/Bayern//Bayern/
+H$Kauf/Immobilien/uKÑrnten/KÑrnten//KÑrnten/
+H$Kauf/Immobilien/uFriaul/Friaul//Friaul/
+W$X/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pretio in tantum argentum et aliam mercem valentem libras duo mille
+B$
+
+DOK$cand_24/1163.10.30/1163.10.30/1163 Oktober 30/anno dominice incarnationis MCLXIII.
+indictione V. \dots III. kal. Februarii/Cividale/Cividale//Friaul-Ost/
+S$Arpo/X/Arpo
+V$Arpo/X/Arpo
+K$Folio fÅr seine Frau Gerlint Hochzeitsgabe
+
+REG$NN
+F$BCU Ms. Joppi 368/10/5/5  ?
+F$BCU Ms. Joppi 368 Fasz. 5/10/1/1   JÑnner?
+F$Fontanini/1/253ff/253
+G$Folco/X/X/X//
+E$Gerlint/X/X/X//
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$poena constituta X marcharum aurearum
+B$
+
+DOK$cand_07/1176.2.12/1176.2.12/1176 Februar 12/anno dominice incarnacionis MCLXXVI.
+indicione nona XII. die mensis februarii/Cividale/Cividale//Friaul-Ost/
+S$Konrad/Aquileia?/Konrad
+V$Romulus/X/Romulus
+K$Patriarch Ulrich (II.) von Aquileia bestÑtigt das (bereits von
+Patriarch Pilgrim verliehene) Marktrecht von Cividale und befreit die
+Einwohner und Umwohner, welche Wachen und andere Dienste nach Cividale
+leisten, gegen Zahlung von 32 Mark von der Maut und bestimmt die Hîhe der Steuer
+der fremden Kaufleute und verleiht BÅrgern Steuerbefreiungen.
+
+REG$Patriarch Ulrich (II.) von Aquileia bestÑtigt das (bereits von
+Patriarch Pilgrim verliehene) Marktrecht von Cividale und befreit die
+Einwohner und Umwohner, welche Wachen und andere Dienste nach Cividale
+leisten, gegen Zahlung von 32 Mark von der Maut.
+F$Leicht Storia/23/319f/319
+F$Rubeis MEA/X/597ff/597
+F$Reg. Gîrz 1/264/72/72
+F$Puschnig Reg./50/9/9
+F$Manzano AF 2/X/163/163
+F$BCU Ms. Joppi 368 Fasz. 5/40/1ff/1
+G$X/Bewohner/Cividale/Cividale//Friaul-Ost/
+E$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pauschale/Maut/Cividale/Cividale//Friaul-Ost/
+W$X/X/
+O$32/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ab onere pretaxate mute receptis a vobis XXXII marcis absolvimus et in
+perpetuum absolutos esse volumus
+B$In eigener Sache, Z und A deshalb, weil die Steuerleistung bereits in der A
+galt und fÅr die Z erneuert wird.
+
+REG$Patriarch Ulrich (II.) von Aquileia bestÑtigt das (bereits von
+Patriarch Pilgrim verliehene) Marktrecht von Cividale und bestimmt die Hîhe der
+Steuer der fremden Kaufleute. Die Handelsleute, welche zu Cividale ihr Haus
+haben, sollen je Schritt Bodens, welchen sie innehaben, jÑhrlich um Maria
+Reinigung 2 Pfennige Friesacher MÅnze bezahlen. Dann sollten sie diesen Boden
+erblich besitzen, verschenken, vertauschen und verkaufen kînnen nach freiem
+Willen.
+F$Leicht Storia/23/319f/320
+F$Rubeis MEA/X/597ff/598
+F$Reg. Gîrz 1/264/72/72
+F$Manzano AF 2/X/163/163
+F$BCU Ms. Joppi 368 Fasz. 5/40/1ff/2
+G$X/Kaufleute/Cividale/Cividale//Friaul-Ost/
+E$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Steuer/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Friesach/moneta/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$negotiatores ibi domos habentes, quisque pro uno passu de terra nostra, quam
+occupavit duos denarios Frisacensis monete singulis annis in Purificatione
+Sancte Marie nobis ac Successoribus nostris persolvant
+
+DOK$cand_20/1184.9.23/1184.9.23/1184 September 23/anno domini MCLXXXIIII. octavo die exeunte
+mense septembris indictione III./Cividale/Cividale//Friaul-Ost/
+S$Petrus/X/Petrus
+V$Petrus/X/Petrus
+K$Matthias von Sorpenberg und Wariend, sein Vater, und sein Sohn Åbergeben
+Boynicus von Premariacco und seinen Genossen einen Hof und Garten in Cividale
+gegen jÑhrlichen Zins.
+
+REG$Matthias von Sorpenberg und Wariend, sein Vater, und sein Sohn Åbergeben
+Boynicus von Premariacco und seinen Genossen einen Hof und Garten in Cividale
+gegen jÑhrlichen Zins in der Hîhe von 2 Friesachern je Schritt Bodens in der
+Breite.
+F$ACC Perg. II/050/64/64
+F$BCU Ms. Joppi 368/27/6/6
+F$Leicht Dir. Rom./010/49f/50
+F$Manzano AF 2/X/171f/172
+F$BCU Ms. Joppi 368 Fasz. 6/27/1ff/1
+G$X/X/Cividale/Cividale//Friaul-Ost/
+E$Matthias;Wariend/Genannter/Soffumbergo/Soffumbergo/Sorpenberg/Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/X/X/Z
+Q$duos frisacenses nobis et nostris heredibus persolvere debeat
+
+REG$Matthias von Sorpenberg und Wariend, sein Vater, und sein Sohn Åbergeben
+Boynicus von Premariacco und seinen Genossen einen Hof und Garten in Cividale
+gegen jÑhrlichen Zins in der Hîhe von 2 Friesachern je Schritt Bodens in der
+Breite. Johannes, der Sohn Walpertus, mu· jedoch 32 Friesacher zahlen.
+F$ACC Perg. II/050/64/64
+F$BCU Ms. Joppi 368/27/6/6
+F$Leicht Dir. Rom./010/49f/50
+F$BCU Ms. Joppi 368 Fasz. 6/27/1ff/2
+G$Johannes/X/Cividale/Cividale//Friaul-Ost/
+E$Matthias;Wariend/Genannter/Soffumbergo/Soffumbergo/Sorpenberg/Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$32/X/X/Z
+Q$debet persolvere triginta et duos frisacenses
+
+REG$Matthias von Sorpenberg und Wariend, sein Vater, und sein Sohn verpachten?
+Boynicus von Premariacco und seinen Genossen einen Hof und Garten in Cividale
+gegen jÑhrlichen Zins in der Hîhe von 2 Friesachern je Schritt Bodens in der
+Breite. Rainald mu· jedoch 16 Friesacher bezahlen.
+F$ACC Perg. II/050/64/64
+F$BCU Ms. Joppi 368/27/6/6
+F$Leicht Dir. Rom./010/49f/50
+F$BCU Ms. Joppi 368 Fasz. 6/27/1ff/2
+G$Rainald/X/Cividale/Cividale//Friaul-Ost/
+E$Matthias;Wariend/Genannter/Soffumbergo/Soffumbergo/Sorpenberg/Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$16/X/X/Z
+Q$debet dare sexdecim frisacenses
+
+REG$Matthias von Sorpenberg und Wariend, sein Vater, und sein Sohn verpachten?
+Boynicus von Premariacco und seinen Genossen einen Hof und Garten in Cividale
+gegen jÑhrlichen Zins in der Hîhe von 2 Friesachern je Schritt Bodens in der
+Breite. Bei Verstî·en gegen den Vertrag verpflichten sich Matthias und Wariend
+zur Zahlung von einer Mark.
+F$ACC Perg. II/050/64/64
+F$BCU Ms. Joppi 368/27/6/6
+F$Leicht Dir. Rom./010/49f/50
+F$BCU Ms. Joppi 368 Fasz. 6/27/1ff/2
+G$Matthias;Wariend/Genannter/Soffumbergo/Soffumbergo/Sorpenberg/Friaul-Ost/
+E$X/X/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$marcam unam dare promittimus
+
+DOK$cand_01/1202.11.4/1202.11.4/1202 November 4/?1202,dne.4.nov./Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$Die Grafen Meinhard und Engelbert von Gîrz bestÑtigen, da· das Pfand, welches
+ihnen der Patriarch von Aquileia bei Menzano und auf dem Karst gegeben hat, 200
+Mark EinkÅnfte einbringe, wie es der Friedensvertrag verlangt, und da· er damit
+sein Versprechen eingelîst habe.
+
+REG$Die Grafen Meinhard und Engelbert von Gîrz bestÑtigen, da· das Pfand, welches
+ihnen der Patriarch von Aquileia bei Menzano und auf dem Karst gegeben hat, 200
+Mark EinkÅnfte einbringe, wie es der Friedensvertrag verlangt, und da· er damit
+sein Versprechen eingelîst habe.
+F$Kos 5/033/28/28
+F$Reg. Gîrz 1/318/87/87
+G$X/X/X/X//
+E$Meinhard;Engelbert/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$EinkÅnfte?/Immobilien/Manzano/Manzano//Friaul-Ost/
+H$EinkÅnfte?/Immobilien/Karst/Karst//Karst wo??/
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$redditus ducentarum marcarum
+B$Laut Regest aufgenommen. Kos nennt 20 Mark EinkÅnfte - wohl ein Druckfehler.?
+
+DOK$cand_05/1205.10.1/1205.10.1/1205 Oktober 1/anno domini MCCV. primo die mensis
+octubris indicione VIII./Cividale/Cividale//Friaul-Ost/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Walcher von Cividale Åbergibt mit Zustimmung seines Bruders Kuno dem Heinrich
+Persanus 3 Schritt Allodialland bei Porta S. Pietro zu einem jÑhrlichen Zins in
+der Hîhe von 6 Pfennigen Silber Agleier MÅnze.
+
+REG$Walcher von Cividale Åbergibt mit Zustimmung seines Bruders Kuno dem Heinrich
+Persanus 3 Schritt Allodialland bei Porta S. Pietro zu einem jÑhrlichen Zins in
+der Hîhe von 6 Pfennigen Silber Agleier MÅnze.
+F$Leicht Dir. Rom./029/65/65
+G$Heinrich Persanus/X/X/X//
+G$Walcher/Genannter/Cividale/Cividale//Friaul-Ost/
+E$X/X/X/X//
+H$Zinsverpflichtung/Immobilien/Cividale PortaS.Pietro/Cividale,Porta S.
+Pietro//Friaul-Ost/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$6/den./argenti/Z
+Q$sex denarios argenti aquilegensis monete et hoc sub pena dupli
+ipsorum denariorum
+
+REG$Strafbestimmung in der Hîhe von 10 Mark.
+F$Leicht Dir. Rom./029/65/65
+G$Walcher/Genannter/Cividale/Cividale//Friaul-Ost/
+E$Heinrich Persanus/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub nomine pene X marcarum
+
+DOK$cand_25/1222.0.0/1222.0.0/1222/anno domini MCCXXII. indictione X.
+/Cividale/Cividale//Friaul-Ost/
+S$Konrad/kaiserl. Notar/Konrad
+V$Konrad/kaiserl. Notar/Konrad
+K$Konrad, der Sohn des Walchun, verkauft dem Johannes Carota ein Haus zum Preis
+von 25 Mark Agleier MÅnze.
+
+REG$Konrad, der Sohn des Walchun, verkauft dem Johannes Carota ein Haus zum Preis
+von 25 Mark Agleier MÅnze.
+F$ACC Perg. III/045/42/42
+G$Johannes Carota/X/X/X//
+E$Konrad/X/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$25/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio XXV marcarum Aquilegensis monete
+
+REG$Konrad, der Sohn des Walchun, verkauft dem Johannes Carota ein Haus zum Preis
+von 25 Mark Agleier MÅnze und gegen einen jÑhrlichen Zins in der Hîhe von unter
+anderem 3 Pfennigen Agleier MÅnze.
+F$ACC Perg. III/045/42/42
+G$Johannes Carota/X/X/X//
+E$Konrad/X/X/X//
+H$Zinsverpflichtung/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$solvendo tunc singulis annis nomine census dimidium congium vini pisonal. et
+III denarios Aquilegensis monete
+
+DOK$cand_02/1223.4.12/1223.4.12/1223 April 12/X/Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$Heinrich und Johannes Marzutto verzichten gegen Zahlung von zwei Mark
+Pfennigen vom Patriarchen Berthold von Aquileia auf eine Hîrige. ?
+
+REG$Heinrich und Johannes Marzutto verzichten gegen Zahlung von zwei Mark
+Pfennigen vom Patriarchen Berthold von Aquileia auf eine Hîrige.
+F$NAV NS 12/X/323/323
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Heinrich;Johannes Marzutto/X/X/X//
+H$Verzicht/Magd/unbestimmt/unbestimmt//
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$2 marche di danari
+B$nur Regest vorhanden
+
+DOK$cand_15/1228.10.15/1228.10.15/1228 Oktober 15/anno domini MCCXXVIII. XV. die
+intrante Octobri/Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Saladinus, der Sohn des Michael, und sein Sohn Bonosus verkaufen zum Preis
+von 5 Mark und 7 Pfund Pfennigen Agleier MÅnze ein Haus an den Altar des hl.
+BartholomÑus in Cividale unter der Bedingung, da· Wolfram und Dietmar mit je
+einer HÑlfte des Hauses zu einem jÑhrlichen Zins in der Hîhe von einem Pfennig
+Agleier MÅnze investiert werden.
+
+REG$Saladinus, der Sohn des Michael, und sein Sohn Bonosus verkaufen zum Preis
+von 5 Mark und 7 Pfund Pfennigen Agleier MÅnze ein Haus an den Altar des hl.
+BartholomÑus in Cividale unter der Bedingung, da· Wolfram und Dietmar mit je
+einer HÑlfte des Hauses zu einem jÑhrlichen Zins in der Hîhe von einem Pfennig
+Agleier MÅnze investiert werden.
+F$MSF 02/X/109f/109
+G$X/Kirche/Cividale/Cividale//Friaul-Ost/
+E$Saladinus/X/X/X//
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$5/marca/X
+O$7/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro pretio V marcharum et VII libr. denariorum Aquilegensis monete
+
+REG$Saladinus, der Sohn des Michael, und sein Sohn Bonosus verkaufen zum Preis
+von 5 Mark und 7 Pfund Pfennigen Agleier MÅnze ein Haus an den Altar des hl.
+BartholomÑus in Cividale unter der Bedingung, da· Wolfram und Dietmar mit je
+einer HÑlfte des Hauses zu einem jÑhrlichen Zins in der Hîhe von einem Pfennig
+Agleier MÅnze investiert werden.
+F$MSF 02/X/109f/109
+G$Wolfram;Dietmar/X/X/X//
+E$X/Kanoniker/Cividale/Cividale//Friaul-Ost/
+H$Zinsverpflichtung/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$I denarium Aquilegensis monete
+
+DOK$cand_30/1231.4.19/1231.4.19/1231 April 19/anno domini MCCXXXI. indictione IIII. XII. die exeunte
+aprilis/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Die BrÅder Rudolf und Leonhard u. Irmgard, die Frau des Rudolf, verkaufen dem
+Sebastian, dem Sohn des Ulrich Galinus, und dessen Frau Jakomina ein Haus in
+Cividale.
+
+REG$Die BrÅder Rudolf und Leonhard u. Irmgard, die Frau des Rudolf, verkaufen dem
+Sebastian, dem Sohn des Ulrich Galinus, und dessen Frau Jakomina ein Haus in
+Cividale zum Preis von 6 Mark Pfennigen? Agleier MÅnze.
+F$ACC Perg. III/096/80/80
+G$Sebastian;Jakomina/X/X/X//
+E$Rudolf;Leonhard;Irmgard/X/X/X//
+H$Kauf/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$6/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio VI marcarum denariorum? Aquilegensis monete
+B$zu sciv31 gehîrig - schwer leserliches Original
+
+REG$Die BrÅder Rudolf und Leonhard u. Irmgard, die Frau des Rudolf, verkaufen dem
+Sebastian, dem Sohn des Ulrich Galinus, und dessen Frau Jakomina ein Haus in
+Cividale zum Preis von 6 Mark Pfennigen? Agleier MÅnze und gegen einen
+jÑhrlichen Zins in der Hîhe von 3 Agleier Pfennigen.
+F$ACC Perg. III/096/80/80
+G$Sebastian;Jakomina/X/X/X//
+E$Rudolf;Leonhard;Irmgard/X/X/X//
+H$Zinsverpflichtung/Immobilien/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III den. Aquilegenses
+
+DOK$cand_08/1234.2.1/1234.2.14/1234 Februar 1 - 14/anno domini MCCXXXIIII. indictione VII. die \dots
+intrante febr./Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Palma, die Tochter des Johannes Baraterius, und Heinrich, der Sohn des Wariend
+von Cividale, schlie·en einen Ehevertrag. ?
+
+REG$Johannes Baraterius verspricht seiner Tochter Palma und Heinrich, dem Sohn des
+Wariend von Cividale, ihnen als Heiratsgut seiner Tochter innerhalb eines
+Jahres unter anderem 35 Mark Agleier MÅnze zu zahlen. ?
+F$BCU Ms. 1228,2/1/X/X
+F$BCU Ms. Joppi 369 Fasz. 4/17/1/1
+G$Johannes Baraterius/Genannter/Cividale/Cividale//Friaul-Ost/
+E$Palma;Heinrich/Genannter/Cividale/Cividale//Friaul-Ost/
+H$Heiratsgut/Geldsumme/unbestimmt/unbestimmt//  ?
+W$Aquileia/moneta/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$XXXV marcas Aquilegensis monete
+
+REG$Wariend von Cividale verspricht Johannes Baraterius und dessen
+Tochter Palma ihnen als Gegengabe fÅr das Heiratsgut 80 Mark Agleier MÅnze zu
+zahlen.
+F$BCU Ms. 1228,2/1/X/X
+F$BCU Ms. Joppi 369 Fasz. 4/17/1/1
+G$Wariend/Genannter/Cividale/Cividale//Friaul-Ost/
+E$Johann Baraterius/Genannter/Cividale/Cividale//Friaul-Ost/
+H$Gegengabe/Geldsumme/unbestimmt/unbestimmt//
+H$ ?Wadium/Wadium/unbestimmt/unbestimmt// HÑ ?
+W$Aquileia/moneta/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$octoginta marcas Aquilegensis monete
+B$Fortsetzung: vel tantum de suis bonis
+
+DOK$cand_10/1234.8.6/1234.8.6/1234 August 6/anno domini MCCXXXIIII. indictione VII. sexto die intrante
+Aug.?/Cividale/Cividale//Friaul-Ost/
+S$Jakob/X/Jakob
+V$Jakob/X/Jakob        wo Text???
+K$Martin seine Frau Taglia Haus ?
+
+REG$NN
+F$ACC Perg. III/116/100/100
+G$Martin/X/X/X//
+E$Talia/X/X/X//
+H$Heiratsgut/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Original
+
+DOK$cand_12/1235.6.10/1235.6.10/1235 Juni 10/anno domini MCCXXXV. indictione VIII. decimo die
+intrante Iunii/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Kuno Camerarius und seine Sîhne stellen eine Quittung fÅr Talia, die Frau des
+Baiamond, Åber 8 Mark Agleier Pfennig aus.
+
+REG$Kuno Camerarius und seine Sîhne stellen eine Quittung fÅr Talia, die Frau des
+Baiamond, Åber 8 Mark Agleier Pfennig aus.
+F$ACC Perg. III/118/102/102
+G$Talia/X/X/X//
+E$Kuno/KÑmmerer/X/X//
+H$BestÑtigung_Kauf/Zehnt?/Grions/Grions del Torre//Friaul-Mitte/
+W$Aquileia/moneta/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$VIII marcas Aquilegensis monete
+
+DOK$cand_26/1235.6.24/1235.6.24/1235 Juni 24/1235, ind.8.,6.ex. Juni/Cividale/Cividale//Friaul-Ost/
+S$Jakob/X/Jakob
+V$Jakob/X/Jakob
+K$Johannes de "Galano" (Gagliano) stellt fÅr Talia, die Gattin des Martin
+Guanzius, eine Quittung Åber eine Mark und 12 Pfennige fÅr ein LandstÅck in
+Rivolto) aus.
+
+REG$Johannes de "Galano" (Gagliano) stellt fÅr Talia, die Gattin des Martin
+Guanzius, eine Quittung Åber eine Mark und 12 Pfennige fÅr ein LandstÅck in
+Rivolto) aus.
+F$ACC Perg. III/120/104/104   wo Text???
+G$Talia/X/X/X//
+E$Johannes/Genannter/Gagliano/Gagliano//Friaul-Ost/
+H$BestÑtigung_Kauf/Immobilien/Rivolto/Rivolto//Friaul-Mitte/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$12/den./X/A
+Q$?
+B$nur anhand des Merkblattes erstellt
+
+DOK$cand_27/1235.7.1/1235.7.1/1235 Juli 1/1235 ind.8, 1 intr. Juli/Cividale/Cividale//Friaul-Ost/
+S$Jakob/X/Jakob
+V$Jakob/X/Jakob
+K$Monachus von Gagliano stellt fÅr Talia eine Quittung Åber 3,5 Mark fÅr ein
+GrundstÅck in Rivolto aus.
+
+REG$Monachus von Gagliano stellt fÅr Talia eine Quittung Åber 3,5 Mark fÅr ein
+GrundstÅck in Rivolto aus.
+F$ACC Perg. III/121/104/104
+G$Talia/X/X/X//
+E$Monachus/Genannter/Gagliano/Gagliano//Friaul-Ost/
+H$BestÑtigung_Kauf/Immobilien/Rivolto/Rivolto//Friaul-Mitte/
+W$X/X/
+O$3,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$nur nach dem Merkblatt gearbeitet
+
+DOK$cand_28/1241.4.2/1241.4.2/1241 April 2/anno domini MCCXLI indictione XIIII. secundo die intrante
+april./Cividale/Cividale//Friaul-Ost/
+S$Arnold/kaiserl. Notar/Arnold
+V$Arnold/kaiserl. Notar/Arnold
+K$Fuschubus, der Sohn des Martin, und Fantucius, sein Bruder, verkaufen dem
+Heinrich von Pertica einen Weingarten.
+
+REG$Fuschubus, der Sohn des Martin, und Fantucius, sein Bruder, verkaufen dem
+Heinrich von Pertica einen Weingarten in Grilows? zum Preis von 2 Mark und
+40 Agleier Pfennigen.
+F$ACC Perg. IV/007/8/8
+G$Heinrich de Pertica/X/Cividale Pertica/Cividale//Friaul-Ost/
+E$Fuschubus;Fantucius/X/X/X//
+H$Kauf/Immobilien_Weingarten/Grions/Grilons del Torre?/Grilows/wo??
+W$Aquileia/X/
+O$2/marca/X
+Z$X/X/X
+M$40/den./X/A
+Q$pro precio duarum marcharum denariorum Aquilegensium et quadraginta denariorum
+B$schlecht lesbares Original
+
+REG$Fuschubus, der Sohn des Martin, und Fantucius, sein Bruder, verkaufen dem
+Heinrich von Pertica einen Weingarten in Grions zum Preis von 2 Mark und
+40 Agleier Pfennigen und gegen einen jÑhrlichen Zins von unter anderem
+2 Agleier Pfennigen an die Kirche von S. Hylarus.
+F$ACC Perg. IV/007/8/8
+G$Heinrich de Pertica/X/Cividale/Cividale//Friaul-Ost/
+E$X/Kirche/Paderno S.Ilario/Paderno, S. Ilario/S. Hylarus/?/
+H$Zinsverpflichtung/Immobilien_Weingarten/Grions/Grions del
+Torre/Grilows/Friaul-Ost/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$duos denarios Aquilegenses
+
+DOK$cand_11/1241.11.10/1241.11.10/1241 November 10/anno domini MCCXLI. indictione
+XIIII. X. die intrante novembre/Cividale/Cividale//Friaul-Ost/
+S$Heinrich/kaiserl. Notar/Heinrich
+V$Heinrich/kaiserl. Notar/Heinrich
+K$Wargendus Åbergibt dem Leonhard ein sedimen und einen Garten in Grions gegen
+Zins.
+
+REG$Wargendus Åbergibt dem Leonhard ein sedimen und einen Garten in Grions gegen
+Zins. Au·erdem wird vereinbart, da· Wargendus ein Vorkaufsrecht um einen Preis,
+der um 8 Pfennige geringer als der SchÑtzwert? ist, besitzen soll.
+F$ACC Perg. IV/012/12/12
+G$Leonhard/X/X/X//
+E$Wargendus/X/X/X//
+H$Kauf_Abschlag/Immobilien/Grions/Grions del Torre//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$8 den. minus iusto precio
+B$schlecht leserliches Original
+
+DOK$cand_32/1245.7.22/1245.7.22/1245 Juli 22/anno domini MCCXLV. indictione III. die X. exeunte
+Iulii/Cividale/Cividale//Friaul-Ost/
+S$Jakob/kaiserl. Notar/Jakob
+V$Jakob/kaiserl. Notar/Jakob
+K$Pilgrim de Jamnic gibt Benevenuta, die Tochter des Marquard Scarzabasa,
+dem Raydiverus, genannt Zirbin, zur Frau und verspricht, 16 Mark Pfennige als
+Geschenk innerhalb eines Jahres zu zahlen, wÑhrend umgekehrt Raydiverus
+verspricht, 32 Mark Agleier Pfennige innerhalb eines Jahres der Benvenuta zu
+zahlen.
+
+REG$Pilgrim de Jamnic gibt Benevenuta, die Tochter des Marquard Scarzabasa,
+dem Raydiverus, genannt Zirbin, zur Frau und verspricht, 16 Mark Pfennige als
+Geschenk innerhalb eines Jahres zu zahlen, wÑhrend umgekehrt Raydiverus
+verspricht, 32 Mark Agleier Pfennige innerhalb eines Jahres der Benvenuta zu
+zahlen.
+F$ACC Perg. IV/033/32/32
+G$Pilgrim/Genannter/Jainich/Jainich/Jamnic/
+E$Benevenuta;Raydiverus Zirbin/X/X/X//
+H$Heiratsgut/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$16/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$vadiavit XVI marcas denariorum solvendas
+
+REG$Pilgrim de Jamnic gibt Benevenuta, die Tochter des Marquard Scarzabasa,
+dem Raydiverus, genannt Zirbin, zur Frau und verspricht, 16 Mark Pfennige als
+Geschenk innerhalb eines Jahres zu zahlen, wÑhrend umgekehrt Raydiverus
+verspricht, 32 Mark Agleier Pfennige innerhalb eines Jahres der Benvenuta zu
+zahlen.
+F$ACC Perg. IV/033/32/32
+G$Raydiverus Zirbin/X/X/X//
+E$Benevenuta/X/X/X//
+H$Heiratsgut/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$32/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$XXXII marcas denariorum Aquilegensium
+
+DOK$cand_33a/1247.10.13/1247.10.13/1247 Oktober 13/anno domini MCCXLVII. indictione V. terciodecimo die
+intrante octubri/Cividale/Cividale//Friaul-Ost/
+S$Anselm/kaiserl. Notar/Anselm  ist gleich ckap.dat 53a!
+V$Anselm/kaiserl. Notar/Anselm
+K$Petrix, die Frau des Wolricus, Jacut, der Sohn des Walrisse de Rubiaco, ein
+halbes Feld in Rubiaco
+
+REG$NN
+F$ACC Perg. IV/060/54/54
+G$Petrix/X/X/X//Friaul-Ost/
+E$Jacut/X/Rubignacco/Rubignacco//Friaul-Ost/
+H$Abzug vom SchÑtzwert/Immobilien/Rubignacco/Rubignacco//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./minus/Z
+Q$VIII den. minus iusto prezzo
+
+REG$NN
+F$ACC Perg. IV/060/54/54
+G$Petrix/X/X/X//Friaul-Ost/
+E$Jacut/X/Rubignacco/Rubignacco//Friaul-Ost/
+H$Ausgleichszahlung/Zins-équivalent/Rubignacco/Rubignacco//Friaul-Ost/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$  ?
+
+DOK$cand_17/1249.11.1/1249.11.1/1249 November 1/anno domini MCCXLVIIII. indictione septima
+in festo omnium sanctorum/Cividale/Cividale//Friaul-Ost/
+S$Anselm/kaiserl. Notar/Anselm
+V$Anselm/kaiserl. Notar/Anselm
+K$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze.
+
+REG$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze.
+F$MSF 02/X/110f/110
+G$Bergonia/dominus/Spilimbergo/Spilimbergo!//Friaul-West/
+E$X/Spital/Cividale/Cividale//Friaul-Ost/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$210/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ducentas et decem marchas Aquilegensis monete
+
+REG$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze, wovon 100 Mark, wie
+die Beauftragten bekennen, bezahlt worden sind.
+F$MSF 02/X/110f/110
+G$Bergonia/dominus/Spilimbergo/Spilimbergo!//Friaul-West/
+E$X/Spital/Cividale/Cividale//Friaul-Ost/
+H$Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$commissarii fuerunt confessi et manifesti sese fore plenarie solutos de centum
+marcis de supradictis ducentis et decem marchis
+
+REG$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze, wovon 100 Mark, wie
+die Beauftragten bekennen, bezahlt worden sind.
+F$MSF 02/X/110f/110
+G$Bergonia/dominus/Spilimbergo/Spilimbergo!//Friaul-West/
+E$X/Spital/Cividale/Cividale//Friaul-Ost/
+H$Zahlungsversprechen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$210/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$commissarii fuerunt confessi et manifesti sese fore plenarie solutos de centum
+marcis de supradictis ducentis et decem marchis
+
+REG$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze, wovon bereits 100 Mark
+bezahlt wurden. FÅr die restlichen 110 Mark gibt Bergonia dem Spital 6 Huben
+und eine MÅhle als Pfand.
+F$MSF 02/X/110f/110
+G$X/Spital/Cividale/Cividale//Friaul-Ost/
+E$Bergonia/dominus/Spilimbergo/Spilimbergo!//Friaul-West/
+H$PfandgeschÑft/Immobilien/uFriaul Selvella/uFriaul,Selvella//wo??
+W$X/X/
+O$110/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro aliis Centum et decem Marchis dedit \dots sex mansos et unum molendinum
+
+REG$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze, wovon bereits 100 Mark
+bezahlt wurden. FÅr die restlichen 110 Mark gibt Bergonia dem Spital 6 Huben
+und eine MÅhle als Pfand. Sollte diese Summe nicht innerhalb eines Jahres
+bezahlt werden, gehîren die genannten Immobilien dem Spital.
+F$MSF 02/X/110f/110
+G$Bergonia/dominus/Spilimbergo/Spilimbergo!//Friaul-West/
+E$X/Spital/Cividale/Cividale//Friaul-Ost/
+H$Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$110/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$predictas Centum et decem Marchas
+
+REG$Bergonia, Ritter von Spiguimberg, schenkt fÅr sein Seelenheil dem Hospital der
+Kirche des hl. Martin in Cividale 210 Mark Agleier MÅnze, wovon fÅr 10 Mark 12
+Betten gekauft werden sollen.
+F$MSF 02/X/110f/110
+G$Bergonia/dominus/Spilimbergo/Spilimbergo!//Friaul-West/
+E$X/Spital/Cividale/Cividale//Friaul-Ost/
+H$Schenkung_Widmung?/Mobilien?/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de aliis decem marchis ordinavit et precepit quod ex illis emantur duodecim
+lecti
+
+

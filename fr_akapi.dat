@@ -1,0 +1,2204 @@
+note *** Urkunden Aquileia Domkapitel
+        Aufnahme nach Editions-Konzept zum Zeitpunkt der Erstaufnahme
+
+note *** Einlesen der Rohdaten fr_akapi.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$akau_002/1064.5.14/1064.5.14/1064 Mai 14/anno ab incarnatione domini nostri Iesu Christi
+MLXIIII, II. idus maii/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$Antonius Bellonus/X/Antonius Bellonus
+K$Haduich, Gemahlin des Grafen Hermann, schenkt "Scrilach" dem Kapitel der
+Kirche zum hl. Hermagoras und Fortunatus in Aquileia zu einem Jahrtag fÅr sich.
+
+REG$Die Erben und Verwandten von Haduich, der Gemahlin des Grafen Hermann,
+haben das RÅckkaufsrecht fÅr "Scrilach" um 12 Bayrische
+Silberpfennige.
+F$Vale/X/55ff/63
+F$BCU Ms. Joppi 368 Fasz. 3/31/1f/1
+F$BCU Ms. Joppi 368 Fasz. 3/32/1f/1
+G$X/X/X/X//
+E$X/Altar/Aquileia/Aquileia,Hl.Hermagoras u.Fortunatus//Friaul-SÅd/
+H$RÅckkauf/Immobilien/unbestimmt/unbestimmt//
+W$Bayern/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./argenteus/Z
+Q$liberam potestatem redimendi suprascripta bona scilicet ut XII denarios
+argenteos bavaricos super altare sanctorum martyrum ponant
+B$BCU Ms. Joppi 368 Fasz. 3 Nr. 31 datiert 1063! Zwei Ausfertigungen einer
+Urkunde.?
+
+DOK$akau_006a/1173.0.0/1173.0.0/1173/anno ab incarnatione domini millesimo centesimo
+L.XXIII, indictione VI./Triest/Triest//Istrien/
+S$Vitalis/Triest/Vitalis
+V$Vitalis/Triest/Vitalis
+K$Johannes und seine "nepta" Glirosa verkaufen Hermann, dem KÑmmerer der
+Kirche von Aquileia, einen Weingarten in Triest um 21 Pfund Pfennige.
+
+REG$Johannes und seine "nepta" Glirosa verkaufen Hermann, dem KÑmmerer
+der Kirche von Aquileia, einen Weingarten in Triest um 21 Pfund Pfennige.
+F$CDI 1/151/289/289
+F$BCU Ms. Joppi 368 Fasz. 5/32/1/1
+G$Johannes;Glirosa/X/X/X//
+E$Hermann/KÑmmerer/Aquileia/Aquileia//Friaul-SÅd/
+H$Verkauf/Immobilien_Weingarten/Triest/Triest//Istrien/
+W$X/X/
+O$21/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$tu dedisti \dots libras denariorum XXI
+
+REG$Johannes und seine "nepta" Glirosa verkaufen Hermann, dem KÑmmerer
+der Kirche von Aquileia, einen Weingarten in Triest um 21 Pfund Pfennige. Wer
+dagegen handelt, mu· ein Pfund Gold als Strafe bezahlen.
+F$CDI 1/151/289/289
+F$BCU Ms. Joppi 368 Fasz. 5/32/1/1
+G$X/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$se compositurum auri libram unam
+
+DOK$akau_005/1171.10.28/1171.10.28/1171 Oktober 28/anno domini MCLXXI, indict. V. festo
+sanctorum Symonis et Jude/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Patriarch Ulrich [II.] von Aquileia lîst die villa Muzzana aus der Gewalt
+jener, die sich unrechtmÑ·ig in ihren Besitz gesetzt hatten, und Åbergibt sie
+den Kanonikern von Aquileia.
+
+REG$Patriarch Ulrich [II.] von Aquileia stiftet fÅr ein Anniversar unter anderem 8
+Pfennige.
+F$MSF 11/X/54ff/56
+G$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Anniversar/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$\dots urnam vini et VIII denariorum \dots
+
+DOK$akau_009/1177.7.20/1177.7.20/1177 Juli 20/anno dominice incarnationis MCLXXVII,
+indictione decima, XIII kal. augusti mensis/Venedig/Venedig//Brondolo?/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich I. nimmt das Domkapitel von Aquileia mit allen Besitzungen
+in seinen Schutz.
+
+REG$Kaiser Friedrich I. nimmt das Domkapitel von Aquileia mit allen Besitzungen in
+seinen Schutz. Wer dagegen handelt, mu· 100 Pfund reinsten Goldes als Strafe
+zahlen, wovon jeweils die HÑlfte der Fiskus und das Domkapitel bekommen
+sollen.
+F$MGH DF I3/685/199ff/200
+F$Ughelli 5/X/66ff/67
+F$Dumont Corpus dipl. 1/164/94/?
+F$LÅnig Cod.It.4/24/1546/?
+F$Studi Goriziani/7/143f/143 Zitat richtig?
+G$X/X/X/X//
+E$X/Fiskus/Rîm.Reich/Rîm. Reich//
+E$X/Propst;Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$pena centum librarum auri purissimi sit condemnatus
+
+DOK$akau_010/1180.4.3/1180.4.3/1180 April 3/anno dominicae incarnationis 1180, indictione
+13, tertio die intrante Aprili/Padua/Padua//Veneto/
+S$Konrad/Aquileia/Konrad
+V$Konrad/Aquileia/Konrad
+K$Patriarch Ulrich [II.] von Aquileia trifft Bestimmungen Åber die Feier des
+Festes der hl. Maria Magdalena im Kapitel von Aquileia.
+
+REG$Patriarch Ulrich [II.] von Aquileia gibt dem Kapitel von Aquileia fÅr die
+Feier des Festes der hl. Maria Magdalena  EinkÅnfte 1 Mark und 16 Friesacher
+Pfennige.?
+F$Migne 099/15/645f/646
+F$Scalon Dipl.Patr./5/29f/29
+F$Madrisius/X/264/?
+G$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Me·stiftung/Fest hl.M.Magdalena/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/X/
+O$1/marca/X
+Z$X/X/X
+M$16/den./X/Z
+Q$cuius fictum est una marca et XVI den(arii) frisac(enses)
+
+DOK$akau_011/1181.2.3/1181.2.3/1181 Februar 3/anno domini\c{e} incarnationis millesimo
+centesimo LXXXI., indictione XIIII., tercio die intrante februario/Aquileia/Aquileia//Friaul-SÅd/
+S$Konrad/Aquileia/Konrad
+V$Konrad/Aquileia/Konrad
+K$Patriarch Ulrich [II.] von Aquileia richtet im Kapitel von Aquileia die vita
+communis ein.
+
+REG$Patriarch Ulrich [II.] von Aquileia richtet im Kapitel von Aquileia die vita
+communis ein und bestimmt, da· Kanoniker, die studienhalber auswÑrts weilen,
+jÑhrlich eine halbe Mark als besonderen Lohn erhalten sollen.
+F$Scalon Dipl.Patr./6/31f/31
+F$Rubeis MEA/X/621ff/622
+F$Cappelletti Chiese 8/X/257ff/259?
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kanoniker/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$insuper gratia speciali dimidiam marcam annuatim obtineant
+
+DOK$akau_013/1183.10.24/1183.10.24/1183 Oktober 24/anno domini millesimo centesimo
+octuagesimo tertio, octavo die exeunte mensis octobris,
+indictione secunda/Caorle/Caorle//Friaul-SÅd/
+S$Petrus Venerus/Venedig/Petrus Venerus
+V$Petrus Venerus/Venedig/Petrus Venerus
+K$Notar der Caprulenses ecclesie - Kapitel von Aquileia (Zeugenaussagen)
+betreffs der Regelung innerer Angelegenheiten. -- Zitiert werden: 1181 II 2,
+Aquileia (Patr. Ulrich), 1182 X 29, Verona (P. Lucius).
+
+REG$Die Kanoniker von Aquileia Åberlassen ihrem Propst jÑhrliche EinkÅnfte in der
+Hîhe von 12 Mark.
+F$Scalon Doc.1183/1/127ff/135
+F$Migne 052/1/1135f/1135
+F$BCU Ms. Joppi 368 Fasz. 6/22/1ff/3
+F$BCU Ms. Joppi 368 Fasz. 6/23/1ff/3
+F$BCU Ms. Joppi 368 Fasz. 6/24/1ff/4
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Propst/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Renten/unbestimmt/unbestimmt//
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$nos optulimus preposito reditus duodecim marcarum annuatim
+B$ErwÑhnung bei einer Regelung interner Angelegenheiten
+
+REG$Die Verwandten des Propstes von Aquileia erklÑren, ohne öbergabe der
+Verwaltung auch mit 100 Mark EinkÅnften nicht zufrieden zu sein.
+F$Scalon Doc.1183/1/127ff/135
+F$Migne 052/1/1135f/       ?ausgelassen
+F$BCU Ms. Joppi 368 Fasz. 6/22/1ff/3
+F$BCU Ms. Joppi 368 Fasz. 6/23/1ff/3
+F$BCU Ms. Joppi 368 Fasz. 6/24/1ff/4
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Propst/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Renten/unbestimmt/unbestimmt//Friaul/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$propinqui sui dicebant quod nec etiam reditus centum marcarum reciperent
+B$ErwÑhnung bei einer Regelung interner Angelegenheiten
+
+REG$Die Kanoniker von Aquileia Åbergaben dem Propst jÑhrliche EinkÅnfte in der
+Hîhe von 12 Mark.
+F$Scalon Doc.1183/1/127ff/139
+F$Migne 052/1/1135f/1135
+F$BCU Ms. Joppi 368 Fasz. 6/22/1ff/10
+F$BCU Ms. Joppi 368 Fasz. 6/23/1ff/9
+F$BCU Ms. Joppi 368 Fasz. 6/24/1ff/12
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Propst/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Renten/unbestimmt/unbestimmt//Friaul/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$optulimus preposito redditus duodecim marcarum annuatim
+B$ErwÑhnung bei einer Regelung interner Angelegenheiten
+
+DOK$akau_026/1205.4.15/1205.4.15/1205 April 15/anno domini MCCV, indictione VIII, die
+veneris \dots XVI die intrante aprili/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Albertus Maudarius und seine Sîhne, mit Zustimmung der Grafen Meinhard von
+Gîrz, fÅr das Kapitel von Aquileia betr. Verkauf eines Besitzes zu Aquileia.
+
+REG$Albertus Maudarius und seine Sîhne bestÑtigen, fÅr den Verkauf eines Besitzes
+zu Aquileia 35 Mark Friesacher Geldes vom Kapitel Aquileia erhalten zu haben.
+F$MSF Basso/X/182/182
+G$Albert Maudarius/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Verkauf/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$prefati venditores fuerunt confessi se recepisse nomine venditionis precium
+XXXV marcarum frisacensis monete a predicta canonica pro subscripta
+possessione
+
+DOK$akau_028/1205.4.16/1205.4.16/1205 April 16/anno domini millesimo ducentesimo quinto
+indictione octava die Sabbati \dots XVI. die intrante
+Aprili/Bigliana/Bigliana//Friaul-Ost/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Albertus Maurdarius verkauft und Åbergibt in Gegenwart des Grafen Engelpertus
+de Gorz und mit seiner Zustimmung einen Allodialbesitz innerhalb genannter
+Grenzen in Aquileia dem Kapitel daselbst und erhÑlt dafÅr 35 Mark Friesacher
+MÅnze.
+
+REG$Albertus Maudarius bestÑtigt fÅr den Verkauf eines Besitzes
+zu Aquileia 35 Mark Friesacher Geldes vom Kapitel Aquileia erhalten zu haben.
+F$Reg. Gîrz 1/326/90/90
+F$AT NS 11 Joppi/10/391f/391
+F$Kos 5/087/55f/55
+G$Albert Maudarius/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$BestÑtigung/Kaufsumme/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Albertus ibi fuit confessus se recepisse precium nomine et re venditionis XXXV
+marchas frixacensis monete a predicta canonica pro  suprascripta possessione
+B$BestÑtigung des Verkaufes des Besitzes in Aquileia von A.Maudario
+
+DOK$akau_28aa/1205.4.16/1205.4.16/1205 April 16/XVI. die intrante
+Aprili/Bigliana/Bigliana/Biliana/nw.Nova Gorica/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Albertus Maurdarius, seine Gemahlin Perta und ihre Sîhne Fulcherus, Rampoldus
+und Pinosa verkaufen einen Allodialbesitz in Aquileia dem Kapitel mit Zustimmung
+des Grafen Engelbert von Gîrz.
+
+REG$Albertus Maurdarius verkauft einen Allodialbesitz in Aquileia dem Kapitel
+daselbst um 35 Mark Friesacher MÅnze.
+F$AT 11 Joppi DG/10/391f/391
+F$Kos 5/087/55f/55
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Albertus Maurdarius/X/X/X//
+H$Kauf/Immobilien_Allod/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$se recepisse precium nomine et re venditionis XXXV. marchas frixacensis
+monete a predicta Canonica pro suprascripta possessione
+
+DOK$akau_028a/1205.4.16/1205.4.16/1205 April 16/anno domini millesimo ducentesimo quinto
+indictione octava die Sabbati \dots XVI. die intrante
+Aprili/uFriaul Zerou/uFriaul,Zerou//Friaulwo??/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Albertus Maurdarius verkauft und Åbergibt in Gegenwart des Grafen Engelpertus
+de Gorz und mit seiner Zustimmung einen Allodialbesitz innerhalb genannter
+Grenzen in Aquileia dem Kapitel daselbst und erhÑlt dafÅr 35 Mark Friesacher
+MÅnze.
+
+REG$Albertus Maurdarius bestÑtigt fÅr den Verkauf eines Besitzes
+zu Aquileia 35 Mark Friesacher Geldes vom Kapitel Aquileia erhalten zu haben.
+F$Reg. Gîrz 1/325/90/90
+F$AT NS 11 Joppi/11/392f/393
+G$Albert Maurdarius/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$BestÑtigung/Kaufsumme/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Albertus ibi fuit confessus se recepisse precium nomine et re venditionis XXXV
+marchas frixacensis monete a predicta canonica pro  suprascripta possessione
+B$BestÑtigung des Verkaufes des Besitzes in Aquileia von A.Maudario
+
+DOK$akau_029/1206.4.28/1206.4.28/1206 April 28/anno domini MCCVI, indictione nona, die
+Veneris \dots III die exeunte Aprili/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Lazzara da Portis, Witwe des Andrea Paparelli, widmet den Kanonikern von
+Aquileia ein Legat gegen ein Anniversar fÅr ihre Tochter, fÅr ihren Gatten,
+und nach ihrem eigenen Tode auch fÅr sich selbst.
+
+REG$Lazzara da Portis, Witwe des Andrea Paparelli, gibt dem JohannesZukemann
+eine "beccaria" in Aquileia zu Aquileier Zins um 7 Pfund Friesacher MÅnze
+gegen angefÅhrte Leistungen zu vier Terminen jÑhrlich.
+F$Scalon Necr./1/407f/408
+G$Lazzara/X/Portis/Portis//Friaulwo??/
+E$X/Kapitel?/Aquileia/Aquileia//Friaul-SÅd/
+H$Verkauf?/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Lazara \dots dedit et investivit \dots beccariam sitam in Aquilegia \dots ad
+censum aquilegensem pro VII libris frixacensis monete \dots in anno per
+terminos
+
+REG$Lazzara da Portis, Witwe des Andrea Paparelli, gibt dem Johannes Zukemann
+eine "beccaria" in Aquileia zu Aquileier Zins um 7 Pfund Friesacher MÅnze
+gegen angefÅhrte Leistungen zu vier Terminen jÑhrlich, nÑmlich 15 Pfennige am
+Fest der hl. Felicitas an Stephan Cornutus.
+F$Scalon Necr./1/407f/408
+G$Johannes Zukemann/X/X/X//Friaul-SÅd/
+E$Stephan Cornutus/X/X/X//Friaul-SÅd/
+H$Zins/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$XV denarii Stephano Cornuto in festo sancte Felicitatis
+
+REG$Lazzara da Portis, Witwe des Andrea Paparelli, gibt dem Johannes Zukemann
+eine "beccaria" in Aquileia zu Aquileier Zins um 7 Pfund Friesacher MÅnze
+gegen angefÅhrte Leistungen zu vier Terminen jÑhrlich, nÑmlich 15 Pfennige am
+Fest der hl. Felicitas an Stephan Cornutus, von welchen dieser u.a. 14 Pfennige
+an das Kapitel von Aquileia zu zahlen hat.
+F$Scalon Necr./1/407f/408
+G$Stephan Cornutus/X/X/X//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlung/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$Stephanus dat XIIII canonicis Aquilegensibus
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Lazzara da Portis, Witwe des Andrea Paparelli, gibt dem Johannes Zukemann
+eine "beccaria" in Aquileia zu Aquileier Zins um 7 Pfund Friesacher MÅnze
+gegen angefÅhrte Leistungen zu vier Terminen jÑhrlich, nÑmlich 15 Pfennige am
+Fest der hl. Felicitas an Stephan Cornutus, der davon u.a. am 5. Februar 6
+Pfennige dem Kapitel zu Aquileia fÅr Anniversar fÅr die Tochter der genannten
+Lazzara zu geben hat.
+F$Scalon Necr./1/407f/408
+G$Stephan Cornutus/X/X/X//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Anniversar/Anniversar/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$VI cum dimidia quartara vini in V die intrante Februario pro anniversario
+filie predicte Lazare
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Lazzara da Portis, Witwe des Andrea Paparelli, gibt dem Johannes Zukemann
+eine "beccaria" in Aquileia zu Aquileier Zins um 7 Pfund Friesacher MÅnze
+gegen angefÅhrte Leistungen zu vier Terminen jÑhrlich, nÑmlich 15 Pfennige am
+Fest der hl. Felicitas an Stephan Cornutus, der davon u.a. am 28. MÑrz 6
+Pfennige fÅr ein Anniversar fÅr Andrea Paparelli zu geben hat.
+F$Scalon Necr./1/407f/408
+G$Stephan Cornutus/X/X/X//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Anniversar/Anniversar/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$VI cum dimidia quartara vini suprascriptis canonicis IIII die exeunte Martio
+pro anniversario predicti Andree Paparelli
+B$"Den." aus dem Zusammenhang erschlossen.
+
+DOK$akau_030/1206.11.11/1206.11.11/1206 November 11/anno domini MCCVI. indictione nona die
+Sabati \dots XI intrante Novembre/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Petrus Aquilegen. qui moratur civitati de Foroiuli fÅr das Kapitel von
+Aquileia betr. Besitz zu Aquileia.
+
+REG$Petrus Aquilegen. qui moratur civitati de Foroiuli verkauft dem Kapitel von
+Aquileia Besitz zu Aquileia zum Preis von 6 Mark Friesacher Geldes.
+F$ACU Coll. Bini 65, D.v. I/21/60r/60r
+F$BCU Ms. Joppi 369 Fasz. 1/28/1/1
+G$Petrus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$6/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Petrus Aquilegen. qui moratur civitati de foro iulii \dots vendidit et
+tradidit quandam suam possessionem de alodia sitam in Aquilegia \dots pro pretio
+sex marc. frixacensis monete
+
+REG$Strafbestimmung in der Hîhe von 10 Mark reinen Silbers.
+F$ACU Coll. Bini 65, D.v. I/21/60r/60r
+F$BCU Ms. Joppi 369 Fasz. 1/28/1/1
+G$Petrus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$sub pena X mar. puri argenti
+
+DOK$akau_032/1209.1.13/1209.1.13/(1209) JÑnner 13/anno Dominice incarnationis MCCVIII. idus
+ianuarii, indictione XII./Augsburg/Augsburg//Schwaben/
+S$X/X/X
+V$X/X/X
+K$Kînig Otto IV. nimmt auf Verwendung des Patriarchen Wolfger von Aquileia
+die dortige Hauptkirche in seinen besonderen Schutz und bestÑtigt dem
+zugehîrigen Domkapitel genannte Besitzungen und Rechte in Friaul, vor allem den
+Verzicht des Agleier Kirchenvogtes Burkhard und des Heinrich, worin diese
+beiden in die Hand des Patriarchen Ulrich [II.] der Vogeigerichtsbarkeit
+Åber die Agleier KirchengÅter entsagen.
+
+REG$Strafbestimmung in der Hîhe von 100 Pfund reinen Silbers.
+F$Dorigo-Viani/018/303ff/305
+F$AT NS 02/X/193ff/195
+F$Rubeis MEA/X/638, 663/  ?
+F$AôG 21 Bianchi/X/179/179
+G$X/X/X/X//
+E$X/Fiskus/Rîm.Reich/Rîm. Reich//
+E$X/Propst;Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$pena centum librarum auri purissimi sit condemnatus, quarum media pars fischo,
+residua pars preposito et canonicis ecclesie persolvatur
+
+DOK$akau_034/1210.11.8/1210.11.8/1210 November 8/anno domini 1210 indict. 14, 6 id.
+Novemb./Fiumicello/Fiumicello//Friaul-Ost/
+S$Diethalm/Aquileia/Diethalm
+V$Diethalm/Aquileia/Diethalm
+K$Patriarch Wolfger von Aquileia fÅr das Kapitel von Aquileia betr. öbergabe
+der Pfarre Pozzuolo. Not. Detalmus, Kapellan des Patriarchen Wolfger.
+
+REG$EinkÅnfte von der Pfarre Pozzuolo in der geschÑtzten Hîhe von 24 Mark.
+F$Ughelli 5/X/79f/79
+G$X/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien_Pfarre/Pozzuolo/Pozzuolo//Friaul,S.151/
+W$X/X/
+O$24/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de redditibus plebis illius estimatis coram nobis ad XXIIII march. citra
+prebendam sacerdotum ibi constituendorum camerarius qui pro tempore fuerit
+sexdecim marchas ad meliorationem ornatus ecclesie et camere thesaur.
+B$Erhîhung von Zinszahlungen von 16 Mark auf 24 Mark. Zahlung von
+Spesen 8 Mark.
+
+REG$Von den EinkÅnften von der Pfarre Pozzuolo sollen 16 Mark fÅr die
+Kirchenausstattung der Kirche von Aquileia verwendet werden.
+F$Ughelli 5/X/79f/79
+G$X/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Kirchenausstattung/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$16/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de redditibus plebis illius estimatis coram nobis ad XXIIII march. citra
+prebendam sacerdotum ibi constituendorum camerarius qui pro tempore fuerit
+sexdecim marchas ad meliorationem ornatus ecclesie et camere thesaur.
+B$Erhîhung von Zinszahlungen von 16 Mark auf 24 Mark. Zahlung von
+Spesen 8 Mark.
+
+REG$Von den EinkÅnften von der Pfarre Pozzuolo sollen 8 Mark fÅr
+Aufwendungen verwendet werden.
+F$Ughelli 5/X/79f/79
+G$X/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Aufwendungen/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$reliquas octo marchas de iamdictis redditibus estimatas ipse camerarius ad
+usus suos habeat pro laboribus et expensis
+B$Erhîhung von Zinszahlungen von 16 Mark auf 24 Mark. Zahlung von
+Spesen 8 Mark.
+
+REG$Festsetzung der Geldsumme fÅr die Kirchenausstattung auf 16 Mark (Verbot von
+AbschlÑgen).
+F$Ughelli 5/X/79f/79
+G$X/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Kirchenausstattung/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$16/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$nec \dots pretaxata quantitas XVI marcharum aliquatenus diminuatur
+B$Erhîhung von Zinszahlungen von 16 Mark auf 24 Mark. Zahlung von
+Spesen 8 Mark.
+
+DOK$akau_036/1211.5.9/1211.5.9/1211 Mai 9/X/Fiumicello/Fiumicello//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$EinkÅnfteliste -- Kunigunde von Gemona stiftet der Kirche von Aquileia je ein
+Pfund Weihrauch und Wachs, desgleichen Emilia von Gemona.
+
+REG$Emilia von Gemona zahlt der Kirche von Aquileia einen Pfennig als Bu·e.
+? Fiumicello-Urkunde 1211 in Druck noch generell ÅberprÅfen ?
+F$NAV NS 12/X/322/322
+G$Emilia/X/Gemona/Gemona//Friaul-Mitte/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Bu·zahlung/unbestimmt/unbestimmt// ?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$un denaro
+B$zu Weihnachten noch einmal ?
+
+DOK$akau_036a/1211.10.2/1211.10.2/1211 Oktober 2/anno domini millesimo CCXI, indictione
+XIIII, die dominico \dots secundo die intrante Octubre/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/Aquileia/Albert
+V$Albert/Aquileia/Albert
+K$Stephanus de Foro fÅr Kanoniker bzw. Frauenkloster von Aquileia u.a.m. betr.
+Testament.
+
+REG$Stefan de Foro hinterlÑ·t der Domkirche in Aquileia eine Mark Agleier
+MÅnze. ? prÅfen
+F$ACU Cod. 54/088/70/70
+F$ACU Bini 64/15/61r oder v ? prÅfen, ob alle Einzelheiten auch hier ?/61r ?
+F$ACU Coll. Bini 65?, D.v. I/23/61/61 ? prÅfen ob Einzelheiten auch hier ?
+F$BCU Ms. Joppi 369 2/5/?/?
+F$ASMA/51b/11f/11
+G$Stefan de Foro/Genannter/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia,ecclesia maior//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$unam marcharum monet\c{e} Aquilegiensis
+B$akau_047, 1219.4.12, 1219 April 12, 1219, i.7,12.intr.april, Aquileia, Friaul-SÅd
+ist offensichtlich nur eine beglaubigte Abschrift dieser Urkunde ?
+
+REG$Stefan de Foro hinterlÑ·t dem Frauenkloster in Aquileia eine halbe Mark
+Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/11
+G$Stefan de Foro/Genannter/Aquileia/Aquileia//wo?? wie oben
+E$X/Kloster/Aquileia/Aquileia,S. Maria//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$dimidiam marcham denariorum
+
+REG$Stefan de Foro hinterlÑ·t dem hl. Stephan von Aquileia eine halbe Mark.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/11
+G$Stefan de Foro/Genannter/Aquileia/Aquileia//wo?? wie oben
+E$Hl. Stephan/?/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$dimidiam marcam
+
+REG$Stefan de Foro hinterlÑ·t dem Spital in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/11
+G$Stefan de Foro/X/Aquileia/Aquileia//wo? wie oben
+E$X/Spital/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$quadraquinta denarios
+
+REG$Stefan de Foro hinterlÑ·t dem Kloster von Rosazzo eine halbe Mark.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/11
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??  wie oben
+E$X/Kloster/Rosazzo/Rosazzo//Friaul-Ost/
+H$Testament/Legat/Rosazzo/Rosazzo//Friaul-Ost/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dimidiam marcham monosterio de Rosacio
+
+REG$Stefan de Foro hinterlÑ·t verschiedenen Klîstern in Aquileia eine halbe Mark.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/11
+G$Stefan de Foro/X/Aquileia/Aquileia//wo?
+E$X/Klîster,div./Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$monsterio de Belinia dimidiam marcham
+
+REG$Stefan de Foro hinterlÑ·t verschiedenen Kirchen in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$X/Kirchen,div./Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$quadraginta denarios
+
+REG$Stefan de Foro hinterlÑ·t der S. Iulian Kirche in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$S. Iulian/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$sancto Iuliano quadraginta denarios
+
+REG$Stefan de Foro hinterlÑ·t der S. Margareta de Amphora Kirche in Aquileia 40
+Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$S. Margareta de Amphora/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$sancte Margarete de Amphora quadraginta denarios
+
+REG$Stefan de Foro hinterlÑ·t der S. Cosmus u. Damian Kirche in Aquileia
+40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$S. Cosmus u. Damian/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$sancto Cosme et Damiano quadraginta denarios
+
+REG$Stefan de Foro hinterlÑ·t der S. Vitus de Marian Kirche in Aquileia 40
+Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$S. Vitus de Marian/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$sancto Vito de Mariano quadraginta denarios
+
+REG$Stefan de Foro hinterlÑ·t der S. ? Kirche in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??  wie oben
+E$S. ?/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$quadraginta denarios ad opus ecclesie
+
+REG$Stefan de Foro hinterlÑ·t der S. Syrus Kirche in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo?? wie oben
+E$S. Syrus/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$sancto Syro \dots quadraginta denarios ad opus ecclesie
+
+REG$Stefan de Foro hinterlÑ·t der S. ? Kirche in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$S. ?/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$ecclesie Omnium sanctorum et quadraginta denarios ad opus ecclesie
+
+REG$Stefan de Foro hinterlÑ·t der S. Silvester Kirche in Aquileia 40 Pfennige.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$S. Silvester/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$ad opus ecclesie sancti Silvestri viginti denarios
+
+REG$Stefan de Foro hinterlÑ·t seinem Verwandten Ranardus 2 Mark.
+F$ACU Cod. 54/088/70/70
+F$ASMA/51b/11f/12
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??
+E$Ranardus/X/X/X//
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$consobrino meo Ranardo II marcas
+
+DOK$akau_037/1213.9.2/1213.9.2/1213 September 2/anno domini Millesimo CC.XIII. indictione
+prima die secundo intrante Septembris/Magnano/Magnano
+i.Riviera/Mangnano/Friaul
+S$Omnebonum/X/Ognibene
+V$Omnebonum/X/Ognibene
+K$Leonardus de Mangnano und sein Sohn Valentinus fÅr Dekan Stephan von Aquileia
+betr. Verkauf von 3 "bagarcios" zu Mangnano.
+
+REG$Leonardus de Mangnano verkauft dem Dekan Stephan von Aquileia 3 "bagarcios" zu
+Mangano um 3 Mark.
+F$BAU Ms.152/7/15/15
+G$Stefan/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Leonhard/Genannter/Magnano/Magnano//Friaul wo??/
+H$Verkauf/Immobilien/Magnano/Magnano//Friaul/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$nomine venditionis et pretio trium marcharum
+
+REG$Strafbestimmung in der Hîhe von 10 Mark.
+F$BAU Ms.152/7/15/15
+G$Leonhard/X/Magnano/Magnano//Friaul wo??/
+E$Stefan/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena X marcarum
+
+REG$Leonhard de Mangnano erhÑlt 3 "baiarcii" zu Mangnano vom Dekan Stephan von
+Aquileia zurÅck und hat dafÅr zeitlebens jÑhrlich zu Weihnachten 36 Pfennige
+Agleier Geldes zu entrichten.
+F$BAU Ms.152/7/15/15
+G$Leonhard/X/Magnano/Magnano//Friaul   wo??/
+E$Stefan/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/Magnano/Magnano//Friaul wo??/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$36/den./X/Z
+Q$annuatim in Nativitate domini XXXVI denarios Aquilegensis monete eidem
+canonice persolvant
+
+DOK$akau_047/1219.4.12/1219.4.12/1219 April 12/1219, i.7,12.intr.april/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/X/Albert ?
+V$Omnebonum/X/Omnebonum
+K$Notar Omnebonum fertigt fÅr die Kanoniker und das Frauenkloster von Aquileia
+eine Urkundenabschrift an.
+                           ???inserierte Urkunde nicht nochmals aufgenommen
+REG$NN
+F$ACU Coll. Bini 65?, D.v. I/23/61/61
+G$Stefan de Foro/X/Aquileia/Aquileia//wo??/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$/Kirchen,div./Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/  X  /X/??
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$40/den./X/A
+Q$\dots dimidiam marcam denariorum \dots XL denarios \dots
+B$Eine BestÑtigungsurkunde des Testaments von 1211 nach dem Tod von
+Stefano de Foro.
+
+DOK$akau_048/1222.5.5/1222.5.5/1222 Mai 5/anno domini millesimo ducentesimo vigesimo
+secundo indictione die Iovis \dots quinto die intrante
+Maiio/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$Archidiakon Heinrich fÅr das Kapitel von Aquileia betr. RÅckstellung.
+
+REG$Heinrich de Villalta zahlt jÑhrlich zu St. Jakobus und Philippus eine Mark
+Agleier MÅnze Zins an das Kapitel von Aquileia.
+F$ACU Cod. 54/096/76/76
+F$BCU Ms. Joppi 369 Fasz. 3/16/1f/1
+F$BCU Ms. Joppi 369 Fasz. 3/17/1f/1 besser
+G$Heinrich/Archidiakon/Aquileia/Aquileia//Friaul-SÅd/
+G$Heinrich/Genannter/Villalta/Villalta//Friaul-Mitte/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim in festo Sanctorum Iacobi et Philippi unam marcham Aquilegensis
+monete solvendo \dots capitulo
+B$Zinszahlung fÅr GÅter, HÑuser etc. in Aquileia
+In Joppi Nr. 16 fehlt Aquileia-Hinweis
+
+DOK$akau_051/1224.6.21/1224.6.21/1224 Juni 21/anno domini MCCXXIIII., indictione XII.,
+die veneris \dots X. die exeunte iunio/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/kaiserl. Notar/Albert
+V$Albert/kaiserl. Notar/Albert
+K$TauschgeschÑft zwischen dem Kapitel von Aquileia und dem Kloster von Rosazzo.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier MÅnze.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/1
+F$ACU Coll. Bini DH IV/79/X/X
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kloster/Rosazzo/Rosazzo//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena centum marcarum monete Aquileg(ensis)
+B$Bei Bini falsches Jahr 1244
+
+REG$Strafbestimmung in der Hîhe von 100 Mark.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/1
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kloster/Rosazzo/Rosazzo//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena centum marcarum defensare
+
+REG$JÑhrliche EinkÅnfte von Besitzungen in der Hîhe von 39 Agleier Pfennigen.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/2
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/X/X/X//
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$39/den./X/Z
+Q$que?? reddunt annuatim triginta et novem denarios Aquilegensis
+B$von 39 den. stammen 6 den. aus FischpfrÅnden. "moneta" aus Joppi.
+
+REG$JÑhrliche EinkÅnfte von Besitzungen in der Hîhe von 39 Pfennigen.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/2  nicht! sondern 34?
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/X/X/X//
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$39/den./X/Z
+Q$triginta et novem denariis
+B$von 39 den. stammen 6 den. aus FischpfrÅnden
+
+REG$EinkÅnfte in der Hîhe von 6 Pfennigen.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/2
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/X/X/X//
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$sex denari??
+B$von 39 den. stammen 6 den. aus FischpfrÅnden
+
+REG$EinkÅnfte in der Hîhe von 6 Pfennigen, die Jakob de Saluia zahlt.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/2
+G$Jakob/Genannter/Aquileia/Aquileia,Salvia/Saluia/wo??Selva
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$Iacobus de Saluia sex
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte in der Hîhe von 6 Pfennigen, die Martin, einst Claviger des
+Agleier Erzdiakons, zahlt.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/2
+G$Martin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$Martinus quondam clavige? Aquil(egensis) archid(iacon?) sex denari(os)
+
+REG$EinkÅnfte in der Hîhe von 1 Pfennig (?), die Mergart zahlt.
+F$ACU Sez. IV/23/52/52
+F$BCU Ms. Joppi 369 Fasz. 3/29/1f/2   unum? den.
+G$Mergart/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien?/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$Mergart \dots unum denari(um)
+
+DOK$akau_056/1228.1.12/1228.1.12/1228 JÑnner 12/anno domini MCCXXVIII, duodecimo die
+intrante mense ianuario, indictione V/Aquileia/Aquileia//Friaul-SÅd/
+S$Konrad/kaiserl.Notar/Konrad
+V$Konrad/kaiserl.Notar/Konrad
+K$Rupertus von Tricano fÅr Dekan Konrad und das Kapitel von Aquileia btr.
+Wadium.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark.
+F$Dorigo-Viani/006/424/424
+G$Rupert/Genannter/RivedArcano/Arcano di Rive d' Arcano/Tricano/Friaul-Mitte/
+E$Konrad/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena C marcharum
+
+DOK$akau_058a/1228.2.18/1228.2.18/1228 Februar 18/anno a nativitate eiusdem MCCXXVIII,
+indictione prima, die duodecimo mensis februarii exeuntis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/X/Romanus
+V$Romanus/X/Romanus
+K$Abt Azzo von Moggio und der Scholaster Leonhard von Aquileia entscheiden als
+Schiedsleute zwischen dem Kapitel von Aquileia einerseits und den Rittern
+Leonhard und Pilgrim von Gringula andererseits wegen seiner Hube zu Vendoglio
+zugunsten des Kapitels. Dieses soll jedoch dem verlierenden Teil bis zum
+nÑchsten Pfingstfest [14. Mai 1228] 32 Pfund kleiner venezianischer MÅnze
+entrichten.
+
+REG$Strafbestimmung in der Hîhe von 50 Mark Silber.
+F$Moggio/56/113/113
+G$Leonhard;Pilgrim/Genannter/Artegna/Pozzolate di Artegna??/Gringula/Friaul-wo??/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/bonum;purum/Z
+Q$sub pena quinquaginta marcarum boni et puri argenti proprie debite prefato
+capitulo solventes
+
+REG$Abt Azzo von Moggio und der Scholaster Leonhard von Aquileia entscheiden als
+Schiedsleute zwischen dem Kapitel von Aquileia einerseits und den Rittern
+Leonhard und Pilgrim von Gringula andererseits wegen seiner Hube zu Vendoglio
+zugunsten des Kapitels. Dieses soll jedoch dem verlierenden Teil bis zum
+nÑchsten Pfingstfest [14. Mai 1228] 32 Pfund kleiner venezianischer MÅnze
+entrichten.
+F$Moggio/56/113/113
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Leonhard;Pilgrim/Genannter/Artegna/Pozzolate di Artegna ??/Gringula/Friaul-wo??/
+H$Ablîse/Immobilien/Vendoglio/Vendoglio//Friaul-Mitte/
+W$Venedig/X/
+O$32/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$illis militibus XXXII libra Ven(etorum) parvorum usque ad pentecosten proximo
+venturum integraliter solverent
+
+DOK$akau_066/1228.5.7/1228.5.7/1228 Mai 7/anno domini MCCXXVIII, septima die intrante
+mense maio, indictione prima/Aquileia/Aquileia//Friaul-SÅd/
+S$Konrad/X/Konrad
+V$Konrad/X/Konrad
+K$In Gegenwart des Patriarchen Bertold von Aquileia wird von den BrÅdern
+Bertoldo und Ruperto di Tricano einerseits und dem Kapitel von Aquileia
+andererseits der Streit um die Vogtei Åber das Dorf de Ripis ausgetragen. Die
+Entscheidung ist den 4 Schiedsrichtern Eppo, Propst von S. Pietro in Carnia,
+Duringo, Propst von S. Felice, Cono di Osoppo und Giseloldo di Medea
+anvertraut.
+Als Zeugen sagen aus Enricus, Bischof von Brixen, ehemals Archidiakon von
+Aquileia, und  Giovanni tesoriere; letzterer behauptet, das Kapitel hÑtte zu
+Ripis die Vogteigerichtsbarkeit innegehabt und ohne jemandes Widerspruch Åber
+Blut und alle anderen FÑlle gerichtet und dortselbst seinen Gastalden
+unterhalten.
+ -- Der Schiedsspruch entscheidet, da· die BrÅder di Tricano in die
+Hand des Patriarchen und Konrads des Dekans von Aquileia auf alle
+Vogteigerechtsame Åber Ripis verzichten sollten, was sie auf der Stelle tun.
+DafÅr soll ihnen das Kapitel 4 Mansen in Tricano Åberlassen und 100 Pfund
+kleiner Venezianer zahlen.
+
+REG$Im Streit um die Vogtei Åber das Dorf de Ripis entscheiden die vier
+Schiedsrichter, da· die BrÅder Bertoldo und Ruperto di Tricano in die Hand des
+Patriarchen und Konrads des Dekans von Aquileia auf alle Vogteigerechtsame
+verzichten sollten, wofÅr ihnen das Kapitel 4 Mansen in Tricano Åberlassen und
+100 Pfund kleiner Venezianer zahlen soll.
+F$Dorigo-Viani/090/319ff/320
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Bertoldo;Ruperto/Genannter/RivedArcano/Arcano di Rive d' Arcano/Tricano/Friaul-wo??/
+H$EntschÑdigung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum libras venetorum parvorum precipimus vobis supradictis fratribus hinc
+ad Nativitatem B. Marie Virginis proximam venturam daturos
+
+DOK$akau_067/1228.6.19/1228.6.19/1228 Juni 19/anno a nativitate eiusdem MCCXXVIII
+indictione prima die duodecimo mensis Iunii exeuntis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/kaiserl.Notar/Romanus
+V$Romanus/X/Romanus
+K$Kompromi· im Streit zwischen dem Kapitel zu Aquileia und den Herren von
+Castello.
+
+REG$Strafbestimmung in der Hîhe von 500 Mark Silber.
+F$ACU Sez. IV/03/[2,3]/X
+G$X/Herren/CastellodiPorpetto/Castello di Porpetto//Friaulwo??/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/bonum;purum/Z
+Q$sub pena quingentarum marcarum boni et puri argenti
+
+DOK$akau_069/1229.2.23/1229.2.23/1229 Februar 23/anno domini MCCXXIX
+sexta die exeunte Februario, indictione secunda/Aquileia/Aquileia//Friaul-SÅd/
+S$Konrad/X/Konrad
+V$Konrad/X/Konrad
+K$Das Kapitel von Aquileia und Hartwig und Friedrich von Castello treffen
+ein Abkommen btr. Marano.
+
+REG$Strafbestimmung in der Hîhe von 8 Pfennigen.
+F$Dorigo-Viani/097/323f/323
+F$Caroncini, Castello App. II/5/1ff/2
+G$Hartwig;Friedrich/Genannter/CastellodiPorpetto/Castello di Porpetto//Friaul
+wo??/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$solvet capitulo aut ipsius nuncio VIII denarios
+
+REG$EinkÅnfte des Kapitels von Aquileia zu Griers und Bagnaria.
+F$Dorigo-Viani/097/323f/324
+F$Caroncini, Castello App. II/5/1ff/2
+G$Hartwig;Friedrich/X/CastellodiPorpetto/Castello di Porpetto//Friaulwo??/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Gris/Gris ?/Griers/wo??
+H$EinkÅnfte/Immobilien/BagnariaArsa/Bagnaria/Bagnaria/Bagnara Arsa
+W$X/X
+O$2/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$redditus duarum marcharum argenti puri annuatim assignabunt capitulo memorato
+B$EinkÅnfte zu Griers u.Bagna(riam) an das Kapitel
+
+REG$Strafbestimmung in der Hîhe von 500 Mark Silber.
+F$Dorigo-Viani/097/323f/324
+F$Caroncini, Castello App. II/5/1ff/3
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Hartwig;Friedrich/X/CastellodiPorpetto/Castello di Porpetto//Friaulwo??/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$sub pena quingentarum marcharum argenti puri
+
+DOK$akau_070/1229.8.15/1229.8.15/1229 August 15/anno a nativitate eiusdem MCCXXVIIII,
+indictione secunda, die quintodecimo mensis augusti
+introeuntis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/X/Romanus
+V$Romanus/X/Romanus
+K$Cono miles de castro Muruz fÅr Dekan Konrad und das Kapitel von Aquileia btr.
+TauschgeschÑft (2 Huben zu Cornio usw.).
+
+REG$Strafbestimmung in der Hîhe von 10 Mark reinen und besten Silber.
+F$ACU Sez. IV 52/24/X/X
+G$Cono miles de castro/X/Moruzzo/Moruzzo//Friaul-Mitte
+E$Konrad/Dekan/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/bonum;purum;optimum/Z
+Q$sub pena X marcarum boni et puri atque optimi argenti
+
+DOK$akau_073/1230.4.15/1230.4.15/1230 April 15/anno domini MCCXXX, ind.
+III, die Lune \dots XV die intrante Aprili/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/X/Andreas
+V$Andreas/X/Andreas
+K$Johannes Beneventanus fÅr Dominikaner- und Minoritenkloster in Venedig u.a.m.
+betr. Testament.
+
+REG$Johannes Beneventanus hinterlÑ·t dem Kloster der Dominikaner in Venedig 10
+Schilling Denarii grossi.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Dominikaner/Kloster/Venedig/Venedig//Veneto/
+H$Testament/Legat/Venedig/Venedig//Veneto/
+W$Venedig?/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./grossus/Z
+Q$pro anima sua dimittens fratribus predicatoribus de Veneciis X sol. denariorum
+grossorum
+
+REG$Johannes Beneventanus hinterlÑ·t dem Kloster der Minoriten in Venedig 10
+Schilling Denarii grossi.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Minoriten/Kloster/Venedig/Venedig//Veneto/
+H$Testament/Legat/Venedig/Venedig//Veneto/
+W$Venedig?/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./grossus/Z
+Q$pro anima sua dimittens \dots fratribus minoribus X sol.
+den. grossorum
+
+REG$Johannes Beneventanus hinterlÑ·t dem Spital der Cruciati [laut Scalon
+Deutschordensspital in Vendoglio] 20 Schilling Denarii grossi.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Cruciati/Spital/Vendoglio [fraglich]/Vendoglio [fraglich]//Friaul wo??/
+H$Testament/Legat/Vendoglio [fraglich]/Vendoglio [fraglich]/Vengoglio/Friaul
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./grossus/Z
+Q$hospitali S. Marie Cruciatorum XX sol. denariorum grossorum
+
+REG$Johannes Beneventanus hinterlÑ·t dem Kapitel von Aquileia aus den PfrÅnden
+eine Mark Agleier MÅnze.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$prebendam suam totam Aquilegensem exceptis V m(archis) de quibus detur I
+m(archa) Aquilegensis monete canonicis Aquilegensis ecclesie pro allodio emendo
+B$aus den PfrÅnden von 5 Mark
+
+REG$Johannes Beneventanus hinterlÑ·t dem SchildtrÑger Perenger aus den PfrÅnden
+4 Mark.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Perenger/SchildtrÑger/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$IIII m(arche) Perengerio scutifero suo
+B$aus den aus seiner PfrÅnde ausgenommenen 5 Mark, fÅr den Fall einer
+(Pilger-)Fahrt Åber See. Unmittelbar vorher eine Mark Aquileier genannt, aus
+diesem Zusammenhang Agleier WÑhrung wahrscheinlich.
+
+REG$Johannes Beneventanus hinterlÑ·t dem SchildtrÑger Perenger 2 Mark.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Perenger/SchildtrÑger/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$Aquileia?/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Perengerio II m(archas)
+
+REG$Johannes Beneventanus hinterlÑ·t der Jakomina, wenn sie heiratet eine Mark.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Jacomina/puella/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$Aquileia?/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Iacomine pulle I m(archam) cum nupserit
+B$wenn sie heiratet
+
+REG$Johannes Beneventanus hinterlÑ·t der S. Stephan Kirche 12 Pfennig.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$S. Stephan/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia?/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$ecclesie S. Stephani XII den.
+
+REG$Johannes Beneventanus hinterlÑ·t der Kirche der Nonnen von S. Maria 12
+Pfennige.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kirche/Aquileia/Aquileia,S. Maria//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$ecclesie S. Marie monialium XII den.
+
+REG$Johannes Beneventanus hinterlÑ·t den Kanonikern der S. Felix Kirche 8
+Pfennige.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Felice/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$canonicis S. Felicis ecclesie VIII den.
+
+REG$Johannes Beneventanus hinterlÑ·t dem Kloster Beligna ? 8 Pfennige.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Beligna/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Beligna/Beligna//wo??/
+W$?Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$ecclesie Belignensi VIII den.
+
+REG$Johannes Beneventanus hinterlÑ·t 12 Pfennige fÅr Kirchenarbeiten.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kirche (wohl Dom)/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$XII den. ad opus ecclesie
+
+REG$Johannes Beneventanus hinterlÑ·t dem Priester Fabilius 4 Pfennige.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Fabilius/Priester/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$Fabilio sacerdoti IIII den.
+
+REG$Johannes Beneventanus hinterlÑ·t dem Martin Fabeinfrancta 2 Denarii grossi.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Martin/Fabeinfrancta/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./grossus/Z
+Q$Martino Fabeinfrancte II den. grossos
+
+REG$Johannes Beneventanus hinterlÑ·t der Stania 2 Denarii grossi.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Stania/X/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./grossus/Z
+Q$Stanie II den. grossos
+
+REG$Johannes Beneventanus hinterlÑ·t einer Clauda de Civitate einen Denarius
+grossus.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Clauda de Civitate/X/Cividale/Cividale//Friaul-Ost/
+H$Testament/Legat/Cividale/Cividale//Friaul-Ost/
+W$?Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./grossus/Z
+Q$cuidam Claude de Civitate I den. grossum
+
+REG$Johannes Beneventanus hinterlÑ·t fÅr Kirchenarbeiten 4 Pfennige von der
+ausstehenden Schuld des Propstes von S. Stephan.
+F$Scalon Necr./3/409ff/410
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapellen, div./Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$?Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$cuilibet capelle Aquilegensi ad opus ecclesie IIII den. de denariis
+B$FÅr Kirchenarbeiten werden 58 Pfennige von der ausstehenden
+Schuld den Propstes von S. Stefano vermacht.
+
+REG$Johannes Beneventanus hinterlÑ·t der Maria 20 20 Pfennige, welche ihm
+der SchlÑchter Arnaldus schuldet.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Maria/X/X/X//Friaul/
+H$Testament/Legat/unbestimmt/unbestimmt//Friaul/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$Marie XX den.
+
+REG$Johannes Beneventanus erinnert, da· ihm Bernardus de Portis 2 Mark Agleier
+Geldes und 8 Pfennige schuldet.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Bernhard v.Portis/X/Cividale/Cividale//Friaul-Ost/
+H$Schulden/Geldsumme/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Bernardus de Portis tenetur sibi in duabus marchis Aquilegensis monete et VIII
+den. eiusdem monete
+
+REG$Johannes Beneventanus erinnert, da· ihm Bernardus de Portis 2 Mark Agleier
+Geldes und 8 Pfennige schuldet.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Bernhard v.Portis/X/Cividale/Cividale//Friaul-Ost/
+H$Schulden/Geldsumme/Cividale/Cividale//Friaul-Ost/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$Bernardus de Portis tenetur sibi in duabus marchis Aquilegensis monete et VIII
+den. eiusdem monete
+
+REG$Johannes Beneventanus erinnnert, da· ihm Stephanus Crusul eine Mark Agleier
+MÅnze schuldet.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Stefan/Crusul/X/X//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Stephanus Crusul tenetur sibi I marcham in Aquilegensi moneta
+
+REG$Johannes Beneventanus erinnert, da· ihm Leonardus Coufen u.a. 28 Pfennige
+schuldet.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Leonardus/Coufen/Aquileia/Aquileia//Friaul-SÅd/
+H$Schulden/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$28/den./X/Z
+Q$Leonardus Coufen tenetur mihi in VIIII sextaria frumenti et XXVIII denarios de
+Scrillaco
+
+REG$Johannes Beneventanus erinnert, da· ihm der Propst von S. Stefano 58 Pfennige
+schuldet.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+H$Schulden/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$58/den./X/Z
+Q$prepositus Sancti Stephani tenetur sibi in LVIII den. quos sibi concessit
+
+REG$Johannes Beneventanus erwÑhnt, da· der Venezianer Johannes Stornatus von ihm
+eine halbe Mark als Pfand fÅr 3 Pfund kleiner venezianischer MÅnze hatte.
+F$Scalon Necr./3/409ff/411
+G$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Johannes/Stronatus/Venedig/Venedig//Veneto/
+H$Pfand/Geldsumme/Venedig/Venedig//Veneto/
+H$Testament/Legat/Venedig/Venedig//Veneto/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Iohannes Stornatus venetus habebat ab eo in pignore dimidiam marcham pro III
+libris venetorum minutorum
+
+REG$Johannes Beneventanus erwÑhnt, da· der Venezianer Johannes Stornatus von ihm
+eine halbe Mark als Pfand fÅr 3 Pfund kleiner venezianischer MÅnze hatte.
+F$Scalon Necr./3/409ff/411
+G$Johannes/Stronatus/Venedig/Venedig//Veneto/
+E$Johannes Beneventanus/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pfand/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+H$Testament/Legat/Aquileia/Aquileia//Friaul-SÅd/
+W$Venedig/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./minutus/Z
+Q$Iohannes Stornatus venetus habebat ab eo in pignore dimidiam marcham pro III
+libris venetorum minutorum
+
+DOK$akau_075/1231.1.31/1231.1.31/1231 JÑnner 31/X/Bologna/Bologna//Emilia/
+S$X/X/X
+V$X/X/X
+K$Vizedom Wolfradus nimmt fÅr Patriarch Berthold und das Kapitel von Aquileia
+einen Kredit in der Hîhe von 20 000 Pfund Veneti parvi bei den Gesellschaften
+von Siena und Bologna auf, um damit Ausgaben zu tÑtigen und Schulden zu
+bezahlen.
+
+REG$Vizedom Wolfradus nimmt fÅr Patriarch Berthold und das Kapitel von Aquileia
+einen Kredit in der Hîhe von 20 000 Pfund Veneti parvi bei den Gesellschaften
+von Siena und Bologna auf.
+F$AôG 21 Bianchi/107/207/207
+F$MSF 16, Paschini Bertoldo/X/4f/4 ?
+G$X/Gesellschaft/Siena/Siena//Toskana/
+G$X/Gesellschaft/Bologna/Bologna//Emilia/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Kredit/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$20000/lib./X
+Z$X/X/X
+M$X/den./parv./A?
+Q$viginti millium librarum Venetorum parvorum
+
+DOK$fjop_027/1234.6.21/1234.6.21/1234 Juni 21/X/Aquileia/Friaul-SÅd
+S$Albert/X/Albert
+V$Albert/X/Albert  zu ckap 51 ?, da nur Datum anders 1224.! 6.21
+K$?
+
+REG$NN
+F$BCU Ms. Joppi 369 1234-20/?/?/?
+G$X/Kapitel/Aquileia/Friaul-SÅd
+E$X/Kloster/Rosazzo/Friaul-Ost
+H$Strafbestimmung/Pînale/X/X
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena centum marcharum monete Aquilegensis
+
+REG$NN
+F$BCU Ms. Joppi 369 1234-20/?/?/?
+G$X/Kapitel/Aquileia/Friaul-SÅd
+E$X/Kloster/Rosazzo/Friaul-Ost
+H$Zinsverpflichtung/Zins/Aquileia/Friaul-SÅd
+W$Aquileia/moneta/
+O$39/X/X
+Z$X/X/X
+M$39/den./X/Z
+Q$triginta et novem denarios Aquilegensis monete
+
+DOK$akau_081/1236.2.22/1236.2.22/1236 Februar 22/anno domini MCCXXXVI,
+indictione nona, die iovis \dots VIII die exeunte februario/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/X/Andreas
+V$Andreas/X/Andreas
+K$Das Kapitel von Aquileia und Johannes, Probst von S. Stefano zu Aquileia, btr.
+TauschgeschÑft.
+
+REG$EinkÅnfte des Kapitels von Aquileia von Besitzungen in Medun in der Hîhe von
+jÑhrlich einer Mark Agleier MÅnze.
+F$ACU Perg. I bis/[8]/X/X
+F$ACU Coll. Bini DH IV/12/X/X
+G$X/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Meduno diSpilimbergo/Meduno di Spilimbergo/Medun/?
+W$Aquileia/moneta/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$possessionem quam habent et habebant in Medun que solvebat
+annuatim unam marcam Aquileg(ensis) monete
+
+REG$EinkÅnfte der Propstei von S. Stefano in Aquileia von Besitzungen in
+Martignacco in der Hîhe von jÑhrlich 40 Pfennigen Agleier MÅnze.
+F$ACU Perg. I bis/[8]/X/X
+F$ACU Coll. Bini DH IV/12/X/X
+G$X/X/X/X//
+E$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Martignacco/Martignacco// n.Trient??
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$possessionem in Martignaco quam tenet Engelpertus que solvit ei annuatim XL
+denarios Aquilegensis monete
+VII libra Aquileg(ensis) monete \dots VIII libra Aquileg(ensis) monete \dots
+
+REG$EinkÅnfte der Propstei von S. Stefano in Aquileia von Besitzungen in
+Torreano (di Cividale) in der Hîhe von jÑhrlich 7 Pfund Agleier MÅnze.
+F$ACU Perg. I bis/[8]/X/X
+F$ACU Coll. Bini DH IV/12/X/X
+G$X/X/X/X//
+E$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Torreano/Torreano//Friaul-Ost/
+W$Aquileia/moneta/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$possessionem in Tauriano que solvit ei annuatim VII libras Aquileg(ensis)
+monete
+B$Es kînnte auch Tauriano di Spilimbergo gemeint sein.
+
+REG$EinkÅnfte der Propstei von S. Stefano in Aquileia von Besitzungen in
+Vendoy in der Hîhe von jÑhrlich 8 Pfund Agleier MÅnze.
+F$ACU Perg. I/?/?/?
+F$ACU Coll. Bini DH IV/12/?/?
+G$X/X/X/X//
+E$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Vendoglio/Vendoglio??/Vendoy/wo??
+W$Aquileia/moneta/
+O$8/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$possessionem integraliter in Vendoy que solvit ei annuatim VIII libras
+Aquileg(ensis) monete
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier MÅnze.
+F$ACU Perg. I/?/?/?
+F$ACU Coll. Bini DH IV/12/?/?
+G$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena X marcarum Aquileg(ensis) monete
+B$Pînale wird nochmals wiederholt
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier MÅnze.
+F$ACU Perg. I/?/?/?
+F$ACU Coll. Bini DH IV/12/?/?
+G$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub eadem pena X marcarum Aquileg(ensis) monete
+B$Pînale wird nochmals wiederholt
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier MÅnze.
+F$ACU Perg. I/?/?/?
+F$ACU Coll. Bini DH IV/12/?/?
+G$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena X marcarum Aquileg(ensis) monete
+
+DOK$akau_081b/1238.6.7/1238.6.7/1238 Juni 7/anno domini millesimo ducentesimo trigesimo
+octavo, indictione undecima die septimo intrante iunio/Aquileia/Aquileia//Friaul-SÅd/
+S$Philipp/kaiserl. Notar/Philipp
+V$Philipp/kaiserl. Notar/Philipp
+K$Das Kapitel von Aquileia und Hartwig von Castello einigen sich auf
+Schiedsleute.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier Pfennigen.
+F$ACU Cod. 42/022/32/32
+F$ACU Cod. 43/022/32/32
+F$ACU Sez. IV 42/04/X/X
+F$ACU Sez. XIV 31/11/X/X
+F$ACU Sez. XIV 61/01/3f/3f
+F$BCU Ms. Joppi 369 Fasz. 4/37/1;3f/1;3
+F$BF Persereano Dipl. aquil. I/21/X/X
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Hartwig/Genannter/CastellodiPorpetto/Castello di Porpetto//wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena centum marcharum denariorum Aquilegiensis monete
+
+REG$Strafbestimmung in der Hîhe von 100 Mark.
+F$ACU Cod. 42/022/32/32
+F$ACU Cod. 43/022/32/32
+F$ACU Sez. IV 42/04/X/X
+F$ACU Sez. XIV 31/11/X/X
+F$ACU Sez. XIV 61/01/3f/3f
+F$BCU Ms. Joppi 369/37/4/4
+F$BCU Ms. Joppi 369 Fasz. 4/37/1;4f/1;4
+F$BF Persereano Dipl. aquil. I/21/X/X
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Hartwig/Genannter/CastellodiPorpetto/Castello di Porpetto// wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in pena predicta centum marcharum teneatur arbitrium
+
+DOK$akau_082/1238.11.18/1238.11.18/1238 November 18/anno domini MCCXXXVIII, indictione XI.,
+die XIII. exeuntemense Novembris/RivedArcano/Arcano di Rive d'Arcano/Tricano/Friaul-Mitte/
+S$Johannes/X/Johannes
+V$Johannes/X/Johannes
+K$Berthold von Tricano macht dem Kapitel zu Aquileia Versprechungen betreffend
+eine "cortina" rund um die Kirche S. Maurus zu Tricano.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier Pfennigen.
+F$ACU Perg. Sez. IV 3/38/X/X
+G$Berthold/Genannter/RivedArcano/Arcano di Rive d'Arcano/Tricano/Friaul-Mitte/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena centum marcharum denariorum Aquilegensium monete
+
+REG$Jeder Bewohner der cortina bei der Kirche des hl. Maurus in Tricano ist
+frei von allen Abgaben, au·er fÅr jeden passus 1 Agleier Pfennig zur
+Beleuchtung derselben Kirche des hl. Maurus.
+F$ACU Perg. Sez. IV 3/38/X/X
+G$X/Bewohner/RivedArcano/Arcano di Rive d'Arcano/Tricano/Friaul-Mitte/
+E$X/Kirche/RivedArcano/Arcano di Rive d'Arcano,St.Maurus/Tricano/Friaul-Mitte/
+H$Zahlungsverpflichtung/Zins/RivedArcano/Arcano di Rive d'Arcano/Tricano/Friaul-Mitte/
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$unum denarium Aquilegensem
+
+DOK$akau_083a/1239.1.16/1239.1.16/1239 JÑnner 16/X/X/X//
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Dekan Leonhard von Aquileia u.a. an das Kapitel von Aquileia und Hartwig von
+Castello btr. Spruch der Schiedsleute. Zusammenfassung von 1239 JÑnner 17. in
+pal. d. Castello.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Pfennige Agleier MÅnze.
+F$ACU Sez. IV 1/[24]/X/X
+F$ACU Cod. 54/X/148vf/148v
+F$ACU Sez. XIV 31/13/? /X
+F$ACU Cod. 42/X/32vf/33r
+F$ACU Cod. 43/X/32vf/33r
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Hartwig/Genannter/CastellodiPorpetto/Castello di Porpetto// wo??
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena centum marcharum denariorum Aquilegiensis monete
+
+DOK$akau_083/1239.1.0/1239.1.0/1239 JÑnner/X/X/X
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Das Kapitel von Aquileia und Artuicus von Castello einigen sich auf
+Schiedsleute. -- vgl. 1238 Juni 7, Aquileia.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark Agleier Pfennigen.
+F$ACU Sez. IV 1 Dorsualnotiz/23/?/?
+G$X/Kapitel/Aquileia/Friaul-SÅd ?
+E$Artuicus/Genannter/Castello/Friaul
+H$Pînale/Strafgeld/unbestimmt/unbestimmt
+W$Aquileia/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena centum marcarum denariorum Aquilegensium (mon.?)
+
+DOK$akau_085/1240.11.30/1240.11.30/1240 November 30/anno domini MCCXL, die veneris ultimo
+die novembris, indictione XIII/Aquileia/Aquileia//Friaul-SÅd/
+S$Vidotus/X/Vidotus
+V$Vidotus/X/Vidotus
+K$Patriarch Berthold von Aquileia fÅr das Kapitel von Aquileia btr.
+Gerichtsversammlung, Spruch. -- mit Zusatz von 1241 die lune 15.  exeunte Sept.
+
+REG$Beispiel fÅr eine Zinszahlung in der Hîhe von 10 Pfennigen an den Patriarchen
+von Aquileia, bzw. fÅr die Folgen bei Zahlungsverzug.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/unbestimmt/unbestimmt//Friaul/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$tenetur solvere \dots in Nativitate Domini decem denarios pro aliqua tenuta ad
+rectum censum aquileiensem
+
+REG$Beispiel fÅr eine Zinszahlung in der Hîhe von 10 Pfennigen an den Patriarchen
+von Aquileia, bzw. fÅr die Folgen bei Zahlungsverzug.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlungsverpflichtung/Zins/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$tenetur solvere \dots in Nativitate Domini decem denarios pro aliqua tenuta ad
+rectum censum aquileiensem et non solvit in dicto termino decem
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr eine Zinszahlung in der Hîhe von 10 Pfennigen an den Patriarchen
+von Aquileia, bzw. fÅr die Folgen bei Zahlungsverzug, nÑmlich eine Zinserhîhung
+auf 20 Pfennige.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$SÑumniszuschlag/Zins/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$tenetur solvere \dots in Nativitate Domini decem denarios pro aliqua tenuta ad
+rectum censum aquileiensem et non solvit in dicto termino decem transacto
+termino erunt viginti
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr eine Zinszahlung in der Hîhe von 10 Pfennigen an den Patriarchen
+von Aquileia, bzw. fÅr die Folgen bei Zahlungsverzug, nÑmlich eine Zinserhîhung
+auf 20 Pfennige.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlungsverpflichtung/Zins/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$tenetur solvere \dots in Nativitate Domini decem denarios pro aliqua tenuta ad
+rectum censum aquileiensem et non solvit in dicto termino decem transacto
+termino erunt viginti et tenetur solvere viginti
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand im zweiten Jahr nicht 10
+Pfennige fÅr dieses und 20 Pfennige fÅr den noch nicht bezahlten Zins des
+abgelaufenen Jahres, so mu· er 20 fÅr jedes Jahr zahlen.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$decem pro censu illius anni
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand im zweiten Jahr nicht 10
+Pfennige fÅr dieses und 20 Pfennige fÅr den noch nicht bezahlten Zins des
+abgelaufenen Jahres, so mu· er 20 fÅr jedes Jahr zahlen.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlungsverpflichtung/ZinsrÅckstand/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$pro censu \dots viginti transacti anni
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand im zweiten Jahr nicht 10
+Pfennige fÅr dieses und 20 Pfennige fÅr den noch nicht bezahlten Zins des
+abgelaufenen Jahres, so mu· er 20 fÅr jedes Jahr zahlen.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zinsaufschlag/Zins/Aquileia/Aquileia//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$si in termino secundi anni non solverit decem pro censu illius anni et viginti
+transacti anni transacto termino illius secundi anni solvere tenetur alios
+viginti
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand im zweiten Jahr nicht 10
+Pfennige fÅr dieses und 20 Pfennige fÅr den noch nicht bezahlten Zins des
+abgelaufenen Jahres, so mu· er 20 fÅr jedes Jahr zahlen, also insgesamt 40.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlungsverpflichung/Zins/Aquileia/Aquileia//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$si in termino secundi anni non solverit decem pro censu illius anni et viginti
+transacti anni transacto termino illius secundi anni solvere tenetur alios
+viginti, et ita erunt quadraginta denarios pro duobus annis
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand im dritten Jahr oder
+frÅher die 40 Pfennige fÅr die  zwei Jahre davor und 10 Pfennige fÅr das
+dritte Jahr, verbleiben ihm Besitz und Nutzung.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlungsverpflichung/Zins/Aquileia/Aquileia//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$si in termino tertii anni vel ante quadraginta denarios solverit pro secundis,
+et decem pro tertio anno, remaneat in ea tenuta ipsius possessionis
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand im dritten Jahr oder
+frÅher die 40 Pfennige fÅr die  zwei Jahre davor und 10 Pfennige fÅr das
+dritte Jahr, verbleiben ihm Besitz und Nutzung.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zins/Immobilien/Aquileia/Aquileia//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$si in termino tertii anni vel ante quadraginta denarios solverit pro secundis,
+et decem pro tertio anno, remaneat in ea tenuta ipsius possessionis
+B$"Den." aus dem Zusammenhang erschlossen.
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand auch im dritten Jahr nicht,
+verliert er Besitz und Nutzungsrecht, mu· aber je 10 Pfennige fÅr das erste
+und zweite Jahr an Zins bezahlen.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlungsverpflichung/Zins/Aquileia/Aquileia//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$pro tempore solvere domino possessionis decem denarios pro censu primi
+
+REG$Beispiel fÅr die Folgen eines Zahlungsverzuges btr. die Zinsverpflichtung
+gegenÅber dem Patriarchen von Aquileia: Zahlt jemand auch im dritten Jahr nicht,
+verliert er Besitz und Nutzung, mu· aber je 10 Pfennige fÅr das erste
+und zweite Jahr an Zins bezahlen.
+F$Dorigo-Viani/130/327f/328
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlungsverpflichung/Zins/Aquileia/Aquileia//Friaul-Patr./
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$pro tempore solvere domino possessionis decem denarios pro censu primi, item
+alios decem pro censu secundi anni
+
+DOK$akau_093/1245.1.19/1245.1.19/1245 JÑnner 19/1245, ind. 3, 14 kal.
+Febr./Sacile/Sacile//Friaul-West/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia schenkt dem Kapitel von Aquileia 10 Mark
+jÑhrlich aus der Maut von Aquileia, wofÅr die Kanoniker nach seinem Tod den
+Jahrtag feiern sollen.
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel von Aquileia 10 Mark
+jÑhrlich aus der Maut von Aquileia, wofÅr die Kanoniker nach seinem Tod den
+Jahrtag feiern sollen.
+F$ACU Cod. 42/015/24f/24
+F$AôG 21 Bianchi/144/217/217
+F$Dorigo-Viani/149/332/332
+F$Manzano AF 2/X/348f/349
+F$Reg. Gîrz 1/510/135/135
+F$Ughelli 5/X/91/91
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Cividale/Cividale//Friaul-Ost/
+H$Stiftung/Maut/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$decem marchas monete Aquilegiensis
+B$aus der Maut von Aquileia. Gleichartige Schenkung fÅr Kapitel von Cividale am
+20. JÑnner 1245 (ckap 38).
+
+DOK$akau_094/1245.2.1/1245.2.1/1245 Februar 1/anno Domini MCCXLV, indicitone
+tertia, Kalendis februarii/Sacile/Friaul-West
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia schenkt dem Kapitel von Aquileia 10 Mark
+jÑhrlicher EinkÅnfte aus seiner Maut zu Aquileia zu einem Jahrtag fÅr sich
+selbst und eine weitere Mark jÑhrlich, wofÅr Kanoniker das Fest der hl.
+Elisabeth, LandgrÑfin von ThÅringen, seiner Nichte, alle Jahre feierlich
+begehen sollten. (Ist Wiederholung von 10-Mark-Stiftung 1245 JÑnner
+19-20-Febr.1 aus öberlieferung Dorigo Viano 332).
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel von Aquileia 10 Mark
+jÑhrlicher EinkÅnfte aus seiner Maut zu Aquileia zu einem Jahrtag fÅr sich.
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Maut/Aquileia/Friaul-SÅd
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro remedio anime nostre \dots decem marchas monete Aquilegensis eiusdem de
+muta nostra aquileiensi
+B$fÅr sein Seelenheil auch nach seinem Tode;
+aus den Zîllen von Aquileia  Vgl. akau 093
+
+DOK$akau_097a/1247.11.5/1247.11.5/1247 November 5/1247, Non. Novembr./Lyon/Lyon//
+S$X/X/X
+V$X/X/X
+K$Papst Innozenz IV. an das Kapitel von Aquileia wegen EinkÅnfte des Dekanats
+Aquileia.
+
+REG$EinkÅnfte des Dekanats von Aquileia in der Hîhe von 7 Mark Silber.
+F$ACU Original [fraglich]/X/X/X
+F$BCU Ms. Joppi 369/04/5/5  ? Fasz. 5 4 1 1
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Dekanat/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X
+O$7/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$septem marcharum argenti
+B$Wegen Loch in der Urkunde WÑhrung nicht ersichtlich.
+
+DOK$akau_098/1248.12.16/1248.12.31/1248 Dez. 16-31/anno MCCXLVIII,
+indictione VI, \dots die exeunte dicembri ?/Aquileia/Aquileia//Friaul-SÅd/
+S$Paul/X/Paul
+V$Paul/X/Paul
+K$Patriarch Berthold von Aquileia fÅr das Kapitel von Aquileia btr. Copulaticum.
+
+REG$Patriarch Berthold von Aquileia verpfÑndet dem Kapitel von Aquileia das
+Copulaticum um 50 Mark Agleier MÅnze auf vier Jahre.
+F$ACU Perg. II/X/X/X
+F$Dorigo-Viani/173/333/333
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$VerpfÑndung/Copulaticum/unbestimmt/unbestimmt//Friaul wo??/
+W$Aquileia/moneta/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro quinquaginta marchis aquilegensis monete
+B$Dorigo Viani unvollst. mit falschem Datum
+
+DOK$akau_100/1251.1.15/1251.1.15/1251 JÑnner 15/anno dominice nativitatis
+millesimo ducentesimo quinquagesimo primo, indictione nona, die quinto
+decimo mense ianuar./Cividale/Cividale//Friaul-Ost/
+S$Julian de Ruzolio/X/Julian de Ruzolio
+V$Julian de Ruzolio/X/Julian de Ruzolio
+K$Berthold von Faedis und Ulrich "Cadubrinus", Kanoniker von Aquileia,
+erteilen als Schiedsleute
+einen Schiedsspruch zwischen dem Kapitel von Cividale und einem gewissen Herrn
+"Pabil" von Pertenstayn wegen einer Hube zu Orsaria.
+
+REG$Das Kapitel von Cividale mu· einem gewissen Herrn "Pabil", dem eine Hube zu
+Orsaria schiedsgerichtlich abgesprochen worden ist, 1,5 Mark Agleier zahlen.
+F$ACC Perg. IV/056b/52/52
+F$Guariglia/96/256ff/257
+G$X/Kapitel/Cividale/Cividale//Friaul-Ost/
+E$Pabil/X/Partistagno/Partistagno/Pertenstein/Friaul-Ost/
+H$Ablîse/Immobilien/Orsaria/Orsaria// wo??
+W$Aquileia/X/
+O$1,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$capitulum dare debere unam marcam et mediam den. Aquilegien. domino Pabil.
+
+REG$Strafbestimmung in der Hîhe von 20 Mark Agleier MÅnze.
+F$ACC Perg. IV/056b/52/52
+F$Guariglia/96/256ff/257
+G$Pabil/X/Partistagno/Partistagno/Pertenstein/Friaul-Ost/
+E$X/Kapitel/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena viginti marcarum dicte monete
+B$"Aquileia" aus dem Zusammenhang erschlossen.
+
+DOK$akau_102/1251.11.29/1251.11.29/1251 November 29/tertio kalendas decembris, pontificatus
+nostri anno nono/Perugia/Perugia//Umbrien/
+S$X/X/X
+V$X/X/X
+K$Papst Innozenz [IV.] an den Elekten Gregor von Montelongo zu Aquileia wegen
+der EinkÅnfte der Propstei Aquileia.
+
+REG$JÑhrliche EinkÅnfte der Propstei Aquileia in der Hîhe von 12 Mark Silber.
+F$Dorigo-Viani/209/334f/334
+G$X/X/X/X//
+E$X/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X
+O$12/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$de proventibus eiusdem prepositure, qui valentiam duodecim marcharum argenti
+annis singulis non excedunt
+B$Aus den jÑhrlichen EinkÅnfte von 12 Silbermark werden 5 Mark der
+Kantorei zugeteilt, der Rest geht an das Kapitel. Die Urkunde
+wurde von Papst Innozenz IV bestÑtigt.
+
+REG$Aus den jÑhrlichen EinkÅnften der Propstei Aquileia in der Hîhe von 12 Mark
+Silber werden 5 Mark der Kantorei zugeteilt.
+F$Dorigo-Viani/209/334f/334
+G$Gregor/Elekt/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kantorei/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de proventibus eiusdem prepositure, qui valentiam duodecim marcharum argenti
+annis singulis non excedunt dicte cantorie quinque marcharum portio assignetur
+B$Aus den jÑhrlichen EinkÅnfte von 12 Silbermark werden 5 Mark der
+Kantorei zugeteilt, der Rest geht an das Kapitel. Die Urkunde
+wurde von Papst Innozenz IV bestÑtigt.
+
+DOK$akau_103/1251.12.5/1251.12.5/1251 Dezember 5/1251, nonis decembris, pontificatus nostri
+anno nono/Perugia/Perugia//Umbrien/
+S$X/X/X
+V$X/X/X
+K$Papst Innozenz IV. fÅr den Dekan von Aquileia btr. 1 PfrÅnde.
+
+REG$EinkÅnfte des Dekanats von Aquileia in der Hîhe von 6 Mark Silber.
+F$ACU Perg. II/16/X/X
+F$BCU Ms. Joppi 369 Fasz. 5/28/1f/1
+G$Innozenz IV./Papst/Rîm.Kirche/Rîm.Kirche//Rîm.Kirche/
+E$X/Dekanat/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/EinkÅnfte/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X
+O$6/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$proventus summa [Lesung summa fraglich] sex marcarum argenti annis singulis
+
+DOK$akau_109/1218.9.18/1250.9.18/1218 September 18 - 1250 September 18/12..,
+15.kal.oct.,pont.2/Viterbo/Mittelitalien
+S$X/X/X
+V$X/X/X
+K$Papst Clemens (IV. lt. Index ASV Font. 2) an Dekan und Kapitel von Aquileia
+btr. Stiftung des Patriarchen Berthold von 11 Mark Aquil. jÑhrlicher EinkÅnfte
+(Berthold: bonae memorie). (Papst Clemens bestÑtigt im folgenden Dispositionen
+des weiland Patriarchen Berthold, also frÅhestens Papst Clemens IV.
+(1265-1268).)
+
+REG$NN
+F$AS Venedig Fontamini 2/?/107f/107     wo Text?
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Maut/Aquileia/Friaul-SÅd
+W$Aquileia/X/
+O$11/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$\dots redditum undecim marcharum Aquilej \dots
+B$11 Mark aus der Maut von Aquileia werden als jÑhrliche Stiftung
+gegeben. 10 Mark davon an die Kirche und eine Mark fÅr den Festtag
+de hl. Elisabeth. Die Urkunde wurde von Papst Clemens VI bestÑtigt.
+
+DOK$akau_108/1218.9.18/1250.9.18/1218 September 18 - 1250 September 18/12..,
+15.kal.oct.,pont.2/X/X   ?
+S$X/X/X
+V$X/X/X
+K$Papst Clemens \dots? fÅr das Kapitel Aquileia wegen der BestÑtigung der
+Urkunden Bertholds btr. 10 Mark.
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel 10 Mark als jÑhrliche
+Stiftung.
+F$ACU Sez. XIV 29/21/163f/163
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Maut/Aquileia/Friaul-SÅd
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$donatio decem marcharum capitulo?
+B$11 Mark aus der Maut von Aquileia werden als jÑhrliche Stiftung
+gegeben. 10 Mark davon an die Kirche und eine Mark fÅr den Festtag
+der hl. Elisabeth. Die Urkunde wurde von Papst Clemens VI bestÑtigt.
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel 10 Mark als jÑhrliche
+Stiftung.
+F$ACU Sez. XIV 29/21/163f/163
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Maut/Aquileia/Friaul-SÅd
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$capitulo Aquileiens. decem marchas monete Aquileiensis
+B$11 Mark aus der Maut von Aquileia werden als jÑhrliche Stiftung
+gegeben. 10 Mark davon an die Kirche und eine Mark fÅr den Festtag
+der hl. Elisabeth. Die Urkunde wurde von Papst Clemens VI bestÑtigt.
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel 11 Mark aus der Maut
+von Aquileia als jÑhrliche Stiftung.
+F$ACU Sez. XIV 29/21/163f/164
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Maut/Aquileia/Friaul-SÅd
+W$Aquileia/moneta/
+O$11/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditum undecim marcharum Aquileiensis monete
+B$11 Mark aus der Maut von Aquileia werden als jÑhrliche Stiftung
+gegeben. 10 Mark davon an die Kirche und eine Mark fÅr den Festtag
+der hl. Elisabeth. Die Urkunde wurde von Papst Clemens VI bestÑtigt.
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel 11 Mark aus der Maut
+von Aquileia als jÑhrliche Stiftung, wovon 10 Mark an die Kirche fÅr seine
+Seelenheil gehen.
+F$ACU Sez. XIV 29/21/163f/164
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Seelenheil?/Aquileia/Friaul-SÅd
+W$Aquileia/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditum undecim marcharum Aquileiensis monete decem vero pro sua anima
+B$11 Mark aus der Maut von Aquileia werden als jÑhrliche Stiftung
+gegeben. 10 Mark davon an die Kirche und eine Mark fÅr den Festtag
+der hl. Elisabeth. Die Urkunde wurde von Papst Clemens VI bestÑtigt.
+"Mark Agleier" aus dem Zusammenhang erschlossen.
+
+REG$Patriarch Berthold von Aquileia schenkt dem Kapitel 11 Mark aus der Maut
+von Aquileia als jÑhrliche Stiftung, wovon eine Mark fÅr den Festtag der hl.
+Elisabeth verwendet werden soll.
+F$ACU Sez. XIV 29/21/163f/164
+G$Berthold/Patriarch/Aquileia/Friaul-Patr.
+E$X/Kapitel/Aquileia/Friaul-SÅd
+H$Stiftung/Festtag?/Aquileia/Friaul-SÅd
+W$Aquileia/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditum undecim marcharum Aquileiensis monete
+unam pro festivitate beate Elisabet?
+B$11 Mark aus der Maut von Aquileia werden als jÑhrliche Stiftung
+gegeben. 10 Mark davon an die Kirche und eine Mark fÅr den Festtag
+der hl. Elisabeth. Die Urkunde wurde von Papst Clemens VI bestÑtigt.
+"Mark Agleier" aus dem Zusammenhang erschlossen.
+
+

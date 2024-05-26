@@ -1,0 +1,3300 @@
+note *** Urkunden Aquileia Benediktinerinnenkloster S. Maria
+        Aufnahme nach Editions-Konzept zum Zeitpunkt der Erstaufnahme
+        Nummerierung anhand der Edition 2005 nachgefÅhrt
+        Quellenangaben usw. aufgrund Edition 2005 noch nicht nachgefÅhrt
+        VollstÑndigkeit anhand der Edition 2005 noch zu ÅberprÅfen
+note *** Am Schluss: EinkÅnfteverzeichnis Casellis, noch zu prÅfen
+
+note *** Einlesen der Rohdaten fr_asma1.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$anon_013/1161.8.26/1166.0.0/[1161 August 26 - 1166]/X/X/X//Friaul-SÅd
+S$X/X/X
+V$X/X/X
+K$Richild und ihr Sohn Heinrich verzichten anlÑ·lich des Eintritts ihrer Tochter
+bzw. Schwester gegenÅber dem erwÑhlten Patriarchen Ulrich [II.] von Aquileia und
+der ébtissin Wilbirg von S. Maria zu Aquileia auf ein Lehen zu Melreit und
+erneuern die durch ihren Gatten bzw. Vater Meinhard von Malisana geschehene
+öbergabe einer Hufe ebenda an dasselbe Kloster.
+
+REG$Das Kloster S. Maria in Aquileia verpachtet dem Robert von Hemach 6 Bewohner
+der Huben fÅr ein Pferd, das es zum Preis von 6 Mark von ihm erhalten hat.
+F$Stampa II/X/8ff/9
+F$BCU Ms. Joppi 368 Fasz. 5/02/1ff/2
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Robert/Genannter/NimisdeTarcento/Nimis de Tarcento (Hemach)/Hemach/
+H$Kauf/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$6/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro equo quem precio VI marcarum ab ipso accepit
+
+REG$Meinhard von Malisana verpfÑndet vier Huben in Caniva fÅr 8 Mark.
+F$Stampa II/X/8ff/9
+F$BCU Ms. Joppi 368 Fasz. 5/02/1ff/2
+G$Wilbirg/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Meinhard/Genannter/Malisana/Malisana// wo??
+H$VerpfÑndung/Immobilien/CanevadiTolmezzo/Caneva di Tolmezzo/Caniva/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$IIII mansos \dots acceptis a nobis VIII marcis nobis impignoravit
+
+REG$Meinhard von Malisana verschied, ohne die 6 Huben auszulîsen, welche er
+dem Kloster S. Maria in Aquileia entfremdet hatte. Dieses kaufte von Sigfried
+von Presserian diese um 9 Mark zurÅck, so da·, wenn jemand aus seiner
+Nachkommenschaft darauf Anspruch erhebt, dem Kloster jene 9 Mark zahlen soll.
+F$Stampa II/X/8ff/9
+F$BCU Ms. Joppi 368 Fasz. 5/02/1ff/2
+G$Wilbirg/Kloster/Aquileia/Aquileia//Friaul-SÅd  ?X X Malisana
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd   ?hier Siegfried GeldempfÑnger
+(Vergangenheit)?
+H$Ablîse/Immobilien/MerettodiCapitolo/Meretto di Capitolo/Melreit/Friaul-SÅd/
+W$X/X/
+O$9/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$sub tali debito ex hac vita migrasset VI mansos quos ab ecclesia nostra
+alienaverat datis Sigefrido VIIII marcis resolvimus
+                                                                  ?
+? dasselbe wie vorher, jedoch als EventualitÑt fÅr die Zukunft Zahlung der
+gleichen Summe von 9 Mark durch Anspruchsberechtigte (Unbekannte) an das
+Kloster? Diese Urkunde nach Neuedition in FS Pickl?
+Hinweis auf Studi Goriziani-Edition?
+{\it Un documento concernente l'ambiente agrario del
+secolo XII} [ ist adaptierte Fassung des vorgenannten Beitrags in
+italienischer Sprache].  In: Studi goriziani 66 (1987) S. 61--74.
+   Stampa II X 8ff 10
+Q$ecclesie nostre VIIII marcas quas Sigefrido dedimus exsolveret
+
+
+REG$Richild und ihr Sohn Heinrich verzichten anlÑ·lich des Eintritts ihrer Tochter
+bzw. Schwester gegenÅber dem erwÑhlten Patriarchen Ulrich [II.] von Aquileia und
+der ébtissin Wilbirg von S. Maria zu Aquileia auf ein Lehen zu Melreit und
+erneuern die durch ihren Gatten bzw. Vater Meinhard von Malisana geschehene
+öbergabe einer Hufe ebenda an dasselbe Kloster und zahlen dem Kloster 10 Mark.
+F$Stampa II/X/8ff/10
+F$BCU Ms. Joppi 368 Fasz. 5/02/1ff/2
+G$Richild;Heinrich/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Klostereintritt/Klostereintritt/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ob hoc X marcas nobis offerret
+
+REG$Richild und ihr Sohn Heinrich zahlen anlÑ·lich des Eintritts ihrer Tochter
+bzw. Schwester dem Kloster S. Maria zu Aquileia 10 Mark.
+F$Stampa II/X/8ff/10
+F$BCU Ms. Joppi 368 Fasz. 5/02/1ff/2
+G$Richild;Heinrich/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Klostereintritt/Klostereintritt/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ipsas X marcas quas ob susceptionem filie obtulit et VIIII quas Sigefrido pro
+viro suo \dots dedimus et VIII pro quibus IIII mansos \dots nobis impignoraverat
+dimisimus
+
+REG$Richild und ihr Sohn Heinrich verzichten anlÑ·lich des Eintritts ihrer Tochter
+bzw. Schwester gegenÅber dem erwÑhlten Patriarchen Ulrich [II.] von Aquileia und
+der ébtissin Wilbirg von S. Maria zu Aquileia auf ein Lehen zu Melreit und
+erneuern die durch ihren Gatten bzw. Vater Meinhard von Malisana geschehene
+öbergabe einer Hufe ebenda an dasselbe Kloster und zahlen 9 Mark, welche das
+Kloster dem Sigfried fÅr einen Mann (pro viro suo - fÅr ihren Gatten?) gegeben
+hat.
+F$Stampa II/X/8ff/10
+F$BCU Ms. Joppi 368 Fasz. 5/2/1ff/2
+G$Wilbirg/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Ablîse/Immobilien/MerettodiCapitolo/Meretto di Capitolo/Melreit/Friaul-SÅd
+W$X/X/
+O$9/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$VIIII , quas Sigefrido pro viro suo \dots dedimus
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$Richild und ihr Sohn Heinrich verzichten anlÑ·lich des Eintritts ihrer Tochter
+bzw. Schwester gegenÅber dem erwÑhlten Patriarchen Ulrich [II.] von Aquileia und
+der ébtissin Wilbirg von S. Maria zu Aquileia auf ein Lehen zu Melreit und
+erneuern die durch ihren Gatten bzw. Vater Meinhard von Malisana geschehene
+öbergabe einer Hufe ebenda an dasselbe Kloster und zahlen 8 Mark ?
+?Pickl-Aufsatz anschauen?
+
+F$Stampa II/X/8ff/10
+F$BCU Ms. Joppi 368 Fasz. 5/2/1ff/2
+G$Wilbirg/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$PfandgeschÑft/Immobilien/CanevadiTolmezzo/Caneva di Tolmezzo/Laniva/Friaul-SÅd
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$VIII, pro quo? quibus IV mansos apud Laniva nobis impignoraverat dimisimus
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$FÅr den Verzicht auf eine Hube in Melreit zahlt das Kloster S. Maria der Witwe
+des Meinhard von Malisana 2 Mark.
+F$Stampa II/X/8ff/10
+F$BCU Ms. Joppi 368 Fasz. 5/02/1ff/2
+G$Wilbirg/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Ablîse/Immobilien/MerettodiCapitolo/Meretto di Capitolo/Melreit/Friaul-SÅd/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$insuper ipsi vidue duas marcas dedimus
+
+REG$Ludwig zahlt 4 Mark und erhÑlt die Hube in Melreit. ?gehîrt nicht hierher;
+ist eigene Urkunde (Ludwig von Lavariano)?
+F$Stampa II/X/8ff/11
+G$Ludwig/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Belehnung/Immobilien/MerettodiCapitolo/Meretto di Capitolo/Melreit/Friaul-SÅd
+?    wann?
+H$öbergabe?/Immobilien/MerettodiCapitolo/MerettodiCapitolo/Melreit/Friaul-SÅd?
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Luuduicus persolvit quatuor marcas recipiat predictum mansum   Zusatz?
+
+DOK$anon_015/1166.0.0/1166.0.0/1166/anno ab incarnatione domini MCLXVI.
+indictione XIIII/Aquileia/Aquileia//Friaul-SÅd/
+S$Romulus/X/Romulus
+V$Romulus/X/Romulus
+K$Der erwÑhlte Patriarch Ulrich [II.] von Aquileia beurkundet, Bischof Wernhard
+von Triest habe die Zehnten von Isola, welche Graf Engelbert [II.] von Gîrz von
+der Kirche von Triest und vom Bischof zu Lehen hatte, infolge des Verzichts
+seitens des Grafen dem Kloster S. Maria zu Aquileia Åbergeben.
+
+REG$Strafbestimmung in der Hîhe von 20 Mark gewogenen Goldes.
+F$CDI 1/146/284/284
+F$Reg. Gîrz 1/250/68/68
+G$X/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/aurum/examinatum/Z
+Q$XX marcas examinati auri se sciat compositurum
+B$Urkundeninhalt Verzicht auf Zehnten
+
+DOK$anon_160/1170.0.0/1170.0.0/[um 1170]/X/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Inventar des Klosters S. Maria in Aquileia im Auftrag der ébtissin Hermilind.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$quorum quilibet singulis annis persolvit \dots XX denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Pf./Zehnten an Flachs
+Q$quorum quilibet singulis annis persolvit \dots III decimationes lini vel II
+denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$20/den./X/Z
+Q$summa II marce et XX denarii
+B$Inventar; Die Summe stimmt offensichtlich nicht mit den TeilbetrÑgen Åberein.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$Gislmuot/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$44/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Gislmuot habet X agros qui singulis anni exsolvit in media XLIIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque istorum dat singulis annis \dots II libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$Soimir/Bote/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$Soimir habet I mansum qui dat XVI denarios, quia nuntius est
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$Soimir/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria/Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$Soimir habet I mansum qui dat  XVI denarios, quia nuntius est si vero non
+fuerit nuntius XX persolvet
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$Martin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$Martinus habet I mansum unde dat XVI denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$Tegenc/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Tegenc. habet I mansum qui dat III libre
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/19
+F$Trinko, Listina/X/7ff/7
+G$/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$2/lib./X
+Z$3/ferto/X
+M$X/X/X/Z
+Q$summa horum in unum collecta fiunt \dots tres fertones et II librae
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Radul/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Radul habet I mansum et dat V libras in capite ieiunii
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Radul/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria/Friaul-SÅd/
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Radul habet I mansum et dat V libras in capite ieiunii et X de beneficio
+B$Inventar; "libra" aus dem Zusammenhang ergÑnzt.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Dietrich/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Dietricus habet I dat III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Diemuot/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$Diemuot X den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Smariada/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$Smariada X den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Todolf/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Todolf habet I mansum  dat III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Fort/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Fort hab. I dat III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/Zinspflichtiger/Aquileia/Aquileia//Friaul-SÅd    bei Summe kein G ? geht auch: Hîrige, Bauern,
+noch besser: Zinspflichtiger
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$18/den./minus/Z
+Q$summa horum in unum collecta fit marca una minus XVIII denariis
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque eorum singulis annis hunc dat reditum \dots III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Pf./2 opera fenaria
+Q$unusquisque eorum singulis annis hunc dat reditum \dots II opera fenaria vel
+II den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Grimoldus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Grimoldus habet I mansum dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Leo/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Leo I dat V libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Heinrich/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Heinricus I dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Ulrich/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$Wodalricus I dat XX den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Randolf/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$Rantolfus I dat X den. in cena domini
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singlis(!) annis dat \dots III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Pf./2 opera fenaria
+Q$quorum quisque singlis(!) annis dat \dots II opera f\c{e}naria vel II den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Lazara/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Lazara habet I mansum dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Orlant/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$9/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Orlant I dat VIIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Venerus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Venerus I dat V libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Rudolf/Kleriker/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$Ruodolfus clericus I dat XX den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Benedicta/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/Z
+Q$Benedicta dat VIIII den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque istorum singulis annis persolvit \dots II libras I in assumptione
+sancte Mari\c{e} I in purificatione sancte Mariae
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque istorum singulis annis persolvit \dots II libras I in assumptione
+sancte Mari\c{e} I in purificatione sancte Mariae
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque istorum singulis annis persolvit \dots II libras I in assumptione
+sancte Mari\c{e} I in purificatione sancte Mariae
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Pilgrim/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Piligrinus dat \dots II libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Petrus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$Petrus \dots X denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Ingelfred/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$Ingelfredus \dots VIII den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Johannes/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$Iohannes \dots X den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Ulrich/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$Wodalricus \dots X den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum singli singlis annis dant \dots III libras medietatem in assumptione
+sancte Marie medietatem in nativitate domini
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$1,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum singli singlis annis dant \dots III libras medietatem in assumptione
+sancte Marie medietatem in nativitate domini
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd     oder jeweilige villa?
+W$X/X/
+O$1,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum singli singlis annis dant \dots III libras medietatem in assumptione
+sancte Marie medietatem in nativitate domini
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Pf./2 opera fenaria
+Q$quorum singli singlis annis dant \dots II opera fenaria vel II denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Bonus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$Bonus \dots XXIIII denar.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Bonus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Pf./2 opera foenaria
+Q$Bonus \dots II opera foenaria vel II denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Roman/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Romanus III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Ulrich/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$Wodalricus XL denarios
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Regenhard/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Regenhardus III libr. de medio manso
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Bonifatius/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Bonifacius IIII libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Pero/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Pero III libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Johannes/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Iohannes marchio III libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Germot/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Germot IIII libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/20
+F$Trinko, Listina/X/7ff/7
+G$Johannes/Tîpfer/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$Iohannes figulus XL den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Ivan/Drechsler/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Iuuan tornator III libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Rudpert/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Ruodpertus III libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Petrus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige
+villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$28/den./X/Z
+Q$Petrus XXVIII denar.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Berthold/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Bertholdus II libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Lando/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$Lando XXIIII denar.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Albin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$Albuinus tornator XXIIII den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Rudolf/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$Roudolfus XXIIII den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Johannes/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Iohannes tornator VII libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/MÅhle/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien_MÅhle/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Molendium praestat ad nativitatem domini mediam marcam
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Cirvinan/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$Cirvinan VI den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Leonhard/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$Leonardus VI den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Singurel/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Singurel \dots III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Singurel/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Pf./1 opus foenarium
+Q$Singurel \dots I opus foenarium vel I den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque eorum dat singulis annis \dots III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+A$2 Pf./2 opera fenaria
+Q$unusquisque eorum dat singulis annis \dots II opera fenaria vel II den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Zeno/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Zeno VI libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Murunt/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Murunt de medio maso III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Albin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$Albinus \dots XII denar.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Albin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Pf./1 opus foenarium
+Q$Albinus \dots I opus foenarium vel I den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in unum collecta erunt II libras unam in purificatione sancte Marie unam in
+nativitate sancte Marie
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in unum collecta erunt II libras unam in purificatione sancte Marie unam in
+nativitate sancte Marie
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia/Friaul-SÅd
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in unum collecta erunt II libras unam in purificatione sancte Marie unam in
+nativitate sancte Marie
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Domian/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Domian habet unum mansum qui dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Mingo/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Mingo I qui dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Willar/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Willar qui dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Michael/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Michel qui dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Precelau/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Precelau qui dat II libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Vis/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige
+villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Vis qui dat III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Ivan/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Ivvan qui III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Marin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Marin qui dat IIII
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Berthold/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Bertaldus qui dat III libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Stoian/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Stoian I libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$3/marca/X
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$summa horum in unum collecta erunt marce III et XVI libr.
+B$Inventar. Die Summe stimmt nicht mit den Einzelnennungen Åberein.?
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singulis annis dat \dots II libr. unam in purificatione sancte
+Marie unam in nativitate sancte Mariae
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singulis annis dat \dots II libr. unam in purificatione sancte
+Marie unam in nativitate sancte Mariae
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd       oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singulis annis dat \dots II libr. unam in purificatioe sancte
+Marie unam in nativitate sancte Mariae
+B$Inventar. "libra" aus dem Zusammenhang
+erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Andreas/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Andreas habet I mansum qui dat IIII libras
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Btaria/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige
+villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Btaria (?) quae dat III lib.
+B$Inventar - Btaria im Druck sic mit Fragezeichen
+
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Rozzo/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Rozzo III lib.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Gozpret/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Gozpret III lib.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Pastor/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$Pastor XX den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/21
+F$Trinko, Listina/X/7ff/7
+G$Veneria/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Veneria IIII libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$2/marca/X
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$summa horum in unum collecta \dots due marce et XVI lib.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$summa horum in unum collecta \dots IIII den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Mingo/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$Mingo I qui est pastor XVI den. et si non erit pastor dabit plenum censum
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Silvester/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder
+jeweilige villa?
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Silvester habet I mansum qui dat V libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Ivan;Dourogoy/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Ivvan et Dourogoy dant VI libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Prechsa/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Prechsa IIII
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Zdestan/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Zdestan qui dat IIII libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Paulus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd  oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Paulus III libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Zeno/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Zeno III libr.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Sabbatinus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Sabbatinus I
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singulis annis \dots II libr. unam in nativitate et aliam in
+purificatione sancte Mariae
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singulis annis \dots II libr. unam in nativitate et aliam in
+purificatione sancte Mariae
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quorum quisque singulis annis \dots II libr. unam in nativitate et aliam in
+purificatione sancte Mariae
+B$Inventar. "libra" aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd    oder jeweilige villa?
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$6/den./X/Z
+Q$summa horum in unum collecta fiunt \dots III marcar et VI denar.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$22/marca/X
+O$2/lib./X
+Z$X/X/X
+M$3/den./X/Z
+Q$summa XXII m. et II lib. et III den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/Z
+Q$insuper vigintidue masaricie fictate sunt ad nummos et numeros denariorum non
+invenitur hic
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$unusquisque horum dat singulis annis \dots IIII den.
+B$Inventar
+
+REG$EinkÅnfte des Klosters S. Maria in Aquileia.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$X/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$EinkÅnfte/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd   oder jeweilige villa?
+W$X/X/
+O$18/lib./X
+Z$X/X/X
+M$4/den./X/Z
+Q$summa horum in unum collecta fiunt \dots X et VIII libr. IIII den.
+B$Inventar
+
+DOK$anon_018/1170.0.0/1170.0.0/[um 1170]/X/X/X//Friaul/
+S$X/X/X
+V$X/X/X
+K$Verschiedene Besitzewer verkaufen in gesonderten Rechtsakten der ébtissin
+[von S. Maria zu Aquileia] WeingÑrten und andere Immobilien zu S. Floriano.
+
+REG$Mingo de Zoden verkauft der ébtissin des Klosters S. Maria in Aquileia einen
+Weingarten und Besitz um 38 Pfund und 4 Pfennige.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Mingo/Genannter/uFriaul_Ost/uFriaul_Ost,Zoden/Zoden/HÅgelland nw.Gîrz?/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$38/lib./X
+Z$X/X/X
+M$4/den./X/A
+Q$mingo de zoden vendidit abbatisse vineam unam et sue domui possessionem per
+XXXVIII libras et IIII den.
+B$Inventar
+
+REG$Ivan und Marin verkaufen dem Klosters S. Maria in Aquileia um 11 Pfund und 3
+Pfennige einen Acker und einen Weingarten.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Ivan;Marin/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$11/lib./X
+Z$X/X/X
+M$3/den./X/A
+Q$Ivvan et Marin pro XI lib. et III den. agrum unum et vineam unam vendidit
+B$Inventar
+
+REG$Tubruscaz und Cuossa de sancto Floriano verkaufen dem Kloster S. Maria
+in Aquileia um 2 Mark und 40 Pfennige seinen Besitz und einen Weingarten.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Cuossa/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$40/den./X/A
+Q$Cuossa de sancto Floriano vendiderit pro duobus marcis et XL den. totam domui
+sue possessionem et vineam unam
+B$Inventar
+
+REG$Budin de sancto Floriano verkauft dem Klosters S. Maria in Aquileia um 28
+Pfund einen Weingarten.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Bludin/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$28/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Bludin de sancto Floriano vendidit abbatisse per XXVIII lib. vineam unam
+B$Inventar
+
+REG$Stogian und seine Sîhne Bizlau und Mingo verkaufen der ébtissin des
+Klosters S. Maria in Aquileia um 29 Pfund ihren Besitz, zwei WeingÑrten und
+einen Acker.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Stogian;Bizlau;Mingo/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$29/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Stogian et filii eius Bizlau et Mingo vendiderunt abbatisse per XXVIIII libr.
+totam domui sue possessionem duas vineas et unum agrum
+B$Inventar
+
+REG$Gerold de sancto Floriano verkauft dem Klosters S. Maria in Aquileia um 14
+Pfennige einen Acker.
+F$MSF 33-34/1/19ff/22
+F$Trinko, Listina/X/7ff/7
+G$Gerold/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/A
+Q$Gerolt de sancto Floriano vendidit agrum unum per XIIII denarios
+B$Inventar
+
+REG$Stogian de S. Floriano verkauft der ébtissin des Klosters S. Maria in
+Aquileia um 26 Pfund seinen Besitz, darunter einen Weingarten.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Stogian/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$26/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Stogian de s. Floriano vendidit abbatisse suae domui possessionem et vineam et
+pratum unum et duos agros p. XXVI libr.
+B$Inventar
+
+REG$Dietrich de S. Floriano verkauft der ébtissin des Klosters S. Maria in
+Aquileia um 3 Fertones einen Acker und einen Weingarten.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Dietrich/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$3/ferto/X
+M$X/X/X/A
+Q$Dietricus de s. Floriano vendidit abbae per tres fertones agrum unum et vineam
+unam
+B$Inventar
+
+REG$Cuossa de s. Floriano verkauft dem Kloster S. Maria in
+Aquileia um Fertones einen Weingarten.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Cuossa/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$9/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Cuossa de s. Floriano vendidit per novem libras vineam unam
+B$Inventar
+
+REG$Zdebor de s. Floriano verkauft der ébtissin des Klosters S. Maria in
+Aquileia um 44 Pfennige einen Teil seines Weingartens.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Zdebor/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$44/den./X/A
+Q$Zdebor de s. Floriano vendidit abbatisse partem vinee suae p. XL et IIII den.
+B$Inventar
+
+REG$Stogian und Martin de s. Floriano verkaufen der ébtissin des Klosters S.
+Maria in Aquileia um 10 Pfund einen Weingarten.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Stogian;Martin/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Stogian et Martinus de s. Floriano vendider. abbatisse p. X libr. vineam unam
+B$Inventar
+
+REG$Hugo de s. Floriano verkauft der ébtissin des Klosters S. Maria in Aquileia um
+40 Pfennige einen Weingarten.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Hugo/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$Hugo de s. Floriano abbae vendidit vineam p. XL den.
+B$Inventar
+
+REG$Nadal de s. Floriano verkaufen der ébtissin des Klosters S.
+Maria in Aquileia um 16 Pfund einen Weingarten mit allem Besitz.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Nadal/Genannter/St.Florian/St. Florian/S.Floriano/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Nadal de s. Floriano abbatisse vendidit vineam unam cum omni possessione
+domui suae per XVI libr.
+B$Inventar
+
+REG$Adalbero de Lonsnic verkauft der ébtissin des Klosters S.
+Maria in Aquileia um 60 Pfennige einen Weingarten.
+F$MSF 33-34/1/19ff/23
+F$Trinko, Listina/X/7ff/7
+G$Adalbert/Genannter/Lucinico/Lucinico/Lonsnic/b.Sempeter
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien_Weingarten/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Adalbero de Lonsnic per LX den. vineam unam abbatisse vendidit
+B$Inventar
+
+DOK$anon_017/1170.0.0/1170.0.0/[um 1170]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ludwig von Lavariano Åbergibt [dem Kloster] S. Maria [zu Aquileia] eine Hufe
+zu Bicinicco.
+
+REG$Ludwig von Lavariano Åbergibt [dem Kloster] S. Maria [zu Aquileia] eine Hufe
+zu Bicinicco fÅr sein Seelenheil und das seiner Vorfahren unter der Bedingung,
+da· er es bei Zahlung von 4 Mark zurÅckerhÑlt.
+F$Stampa Vener. Monastero I/X/9/9
+G$Ludwig/Genannter/Lavariano/Lavariano//Friaul-Mitte/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Auslîsung/Immobilien/Bicinicco/Bicinicco//Friaul-Mitte/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Luuduicus persolveret IIII marcas recipiat predictum mansum
+
+DOK$anon_020/1173.0.0/1173.0.0/1173/anno dominice incarnationis
+MCLXXIII, indict. VI/Aquileia/Aquileia//Friaul-SÅd/
+S$Romulus/X/Romulus
+V$Romulus/X/Romulus
+K$Patriarch Ulrich [II.] von Aquileia beurkundet den Vergleich zwischen ébtissin
+Hermilind von S. Maria zu Aquileia einerseits und Amalrich von Muggia
+andererseits wegen der strittigen Zehnten zu Isola.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 1/150/288/288
+F$Kos 4/539/273f/273
+G$Amalrich/Genannter/Muggia/Muggia//wo??
+E$Hermilind/Kloster/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$libram auri Amelricus abbatisse componat
+
+REG$Amalrich von Muggia zahlt der ébtissin Hermilind von S. Maria zu Aquileia drei
+Mark Silber als Ausgleichszahlung fÅr das von ihr empfangene Lehen, nÑmlich
+Zehnten in Isola.
+F$CDI 1/150/288/288
+F$Kos 4/539/273f/273
+G$Amalrich/Genannter/Muggia/Muggia//wo??
+E$Hermilind/Kloster/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Sentenz/Ausgleichszahlung/Isola/Isola//Istrien/
+W$X/X
+O$3/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$Amelricus pro eodem feudo memorate abbatisse \dots III marcas argenti ei
+persolvit
+
+DOK$anon_024/1174.0.0/1174.0.0/1174/anno dominice incarnationis
+MCLXXIIII, indict. VI./Aquileia/Aquileia//Friaul-SÅd/
+S$Heinrich/S. Felix magister scolarum/Heinrich
+V$Heinrich/S. Felix magister scolarum/Heinrich
+K$Patriarch Ulrich [II.] von Aquileia beurkundet, ébtissin Hermilind von S.
+Maria zu Aquileia habe den Hof de Montone an Hermann genannt Comes auf
+Lebenszeit Åberlassen.
+
+REG$ébtissin Hermilind von S. Maria zu Aquileia hat den Hof de Montone an Hermann
+genannt Comes auf Lebenszeit zu einem jÑhrlichen Zins von 10 Pfund Friesacher
+MÅnze Åberlassen.
+F$CDI 1/155/293/293
+F$Kos 4/556/283/283
+G$Hermann/Comes/X/X/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien_Hof/Aquileia/Aquileia//Friaul-SÅd/
+W$Friesach/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut decem libras Frisacensis monete iamdicto monasterio et abbatisse in festo
+sanctorum Hellari et Taciani annuatim exinde persolvat
+B$Montona ist wohl nicht der Ort in Istrien, sondern LokalitÑt in Aquileia
+
+DOK$anon_036/1189.12.20/1189.12.20/1189 Dezember 20/anno domini MCLXXXVIIII,
+indictione VII, die XII exeunte mense decembre/Aquileia/Aquileia//Friaul-SÅd/
+S$Stefan/X/Stefan
+V$Stefan/X/Stefan
+K$Patriarch Gottfried von Aquileia beendet den Streit zwischen Bischof Adalger
+von Capodistria und der ébtissin Hermilind von S. Maria zu Aquileia um die
+Zehnten von Isola zugunsten der letzteren.
+
+REG$Patriarch Gottfried von Aquileia entscheidet, da· die ébtissin Hermilind von
+S. Maria zu Aquileia dem Bischof Adalger von Capodistria 10 Mark als Ersatz fÅr
+Auslagen (nomine expensarum) gibt.
+F$CDI 1/177/335f/335
+F$Kos 4/764/383/383
+G$Hermilind/Kloster/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Adalger/Bischof/Capodistria/Capodistria//wo??
+H$Sentenz/Ausgleichszahlung/Isola/Isola//Istrien/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$statuimus siquidem quod abbatissa nomine expensarum tantum X marchas ipsi
+episcopo dedit
+
+REG$Strafbestimmung in der Hîhe von 20 Mark Gold.
+F$CDI 1/177/335f/335
+F$Kos 4/764/383/383
+G$Adalger/Bischof/Capodistria/Capodistria//wo??
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/aurum/examinatum/Z
+Q$sub pena XX marcarum examinati auri
+
+REG$Strafbestimmung in der Hîhe von 20 Mark Gold, wobei die HÑlfte der Kasse des
+Patriarchen und die andere HÑlfte dem Kloster zufallen soll.
+F$CDI 1/177/335f/335
+G$Adalger/Bischof/Capodistria/Capodistria//wo??
+E$X/Patriarchat/Aquileia/Aquileia,Patriarchat//Friaul-Patr./
+E$X/Kloster S.Maria/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/aurum/examinatum/Z
+Q$XX marcas examinati auri
+
+DOK$anon_037/1190.2.22/1190.2.22/1190 Februar 22/anno ab incarnatione
+domini MCLXXXX, indictione VIII, VII die exeunte februario/Aquileia/Aquileia//Friaul-SÅd/
+S$Hartwig/X/Hartwig
+V$Hartwig/X/Hartwig
+K$ébtissin Hermilind von S. Maria zu Aquileia investiert einen gewissen Gerold
+mit einem sedile zu Perteole.
+
+REG$ébtissin Hermilind von S. Maria zu Aquileia investiert einen gewissen Gerold
+mit einem sedile zu Perteole, wofÅr Gerold eine Mark zahlt.
+F$MAN OF 15/065/68/68
+F$BCU Ms. Joppi 368 Fasz. 6/57/1/1
+G$Gerold/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Investitur/Immobilien/Perteole/Perteole//Friaul-SÅd/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro hoc facto dat mihi unam marcam
+B$unklar, ob Zahlung schon geschehen oder nicht
+
+DOK$anon_047/1201.1.1/1201.4.11/1201 [vor April 12]/sub MCC primo,
+tempore Innocentii pape et nemine in Italia imperante,
+indictione quarta/X/X//Friaul-SÅd/
+S$Stabilis/X/Stabilis
+V$Stabilis/X/Stabilis
+K$Zeugenverhîr im Streit zwischen Bischof Adalger von Capodistria und der
+ébtissin des Klosters S. Maria zu Aquileia um die beiderseitigen Rechte zu
+Isola.
+
+REG$Die ébtissin des Klosters S. Maria zu Aquileia lie· Bischof Adalger von
+Capodistria 10 Mark Silber zahlen.
+F$CDI 2/190/353f/354
+F$Kos 5/009/5ff/6
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Adalger/Bischof/Capodistria/Capodistria//Istrien/
+H$Zeugenaussagen/Ausgleichszahlung/uIstrien Multone/Multone//Istrien (wohl)/
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$abbatissa fec\dots dare X marcas argenti domino Aldegerio Iustin(opolitano)
+episcopo
+
+DOK$anon_051/1207.11.28/1207.11.28/1207 November 28/anno domini MCCVII,
+indictione X, die mercurii, III die exeunte novembre/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/X/Albert
+V$Albert/X/Albert
+K$Der Priester Fabilius von Terzo erhÑlt von der ébtissin Heilwig von S. Maria
+zu Aquileia fÅnf Mark Friesacher MÅnze geliehen und verpfÑndet dafÅr seine
+Gerechtsame an einem Lehen in Terzo.
+
+REG$Der Priester Fabilius von Terzo erhÑlt von der ébtissin Heilwig von S. Maria
+zu Aquileia fÅnf Mark Friesacher MÅnze geliehen.
+F$MAN OF 15/059/61/61
+G$Heilwig/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Fabilius/Priester/Terzo/Terzo//Friaul-SÅd/
+H$Schulden/Geldsumme/Terzo/Terzo//Friaul-SÅd/
+W$Friesach/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$se recepisse V marchas Frixacensis monete mutuo a domina Hellicha abbatissa
+monasterii sancte Marie de Aaquilegia
+
+REG$Der Priester Fabilius von Terzo erhÑlt von der ébtissin Heilwig von S. Maria
+zu Aquileia fÅnf Mark Friesacher MÅnze geliehen und verpfÑndet dafÅr seine
+Gerechtsame  an einem Lehen in Terzo.
+F$MAN OF 15/059/61/61
+G$Heilwig/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Fabilius/Priester/Terzo/Terzo//Friaul-SÅd/
+H$PfandgeschÑft/Lehen/Terzo/Terzo//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro quibus denariis prefatus Fabilius assignavit eidem abbatisse pro pignore
+totum suum ius  quod ipse habebat vel videbatur habere in feudo
+
+DOK$anon_056/1213.0.0/1213.0.0/1213/1213/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Der Priester Fabilius von Terzo verzichtet zugunsten des Klosters S. Maria zu
+Aquileia auf all sein Erbgut gegen Nachla· einer Geldschuld und weitere
+Geldzuweisungen.
+
+REG$Der Priester Fabilius von Terzo verzichtet zugunsten des Klosters S. Maria zu
+Aquileia auf all sein Erbgut gegen Nachla· einer Geldschuld und weitere
+Geldzuweisungen.
+F$MAN OF 59/084/44/44
+G$Fabilius/Priester/Terzo/Terzo//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Schuldenerla·/Geldschuld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$e questo rilascia a quello le cinque marche che aveva avute
+B$Mangels einer Urkunde nach dem Regest gearbeitet.
+
+DOK$anon_054/1213.5.18/1213.5.18/1213 Mai 18/anno eiusdem MCCXIII, mensis maii
+die exeunte XIIII, indictione prima/Muggia/Muggia//Istrien/
+S$Walpert/Muggia/Walpert
+V$Walpert/Muggia/Walpert
+K$Urso Chalcha von Muggia Åbergibt dem Kloster S. Maria zu Aquileia ein Haus zu
+Muggia und anderes mehr.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$MAN OF 15/124/148/148
+G$X/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$fiat compositurus ad monasterium sancte Marie et toti eiusdem monasterii auri
+optimi librum I
+
+DOK$anon_061/1216.5.19/1216.5.19/1216 Mai 19/anno domini millesimo
+ducentesimo sextodecimo, indictione quarta, die iovis,
+terci(o)decimo die exeunte madio/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/X/Albert
+V$Albert/X/Albert
+K$ébtissin Engelrat von S. Maria [zu Aquileia] verlangt von Johannes Giselmondus
+von Perteole gewisse Besitzungen. Dieser widersteht zunÑchst aufgrund einer
+Urkunde der ébtissin Heilwig (U. 55), verzichtet aber am Schlu· doch.
+
+REG$ébtissin Heilwig von S. Maria [zu Aquileia] investiert Johannes Giselmondus
+von Perteole mit gewissen Besitzungen, wofÅr er jÑhrlich 40 Pfennige Agleier
+MÅnze zahlen mu·.
+F$MAN OF 15/079/91f/91
+G$Johannes/Genannter/Perteole/Perteole//Friaul-SÅd/
+G$Heilwig/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$X/X/X/X//
+H$Zinsverpflichtung/Zins/Perteole/Perteole//Friaul-SÅd/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$pro quadraginta denaris monete Aquilegensis annuatim solvendo
+
+REG$Johannes Giselmondus hat der ébtissin Engelrat von S. Maria und dem Kloster
+gegenÅber eine Schuld von 4 Pfund Friesacher MÅnze oder einem servitium.
+F$MAN OF 15/079/91f/91
+G$Engelrat/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Johannes/X/Perteole/Perteole//Friaul-SÅd/
+H$Ablîse?/Schuld?/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+A$4 Pfund Friesacher MÅnze/1 servitium
+Q$tu teneris nobis \dots quattuor libra frixacensis monete aut unum
+servitium
+
+REG$ébtissin Engelrat vom Kloster S. Maria in Aquilegia investiert den Johannes de
+Perteole gegen Zahlung von 4 Pfund Agleier MÅnze.
+F$MAN OF 15/079/91f/91
+G$Johannes/X/Perteole/Perteole//Friaul-SÅd/
+E$Engelrat/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Investitur-Erwerb/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$solvendo quatuor libras monete Aquilegensis
+
+DOK$anon_064/1220.11.25/1220.11.25/1220 November 25/anno domini MCCXX,
+indictione XIII, sexto die exeunte novembre/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/X/Albert
+V$Albert/X/Albert
+K$Vertrag zwischen der ébtissin Giselrat von Aquileia und der Gemeinde Isola
+Åber Einsetzung und Pflichten des Gastalden zu Isola.
+
+REG$Strafbestimmung in der Hîhe von 10 Mark Silber.
+F$CDI 2/225/408/408
+F$Kos  5/322/169/169
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kommune/Isola/Isola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$sub pena decem marcarum puri argenti
+
+DOK$anon_068/1225.3.19/1225.3.19/1225 MÑrz 19/anno domini MCCXXV,
+indictione XIII, die mercurii, XIII die exeunte
+marcio/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/X/Andreas
+V$Andreas/X/Andreas
+K$Dietrich von Terzo, Waldmeister der ébtissin von S. Maria [zu Aquileia], und
+sein Neffe verleihen dem Michael Zora eine halbe Hufe zu Terzo.
+
+REG$Dietrich von Terzo, Waldmeister der ébtissin von S. Maria [zu Aquileia], und
+sein Neffe verleihen dem Michael Zora eine halbe Hufe zu Terzo unter einer
+Zinsverpflichtung in der Hîhe von jÑhrlich einer halben Mark Agleier MÅnze.
+F$MAN OF 15/060/61f/62
+G$Michael Zora/X/X/X//
+E$Dietrich/Waldmeister/Terzo/Terzo//Friaul-SÅd/
+H$Zinsverpflichtung/Zins/Terzo/Terzo//Friaul-SÅd/
+W$Aquileia/moneta/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvendo annuatim dimidiam marcam monete Aquilegensis
+
+REG$Strafbestimmung in der Hîhe von 5 Mark Agleier MÅnze.
+F$MAN OF 15/060/61f/62
+G$Dietrich/Waldmeister/Terzo/Terzo//Friaul-SÅd/
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena V marcarum monete Aquilegensis
+
+REG$Strafbestimmung in der Hîhe von 5 Mark Agleier MÅnze.
+F$MAN OF 15/060/61f/62
+G$Dietrich/Waldmeister/Terzo/Terzo//Friaul-SÅd/
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena V marcarum monete Aquilegensis
+
+DOK$anon_093/1225.4.6/1229.3.11/1225 April 6 - 1229 MÑrz
+11/X/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/X/Romanus
+V$Romanus/X/Romanus
+K$ébtissin Meregarda von S. Maria [zu Aquileia] kauft von Mistat, BÅrger zu
+Aquileia, ein Haus zu Aquileia.
+
+REG$ébtissin Meregarda von S. Maria [zu Aquileia] kauft von Mistat, BÅrger zu
+Aquileia, ein Haus zu Aquileia um 14 Mark.
+F$Cappelletti Chiese 8/X/296ff/X
+G$Mistat/X/Aquileia/Aquileia//Friaul-SÅd/
+E$Meregarda/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Kauf/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$cum denaris predicte Hirmingardis a domino Mistat civi Aquilegensi pro XIIII
+marcis emit
+B$Urkunde nur als ErwÑhnung Åberliefert
+
+DOK$anon_072/1225.10.20/1225.10.20/1225 Oktober 20/anno eiusdem MCCXXV,
+indictione XIII, die XII exeunte mensis Octubris/Aquileia/Aquileia//Friaul-SÅd/
+S$Nikolaus/Isola/Nikolaus
+V$Nikolaus/Isola/Nikolaus
+K$ébtissin Meregarda von S. Maria [zu Aquileia] und Almericus Spandinuces,
+Prokurator von Capodistria, einigen sich in ihrem Streit um Isola auf genannte
+Schiedsleute.
+
+REG$Strafbestimmung in der Hîhe von 200 Mark Silber.
+F$CDI 2/238/423/423
+F$Kos 5/428/214f/215
+G$Almericus/Kommune/Capodistria/Capodistria//Istrien/
+E$Meregarda/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena CC marcharum arienti
+B$"arienti" steht wohl statt "argenti".
+
+DOK$anon_073/1225.10.20/1225.10.20/1225 Oktober 20/anno domini MCCXXV,
+indictione XIII, die
+lune, duodecimo die exeunte Octubre/Aquileia/Aquileia//Friaul-SÅd/
+S$Albericus/X/Albericus
+V$Albericus/X/Albericus
+K$Pilgrim, Kanoniker von Aquileia, und Warinus de Ponte von Capodistria als
+Schiedsleute entscheiden zwischen dem Kloster S. Maria [zu Aquileia] und der
+Gemeinde Capodistria wegen ihrer beiderseitigen Rechte zu Isola.
+
+REG$Strafbestimmung in der Hîhe von 200 Mark Silber.
+F$CDI 2/239/424/424
+F$Kos 5/429/215f/215
+G$X/Kommune/Capodistria/Capodistria//Istrien/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$si qua autem partium contra quod superius legitur venire temptaverit
+aliquo tempore ducentas marcas argenti adverse parti componat
+
+DOK$anon_075/1227.5.30/1227.5.30/1227 Mai 30/anno a nativitate eiusdem MCCXXVII,
+indictione XV, die penultimo mensis madii exeuntis/X/X//
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Palmera, Frau des Artuicus von Strassoldo, verweigert die Annahme von
+dreieinhalb Mark, mit denen ébtissin Meregarda und das Kloster [S. Maria zu
+Aquileia] eine Hufe zu Alturis auslîsen wollten.
+
+REG$Palmera, Frau des Artuicus von Strassoldo, verweigert die Annahme von
+dreieinhalb Mark, mit denen ébtissin Meregarda und das Kloster [S. Maria zu
+Aquileia] eine Hufe zu Alturis auslîsen wollten.
+F$MAN OF 15/082/95/95
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Palmera/Genannter/Strassoldo/Strassoldo//Friaul-SÅd/
+H$Annahmeverweigerung/Pfand_Auslîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$3,5/marca/X
+Z$X/X/X
+M$X/den.?/X/A
+Q$III marcas et dimidiam pro quodam manso de Alturis \dots denarios \dots de
+eisdem denariis nichil sciebant \dots ipsos denarios ?
+B$Handlungsort vermutlich Strassoldo (verweigerte Annahme durch Frau von
+Strassoldo)
+
+DOK$anon_082/1228.0.0/1228.0.0/1228/anno a n(ativitate eiusd)em
+MCCXXVIII, indictione prima, die octavo mensis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Margarete von Ronchi Åbergibt dem Kloster S. Maria [zu Aquileia] einen Hof zu
+Aquileia im Stadtteil S. Felice.
+
+REG$Margarete von Ronchi Åbergibt dem Kloster S. Maria [zu Aquileia] einen Hof zu
+Aquileia im Stadtteil S. Felice und erhÑlt diesen auf Lebenszeit zurÅck, wofÅr
+diese, solange sie lebt, einen Zins von 4 Pfennigen zahlt.
+F$Galeazzi/24/X/X
+G$Margarete/X/Ronchi/Ronchi//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Zinsverpflichtung/Zins/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denarios Aquilegensis monete solvere debet
+B$Galeazzi datiert 1228 Mai 10, aus A.
+
+REG$Strafbestimmung in der Hîhe von 2 Pfund Gold.
+F$Galeazzi/24/X/X
+G$X/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/bonum;purum/Z
+Q$sub pena duarum librarum boni et puri auri
+B$Galeazzi datiert 1228 Mai 10, aus A.
+
+DOK$anon_081/1228.2.14/1228.2.14/1228 Februar 14/anno a
+nativitate eiusdem MCCXXVIII, indictione prima, die
+quartodecimo mensis febr. introeuntis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$ébtissin Meregardis von S. Maria [zu Aquileia] und Artuicus von Strassoldo
+einigen sich auf Schiedsleute in ihrem Streit um SchÑdigungen des Klosters zu
+Alturis und an anderen genannten Orten.
+
+REG$Verzeichnis der SchÑden, die der ébtissin Meregardis bzw. dem Kloster von S.
+Maria [zu Aquileia] durch Artuicus von Strassoldo zu Alturis zugefÅgt wurden.
+F$MAN OF 15/102/119f/119
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Hartwig/X/Strassoldo/Strassoldo//Friaul-SÅd/
+H$Schadenverzeichnis/Schaden-Wert/Alture con Cervignano/Alture con
+Cervignano//Friaul-SÅd/
+W$X/X/
+O$150/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in C L marcis dampnificavit
+
+DOK$anon_097/1229.7.13/1229.7.13/1229 Juli 13/anno a nativitate eiusdem MCCXXVIIII,
+indictione secunda, die tertiodecimo mensis iulii
+introeuntis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Johannes, Geschworener der ébtissin Meregarda von S. Maria [zu Aquileia] in
+Muscoli, Åbergibt der ébtissin 42 Pfennige als Schadengutmachung seitens der
+Frau Palmera von Strassoldo und ihres Sohnes Bernhard. Die ébtissin gibt das
+Geld den GeschÑdigten weiter, damit diese es unter sich verteilen.
+
+REG$Johannes, Geschworener der ébtissin Meregarda von S. Maria [zu Aquileia] in
+Muscoli, Åbergibt der ébtissin 42 Pfennige Agleier MÅnze, die ihm ein Bote der
+Frau Palmera von Strassoldo und ihres Sohnes Bernhard als Schadensgutmachung
+Åbergeben hat.
+F$Simonetti App.I/4/X/X
+G$Johannes/X/Muscoli/Muscoli//Friaul-SÅd/
+E$Meregarda/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Schadengutmachung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$42/den./X/Z
+Q$XLII denarios monete Aquilegensis
+
+REG$Johannes, Geschworener der ébtissin Meregarda von S. Maria [zu Aquileia] in
+Muscoli, Åbergibt der ébtissin 42 Pfennige Agleier MÅnze, die ihm ein Bote der
+Frau Palmera von Strassoldo und ihres Sohnes Bernhard als Schadensgutmachung
+Åbergeben hat.
+F$Simonetti app.I/4/X/X
+G$X/Bote/Strassoldo/Strassoldo//Friaul-SÅd/
+E$Johannes/X/Muscoli/Muscoli//Friaul-SÅd/
+H$Schadengutmachung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$42/den./X/Z
+Q$nuncius domine Palmere de Strasov et filii eius domini Bernardi militis de
+Strasov sibi eosdem aportaverant denarios
+B$"42" aus dem Zusammenhang erschlossen.
+
+REG$Die Boten der Frau Palmera von Strassoldo haben auf ihr Gehei· und das ihres
+Sohnes Bernhard dem Vizedom Federico des Klosters S. Maria zu Aquileia 42
+Pfennige als Strafe fÅr angerichtete SchÑden Åbergeben.
+F$Simonetti App.I/4/X/X
+G$X/Boten/Muscoli/Muscoli//Friaul-SÅd/
+E$Federico/Vizedom/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Schadengutmachung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$42/den./X/Z
+Q$hos denarios ex precepto dicte domine Palmere et \dots nuntii ipsorum domino
+Federico vicedomino eiusdem monasterii wadiaverant
+B$"42" aus dem Zusammenhang erschlossen.
+
+REG$Die Boten der Frau Palmera von Strassoldo haben auf ihr Gehei· und das ihres
+Sohnes Bernhard dem Vizedom Federico des Klosters S. Maria zu Aquileia 42
+Pfennige als Strafe fÅr angerichtete SchÑden Åbergeben, welche die ébtissin
+empfÑngt.
+F$Simonetti App.I/4/X/X
+G$Federico/Vizedom/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Meregarda/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Schadengutmachung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$42/den./X/Z
+Q$ab eo prestito prefata domina abbatissa prenominatos denarios recepit, quos
+cum recepisset eosdem denarios
+B$"42" aus dem Zusammenhang erschlossen.
+
+DOK$anon_102/1230.1.26/1230.1.26/1230 JÑnner 26/anno a nativitate eiusdem MCCXX,
+indictione tertia, die sexto mensis iuanuarii exeuntis/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$ébtissin Meregardis von S. Maria [zu Aquileia] erlÑ·t Bestimmungen fÅr das
+Anniversar fÅr Frau Hirmingardis, die einst in Gîrz Hirmila genannt worden war.
+
+REG$ébtissin Meregarda von S. Maria [zu Aquileia] bestimmt fÅr das
+Anniversar fÅr Frau Hirmingardis unter anderem einen KÑse im Wert von 16
+Pfennigen.
+F$Cappelletti Chiese 8/X/296ff/297
+F$Kos 5/514/255f/256
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Anniversar/Anniversar/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+A$16 Pf. Agleier MÅnze/1 KÑse
+Q$unus caseus XVI denarios monete Aquilegensis valens
+B$Reg. Gîrz 1, 429, S. 115f datiert 1230 JÑnner 6.
+
+REG$ébtissin Meregarda von S. Maria [zu Aquileia] bestimmt fÅr das
+Anniversar fÅr Frau Hirmingardis unter anderem Fleisch im Wert von 60
+Pfennigen.
+F$Cappelletti Chiese 8/X/296ff/297
+F$Kos 5/514/255f/256
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Anniversar/Anniversar/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$sanctimonialibus LX denarii carnum
+B$Reg. Gîrz 1, 429, S. 115f datiert 1230 JÑnner 6.
+
+REG$ébtissin Meregarda von S. Maria [zu Aquileia] bestimmt fÅr das
+Anniversar fÅr Frau Hirmingardis unter anderem Fisch um 40 Pfennige.
+F$Cappelletti Chiese 8/X/296ff/297
+F$Kos 5/514/255f/256
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Anniversar/Anniversar/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$XL denarios piscium praedictis sanctimonialibus emantur
+B$Reg. Gîrz 1, 429, S. 115f datiert 1230 JÑnner 6.
+
+REG$ébtissin Meregarda von S. Maria [zu Aquileia] kauft mit dem Geld von
+Frau Hirmingardis ein Haus vom Agleier BÅrger Mistat um 14 Mark.
+F$Cappelletti Chiese 8/X/296ff/297
+F$Kos 5/514/255f/256
+G$Maregarda/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Mistat/BÅrger/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$domus \dots domina Maregardis abbatissa cum denariis praedictae Hirmingardis a
+domino Mistat civi aquilegiensi pro XIIII marchis emit
+B$Reg. Gîrz 1, 429, S. 115f datiert 1230 JÑnner 6.
+
+DOK$anon_105/1231.6.18/1231.6.18/1231 Juni 18/1231 indictione IIII, 17
+iunii/Aquileia/Aquileia//Friaul-SÅd/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Berthold, Ritter von Rena, verpfÑndet der ébtissin Meregarda von S. Maria [zu
+Aquileia] zwei Hufen zu Terzo und Cervignano.
+
+REG$Berthold, Ritter von Rena, verpfÑndet der ébtissin Meregarda von S. Maria [zu
+Aquileia] zwei Hufen zu Terzo und Cervignano um 20 Mark.
+F$MAN OF 15/036/32/32
+G$Meregarda/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Berthold/Ritter/Aquileia Rena/Aquileia,Rena//Friaul-SÅd/
+H$PfandgeschÑft/Immobilien/Terzo u.Cervignano/Terzo u.Cervignano//Friaul-SÅd/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro pegno \dots per l'esborso di 20 marche
+
+REG$Strafbestimmung in der Hîhe von 19 Mark Agleier MÅnze.
+F$MAN OF 15/036/32/32
+G$Berthold/Ritter/Aquileia/Aquileia//Friaul-SÅd/
+E$Meregarda/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$19/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena decem novem marcarum monete Aquilegensis
+B$Ritter della Rena kommt von Arena in Aquileia
+
+DOK$anon_109/1234.1.29/1234.1.29/1234 JÑnner 29/anno domini
+MCCXXXIIII, indictione VII, die dominicoo, III die
+exeunte ianuario/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/X/Andreas
+V$Andreas/X/Andreas
+K$Hirmilina, Frau des Ritters Cholo von Flaschberg, verzichtet zugunsten der
+ébtissin Herburgis und des Klosters von S. Maria [zu Aquileia] auf ihre fÅnf
+Hufen zu Ronzino und einen Keller zu Aquileia gegen Zusage bestimmter
+Naturalleistungen.
+
+REG$Hirmilina, Frau des Ritters Cholo von Flaschberg verzichtet fÅr sich und ihre
+Erben zugunsten der ébtissin Herburgis von S. Maria zu Aquileia auf 5 Mansen in
+Ronzino und auf einen Keller in Aquileia, wofÅr die étissin ihr auf Lebensdauer
+jÑhrlich unter anderem 3 Mark und 32 Pfennige Agleier MÅnze, die HÑlfte zu Johannis
+und die andere HÑlfte zu Weihnachten zahlt.
+F$AT NS 11/16/398ff/399
+F$Kos 5/610/292/292
+F$Reg. Gîrz 1/455/122/122
+G$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Hirmilina/X/Flaschberg/Flaschberg//KÑ.-wo??/
+H$Zinsverpflichtung/Zins/Ronzina/Ronzina/Ronzino/sw.Tolmein
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$32/den./X/Z
+Q$III marcas et XXXII denarios Aquilegensis monete dimidietatem in festo sancti
+Johannis baptiste et dimidietatem in nativitate domini
+
+REG$Strafbestimmung in der Hîhe von 5 Mark Agleier MÅnze.
+F$AT NS 11/16/398ff/400
+F$Reg. Gîrz 1/455/122/122
+G$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Hirmilina/X/Flaschberg/Flaschberg//KÑ.-wo??/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena V marcharum Aquilegensis monete
+
+DOK$anon_110/1236.4.4/1236.4.4/1236 April 4/anno domini MCCXXXVI, indictione
+VIIII, die iovis, IIII die intrante aprili/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/kaiserl. Notar/Andreas
+V$Andreas/kaiserl. Notar/Andreas
+K$Rudolf Truffa bestÑtigt den Empfang von 23 und ein Drittel Mark Agleier MÅnze, welche ihm
+ébtissin Herburgis von S. Maria [zu Aquileia] fÅr die Aufgabe zweier Hufen zu
+Terzo geschuldet hat.
+
+REG$Rudolf Truffa bestÑtigt den Empfang von 23 und ein Drittel Mark Agleier
+MÅnze, welche ihm ébtissin Herburgis von S. Maria [zu Aquileia] fÅr die Aufgabe
+zweier Hufen zu Terzo geschuldet hat.
+F$MAN OF 15/061/62f/62
+G$Rudolf Truffa/X/X/X//
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Schuldbegleichung/Geldschuld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$23,33/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$XXIII marchis Aquilegensis monete et tercia parte unius marce
+predicte monete Aquilegensis \dots pro quibus supradictis denariis solvendis
+
+REG$Strafbestimmung in der Hîhe von 20 Mark Agleier MÅnze.
+F$MAN OF 15/061/62f/63
+G$Rudolf Truffa/X/X/X//
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XX marcarum Aquilegensis monete
+
+DOK$anon_111/1236.4.16/1236.4.16/1236 April 16/anno domini MCCXXXVI, indictione
+VIIII, die mercurii, XV die exeunte aprili/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/kaiserl. Notar/Andreas
+V$Andreas/kaiserl. Notar/Andreas
+K$Heinrich, Sohn des Ritters Martin von Aquileia, verzichtet zugunsten der
+ébtissin Herburgis und des Klosters von S. Maria [zu Aquileia] auf eine halbe
+Hufe zu Cervignano.
+
+REG$Strafbestimmung in der Hîhe von 10 Mark Agleier MÅnze.
+F$MAN OF 15/056/55/55
+G$Heinrich/X/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena X marcarum Aquilegensis monete
+
+DOK$anon_116/1238.8.19/1238.8.19/1238 August 19/anno domini MCCXXXVIII,
+indictione XI, die iovis, XIII die exeunte augusto/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/kaiserl. Notar/Andreas
+V$Andreas/kaiserl. Notar/Andreas
+K$ébtissin Herburgis von S. Maria [zu Aquileia] verleiht der Gisela von
+Pantianis und deren Sohn Dominikus eine Wiese zu Pantianis.
+
+REG$Gisela von Pantianis und ihr Sohn Dominikus zahlen fÅr eine Wiese zu Pantianis
+einen jÑhrlichen Zins von 6 Pfennigen Agleier MÅnze an das Kloster S. Maria [zu
+Aquileia].
+F$BCU Ms. 1225/26/X/X
+F$Galeazzi/25/X/X
+G$Gisela/Genannte/Pantianicco/Pantianicco//Friaul-Mitte/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/Pantianicco/Pantianicco//Friaul-Mitte/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$ab eidem investitis VI den. Aquilegensis monete
+
+REG$Strafbestimmung in der Hîhe von einem Pfund reinen Goldes.
+F$BCU Ms. 1225/26/X/X
+F$Galeazzi/25/X/X
+G$Gisela/X/Pantianicco/Pantianicco//Friaul-Mitte/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$sub pena une libre puri auri
+
+REG$Strafbestimmung in der Hîhe von einem Pfund reinen Goldes.
+F$BCU Ms. 1225/26/X/X
+F$Galeazzi/25/X/X
+G$Gisela/X/Pantianicco/Pantianicco//Friaul-Mitte/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$sub pena eiusdem libre puri auri
+B$"Ein" Pfund aus dem Zusammenhang erschlossen.
+
+DOK$anon_173/1239.4.21/1239.4.21/1239 April 21/anno domini [MCC]XXXVIIII, die X
+exeunte april., indictione XII/Aquileia/Aquileia//Friaul-SÅd/
+S$Widotus/kaiserl. Notar/Widotus
+V$Widotus/kaiserl. Notar/Widotus
+K$Belechus, Sohn des Amicus von Alturis, wohnhaft zu Mortisino, und andere
+versprechen dem Blasius von S. Stefano die Zahlung einer Schuld.
+
+REG$Belechus, Sohn des Amicus von Alturis, wohnhaft zu Mortisino, und andere
+versprechen dem Blasius von S. Stefano die Zahlung einer Schuld.
+F$MAN OF 15/085/100/100
+G$Belechus/Genannter/Alture con Cervignano/Alture con Cervignano//Friaul-SÅd/
+E$Blasius/v.S.Stefano/Aquileia/Aquileia//Friaul-SÅd/
+H$Zahlungsversprechen/Geldschuld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$1/marca/X
+Z$X/X/X
+M$32/den./X/Z
+Q$unam marcam denariorum Aquilegensis monete et XXXII denarios
+Aquilegenses
+
+DOK$anon_119/1240.7.8/1240.7.8/1240 Juli 8/VIII id.
+iulii/Venedig/Venedig//Veneto/
+S$X/X/X
+V$X/X/X
+K$Der pÑpstliche Legat G(regor) von Montelongo schreibt dem Bischof von
+Cittanova wegen der Lîsung des Klosters S. Maria [zu Aquileia] aus gewissen
+Zahlungsverpflichtungen.
+
+REG$Das Kloster S. Maria [zu Aquileia] hat aufgrund pÑpstlichen Mandats dem
+Subdiakon und Kanoniker von S. Maria Maggiore in Rom jÑhrlich 20 Schilling
+Denarii grossi zu zahlen und soll davon befreit werden.
+F$MAN OF 15/095/111/111
+G$X/Kloster/Aquileia S.Maria/Aquileia,S.Maria//Friaul-SÅd/
+E$Bartholomeus/Subdiakon v.S.Maria Maggiore/Rom/Rom//Latium/
+H$Zahlungserleichterung/Provisionen/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./grossus/Z
+Q$viginti solidos denariorum grossorum annuatim exsolvunt
+
+REG$Der Kanoniker Petrus von Padua soll vom Kloster S. Maria [zu Aquileia]
+jÑhrlich mit 30 Schillingen Denarii grossi versorgt werden.
+F$MAN OF 15/095/111/111
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Petrus/Kanoniker/Padua/Padua//Veneto  ?
+H$Provision/Provision/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$30/sol./X
+M$X/den./grossus/Z
+Q$in triginta solidis eiusdem monete Petro canonico Paduano ab eodem monasterio
+annis singulis faciat provideri
+
+DOK$anon_120/1241.1.14/1241.1.14/1241 JÑnner 14/anno domini MCCXLI, indictione
+XIIII, intrante ianuario XIIII die/Aquileia/Aquileia//Friaul-SÅd/
+S$Otto/kaiserl. Notar/Otto
+V$Otto/kaiserl. Notar/Otto
+K$ébtissin Herburgis von S. Maria [zu Aquileia] ÅberlÑ·t der Witwe Aureana eine
+Hufe zu S. Martino bei Terzo auf Lebenszeit.
+
+REG$Strafbestimmung in der Hîhe von 10 Mark Agleier MÅnze.
+F$MAN OF 15/062/63f/64
+G$Aureana/X/S.MartinodiTerzo/S. Martino di Terzo//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena decem marcarum Aquilegensis monete
+
+DOK$anon_131/1243.4.19/1243.4.19/1243 April 19/anno domini MCCXLIII,
+indictione prima, die XII exeunte april./Aquileia/Aquileia//Friaul-SÅd/
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$ébtissin Herburgis und der Konvent von S. Maria [zu Aquileia] bestellen
+Dominicus von Triest zu ihrem Prokurator zwecks Vergabe bestimmter
+Klosterbestitzungen in Muggio.
+
+REG$Strafbestimmung in der Hîhe von 5 Mark Agleier Pfennigen.
+F$MAN OF 15/109/124/124
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Dominikus/X/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena V marcarum denariorum Aquilegensis monete
+
+DOK$anon_137/1244.2.14/1244.2.14/1244 Februar 14/anno domini MCCXLIIII,
+indictione
+secunda, die XIIII intrante februario/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Christoph von Rosazzo verkauft der ébtissin Herburg und dem Kloster zu
+Aquileia einen Zins von 2 Pfennigen zu Terzo.
+
+REG$Christoph von Rosazzo verkauft der ébtissin Herburg und dem Kloster zu
+Aquileia einen Zins von 2 Pfennigen zu Terzo.
+F$MAN OF 15/X/9/9
+G$Christoph/Genannter/Rosazzo/Rosazzo//Friaul-Ost/
+E$Herburg/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Zins/Immobilien/Terzo/Terzo//Friaul-SÅd/
+W$Aquileia/moneta/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$censum duorum denariorum Aquilegiensis monete
+
+DOK$anon_138/1244.6.8/1244.6.8/1244 Juni 8/anno domini MCCXLIIII, indictione II,
+die octavo intrante iunio/Venedig/Venedig//Venedig/
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Fradonus, mansionarus der Kirche von Aquileia und Prokurator des Klosters S.
+Maria [zu Aquileia], appelliert angesichts der drohenden Exkommunikation von
+ébtissin und Kloster an den Papst.
+
+REG$Wertgrenze eines beneficium competens (15 Pfund) des Klosters S. Maria zu
+Aquileia im Sinne einer pÑpstlicher littera
+F$MAN OF 15/110/124f/125
+G$Fradonus/X/Aquileia/Aquileia//Friaul-SÅd/
+E$BartholomÑus/Kanoniker/Rom/Rom,S.Maria Magg.//Latium/
+H$Wertangabe/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$15/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quia non valet si XV libra annuatim
+
+REG$Die ébtissin Herburgis des Klosters S. Maria zu Aquileia und der Konvent
+mÅssen dem Bartholomeus jÑhrlich zweieinhalb Mark zahlen.
+F$MAN OF 15/110/124f/125
+G$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd          ? wie gehabt
+E$BartholomÑus/Kanoniker/Rom/Rom,S.Maria Magg.//Latium/
+H$Leistungspflicht/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$tenetur dare annuatim \dots duas marcas et dimidiam
+
+REG$Gerichtskosten in der Hîhe von 5 Schilling Denarii grossi.
+F$MAN OF 15/110/124f/125
+G$S.Maria Magg./Kapitel/Rom/Rom//Latium/
+E$Fradonus/X/Aquileia/Aquileia//Friaul-SÅd/
+H$Gerichtskosten/Gerichtskosten/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/den./grossus/Z
+Q$ut quelibet opportare deberet quinque solidos denariorum
+grossorum pro consilio habendo et expensis faciendis
+
+DOK$anon_139/1245.2.2/1245.2.2/1245 Februar 2/anno domini millesimo
+ducentesimo quadragesimo quinto, indictione tertia,
+die secundo intrante februario/Aquileia/Aquileia//Friaul-SÅd/
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$ébtissin Herburgis von S. Maria [zu Aquileia] verleiht dem Rosetus von Terzo
+ein StÅck Land in Terzo.
+
+REG$Strafbestimmung in der Hîhe von 5 Mark Agleier Pfennigen.
+F$MAN OF 15/010/9/9
+G$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+E$Rosetus/Genannter/Terzo/Terzo//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena IIIII marcharum denariorum Aquilegensis monete
+
+DOK$anon_140/1245.6.15/1245.6.15/1245 Juni 15/anno domini MCCXLV, indictione
+III, die quintodecimo intrante iunio/Gîrz/Gîrz//Friaul-Ost/
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Graf Meinhard [III.] von Gîrz verpfÑndet an ébtissin Herburgis und das Kloster
+S. Maria [zu Aquileia] seine Vogteirechte zu Pantianis, Beano (wohl di Rivolta
+bei Codroipo) und Zompicchia auf 10 Jahre.
+
+REG$Graf Meinhard [III.] von Gîrz verpfÑndet an ébtissin Herburgis und das Kloster
+S. Maria [zu Aquileia] seine Vogteirechte zu Pantianis, Beano (wohl di Rivolta
+bei Codroipo) und Zompicchia auf 10 Jahre fÅr 200 Mark Agleier Pfennige.
+F$HHStA AUR/zum Datum/X/X
+F$Reg. Gîrz 1/513/135f/135
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Meinhard III./Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Vogtei/Pantianicco/Pantianicco//Friaul-Mitte/
+H$PfandgeschÑft/Vogtei/Zompicchia/Zompicchia//Friaul-Mitte/
+H$PfandgeschÑft/Vogtei/BeanodiRivolta/Beano di Rivolta//Friaul-Ost/
+W$Aquileia/moneta/
+O$200/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro ducentis marcis denariorum Aquilegensis monete
+B$Fortsetzung zu 1138.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark reinen Silbers.
+F$HHStA AUR/zum Datum/X/X
+F$Reg. Gîrz 1/513/135f/135
+G$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/bonum;optimum;purum/Z
+Q$sub pena centum marcarum boni et optimi atque puri argenti
+B$Von diesem Dokument existieren zwei Fassungen.
+
+DOK$anon_146/1246.11.16/1246.11.16/1246 November 16/anno domini MCCXLVI,
+indictione quarta, die quintodecimo exeunte novembr./Venedig/Venedig//Veneto/
+S$Philipp/X/Philipp
+V$Philipp/X/Philipp
+K$Ursus, Kleriker der Kirche von Aquileia und Prokurator von ébtissin und
+Konvent von S. Maria [zu Aquileia], will zur Abwehr einer Provision beweisen,
+da· das Kloster S. Maria [zu Aquileia] zu den am schwersten von Provisionen
+belasteten Kirchen in der Diîzese von Aquileia gehîre. Infolge Nichtzulassung
+seines Beweisangebotes appelliert er an den Papst.
+
+REG$Provision fÅr Petrus Scrovegni, Kanoniker zu Padua, zu Lasten des Klosters S.
+Maria [zu Aquileia].
+F$MAN OF 15/003/126f/126
+G$Ursus/Kleriker/Aquileia/Aquileia//Friaul-SÅd/
+E$Petrus/Scrovegni/Padua/Padua//Veneto/
+H$Provision/Provision/Aquileia/Aquileia//Friaul-SÅd/
+W$Verona/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$provisione Petri Scrubini canonici Paduani in quattuor lib. Veronensium
+B$Da Exponent der Rîm. Kirche, nicht familiÑre Herkunft berÅcksichtigt.
+
+REG$Provision des pÑpstlichen Legaten Gregor von Montelongo zu Lasten des Klosters
+S. Maria [zu Aquileia].
+F$MAN OF 15/003/126f/126
+G$Ursus/Kleriker/Aquileia/Aquileia//Friaul-SÅd/
+E$Gregor/Genannter/Rîm.Kirche Montelongo/Rîm. Kirche/Montelongo/wo??/
+H$Provision/Provision/Aquileia/Aquileia//Friaul-SÅd/
+W$Verona/X/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro procuracionibus eiusdem domini Gregorii de Montelongo in sexaginta lib.
+Veronensium annuatim
+
+REG$Provision des BartholomÑus, Kanoniker von S. Maria Maggiore zu Rom, zu Lasten
+des Klosters S. Maria [zu Aquileia].
+F$MAN OF 15/003/126f/126
+G$Ursus/Kleriker/Aquileia/Aquileia//Friaul-SÅd/
+E$BartholomÑus/Kanoniker/Rom/Rom,S.Maria Magg.//Latium/
+H$Provision/Provision/Aquileia/Aquileia//Friaul-SÅd/
+W$Verona/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Bertholomeus canonicus sancte Marie maioris de Urbe ipsam abbatissam et
+eius conventum pro provisione sua vexat singulis annnis in XXV lib. Veronensium
+
+DOK$anon_151/1247.0.0/1247.0.0/1247/1247/X/X/X//
+S$Alexander/X/Alexander
+V$Alexander/X/Alexander
+K$Wilhelm, Kanoniker und Scholaster von Aquileia, Åbergibt ébtissin Herburgis
+von Aquileia Geld zur Anfertigung eines Antiphonars.
+
+REG$Wilhelm, Kanoniker und Scholaster von Aquileia, Åbergibt ébtissin Herburgis
+von Aquileia 10 Mark Agleier Pfennige zur Anfertigung eines Antiphonars.
+F$MAN OF 59/093/48/48
+G$Wilhelm/Kanoniker/Aquileia/Aquileia,Kapitel//Friaul-SÅd/
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$öbergabe/Geld/Aquileia/Aquileia//Friaul-SÅd/
+H$Buchherstellung/Buch/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$diede \dots dieci marche perchÇ facesse un'antifonario per uso delle
+monache
+
+REG$Wilhelm, Kanoniker und Scholaster von Aquileia, Åbergibt ébtissin Herburgis
+von Aquileia 10 Mark zur Anfertigung eines Antiphonars, und dazu
+20 Schillinge Venet. Grossi, um das Antiphonar in zwei BÑnden herzustellen,
+davon den einen als Graduale und den anderen als Antiphonar.
+F$MAN OF 59/093/48/48
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+H$öbergabe/Geld/Aquileia/Aquileia//Friaul-SÅd/
+W$Venedig/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/grossus/A
+Q$diede ancora vinti soldi di grossi Veneciali per fare esso antifonario in due
+volumi
+
+DOK$anon_153/1248.0.0/1248.0.0/1248/1248 indictione VI/X/X/X//
+S$Alexander/X/Alexander
+V$Alexander/X/Alexander
+K$Magister Wilhelm, Kanoniker [von Aquileia], Åbergibt der ébtissin Herburgis
+[von S. Maria zu Aquileia neuerlich] Geld zur Anfertigung eines
+Antiphonars.
+
+REG$Wilhelm, Kanoniker und Scholaster von Aquileia, Åbergibt ébtissin Herburgis
+von Aquileia 5 Mark Agleier Pfennige zur Anfertigung eines Antiphonars.
+F$BCU Ms. 1368,1/X/45/45
+G$Wilhelm/Kanoniker/Aquileia/Aquileia,Kapitel//Friaul-SÅd/
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Buchherstellung/Buch/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/X
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit ... quinque marcas denariorum Aquileg.
+
+DOK$anon_154/1248.0.0/1248.0.0/um 1248/1X/X/X/X//
+S$Alexander/X/Alexander
+V$Alexander/X/Alexander
+K$Wilhelm, Kanoniker [von Aquileia], Åbergibt ébtissin Herburgis
+von Aquileia Geld fÅr eine Pitanz.
+
+REG$Wilhelm, Kanoniker [von Aquileia], Åbergibt ébtissin Herburgis
+von Aquileia weitere 10 Mark Agleier Pfennige fÅr eine Pitanz.
+F$BCU Ms. 1368,1/X/45/45
+G$Wilhelm/Kanoniker/Aquileia/Aquileia,Kapitel//Friaul-SÅd/
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Pitanz/Pitanz/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/X
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit ... decem marchas denariorum Aquilegensis monete
+
+REG$Wilhelm, Kanoniker [von Aquileia], Åbergibt ébtissin Herburgis
+von Aquileia 5 Mark Agleier Pfennige fÅr eine Pitanz.
+F$BCU Ms. 1368,1/X/45/45
+G$Wilhelm/Kanoniker/Aquileia/Aquileia,Kapitel//Friaul-SÅd/
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$Pitanz/Pitanz/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/X
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dederat eisdem antea quinque marcas denariorum eiusdem monete
+
+DOK$anon_156/1249.0.0/1249.0.0/1249/1249 indictione VII/X/X//
+S$Alexander/X/Alexander
+V$Alexander/X/Alexander
+K$Magister Wilhelm, Kanoniker [von Aquileia], Åbergibt der ébtissin Herburgis
+[von S. Maria zu Aquileia] abermals Geld zur Fertigstellung
+eines Antiphonars.
+
+REG$Magister Wilhelm, Kanoniker [von Aquileia], Åbergibt der ébtissin Herburgis
+[von S. Maria zu Aquileia] abermals einen Geldbetrag, nÑmlich 20 Soldi Venet.
+Denarii Grossi zur Fertigstellung eines Antiphonars.
+F$BCU Ms. 1368,1/104/45/45
+G$Wilhelm/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$öbergabe/Geld/Aquileia/Aquileia//Friaul-SÅd/
+W$Venedig/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./grossus/Z
+Q$viginti soldos denariorum grossorum Venecialium ad perficiendum antiphonarium
+musicum
+B$Nach dem Regest gearbeitet.
+
+REG$Magister Wilhelm, Kanoniker [von Aquileia], Åbergibt der ébtissin Herburgis
+[von S. Maria zu Aquileia] nÑmlich 20 Soldi Venet. Denarii Grossi zur
+Erstellung eines Graduale
+F$BCU Ms. 1368,1/104/45/45
+G$Wilhelm/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Herburgis/ébtissin/Aquileia/Aquileia,S.Maria//Friaul-SÅd/
+H$öbergabe/Geld/Aquileia/Aquileia//Friaul-SÅd/
+W$Venedig/X/
+O$X/X/X
+Z$20/sol./X
+M$X/den./grossus/Z
+Q$viginti soldos denariorum grossorum Venecialium ad faciendum
+fieri graduale musicum
+B$Nach dem Regest gearbeitet.
+
+DOK$anon_XXX/1231.0.0/1250.0.0/1231-1250/mense Madii/X/X ?
+S$X/X/X
+V$X/X/X
+K$Ausgabenverzeichnis zu Casellis. (Quelle? offensichtlich nicht nicht Trinko)
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/X/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$28/den./X/A
+Q$XXVIII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$XXIIII den.
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$VI denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$XXIIII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$100/den./X/A
+Q$C denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/A
+Q$XX denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$VI libras denariorum
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$8/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$octo libras denariorum
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$13/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$XIII libras denariorum
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/18
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$XXIIII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/19
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$XXIIII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/19
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$VI denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/19
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$VIII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/19
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$22/den./X/A
+Q$XXII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+REG$Ausgabenverzeichnis zu Casellis.
+F$MAN OF 15/021/18f/19
+G$S.Maria/Kloster/Aquileia/Friaul-SÅd
+E$S.Maria/Kloster/Aquileia/Friaul-SÅd  ?
+H$Ausgaben?/Geldsumme/Casellis/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$VIII denarios
+B$mehrere WÑhrungsnennungen ohne Ortsangaben
+
+

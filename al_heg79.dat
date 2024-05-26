@@ -1,0 +1,4246 @@
+
+note *** 1. ôsterreichische Reise 1. Teil
+note *** Vorschlag: Nur die Nennungen mit Ortsangabe aufnehmen, da auch bei
+         anderen Editionen so verfahren wurde - mit Ausnahme von Wolfgers
+         Italienreise - und damit eine Vergleichsmîglichkeit fehlt. Aufwand
+         daher nicht zu rechtfertigen.
+note *** G bzw. E einmal Heinrich, dann der Bischof
+note *** Gestrichenes aufnehmen?
+note *** FÅr jedes Datum bzw. jeden Ort eigenes Dokument angelegt.
+
+note *** Einlesen der Rohdaten al_heg79.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$HEGER_101*/1203.9.22/1203.9.22/1203 September 22/in die sancti Mauritii/Gîttweig/Gîttweig//Nô,s.Krems/
+S$X/Passau/X
+V$X/Passau/X
+K$Einnahme Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Ulrich Åbergibt dem Magister Heinrich 2 Talent und 42 Pfennige.
+F$Heger/101*/79/79
+G$Ulrich/X/X/X//
+E$Heinrich/Magister/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Gîttweig/Gîttweig//Nô,s.Krems/
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$42/den./X/A
+Q$assignavit \dots duo talenta et XLII den.
+
+DOK$HEGER_102*/1203.9.29/1203.9.29/1203 September 29/in die sancti Michahelis/Mautern a.d.Donau/Mautern a.d.Donau//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Einnahme Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Propst Sigehard von St. Pîlten, der Bruder Bischof Wolfgers von Passau,
+Åbergibt dem Magister Heinrich 5 Talent.
+F$Heger/102*/79/79
+G$Sigehard/Propst/St.Pîlten/St. Pîlten//Nô/
+E$Heinrich/Magister/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/St.Pîlten/St. Pîlten//Nô/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$V tal.
+
+DOK$HEGER_103*/1203.9.30/1203.10.24/1203 September nach 29/in die sancti
+Michahelis/Weitra/Weitra//Nô,s.GmÅnd/
+S$X/Passau/X
+V$X/Passau/X
+K$Einnahme Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Der Propst (Sigehard) von St. Pîlten, (der Bruder Bischof Wolfgers von
+Passau,) Åbergibt dem Magister Heinrich 5 Talent.
+F$Heger/103*/79/79
+G$X/Propst/St.Pîlten/St.Pîlten//Nô/
+E$Heinrich/Magister/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/St.Pîlten/St. Pîlten//Nô/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$V tal.
+
+DOK$HEGER_104*/1203.9.30/1203.10.24/1203 September nach 29?/X/Zeiselmauer/Zeiselmauer//Nô,î.Tulln/
+S$X/Passau/X
+V$X/Passau/X
+K$Einnahme Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Der Dekan von Wien Åbergibt dem Magister Heinrich 2 Talent.
+F$Heger/104*/79/79
+G$X/Dekan/Wien/Wien//Wien/
+E$Heinrich/Magister/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Wien/Wien//Wien/
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$II tal.
+
+REG$Der Pfarrer von Mîdling Åbergibt dem Magister Heinrich ein Talent.
+F$Heger/104*/79/79
+G$X/Pfarrer/Mîdling/Mîdling//Nô,s.Wien/
+E$Heinrich/Magister/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Mîdling/Mîdling//Nô,s.Wien/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$unum tal.
+
+REG$Der Prior von Walderbach Åbergibt dem Magister Heinrich 9 Talent (-streckt sie leihweise vor).
+F$Heger/104*/79/79
+G$X/Prior/Walderbach a.Regen/Walderbach a.Regen//nî.Regensburg,Oberpf./
+E$Heinrich/Magister/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Walderbach a.Regen/Walderbach a.Regen//nî.Regensburg,Oberpf./
+W$X/X/
+O$9/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$VIIII tal.
+B$Der Prior des Zisterzienserklosters von Walderbach am Regen, nordîstlich von
+Regensburg, Oberpfalz, streckt die 9 Talent lediglich leihweise vor (Heger
+S.117).
+
+REG$Der Pfarrer von Nalb Åbergibt dem Bischof (Wolfger von Passau) bei Retz 2
+Talent.
+F$Heger/104*/79/79
+G$X/Pfarrer/Unternalb/Unternalb/Nalb/Nô,s.Retz/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Unternalb/Unternalb/Nalb/Nô,s.Retz/
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$duo tal.
+
+REG$Pfarrer Hertnid von Neukirchen am Walde Åbergibt dem Bischof (Wolfger von
+Passau) ein Talent.
+F$Heger/104*/79/79
+G$Hertnid/Pfarrer/Neukirchena.Walde/Neukirchen a.Walde//Nô,n.Peuerbach/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Neukirchena.Walde/Neukirchen a.Walde//Nô,n.Peuerbach/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$unum tal.
+
+REG$Der Dekan von Enns Åbergibt dem Bischof (Wolfger von Passau) drei Talent
+alter Ennser (MÅnze).
+F$Heger/104*/79/79
+G$X/Dekan/Enns/Enns//Oô/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Enns/Enns//Oô/
+W$Enns/X/
+O$3/tal./X
+Z$X/X/X
+M$X/X/vetus/A
+Q$III tal. veterum Anasensium
+B$Vgl. A. Luschin von Ebengreuth, Die Wiener Pfennige, Numismatische Zs. 8
+(1876), S. 256-258 erst Ende des 12. Jh. Ennser MÅnze angenommen.
+
+REG$Der Abt von Garsten Åbergibt dem Bischof (Wolfger von Passau) 28 Schilling
+Friesacher minus 3 Pfennige.
+F$Heger/104*/79/79
+G$X/Abt/Garsten/Garsten//Oô,s.Steyr/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Garsten/Garsten//Oô,s.Steyr/
+W$Friesach/X/
+O$X/X/X
+Z$28/sol./X
+M$3/den./minus/A
+Q$X[XV]III sol. Frisac. minus tribus den.
+
+REG$Der Dekan von Mattsee Åbergibt dem Bischof (Wolfger von Passau) ein Talent.
+F$Heger/104*/79/79
+G$X/Dekan/Mattsee/Mattsee//n.Salzburg/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Mattsee/Mattsee//n.Salzburg/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$unum tal.
+
+REG$Ein Pfarrer Åbergibt dem Bischof (Wolfger von Passau) ein Talent.
+F$Heger/104*/79/79
+G$X/Pfarrer/X/X//
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$unum tal.
+
+REG$Der Kanoniker Wilhelm Åbergibt dem Bischof (Wolfger von Passau) 5 Talent.
+F$Heger/104*/79/79
+G$Wilhelm/Kanoniker/X/X//
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$V tal.
+
+REG$Der Abt von Seitenstetten Åbergibt dem Bischof (Wolfger von Passau) 5 Talent.
+F$Heger/104*/79/79
+G$X/Abt/Seitenstetten/Seitenstetten//Nô,sw.Amstetten/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Seitenstetten/Seitenstetten//Nô,sw.Amstetten/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$V tal.
+
+REG$Der Kellermeister von Ebelsberg Åbergibt dem Bischof (Wolfger von Passau) 10
+Talent.
+F$Heger/104*/79/79
+G$X/Kellermeister/Ebelsberg/Ebelsberg//Oô,sî.Linz/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Ebelsberg/Ebelsberg//Oô,sî.Linz/
+W$X/X/
+O$10/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$X tal.
+
+REG$Der Kleriker von Waldkirchen am Wesen Åbergibt dem Bischof (Wolfger von
+Passau) ein Talent.
+F$Heger/104*/79/79
+G$X/Kleriker/Waldkirchen a.Wesen/Waldkirchen a. Wesen//Oô,s.Donau vor Beginn
+der Schlîgener Schlinge/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Waldkirchen a. Wesen/Waldkirchen a. Wesen//Oô,s.Donau
+vor Beginn der Schlîgener Schlinge/
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$I tal.
+
+REG$Der Propst von Germansberg Åbergibt dem Bischof (Wolfger von Passau) 5 Talent.
+F$Heger/104*/79/79
+G$X/Propst/Germansberg/Germansberg//Niederb.,nw.Deggendorf a.Donau/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Germansberg/Germansberg//Niederb.,nw.Deggendorf a.Donau/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$V tal.
+
+REG$Pfarrer Ulrich von Aschbach Åbergibt dem Bischof (Wolfger von Passau) 2 Talent.
+F$Heger/104*/79/79
+G$Ulrich/Pfarrer/Aschbach/Aschbach//Nô,sw.Amstetten/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Aschbach/Aschbach//Nô,sw.Amstetten/
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$II tal.
+
+REG$Der Propst von Amstetten Åbergibt dem Bischof (Wolfger von Passau) 5 Talent.
+F$Heger/104*/79/79
+G$X/Propst/Amstetten/Amstetten//Nô/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Amstetten/Amstetten//Nô/
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$V tal.
+
+REG$Der Pfarrer von Neukirchen in der Riedmark (heute Gallneukirchen)  Åbergibt
+dem Bischof (Wolfger von Passau) 6 Talent.
+F$Heger/104*/79/79
+G$Hertnid/Pfarrer/Gallneukirchen/Gallneukirchen/Neukirchen in der Riedmark/Oô,nî.Linz/
+E$Wolfger/Bischof/Passau/Passau//Niederb./
+H$Reiserechnung/EinkÅnfte/Gallneukirchen/Gallneukirchen/Neukirchen in der Riedmark/Oô,nî.Linz/
+W$X/X/
+O$6/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$VI tal.
+
+DOK$HEGER_105*/1203.9.22/1203.9.22/1203 September 22/in die sancti Mauritii/Gîttweig/Gîttweig//Nô,s.Krems/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+OberjÑgermeister von Passau 24 Pfennige.
+F$Heger/105*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/OberjÑgermeister/Passau/Passau//Niederb./
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$dedit \dots XXIIII den.
+
+DOK$HEGER_106*/1203.9.23/1203.9.28/1203 September 23 - 28/X/St.Pîlten/St. Pîlten//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Boten des
+ungarischen Kînigs (Emmerich) fÅr Kleidung 63 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/Bote/Ungarn/Ungarn//Ungarn?
+H$Reiserechnung/Botenlohn?Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$63/den./X/A
+Q$pro tunica LXIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Boten des
+ungarischen Kînigs (Emmerich) zur Einlîsung der PfÑnder 60 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/Bote/Ungarn/Ungarn//Ungarn?
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$ad redemptionem pignorum LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Boten des
+ungarischen Kînigs? (Emmerich) fÅr Schuhe 5 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niedernb./
+E$X/Bote/Ungarn/Ungarn//Ungarn?
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro calceis V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr zwei Pallia
+(mantelÑhnlicher Umhang) ein halbes Talent und 27 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$27/den./X/A
+Q$Pro duabus manticis ad cappellam et ad vestimenta episcopi dim. tal. et XXVII
+den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs
+ein halbes Talent aus.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Pro cera dim. tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+(gehîrte zur engsten familia des Bischofs) 22 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Normannus/familia/Passau/Passau/? /Niederb./
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$22/den./X/A
+Q$XXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+2 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Wido/familia/Passau/Passau/?  /Niederb./
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] der WÑscherin
+10 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/WÑscherin/X/X//
+H$Reiserechnung/WÑscherin/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz
+6 Pfennige aus.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$pro licno VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Pergament
+12 Pfennige aus.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$pro percameno XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Magister
+Remund? 16 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Remund?/Magister/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$XVI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Magister
+Heinrich fÅr Almosen 5 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Heinrich/Magister/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$pro bursis V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Magister
+Heinrich pro conuenda socania sua 4 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Heinrich/Magister/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$pro consuenda socania sua IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Magister
+Heinrich ein halbes Talent, um PfÑnder einzulîsen.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Heinrich/Magister/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro redemptione pignorum dim. talentum
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Bîhmen 12 Pfennige.
+F$Heger/106*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/Bote/Bîhmen/Bîhmen//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$XII den.
+
+DOK$HEGER_107*/1203.9.30/1203.10.24/1203 nach September 29/X/Zîbing a.Kamp/Zîbing a.Kamp//Nô,nî.Krems/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem frater
+Egelolf 60 Pfennige.
+F$Heger/107*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Egelolf/frater/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten
+12 Pfennige.
+F$Heger/107*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$garcioni XII den.
+
+DOK$HEGER_108*/1203.9.29/1203.9.29/1203 September 29/X/Mautern a.d.Donau/Mautern a.d.Donau//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Einlîsung von PfÑndern 23 Pfennige aus.
+F$Heger/108*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîse/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$23/den./X/A
+Q$XXIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Falkenbeize 3 Pfennige aus.
+F$Heger/108*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Falkenbeize/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Einlîsung von PfÑndern 18 Pfennige aus.
+F$Heger/108*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$Ad redemptionem pignorum pro suo et alterius magistri Heinrici equis XVIII
+den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Gerhard 36
+Pfennige, die er dem Bischof fÅr Almosen gegeben hat.
+F$Heger/108*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Gerhard/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$36/den./X/A
+Q$solvit XXXVI den. quos ipse [e]piscopo concesserat ad elemosinam
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Hugo 14
+Pfennige, die er dem Bischof fÅr Almosen gegeben hat.
+F$Heger/108*/79/79
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Hugo/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/A
+Q$solvit XIIII den. quos ipse similiter concesserat ad elemosinam.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem, der dem
+Bischof einen WÅrfel aus Elfenbein gebracht hat, ein Talent.
+F$Heger/108*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$tal.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+10 Pfennige.
+F$Heger/108*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro ferramentis X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wernher von
+Aldenhoven (sÅdlich von Erla und nordîstlich von St. Valentin, Nô, Neffe
+Wolfgers) zwei Talent.   laut Reg. Zîbing, nach 9.29
+F$Heger/108*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Wernher/Genannter/Altenhofen/Altenhofen/Aldenhoven/Nô,s.Erla,nî.St.Valentin/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$II tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Falkenbeize drei Pfennige aus.
+F$Heger/108*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Falkenbeize/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$falconibus III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs
+62 Pfennige aus.
+F$Heger/108*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$62/den./X/A
+Q$Pro cera LXII den.
+
+DOK$HEGER_109*/1203.9.30/1203.10.24/1203 nach September 29/X/Znaim/Znaim/Znojmo/MÑhren/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten 12
+Pfennige.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Gaukler 12
+Pfennige.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/Gaukler/X/X//
+H$Reiserechnung/Gaukler?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Gerhard
+fÅr einen Handschuh fÅr die Falknerei? 6 Pfennige.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$Gerhard/X/X/X//
+H$Reiserechnung/Handschuh/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$VI den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr ein
+Huhn,FÅllen? 2 Pfennige.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb./
+E$X/X/X/X//
+H$Reiserechnung/pro pullo?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Pro pullo II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Falkenbeize 6 Pfennige aus.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Falkenbeize/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$falconibus VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Kleriker
+12 Pfennige.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Kleriker/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Hugo 4
+Pfennige.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Hugo/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Einlîsung von PfÑndern 90 Pfennige aus.
+F$Heger/109*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$90/den./X/A
+Q$Pro redemptione pignorum LXXXX den.
+
+DOK$HEGER_110*/1203.9.30/1203.10.24/1203 nach September 29/X/Retz/Retz//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+SpÑher Wilhelm 4 Pfennige.
+F$Heger/110*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wilhelm/SpÑher/X/X//
+H$Reiserechnung/SpÑherlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$IIII den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Normann fÅr
+Hufbeschlag 2 Pfennige.
+F$Heger/110*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$pro ferramentis II den.
+
+DOK$HEGER_111*/1203.9.30/1203.10.24/1203 nach September 29/X/Altenburg/Altenburg//Nô,sw.Horn/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Beleuchtung
+4 Pfennige.
+F$Heger/111*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Beleuchtung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$pro lu[min]e IIII den.
+
+DOK$HEGER_111aa*/1203.9.30/1203.10.24/1203 nach September 29/X/Weikertschlag/Weikertschlag//Nô,a.Thaya,n.Raabs/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] einem aucupi?
+60 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/aucupi?/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$cuidam aucupi LX den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] einem kahlen
+Gaukler 30 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Gaukler/X/X//
+H$Reiserechnung/Gaukler?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$[XX]X den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem blinden
+Busching 30 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Busching/X/X/X//
+H$Reiserechnung/Almosen?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$XXX den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Boten
+Bardus 3 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Bardus/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Bardo garcioni III den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] seinem Boten
+3 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Garcioni meo III den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Diener des
+Markgrafen (Konrad) von Landsberg 3 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Diener/Landsberg b.Halle a.d.Saale/Landsberg b.Halle a.d.Saale//Ostmark Niederlausitz?
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Servo \dots III den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+4 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Normanno IIII den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Pferde des
+Bischofs 4 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Equis episcopi IIII den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Kalogus von
+Falkenstein 2 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Kalogus/Genannter/Falkenstein/Falkenstein//Nô,nw.Poysdorf/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$II den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Pferde der
+Kammer 6 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$VI den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag 13 Pfennige.
+F$Heger/111aa*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/A
+Q$pro ferramentis XIII den.
+
+DOK$HEGER_112*/1203.9.30/1203.10.24/1203 nach September 29/X/Weitra/Weitra//Nô,s.GmÅnd/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 4 Pfennige fÅr
+eine Satteldecke aus.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Satteldecke/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$pro subsellio IIII den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] einem
+Pfeilmacher ein Talent.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Pfeilmacher/X/X//
+H$Reiserechnung/Pfeile/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$cuidam sagittario tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem alten
+Bettler zwei Schilling.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bettler/X/X//
+H$Reiserechnung/Almosen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$pauperi II sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Einlîsung von PfÑndern ein halbes Talent minus einem Pfennig aus.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$1/den./minus/A
+Q$Pro redemptione pignorum dim. tal. minus uno den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido neun
+Pfennige.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/A
+Q$VIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann 4
+Pfennige.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Boten des
+Kînigs (Philipp) und des Markgrafen (Konrad) von Landsberg ein Talent.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Boten/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$unum tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Bardus vier
+Pfennige.
+F$Heger/112*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Bardus/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$IIII den.
+
+DOK$HEGER_113*/1203.9.30/1203.10.24/1203 nach September 29/X/Senftenberg/Senftenberg//Nô,nw.Krems/
+S$X/Passau/X   dann eig. Krems?
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein Pfand 10
+Pfennige aus.
+F$Heger/113*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Passau, der einen jungen Hund gebracht hat, zwei Schilling.
+F$Heger/113*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Passau/Passau//Niederb.
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$II sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Gernot 38
+Pfennige zurÅck.
+F$Heger/113*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Gernot/X/X/X//
+H$Reiserechnung/Schuldentilgung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$38/den./X/A
+Q$XXXVIII den.
+
+DOK$HEGER_114*/1203.10.25/1203.10.27/1203 nach September 29/X/Zeiselmauer/Zeiselmauer//Nô,î.Tulln/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs ein
+halbes Talent und 40 Pfennige.
+F$Heger/114*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$40/den./X/A
+Q$pro cera dim. tal. et XL den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr ein Seil
+2 Pfennige.
+F$Heger/114*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$pro fune II den.
+
+DOK$HEGER_115*/1203.10.28/1203.11.10/1203 Oktober 28 - November 10/X/Wien/Wien//Wien/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Heu und
+Hufbeschlag 3 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Heu;Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] pro sera mantice
+8 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/pro sera mantice?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr zwei HÅte
+12 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/HÅte/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein grobes
+Gewand 10 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro sacco X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe des
+Bischofs 62 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$62/den./X/A
+Q$LXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein Gewand
+des Normann 73 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$73/den./X/A
+Q$LXXIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr seinen
+Pelzrock ein halbes Talent und fÅnf Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pelzrock/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro pellicio suo dim. tal. et V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr einen Dolch
+des Magister H(eirich) 3 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Dolch/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag 4 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Handschuhe des Bischofs 4 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Handschuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Pergament
+12 Pfennige aus.
+F$Heger/115*/80/80
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pergament/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$XII den.
+B$nota  eig. vor heger-15?
+
+DOK$HEGER_116*/1203.10.25/1203.10.25/1203 Oktober 25/In sabbato ante festum apostolorum
+Symonis et Jude/Krems a.d.Donau/Krems a.d.Donau//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bischof Wolfgers von Passau lÑ·t dem Mînch Heinrich 10 3|16 Kîlnische Mark
+auszahlen, die zu Wien nur 9 Mark und 6 Pfennige wert sind.
+F$Heger/116*/80/80
+G$X/bischîfl.Kasse/Passau/Passau//Niederb.
+E$Heinrich/Mînch/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Kîln/pondus/
+O$10/marca/X
+Z$1/ferto/X
+Z$1/Lot/minus
+M$X/X/X/A
+A$10 Mark 1 Ferto minus 1 Lot Kîlner Gewichts/9 Mark 6 Pf. Wiener
+Q$X marcas et unum fertonem minus uno [l]oth ad pondus Colon. quo non
+ponderabant apud Wiennam plus quam VIIII marc. et VI den.
+B$Laut Regesten 1203 (nach September 29) Åberquert Wolfger die Donau.  ?
+
+REG$Bischof Wolfgers von Passau lÑ·t dem Mînch Heinrich 10 3|16 Kîlnische Mark
+auszahlen, die zu Wien nur 9 Mark und 6 Pfennige wert sind.
+F$Heger/116*/80/80
+G$X/bischîfl.Kasse/Passau/Passau//Niederb.
+E$Heinrich/Mînch/X/X//
+H$Reiserechnung/Wertangabe/unbestimmt/unbestimmt//
+W$Wien?/X/
+O$9/marca/X
+Z$X/X/X
+M$6/den./X/A
+A$9 Mark 6 Pf. Wiener/10 Mark 1 Ferto minus 1 Lot Kîlner Gewichts
+Q$X marcas et unum fertonem minus uno [l]oth ad pondus Colon. quo non
+ponderabant apud Wiennam plus quam VIIII marc. et VI den.
+
+REG$Bischof Wolfgers von Passau lÑ·t dem Mînch Heinrich 10 3|16 Kîlnische Mark
+auszahlen, die zu Wien nur 9 Mark und 6 Pfennige wert sind. Jene gibt er fÅr 11
+Talent Silber, welches er Magister Wolenand von WÅrzburg bezahlen mu·.?
+F$Heger/116*/80/80
+G$Heinrich/Mînch/X/X//
+E$X/X/X/X//
+H$Reiserechnung/Silber/unbestimmt/unbestimmt//
+W$X/X
+O$11/tal./X
+Z$X/X/X
+M$X/argentum/X/A
+A$11 Talent Silber/10 Mark 1 Ferto minus 1 Lot Kîlner Gewichts
+A$11 Talent Silber/9 Mark 6 Pf. Wiener
+Q$Illas dedit \dots pro XI tal. et hoc erat de argento
+
+REG$Andreas wechselt [im Auftrag Bischof Wolfgers von Passau] bei Krems 10 Talent
+Passauer minus 38 Pfennige fÅr 8,5 Talent und 40 Pfennige Wiener MÅnze.
+F$Heger/116*/81/81
+G$Andreas/X/X/X//
+E$X/Geldwechsler/Krems a.d.Donau/Krems a.d.Donau//Nô/
+H$Reiserechnung/Geldwechsel/Krems a.d.Donau/Krems a.d.Donau//Nô/
+W$Passau/X/
+O$10/tal./X
+Z$X/X/X
+M$38/den./minus/A
+A$10 Talent Passauer minus 38 Pf./8,5 Talent 40 Pf. Wiener MÅnze
+Q$cambivit Andreas  apud Cremis decem tal. Pattavien. preter XXXVIII den. pro
+VIII tal. et dimidio et XL den. Wienn. monete.
+
+REG$Andreas wechselt [im Auftrag Bischof Wolfgers von Passau] bei Krems 10 Talent
+Passauer minus 38 Pfennige fÅr 8,5 Talent und 40 Pfennige Wiener MÅnze.
+F$Heger/116*/81/81
+G$X/Geldwechsler/Krems a.d.Donau/Krems a.d.Donau//Nô/
+E$Andreas/X/X/X//
+H$Reiserechnung/Geldwechsel/Krems a.d.Donau/Krems a.d.Donau//Nô/
+W$Wien/moneta/
+O$8,5/tal./X
+Z$X/X/X
+M$40/den./X/A
+A$8,5 Talent 40 Pf. Wiener MÅnze/10 Talent Passauer minus 38 Pf.
+Q$cambivit Andreas  apud Cremis decem tal. Pattavien. preter XXXVIII den. pro
+VIII tal. et dimidio et XL den. Wienn. monete.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Herrn
+Wolblin 5 Talent und 12 Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wolblin/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$12/den./X/A
+Q$V tal. et XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr einen
+RegenChormantel? des Bischofs 12,5 lange Schilling aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$12,5/sol./longus
+M$X/X/X/A
+Q$XII sol. longos et dim.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr verschiedene
+PelzstÅcke zum FÅttern der Kutten ein halbes Talent aus.?
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung?Felle/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$dim. tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs ein
+halbes Talent und 20 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$20/den./X/A
+Q$dim. tal. et XX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Instandsetzung von alten SÑtteln und fÅr einen neuen 5 lange Schilling und 5
+Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/SÑttel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./longus
+M$5/den./X/A
+Q$V sol. longos et V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr zwei Pallia
+des Wido und Normann drei lange Schilling und 11 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./longus
+M$11/den./X/A
+Q$tres sol. longos et XI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann fÅr
+Mantel, Handschuhe und Mitra 11 Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$11/den./X/A
+Q$XI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein grobes
+Gewand 10 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro sacco X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Verpflegung 47 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$47/den./X/A
+Q$Pro expensa et pabulo XLVII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr seinen
+Pelzrock 5 Schilling minus 9 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pelzrock/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$9/den./minus/A
+Q$Pro pellicio fratris Heinrici V sol. minus IX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Stiefel
+fÅr den Boten des Herzogs (Berthold V.) von ZÑhringen 6 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Stiefel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$De parandis ocreis nuncii de Zaringen VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] pro mantica
+15 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/pro mantica/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/A
+Q$De paranda et amplianda quadam mantica XV den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] der
+WÑscherin 7 Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/WÑscherin/X/X//
+H$Reiserechnung/WÑscherin/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$lotrici VII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr zwei Schuhe
+4 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro duobus soccis IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+Boten des Herzogs (Berthold V.) von ZÑhringen ein halbes Talent.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/ZÑhringen b.Freiburg i.Br./ZÑhringen b.Freiburg i.Br.//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Nuncio ducis Zaringie dim. tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+Boten des Grafen von Lîwenberg am Inn 30 Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Leonberg a.Inn/Leonberg a.Inn//Oberb.,nw.Marktl, OG Marktlberg/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Nuncio comitis de Lewenberch XXX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr lederne
+SÑcke 11 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/LedersÑcke/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$11/den./X/A
+Q$De parandis bulgis XI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido 8
+Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Widoni VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Huglin 40
+Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Huglin/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$Huglino XL den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 72
+Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$72/den./X/A
+Q$Pro cera LXXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 80
+Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$80/den./X/A
+Q$Pro cera LXXX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+10 Pfennige aus.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro ferramentis X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem fahrenden
+Scholaren 30 Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Scholar/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Cuidam vago scolari XXX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten
+des Erzbischofs (Eberhard II. von Salzburg) 60 Pfennige.
+F$Heger/116*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Salzburg/Salzburg//S/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Nuncio archiepiscopi LX den.
+
+DOK$HEGER_117*/1203.11.4/1203.11.4/1203 November 4/feria tercia/Schwadorf a.d.Fischa/Schwadorf a.d.Fischa//Nô,sî.Wien/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 74
+Pfennige aus.
+F$Heger/117*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$74/den./X/A
+Q$pro cera LXXIIII den.
+B$   1203.10.28-1203.11.10  1203 Oktober 28 bis November 10 ?
+
+DOK$HEGER_118*/1203.11.4/1203.11.4/1203 November 4? 10.28-11.1/X/Zeiselmauer/Zeiselmauer//Nô,î.Tulln 0?
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wein 89
+Pfennige aus.
+F$Heger/118*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$89/den./X/A
+Q$pro bono vino LXXXVIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr zwei
+FÑ·chen (Wein?) 8 Pfennige aus.
+F$Heger/118*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$In duas lagenas VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Riemen und
+Leder, die man fÅr die SÑcke braucht, 3 Pfennige aus.
+F$Heger/118*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Leder/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro corrigiis et arunio ad bulgas III den.
+
+DOK$HEGER_119*/1203.10.28/1203.11.10/1203 Oktober 28 bis November 10/X/Wien/Wien//Wien/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Gewand 70
+Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Heinrich/Mînch/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$70/den./X/A
+Q$pro tunica LXX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 49?
+Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$49?/den./X/A
+Q$Pro cera IL? den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Futter und Hufbeschlag 10 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Futter;Hufbeschlag;Peitschen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro pabulo et ferramentorum clauis X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Andreas 22
+Pfennige fÅr Holz.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Andreas/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$22/den./X/A
+Q$pro lignis ad tristega XXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Andreas 3
+Pfennige fÅr Hufbeschlag.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Andreas/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$pro ferramentis III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] der WÑscherin 3
+Pfennige.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/WÑscherin/X/X//
+H$Reiserechnung/WÑscherin/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe fÅr
+Magister Heinrich 3 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro parandis calciis magistri Heinrici III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe fÅr
+den Diener 4 Pfennige in die Kasse?.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Kasse/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro calciis garciunculi in camera IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe fÅr
+den Bischof 5 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro duobus calciolis episcopi V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] in Wien 5
+Pfennige ad expensam aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/ad expensam?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Ad expensam in Wienna V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe fÅr
+Magister Heinrich 5 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro duobus calciolis magistri Heinrici V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr das
+Anfertigen seines Sattels 10 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Sattel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro liganda sella fratris Heinrici X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+Wagenlenker von Schwadorf? 40 Pfennige.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Wagenlenker/Schwadorf a.d.Fischa/Schwadorf a.d.Fischa//Nô,sî.Wien/
+H$Reiserechnung/Wagenlenker/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$Aurige de Suabedorf XL den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Futter 3 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Futter/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro pabulo III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag 6 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag;Peitschen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Pro ferramentis et clauis VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr einen GÅrtel
+3 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/GÅrtel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$pro cingulo III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] pro sera
+ad manticam capelle 8 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/pro mantica/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Pro sera ad manticam cappelle VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe eines
+Dieners, der das Lasttier fÅhrt, 5 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro calciis garcionis qui trahit soumarium V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido fÅr
+Tuch ad soccaniam 36 Pfennige und dazu 7 Pfennige.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Tuch/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$36/den./X/A
+M$7/den./X/A
+Q$pro panno ad soccaniam XXXVI den. et insuper VII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr einen
+Schleifstein fÅr das Rasiermesser 3 Pfennige aus.
+F$Heger/119*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schleifstein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro cote ad rasoria III den.
+
+DOK$HEGER_120*/1203.11.10/1203.11.10/1203 November 10/in secunda feria ante festum sancti
+Martini/Klosterneuburg/Klosterneuburg//nw.Wien/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs
+77 Pfennige aus.
+F$Heger/120*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$77/den./X/A
+Q$Pro cera \dots LXXVII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Kleriker
+ein halbes Talent.
+F$Heger/120*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Kleriker/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$cuidam clerico dim. tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Otto Biber
+60 Pfennige.
+F$Heger/120*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Otto Biber/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Einlîsung von PfÑndern 13 Pfennige aus.
+F$Heger/120*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/A
+Q$pro redemptione pignorum XIII den.
+
+DOK$HEGER_121*/1203.11.12/1203.11.12/1203 November 12/X/Zeiselmauer/Zeiselmauer//Nô,î.Tulln/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Walther von
+der Vogelweide fÅr die Anschaffung eines Pelzrockes 5 lange Schilling.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Walther/Genannter/ôsterreich ?/Vogelweide//Babenberger Mark/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X
+O$X/X/X
+Z$5/sol./longus
+M$X/X/X/A
+Q$pro pellicio V sol. longos
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+Erzbischofs von Mainz (Lupold von Schînfeld, Bischof von Worms) 60 Pfennige.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Mainz/Mainz//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem kahlen
+HÑretiker von Ennsdorf 34 Pfennige.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/HÑrektiker/Ennsdorf/Ennsdorf//Nô,î.Enns/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$34/den./X/A
+Q$Cuidam calvo apostate de Enstorf XXXIIII den.
+B$Laut Register Rulandus Apostata aus Ennsdorf, ehemaliger Ketzer.  ?
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs
+58 Pfennige aus.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$58/den./X/A
+Q$LVIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener
+Widos 2 Pfennige.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Diener/Passau/Passau//Niederb.
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Garcioni Widonis II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr das
+Beschlagen der Pferde des Erzbischofs 8 Pfennige aus.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Pro sufferandis equis episcopi VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr einige
+?Kleinigkeiten 5 Pfennige aus.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro quibusdam minutis agendis V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag 6 Pfennige aus.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag;Peitschen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Pro ferramentis et clauis VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein Pferd
+eine halbe Mark aus.
+F$Heger/121*/81/81
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferd/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Pro quodam equo dim. marc.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener
+zwei kurze Schillinge.
+F$Heger/121*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Diener/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./brevis
+M$X/X/X/A
+Q$Cuidam garcioni II sol. breves
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Bîhmen
+4 Pfennige.
+F$Heger/121*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Boemo IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wisinhard
+fÅr Wein 20 Pfennige.
+F$Heger/121*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wisinhard/X/X/X//
+H$Reiserechnung/Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/A
+Q$Visinhardo pro vino XX den.
+
+DOK$HEGER_122*/1203.11.13/1203.11.29/1203 nach November 12/X/Tulln a.d.Donau/Tulln a.d.Donau//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 72
+Pfennige aus.
+F$Heger/122*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$72/den./X/A
+Q$Pro cera \dots LXXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener,
+der zum Herzog (Ludwig I.) von Bayern reist, 40 Pfennige.
+F$Heger/122*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Diener/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$Garcioni qui cucurrit ad ducem Bawarie XL den.
+
+DOK$HEGER_123*/1203.11.13/1203.11.29/1203 nach November 12/X/St.Pîlten/St. Pîlten//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr 2 Fuchspelze
+und 15 verschiedene Felle 107 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Felle/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$107/den./X/A
+Q$pro duabus vulpinis pelliculis et XV pelliculis variis CVII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Tuch fÅr die
+Anfertigung eines Sattels fÅr die Kînigin (Konstanze) von Bîhmen 8 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Stoff/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Pro panno ad operiendam sellam regine Boemie VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem
+bîhmischen Falkner 6 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Falkner/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Boemico falconario VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] jenen, die die
+Kleidung des Bischofs anfertigten, 60 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Illis qui paraverunt vestes episcopi LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Riemen
+der Lasttiere 18 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Riemen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$pro corrigiis [ad] soumarios XVIII [den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Eisenhaken
+(wohl SteigbÅgel) 3 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/SteigbÅgel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro ferruncis III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Pferdegurten
+2 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferdegurten/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Pro cinculis equinis II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ZÅgel
+5 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/ZÅgel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro freno V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr 2 Handschuhe
+4 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Handschuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro duabus cirotecis IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Bekleidung und einen kurzen Mantel eines Boten aus Rom 66 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$66/den./X/A
+Q$Pro tunica garcionis de Roma et scapruni LXVI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Stoff ad
+operiendam socaniam 50 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Stoff/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$50/den./X/A
+Q$Pro panno ad operiendam socaniam fratris Heinrici L den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+9 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/A
+Q$Widoni VIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+3 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Normanno III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Einlîsung von PfÑndern 23 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$23/den./X/A
+Q$Equis camere ad redemptionem pignorum XXIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Reparatur der SÑttel 6 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Sattelreparatur/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Pro reparandis sellis VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener
+12 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Diener/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Cuidam nudo garcioni XII den.
+B$nudus mu· hier wohl als entblî·t verstanden werden im Sinne von beraubt oder
+einfach als dÅrftig im Hinblick auf die fÅr die Jahreszeit wahrscheinlich schon
+zu leichte Bekleidung (Heger S. 123.)
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Pergament
+12 Pfennige aus.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pergament/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Pro percameno XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einer WÑscherin
+fÅr Waschen und Holz 7 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/WÑscherin/X/X//
+H$Reiserechnung/WÑscherin;Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$[Lotrici pro la]vando et licno [VI]I den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Schneider
+4 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Schneider/X/X//
+H$Reiserechnung/Schneider/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$incisori vestium IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Schneidern
+als Trinkgeld 4 Pfennige.
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Schneider/X/X//
+H$Reiserechnung/Trinkgeld!/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Inci[sorib]us pro potu IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Schneidern
+de soccania magistri Henrici 7 Pfennige.?
+F$Heger/123*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Schneider/X/X//
+H$Reiserechnung/Schneider/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$Eisdem de soccania magistri Henrici VII den.
+
+DOK$HEGER_124*/1203.11.13/1203.11.29/1203 nach November 12/X/Mautern a.d.Donau/Mautern a.d.Donau//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag und Heu 8 Pfennige aus.
+F$Heger/124*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag;Heu/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$[pro ferramentis et feno VIII den.]
+
+REG$Bruder Heinrich gibt im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/124*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$[Normanno II den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+2 Pfennige.
+F$Heger/124*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$[Widoni II den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Huglin
+2 Pfennige.
+F$Heger/124*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Huglin/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Huglino II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Magister
+coquine 2 Pfennige.
+F$Heger/124*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/magister coquine/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$M[agistro coquine II den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag und Heu der Pferde des Bischofs 4 Pfennige aus.
+F$Heger/124*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag;Heu/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$[pro fer]ramentis et feno [IIII den.]
+
+DOK$HEGER_125*/1203.11.13/1203.11.29/1203 nach November 12/X/KÅhnring a.d.Schmida/KÅhnring a.d.Schmida//Nô,sî.Eggenburg/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+des Bischofs 2 Pfennige aus.
+F$Heger/125*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferdehaltung?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$equis episcopi II den.
+
+REG$Bruder Heinrich gibt im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/125*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$[Normanno II den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+einen Pfennig.
+F$Heger/125*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$[Widoni I den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse? 4 Pfennige aus.
+F$Heger/125*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferdehaltung?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Equis camere IIII den.
+
+DOK$HEGER_126*/1203.11.13/1203.11.29/1203 nach November 12/X/Retz/Retz//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz
+8 Pfennige aus.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Pro licno VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs
+3 lange Schilling aus.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./longus
+M$X/X/X/A
+Q$Pro cera III sol. longos
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Engelschalk
+2 Pfennige.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Engelschalk/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Engelschalco II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Normanno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse 4 Pfennige aus.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferdehaltung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Equis camere IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Heinrich von
+Weilheim 3 Pfennige.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Heinrich/Genannter/Weilheim a.d.Ammer/Weilheim a.d.Ammer//Oberbayern/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Heinrico de Wulheim III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+einen Pfennig.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$Widoni unum den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Lebensmittel
+12 Talent minus 70 Pfennige aus.
+F$Heger/126*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$12/tal./X
+Z$X/X/X
+M$70/den./minus/A
+Q$XII tal. LXX den. minus
+
+DOK$HEGER_127*/1203.11.13/1203.11.29/1203 nach November 12/X/Weikertschlag/Weikertschlag//Nô,a.Thaya,n.Raabs/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] einem kahlen
+Gaukler 30 Pfennige.
+F$Heger/127*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Gaukler/X/X//
+H$Reiserechnung/Gaukler?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$XXX den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 40
+Pfennige aus.
+F$Heger/127*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$Pro cera XL den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/127*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Normanno IIII den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] fÅr Pferde der
+Kasse 6 Pfennige aus.
+F$Heger/127*/82/82
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferdehaltung?/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Equis camere VI den.
+
+DOK$HEGER_128*/1203.11.30/1203.11.30/1203 November 30/in prima dominica adventus domini
+/Thaya a.d.Thaya/Thaya a.d.Thaya//Nô,n.Waidhofen/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten 47
+Pfennige.?
+F$Heger/128*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$47/den./X/A
+Q$cuidam ex mandato episcopi XLVII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 16 Pfennige
+fÅr Vadii aus.
+F$Heger/128*/97/97
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Pro vadio XVI den.
+
+DOK$HEGER_129*/1203.12.1/1203.12.5/1203 nach November 30/in prima dominica adventus domini
+/Weitra/Weitra//Nô,s.GmÅnd/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Handschuhe
+fÅr die Falknerei 8 Pfennige aus.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Falknerei_Handschuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$pro c[ir]otecis ad f[a]lcone[s] V[II]I den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag einen Pfennig aus.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$[pro ferramento I den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag und Heu 9 Pfennige aus.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag;Heu/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/A
+Q$[Pro] suff[erando equo episcopi et feno VII]I[I den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse 12 Pfennige aus.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$[Equ]is camere XI[I] den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr
+Hufbeschlag 6 Pfennige aus.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$[Pro] ferram[entis VI den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz
+4 Pfennige aus.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro licno IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+5 Pfennige.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$[Normanno V den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+3 Pfennige.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$[Widoni III den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Bîhmen 20 Pfennige.
+F$Heger/129*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/A
+Q$[Nuncio de Boemia XX den.]
+
+DOK$HEGER_130*/1203.12.1/1203.12.5/1203 nach November 30/X/Gallneukirchen/Gallneukirchen//Oô,Urfahr-Umgebung/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+des Bischofs 3 Pfennige aus.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$equis episcopi III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse 5 Pfennige aus.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Equis camere V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+2 Pfennige aus.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Pro f[erra]men[t]is II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$N[or]manno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+einen Pfennig.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$Widoni [I] den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Engelschalk
+2 Pfennige.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Engelschalk/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Eng[ilscha]lco II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+3 Pfennige aus.
+F$Heger/130*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro ferramenti[s] II[I den.]
+
+DOK$HEGER_131*/1203.12.1/1203.12.5/1203 nach November 30/X/Mauthausen/Mauthausen//Oô
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse 6 Pfennige aus.
+F$Heger/131*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$equis camere VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/131*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Normanno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido
+2 Pfennige.
+F$Heger/131*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Widoni [II den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Engelschalk
+2 Pfennige.
+F$Heger/131*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Engelschalk/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$[Engi]lsc[halco II] [den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Schiffer
+6 Pfennige.
+F$Heger/131*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Schiffer/Mauthausen/Mauthausen//Oô/
+H$Reiserechnung/öberfuhr/Mauthausen/Mauthausen//Oô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Naute VI den.
+
+DOK$HEGER_132*/1203.12.6/1203.12.6/1203 Dezember 6/die sancti Nicolai/Linz/Linz-Stadtteil (heute)/Ebelsberg/Oô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Schiffern 3
+lange Schillinge und sechs Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Schiffer/Linz/Linz (heute)/Ebelsberg/Oô/
+H$Reiserechnung/öberfuhr/Linz/Linz (heute)/Ebelsberg/Oô
+W$X/X/
+O$X/X/X
+Z$3/sol./longus
+M$6/den./X/A
+Q$nautis III sol. longos et VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr einen
+kleinen Nachen Weihrauchschiff? 12 Pfennige aus.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Parvule navicule XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die öberfuhr
+sechs Pfennige aus.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/öberfuhr/Linz/Linz (heute)/Edelsberg/Oô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Pro transitu \dots VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem
+Bademeister 15 Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bademeister/Linz/Linz (heute)/Edelsberg/Oô/
+H$Reiserechnung/Bademeister/Linz/Linz (heute)/Edelsberg/Oô/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/A
+Q$Balneatori X[V den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe 12
+Pfennige aus.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Pro [calc]iis parandis XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wilhelm 4
+Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wilhelm/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Wilhelmo IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido 14
+Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/A
+Q$Widoni XIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+Kînigs (Philipp von Schwaben) 6 lange Schilling.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Dt.kînigl./Dt.kînigl.//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/sol./longus
+M$X/X/X/A
+Q$[Nuncio regis] VI sol. longos
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Alten 60
+Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$vetulo LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem vago filio
+30 Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/FahrenderSpielmann?/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Cuidam [va]g[o] filio [XX]X den.
+B$Heger S. 124  ist filius ecclesiae
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einer WÑscherin
+15 Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/WÑscherin/X/X//
+H$Reiserechnung/WÑscherin/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/A
+Q$[Lotri]ci  XV den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Heinrich von
+Weilheim 8 Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Heinrich/Genannter/Weilheim a.d.Ammer/Weilheim a.d.Ammer//Oberbayern
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Heinrico [de] Wul[heim] III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann 6
+Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Normanno VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+6 Pfennige aus.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$[Pro] ferramentis VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse 30 Pfennige aus.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Equis camere XXX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Hîrigen
+7 Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Hîrigen/X/X//
+H$Reiserechnung/pro necessariis/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$Servis pro [ne]cessariis [VII] den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+Peter von Piacenza, des Kardianalpriesters vom Titel der Hl. Caecilia) 30 Pfennige.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Piacenza/Piacenza//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Nuncio domini Petri Placentini XXX den.
+B$Peter von Piacenza, tit. S. Caeciliae presb. card. berÅhmter Lehrer der Rechtswis-
+senschaften zu Bologna.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein
+Tischtuch? 3 Pfennige aus.
+F$Heger/132*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Tischtuch/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$P[ro re]fic[iendo men]sale III den.
+
+DOK$HEGER_133*/1203.12.7/1203.12.20/1203 nach Dezember 6/X/Eferding/Eferding//Oô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+26 Pfennige aus.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$26/den./X/A
+Q$pro ferramentis XXVI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr RÅben
+4 Pfennige aus.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/RÅben/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro rapis IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Pandolf
+9 Pfennige.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Pandolf/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/A
+Q$Pandolfo VIIII [den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs und
+Holz ein Talent aus.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs;Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Pro cera et licno talentum.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wein
+3 Pfennige aus.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Pro vino III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs
+51 Pfennige aus.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$51/den./X/A
+Q$pro cera LI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 3
+lange Schilling und 5 Pfennige aus.
+F$Heger/133*/83/83
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$3/sol./longus
+M$5/den./X/A
+Q$[pro cera] III sol. longos et V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs ein
+halbes Talent minus 8 Pfennige aus.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$8/den./minus/A
+Q$pro cera dim. tal. minus [VIII den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Schuhe fÅr
+Pandolf 12 Pfennige aus.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Pro caligis Pandolfi XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Pferde der
+Kasse 18 Pfennige aus.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$Equis camere XVIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Engelschalk
+6 Pfennige.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Engelschalk/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$E[ngilschalco] VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wilhelm fÅr
+Schuhe 4 Pfennige.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wilhelm/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$pro calciis II[II] den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr ein Pferd
+des Bischofs 6 Pfennige aus.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferd/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Equo episcopi [VI den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+7 Pfennige.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$[Nor]manno VII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Arnold, dem
+Proviantmeister? 2 Pfennige.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Arnold/Proviantmeister?/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Arnoldo spisario II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Gerhard
+2 Pfennige.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Gerhard/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Gerhardo II [den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Kîchen
+6 Pfennige.
+F$Heger/133*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Kîche/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$[C]ocis VI den.
+
+DOK$HEGER_134*/1203.12.7/1203.12.20/1203 nach Dezember 6/X/Wels/Wels//Oô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann 2
+Pfennige.
+F$Heger/134*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Normanno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die Pferde
+der Kasse 12 Pfennige aus.
+F$Heger/134*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Equis camere XII [den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr das Pferd
+des Bischofs 2 Pfennige aus.
+F$Heger/134*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferd/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$[Equo] episcopi II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Falkner 6
+Pfennige.
+F$Heger/134*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Falkner/X/X//
+H$Reiserechnung/Falkner/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Falco[nario] VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Hugo 3
+Pfennige.
+F$Heger/134*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Hugo/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Hugoni III den.
+
+DOK$HEGER_135*/1203.12.7/1203.12.20/1203 nach Dezember 6/X/Vîcklabruck/Vîcklabruck//Oô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Hîrigen der
+Kasse 6 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Hîrige/Passau/Passau//Niederb.
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$servis camere VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz 5
+Pfennige aus.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro l[ic]no V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Gernot
+12 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Gernot/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Gernod[o XII den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido fÅr
+einen Sattel 32 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Sattel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$32/den./X/A
+Q$[Widoni] pro sella XXXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Engelschalk
+3 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Engelschalk/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$Engelschalco III den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Walkun
+2 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Walkun/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Walcuno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann
+2 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Normanno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Gerhard fÅr
+Lebensmittel? 60 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Gerhard/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Gerhardo pro pabulo LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wisinhard
+4 Pfennige.
+F$Heger/135*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wisinhard/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Visinhardo IIII den.
+
+DOK$HEGER_136*/1203.12.7/1203.12.20/1203 nach Dezember 6/X/Waasen/Waasen//Oô,s.Peuerbach/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Truchse·
+ein Talent.
+F$Heger/136*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Truchse·/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$dapifero tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+Markgrafen (Heinrich Wladislaw) von MÑhren 60 Pfennige.
+F$Heger/136*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Nuncio marchionis Moravie LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] den Wachen
+60 Pfennige.
+F$Heger/136*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/WÑchter/X/X//
+H$Reiserechnung/Wachen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Vigilibus LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener des
+Herrn H(einrich) von Streitwiesen 15 Pfennige.
+F$Heger/136*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Diener/Streitwiesen a.Weitenbach/Streitwiesen a.Weitenbach//Nô,î.Pîggstall/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/A
+Q$Garcioni \dots XV den.
+
+DOK$HEGER_137*/1203.12.7/1203.12.20/1203 nach Dezember 6/X/Mattsee/Mattsee//S/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz 5
+Pfennige aus.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$pro licno V den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Hufbeschlag
+4 Pfennige aus.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro ferramentis IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr eine
+Peitsche einen Pfennig aus.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Peitsche/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$Pro clave I den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido fÅr
+Schuhe 12 Pfennige.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Widoni pro caligis XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] der WÑscherin
+7 Pfennige.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/WÑscherin/X/X//
+H$Reiserechnung/WÑscherin/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$Lotrici VII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs ein
+Talent minus 10 Pfennige aus.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$10/den./X/A
+Q$Pro cera tal. preter X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Sohn des
+Bischofs (Otakar, Domkanoniker in Passau) zwei Talent.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/Passau/Passau//Niederb.
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Filio episcopi II tal.
+B$Vermutlich war Wolfger erst als Witwer in den geistlichen Stand getreten. Bl.
+II, 119 wird dieser Sohn mit Namen genannt: Odackarus (Heger S. 124).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Salzburg ein halbes Talent.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Salzburg/Salzburg//S/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Nuncio de Salzpurch dim. tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr das
+Beschlagen des Pferdes des Bischofs 2 Pfennige aus.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Pro sufferrando equo episcopi II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Huglin
+54 Pfennige.
+F$Heger/137*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Huglin/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$54/den./X/A
+Q$[Hug]lino LIIII den.
+
+DOK$HEGER_138*/1203.12.21/1203.12.21/1203 Dezember 21/X/Obernberga.Inn/Obernberg a.Inn//Oô,s.SchÑrding/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs ein
+halbes Talent minus 10 Pfennige aus.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$10/den./minus/A
+Q$pro cera dim. tal. preter X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Bîhmen fÅr
+Hemd und Hosen 29 Pfennige.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$29/den./X/A
+Q$Boemo pro camisia et bracis XIX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Ulrich,
+seinem Hîrigen, fÅr einen Mantel 31 Pfennige.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Ulrich/Hîriger/Passau/Passau//Niederb.
+H$Reiserechnung/Mantel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$31/den./X/A
+Q$Ulrico servo fratris Heinrici pro schapruno XXXI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Marschall 6
+Pfennige.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Marschall/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Marschalco VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr das Pferd
+des Bischofs 4 Pfennige aus.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferd/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Equo epsicopi IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passu] dem Gernot
+4 Pfennige.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Gernot/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Gernodo IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passu] einem Falkner
+4 Pfennige.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Falkner/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Falconario IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passu] fÅr die Pferde
+der Kasse 8 Pfennige aus.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pferde/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Equis camere VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passu] fÅr Wein
+4 Pfennige aus.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Pro vino IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passu] einem Schiffer
+30 Pfennige.
+F$Heger/138*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Schiffer/X/X//         Passau?
+H$Reiserechnung/öberfuhr/unbestimmt/unbestimmt//  Passau?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Naute XXX den.
+
+DOK$HEGER_139*/1203.12.22/1203.12.25/1203 Dezember 22 - 25/X/Passau/Passau//Niederb.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Wido 24
+Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Wido/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$Widoni XXIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann fÅr
+Schuhe 26 Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Schuhe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$26/den./X/A
+Q$Normanni pro calciis XXVI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 6
+Schilling minus 2 Pfennige aus.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$2/den./minus/A
+Q$Widoni XXIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener
+derer von Wald 12 Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Hîriger/Wald/Wald//St.PîltenSalzburgRaitenhaslach ?
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Garcioni de Walde XII den.
+B$Heger S.125 "Bei der HÑufigkeit des Namens Wald lÑ·t sich keine auch nur
+einigerma·en gesicherte Vermutung aussprechen, von wem der garcio de Walde nach
+Passau gesandt worden sein kînnte."
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz 2
+Pfennige aus.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$Pro licno II den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wachs 14
+Schilling aus.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wachs/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$pro cera XIIII sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+(Heinrich) von Streitwiesen 24 Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Streitwiesen a.Weitenbach/Streitwiesen a.Weitenbach//Nô,î.Pîggstall/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$Nuncio de Stritwisen XXIIII [den.]
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+Ritter Heinrich aus Schwaben 2 Talent.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Heinrich/Ritter/Schwaben/Schwaben//Schwaben/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Heinrico Sueuo militi II tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Falkner 10
+Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Falkner/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Falconario X den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Normann 6
+Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Normann/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Normanno VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Marschalk 6
+Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Marschall/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Marschalco VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Engelschalk
+4 Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Engelschalk/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$Engilschalco IIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Bîhmen 30 Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Cuidam nuncio de Boemia XXX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Holz 12
+Pfennige aus.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Holz/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$Pro licno XII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Magister
+Konrad aus St. Florian ein Talent.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Konrad/MagisterKanoniker?/StiftSt.Florian/StiftSt.Florian//Oô,sî.Linz/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Magistro Cunr[ado] de sancto Floriano unum tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Sattler
+aus Trier 60 Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Sattler/Trier/Trier//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Cuidam sellatori de Treveren LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Gernot 13
+Pfennige.
+F$Heger/139*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Gernot/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/A
+Q$Gernodo XIII den.
+
+DOK$HEGER_140*/1203.12.26/1203.12.31/1203 nach Dezember 25/X/Engelhartszell a.d.Donau/Engelhartszell a.d.Donau//Oô
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Wein 64
+Pfennige aus.
+F$Heger/140*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$64/den./X/A
+Q$pro vino LXIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Fisch 8
+Pfennige aus.
+F$Heger/140*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Fisch/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$pro pisce VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Bîhmen 20 Pfennige.
+F$Heger/140*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Bîhmen/Bîhmen//Bîhmen/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/A
+Q$Nuncio de Boemia [XX] den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Falkner 10
+Pfennige.
+F$Heger/140*/84/84
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Falkner/X/X//
+H$Reiserechnung/Falkner/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Falconario X den.
+
+DOK$HEGER_141*/1204.1.1/1204.1.1/1204 JÑnner 1/in circumcisione/X/X?//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (ôsterreichreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Konrad von
+Asparn (a.d. Zaya, Nô) 2 Talent.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Konrad/Genannter/Asparna.d.Zaya/Asparn a.d.Zaya//Nô,w.Mistelbach/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$II tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Richor von
+Steudersdorf (heute Stattersdorf) zwei abgezÑhlte Mark Friesacher.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Richor/Genannter/Stattersdorf/Stattersdorf/Steudersdorf/Nô,s.St.Pîlten
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$2/marca/numerata
+Z$X/X/X
+M$X/X/X/A
+Q$duas numeratas marc. Frisac.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+Kînigs 30 Pfennige.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Bote/Dt.kînigl./Dt.kînigl.//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Nuncio regis XXX den.
+B$Einem nach ôsterreich reisenden Boten des Kînigs laut II.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr den RÅckkauf
+eines Tischtuchs, das Magister Heinrich fÅr einen Sattel verpfÑndet hatte, 72
+Pfennige aus.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Pfand_Einlîsung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$72/den./X/A
+Q$Pro redimendo quodam mensali \dots LXXII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Diener des
+Normann fÅr den RÅckkauf eines Sattels 24 Pfennige.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/Hîriger/X/X//
+H$Reiserechnung/RÅckkauf/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$pro redimenda sella XXIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr sein
+Untergewand 31 Pfennig aus.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$Heinrich/Bruder/Passau/Passau//Niederb.
+H$Reiserechnung/Bekleidung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$31/den./X/A
+Q$pro lineis XXXI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Kurzwaren
+24 Pfennige aus.
+F$Heger/141*/85/85
+G$Wolfger/Bischof/Passau/Passau//Niederb.
+E$X/X/X/X//
+H$Reiserechnung/Kurzwaren/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$Pro minutis rebus XXIIII den.
+
+

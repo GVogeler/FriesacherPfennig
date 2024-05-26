@@ -1,0 +1,4826 @@
+
+note *** MDC 3 1370  verlorene Teile in StUB 1 701
+note *** wegen Inserierung aufgenommen MDC 4I 1710
+
+note *** Einlesen der Rohdaten io_mdc34.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$MDC3_1125/1169.0.0/1169.0.0/1169/anno ab incarnatione domini MCLXVIIII,indictione
+II/X/X//
+S$X/X/X
+V$X/X/X
+K$Patriarch Ulrich II. von Aquileia schenkt dem Kloster Admont auf Lebenszeit
+eine Hube im Wald Gnesau (nw.  Feldkirchen), welche sein
+Nachfolger um sechs Mark Friesacher Pfennige zurÅckkaufen kann.
+
+REG$Patriarch Ulrich II. von Aquileia vereinbart mit dem Kloster Admont, da· sein
+Nachfolger eine dem Kloster geschenkte Hube im Wald Gnesau (nw. Feldkirchen) um
+sechs Mark Friesacher Pfennige zurÅckkaufen kann.
+F$MDC 3/1125/422f/423
+F$StUB 1/512/477/477
+F$BCU Ms. Joppi 368 Fasz. 5/24/1/1
+G$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-S
+E$X/Kloster/Admont/Admont//Stmk/
+H$RÅckkauf/Immobilien/Gnesau/Gnesau//K,nw.Feldkirchen/
+W$Friesach/X/
+O$6/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$concessimus, ita ut si quis successorum nostrorum eundem mansum ab eis
+expedire voluerit, VI marcas Fresacensium denariorum quas nobis
+dederunt, ipsis restituat et predictum mansum in pace possideat et teneat.
+B$Abschrift v. 1817 aus verbranntem Original in Admont
+
+DOK$MDC3_1252/1179.8.3/1179.8.3/1179 August 3/anno ab incarnatione domini millesimo C
+septuagesimo VIIII, tercio non. aug./Villach/Villach//K/
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich II. von Brixen belehnt Hermann von Wei·enstein mit dem
+Schlo· Wei·enstein (nw. Villach) und empfÑngt dafÅr zwîlf Mark Friesacher.
+
+REG$Bischof Heinrich II. von Brixen erhÑlt von Hermann von Wei·enstein zwîlf
+Mark Friesacher fÅr die Belehnung mit Schlo· Wei·enstein.
+F$MDC 3/1252/473f/474
+F$UBrix 1/044/52f/53
+G$Hermann/Genannter/Wei·enstein/Wei·enstein//nw.Villach/
+E$Heinrich II./Bischof/Brixen/Brixen//Tirol/
+H$Belehnung/Immobilien_Schlo·/Wei·enstein/Wei·enstein//nw.Villach/
+W$Friesach/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$duodecim nobis marcas solvit Friesacensium
+B$Santifaller (UBrix 1, Nr. 44, S. 52) nennt Heinrich III. (!)
+
+DOK$MDC3_1269/1180.5.1/1180.5.15/1180 Mai 1 -15/anno dominic\c{e} incarnationis
+MCLXXX., indict. XIII., intrante maio/Aquileia/Aquileia//Friaul-SÅd
+S$Konrad/Aquileia/Konrad
+V$Konrad/Aquileia/Konrad
+K$Patriarch Ulrich II. von Aquileia beurkundet, da· sein und seines Vaters
+Ministeriale Bernhard von Treffen und dessen Frau Gerbirch dem Kloster Moggio
+fÅnf Allod-Huben in den Weilern Trauntschen und St. Ulrich (î. Villach) unter
+Vorbehalt lebenslÑnglichen Nutzgenusses und mit der Verpflichtung, dem Kloster
+jÑhrlich fÅnf Friesacher Pfennige Friesacher MÅnze zu zinsen, geschenkt haben.
+DafÅr belehnte Abt Giselher von Moggio, wie schon seine VorgÑnger Ulrich und
+Gebolf, Bernhard mit Zehnten von achtzig Huben um Finkenstein und an der Gail,
+davon 40 verlehnt und 40 zu seinen Handen. Huben und Zehnten dÅrfen in keiner
+Weise verÑu·ert werden und fallen nach dem Tod der Eheleute an das Kloster.
+
+REG$Bernhard von Treffen, ein Ministeriale des Patriarchen Ulrich [II.] von
+Aquileia, und seine Frau Gerbirch verpflichten sich dem Kloster
+Moggio fÅr den Nutzgenu· an fÅnf Allod-Huben in den Weilern Trauntschen und St.
+Ulrich (î. Villach), die sie dem Kloster geschenkt haben, jÑhrlich fÅnf
+Friesacher Pfennige zu zinsen.
+F$MDC 3/1269/478f/478
+F$Moggio/24/97/97
+F$Ughelli 5/X/73f/73
+F$Kos 4/627/318f/318
+F$Rubeis MEA/X/621/621
+F$Puschnig Reg./54/9/9
+F$Benedictina 5/X/36/36
+G$Bernhard/Ministeriale?/Treffen/Treffen//n.Villach/
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$Zahlungsverpflichtung/Zins/Trauntschen/Trauntschen//î.Villach/
+H$Zahlungsverpflichtung/Zins/St.Ulrich/St. Ulrich//î.Villach/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$annatim V denarios Friesacenses prefat\c{e} ecclesie nomine census persolvant
+
+DOK$MDC3_1312/1184.11.13/1184.11.13/1184 November 13/anno domini millesimo CLXXXIIII, idus
+novemb., indic. IIII/Cividale/Cividale//Friaul-Ost
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Abt Ulrich von Millstatt verkauft mit EinverstÑndnis des Erzbischofes von
+Salzburg und des MillstÑtter Konventes, deren Konsensbriefe vorgewiesen werden,
+dem Propst Pilgrim und der St. Marienkirche in Cividale viereinhalb Huben in
+Karfeit (Gîrz) am Isonzo als Geschenk fÅr das Kapitel.
+
+REG$Abt Ulrich von Millstatt verkauft dem Propst Pilgrim und der St. Marien-
+kirche in Cividale viereinhalb Huben in Karfreit (Gîrz) am Isonzo um 16 Mark
+Friesacher als Geschenk fÅr das Kapitel.
+F$MDC 3/1312/496f/496
+F$Kos 4/686/351/351
+F$BCU Ms. Joppi 368 Fasz. 6/29/1f/1
+F$BCU Ms. Joppi 368 Fasz. 6/44/1f/1
+F$CKAP-1 (bis 1200)/?/?/?
+G$Pilgrim/Propst/Cividale/Cividale//Friaul-Ost
+G$X/Kirche/Cividale/Cividale,SM Valle//Friaul-Ost/
+E$Ulrich/Abt/Millstatt/Millstatt//K/
+H$Kauf/Immobilien/Karfreit a.Isonzo/Karfreit a.Isonzo//Gîrz/
+W$Friesach/moneta/
+O$16/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro precio XVI marcharum Frisacensis monete quas dixit sibi esse solutas
+B$BCU Ms. Joppi 368 Fasz. 6 Nr.40 datiert 1186.11.13 (sonst ganz gleich).
+Als Geschenk fÅr das Kapitel Cividale gedacht.
+
+DOK$MDC3_1370/1190.0.0/1190.0.0/1190/X/Leibnitz/Leibnitz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Albert von Salzburg beurkundet die Delegation Ulrichs, des
+Sohnes Otakars, des Burggrafens von Graz, an seine Kirche.
+
+REG$EinkÅnfte aus den GÅtern des Erbteiles von Ulrich, des Sohnes Otakars, des
+Burggrafen von Graz.
+F$MDC 3/1370/515/515
+F$SUB 2/0475/642ff/644
+F$StUB 1/701/688ff/690
+F$GZM 1/24/X/X
+G$X/X/X/X//
+E$Ulrich/X/Graz/Graz//Stmk/
+H$EinkÅnfte/Immobilien/Glanegg/Glanegg//î.Feldkirchen/
+W$Friesach/X/
+O$22/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$predia que reddunt marcas Frisacensium duas et viginti
+
+REG$Burggraf Otakar von Graz Åbergibt dem Erzbischof Albert von Salzburg
+EinkÅnfte von seinen GÅtern in der Hîhe von 4 Mark.
+F$MDC 3/1370/515/515
+F$SUB 2/0475/642ff/645
+F$StUB 1/701/688ff/690
+F$GZM 1/24/X/X
+G$Otakar/Burggraf/Graz/Graz//Stmk/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Schenkung?/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de propriis prediis suis reditus marcarum IIII nobis reddidit et
+delegavit
+
+REG$Burggraf Otakar von Graz Åbergibt dem Erzbischof Albert von Salzburg
+EinkÅnfte von seinen GÅtern in der Hîhe von einer Mark.
+F$MDC 3/1370/515/515
+F$SUB 2/0475/642ff/645
+F$StUB 1/701/688ff/690
+F$GZM 1/24/X/X
+G$Otakar/Burggraf/Graz/Graz//Stmk/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Schenkung?/EinkÅnfte/Glanegg/Glanegg//î.Feldkirchen/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$(marcam) unam ad Glanecke
+
+DOK$MDC3_1382/1191.5.25/1191.5.25/1191 Mai 25/VIII kalend. iun. in die sancti Vrbani,
+anno incarnationis domini MC nonagesimo primo/Admont/Admont//Stmk/
+S$X/Admont/X
+V$X/X/X
+K$Die ébte Rudolf von Admont und Ulrich von Millstatt schlie·en
+einen Tausch, wobei Millstatt ein Gut in Radstadt zu einer Wohnung und
+Admont ein Gut im Lungau bei
+Baierdorf (î. St. Michael) und einen Acker bei Moosham (sw.
+Tamsweg) erhÑlt.
+
+REG$Abt Rudolf von Admont und der Konvent tauschen mit dem Abt Ulrich von Mill-
+statt und dessen Konvent eine Herbergstelle in Radstadt, die 3 Schilling
+Bayrischer Pfennige an EinkÅnften erbringt, fÅr ein Gut im Lungau
+zu Baierdorf (î. St. Michael) und fÅr einen Acker bei Moosham (sw. Tamsweg).
+F$MDC 3/1382/527f/527
+F$SUB 2/0483/656f/657
+F$StUB 1/723/712/712
+G$X/X/X/X/
+E$Ulrich/Abt/Millstatt/Millstatt//K/
+E$X/Konvent/Millstatt/Millstatt//K/
+H$EinkÅnfte/Immobilien_Herberge/Radstadt/Radstadt//S/
+W$Bayern/X/
+O$X/X/X
+Z$3/sol./X
+M$X/den./X/A
+Q$predium unum quod tres solidos Bawaricorum denariorum sibi solvebat
+B$Abschrift v. 1817 aus verbranntem Original in Admont
+
+REG$Abt Rudolf von Admont und der Konvent tauschen mit dem Abt Ulrich von Mill-
+statt und dessen Konvent eine Herbergstelle in Radstadt fÅr ein Gut im Lungau zu
+Baierdorf (î. St. Michael) und fÅr einen Acker bei Moosham (sw. Tamsweg), welche
+ihnen jÑhrlich 50 Friesacher Pfennige an Zins leisten.
+F$MDC 3/1382/527/527
+F$SUB 2/0483/656f/657
+F$StUB 1/723/712/712
+G$X/X/X/X//
+E$Rudolf/Abt/Admont/Admont//Stmk/
+E$X/Konvent/Admont/Admont//Stmk/
+H$Zins/Immobilien/St.3Margareteni.Lungau/Baierdorf/Bairdorf/S,î.St.Michael i.Lungau/
+H$Zins/Immobilien/Moosham/Moosham//S,sw.Tamsweg/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$50/den./X/Z
+Q$predium in Lungowe iuxta Paierdorf cum agro uno \dots
+unde sibi quinquaginta denarii Frisacenses annuatim solverentur.
+B$Abschrift v. 1817 aus verbranntem Original in Admont
+
+DOK$MDC3_1384/1191.11.8/1191.11.8/1191 November 8/anno domini millesimo CXCI, octavo die
+intrante novenbri, indict. VIIII/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Leopold von Dietrichstein, seine Frau Matelda und ihre Sîhne Poppo, Bernard
+und Notung verkaufen dem Propst Pilgrim von Cividale Liegenschaften in
+Flitsch um zwanzig Mark Friesacher.
+
+REG$Leopold von Dietrichstein, seine Frau Matelda und ihre Sîhne Poppo, Bernard
+und Notung verkaufen dem Propst Pilgrim von Cividale Liegenschaften in
+Flitsch um zwanzig Mark Friesacher.
+F$MDC 3/1384/528f/528
+F$Kos 4/795/394/394
+F$MDC 4I/2653/509f/509
+F$BCU Ms. Joppi 368 Fasz. 7/05/1f/1
+F$CKAP-1 (bis 1200)/?/?/?
+G$Pilgrim/Propst/Cividale/Cividale//Friaul-Ost
+E$Leopold/Genannter/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Matelleta/Genannte/Dietrichstein/Dietrichstein//K
+E$Poppo/Genannter/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Bernard/Genannter/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Notung/Genannte/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+H$Kauf/Immobilien/Flitsch/Flitsch/Feitsch/zu beiden Seiten d.Predil Gîrz
+u.KÑrnten/
+W$Friesach/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dederunt et tradiderunt quattuor masaricias \dots pro viginti marcis
+Frisacensium
+B$In Urkunde MDC 4I, Nr. 2653, S.509 inseriert.
+
+REG$Leopold von Dietrichstein, seine Frau Matelda und ihre Sîhne Poppo, Bernard
+und Notung verkaufen dem Propst Pilgrim von Cividale Liegenschaften in
+Flitsch um zwanzig Mark Friesacher.
+F$MDC 3/1384/528f/528
+F$MDC 4I/2653/509f/509
+F$BCU Ms. Joppi 368 Fasz. 7/05/1f/1
+G$Pilgrim/Propst/Cividale/Cividale//Friaul-Ost/
+E$Leopold/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Poppo/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Bernard/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Notung/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+H$Quittung/Immobilien?/Flitsch/Flitsch//zu beiden Seiten d.Predil Gîrz u.KÑrnten/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro viginti marcis Frisacensium quas viginti marcas idem prepositus eis iam
+dederat
+B$In Urkunde MDC 4I, Nr. 2653, S.509 inseriert.
+
+REG$Leopold von Dietrichstein, seine Frau Matelda und ihre Sîhne Poppo, Bernard
+und Notung verkaufen dem Propst Pilgrim von Cividale Liegenschaften in
+Flitsch um zwanzig Mark Friesacher und versprechen, den Bamberger Bischof
+um BestÑtigung des Verkaufs bei Strafe von des Doppelten der vorhergenannten
+20 Mark zu ersuchen.
+F$MDC 3/1384/528f/528
+F$Kos 4/795/394/394
+F$MDC 4I/2653/509f/509
+F$BCU Ms. Joppi 368 Fasz. 7/05/1f/1
+G$Leopold/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Poppo/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Bernard/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Notung/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Pilgrim/Propst/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pene dupli predictarum viginti marcarum
+B$Poena dupli zu 20 Mark.
+In Urkunde MDC 4I, Nr. 2653, S.509 inseriert.
+
+REG$Leopold von Dietrichstein, seine Frau Matelda und ihre Sîhne Poppo, Bernard
+und Notung verkaufen dem Propst Pilgrim von Cividale Liegenschaften in
+Flitsch um zwanzig Mark Friesacher und versprechen, den Bamberger Bischof
+um BestÑtigung des Verkaufs bei Strafe von des Doppelten der vorhergenannten
+20 Mark zu ersuchen.
+F$MDC 3/1384/528f/529
+F$MDC 4I/2653/509f/509
+F$BCU Ms. Joppi 368 Fasz. 7/05/1f/2
+G$Leopold/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Poppo/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Bernard/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Notung/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Pilgrim/Propst/Cividale/Cividale//Friaul-Ost/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dederint eidem domino Pelgrino Civitatensi preposito supradictam penam dupli
+supradictarum viginti marcarum id est quadraginta marcas Frisacensium
+B$Poena dupli zu 20 Mark
+In Urkunde MDC 4I, Nr. 2653, S.509 inseriert.
+
+REG$Leopold von Dietrichstein, seine Frau Matelda und ihre Sîhne Poppo, Bernard
+und Notung verkaufen dem Propst Pilgrim von Cividale Liegenschaften in
+Flitsch um zwanzig Mark Friesacher und versprechen, den Bamberger Bischof
+um BestÑtigung des Verkaufs bei Strafe von des Doppelten der vorhergenannten
+20 Mark zu ersuchen.
+F$MDC 3/1384/528f/529
+F$MDC 4I/2653/509f/509
+F$BCU Ms. Joppi 368 Fasz. 7/05/1f/2
+G$Leopold/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Poppo/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Bernard/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+G$Notung/X/Dietrichstein/Dietrichstein//K,î.Feldkirchen/
+E$Pilgrim/Propst/Cividale/Cividale//Friaul-Ost
+H$Pînale/Strafgeld/unbestimmt/unbestimmt?//
+W$X/X/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dederint eidem domino Pelgrino Civitatensi preposito supradictam penam dupli
+supradictarum viginti marcarum id est quadraginta marcas Frisacensium
+B$Poena dupli zu 20 Mark
+In Urkunde MDC 4I, Nr. 2653, S.509 inseriert.
+
+DOK$MDC3_1455I/1195.11.18/1195.11.18/1195 November 18/dominic\c{e} incarnationis anno
+millesimo centesimo XCV. octavo post festum sancti Martini die/Reifnitz/Reifnitz//sw.Klagenfurt/
+S$X/X/X
+V$X/X/X
+K$Abt Konrad von Rein bekennt, da· der Ministeriale des Herzogs von Steiermark,
+Rudolf von Ras, und dessen Frau Hiltrud seinem Kloster nach ihrem Tod
+zwei Huben in Rattenberg (nî. Judenburg) geschenkt haben.
+
+REG$Der Ministeriale des Herzogs von Steiermark, Rudolf von Ras, und dessen Frau
+Hiltrud verpflichten sich, dem Kloster von Rein bis zu ihrem Tod jÑhrlich
+10 Friesacher Pfennige aus den EinkÅnften jener zwei Huben zu zahlen, die sie
+dem Kloster vererben wollen.
+F$MDC 3/1455I/566f/567
+F$StUB 2/009/24f/25
+G$Rudolf/Ministeriale/Ras/Ras//b.Cemernitzen-Kanin,RasRosegg?/
+E$Konrad/Abt/Rein/Rein//n.Graz/
+H$Zinsleistungsversprechen/Zins/Rein/Rein//n.Graz/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$10/nummus/X/Z
+Q$ut eadem ipsa traditio certum aliquod haberet indicium, singulis annis ex eisdem mansibus decem nummos Fresacenses quoad ipsi
+viverent, reddi statuerunt
+
+DOK$MDC3_1474/1197.4.16/1197.4.16/1197 (ca. April 16)/anno dominice incarnacionis
+MCXCVII/Villach/Villach//K/
+S$X/X/X
+V$X/X/X
+K$Abt Ebo und der Konvent von Ossiach verzichten fÅr sieben Mark Friesacher
+auf den strittig gemachten dritten Teil des Waldes, der von Graf Engelbert (von
+Gîrz) dem Kloster Neustift geschenkt worden ist.
+
+REG$Der Propst des Klosters Neustift und der Konvent zahlen dem Abt Ebo und dem
+Konvent von Ossiach sieben Mark Friesacher fÅr den Verzicht am dritten Teil des
+Waldes, der von Graf Engelbert (von Gîrz) dem Kloster geschenkt worden ist.
+F$MDC 3/1474/575/575
+F$FRA II 76/158/120f/121
+F$Reg. Gîrz 1/304/83/83
+G$X/Propst/Neustift/Neustift//Tirol,b.Brixen/
+G$X/Konvent/Neustift/Neustift//Tirol,b.Brixen/
+E$Ebo/Abt/Ossiach/Ossiach//sw.Feldkirchen/
+E$X/Konvent/Ossiach/Ossiach//sw.Feldkirchen/
+H$Verzicht/Immobilien_Wald/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$7/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$septem marcas Frisacensium
+
+DOK$MDC3_1475/1197.4.16/1197.4.16/1197 April 16/anno MCXCVII, indictione XV, XVI kalend.
+maii/Villach/Villach//K/
+S$X/Gurk/Arnold
+V$X/X/X
+K$Abt Ebo und der Konvent von Ossiach verzichten fÅr sieben Mark Friesacher auf
+die dem Kloster Neustift strittig gemachten, von Graf Engelbert (II. von Gîrz)
+dahin geschenkten GÅter bei der Kirche St. Johann im Walde (nw. Lienz) nÑchst
+dem Schlo· Kienburg (in Tirol).
+
+REG$Abt Ebo und der Konvent von Ossiach verzichten fÅr sieben Mark Friesacher auf
+die dem Kloster Neustift strittig gemachten GÅter bei der Kirche St. Johann im
+Walde (nw. Lienz).
+F$MDC 3/1475/575f/576
+F$FRA II 77/011/46f/47
+F$Reg. Gîrz 1/303/83/83
+F$TUB 1/502/1/?
+G$X/Kloster/Neustift/Neustift//Tirol,b.Brixen/
+E$Ebo/Abt/Ossiach/Ossiach//sw.Feldkirchen/
+E$X/Konvent/Ossiach/Ossiach//sw.Feldkirchen/
+H$Verzicht/Immobilien/St.Johann_i.Walde/St. Johann i.Walde//nw.Lienz/
+W$Friesach/moneta publica/
+O$7/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$VII marce Frisacensis monete publice
+
+DOK$MDC3_1512/1201.11.30/1201.11.30/1201 November 30/anno dominice incarnationis millesimo
+CCI, indict. V, II decembris kalend./Villach/Villach//K/
+S$X/X/X
+V$X/X/X
+K$Graf Engelbert von Gîrz, Vogt von Millstatt, verzichtet nach Empfang von
+vierzig Mark Friesacher auf den bisher vom Kloster eingehobenen Vogt-Modius.
+
+REG$Graf Engelbert von Gîrz, Vogt von Millstatt, verzichtet nach Empfang von
+vierzig Mark Friesacher auf den bisher vom Kloster eingehobenen Vogt-Modius.
+F$MDC 3/1512/592f/593
+F$Kos 5/008/4/4
+G$Alker/Abt/Millstatt/Millstatt//K/
+E$Engelbert/Graf/Gîrz/Gîrz//G/
+H$Verzicht/Vogt-Modius/Millstatt/Millstatt//K/
+W$Friesach/moneta publica/
+O$40/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$XL marcas Frisacens(is) monete publice
+
+DOK$MDC4I_1608/1207.9.30/1207.9.30/(1207 Ende September)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Heinrich von LechsgemÅnd verzichtet in AbÑnderung des einst mit
+Erzbischof Konrad III. von Salzburg abgeschlossenen Vertrages auf alle
+damals
+ausbedungenen EinkÅnfte aus GÅtern, die er teils an die Salzburger
+Kirche Åbergeben, teils gegen 700 Mark in Pfand genommen hatte, gegen
+2850 Friesacher Mark und nimmt davon aus das Schlo· Lengberg
+(Pustertal, Tirol) mit einem Ministerialen und auf 20 Mark geschÑtzte
+EinkÅnfte in Irschen (w. Greifenburg), Nikolsdorf (sî. Lienz) und
+Lind (ob Sachsenburg?).
+
+REG$Graf Heinrich von LechsgemÅnd verzichtet auf alle seine GÅter, wofÅr ihm
+Erzbischof Eberhard II. von Salzburg 2850 Mark Friesacher zu zahlen verspricht.
+F$MDC 4I/1608/40f/40
+F$SUB 3/0605/94f/95
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+H$Verzicht/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$2850/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro cessione tali ibidem mihi iuravit se daturum duo milia octingentas et
+quinquaginta marcas Frisacensis monete
+
+REG$Der Salzburger Erzbischof Eberhard II. verpfÑndet Graf Heinrich von
+LechsgemÅnd Zehnten um 700 Mark.
+F$MDC 4I/1608/40f/40
+F$SUB 3/0605/94f/94
+G$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Zehnten/unbestimmt/unbestimmt//
+W$X/X/
+O$700/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$mihi inpignoravit quasdam alias decimas pro DCC marcis
+
+REG$Graf Heinrich von LechsgemÅnd verzichtet auf alle seine GÅter, wofÅr ihm der
+Salzburger Erzbischof Eberhard II. 2850 Mark Friesacher zu zahlen verspricht,
+doch behÑlt
+sich der Graf das Schlo· Lengberg mit einem Ministerialen und GÅter in Irschen (w. Greifenburg),
+Nikolsdorf (sî. Lienz) und Lind (ob Sachsenburg?), welche auf zwanzig Mark
+EinkÅnfte geschÑtzt werden, zur freien VerfÅgung vor.
+F$MDC 4I/1608/40f/40
+F$SUB 3/0605/94f/95
+G$X/X/X/X//
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+H$EinkÅnfte/Immobilien_Schlo·/Lengberg/Lengberg//sî.Lienz/
+H$EinkÅnfte/Immobilien/Nikolsdorf/Nikolsdorf//sî.Lienz/
+H$EinkÅnfte/Immobilien/Irschen/Irschen//w.Greifenburg/
+H$EinkÅnfte/Immobilien/Lind_a.Drau/Lind a.Drau//s.Sachsenburg/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$prediolis attinentibus qui computantur ad redditus XX marcarum
+
+DOK$MDC4I_1610/1207.9.30/1207.9.30/1207 (Ende September)/anno dominice
+incarnationis MCCVII, indictione XI/X/X//
+S$X/X/X
+V$X/X/X
+K$Kînig Philipp beurkundet den vor ihm getroffenen Vergleich
+zwischen Graf Heinrich von LechsgemÅnd und Erzbischof Eberhard II. von
+Salzburg, nach dem letzterer in festgesetzter Frist und unter Stellung
+genannter BÅrgen an den Grafen 2850 Friesacher Mark zu zahlen hat.
+
+REG$Erzbischof Eberhard II. von Salzburg verpflichtet sich zur Beilegung eines
+Streites, 2850 Mark Friesacher an den Grafen Heinrich von LechsgemÅnd zu zahlen.
+F$MDC 4I/1610/41f/42
+F$SUB 3/0608/98f/98
+F$Ried, CD Ratisbon. 1/311/295f/295
+F$MB 29I/590/537f/537
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+H$Zahlungsverpflichtung/Streitbeilegung/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$2850/marca/X
+Z$5/ferto/X
+M$X/den./X/Z
+A$1 Mark Silber/5 Fertones nach Friesacher MÅnze
+A$5 Fertones nach Friesacher MÅnze/1 Mark Silber
+Q$ duo milia et octingentas et quinquaginta marcas Frisaciensis monete et tales
+debent esse denarii, quod V fert(ones) valeant unam marcam puri argenti
+B$MÅnzfu· der Friesacher Pfennig: "In den Jahren 1207 und 1217 werden
+Friesacher Pfennige erwÑhnt, von welchen 5 Vierting einer Zahlmark von
+160 Pfennigen, mithin 200 StÅck eine Mark Feinsilber ergaben, sie hie·en
+darum Fumfvierdunger." (Luschin, S. 152)
+
+REG$Erzbischof Eberhard II. von Salzburg verpflichtet sich zur Beilegung eines
+Streites zu festgesetzten Terminen insgesamt 2850 Mark Friesacher an den Grafen
+Heinrich von LechsgemÅnd zu zahlen. 1. Teilzahlung in der Hîhe von 1250 Mark.
+F$MDC 4I/1610/41f/42
+F$SUB 3/0608/98f/99
+F$Ried, CD Ratisbon. 1/311/295f/295
+F$MB 29I/590/537f/537
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+H$Zahlungsverpflichtung/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$1250/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$MCCL marce
+B$Teilzahlung
+
+REG$Erzbischof Eberhard II. von Salzburg verpflichtet sich zur Beilegung eines
+Streites zu festgesetzten Terminen insgesamt 2850 Mark Friesacher an den Grafen
+Heinrich von LechsgemÅnd zu zahlen. 2. Teilzahlung in der Hîhe von 1000 Mark.
+F$MDC 4I/1610/41f/42
+F$SUB 3/0608/98f/99
+F$Ried, CD Ratisbon. 1/311/295f/295
+F$MB 29I/590/537f/537
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+H$Zahlungsverpflichtung/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$M marce
+B$Teilzahlung
+
+REG$Erzbischof Eberhard II. von Salzburg verpflichtet sich zur Beilegung eines
+Streites zu festgesetzten Terminen 2850 Mark Friesacher an den Grafen Heinrich
+von LechsgemÅnd zu zahlen. Restbetrag in der Hîhe von 600 Mark.
+F$MDC 4I/1610/41f/42
+F$SUB 3/0608/98f/99
+F$Ried, CD Ratisbon. 1/311/295f/295
+F$MB 29I/590/537f/537
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S
+E$Heinrich/Graf/LechsgemÅnd/LechsgemÅnd//Bayern,nw.Donauwîrth/
+H$Zahlungsverpflichtung/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$DC marce
+B$Teilzahlung
+Wo?? noch aus anderen UB erfragen.
+
+
+
+DOK$MDC4I_1652/1211.0.0/1211.0.0/1211/anno ab incarnatione domini M
+CCXI, indictione XIIII, pontificatus nostri anno XII/X/X//
+S$X/Salzburg_St. Peter/X
+V$X/Salzburg/EIIE
+K$Erzbischof Eberhard II. von Salzburg vergleicht mit Einwilligung des
+Dompropstes Albert und des Domkapitels und mit Rat kluger Leute den
+Abt Simon und den Konvent von St. Peter in dem Streit mit Pfarrer
+Konrad von Klein-St. Paul (n. Eberstein) wegen Zehnten und
+Pfarrgrenzen des von Gotfried von Wieting geschenkten Gutes,
+indem der Pfarrer gegen zwîlf Mark Friesacher Pfennige, die er vom Abt
+erhÑlt,von seinen AnsprÅchen absteht, wozu Herzog Leopold VI. von
+ôsterreich und Steiermark seine Zustimmung gibt.
+
+REG$Pfarrer Konrad von Klein-St. Paul (n. Eberstein) steht gegen 12 Mark
+Friesacher Pfennige, die er von Abt Simon von St. Peter erhÑlt, von
+seinen AnsprÅchen auf Zehnten und Pfarrgrenzen des von Gotfried von
+Wieting geschenkten Gutes ab.
+F$MDC 4I/1652/53f/53
+F$SUB 3/0640/141ff/142
+F$BabUB 1/177/236f/237
+G$Simon/Abt/Salzburg/Salzburg,St. Peter//S
+E$Konrad/Pfarrer/Kl.St.Paul/Klein-St. Paul//n. Eberstein/
+H$Ablîse/Zehnten;Pfarrgrenzen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$12/marca/X
+Z$X/X/X
+M$X/den./probatus/A
+Q$acceptis propter hoc a prefato abbate XII marcis denariorum Frisacensium
+probatorum
+B$Die Unterschrift des Herzogs ist vom Urkundenschreiber geschrieben.
+
+DOK$MDC4I_1688/1213.11.4/1213.11.4/1213 November 4/anno incarnationis domini millesimo
+ducentesimo quartodecimo, II non. novembris/Graz/Graz//n.Graz
+S$X/Salzburg/X
+V$X/Salzburg/EIIE
+K$Erzbischof Eberhard II. von Salzburg und Herzog Leopold VI. von ôsterreich
+und (III.) Steiermark als von den Parteien gewÑhlte Schiedsrichter
+entscheiden den Streit des Klosters Admont mit Reinbert von Mureck
+Åber die Zehnten in "Gamnar" (n. St. Leonhard im Lavanttal) dahin,
+da· letzterer fÅr sich und seine Erben auf die Zehnten nach Empfang
+von 150 Mark Friesacher MÅnze seitens des Abtes Gottfried verzichtet.
+
+REG$Reinbert von Mureck verzichtet gegen 150  Mark Friesacher MÅnze im Streit
+mit dem Kloster Admont auf die Zehnten in "Gamnar" (n. St. Leonhard im
+Lavanttal).
+F$MDC 4I/1688/66ff/67
+F$StUB 2/123/186f/186
+F$SUB 3/0667/172f/172
+F$BabUB 1/194/270f/271
+G$X/Kloster/Admont/Admont//Stmk/
+E$Reinbert/Genannter/Mureck/Mureck//Stmk/
+H$Ablîse/Zehnten/St.Leonhard1/Gamnar//n.St.Leonhard i.Lavanttal/
+W$Friesach/moneta/
+O$150/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$acceptis a monasterio predicto marcis centum quinquaginta Frisacensis monete
+B$2 Originale in Admont. Jedes StÅck ist von anderer Hand geschrieben,
+A2 von einem Salzburger Schreiber.
+Zur Datierung siehe Zîllner und Fichtenau (BabUB 1, S. 270f).
+
+DOK$MDC4I_1727/1216.0.0/1216.0.0/1216/anno ab incarnacione domini MCCXVI, indictione
+IIII/Wolfsberg/Wolfsberg//Lavanttal
+S$X/X/X
+V$X/X/X
+K$Bischof Ekkebert von Bamberg verleiht das durch den Tod des Hermann,
+des Bruders Friedrichs, seines Verwalters in Wolfsberg, erledigte
+Lehen auf Bitte der Witwe Mehtild deren zweitem Gemahl Hermann von
+Schînstein (nw. Cilli).
+
+REG$Bischof Ekkebert von Bamberg verleiht das durch den Tod des Hermann
+erledigte Lehen auf Bitte der Witwe Mehtild deren zweitem Gemahl Hermann von
+Schînstein (nw. Cilli) unter der Bedingung, da·, wenn Hermann seine Frau oder
+ihre Erben Åberleben sollte, das Lehen an den Bischof oder seinen Nachfolger
+gegen Zahlung von 100 Mark Friesacher zurÅckfallen wird.
+F$MDC 4I/1727/82/82
+G$Ekkebert/Bischof/Bamberg/Bamberg//Bayern
+E$Hermann/Genannter/Schînstein/Schînstein//nw. Cilli
+H$RÅckkauf/Lehen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$100/marca/in numero
+Z$X/X/X
+M$X/X/X/Z
+Q$dabimus sepedicto Hermanno centum marcas Frisaticorum in numero
+
+DOK$MDC4I_1758/1217.11.15/1217.11.15/1217 November 15/XVII kalend. decemb.,
+pontificatus nostri anno secundo/Rom/Rom#Lateran//Italien
+S$X/X/X
+V$X/X/X
+K$Papst Honorius III. bestÑtigt die durch Erzbischof (Eberhard II.)
+von Salzburg aus den reichen EinkÅnften der Friesacher Kirche mit
+Zustimmung des Dompropstes, Domkapitels und der PrÑlaten der Diîzese
+geschehene BegrÅndung eines Kapitels mit zwîlf SÑkularkanonikern in
+Friesach (St. Virgil).
+
+REG$Erzbischof (Eberhard II.) von Salzburg grÅndet aus den reichen
+EinkÅnften der Friesacher Kirche mit Zustimmung des Dompropstes,
+Domkapitels und der PrÑlaten der Diîzese ein Kapitel mit zwîlf
+SÑkularkanonikern in Friesach (St. Virgil).
+F$MDC 4I/1758/94/94
+F$SUB 3/0713/226f/227
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Kollegialstift/Friesach/Friesach,St.Virgilienberg//K/
+H$BepfrÅndung/PfrÅnde/Friesach/Friesach,St.Virgilienberg//K/
+W$Friesach/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cuilibet canonicorum decem marcas Frisacensis monete \dots
+
+DOK$MDC4I_1968/1229.1.1/1229.12.2/(1229 vor Dezember 3)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Hermann II. von Ortenburg entsagt mit Vorbehalt der Vogtei dem
+Streite um das Gut Wirlsdorf, welches er vom Propst Heinrich von
+Reichersberg gekauft zu haben behauptete, wogegen sich das Kloster
+verpflichtet, fÅr den Fall des Gutsverkaufes das Gut dem Grafen und
+seinen Erben um 200 Mark Friesacher anzubieten.
+
+REG$Graf Hermann II. von Ortenburg entsagt mit Vorbehalt der Vogtei dem
+Streite um das Gut Wirlsdorf, welches er vom Propst Heinrich von
+Reichersberg gekauft zu haben behauptete, wogegen sich das Kloster
+verpflichtet, fÅr den Fall des Gutsverkaufes das Gut dem Grafen und
+seinen Erben um 200 Mark Friesacher anzubieten.
+F$MDC 4I/1968/175f/176
+F$MB 04/031/432f/432
+F$OôUB 2/474/681f/681
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$X/Kloster/Reichersberg/Reichersberg//Oô
+H$Vorkaufsrecht/Immobilien/Wirlsdorf/Wirlsdorf//nw.Millstatt/
+W$Friesach/X/
+O$200/marca/X
+Z$X/X/X
+M$X/den./legalis/Z
+Q$nobis vel heredibus nostris ad emendum pro ducentis marcis denariorum
+Frisacensium legalium
+
+REG$Von den FischgrÅnden, die zum Gut Wirldorf gehîren, erhÑlt die Kirche
+jÑhrlich 2 Mark.
+F$MDC 4I/1968/175f/176
+F$MB 04/031/432f/433
+F$OôUB 2/474/681f/682
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//Oô
+H$EinkÅnfte/Immobilien_FischgrÅnde/Wirlsdorf/Wirlsdorf//nw.Millstatt/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de piscariis eidem predio attinentibus recipiet ecclesia annis singulis
+tantummodo marcas duas
+
+DOK$MDC4I_1969/1229.1.1/1229.12.2/(1229 vor Dezember 3)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Friderich und das Kapitel von Reichersberg bestÑtigen, Graf
+Hermann II. von Ortenburg habe unter der Bedingung auf das Gut
+Wirlsdorf (w. Millstatt) verzichtet, da· fÅr den Fall des
+Gutsverkaufes ihm und seinen Erben um 200 Mark Friesacher Pfennige der
+Ankauf gesichert ist.
+
+REG$Graf Hermann II. von Ortenburg verzichtet unter der Bedingung auf das Gut
+Wirlsdorf, da· fÅr den Fall des Gutsverkaufes ihm und
+seinen Erben das Gut um 200 Mark Friesacher angeboten wird.
+F$MDC 4I/1969/176f/177
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$X/Kloster/Reichersberg/Reichersberg//Oô
+H$Vorkaufsrecht/Immobilien/Wirlsdorf/Wirlsdorf//nw.Millstatt/
+W$Friesach/X/
+O$200/marca/X
+Z$X/X/X
+M$X/den./legalis/Z
+Q$vobis vel vestris heredibus ad emendum pro ducentis marcis denariorum
+Frisacensium legalium
+
+REG$Von den FischgrÅnden, die zum Gut Wirldorf gehîren, erhÑlt die Kirche
+jÑhrlich 2 Mark.
+F$MDC 4I/1969/176f/177
+G$X/X/X/X//
+E$X/Kloster/Reichersberg/Reichersberg//Oô
+H$EinkÅnfte/Immobilien_FischgrÅnde/Wirlsdorf/Wirlsdorf//nw.Millstatt/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de piscariis eidem predio attinentibus recipiet ecclesia annis singulis
+tantummodo marcas duas
+
+DOK$MDC4I_1972/1230.0.0/1236.0.0/(1230 - 1236)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Bischof Ekkebert von Bamberg verpflichtet sich, anlÑ·lich der Ehe
+zwischen seinem Marschall Heinrich Pfangower und der Tochter seines
+getreuen Hermann von Schînstein hundert Mark Friesacher Pfennige zu
+zahlen, zu deren Sicherstellung er dem Ehepaar jÑhrlich zwanzig Mark
+aus der Villacher Maut verpfÑndet. Au·erdem steuert Heinrich fÅnfzig
+Mark bei, der Vater der Frau siebzig Mark, wÑhrend die Mutter dem
+Bischof ein Lehen von elf Mark und einen Weingarten heimsagt, womit
+das Ehepaar belehnt wird.
+
+REG$Bischof Ekkebert von Bamberg verpflichtet sich, anlÑ·lich der Ehe zwischen
+seinem Marschall Heinrich Pfangower und der Tochter seines getreuen Hermann von
+Schînstein hundert Mark Friesacher Pfennige zu zahlen.
+F$MDC 4I/1972/178f/179
+G$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+E$Heinrich Pfangower/Marschall/Bamberg/Bamberg//Bayern/
+E$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$100/marca/in numero
+Z$X/X/X
+M$X/den./X/Z
+Q$daturos centum marcas in numero denariorum Frisaticorum
+B$Eheschlie·ung
+
+REG$Bischof Ekkebert von Bamberg verpflichtet sich, anlÑ·lich der Ehe zwischen
+seinem Marschall Heinrich Pfangower und der Tochter seines getreuen Hermann von
+Schînstein hundert Mark Friesacher Pfennige zu zahlen, zu deren Sicherstellung
+der dem Ehepaar jÑhrlich zwanzig Mark aus der Villacher Maut verpfÑndet.
+F$MDC 4I/1972/178f/179
+G$Heinrich Pfangower/Marschall/Bamberg/Bamberg//Bayern/
+G$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+E$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+H$PfandgeschÑft/Maut/Villach/Villach//K/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$concessimus eis iure feodali XX marcas de muta nostra aput Villacum
+B$Eheschlie·ung
+
+REG$Bischof Ekkebert von Bamberg verpflichtet sich, anlÑ·lich der  Ehe zwischen
+seinem Marschall Heinrich Pfangower und der Tochter seines getreuen Hermann von
+Schînstein hundert Mark Friesacher Pfennige zu zahlen, zu deren Sicherstellung
+der dem Ehepaar jÑhrlich zwanzig Mark aus der Villacher Maut verpfÑndet, die
+mit 100 Mark Friesacher Pfennige zurÅckgekauft werden kînnen.
+F$MDC 4I/1972/178f/179
+G$Heinrich Pfangower/Marschall/Bamberg/Bamberg//Bayern/
+G$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+E$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+H$Pfand_Auslîsung/Maut/Villach/Villach//K/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$XX marcae centum marcis in denariis vel a nobis vel a nostris successoribus
+redimantur
+B$Eheschlie·ung
+
+REG$Bischof Ekkebert von Bamberg verpflichtet sich, anlÑ·lich der  Ehe zwischen
+seinem Marschall Heinrich Pfangower und der Tochter seines getreuen Hermann von
+Schînstein hundert Mark Friesacher Pfennige zu zahlen, zu deren Sicherstellung
+der dem Ehepaar jÑhrlich zwanzig Mark aus der Villacher Maut verpfÑndet, die
+mit 100 Mark Friesacher Pfennige zurÅckgekauft werden kînnen.
+F$MDC 4I/1972/178f/179
+G$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+E$Heinrich Pfangower/Marschall/Bamberg/Bamberg//Bayern/
+E$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+H$Pfand_Auslîsung/Maut/Villach/Villach//K/
+W$Friesach/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$XX marcae centum marcis in denariis vel a nobis vel a nostris successoribus
+redimantur
+B$Eheschlie·ung
+
+REG$Marschall Heinrich Pfangower verpflichtet sich anlÑ·lich seiner Ehe
+der Tochter des Hermann von
+Schînstein hundert Mark Friesacher Pfennige zu zahlen.
+F$MDC 4I/1972/178f/179
+G$Heinrich Pfangower/Marschall/Bamberg/Bamberg//Bayern/
+E$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Heinricus noster marschalcus supperaddet quinquaginta marcas
+B$Eheschlie·ung
+
+REG$Hermann von Schînstein verpflichtet sich, anlÑ·lich der Ehe zwischen
+Marschall Heinrich Pfangower und seiner Tochter
+siebzig Mark Friesacher Pfennige zu zahlen.
+F$MDC 4I/1972/178f/179
+G$Hermann/Genannter/Schînstein/Schînstein//nw.Cilli/
+E$Heinrich Pfangower/Marschall/Bamberg/Bamberg//Bayern/
+E$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+H$Heiratsabrede/Heiratsgut/unbestimmt/unbestimmt//
+W$X/X/
+O$70/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pater eiusdem nupte spospondit se daturum \dots septuaginta marcas
+B$Eheschlie·ung
+
+REG$Die Mutter der Braut verpflichtet sich, anlÑ·lich der Ehe zwischen
+Marschall Heinrich Pfangower und der Tochter des Hermann von
+Schînstein dem Bischof Ekkebert von Bamberg ein Lehen von elf Mark und einen
+Weingarten heimzusagen.
+F$MDC 4I/1972/178f/179
+G$X/Genannte/Schînstein/Schînstein//nw.Cilli/
+E$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+H$Heimsagung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$11/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$mater vero resignavit nobis de feodo suo ad undecim marcas et unam vineam
+B$Eheschlie·ung
+
+DOK$MDC4I_1979/1230.1.1/1230.1.1/1230 (Anfang)/anno domini millesimo CCXXX, indictione
+III/X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Bernhard von KÑrnten schenkt dem Kloster Viktring mit Zustimmung seiner
+Frau und seiner Kinder das Gut Gottesbichl (nî. Klagenfurt) zum
+Ankaufe von Fischen und Feigen wÑhrend der Fastenzeit fÅr den Konvent
+und behÑlt sich fÅr die Dauer seines Lebens das RÅckkaufsrecht um 100
+Mark Friesacher vor.
+
+REG$Herzog Bernhard von KÑrnten schenkt dem Kloster Viktring mit Zustimmung seiner
+Frau und seiner Kinder das Gut Gottesbichl (nî. Klagenfurt) zum
+Ankaufe von Fischen und Feigen wÑhrend der Fastenzeit fÅr den Konvent
+und behÑlt sich fÅr die Dauer seines Lebens das RÅckkaufrecht um 100
+Mark Friesacher vor.
+F$MDC 4I/1979/181f/181
+G$Bernhard/Herzog/KÑrnten/KÑrnten//K/
+E$X/Kloster/Viktring/Viktring//sw.Klagenfurt/
+H$RÅckkauf/Immobilien/Gottesbichl/Gottesbichl//nî.Klagenfurt/
+W$Friesach/moneta publica et probata/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum marcis Frisatiorum publice et probate monete a me redimatur
+B$Dorsualnotiz gleichzeitig: Privilegium ducis Carinthie super villa que
+dicitur Gotespvhel.
+
+DOK$MDC4I_2028/1232.0.0/1232.0.0/(1232)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Meinhard II. von Gîrz verkauft dem Erzbischof Eberhard II. von
+Salzburg das von der Kirche "Polen" kÑuflich erworbene Gut Premersdorf
+bei Feldsberg (nw. Spital) um 200 Mark Friesacher Pfennige und nimmt
+das Gut vom Erzbischof zu Lehen.
+
+REG$Graf Meinhard II. von Gîrz verkauft dem Erzbischof Eberhard II. von
+Salzburg das von der Kirche "Polen" kÑuflich erworbene Gut Premersdorf
+bei Feldsberg (nw. Spital) um 200 Mark Friesacher Pfennige und nimmt
+das Gut vom Erzbischof zu Lehen.
+F$MDC 4I/2028/196f/197
+F$SUB 3/0872/415f/415
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Meinhard II./Graf/Gîrz/Gîrz//G/
+H$Kauf/Immobilien/Premersdorf/Premersdorf//b.Feldsberg nw.Spittal/
+W$Friesach/X/
+O$200/marca/X
+Z$X/X/X
+M$X/den./legalis/Z
+Q$promisit se daturum denariorum Frisacensium legalium marcas CC
+
+DOK$MDC4I_2073/1233.5.0/1233.5.0/1233 ca. Mai/X/Wien/Wien//Nô
+S$X/X/X
+V$X/X/X
+K$Bischof Ekkebert von Bamberg verpfÑndet dem Grafen Hermann II. von
+Ortenburg EinkÅnfte in St. Martin im Lungau (Salzburg).
+
+REG$Bischof Ekkebert von Bamberg verpfÑndet dem Grafen Hermann II. von
+Ortenburg EinkÅnfte in der Hîhe von 30 Mark Friesacher Pfennige in St. Martin
+im Lungau (Salzburg).
+F$MDC 4I/2073/213/213
+G$X/X/X/X//
+E$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+H$EinkÅnfte/Immobilien/St.Martini.Lungau/St. Martin i.Lungau//î.St.Michael i.Lungau/
+W$Friesach/X/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$triginta marcarum Frisacensium denariorum reddittibus
+
+REG$Bischof Ekkebert von Bamberg verpfÑndet dem Grafen Hermann II. von
+Ortenburg EinkÅnfte in der Hîhe von 30 Mark Friesacher Pfennige in St. Martin
+im Lungau (Salzburg) fÅr 210 Talent Wiener Pfennige.
+F$MDC 4I/2073/213/213
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Ekkebert/Bischof/Bamberg/Bamberg//Bayern/
+H$PfandgeschÑft/EinkÅnfte/St.Martini.Lungau/St. Martin i.Lungau//î.St.Michael i.Lungau/
+W$Wien/X/
+O$210/tal./X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro ducentis et decem talentis Wiennensium denariorum apud Wiennam obligatis
+
+DOK$MDC4I_2087/1234.2.13/1234.2.13/1234 Februar 13/anno domini MCCXXXIIII, idus
+februarii, indictione septima/X/X//
+S$X/X/X
+V$X/Salzburg/EIIO
+K$Erzbischof Eberhard II. von Salzburg schenkt dem Propst und Kapitel
+von St. AndrÑ (im Lavanttal) seinen Wald im Lavanttal, das Bergrecht
+an allen seinen
+Weinbergen, die Salzmaut im Markt St. AndrÑ, neun Mark Friesacher
+Pfennige von Reimbert von Mureck fÅr das Gut Schiefling (n. Wolfberg)
+ertauschte EinkÅnfte am Aichberg und vier Mark durch den Tod des
+Grafen von Lebenau freigewordene EinkÅnfte am Dachberg (sî. St.
+AndrÑ), damit das Kapitel stets aus acht Priestern, zwei Diakonen und
+je zwei Subdiakonen und Akolythen bestehe.
+
+REG$Erzbischof Eberhard II. von Salzburg schenkt dem Propst und Kapitel
+von St. AndrÑ (im Lavanttal) neun Mark Friesacher Pfennige EinkÅnfte am
+Aichberg fÅr den Unterhalt des auf vierzehn Kleriker erhîhten
+Stiftskapitels.
+F$MDC 4I/2087/219f/220
+F$SUB 3/0903/452/452
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Kapitel/St.AndrÑi.L./St. AndrÑ i.Lavanttal//Lavanttal
+H$Schenkung/EinkÅnfte/Aichberg b.Wolfsberg/Aichberg b.Wolfsberg//w.Wolfsberg/
+W$Friesach/moneta/
+O$9/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$novem marcarum reditus monete Frisacensis in monte Achperg
+
+REG$Erzbischof Eberhard II. von Salzburg schenkt dem Propst und Kapitel
+von St. AndrÑ (im Lavanttal) vier Mark EinkÅnfte am Dachberg (sî. St.
+AndrÑ) fÅr den Unterhalt des auf vierzehn Kleriker erhîhten
+Stiftskapitels.
+F$MDC 4I/2087/219f/220
+F$SUB 3/0903/452/452
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Kapitel/St.AndrÑi.L./St. AndrÑ i.Lavanttal//Lavanttal
+H$Schenkung/EinkÅnfte/Dachberg sî.St.AndrÑ i.L./Dachberg sî.St.AndrÑ i.L.//sî.Lavanttal/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in monte Dachperg quatuor marcarum reditus
+
+DOK$MDC4I_2149a/1238.0.0/1261.0.0/(1238 - 1261)/X/X/X//
+S$X/Moggio/X
+V$X/Moggio/X
+K$Verzeichnis der EinkÅnfte des Klosters Moggio (Friaul) in KÑrnten.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Drobollach/Drobollach/Oberpuolach/sî.Villach/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$I mansum qui solvit dimidiam marcam
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Worzilich b.Arnoldstein/Worzilich b.Arnoldstein//K/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$70/den./X/Z
+Q$I mans. qui solvit LXX denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Egg/Egg/Hec/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$dimidium mansum qui solvit \dots VI denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Egg/Egg/Hec/sî.Villach
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$dimidium mansum qui solvit \dots VI
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Duel/Duel/D\v{o}lach/î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$I mans. qui solvit \dots XIIII denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Fîrk/Fîrk/Vorich/nw.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$I mansum qui solvit \dots den. XIIII
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/St.JohannBat.a.d.Gail/St. Johann a.d.Gail//nahe
+Dobratsch
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/Z
+Q$VII den.
+B$Urbar. 1348 durch Dobratsch-Absturz verschÅttet.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/St.JohannBat.a.d.Gail/St. Johann a.d.Gail//nahe
+Dobratsch
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/Z
+Q$VII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Pruck/Pruck/"Pons"/Wasserleonburg b.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/Z
+Q$II mansus, unusquisque solvit \dots VIIII d\c{e}n.
+B$Urbar. 1348 Wasserleonburg vom Dobratsch verschÅttet.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Pruck/Pruck/"Pons"/Wasserleonburg b.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$II mansus, unusquisque solvit \dots VI d\c{e}narios
+B$Urbar. 1348 Wasserleonburg vom Dobratsch verschÅttet.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Kratschach/Kratschach/Costidrach/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$II mansus, unusquisque solvit \dots XIIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Maglern/Maglern/Maglaria/w.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/Z
+Q$III mans. unusquisque solvit \dots VIIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Duel/Duel/D\v{o}lach/î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$XIIII d\c{e}n.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Duel/Duel/D\v{o}lach/î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$IIII denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Dreulach/Dreulach/Dr\c{e}ulach/nw.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$VII mans., unusquisque solvit \dots XIIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Dreulach/Dreulach/Dr\c{e}ulach/nw.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$11/den./X/Z
+Q$octavus mansus XI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Feistritz_a.d.Gail/Hîfling/Ovilin b.Feistritz
+a.Gail/sî.Villach
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$VIIII mans., unusquisque solvit \dots den. XIIII
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Feistritz_a.d.Gail/Hîfling/Ovilin b.Feistritz a.Gail/sî.Villach
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$tercium molendinum solvit \dots X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Feistritz_a.d.Gail/Feistritz_a.d.Gail/Viustriz/nw.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$V mans., unusquisque solvit \dots XIIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Feistritz_a.d.Gail/Feistritz_a.d.Gail/Viustriz/nw.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$agri qui solvunt XXIIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Wertschach/Wertschach/Pouersach/nw.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$XI mans., unusquisque solvit \dots XIIII d\c{e}n.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/KÑrnten/KÑrnten//K/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$33/den./minus/Z
+Q$summa den(ariorum) V marcas minus XXXIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Latschach/Latschach/Lonshac/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$VI mans. unusquisque solvit \dots quind\c{e}cim den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Latschach/Latschach/Lonshac/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$IIII mansi solvunt unusquisque X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Latschach/Latschach/Lonshac/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$IIII mansi solvunt unusquisque \dots X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Latschach/Latschach/Lonshac/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$de I agro X d\c{e}n.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Pruck/Pruck/Mostich/Wasserleonburg b.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$LX denarios
+B$Urbar. 1348 Wasserleonburg vom Dobratsch verschÅttet.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gîdersdorf/Gîdersdorf/Godvisdorf/s.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Gîdersdorf/Gîdersdorf/Godvisdorf/s.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$VI in f. s. G\c{e}or.
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rosegg/Frojach/Vroyiach/w.Rosegg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Rosegg/Frojach/Vroyiach/w.Rosegg/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/Z
+Q$II den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Fîderlach/Fîderlach/Podr\c{e}vlach/î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Fîderlach/Fîderlach/Podr\c{e}vlach/î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$XII in f. s. Geor.
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien_Furt/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$LX den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio/Friaul-Nord/
+H$EinkÅnfte/Immobilien/Drau Ort/Drau,Ort/Drawa/Ort î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Drau Ort/Drau,Ort/Drawa/Ort î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$XII in f. s. Geor.
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/Drau Ort/Drau,Ort/Drawa/Ort î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/Z
+Q$XIIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Drau Ort/Drau,Ort/Drawa/Ort î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$XII in f. s. Geor.
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Drau Ort/Drau,Ort/Drawa/Ort î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$X den. in f. s. Mich.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Drau Ort/Drau,Ort/Drawa/Ort î.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/Z
+Q$VI den. in f. s. Geor.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gesa/Gesa//etwa Abflu· d.Faaker Sees/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$III mansus unusquisque solvit \dots XV den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Gesa/Gesa//etwa Abflu· d.Faaker Sees/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/Z
+Q$III mansus unusquisque solvit \dots XIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/H\^{e}c/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$VIIII mansus unusquisque solvit \dots XV den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/H\^{e}c/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./minus/Z
+Q$omnes insimul V oves minus tres denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$d\c{e} manso dot\c{e} (!) \dots XV den. in f. s. Mich.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$d\c{e} manso dot\c{e} (!) \dots XII den. in f. s. G\c{e}or.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$dot\c{e} (!) \dots X den. d\c{e} duobus agris
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Hermann/Genannter/Faak/Faak/V\^{e}ech/sî.Villach/
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/unbestimmt/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/Z
+Q$dot\c{e} (!) \dots H\c{e}rmannus de V\^{e}ech IIII d\c{e}n.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Lind_î.Arnoldstein/Lind(î.Arnoldstein)/Lint/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$54/den./X/Z
+Q$pro decim(a) LIIII d\c{e}n.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Gundakar/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$dominus Gundach\c{e}r pro duobus agris X d\c{e}narios
+B$Urbar
+
+DOK$MDC4I_2149/1270.0.0/1270.0.0/(ca.1270)/X/X/X//
+S$Wezelo/Moggio/Wezelo
+V$Wezelo/Moggio/Wezelo
+K$Verzeichnis der EinkÅnfte des Klosters Moggio (Friaul) in KÑrnten.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Jakob/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$solvunt censum \dots Iacobus XXIIII
+B$Urbar. "Den." erschlossen aus dem Zusammenhang.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Agnes/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots Agnesa XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$NN/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots uxor domini \o{W}lrici XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$German/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots German XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Dietmar/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$solvunt censum \dots Dietmarus XII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Ianes/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots Ianes XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Maza/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots domina Maza XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Hugo/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots dominus Hvgo XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Petres/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$solvunt censum \dots domina Petres XII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Diez/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$solvunt censum \dots uxor Diez X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Kunz/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$solvunt censum \dots magister C\o{v}nz VIII den.
+B$Urbar
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Gerold/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$solvunt censum \dots Geroldus VIII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Liebmann/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$solvunt censum \dots magister Lyebmann XVI den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Pezco/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$solvunt censum \dots Pezco X den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Bernhard/Schreiber/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$solvunt censum \dots Bernardus scriba XII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$Stoian/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$solvunt censum \dots Stoian XII den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/FÅrnitz/FÅrnitz/Breniza/î.Arnoldstein/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+A$16 Pf./1 Schaf
+Q$solvunt censum \dots XVI den. pro ove una
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/249
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Amt/Egg/Egg/Hec/sî.Villach/
+W$X/X/
+O$3,5/marca/X
+Z$X/X/X
+M$5/den./X/Z
+Q$III marcas et dim. et V den.
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/250
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/pro fuderibus/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+A$1 Pf./qui dantur pro fuderibus
+Q$preter den. qui dantur pro fuderibus
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/250
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/Hec/sî.Villach/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$15/den./X/Z
+Q$quiqui faciunt residenciam, unusquisque solvit XV Frisat(icos)
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/250
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/Hec/sî.Villach/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/Z
+Q$qui non resident in bonis monasterii, solvunt \dots X Frisat(icos)
+B$Urbar. "Den." aus dem Zusammenhang erschlossen.
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/250
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Amt/Feistritz_a.d.Gail/Feistritz_a.d.Gail/Vivstriz/nw.Arnoldstein/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$33/den./minus/Z
+Q$summa denariorum V marcas minus XXXIII denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$mansus \dots XL denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/247
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/Z
+A$9 Pf./3 servitia
+Q$mansus \dots tria servicia vel VIIII denarios
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/H\^{e}c/sî.Villach/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+Z$63/sol./X
+M$X/X/X/Z
+A$63 Schill./5 Schafe minus 3 Pf.
+Q$omnes insimul V oves minus tres denarios vel LXIII solidos
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/H\^{e}c/sî.Villach/
+W$Verona/X/
+O$11/lib./X
+Z$1/sol./minus
+M$X/den./X/Z
+Q$summa denariorum pro ovibus XI libras Ver(onensium) minus unum solidum
+B$Urbar
+
+REG$EinkÅnfte des Klosters Moggio.
+F$MDC 4I/2149/247ff/248
+G$X/X/X/X//
+E$X/Kloster/Moggio/Moggio//Friaul-Nord/
+H$EinkÅnfte/Immobilien/Egg/Egg/H\^{e}c/sî.Villach/
+W$Friesach/X/
+O$27/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$summa denariorum Frisacensium s. Michaelis XXVII libras Frisaticas cum
+ratione warneri
+B$Urbar
+
+DOK$MDC4I_2182/1239.9.16/1239.9.16/1239 September 16/anno domini MCCXXXVIIII,
+indictione XIII, sexta decima kalend. octob./Villach/Villach//K/
+S$X/X/X
+V$X/X/X
+K$Graf Albert von Heunburg, Domherr von Passau, schenkt dem Grafen
+Hermann II. von Ortenburg und dessen Kindern, seiner Schwester
+Kindern, das Schlo· und das Gut Lessach (Lungau n. Tamsweg) mit den
+Leuten und Zugehîr, ausgenommen 10 Mark EinkÅnfte, fÅr den Fall des
+Ablebens ohne ehelichen Erben, wofÅr er sofort 100 Mark und 20 Mark
+EinkÅnfte erhÑlt.
+
+REG$EinkÅnfte des Schlosses und Gutes Lessach (Lungau n. Tamsweg).
+F$MDC 4I/2182/269f/270
+F$SUB 3/0945/497f/497
+F$Reg. Gîrz 1/478/128/128
+G$X/X/X/X//
+E$Albert/Graf/Haimburg/Heunburg//nî.Vîlkermarkt/
+H$EinkÅnfte/Immobilien/Lessach/Lessach//S,n.Tamsweg/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$decem marcarum redditibus tamen inde exceptis
+B$Die Urkunde ist zerschnitten.
+
+REG$Graf Albert von Heunburg, Domherr von Passau, schenkt dem Grafen
+Hermann II. von Ortenburg und seinen Kindern,
+das Schlo· und das Gut Lessach (Lungau n. Tamsweg) mit den
+Leuten und Zugehîr, ausgenommen 10 Mark EinkÅnfte, fÅr den Fall des
+Ablebens ohne ehelichen Erben, wofÅr er sofort 100 Mark und 20 Mark
+EinkÅnfte erhÑlt.
+F$MDC 4I/2182/269f/270
+F$SUB 3/0945/497f/498
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Albert/Graf/Haimburg/Heunburg//nî.Vîlkermarkt/
+H$Gegengabe/Immobilien/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro centum marcis denariorum Frisacensium redempcio
+B$Die Urkunde ist zerschnitten.
+
+REG$EinkÅnfte des Schlosses und Gutes Lessach (Lungau n. Tamsweg).
+F$SUB 3/0945/497f/498
+G$X/X/X/X//
+E$Albert/Graf/Haimburg/Heunburg//nî.Vîlkermarkt/
+H$EinkÅnfte/Immobilien/Lessach/Lessach//S,n.Tamsweg/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$exceptis eciam aliis trium marcarum redditibus
+B$Die Urkunde ist zerschnitten.
+
+REG$Graf Albert von Heunburg soll dem Grafen Hermann II. von
+Ortenburg fÅr den Fall vertragswidrigen Verhaltens Åber das Erbrecht hinaus mit
+1000 Mark Friesacher Pfennige verpflichtet sein.
+F$SUB 3/0945/497f/498
+G$Albert/Graf/Haimburg/Heunburg//nî.Vîlkermarkt/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$1000/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro mille marcis denariorum Frisacensis monete sibi supra ius hereditarium
+tenebit obligatum
+B$Die Urkunde ist zerschnitten.
+
+REG$Graf Albert von Heunburg, Domherr von Passau, schenkt dem Grafen
+Hermann II. von Ortenburg und seinen Kindern,
+das Schlo· und das Gut Lessach (Lungau n. Tamsweg) mit den
+Leuten und Zugehîr, ausgenommen 10 Mark EinkÅnfte, fÅr den Fall des
+Ablebens ohne ehelichen Erben, wofÅr er sofort 100 Mark und 20 Mark
+EinkÅnfte erhÑlt.
+F$MDC 4I/2182/269f/270
+F$SUB 3/0945/497f/498
+F$Reg. Gîrz 1/478/128/128
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Albert/Graf/Haimburg/Heunburg//nî.Vîlkermarkt/
+H$Gegengabe/Immobilien/Lessach/Lessach//S,n.Tamsweg/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$centum marcas denariorum comiti Alberto prenominato dedit
+B$Die Urkunde ist zerschnitten.
+
+REG$Graf Albert von Heunburg, Domherr von Passau, schenkt dem Grafen
+Hermann II. von Ortenburg und seinen Kindern,
+das Schlo· und das Gut Lessach (Lungau n. Tamsweg) mit den
+Leuten und Zugehîr, ausgenommen 10 Mark EinkÅnfte, fÅr den Fall des
+Ablebens ohne ehelichen Erben, wofÅr er sofort 100 Mark und 20 Mark
+EinkÅnfte erhÑlt.
+F$MDC 4I/2182/269f/270
+F$SUB 3/0945/497f/498
+F$Reg. Gîrz 1/478/128/128
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$X/X/X/X//
+H$Gegengabe/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$insuper redditus viginti marcarum de propriis redditibus eidem comiti
+Alberto assignavit
+B$Die Urkunde ist zerschnitten.
+
+DOK$MDC4I_2217/1241.0.0/1241.0.0/1241/anno domini MCCXLI, indictione
+XIIII/Friesach/Friesach//K/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg entscheidet Åber Klage des
+Propstes Kuno namens des Salzburger Domkapitels, da· Propst Siboto
+(gest. 1183 JÑnner 19.) einst ohne Zustimmung des Kapitels dem
+Walchun, genannt der Reiche, zwei Huben in Hartmannsdorf (n.
+Friesach) verpfÑndet habe, welche dann Walchuns Kinder Heinrich und
+Erendrud erbten, Heinrich habe die eine Hube um acht Mark abzutreten.
+Der Erzbischof fÅgte aus seiner Kammer noch zwei Mark hinzu.
+Die andere Hube, deren Besitzer Hermann trotz Vorladung nicht
+erschienen ist, solle ohneweiters dem Domkapitel zufallen.
+
+REG$Dompropst Kuno von Salzburg zahlt 8 Mark Friesacher Geldes als
+Auslîse fÅr eine Hube in Hartmannsdorf an Heinrich, an dessen Vater
+Walchun, genannt der Reiche, Propst Siboto diese verpfÑndet hat.
+F$MDC 4I/2217/283f/284
+F$SUB 3/0971/520f/521
+G$Kuno/Dompropst/Salzburg/Salzburg//S/
+E$Heinrich/X/X/X//
+H$Pfand_Auslîsung/Immobilien_Hube/Hartmannsdorf n./Hartmannsdorf n.Friesach//K/
+W$Friesach/moneta probata/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$octo marcas Frisacenses probate monete in solucionem mandavimus
+predicto He\^{i}nrico
+
+REG$Dompropst Kuno von Salzburg zahlt 8 Mark Friesacher Geldes als
+Auslîse fÅr eine Hube in Hartmannsdorf an Heinrich, an dessen Vater
+Walchun, genannt der Reiche, Propst Siboto diese verpfÑndet hat.
+Der Erzbischof fÅgt aus seiner Kammer noch zwei Mark hinzu.
+F$MDC 4I/2217/283f/284
+F$SUB 3/0971/520f/521
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Heinrich/X/X/X//
+H$Pfand_Auslîsung/Immobilien_Hube/Hartmannsdorf n./Hartmannsdorf n.Friesach//K/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de nostra cammera duas marcas adicientes
+
+DOK$MDC4I_2218/1241.0.0/1241.0.0/1241/anno domini MCCXLI, indictione
+XIIII/Friesach/Friesach//K/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg bestÑtigt, da· Dompropst Kuno
+namens des
+Salzburger Kapitels von Hermann Murro um vier Mark Friesacher einen
+Brotverkaufstisch auf dem îffentlichen Markt zu Friesach mit
+Zustimmung des Erzbischofs gekauft hat.
+
+REG$Dompropst Kuno hat namens des Salzburger Kapitels von Hermann Murro
+einen Brotverkaufstisch auf dem îffentlichen Markt zu Friesach um vier
+Mark Friesacher gekauft.
+F$MDC 4I/2218/284/284
+F$SUB 3/0970/520/520
+G$Kuno/Dompropst/Salzburg/Salzburg//S/
+E$Hermann Murro/X/X/X//
+H$Kauf/Mobilien_Brotverkaufstisch/Friesach/Friesach_Markt//K/
+W$Friesach/moneta/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro marcis quatuor monete Frisacensis
+
+DOK$MDC4I_2240/1242.5.20/1242.5.20/1242 Mai 20/anno domini MCCXLII, XIII kal.
+iunii/Salzburg/Salzburg//S/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Graf Hermann II. von Ortenburg Åbergibt dem Erzbischof Eberhard II.
+von Salzburg mit Zustimmung des Grafen Wilhelm von Heunburg das Gut
+Lessach (n. Tamsweg, Salzburg), das dieser vom Grafen Albert von
+Lessach-Heunburg gekauft hat und worauf dem Ortenburger ein Erbrecht
+zusteht, samt allen Leuten und EinkÅnften und
+erhÑlt dafÅr bares Geld und Zehnten
+am Fratresberg (n. Spital), sowie das Gut Wirlsdorf (nw. Millstatt).
+
+REG$Erzbischof Eberhard II. von Salzburg entrichtet an Graf Hermann II.
+von Ortenburg fÅr die EinkÅnfte des Gutes Lessach 14 Mark Friesacher fÅr jede
+Mark EinkÅnfte, in der Weise, da· 245 Pfennige einer Mark reinen Silbers
+Friesacher Gewichts gleichkommen.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Ablîse/EinkÅnfte/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/moneta/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$1 Pfund Friesacher und Aufzahl von 5 Pf./1 Mark Feinsilber Friesacher Gewichts
+A$14 Mark Ablîse/1 Mark EinkÅnfte
+Q$pro valore singularum marcarum pro qualibet marca persolvit mihi
+marcas quatuordecim Frisacensis monete in tali
+valore, quod quinque denarii uni libre superadditi numerate marcam
+puri argenti valeant ponderis Frisacensis
+B$Luschin: öber den MÅnzfu· der Friesacher: 1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Erbischof Eberhard II. von Salzburg entrichtet an Graf Hermann II.
+von Ortenburg fÅr die EinkÅnfte des Gutes Lessach 14 Mark Friesacher fÅr jede
+Mark EinkÅnfte, in der Weise, da· 245 Pfennige einer Mark reinen Silbers
+Friesacher Gewichts gleichkommen.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Ablîse/EinkÅnfte/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/moneta
+O$1/lib./numerata
+Z$X/X/X
+M$5/den./X/A
+A$1 Mark Feinsilber Friesacher Gewichts/1 Pfund Friesacher und Aufzahl von 5 Pf.
+A$1 Mark EinkÅnfte/14 Mark Ablîse
+Q$pro valore singularum marcarum pro qualibet marca persolvit mihi
+marcas quatuordecim Frisacensis monete in tali
+valore, quod quinque denarii uni libre superadditi numerate marcam
+puri argenti valeant ponderis Frisacensis
+B$Luschin: öber den MÅnzfu· der Friesacher: 1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Erbischof Eberhard II. von Salzburg entrichtet an Graf Hermann II.
+von Ortenburg fÅr die EinkÅnfte des Gutes Lessach 14 Mark Friesacher fÅr jede
+Mark EinkÅnfte, in der Weise, da· 245 Pfennige einer Mark reinen Silbers
+Friesacher Gewichts gleichkommen.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Ablîse/EinkÅnfte/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/pondus
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/purum/X
+A$1 Mark Feinsilber Friesacher Gewichts/1 Pfund Friesacher und Aufzahl von 5 Pf.
+A$1 Mark EinkÅnfte/14 Mark Ablîse
+Q$pro valore singularum marcarum pro qualibet marca persolvit mihi
+marcas quatuordecim Frisacensis monete in tali
+valore, quod quinque denarii uni libre superadditi numerate marcam
+puri argenti valeant ponderis Frisacensis
+
+REG$Zehnten am Fratresberg n. Spital in der Hîhe von 24 Mark.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$X/X/X/X//
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$EinkÅnfte/Zehnten/Fratresberg/Fratresberg//nw.Spittal/
+W$X/X/
+O$24/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$decimas in Vraters \dots ad pensionem viginti quatuor marcarum
+
+REG$Erzbischof Eberhard II. von Salzburg belehnt Graf Hermann II. von
+Ortenburg gegen Zahlung von 12 Mark mit dem Gut Wirlsdorf nw.
+Millstatt.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$Belehnung/Immobilien/Wirlsdorf/Wirlsdorf//nw.Millstatt/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro summa duodecim marcarum \dots in feudum mihi contulit
+
+REG$Graf Hermann II. von Ortenburg verkauft dem Erzbischof Eberhard II. von
+Salzburg das Gut Lessach (n. Tamsweg, Salzburg) und erhÑlt dafÅr bares Geld und
+Zehnten am Fratresberg (n. Spital), sowie das Gut Wirlsdorf (nw. Millstatt). FÅr
+die Zehnten und das Gut Wirlsdorf rechnet der Erzbischof einen Wert von 36 Mark.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Kauf/Immobilien/Lessach/Lessach//S,n.Tamsweg/
+W$X/X/
+O$36/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$quicquid super iam dictas triginta sex marcas remanserat insolutum,
+plenarie mihi complevit per peccuniam numeratam
+
+REG$Strafbestimmung fÅr den Kauf des Gutes Lessach durch Erzbischof
+Eberhard II. von Salzburg von Graf Hermann II. von Ortenburg.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$Pînale/Strafbestimmung/Lessach/Lessach//S,n.Tamsweg/
+W$X/X
+O$2000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$in duobus milibus marcarum argenti \dots sim obligatus
+
+DOK$MDC4I_2241/1242.5.20/1242.5.20/1242 Mai 20/anno domini MCCXLII, XIII kal.
+iunii/Salzburg/Salzburg//S/
+S$X/Salzburg/EIIW
+V$X/Salzburg/EIIU
+K$Graf Hermann II. von Ortenburg Åbergibt dem Erzbischof Eberhard II.
+von Salzburg mit Zustimmung des Grafen Wilhelm von Heunburg das Gut
+Lessach (n. Tamsweg, Salzburg), das dieser vom Grafen Albert von
+Lessach-Heunburg gekauft hat und worauf dem Ortenburger ein Erbrecht
+zusteht, samt allen Leuten und EinkÅnften und
+erhÑlt dafÅr bares Geld und Zehnten
+am Fratresberg (n. Spital), sowie das Gut Wirlsdorf (nw. Millstatt).
+Erzbischof Eberhard II. von Salzburg stellt in diesem Sinn
+einen Gegenrevers aus.
+
+REG$Erzbischof Eberhard II. von Salzburg entrichtet an Graf Hermann II.
+von Ortenburg fÅr die EinkÅnfte des Gutes Lessach 14 Mark Friesacher fÅr jede
+Mark EinkÅnfte, in der Weise, da· 245 Pfennige einer Mark reinen Silbers
+Friesacher Gewichts gleichkommen.
+F$MDC 4I/2241/293f/293
+F$SUB 3/0991b/542f/543
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Ablîse/EinkÅnfte/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/moneta/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$1 Pfund Friesacher und Aufzahl von 5 Pf./1 Mark Feinsilber
+A$14 Mark Ablîse/1 Mark EinkÅnfte
+Q$pro valore singularum marcarum pro qualibet marca persolvimus ei
+marcas quatuordecim Frisacensis monete in tali
+valore, quod quinque denarii uni libre numerate superadditi marcam
+puri argenti valeant ponderis Frisacensis
+B$Luschin: öber den MÅnzfu· der Friesacher: 1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Erbischof Eberhard II. von Salzburg entrichtet an Graf Hermann II.
+von Ortenburg fÅr die EinkÅnfte des Gutes Lessach 14 Mark Friesacher fÅr jede
+Mark EinkÅnfte, in der Weise, da· 245 Pfennige einer Mark reinen Silbers
+Friesacher Gewichts gleichkommen.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Ablîse/EinkÅnfte/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/moneta
+O$1/lib./numerata
+Z$X/X/X
+M$5/den./X/A
+A$1 Mark Feinsilber Friesacher Gewichts/1 Pfund Friesacher und Aufzahl von 5 Pf.
+A$1 Mark EinkÅnfte/14 Mark Ablîse
+Q$pro valore singularum marcarum pro qualibet marca persolvit mihi
+marcas quatuordecim Frisacensis monete in tali
+valore, quod quinque denarii uni libre superadditi numerate marcam
+puri argenti valeant ponderis Frisacensis
+B$Luschin: öber den MÅnzfu· der Friesacher: 1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Erbischof Eberhard II. von Salzburg entrichtet an Graf Hermann II.
+von Ortenburg fÅr die EinkÅnfte des Gutes Lessach 14 Mark Friesacher fÅr jede
+Mark EinkÅnfte, in der Weise, da· 245 Pfennige einer Mark reinen Silbers
+Friesacher Gewichts gleichkommen.
+F$MDC 4I/2240/291ff/292
+F$SUB 3/0991a/540ff/541
+F$Meiller, Salzb. Reg./516/281f/282
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Ablîse/EinkÅnfte/Lessach/Lessach//S,n.Tamsweg/
+W$Friesach/pondus
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/purum/X
+A$1 Mark Feinsilber Friesacher Gewichts/1 Pfund Friesacher und Aufzahl von 5 Pf.
+A$1 Mark EinkÅnfte/14 Mark Ablîse
+Q$pro valore singularum marcarum pro qualibet marca persolvit mihi
+marcas quatuordecim Frisacensis monete in tali
+valore, quod quinque denarii uni libre superadditi numerate marcam
+puri argenti valeant ponderis Frisacensis
+
+REG$Zehnten am Fratresberg n. Spital in der Hîhe von 24 Mark.
+F$MDC 4I/2241/293f/293
+F$SUB 3/0991b/542f/543
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$EinkÅnfte/Zehnten/Fratresberg/Fratresberg//n.Spittal/
+W$X/X/
+O$24/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$contulimus ei in feudum decimas in Vraters cum cultis et incultis ad
+pensionem viginti quatuor marcarum
+
+REG$Erzbischof Eberhard II. von Salzburg belehnt Graf Hermann II. von
+Ortenburg gegen Zahlung von 12 Mark mit dem Gut Wirlsdorf nw.
+Millstatt.
+F$MDC 4I/2241/293f/293
+F$SUB 3/0991b/542f/543
+G$Hermann II./Graf/Ortenburg/Ortenburg/w.Spittal/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$Belehnung/Immobilien/Wirlsdorf/Wirlsdorf//nw.Millstatt/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro summa duodecim marcarum \dots in feudum sibi contulimus
+
+REG$Graf Hermann II. von Ortenburg verkauft dem Erzbischof Eberhard II. von
+Salzburg das Gut Lessach (n. Tamsweg, Salzburg) und erhÑlt dafÅr bares Geld und
+Zehnten am Fratresberg (n. Spital), sowie das Gut Wirlsdorf (nw. Millstatt). FÅr
+die Zehnten und das Gut Wirlsdorf rechnet der Erzbischof einen Wert von 36 Mark.
+F$MDC 4I/2241/293f/293
+F$SUB 3/0991b/542f/543
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+H$Kauf/Immobilien/Lessach/Lessach//S,n.Tamsweg/
+W$X/X/
+O$36/marca/numerata
+Z$X/X/X
+M$X/X/X/A
+Q$quicquid super iam dictas triginta sex marcas remanserat insolutum,
+plenarie sibi complevimus per peccuniam numeratam
+
+REG$Strafbestimmung fÅr den Kauf des Gutes Lessach durch Erzbischof
+Eberhard II. von Salzburg von Graf Hermann II. von Ortenburg.
+F$MDC 4I/2241/293f/293
+F$SUB 3/0991b/542f/543
+G$Hermann II./Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$Pînale/Strafbestimmung/Lessach/Lessach//S,n.Tamsweg/
+W$X/X
+O$2000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$in duobus milibus marcarum argenti
+
+DOK$MDC4I_2242/1242.6.0/1242.6.0/1242 Juni/anno dominice incarnationis
+millesimo ducentesimo quadragesimo secundo, mense iunii, quinte decime
+indictionis/Avezzano b.Tarent/Avezzano b.Tarent//b.Tarent/
+S$X/X/X
+V$X/X/X
+K$Kaiser Friedrich II. gestattet dem ErwÑhlten Heinrich I. von Bamberg
+zur Wiederherstellung seiner verschuldeten Kirche, neue MÅnzen, gleich
+denen in Friesach, in Villach und Griffen schlagen zu lassen.
+
+REG$Kaiser Friedrich II. gestattet dem ErwÑhlten Heinrich I. von Bamberg
+zur Wiederherstellung seiner verschuldeten Kirche, neue MÅnzen, gleich
+denen in Friesach, in Villach und Griffen schlagen zu lassen.
+F$MDC 4I/2242/294f/294
+F$MB 31I/305/575f/575
+G$Friedrich II./Kaiser/Rîm.Kaiser/Rîm.//
+E$Heinrich I./ErwÑhlter/Bamberg/Bamberg//Bayern/
+H$MÅnzordnung/MÅnzstÑtte/Villach/Villach//K/
+H$MÅnzordnung/MÅnzstÑtte/Griffen/Griffen//nî.Vîlkermarkt/
+W$Friesach/moneta/
+W$Griffen/MÅnzrecht
+W$Villach/MÅnzrecht
+O$X/X/X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Friesacher Pf./1 Villacher Pf.
+A$1 Friesacher Pf./1 Griffener Pf.
+A$1 Villacher Pf./1 Friesacher Pf.
+A$1 Griffener Pf./1 Friesacher Pf.
+A$1 Villacher Pf./1 Griffener Pf.
+A$1 Griffener Pf./1 Villacher Pf.
+Q$apud Villacum novam monetam cudi faciat que Frisacensi monete equipolleat in
+pondere et valore, et apud Griven eandem sibi gratiam de simili moneta cudenda
+duximus faciendam
+
+DOK$MDC4I_2251/1243.0.0/1243.0.0/1243/anno gratie MCCXLIII, indictione prima/X/X//
+S$X/X/X
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg beurkundet, da· sein Kaplan
+Walther, Kanoniker in Friesach, zugunsten des Klosters St. Peter auf
+eine um 1 Pfund Gold vom Kloster
+gekaufte PrÑbende und auf einen Anteil an einem
+Weinberg mit Obstgarten in Krems verzichtet, wofÅr ihm das Kloster
+St. Peter jÑhrlich aus dem Gut Wieting 4 Mark Friesacher Pfennig und
+genannte Getreideleistungen zu zahlen hat. Walther wird auch in die
+VerbrÅderung aufgenommen.
+
+REG$Kaplan Walther, Kanoniker in Friesach, erkaufte sich vom Kloster St.
+Peter eine PrÑbende um 1 Pfund Gold.
+F$SUB 3/1003/555f/555
+G$Walther/Kaplan/Friesach/Friesach//K/
+E$X/Stift/Salzburg/Salzburg,St.Peter//S/
+H$Kauf/PfrÅnde/unbestimmt/unbestimmt//
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$prebendam apud fratres sancti Petri pro marca auri conquisisset
+
+REG$Kaplan Walther, Kanoniker in Friesach, hat die von ihm erworbene
+PfrÅnde im Stift St. Peter zu 1 Pfund Gold und einen Anteil an einem
+Weinberg mit Obstgarten in Krems dafÅr aufgegeben, da· ihm das Stift
+St. Peter jÑhrlich aus dem Gut Wieting 4 Mark Friesacher Pfennig und
+genannte Getreideleistungen zahlt.
+F$MDC 4I/2251/298/298
+F$SUB 3/1003/555f/555
+G$X/Stift/Salzburg/Salzburg,St.Peter//S/
+E$Walther/Kaplan/Friesach/Friesach//K/
+H$AnnuitÑt/PfrÅnde/Salzburg/Salzburg,St.Peter//S/
+W$Friesach/moneta/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de predio suo Wieting IIII marcas Frisacensis monete \dots annis singulis
+quoad vixerit
+
+DOK$MDC4I_2284/1244.3.21/1244.3.21/1244 MÑrz 21/anno domini millesimo CCXLIIII,
+XII kalend. aprilis/X/X//
+S$X/X/X
+V$X/Salzburg/EIIT
+K$Erzbischof Eberhard II. von Salzburg macht den Schaden gut, welcher
+dem Grafen Hermann von Ortenburg bezÅglich des ihm fÅr die Lîsung des
+Gutes Lessach (Salzburg) um 300 Mark Pfennige verpfÑndeten Zehnt in
+Kraut (Kraubath, w. Leoben, bei Knittelfeld) und bezÅglich der ihm
+verpfÑndeten fÅnfzig Mark EinkÅnfte im Amt Stall (in O.-KÑrnten),
+speziell im letzterem Amt vom Salzburger Amtmann und den
+Hochstiftsministerialen zugefÅgt wurde, und bestÑtigt mit Zustimmung
+der Ministerialen und des Domkapitels die VerpfÑndung neuerlich.
+
+REG$EinkÅnfte im Amt Stall in der Hîhe von 50 Mark.
+F$MDC 4I/2284/312f/313
+F$SUB 3/1036/584f/585
+G$X/X/X/X//
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$EinkÅnfte/Amt/Stall/Stall//Mîlltal sw.Obervellach,O.-KÑrnten/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quinquaginta marcarum redditus in officio Stalle
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet um 300 Mark Pfennige
+den Zehnt zu Chrowat (Kraubath, w. Leoben, bei Knittelfeld) und andere
+EinkÅnfte an Graf Hermann von Ortenburg.
+F$MDC 4I/2284/312f/313
+F$SUB 3/1036/584f/585
+G$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Zehnten/Kraubath/Kraubath/Chrowat/w.Leoben b.Knittelfeld/
+W$Friesach/moneta/
+O$300/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$1 Talent Friesacher und Aufzahl von 5 Pf./1 Mark Feinsilber
+Q$pro trecentis marcis denariorum Frisacensis monete, quorum unum
+talentum et quinque denarii marcam faciant puri argenti obligassemus
+B$Luschin: öber den MÅnzfu· der Friesacher: 1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet um 300 Mark Pfennige
+den Zehnt zu Chrowat (Kraubath, w. Leoben, bei Knittelfeld) und andere
+EinkÅnfte an Graf Hermann von Ortenburg.
+F$MDC 4I/2284/312f/313
+F$SUB 3/1036/584f/585
+G$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Zehnten/Kraubath/Kraubath/Chrowat/w.Leoben b.Knittelfeld/
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$5/argentum/purum/A
+A$1 Mark Feinsilber/1 Talent Friesacher und Aufzahl von 5 Pf.
+Q$pro trecentis marcis denariorum Frisacensis monete, quorum unum
+talentum et quinque denarii marcam faciant puri argenti obligassemus
+B$Luschin: öber den MÅnzfu· der Friesacher: 1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+DOK$MDC4I_2285/1244.5.9/1244.5.9/1244 Mai 9/anno domini millesimo ducentesimo quadragesimo
+quarto, secunde indi(c)tionis, VIIII die maii/Tolmein/Tolmein//Gîrz/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia verpflichtet sich fÅr die
+Freilassung des von Graf Hermann von Ortenburg gefangenen Grafen
+Ulrich von Sternberg, seines Getreuen, falls dieser nicht bis 29.
+September andere BÅrgen fÅr die dem Ortenburger als Urfehde zu
+zahlenden 1000 Mark aufbringt, zur Zahlung dieser Summe, dafÅr das
+Schlo· Laas mit allem Zugehîr seiner Kirche zufallen soll.
+
+REG$Patriarch Berthold von Aquileia verbÅrgt sich dem Grafen Hermann von Ortenburg
+gegenÅber fÅr die Freilassung des gefangenen Grafen Ulrich von Sternberg fÅr die
+Lîsungssumme von 1000 Mark Friesacher Pfennigen.
+F$MDC 4I/2285/313f/314
+F$KrUB 2/128/96f/96
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-S
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in mille marcis Frisacensis monete pro quibus
+obligavit se apud eundem comitem Hermannum
+
+REG$Patriarch Berthold von Aquileia verbÅrgt sich dem Grafen Hermann von Ortenburg
+gegenÅber fÅr die Freilassung des gefangenen Grafen Ulrich von Sternberg fÅr die
+Lîsungssumme von 1000 Mark Friesacher Pfennigen, falls dieser nicht bis 29.
+September andere BÅrgen fÅr die dem Ortenburger zu zahlenden 1000 Mark
+aufbringt.
+F$MDC 4I/2285/313f/314
+F$KrUB 2/128/96f/96
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-S
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si usque ad proximum festum beati Michahelis non dederit prefato
+comiti Hermanno fideiussores usque ad quantitatem mille marcarum
+
+REG$Patriarch Berthold von Aquileia verbÅrgt sich dem Grafen Hermann von Ortenburg
+gegenÅber fÅr die Freilassung des gefangenen Grafen Ulrich von Sternberg fÅr die
+Lîsungssumme von 1000 Mark Friesacher Pfennigen. MÅ·te er diese Summe bezahlen,
+so solle ihm und der Kirche von Aquileia die Burg Laas mit allem Zugehîr ohne
+weitere Anfechtung zustehen.
+F$MDC 4I/2285/313f/314
+F$KrUB 2/128/96f/96
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-S
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$fideiussores non dederit memoratos pro summa prelibata mille marcarum usque ad
+terminum antedictum, nos eidem comiti Hermanno illas mille marcas cum
+integritate dare et solvere teneamur
+
+REG$Patriarch Berthold von Aquileia verbÅrgt sich dem Grafen Hermann von Ortenburg
+gegenÅber fÅr die Freilassung des gefangenen Grafen Ulrich von Sternberg fÅr die
+Lîsungssumme von 1000 Mark Friesacher Pfennigen. MÅ·te er diese Summe bezahlen,
+so solle ihm und der Kirche von Aquileia die Burg Laas mit allem Zugehîr ohne
+weitere Anfechtung zustehen.
+F$MDC 4I/2285/313f/314
+F$KrUB 2/128/96f/96
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-S
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$BÅrgschaft/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$fideiussores non dederit memoratos pro summa prelibata mille marcarum usque ad
+terminum antedictum, nos eidem comiti Hermanno illas mille marcas cum
+integritate dare et solvere teneamur
+
+REG$Patriarch Berthold von Aquileia bekundet dem Grafen Hermann von Ortenburg
+gegenÅber eine Schuld von 600 Mark.
+F$MDC 4I/2285/313f/314
+F$KrUB 2/128/96f/97
+G$Ulrich/Graf/Sternberg/Sternberg//î.Villach/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-S
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de quodam debito sexcentarum marcarum
+
+REG$Patriarch Berthold von Aquileia bekundet dem Grafen Hermann von Ortenburg
+gegenÅber eine Schuld von 600 Mark.
+F$MDC 4I/2285/313f/314
+F$KrUB 2/128/96f/97
+G$Ulrich/Graf/Sternberg/Sternberg//î.Villach/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-S
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$superaddere debere aliis sexcentis marcis quas pro liberatione sua comiti
+Hermanno duximus persolvendas
+
+DOK$MDC4I_2318/1245.10.9/1245.10.9/1245 Oktober 9/VII idus octobr., anno domini
+MCCXLV, indictione quarta/Friesach/Friesach//K/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Hermann von Kranichberg (bei Gloggnitz, Nô), Hadmar von Schînberg
+(nî. Langenlois, Nô) und Hartnid
+von Rabenstein (s. Fronleiten, Steiermark) verkaufen dem Erzbischof
+Eberhard II. von Salzburg das Schlo· Reisberg (sw. Wolfsberg,
+Lavanttal, KÑrnten) samt Hîrigen
+und Dienstmannen um 500 Mark Friesacher und das dazu gehîrige Urbargut
+gegen besondere Ablîsung nebst Zehnten am
+Leidenberg (nw.
+Wolfsberg), Lading, Kienberg und Pîlling, vereinbaren die
+Zahlungsfristen und verpflichten sich, auch
+die anderen Erben Reimberts von Mureck, besonders Rudolf von Ras,
+dessen Bruder und Miterben ihrer Mutter (Gertrud, Tochter Reimberts)
+zur Anerkennung des Verkaufes zu bewegen.
+
+REG$Hermann von Kranichberg, Hadmar von Schînberg und Hartnid von
+Rabenstein verkaufen dem Erzbischof Eberhard II. von Salzburg das
+Schlo· Reisberg samt Hîrigen und Rittern um 500 Mark Friesacher.
+F$MDC 4I/2318/329ff/329
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Kauf/Immobilien_Schlo·/Reisberg/Reisberg//K,sw.Wolfsberg/
+W$Friesach/pondus
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$tradidimus libere ac eciam vendidimus pro quingentis marcis argenti
+ponderis Frisacensis
+
+REG$Hermann von Kranichberg, Hadmar von Schînberg und Hartnid von
+Rabenstein verkaufen dem Erzbischof Eberhard II. von Salzburg das zum
+Schlo· Reisberg gehîrige Urbargut gegen besondere Ablîsung und Zehnten.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//K/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Kauf/Immobilien_Urbargut/Reisberg/Reisberg//K,sw.Wolfsberg/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$1 Mark EinkÅnfte von Urbargut/10 Mark Kaufpreis
+A$1 Mark EinkÅnfte von verlehntem Gut/5 Mark Kaufpreis
+Q$dedimus ad emendum redditus videlicet marce cuiuslibet culte vel desolate pro
+marcis decem numerate pecunie Frisacensis, redditus vero marce infeudate pro
+marcis quinque denariorum Frisacensium
+
+REG$Hermann von Kranichberg, Hadmar von Schînberg und Hartnid von
+Rabenstein verkaufen dem Erzbischof Eberhard II. von Salzburg das zum
+Schlo· Reisberg gehîrige Urbargut gegen besondere Ablîsung und Zehnten.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Kauf/Immobilien_Urbargut/Reisberg/Reisberg//K,sw.Wolfsberg/
+W$Friesach/X
+O$10/marca/X
+Z$X/X/X
+M$X/X/numeratus/A
+A$10 Mark Kaufpreis/1 Mark EinkÅnfte von Urbargut
+Q$dedimus ad emendum redditus videlicet marce cuiuslibet culte vel desolate pro
+marcis decem numerate pecunie Frisacensis, redditus vero marce infeudate pro
+marcis quinque denariorum Frisacensium
+
+REG$Hermann von Kranichberg, Hadmar von Schînberg und Hartnid von
+Rabenstein verkaufen dem Erzbischof Eberhard II. von Salzburg das zum
+Schlo· Reisberg gehîrige Urbargut gegen besondere Ablîsung und Zehnten.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Kauf/Immobilien_Urbargut/Reisberg/Reisberg//K,sw.Wolfsberg/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$5 Mark Kaufpreis/1 Mark EinkÅnfte von verlehntem Gut
+Q$dedimus ad emendum redditus videlicet marce cuiuslibet culte vel desolate pro
+marcis decem numerate pecunie Frisacensis, redditus vero marce infeudate pro
+marcis quinque denariorum Frisacensium
+
+REG$Hadmar von Schînberg verkauft dem Erzbischof Eberhard II. von Salzburg die
+Zehnten am Leidenberg (nw. Wolfsberg), Lading, Kienberg und Pîlling, wobei 8
+Metzen "utriusque grani" wie eine Mark EinkÅnfte gerechnet werden.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+H$Kauf/Zehnten/Leidenberg/Leidenberg//nw.Wolfsberg/
+H$Kauf/Zehnten/Lading/Lading//w.Wolfsberg/
+H$Kauf/Zehnten/Kienberg_nw.St.AndrÑ/Kienberg_nw.St.AndrÑ//nw.St.AndrÑ i.L./
+H$Kauf/Zehnten/Pîlling sw.Wolfsberg/Pîlling sw.Wolfsberg//sw.Wolfsberg/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro unius marce redditibus conputatis
+
+REG$Hermann von Kranichberg (bei Gloggnitz, Nô), Hadmar von Schînberg
+(nî. Langenlois, Nô) und Hartnid von Rabenstein (s. Fronleiten,
+Steiermark) verkaufen dem Erzbischof Eberhard II. von Salzburg das
+Schlo· Reisberg (sw. Wolfsberg, Lavanttal, KÑrnten) samt Hîrigen
+und Dienstmannen um 500 Mark Friesacher und das dazu gehîrige Urbargut
+gegen besondere Ablîsung.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Friesach/X
+O$X/X/X
+Z$X/X/X
+M$X/argentum;den./X/Z
+Q$tocius pecunie supradicte argenti et denariorum partem terciam teneamur
+recipere
+B$Aus dem Zusammenhang "Friesach" erschlossen.
+
+REG$Zahlungsbedingungen (Teilzahlungen),die zwischen Hermann von Kranichberg,
+Hadmar
+von Schînberg, Hartnid von Rabenstein und Erzbischof Eberhard II. von Salzburg
+Åber den Kauf des Schlosses Reisberg und eines dazu gehîrigen Urbargutes
+vereinbart wurden.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Abzug von Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$150/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$centum quinquaginta marcas denariorum Frisacensium de prima tercia pecunie
+nobis iam solute tenebimur defalcare de ipsa tercia centum quinquaginta marcas
+similiter retinen[tes]
+
+REG$Zahlungsbedingungen (Teilzahlungen),die zwischen Hermann von Kranichberg,
+Hadmar
+von Schînberg, Hartnid von Rabenstein und Erzbischof Eberhard II. von Salzburg
+Åber den Kauf des Schlosses Reisberg und eines dazu gehîrigen Urbargutes
+vereinbart wurden.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk.,s.Frohnleiten/
+H$Abzug von Kaufsumme/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$150/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum quinquaginta marcas denariorum Frisacensium de prima tercia pecunie
+nobis iam solute tenebimur defalcare de ipsa tercia centum quinquaginta marcas
+similiter retinen[tes]
+
+REG$Zahlungsbedingungen (Teilzahlungen), die zwischen Hermann von Kranichberg,
+Hadmar von Schînberg, Hartnid von Rabenstein und Erzbischof Eberhard II. von
+Salzburg Åber den Kauf des Schlosses Reisberg und eines dazu gehîrigen Urbargutes
+vereinbart wurden.
+F$MDC 4I/2318/329ff/330
+F$SUB 3/1079/624ff/625
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hermann/Genannter/Kranichberg/Kranichberg//Nô,b.Gloggnitz/
+E$Hadmar/Genannter/Schînberg/Schînberg//Nô,nî.Langenlois/
+E$Hartnid/Genannter/Rabenstein/Rabenstein//Stmk,s.Frohnleiten/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$qui[cquid reman]serit ultra trecentas marcas
+
+DOK$MDC4I_2341/1247.0.0/1247.0.0/1247/anno domini MCCXLVII/X/X//
+S$X/X/X
+V$X/X/X
+K$Kolo von Trixen kauft von Abt Hartwich und dem Konvente von St.
+Paul den Weiler "Cekozen", wo das Kloster von Heinrich von
+Trixen bezÅglich der Vogtei und anderer Abgaben viele Unbillen zu
+erdulden hatte, und verpfÑndet fÅr die Kaufsumme von 800 Mark
+Friesacher 8 Mark EinkÅnfte von seinem Gut bei der Kapelle St.
+Lorenzen in der WÅste.
+
+REG$EinkÅnfte des Gutes bei der Kapelle St. Lorenzen in der WÅste.
+F$MDC 4I/2341/344f/344
+F$GZM 1/75/X/X
+F$FRA II 39/070/132f/132
+G$X/X/X/X//
+E$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$EinkÅnfte/Immobilien/St.LorenzenW/St. Lorenzen i.d.WÅste//w.Marburg/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$VIII marcarum redditus
+
+REG$Kolo von Trixen verpfÑndet fÅr 80 Mark Friesacher die EinkÅnfte des Gutes bei der
+Kapelle St. Lorenzen in der WÅste.
+F$MDC 4I/2341/344f/344
+F$GZM 1/75/X/X
+F$FRA II 39/070/132f/133
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Kolo/Genannter/Trixen/Trixen//nw.Vîlkermarkt/
+H$PfandgeschÑft/EinkÅnfte/St.LorenzenW/St. Lorenzen i.d.WÅste//w.Marburg/
+W$Friesach/moneta/
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$octoginta marce Frisacensis monete
+
+REG$EinkÅnfte des Gutes bei der Kapelle St. Lorenzen in der WÅste.
+F$MDC 4I/2341/344f/344
+F$GZM 1/75/X/X
+F$FRA II 39/070/132f/133
+G$X/X/X/X//
+E$Kolo/Genannter/Trixen/Trixen//nw.Vîlkermarkt/
+H$EinkÅnfte/Immobilien/St.LorenzenW/St. Lorenzen i.d.WÅste//w.Marburg/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$IIII marcarum redditus
+
+REG$Gottfried von Marburg, der Schwiegersohn Kolos von Trixen, verpfÑndet sich fÅr
+200 Mark.
+F$MDC 4I/2341/344f/344
+F$GZM 1/75/X/X
+F$FRA II 39/070/132f/133
+G$Gottfried/Genannter/Marburg/Marburg//Stmk/
+E$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro ducentis marcis se \dots obligavit
+
+REG$Gottfried von Marburg, der Schwiegersohn Kolos von Trixen, verpfÑndet sich fÅr
+200 Mark.
+F$MDC 4I/2341/344f/344
+F$GZM 1/75/X/X
+F$FRA II 39/070/132f/133
+G$Gottfried/Genannter/Marburg/Marburg//Stmk/
+E$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$dictas ducentas marcas \dots tenebitur persolvere
+
+DOK$MDC4I_2396/1249.0.0/1249.0.0/1249/anno incarnationis domini MCCXLVIIII, indictione
+VII/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Liutold von St. Paul belehnt den Klostermann Gottfried mit einem
+von dessen Bruder Meinhalm frÅher innegehabten Zehnt zwischen dem
+Ort, wo einst das Spital war, und dem Ort "Lerwerhe", ferner mit drei
+éckern, welche Gottfrieds Schwiegervater, Meister Heluwich, lange
+besessen hat, und mit Zehnten der KlostergÅter in Framrach, wofÅr Gottfried
+dem Abt acht Mark Friesacher zahlt.
+
+REG$Abt Liutold von St. Paul belehnt den Klostermann Gottfried mit einem
+von dessen Bruder Meinhalm frÅher innegehabten Zehnt zwischen dem
+Ort, wo einst das Spital war, und dem Ort "Lerwerhe", ferner mit drei
+éckern, welche Gottfrieds Schwiegervater, Meister Heluwich, lange
+besessen hat, wofÅr Gottfried dem Abt drei Mark Friesacher zahlt.
+F$MDC 4I/2396/369f/369
+G$Gottfried/Klostermann/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Liutold/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$Belehnung/Zehnten;Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$in cuius rei testimonium contulit nobis III marcas denariorum
+
+REG$Abt Liutold von St. Paul belehnt den Klostermann Gottfried mit einem
+Zehnt der KlostergÅter in Framrach, wofÅr Gottfried dem Abt fÅnf Mark
+Friesacher zahlt.
+F$MDC 4I/2396/369f/370
+G$Gottfried/Klostermann/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Liutold/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$Belehnung/Zehnten/Framrach/Framrach//nw.St.Paul i.L./
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$ad cuius etiam rei confirmationem tradidit nobis V marcas Frisacensium
+denariorum
+
+DOK$MDC4I_2438/1250.8.5/1250.8.5/1250 August 5/anno ab incarnatione domini MCCL, mense
+augusto in festo Oswaldi regis/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Liutold von St. Paul kommt mit Konrad von Kollnitz wegen einer
+diesem von Abt Hertvich geliehenen Geldsumme dahin Åberein, da·
+Konrad dem Abt eine jÑhrlich eine Mark tragende Hube in Gînitz (î.
+St. Paul) um zehn Mark verpfÑndet und Chunrads Bruder Ortolf zur
+Deckung eventuellen Schadens dem Abt eine Hube in Haberberg (î. St.
+Paul) als Pfand gibt.
+
+REG$Abt Liutold von St. Paul kommt mit Konrad von Kollnitz wegen einer
+diesem von Abt Hertvich geliehenen Geldsumme dahin Åberein, da·
+Konrad dem Abt eine jÑhrlich eine Mark tragende Hube in Gînitz (î.
+St. Paul) um zehn Mark verpfÑndet.
+F$MDC 4I/2438/384f/384
+G$Liutold/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Konrad/Genannter/Kollnitz/Kollnitz//nw.St.Paul i.L./
+H$PfandgeschÑft/Immobilien/Gînitz/Gînitz//w.St.Paul i.L./
+W$Friesach/X/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$X marcis denariorum Frisacensium eam nobis recompensset
+
+REG$Abt Liutold von St. Paul kommt mit Konrad von Kollnitz wegen einer
+diesem von Abt Hertvich geliehenen Geldsumme dahin Åberein, da·
+Konrad dem Abt eine jÑhrlich eine Mark tragende Hube in Gînitz (î.
+St. Paul) um zehn Mark verpfÑndet.
+F$MDC 4I/2438/384f/384
+G$Liutold/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Konrad/Genannter/Kollnitz/Kollnitz//nw.St.Paul i.L./
+H$PfandgeschÑft/Immobilien/Gînitz/Gînitz//w.St.Paul i.L./
+W$Friesach/X/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$X marcis denariorum Frisacensium eam nobis recompensset pro quibus X marcis
+
+REG$Abt Liutold von St. Paul kommt mit Konrad von Kollnitz wegen einer
+diesem von Abt Hertvich geliehenen Geldsumme dahin Åberein, da·
+Konrad dem Abt eine jÑhrlich eine Mark tragende Hube in Gînitz (î.
+St. Paul) um zehn Mark verpfÑndet.
+F$MDC 4I/2438/384f/384
+G$X/X/X/X//
+E$Konrad/Genannter/Kollnitz/Kollnitz//nw.St.Paul i.L./
+H$EinkÅnfte/Immobilien_Hube/Gînitz/Gînitz//w.St.Paul i.L./
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$heubam unius marce reditus aput Gevsinz nobis obligavit
+
+REG$Abt Liutold von St. Paul kommt mit Konrad von Kollnitz wegen einer
+diesem von Abt Hertvich geliehenen Geldsumme dahin Åberein, da·
+Konrad dem Abt eine jÑhrlich eine Mark tragende Hube in Gînitz (î.
+St. Paul) um zehn Mark verpfÑndet, von deren EinkÅnften der Abt jÑhrlich
+eine Mark erhalten soll.
+F$MDC 4I/2438/384f/384
+G$X/X/X/X//
+E$Liutold/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$EinkÅnfte/Immobilien_Hube/Gînitz/Gînitz//w.St.Paul i.L./
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis recipere debeamus I marcam
+
+DOK$MDC4I_2456/1251.2.26/1251.2.26/1251 Februar 26/anno domini MCCLI, IIII kalend.
+Marc./Salzburg/Salzburg//S/
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Philipp von Salzburg bestÑtigt, da· der Friesacher Kanonikus
+Walther, Pfarrer in Reith (bei Rattenberg, Tirol), aus Hochachtung fÅr Abt
+Richker von St. Peter dessen Kloster ein GrundstÅck und ein Haus in
+Friesach geschenkt und ein anderes GrundstÅck daselbst mit Haus und
+Garten um zehn Mark Friesacher verkauft hat.
+
+REG$Der Friesacher Kanonikus Walther, Pfarrer in Reith (bei Rattenberg, Tirol),
+hat Abt Richker und dem Kloster von St. Peter ein GrundstÅck in Friesach mit
+Haus und Garten um zehn Mark Friesacher verkauft.
+F$MDC 4I/2456/395/395
+G$X/Kloster/Salzburg/Salzburg,St.Peter//S/
+G$Richker/Abt/Salzburg/Salzburg,St.Peter//S/
+E$Walther/Pfarrer/Reith bei Rattenberg in Tirol ?S,b.Lofer/Reith bei Rattenberg in Tirol ?S,b.Lofer//?
+H$Kauf/Immobilien/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro decem marcis Frisacensis monete \dots tradidit possidendam
+
+DOK$MDC4I_2529/1252.12.27/1252.12.27/1252 Dezember 27/VI kalend. ianuar., anno domini
+millesimo ducentesimo LIII, undecime indictionis/Lieserhofen/Lieserhofen//nw.Spittal/
+S$X/X/X
+V$X/X/X
+K$Friedensschlu· zwischen dem ErwÑhlten Philipp von Salzburg
+einschlie·lich seines Vaters Herzog Bernhard und seines Bruders Ulrich
+einerseits und Graf Albert III. von Tirol und Graf Meinhard III. von
+Gîrz andererseits.
+
+REG$Graf Albert III. von Tirol und Graf Meinhard III. von Gîrz geben mit den
+Gefangenen des ErwÑhlten Philipp von Salzburg demselben 4900 Mark in Silber.
+F$MDC 4I/2529/425ff/426
+F$TUB 3/1290/324ff/324
+F$Reg. Gîrz 1/591/153ff/153?
+G$Albert III./Graf/Tirol/Tirol//T/
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Zahlungsverpflichtung/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X
+O$5000/marca/X
+O$100/marca/minus
+Z$X/X/X
+M$X/argentum/X/A
+Q$quinque milia marcarum argenti dedimus minus centum
+
+REG$Graf Albert III. von Tirol und Graf Meinhard III. von Gîrz geben dem
+ErwÑhlten Philipp von Salzburg Sicherheiten fÅr geschuldete 5000 Mark.
+F$MDC 4I/2529/425ff/426
+F$TUB 3/1290/324ff/324
+G$Albert III./Graf/Tirol/Tirol//T/
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Sicherstellung/Lîsegeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5000/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de quibus quinque milibus marcarum ipsum electum per pignoraticiam et
+fideiussoriam cauciones securum fecimus
+
+REG$Die Grafen Albert III. von Tirol und Meinhard III. von Gîrz schenken dem
+ErwÑhlten Philipp von Salzburg mit dem Schlo· Virgen EinkÅnfte zwischen
+Varbenstein und Falkenstein in der Hîhe von 50 Mark.
+F$MDC 4I/2529/425ff/426
+F$TUB 3/1290/324ff/325
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+G$Albert III./Graf/Tirol/Tirol//T/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/EinkÅnfte/KÑrn.n.Drau/zw.Varbenstein u.Falkenstein//Mîlltal u. b.Obervellach/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$donamus cum dicto castro quinquaginta marcarum redditus infra
+Varbenst\{ae}\^{y}n et Valchenst\{ae}\^{y}n sitos
+
+REG$Graf Albert III. von Tirol verpfÑndet dem ErwÑhlten Philipp von Salzburg seine
+Burg Lindeck um 400 Mark Silber.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/326
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Albert III./Graf/Tirol/Tirol//T/
+H$PfandgeschÑft/Immobilien_Burg/Lindeck/Lindeck//ob Sachsenburg
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$obligamus \dots castrum nostrum Linte cum hominibus et omnibus suis
+pertinentiis et proprietates nostras quas habemus ibidem pro marcis argenti
+quadringentis
+
+REG$Graf Albert III. von Tirol verpfÑndet dem ErwÑhlten Philipp von Salzburg seine
+Besitzungen bei Kals um 300 Mark Silber.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/326
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Albert III./Graf/Tirol/Tirol//T/
+H$PfandgeschÑft/Immobilien/Kals/Kals//nw.Lienz/
+W$X/X
+O$300/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$possessiones nostras quas habemus aput Chalz, obligamus similiter pro marcis
+argenti trecentis
+
+REG$Graf Albert III. von Tirol verpfÑndet dem ErwÑhlten Philipp von Salzburg sein
+Gut bei Tymenitz um 100 Mark Silber.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/326
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Albert III./Graf/Tirol/Tirol//T/
+H$PfandgeschÑft/Immobilien/Timenitz/Timenitz/Tymenitz/nî.Klagenfurt/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$predium quoque nostrum aput Tymnitz sibi pro marcis argenti centum titulo
+pignoris obligamus
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem ErwÑhlten Philipp von Salzburg
+seine Besitzungen bei Kals fÅr seinen Schwiegervater, den Grafen von Tirol, um
+200 Mark Silber.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$PfandgeschÑft/Immobilien/Kals/Kals//nw.Lienz/
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$nos quoque M\{ae}inhardus comes Goricie possessiones nostras aput Chalz pro
+iam  dicto comite Tyrolensi nostro socero pro ducentis marcis argenti
+similiter obligamus
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem ErwÑhlten Philipp von Salzburg
+EinkÅnfte von seinen Besitzungen an der Mîll und bei Gro·kirchheim in der Hîhe
+von 20 Mark.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$PfandgeschÑft/EinkÅnfte/KÑrn.n.Drau/Mîll a.d.//K/
+H$PfandgeschÑft/EinkÅnfte/Gro·kirchheim/Gro·kirchheim//unter Heiligenblut i.Dîllach/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$obligamus \dots XX marcarum redditus de possessionibus nostris aput Molnam et
+Chircham
+
+REG$Graf Hermann von Ortenburg fÅr Graf Meinhard III. von Gîrz verpfÑndet dem
+ErwÑhlten Philipp
+von Salzburg EinkÅnfte von seinen Besitzungen in Kals in der Hîhe von 35 Mark.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$PfandgeschÑft/EinkÅnfte/Kals/Kals//nw.Lienz/
+W$X/X/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$obligamus pro eodem comite Goricie \dots
+de possessionibus nostris in Chalz triginta quinque marcarum redditus
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem ErwÑhlten Philipp von Salzburg
+EinkÅnfte von seinen Besitzungen bei Mîll und Gro·kirchheim in der Hîhe von 20
+Mark.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$PfandgeschÑft/EinkÅnfte/KÑrn.n.Drau/Mîll a.d.//K/
+H$PfandgeschÑft/EinkÅnfte/Gro·kirchheim/Gro·kirchheim//unter Heiligenblut i.Dîllach/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum prescriptis viginti marcarum redditibus pro marcis argenti quadringentis
+esse volumus in solidum obligatus
+
+REG$Graf Albert III. von Tirol verpfÑndet dem ErwÑhlten Philipp von Salzburg seine
+Burg Lindeck um 400 Mark Silber.
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Albert III./Graf/Tirol/Tirol//T/
+H$PfandgeschÑft/Immobilien_Burg/Lindeck/Lindeck//  wo??
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$cum prescriptis viginti marcarum redditibus pro marcis argenti quadringentis
+esse volumus in solidum obligatus
+
+REG$Graf Hermann von Ortenburg verpfÑndet dem ErwÑhlten Philipp von Salzburg
+EinkÅnfte von seinen Besitzungen in Kals in der Hîhe von 35 Mark (mit
+Bestimmungen
+fÅr den Fall, da· die EinkÅnfte nicht die angegebene Hîhe erreichen).
+F$MDC 4I/2529/425ff/428
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hermann/Graf/Ortenburg/Ortenburg//w.Spittal/
+H$PfandgeschÑft/EinkÅnfte/Kals/Kals//nw.Lienz/
+W$X/X/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si autem possessiones quas idem comes de Ortenburch in Chalz obtinet, triginta
+quinque marcarum redditus non attingunt
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem ErwÑhlten Philipp von Salzburg
+seine Vogtei in Millstatt um 200 Mark Silber.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$PfandgeschÑft/Vogtei/Millstatt/Millstatt//K/
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$obligamus \dots advocatiam in Milstat pro marcis argenti ducentis
+
+REG$EinkÅnfte Graf Meinhards III. von Gîrz im Markt Reinthal und
+Winklarn in der Hîhe von 24 Mark.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/327
+G$X/X/X/X//
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$EinkÅnfte/Markt/Reinthal/Reinthal//Mîlltal sî.Winklern/
+H$EinkÅnfte/Markt/Winklern/Winklern/Winklarn/Mîlltal/
+W$X/X/
+O$24/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$forum nostrum in Re\^{v}ntal et Winchlarn cum viginti IIII marcarum redditibus
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem ErwÑhlten Philipp von Salzburg
+24 Mark EinkÅnfte im Markt Reinthal und Winklarn um 200 Mark Silber.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/327
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Meinhard III./Graf/Gîrz/Gîrz//G/
+H$PfandgeschÑft/EinkÅnfte/Reinthal/Reinthal//Mîlltal sî.Winklern/
+H$PfandgeschÑft/EinkÅnfte/Winklern/Winklern/Winklarn/Mîlltal/
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$obligamus \dots forum nostrum in Re\^{v}ntal et Winchlarn pro marcis argenti
+ducentis
+
+REG$Graf Meinhard III. von Gîrz verpfÑndet dem ErwÑhlten Philipp von Salzburg
+seinen Markt Reinthal und Winklarn mit EinkÅnften in der Hîhe von 24
+Mark, die Burggraf Heinrich von Lienz dem ErwÑhlten dort anweisen wird.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/327
+G$Heinrich/Burggraf/Lienz/Lienz//T/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$PfandgeschÑft/EinkÅnfte/Winklern/Winklern/Winklarn/Mîlltal/
+H$PfandgeschÑft/EinkÅnfte/Reinthal/Reinthal//Mîlltal sî.Winklern/
+W$X/X/
+O$24/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quos XXIIII marcarum redditus H\{ae}nricus burgravius de Lunz aput dicta loca
+de nostris possessionibus ipsi domino electo tenebitur assignare
+
+REG$Graf Meinhard III. von Gîrz zahlt fÅr den ErwÑhlten Philipp von Salzburg 100
+Mark Silber an den Bamberger Bischof Heinrich.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/327
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+E$Heinrich/Bischof/Bamberg/Bamberg//Bayern/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$M\{ae}inhardus comes Goricie satisfecimus pro domino electo venerabili domino
+H\{ae}inrico Babenbergensi episcopo in centum marcis argenti
+
+REG$Der ErwÑhlte Philipp von Salzburg Åbergibt Graf Meinhard III. von Gîrz 20 Mark
+Friesacher Pfennige zum Lehen.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/328
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Belehnung/EinkÅnfte/Friesach/Friesach_MÅnze//K/
+W$Friesach/moneta/
+O$20/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$viginti marcas denariorum Frisacensium, ut ex ipsa moneta eas debeamus
+recipere annuatim, nobis contulit in feudum, ut per hec et predicta feuda
+sibi simus ad homagium obligati
+
+REG$Graf Albert III. von Tirol stellt den Hof "Valma" bei Bozen zurÅck,
+falls er nicht beweisen kann, da· er ihn von Erzbischof Eberhard zu
+Lehen erhalten habe oder ihm um 100 Mark verpfÑndet sei.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/328
+G$Albert III./Graf/Tirol/Tirol//T/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Immobilien_Hof/Bozen/Valma b.Bozen//T,b.Bozen/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$curiam \dots pro centum marcis argenti obligatam esse
+
+REG$Graf Albert III. von Tirol stellt den Hof "Valma" bei Bozen zurÅck,
+falls er nicht beweisen kann, da· er ihn von Erzbischof Eberhard zu
+Lehen erhalten habe oder ihm um 100 Mark verpfÑndet sei. Trifft letzteres zu,
+stellt er den Hof um 100 Mark zurÅck.
+F$MDC 4I/2529/425ff/429
+F$TUB 3/1290/324ff/328
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Albert III./Graf/Tirol/Tirol//T/
+H$Pfand_Auslîsung/Hof/Bozen/Valma b.Bozen//T,b.Bozen/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$quandocumque nobis argenti dederit centum marcas
+
+REG$Graf Albert III. von Tirol und Meinhard III. von Gîrz verpflichten sich bei
+einer Strafe von 200 Mark Silber dem ErwÑhlten Philipp von Salzburg
+den Sohn des Otto de Valchenstain fÅr die
+Urfehde als Geisel zu stellen oder einen anderen von gleichem Adel und Reichtum.
+F$MDC 4I/2529/425ff/430
+F$TUB 3/1290/324ff/329
+G$Albert III./Graf/Tirol/Tirol//T/
+G$Meinhard III./Graf/Gîrz/Gîrz//G/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$Albertus Tirolensis et Meinhardus Goricie comites sub pena CC marcarum
+argenti filium Ottonis de Valchenstain pro urve similiter obsidem assignare vel
+alium qui sibi in nobilite ac diviciis sit equalis
+
+DOK$MDC4I_2552/1253.10.23/1253.10.23/1253 Oktober 23/sub anno domini millesimo CCL.
+tercio, X. kalend. Novembris/Leibnitz/Leibnitz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Hertnid von Leibnitz und der ErwÑhlte Philipp von Salzburg einigen
+sich hinsichtlich ihrer besonders BÅrgschaften betreffenden
+Streitigkeiten auf fÅnf genannte Schiedsrichter, gemÑ· deren Spruch
+sich ersterer nach Empfang von 54 Mark Renten im Amt Rann
+(Steiermark), in Maria Saal, Timenitz, Althofen, Lungau und von der
+Friesacher MÅnze in Lehensweise zur Abtretung des Schlosses
+Wolkenstein (Steiermark, bei Liezen) verpflichtet.
+
+REG$Der ErwÑhlte Philipp von Salzburg ist laut Schiedsspruch des
+Schiedsgerichtes verpflichtet, bis St. Martini
+63 Mark Pfennig an Hartnid von Leibnitz zu zahlen.
+F$MDC 4I/2552/445ff/446
+F$StUB 3/131/200ff/201
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$BÅrgschaftserstattung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$63/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$LXIII marcas denariorum usque ad festum Martini venturum proxime
+mihi solvere teneatur
+
+REG$Der ErwÑhlte Philipp von Salzburg ist laut Schiedsspruch des
+Schiedsgerichtes verpflichtet, bis zu MariÑ Reinigung (2. Februar)
+100 Mark in Silber und 350 Mark Pfennig an Hartnid von Leibnitz zu
+zahlen.
+F$MDC 4I/2552/445ff/446
+F$StUB 3/131/200ff/201
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$BÅrgschaftserstattung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$insuper centum marcas argenti et denariorum marcas CCCL \dots usque
+ad purificationem beate virginis proxime venturam mihi solvere
+teneatur
+
+REG$Der ErwÑhlte Philipp von Salzburg ist laut Schiedsspruch des
+Schiedsgerichtes verpflichtet, bis zu MariÑ Reinigung (2. Februar)
+100 Mark in Silber und 350 Mark Pfennig an Hartnid von Leibnitz zu
+zahlen.
+F$MDC 4I/2552/445ff/446
+F$StUB 3/131/200ff/201
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$BÅrgschaftserstattung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$350/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$insuper centum marcas argenti et denariorum marcas CCCL \dots usque
+ad Purificationem beate Virginis proxime venturam mihi solvere
+teneatur
+
+REG$Der ErwÑhlte Philipp von Salzburg soll laut Schiedsspruch des
+Schiedsgerichtes Hartnid von Leibnitz mit EinkÅnften von 54 Mark
+belehnen.
+F$MDC 4I/2552/445ff/446
+F$StUB 3/131/200ff/201
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Belehnung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$54/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$assignare mihi LIIII marcarum redditus titulo feodali
+
+REG$ZahlungsmodalitÑten des ErwÑhlten Philipp von Salzburg gegenÅber
+Hartnid von Leibnitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$X/X/X
+Z$X/X/X
+Z$9/ferto/X
+M$X/den./argenteus/Z
+A$9 Fertones/1 Mark Feinsilber
+Q$voluerit argento denariorum conpensare, pro denariorum VIIII
+fertonibus idem dominus meus electus vel successor suus dare argenti
+tenebitur marcam I
+B$MÅnzfu· der Friesacher Pfennig: "In den Jahren 1207 und 1217 werden
+Friesacher Pfennige erwÑhnt, von welchen 5 Vierting einer Zahlmark von
+160 Pfennigen, mithin 200 StÅck eine Mark Feinsilber ergaben, sie hie·en
+darum Fumfvierdunger." (Luschin, S. 152)
+
+REG$ZahlungsmodalitÑten des ErwÑhlten Philipp von Salzburg gegenÅber
+Hartnid von Leibnitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$1 Mark Feinsilber/9 Fertones
+Q$voluerit argento denariorum conpensare, pro denariorum VIIII
+fertonibus idem dominus meus electus vel successor suus dare argenti
+tenebitur marcam I
+B$MÅnzfu· der Friesacher Pfennig: "In den Jahren 1207 und 1217 werden
+Friesacher Pfennige erwÑhnt, von welchen 5 Vierting einer Zahlmark von
+160 Pfennigen, mithin 200 StÅck eine Mark Feinsilber ergaben, sie hie·en
+darum Fumfvierdunger." (Luschin, S. 152)
+
+REG$ZahlungsmodalitÑten des ErwÑhlten Philipp von Salzburg gegenÅber
+Hartnid von Leibnitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$2 Mark Pf./1 Mark Feinsilber
+Q$si vero in compensatione argenti
+voluerit dare denariorum, quamlibet marcam argenti duabus marcis
+denariorum valentium marcam I argenti tenebitur conpensare
+
+REG$ZahlungsmodalitÑten des ErwÑhlten Philipp von Salzburg gegenÅber
+Hartnid von Leibnitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$1 Mark Feinsilber/2 Mark Pf.
+Q$si vero in conpensatione argenti
+voluerit dare denariorum, quamlibet marcam argenti duabus marcis
+denariorum valentium marcam I argenti tenebitur conpensare
+
+REG$Der ErwÑhlte Philipp von Salzburg soll laut Schiedsspruch des
+Schiedsgerichtes Hartnid von Leibnitz mit EinkÅnften von 54 Mark
+belehnen.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Belehnung/EinkÅnfte/Rann/Rann//Stmk/
+W$X/X/
+O$54/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$LIIII marcarum redditus titulo feodali mihi per nuntios providerit
+assignari in officio R\e{a}ine
+
+REG$EinkÅnfte des ErwÑhlten Philipp von Salzburg im Amt Rann.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$X/X/X/X//
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Amt/Rann/Rann//Stmk/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in officio R\e{a}ine \dots X marcarum redditus
+
+REG$EinkÅnfte des ErwÑhlten Philipp von Salzburg in Maria Saal und Timenitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$X/X/X/X//
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/MariaSaal/Maria Saal//nî.Klagenfurt/
+H$EinkÅnfte/Immobilien/Timenitz/Timenitz//nî.Klagenfurt/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Solio et in Tymniz X marcarum redditus
+
+REG$EinkÅnfte des ErwÑhlten Philipp von Salzburg in Althofen.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$X/X/X/X//
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/Althofen/Althofen//K/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$i(n) Altenhoven X marcarum redditus
+
+REG$EinkÅnfte des ErwÑhlten Philipp von Salzburg in Lungau.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$X/X/X/X//
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/Lungau/Lungau//S/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Longewe X marcarum redditus
+
+REG$EinkÅnfte des ErwÑhlten Philipp von Salzburg von der Friesacher MÅnze.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$X/X/X/X//
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$14/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$de moneta sua Frisaci marcas denariorum XIIII
+
+REG$Hartnid von Leibnitz erklÑrt, vom ErwÑhlten Philipp von Salzburg mit
+EinkÅnften von 63 Mark belehnt worden und damit zufriedengestellt zu sein.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Quittung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$63/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$de predictis vero LXIII marcis denariorum mihi esse fateor satisfactum
+
+REG$Bestimmung fÅr die nicht fristgerechte Zahlung des ErwÑhlten Philipp
+von Salzburg an Hartnid von Leibnitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Pînale/Einlager/Judenburg/Judenburg//Stmk/
+H$Pînale/Einlager/Vîlkermarkt/Vîlkermarkt//K/
+W$X/X/
+O$32/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod, si mihi usque ad festum Martini nunc proximum non solventur,
+Chonradus de Surowe pro XXXII marcis Iudenburch, et Arnoldus de Nidekke
+pro XXXI marcis Volchenmar(cht) se recipere promiserunt
+
+REG$Bestimmung fÅr die nicht fristgerechte Zahlung des ErwÑhlten Philipp
+von Salzburg an Hartnid von Leibnitz.
+F$MDC 4I/2552/445ff/447
+F$StUB 3/131/200ff/202
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Pînale/Einlager/Judenburg/Judenburg//Stmk/
+H$Pînale/Einlager/Vîlkermarkt/Vîlkermarkt//K/
+W$X/X/
+O$31/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod, si mihi usque ad festum Martini nunc proximum non solventur,
+Chonradus de Surowe pro XXXII marcis Iudenburch, et Arnoldus de Nidekke
+pro XXXI marcis Volchenmar(cht) se recipere promiserunt
+
+DOK$MDC4I_2571/1254.8.26/1254.8.26/1254 August 26/anno incarnationis domini
+millesimo CCLIIII., VII. kalend. Septembris, pontificatus domini
+Innocencii pape anno XI. (!)/St.LorenzenW/St. Lorenzen i.d.WÅste//Stmk,w.Marburg/
+S$X/X/X
+V$X/X/X
+K$Kolo von Saldenhofen und seine Sîhne Kolo und Konrad erkennen
+gegen Empfang von 30 Mark Friesacher die vom Kloster St. Paul
+geforderte Grenze zwischen ihren beiderseitigen Besitzungen um St.
+Lorenzen in der WÅste an: den Wasserzuflu· vom Deschnik-Berg und St.
+Lorenzer See in die Radel.
+
+REG$Abt Liutold und der Konvent des Klosters St. Paul vergleichen sich
+bezÅglich Grenzstreitigkeiten in der Gegend von St. Lorenzen i. d.
+WÅste mit Kolo von Saldenhofen und seinen Sîhnen Kolo und Konrad
+dahin, da· sie den genannten 30 Mark Friesacher Geldes zahlen.
+F$MDC 4I/2571/457f/458
+F$StUB 3/148/223ff/224
+F$GZM 1/82/X/X
+F$FRA II 39/086/142f/142
+G$Liutold/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal
+G$X/Konvent/St.Paul i.L./St. Paul i.L.//Lavanttal
+E$Kolo;Kolo;Konrad/Genannter/Saldenhofen/Saldenhofen//Stmk,î.Unterdrauburg/
+H$Verzicht/Immobilien/St.LorenzenW/St. Lorenzen i.d.WÅste//Stmk,w.Marburg/
+W$Friesach/moneta/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dederunt nobis XXX marcas Frisacensis monete
+
+DOK$MDC4I_2627/1256.4.4/1256.4.4/1256 April 4/anno domini millesimo CCLVI, indicione
+XIIII, II non. aprilis/Lichtenwald/Lichtenwald//Stmk/
+S$X/X/X
+V$X/X/X
+K$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark schenkt, davon Philipp Weineck
+zu seinem Seelenheile verstiften darf. Auch Ulrich kann eines von seinen
+Schlîssern in dieser Art weggeben, ausgenommen die Hauptschlîsser
+Freiberg, Vîlkermarkt, Rechberg und Greifenburg in KÑrnten, Laibach und
+Landstra· in Krain.
+Im Falle unbeerbten Todes habe sein ganzer Erbteil auf seinen Bruder Philipp zu
+fallen, nur behÑlt sich Herzog Ulrich das vîllig freie VerfÅgungsrecht
+bezÅglich eines Schlosses mit 100 Mark GÅlten vor, doch dÅrfe dies keines
+der 6 Hauptschlîsser sein.
+Die BrÅder schlie·en ein inniges Schutz- und TrutzbÅndnis.
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark mit 400 Mark EinkÅnften schenkt.
+F$MDC 4I/2627/490f/490
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/EinkÅnfte/Himmelberg/Himmelberg//K,nw.Feldkirchen/
+H$Schenkung/EinkÅnfte/Wernberg/Wernberg//î.Villach/
+H$Schenkung/EinkÅnfte/Osterberg/Osterberg//Krain,nî.Laibach/
+H$Schenkung/EinkÅnfte/Weineck/Weineck/Wineck/Krain i.Leschujce sî.Weixelburg/
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$donavimus sibi in parte sua in Carinthya castra Himelberch, Wartperch et
+(in) Carniola  Osterberch, in Marchya vero Wineke cum quadringentarum
+marcarum redditibus super terram exsolventibus
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark mit 400 Mark EinkÅnften schenkt.
+F$MDC 4I/2627/490f/490
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/EinkÅnfte/Himmelberg/Himmelberg//K,nw.Feldkirchen/
+H$Schenkung/EinkÅnfte/Wernberg/Wernberg//î.Villach/
+H$Schenkung/EinkÅnfte/Osterberg/Osterberg//Krain,nî.Laibach/
+H$Schenkung/EinkÅnfte/Weineck/Weineck/Wineck/Krain i.Leschujce sî.Weixelburg/
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$tenebimur etiam fratri nostro in dictis IIII prediis quadringentarum
+marcarum redditus
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp in KÑrnten EinkÅnfte in der Hîhe von 100 Mark
+gibt.
+F$MDC 4I/2627/490f/490
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/EinkÅnfte/unbestimmt/unbestimmt//KÑrnten/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus autem centum marcarum dabimus ei in Carinthya in theloneis et monetis
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp 1200 Friesacher oder Agleier Mark Pfennige gibt.
+F$MDC 4I/2627/490f/491
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$1200/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$1 Mark Friesacher Pf./1 Mark Agleier Pf.
+Q$marcas mille ducentas denariorum Frisacensium vel Aquilegensium ei dabimus
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp 1200 Friesacher oder Agleier Mark Pfennige gibt.
+F$MDC 4I/2627/490f/491
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$1200/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$1 Mark Agleier Pf./1 Mark Friesacher Pf.
+Q$marcas mille ducentas denariorum Frisacensium vel Aquilegensium ei dabimus
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark schenkt, davon Philipp Weineck
+mit EinkÅnften in der Hîhe von 100 Mark zu seinem Seelenheile verstiften darf.
+F$MDC 4I/2627/490f/491
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Schenkung/EinkÅnfte/Weineck/Weineck/Wineck/Krain i.Leschujce sî.Weixelburg/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$castrum vero Wineke cum centum marcarum redditibus isto pacto tradimus sibi,
+quod ei liceat illud cum centum dictis marcis redditibus donare pro sue anime
+remedio aut cuicumque voluerit, illud dare
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark schenkt, davon Philipp Weineck
+mit EinkÅnften in der Hîhe von 100 Mark zu seinem Seelenheile verstiften darf.
+F$MDC 4I/2627/490f/491
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$X/X/X/X//
+H$Schenkung/EinkÅnfte/Weineck/Weineck/Wineck/Krain i.Leschujce sî.Weixelburg/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$castrum vero Wineke cum centum marcarum redditibus isto pacto tradimus sibi,
+quod ei liceat illud cum centum dictis marcis redditibus donare pro sue anime
+remedio aut cuicumque voluerit, illud dare
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark mit 400 Mark EinkÅnften schenkt.
+Im Falle unbeerbten Todes habe sein ganzer Erbteil auf seinen Bruder Philipp zu
+fallen.
+F$MDC 4I/2627/490f/491
+G$X/X/X/X//
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/Himmelberg/Himmelberg//K,nw.Feldkirchen/
+H$EinkÅnfte/Immobilien/Wernberg/Wernberg//î.Villach/
+H$EinkÅnfte/Immobilien/Osterberg/Osterberg//Krain,nî.Laibach/
+H$EinkÅnfte/Immobilien/Weineck/Weineck/Wineck/Krain i.Leschujce sî.Weixelburg/
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sed redditus illarum quadringentarum marcarum quas in parte sua ei dedimus, ad
+nos et heredes nostros post suum obitum libere revertentur
+
+REG$Herzog Ulrich III. von KÑrnten und sein Bruder, der ErwÑhlte Philipp
+von Salzburg, einigen sich Åber das vÑterliche und mÅtterliche Erbe
+derart, da· Ulrich dem Philipp die Schlîsser Himmelberg und Wernberg
+in KÑrnten, Osterberg (in Pograd nî. Laibach) in Krain und Wineck (in
+Leschuje sî. Weixelburg) in der Windischen Mark mit 400 Mark EinkÅnften schenkt.
+Im Falle unbeerbten Todes habe sein ganzer Erbteil auf seinen Bruder Philipp zu
+fallen, nur behÑlt sich Herzog Ulrich das vîllig freie VerfÅgungsrecht
+bezÅglich eines Schlosses mit 100 Mark GÅlten vor, doch dÅrfe dies keines
+der 6 Hauptschlîsser sein.
+F$MDC 4I/2627/490f/491
+G$X/X/X/X//
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$licebit quoque nobis unum castrum cum centum marcarum redditibus preter
+castra capitalia
+
+REG$Die BrÅder, Herzog Ulrich III. von KÑrnten und der ErwÑhlte Philipp
+von Salzburg schlie·en
+ein inniges Schutz- und TrutzbÅndnis unter Ansetzung einer Pînale von 100 Mark.
+F$MDC 4I/2627/490f/491
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in hanc penam, quod redditus centum marcarum de sua solvat alteri porcione
+
+REG$Wenn sich Herzog Ulrich III. von KÑrnten nicht an die Vereinbarungen mit
+seinem Bruder, dem ErwÑhlten Philipp von Salzburg, hÑlt, werden diesem seine
+Schlîsser Nazenfu·, Oberberg, Gîrtschach und Vewersperch mit EinkÅnften in der
+Hîhe von 400 Mark zufallen.
+F$MDC 4I/2627/490f/491
+G$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum redditibus quadringentarum marcarum
+
+REG$Wenn sich Herzog Ulrich III. von KÑrnten nicht an die Vereinbarungen mit
+seinem Bruder, dem ErwÑhlten Philipp von Salzburg, hÑlt, werden diesem seine
+Schlîsser Nazenfu·, Oberberg, Gîrtschach und Vewersperch mit EinkÅnften in der
+Hîhe von 400 Mark zufallen, wie auch umgekehrt.
+F$MDC 4I/2627/490f/491
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$400/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$cum redditibus quadringentarum marcarum
+
+DOK$MDC4I_2652/1257.7.6/1257.7.6/1257 Juli 6/anno domini MCCLVII., in octavis
+apostolorum Petri et Pauli/Viktring/Viktring/(Viktring)/sw.Klagenfurt/
+S$X/X/X
+V$X/X/X
+K$Abt Chunrad von Viktring mit Zustimmung des Konventes verkauft dem
+Abt Amelrich von Rein (Steiermark) zum Viktringer Spitale gehîrige
+Huben: eine in Deuchendorf, fÅnf in Parschlug (bei Bruck a. d. Mur),
+um zwanzig Mark Silber Friesacher Gewichts.
+
+REG$Abt Konrad von Viktring verkauft 6 Huben zu Deuchendorf und
+Parschlug im MÅrztal, welche zu seinem Klosterspital gehîrt haben,
+fÅr 20 Mark Silber Friesacher Gewichts an das Kloster Rein.
+F$MDC 4I/2652/508f/509
+F$StUB 3/230/319/319
+G$X/Kloster/Rein/Rein//n.Graz/
+E$Konrad/Abt/Viktring/Viktring//sw.Klagenfurt/
+H$Kauf/Immobilien_Huben/Deuchendorf/Deuchendorf//b.Bruck a.d.Mur/
+H$Kauf/Immobilien_Huben/Parschlug i.MÅrztal/Parschlug i.MÅrztal//b.Bruck a.d.Mur/
+W$Friesach/pondus
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+A$20 Mark Feinsilber Friesacher Gewichts/34 Mark Pf.
+Q$pro viginti marcis argenti ad pondus Frisacense seu triginta
+quatuor marcas denariorum tantundem valentibus \dots vendidimus
+
+REG$Abt Konrad von Viktring verkauft 6 Huben zu Deuchendorf und
+Parschlug im MÅrztal, welche zu seinem Klosterspital gehîrt hatten,
+fÅr 20 Mark Silber oder 34 Mark Pfennigen an das Kloster Rein.
+F$MDC 4I/2652/508f/509
+F$StUB 3/230/319/319
+G$X/Kloster/Rein/Rein//n.Graz/
+E$Konrad/Abt/Viktring/Viktring//sw.Klagenfurt/
+H$Kauf/Immobilien_Huben/Deuchendorf/Deuchendorf//b.Bruck a.d.Mur/
+H$Kauf/Immobilien_Huben/Parschlug i.MÅrztal/Parschlug i.MÅrztal//b.Bruck a.d.Mur
+W$Friesach?/X/
+O$34/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$34 Mark Pf./20 Mark Feinsilber Friesacher Gewichts
+Q$pro viginti marcis argenti ad pondus Frisacense seu triginta
+quatuor marcas denariorum tantundem valentibus \dots vendidimus
+
+DOK$MDC4I_1710/1214.10.24/1214.10.24/1214 Oktober 24/anno domini MCCXIIII, indictione
+secunda, octava die exeunte octubri/Manzano/Manzano//sî.Udine
+S$Ulrich/Aquileia/Ulrich
+V$Ulrich/Aquileia/Ulrich
+K$Patriarch Wolfker von Aquileia bestÑtigt vorstehenden Schiedsspruch und trennt
+die Kirche oder Zelle St. Lorenzen im Walde von der Pfarre Kîtsch.
+
+REG$Im Streit zwischen dem Abt von St. Paul und dem Pfarrer von  Kîtsch (s.
+Marburg) um die Kirche St. Lorenzen in der WÅste (sw. Marburg) entscheidet ein
+Schiedsgericht dahin, da· das
+Kloster im Besitz der Kirche mit allen Rechten zwischen den BÑchen Lobnitz
+und Wleka verbleibt und den Pfarrer mit EinkÅnften im Weiler Hollern (w.
+Marburg) entschÑdigt.
+F$MDC 4I/1710/74ff/75
+F$StUB 2/132/203f/203
+F$FRA II 39/039/110/110
+F$MDC 4I/2595/469f/470
+F$MDC 4I/2653/509f/509
+F$StUB 3/172/254f/255
+F$StUB 3/231/320f/320
+F$FRA II 39/040/111/111
+G$Ulrich/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$X/Pfarrer/Kîtsch/Kîtsch//s. Marburg
+H$öbergabe/EinkÅnfte/Hollern/Hollern//Stmk,w.Marburg/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$abbas redditus unius marce in villa que dicitur Holarn, nominatim plebi de
+Chosse nomine sui monasterii conferret
+B$In MDC 4I, Nr. 2653, S. 509f inseriert.
+In MDC 4I, Nr. 2595, S. 470 inseriert.
+In StUB 3, Nr. 172, S. 255 inseriert.
+In StUB 3, Nr. 231, S. 320 inseriert.
+In FRA II 39, Nr. 40, S. 111 inseriert.
+
+DOK$MDC4I_2786/1265.1.1/1265.8.31/(1265 vor September)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Erzdiakon Ludwig von Krain und der Mark, als pÑpstlich delegierter
+Richter entscheidet endgÅltig in der Streitsache zwischen Magister
+Heinrich, Chorherrn von St. AndrÑ zu Freising, und dem ErwÑhlten von Lavant und
+dessen Vikar um die Kirche St. Peter am Kammersberg zugunsten des
+Ersteren. Ludwig legt dem ErwÑhlten und dessen Kirche bezÅglich St.
+Peter ewiges Stillschweigen auf, entfernt ihn von der Kirche,
+verurteilt ihn zum Ersatz von vierzg Mark Friesacher Pfennig bezogener
+EinkÅnfte und zur Zahlung von fÅnf Mark Agleier Gerichtskosten an
+Heinrich.
+
+REG$Archdiakon Ludwig von Krain legt dem ErwÑhlten von Lavant betreffs der Pfarre
+St. Peter am Kammersberg ewiges Stillschweigen auf, entfernt ihn von der
+Kirche, verurteilt ihn zum Ersatz von vierzig Mark Friesacher Pfennig bezogener
+EinkÅnfte und zur Zahlung von fÅnf Mark Agleier Gerichtskosten an Heinrich.
+F$FRA II 31/246/263f/264
+F$MDC 4I/2786/584/584
+G$X/ErwÑhlter/Lavant/Lavant//Bistum i.St.AndrÑ/
+E$Heinrich/Chorherr/Freising/Freising,St. AndrÑ zu//zu Freising/
+H$Ersatz/EinkÅnfte/St.Peter_a.Kammersberg/St.Peter_a.Kammersberg//Stmk/
+W$Friesach/X/
+O$40/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$condempnamus sepefatum dominum electum Laventensem in XL marcis denariorum
+Frisacensium nomine fructuum perceptorum de prelibata ecclesia sancti Petri
+B$Fontes rer. Aust. II. 31, Nr.246, S. 263-4 zu 1265 vor September aus Original
+im Reichsarchiv zu MÅnchen. In MDC 4I, Nr. 2786 nur dt. Regest der betreffenden
+Stelle.
+
+REG$Archdiakon Ludwig von Krain legt dem ErwÑhlten von Lavant betreffs der Pfarre
+St. Peter am Kammersberg ewiges Stillschweigen auf, entfernt ihn von der
+Kirche, verurteilt ihn zum Ersatz von vierzig Mark Friesacher Pfennig bezogener
+EinkÅnfte und zur Zahlung von fÅnf Mark Agleier Gerichtskosten an Heinrich.
+F$FRA II 31/246/263f/264
+F$MDC 4I/2786/584/584
+G$X/ErwÑhlter/Lavant/Lavant//Bistum i.St.AndrÑ/
+E$?Heinrich/Chorherr/Freising/Freising,St.AndrÑ zu//zu Freising/
+H$Zahlungsverpflichtung/Gerichtskosten/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$condempnamus eciam eundem dominum electum in V marcis Aquilegensium nomine
+expensarum quas idem magister H. in eadem lite probavit se veraciter expendisse
+B$Fontes rer. Aust. II. 31, Nr.246, S. 263-4 zu 1265 vor September aus Original
+im Reichsarchiv zu MÅnchen. In MDC 4I, Nr. 2786 nur dt. Regest der betreffenden
+Stelle.
+
+DOK$MDC4II_2901/1266.5.26/1266.5.26/1266 Mai 26/anno incarnationis domini millesimo
+CCLXVI, septimo kalend. iunii, indictione nona/Griffen/Griffen//nî.Vîlkermarkt/
+S$X/X/X
+V$X/X/X
+K$Bischof Berthold von Bamberg verpfÑndet dem Hartlieb von Winzer
+(Bayern) fÅr die von diesem mit Zustimmung seiner Gattin Gerdrud um
+350 Mark Silber Friesacher Gewichts erkauften GÅter in KÑrnten -
+ausgenommen Chunegung, die Gattin Volchlins, und Heinrich von Seeburg
+- genannte GÅter in Bayern.
+
+REG$Bischof Berthold von Bamberg kauft von Hartlieb von Winzer (Bayern) mit
+Zustimmung seiner Gattin Gertrud um 350 Mark Silber Friesacher Gewichts
+GÅter in KÑrnten.
+F$MDC 4II/2901/637f/638
+G$Berthold/Bischof/Bamberg/Bamberg//Bayern/
+E$Hartlieb/Genannter/Winzer/Winzer//Bayern/
+H$Kauf/Immobilien/unbestimmt/unbestimmt//KÑrnten
+W$Friesach/pondus
+O$350/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$comparavimus \dots pro trecentis et quinquaginta marcis argenti ponderis
+Frisacensis
+
+REG$Bischof Berthold von Bamberg kauft von Hartlieb von Winzer (Bayern) mit
+Zustimmung seiner Gattin Gertrud um 350 Mark Silber Friesacher Gewichts
+GÅter in KÑrnten. FÅr diese Summe verpfÑndet er ihm GÅter in Bayern, wobei
+vereinbart wird, da· zum Fest der Reinigung (2. Februar) jeweils 50 Mark Silber
+desselben Gewichts dem Hartlib zu zahlen sind, wofÅr jeweils 7 Pfund EinkÅnfte
+ausgelîst sollen.
+F$MDC 4II/2901/637f/638
+G$Berthold/Bischof/Bamberg/Bamberg//Bayern/
+E$Hartlieb/Genannter/Winzer/Winzer//Bayern/
+H$Pfand_Auslîsung/EinkÅnfte/unbestimmt/unbestimmt//
+W$Friesach/pondus
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$quotienscumque in festo purificationis quinquaginta marcas argenti prenotati
+ponderis eidem Hartlibo persolverimus, de prelibata obligatione totiens septem
+librarum redditus nobis tenebitur reddere absolutos
+B$"Friesach" aus dem Zusammenhang erschlossen.
+
+REG$Bischof Berthold von Bamberg kauft von Hartlieb von Winzer (Bayern) mit
+Zustimmung seiner Gattin Gertrud um 350 Mark Silber Friesacher Gewichts
+GÅter in KÑrnten. FÅr diese Summe verpfÑndet er ihm GÅter in Bayern, wobei
+vereinbart wird, da· zum Fest der Reinigung (2. Februar) jeweils 50 Mark Silber
+desselben Gewichts dem Hartlib zu zahlen sind, wofÅr jeweils 7 Pfund EinkÅnfte
+ausgelîst sollen.
+F$MDC 4II/2901/637f/638
+G$Hartlieb/Genannter/Winzer/Winzer//Bayern/
+E$Berthold/Bischof/Bamberg/Bamberg//Bayern/
+H$Pfand_Auslîsung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quotienscumque in festo purificationis quinquaginta marcas argenti prenotati
+ponderis eidem Hartlibo persolverimus, de prelibata obligatione totiens septem
+librarum redditus nobis tenebitur reddere absolutos
+
+DOK$MDC4II_2917/1267.1.3/1267.1.3/1267 JÑnner 3/anno domini MCCLXVII, III non.
+ianuarii/Griffen/Griffen//nî.Vîlkermarkt/
+S$X/X/X
+V$X/X/X
+K$Seifried von Mahrenberg bekennt, da· ihm und seiner Frau Bischof
+Berthold von Bamberg fÅr eine Schuld von 150 Mark Agleier Pfennig
+EinkÅnfte von 30 Mark Friesacher Pfennig in Wolfsberg und Griffen
+verpfÑndet hat.
+
+REG$Bischof Berthold von Bamberg schuldet Seifried von Mahrenberg 150 Mark Agleier
+Pfennige.
+F$MDC 4II/2917/646/646
+G$Berthold/Bischof/Bamberg/Bamberg//Bayern/
+E$Seifried/Genannter/Mahrenberg/Mahrenberg//î.Unterdrauburg/
+H$Zahlungsverpflichtung/Schulden/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$150/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$in debitis centum quinquaginta marcarum Aquilegensium denariorum
+
+REG$Bischof Berthold von Bamberg schuldet Seifried von Mahrenberg 150 Mark Agleier
+Pfennige und verpfÑndet daher ihm und seiner Frau EinkÅnfte von 30 Mark
+Friesacher Pfennig in Wolfsberg und Griffen.
+F$MDC 4II/2917/646/646
+G$Berthold/Bischof/Bamberg/Bamberg//Bayern/
+E$Seifried/Genannter/Mahrenberg/Mahrenberg//î.Unterdrauburg/
+H$Zahlungsverpflichtung/Schulden/unbestimmt/unbestimmt//
+W$X/X/
+O$150/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro memoratis CL marcis denariorum
+
+REG$Bischof Berthold von Bamberg schuldet Seifried von Mahrenberg 150 Mark Agleier
+Pfennige und verpfÑndet daher ihm und seiner Frau EinkÅnfte von 30 Mark
+Friesacher Pfennig in Wolfsberg und Griffen.
+F$MDC 4II/2917/646/646
+G$Seifried/Genannter/Mahrenberg/Mahrenberg//î.Unterdrauburg/
+E$Berthold/Bischof/Bamberg/Bamberg//Bayern
+H$VerpfÑndung/EinkÅnfte/Wolfsberg/Wolfsberg//K/
+H$VerpfÑndung/EinkÅnfte/Griffen/Griffen//nî.Vîlkermarkt/
+W$Friesach/X/
+O$30/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$apud Wolfsperch et apud Griven XXX marcarum Frisacensium denariorum redditus
+obligavit
+
+REG$Bischof Berthold von Bamberg schuldet Seifried von Mahrenberg 150 Mark Agleier
+Pfennige und verpfÑndet daher ihm und seiner Frau EinkÅnfte von 30 Mark
+Friesacher Pfennig in Wolfsberg und Griffen. Nach Bezug von 150 Mark von den
+GÅtern sollen die EinkÅnfte wieder an den Bischof bzw. an die Kirche von Bamberg
+zurÅckgegeben werden.
+F$MDC 4II/2917/646/646
+G$Berthold/Bischof/Bamberg/Bamberg//Bayern/
+E$Seifried/Genannter/Mahrenberg/Mahrenberg//î.Unterdrauburg/
+H$Zahlungsverpflichtung/Schulden/unbestimmt/unbestimmt//
+W$X/X/
+O$150/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$predictas CL marcas denariorum
+
+DOK$MDC4II_2936/1267.7.1/1267.7.1/1267 Juli 1/anno domini MCCLXVII, sexta feria
+intrante iulio/Vîlkermarkt/Vîlkermarkt//K/
+S$X/X/X
+V$X/X/X
+K$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben,
+davon fÅnf Mark zu ihrem Seelenheil dem Konvent gehîren sollen.
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben,
+davon fÅnf Mark zu ihrem Seelenheil dem Konvent gehîren sollen.
+F$MDC 4II/2936/665ff/666
+G$Gerhard/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Kauf/Immobilien_Wald/St.Martin i.Granitztal/St. Martin i.Granitztal//sw.St.Paul i.L./
+W$Friesach/X/
+O$115/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro marchis denariorum Frisacensium et Grezensium centum quindecim quarum
+quinque dande sunt \dots pro suarum remedio animarum
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben,
+davon fÅnf Mark zu ihrem Seelenheil dem Konvent gehîren sollen.
+F$MDC 4II/2936/665ff/666
+G$Gerhard/Abt/St.Paul i.L./St. Paul i.L.//Lavanttal/
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Kauf/Immobilien_Wald/St.Martin i.Granitztal/St. Martin i.Granitztal//sw.St.Paul i.L./
+W$Graz/X/
+O$115/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro marchis denariorum Frisacensium et Grezensium centum quindecim quarum
+quinque dande sunt \dots pro suarum remedio animarum
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben,
+davon fÅnf Mark zu ihrem Seelenheil dem Konvent gehîren sollen.
+F$MDC 4II/2936/665ff/666
+G$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+E$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$Schenkung/Seelenheil/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro marchis denariorum Frisacensium et Grezensium centum quindecim quarum
+quinque dande sunt \dots pro suarum remedio animarum
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben,
+davon fÅnf Mark zu ihrem Seelenheil dem Konvent gehîren sollen.
+F$MDC 4II/2936/665ff/666
+G$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+E$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+H$Schenkung/Seelenheil/unbestimmt/unbestimmt//
+W$Graz/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$pro marchis denariorum Frisacensium et Grezensium centum quindecim quarum
+quinque dande sunt \dots pro suarum remedio animarum
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben, wovon
+die erste Teilzahlung 35 Mark Friesacher Pfennig betrÑgt.
+F$MDC 4II/2936/665ff/666
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Quittung/Immobilien_Wald/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$35/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$in solutionem XXXV marchas denariorum Frisacensium a predicto abbate et
+fratribus eodem tempore recepisse
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben, wovon
+die erste Teilzahlung 35 Mark betrÑgt.
+F$MDC 4II/2936/665ff/666
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Quittung/Immobilien_Wald/unbestimmt/unbestimmt//
+W$X/X/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$post factam solutionem de XXXV marchis
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben, wovon
+die zweite Teilzahlung 35 Mark Grazer Pfennig betrÑgt.
+F$MDC 4II/2936/665ff/666
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Graz/X/
+O$35/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$alias XXXV marchas denariorum Grezcensium
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben, wovon
+jede Teilzahlung 35 Mark Grazer Pfennig betrÑgt.
+F$MDC 4II/2936/665ff/666
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Graz/X/
+O$35/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$XXXV marchas Grezcensium denariorum
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben, wovon
+die letzte Teilzahlung 25 Mark Friesacher Pfennig betrÑgt.
+F$MDC 4II/2936/665ff/667
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$25/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$marchas Frisacensium denariorum alias XXV reliquas quoque XV \dots in denariis
+monete similiter Frisacen(sis)
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben,  wovon
+die letzte Teilzahlung 15 Mark Friesacher Pfennig betrÑgt.
+F$MDC 4II/2936/665ff/667
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$15/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$marchas Frisacensium denariorum alias XXV reliquas quoque XV \dots in denariis
+monete similiter Frisacen(sis)
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$Swarzmann, der Richter des Herzogs Ulrich III. von KÑrnten,
+beurkundet, da· vor ihm im Gericht die BrÅder Hartwig, Heinrich und
+Gottfried von Kolbnitz dem Abt Gerhard und dem Kloster von St. Paul zur
+Aussteuer ihrer Schwester einen Wald bei der Kirche St. Martin (im
+Granitztal) um 115 Mark Friesacher und Grazer Pfennig verkauft haben, wovon
+die erste Teilzahlung 35 Mark betrÑgt.
+F$MDC 4II/2936/665ff/667
+G$X/Kloster/St.Paul i.L./St. Paul i.L.//Lavanttal/
+E$Hartwig;Heinrich;Gottfried/Genannter/Kolbnitz/Kolbnitz//Mîlltal sî.Obervellach/
+H$Teilzahlung/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$35/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$primas XXXV marchas
+
+DOK$MDC4II_2941/1267.1.1/1267.7.27/1267 (vor Juli 28)/anno domini millesimo
+ducentesimo LXVII/Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp [, dem
+Bruder Herzog Ulrichs III., dem Herrn von KÑrnten und Krain,]
+auf dessen Lebenszeit fÅr den Verzicht auf GÅter und Leute
+seiner Kirche mit Rat seines Domkapitels und seiner Ministerialen Renten von
+der Friesacher MÅnze, vom Amt Maria Saal, vom Zehnt in Hohenilz
+(Steiermark, bei Weiz) und das Schlo· Lichtenberg, ausgenommen die
+Ministerialen, und verspricht eventuelle ErgÑnzung mit EinkÅnften im
+Lavanttal und zwischen Maria Saal und Friesach.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 100 Mark Pfennig Friesacher Geldes und 200
+Mark EinkÅnfte.
+F$MDC 4II/2941/669f/669
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$Ablîse/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$denariorum C marcas de moneta Frisacensi et ducentarum marcarum redditus
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 100 Mark Pfennig Friesacher Geldes und 200
+Mark EinkÅnfte.
+F$MDC 4II/2941/669f/669
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$denariorum C marcas de moneta Frisacensi et ducentarum marcarum redditus
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 134,5 Mark EinkÅnfte vom Amt Maria Saal.
+F$MDC 4II/2941/669f/669
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Amt/MariaSaal/Maria Saal//nî.Klagenfurt/
+W$X/X/
+O$134,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$de officio Soliensi in redditibus ad mensam episcopalem pertinentibus
+ecclesie Saltzpurgensis marcas CXXXIIII et dim(idiam) den(ariorum)
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 12 Mark Pfennig vom Zehnt in Hohenilz (b.
+Weiz, Stmk.).
+F$MDC 4II/2941/669f/669
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$Rente/Zehnten/Hohenilz/Hohenilz//Stmk, b.Weiz/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$in decima que vulgariter dicitur Hohenilze marcas XII denar(iorum)
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen zu den versprochenen EinkÅnften eine
+ErgÑnzung mit EinkÅnften in der Hîhe von jÑhrlich 110 Mark Pfennig von der
+Friesacher MÅnze.
+F$MDC 4II/2941/669f/669
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$110/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$C etiam marcas denariorum et X adiectas in supplementum estimacionis predicte
+sibi in Frisaco de moneta singulis annis solvemus
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen zu den versprochenen EinkÅnften eine
+ErgÑnzung mit EinkÅnften in der Hîhe von jÑhrlich 110 Mark Pfennig von der
+Friesacher MÅnze, nÑmlich am Fest des hl. Michael 60 Mark und am Fest der
+Reinigung MariÑ 50 Mark.
+F$MDC 4II/2941/669f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$X/X/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad duos terminos videlicet in festo sancti Michahelis marcas LX
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen zu den versprochenen EinkÅnften eine
+ErgÑnzung mit EinkÅnften in der Hîhe von jÑhrlich 110 Mark Pfennig von der
+Friesacher MÅnze, nÑmlich am Fest des hl. Michael 60 Mark und am Fest der
+Reinigung MariÑ 50 Mark.
+F$MDC 4II/2941/669f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in festo purificacionis sancte Marie L
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+DOK$MDC4II_2942/1267.7.28/1267.7.28/1267 Juli 28/anno domini MCCLX septimo, V kalend.
+august./Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X
+K$Philipp, Herr von KÑrnten und Krain, stellt bezÅglich der Urkunde
+MDC 4II Nr. 2941 einen Revers aus und gewÑhrt allen seinen Beleidigern
+und SchÑdigern in der Salzburger Angelegenheit Verzeihung, hÑlt aber
+seine Forderungen wegen Geldzahlungen aufrecht.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 200 Mark EinkÅnfte.
+F$MDC 4II/2942/670f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$Ablîse/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$duximus acceptandam marcarum redditus videlicet ducentarum
+B$Im Original extra aufgenommen.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 134,5 Mark EinkÅnfte vom Amt Maria Saal.
+F$MDC 4II/2942/670f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Amt/MariaSaal/Maria Saal//nî.Klagenfurt/
+W$X/X/
+O$134,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de officio Soliensi in redditibus ad mensam episcopalem
+Salzburgensis ecclesie pertinentibus in marcis centum triginta quatuor
+et dimidia denariorum
+B$Im Original extra aufgenommen.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen 12 Mark Pfennig vom Zehnt in Hohenilz (b.
+Weiz, Stmk.).
+F$MDC 4II/2942/670f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$Rente/Zehnten/Hohenilz/Hohenilz/Stmk,b.Weiz/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$in decima que vulgariter dicitur Hohenilz, in duodecim marcis denariorum
+B$Im Original extra aufgenommen.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen zu den versprochenen EinkÅnften eine
+ErgÑnzung mit EinkÅnften in der Hîhe von jÑhrlich 110 Mark Pfennig von der
+Friesacher MÅnze.
+F$MDC 4II/2942/670f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$Friesach/moneta/
+O$110/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$centum etiam marcas denariorum et decem adiectas in supplementum estimacionis
+predicte nobis in Frisaco de moneta singulis annis solvendas
+B$Im Original extra aufgenommen.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen zu den versprochenen EinkÅnften eine
+ErgÑnzung mit EinkÅnften in der Hîhe von jÑhrlich 110 Mark Pfennig von der
+Friesacher MÅnze, nÑmlich am Fest des hl. Michael 60 Mark und am Fest der
+Reinigung MariÑ 50 Mark.
+F$MDC 4II/2942/670f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$X/X/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad duos terminos videlicet in festo sancti Michahelis marcas sexaginta
+B$Im Original extra aufgenommen.
+
+REG$Erzbischof Wlodizlaus von Salzburg gibt seinem Verwandten Philipp auf dessen
+Lebenszeit fÅr den Verzicht auf GÅter und Leute seiner Kirche mit Rat seines
+Domkapitels und seiner Ministerialen zu den versprochenen EinkÅnften eine
+ErgÑnzung mit EinkÅnften in der Hîhe von jÑhrlich 110 Mark Pfennig von der
+Friesacher MÅnze, nÑmlich am Fest des hl. Michael 60 Mark und am Fest der
+Reinigung MariÑ 50 Mark.
+F$MDC 4II/2942/670f/670
+G$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Philipp/X/X/X//
+H$EinkÅnfte/Friesach_MÅnze/Friesach/Friesach//K/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in festo purificationis sancte Marie quinquaginta marcas
+B$Im Original extra aufgenommen.
+
+DOK$MDC4II_2962/1268.0.0/1268.0.0/1268/anno domini millesimo CCLXVIII/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Simon von St. Peter Åberweist der StiftskÑmmerei die EinkÅnfte
+der Kirche in Kirchberg zur Beschaffung von PelzmÑnteln fÅr die
+Chormînche.
+
+REG$Der Priester von Kirchberg erhÑlt jÑhrlich fÅr seine Dienste eine halbe Mark
+Friesacher Pfennig.
+F$MDC 4II/2962/682f/682
+G$Simon/Abt/Salzburg/Salzburg,St.Peter//S/
+E$X/Priester/Kirchberg/Kirchberg//sî.HÅttenberg/
+H$Unterhalt/Geldsumme/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sacerdoti in eadem ecclesia ministranti pro labore suo singulis annis
+denariorum Frisacensium marcam mediam
+
+REG$Von der Pfarre Appenawe werden jÑhrlich zu Weihnachten 2 Talent an die
+StiftskÑmmerei St. Peter bezahlt.
+F$MDC 4II/2962/682f/682
+G$X/Pfarre/Abtenau/Abtenau/Appenawe/S/
+E$X/StiftskÑmmerei/Salzburg/Salzburg,St.Peter//S/
+H$Unterhalt/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$duo talenta in nativitate domini de parrochia Appenawe camere iussimus
+singulis annis dari
+
+REG$Vom Gut Appenawe werden 2 Talent an die StiftskÑmmerei St. Peter bezahlt.
+F$MDC 4II/2962/682f/683
+G$X/Immobilien/Abtenau/Abtenau/Appenawe/S/
+E$X/StiftskÑmmerei/Salzburg/Salzburg,St.Peter//S/
+H$Unterhalt/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$predium duo talenta solvens ecclesie sancti Petri collatum fuerit
+
+DOK$MDC4II_2978/1268.7.14/1268.7.14/1268 Juli 14/pridie idus iulii, anno domini millesimo
+ducentesimo sexagesimo octavo/St.Radegund ?a.Hohenfeld/St. Radegund
+a.Hohenfeld//nw.Althofen/
+S$X/X/X
+V$X/X/X
+K$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si depravate fuerint in sancto Vito, Volchenmarcht vel in Gretz vel in
+aliquo diminute, iudex et homines illius opidi in quo talis iniquitas est
+conmissa, in centum marcis
+condempnentur dicto nostro consanguineo Salzburgensi archiepiscopo persolvendis
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/Friesach/Friesach//K/
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si autem in Frisaco depravata fuerit vel in aliquo diminuta, iudex et cives
+Frisacenses in centum marcis similiter condempnentur nobis et nostris
+successoribus persolvendis et depravatores illius vel depravator penam sibi a
+iure debitam paciatur
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$iudex noster in eodem opido pro eo tociens decem marcas solvere teneatur,
+s(c)ilicet quinque nobis et quinque marcas nostro consanguineo
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$iudex noster in eodem opido pro eo tociens decem marcas solvere teneatur,
+s(c)ilicet quinque nobis et quinque marcas nostro consanguineo
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$iudex noster in eodem opido pro eo tociens decem marcas solvere teneatur,
+s(c)ilicet quinque nobis et quinque marcas nostro consanguineo
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si vero fuerit de Frisaco talis presumptor, pene consimili subiaceat versa
+vice, scilicet ut iudex Frisacensis pro eo tociens X marcas solvere teneatur
+videlicet quinque nobis et quinque dicto nostro consanguineo
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Wlodizlaus/Erzbischof/Salzburg/Salzburg//S/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si vero fuerit de Frisaco talis presumptor, pene consimili subiaceat versa
+vice, scilicet ut iudex Frisacensis pro eo tociens X marcas solvere teneatur
+videlicet quinque nobis et quinque dicto nostro consanguineo
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$Herzog Ulrich III. von KÑrnten vereinigt sich mit seinem Verwandten, dem
+Erzbischof Wlodizlaus von Salzburg, wegen Hintanhaltung der
+Verschlechterung der Friesacher MÅnze in St. Veit, Vîlkermarkt und
+Windischgraz und umgekehrt der herzoglichen MÅnze in Friesach so,
+da· jeder MÅnzverschlechterer dem MÅnzherrn mit 100 Mark straffÑllig
+ist. Dann soll jeder, der die herzogliche und erzbischîfliche
+Verordnung, betreffend das Verbot fremder MÅnzen und Åber die
+Friesacher Ellen, Ma·e, Gewichte und Waagen in KÑrnten, Åbertritt, mit
+zehn Mark, je fÅnf an den Herzog und an den Erzbischof zu entrichten,
+gestraft werden.
+F$MDC 4II/2978/692f/693
+G$X/BÅrger/X/X//
+E$Ulrich III./Herzog/KÑrnten/KÑrnten//K/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si vero fuerit de Frisaco talis presumptor, pene consimili subiaceat versa
+vice, scilicet ut iudex Frisacensis pro eo tociens X marcas solvere teneatur
+videlicet quinque nobis et quinque dicto nostro consanguineo
+
+

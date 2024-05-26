@@ -1,0 +1,2878 @@
+note *** Urkunden aus Zahn, UB Steiermark, Bde 1, 2, 3 und Erg.
+        Neuere Drucke sind ggf. angegeben (noch unvollstÑndig)
+        Einige stUB-Urkunden wurden nicht hier, sondern unter MDC aufgenommen
+
+note *** Einlesen der Rohdaten io_st123.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$StUB1_0352/1153.12.20/1153.12.20/1153 Dezember 20/anno dominice incarnationis MCLIII.,
+indictione II., XIII. calendas Januarii, anno secundo Friderici regis \dots
+/Leibnitz/Leibnitz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Eberhard I. von Salzburg entscheidet zwischen
+dem Stifte Suben und Pfarrer Engelschalk von Leibnitz den Streit um
+die zu der von Bischof Altmann von Trient i.J. 1136 an Suben
+geschenkte St. Margaretenkirche zu Hengstberg (bei Wildon, Steiermark)
+gehîrigen GÅter in der Weise, da· Engelschalk die Dîrfer Sîding
+(Kainachtal w. Graz) und Haslach (bei Gleinstetten) auf Lebenszeit
+erhÑlt, wofÅr er die GÅter zu St. Margareten an das Stift abtritt, und
+die Kirche, Sîding und Haslach gegen einen jÑhrlichen Zins auf
+Lebenszeit zu Lehen empfÑngt.
+
+REG$Erzbischof Eberhard von Salzburg verpflichtet in der Streitsache zwischen
+dem Kloster Suben und Pfarrer Engelschalk von Leibnitz um GÅter des Klosters
+letzteren u.a. zur Zahlung von jÑhrlich 40 Friesacher Pfennigen
+an das Kloster.
+F$StUB 1/352/341ff/343
+F$SUB 2/0305/426ff/428
+F$MB 04/??/525ff/528
+F$OôUB 2/177/265ff/267
+G$Engelschalk/Pfarrer/Leibnitz/Leibnitz//Stmk/
+E$X/Kloster/Suben/Suben//Oô,b.SchÑrding/
+H$Belehnung/Immobilien/St.Margarethen zu Hengstberg/St.Margareten zu Hengstberg//Stmk,b.Wildon/
+H$Belehnung/Immobilien/Sîding/Sîding//Stmk,Kainachtal w.Graz/
+H$Belehnung/Immobilien/Haslach/Haslach//Stmk,b.Gleinstetten/
+W$Friesach/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/nummus/X/Z
+A$40 Friesacher Pf./1 Rindvieh? #WertschÑtzung Lehen, keine Gleichsetzung
+Q$singulis annis ad huius rei indicium et memoriam pro taxatione unius bovis
+XL nummos Frisacensium monete Subenensi ecclesie persolvere debebit
+
+DOK$StUB1_394/1157.0.0/1157.0.0/(1157)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Das Kloster Admont vergleicht sich mit den verschiedenen Rechtsansprechern
+nach einem Gut zu Brunn (N.-ôst., O.-W.-W., welches?), das weiland Friderich
+Vogt von Regensburg ihm geschenkt hatte.
+
+REG$Abt Gottfried von Admont nimmt Judith, die Ehefrau des verstorbenen Vogtes
+Friedrich von Regensburg, in die Gebetsbruderschaft auf und Åbergibt ihr 3 Mark
+fÅr den Verzicht auf alle AnsprÅche an einem Gut zu Brunn (Nô), das Friedrich
+Vogt von Regensburg dem Kloster geschenkt hatte.
+F$StUB 1/394/373f/374
+G$Gottfried/Abt/Admont/Admont//Stmk/
+E$Judith/X/X/X//
+H$Verzicht/Immobilien/BrunnimFelde/Brunn i.Felde//Nô,OWW welches? GB.Krems/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$datis quoque preterea tribus marcis
+B$BabUBerg Nr. 800, S. 144f datiert 1156 September - um 1162. "Als terminus a quo
+kann 1156 September 8 gelten,\dots. Der Schenkgeber von Brunnen, Vogt Friedrich
+(d.J.) von Regensburg, war der Bruder der GrÑfin Adelheid; er verstarb auf dem
+Kreuzzug 1148, worauf die donatio post obitum an Admont durchgefÅhrt wurde. Eine
+erste Phase von Anfechtungen durch Verwandte Friedrichs wurde durch Abt
+Gottfried auf dem Wege von Verhandlungen beendet;"
+Wichner, Geschichte von Admont 1, S.101f,192 Brunn i.Felde bei Krems
+
+REG$Abt Gottfried von Admont Åbergibt Berthold von Tuombrunnen 12 Talent
+fÅr den Verzicht auf alle AnsprÅche an einem Gut zu Brunn (Nô), das Friedrich
+Vogt von Regensburg dem Kloster geschenkt hatte.
+F$StUB 1/394/373f/374
+G$Gottfried/Abt/Admont/Admont//Stmk/
+E$Berthold/Genannter/uBayern/Tumbrunn/Tuombrunnen/Bayern
+H$Verzicht/Immobilien/BrunnimFelde/Brunn i.Felde//Nô,OWW welches? GB.Krems/
+W$X/X/
+O$12/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$XII talenta accepit et verbum appellationis sue dimisit.
+B$BabUBerg Nr. 800, S. 144f datiert 1156 September - um 1162. "Als terminus a quo
+kann 1156 September 8 gelten,\dots. Der Schenkgeber von Brunnen, Vogt Friedrich
+(d.J.) von Regensburg, war der Bruder der GrÑfin Adelheid; er verstarb auf dem
+Kreuzzug 1148, worauf die donatio post obitum an Admont durchgefÅhrt wurde. Eine
+erste Phase von Anfechtungen durch Verwandte Friedrichs wurde durch Abt
+Gottfried auf dem Wege von Verhandlungen beendet;"
+
+REG$Abt Gottfried von Admont Åbergibt Hermann von Bosruck 16 Talent
+fÅr den Verzicht auf alle AnsprÅche an einem Gut zu Brunn (Nô), das Friedrich
+Vogt von Regensburg dem Kloster geschenkt hatte. DafÅr Åbergibt Hermann dem
+Kloster einen Weingarten von drei Joch neben dem Gut.
+F$StUB 1/394/373f/374
+G$Gottfried/Abt/Admont/Admont//Stmk/
+E$Hermann/Genannter/Bosruck/Bosruck//Oberpfalz/
+H$Verzicht/Immobilien/BrunnimFelde/Brunn i.Felde/Nô,OWW welches? GB.Krems/
+W$X/X/
+O$16/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$sedecim talenta data sunt
+B$BabUBerg Nr. 800, S. 144f datiert 1156 September - um 1162. "Als terminus a quo
+kann 1156 September 8 gelten,\dots. Der Schenkgeber von Brunnen, Vogt Friedrich
+(d.J.) von Regensburg, war der Bruder der GrÑfin Adelheid; er verstarb auf dem
+Kreuzzug 1148, worauf die donatio post obitum an Admont durchgefÅhrt wurde. Eine
+erste Phase von Anfechtungen durch Verwandte Friedrichs wurde durch Abt
+Gottfried auf dem Wege von Verhandlungen beendet;"
+
+REG$Abt Gottfried von Admont Åbergibt Ernst und Friedrich von Hohenburg, den
+Sîhnen von GrÑfin Adelheid, der Schwester von Vogt Friedrich von Regensburg, 20
+Talent Kremser MÅnze fÅr den Verzicht auf alle AnsprÅche an einem Gut zu Brunn
+(Nô), das Friedrich Vogt von Regensburg dem Kloster geschenkt hatte.
+F$StUB 1/394/373f/374
+F$BabUBerg./800/144f/145
+G$Gottfried/Abt/Admont/Admont//Stmk/
+E$Ernst;Friedrich/Graf/Hohenburg a.d.Lauterach/Hohenburg a.d.Lauterach//O.-Pfalz/
+H$Verzicht/Immobilien/BrunnimFelde/Brunn i.Felde//Nô,OWW welches GB.Krems/
+W$Krems/moneta/
+O$20/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$XX talenta Chremensis monete a fratribus acciperent
+B$BabUBerg Nr. 800, S. 144f datiert 1156 September - um 1162. "Als terminus a quo
+kann 1156 September 8 gelten,\dots. Der Schenkgeber von Brunnen, Vogt Friedrich
+(d.J.) von Regensburg, war der Bruder der GrÑfin Adelheid; er verstarb auf dem
+Kreuzzug 1148, worauf die donatio post obitum an Admont durchgefÅhrt wurde. Eine
+erste Phase von Anfechtungen durch Verwandte Friedrichs wurde durch Abt
+Gottfried auf dem Wege von Verhandlungen beendet;"
+
+REG$Abt Gottfried von Admont Åbergibt Ernst und Friedrich von Hohenburg, den
+Sîhnen von GrÑfin Adelheid, der Schwester von Vogt Friedrich von Regensburg, 20
+Talent Kremser MÅnze fÅr den Verzicht auf alle AnsprÅche an einem Gut zu Brunn
+(Nô), das Friedrich dem Kloster geschenkt hatte. Sie geben dem Herzog
+Heinrich von ôsterreich ihr predium Lohen (wo?) als Pfand fÅr die
+Einhaltung des Abkommens. Sollten sie das Gut nicht schÅtzen,
+mÅssen sie das Geld dem Kloster zurÅckzahlen.  ?
+F$StUB 1/394/373f/374
+F$BabUBerg./800/144f/145
+G$Ernst;Friedrich/Graf/Hohenburg a.d.Lauterach/Hohenburg a.d.Lauterach//O.-Pfalz/
+E$Gottfried/Abt/Admont/Admont//Stmk/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt// ?
+W$Krems/moneta/
+O$20/tal./X
+Z$X/X/X
+M$X/X/X/Z
+A$20 Talent Kremser MÅnze/20 Mark Silber ?
+Q$prefatam pecuniam, XX videlicet talenta tam bone monete sicut tunc erat, vel
+XX marcas probati argenti fratribus redderent.
+B$"Krems" aus dem Zusammenhang erschlossen. ?
+BabUBerg Nr. 800, S. 144f datiert 1156 September - um 1162. "Als terminus a quo
+kann 1156 September 8 gelten,\dots. Der Schenkgeber von Brunnen, Vogt Friedrich
+(d.J.) von Regensburg, war der Bruder der GrÑfin Adelheid; er verstarb auf dem
+Kreuzzug 1148, worauf die donatio post obitum an Admont durchgefÅhrt wurde. Eine
+erste Phase von Anfechtungen durch Verwandte Friedrichs wurde durch Abt
+Gottfried auf dem Wege von Verhandlungen beendet;"
+
+REG$Abt Gottfried von Admont Åbergibt Ernst und Friedrich von Hohenburg, den
+Sîhnen von GrÑfin Adelheid, der Schwester von Vogt Friedrich von Regensburg, 20
+Talent Kremser MÅnze fÅr den Verzicht auf alle AnsprÅche an einem Gut zu Brunn
+(Nô), das Friedrich dem Kloster geschenkt hatte. Sie geben dem Herzog
+Heinrich von ôsterreich ihr predium Lohen (wo?) als Pfand fÅr die
+Einhaltung des Abkommens. Sollten sie das Gut nicht schÅtzen,
+mÅssen sie das Geld oder 20 Mark Silber dem Kloster zurÅckzahlen.  ?
+F$StUB 1/394/373f/374
+F$BabUBerg./800/144f/145
+G$Ernst;Friedrich/Graf/Hohenburg a.d.Lauterach/Hohenburg a.d.Lauterach//O.-Pfalz/
+E$Gottfried/Abt/Admont/Admont//Stmk/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt// ?
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/probatum/Z
+A$20 Mark Silber ?/20 Talent Kremser MÅnze
+Q$prefatam pecuniam, XX videlicet talenta tam bone monete sicut tunc erat, vel
+XX marcas probati argenti fratribus redderent.
+B$"Krems" aus dem Zusammenhang erschlossen. ?
+BabUBerg Nr. 800, S. 144f datiert 1156 September - um 1162. "Als terminus a quo
+kann 1156 September 8 gelten,\dots. Der Schenkgeber von Brunnen, Vogt Friedrich
+(d.J.) von Regensburg, war der Bruder der GrÑfin Adelheid; er verstarb auf dem
+Kreuzzug 1148, worauf die donatio post obitum an Admont durchgefÅhrt wurde. Eine
+erste Phase von Anfechtungen durch Verwandte Friedrichs wurde durch Abt
+Gottfried auf dem Wege von Verhandlungen beendet;"
+
+DOK$StUB1_499/1166.9.17/1166.9.17/1166 September 17/anno ab incarnatione domini MCLXVI. XV.
+kalendas Octobris/Hartberg/Hartberg//Stmk/
+S$X/X/X
+V$X/X/X
+K$MarkgrÑfin Kunigund von Steiermark beurkundet, wie das Stift Seckau mit der
+von ihr gestifteten Mark Geldes und anderen Widmungen einen Hof an der Fischau
+b. Neunkirchen (Nô) zu Burgrecht gekauft habe.
+
+REG$Markgraf Otakar (III.) lÑ·t, da er auf der Pilgerfahrt ins Heilige Land
+erkrankt, seinen goldenen GÅrtelbecher im Gewicht von sechs Mark zerbrechen und
+die Teile unter die Klîster des Landes verteilen.
+F$StUB 1/499/461ff/462
+G$Otakar III./Markgraf/Steiermark/Steiermark//Stmk/
+E$X/X/X/X//
+H$Gewichtsangabe/Mobilien_Becher/unbestimmt/unbestimmt//
+W$X/pondus/
+O$6/marca/X
+Z$X/X/X
+M$X/aurum/X/A
+Q$cifum suum aureum appendentem pondus sex marcarum confringi
+
+REG$Markgraf Otakar (III.) lÑ·t, da er auf der Pilgerfahrt ins Heilige Land
+erkrankt, seinen goldenen GÅrtelbecher im Gewicht von sechs Mark zerbrechen und
+die Teile unter die Klîster des Landes verteilen. Seckau erhÑlt eine Goldmark.
+F$StUB 1/499/461ff/462
+G$Otakar III./Markgraf/Steiermark/Steiermark//
+E$X/Kloster/Seckau/Seckau//Stmk/
+H$Schenkung/Gold/unbestimmt/unbestimmt//  SeelgerÑt?
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/aurum?/X/A
+Q$una marca Seccowensibus fratribus fuisset collata
+
+REG$Die Schenkung Otakars III. an das Kloster Seckau, nÑmlich eine Goldmark, wird
+durch einen GÅrtel des Edlen Burkhard von Mureck und dessen Gemahlin Judith, der
+aus einer Mark Gold gefertigt ist, vermehrt.
+F$StUB 1/499/461ff/462
+G$Burkhard/Genannter/Mureck/Mureck//Stmk,w.Radkersburg/
+G$Judith/Genannte/Mureck/Mureck//Stmk,w.Radkersburg/
+E$X/X/X/X/
+H$Gewichtsangabe/Mobilien_GÅrtel/unbestimmt/unbestimmt//
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/aurum/X/A
+Q$cingulum ex marca auri fabrefactum et sexaginta ulnis unionum exornatum
+
+REG$Die Schenkung Otakars III. an das Kloster Seckau, nÑmlich eine Goldmark, wird
+durch die Schenkung des Edlen Burkhard von Mureck und dessen Gemahlin Judith im
+Wert von 16 Mark Silber vermehrt.
+F$StUB 1/499/461ff/462
+G$Burkhard/Genannter/Mureck/Mureck//Stmk,w.Radkersburg/
+G$Judith/Genannte/Mureck/Mureck//Stmk,w.Radkersburg/
+E$X/Kloster/Seckau/Seckau//Stmk/
+H$Wertangabe/Mobilien/unbestimmt/unbestimmt//
+W$X/X
+O$16/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$cingulum \dots ad precium sedecim marcarum argenti estimatum
+
+REG$Das Kloster Seckau erlangt gegen Entrichtung eines Jahreszinses von 40
+Pfennigen Fischauer MÅnze, der dem Landesherrn zu zahlen war, das Recht, in der
+Ebene zu Fischau (b. Wiener Neustadt) Kulturen anzulegen.
+F$StUB 1/499/461ff/462
+G$X/Kloster/Seckau/Seckau//Stmk/
+E$X/X/X/X//    Sohn Otakar III. ?
+H$Zins/Immobilien/Fischau/Fischau//Nô,b.Neunkirchen Bad Fischau/
+W$Fischau/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$quadraginta denarios Uisacensis monet\c{e} dando filio nostro persolvant
+
+DOK$StUB1_0504/1168.2.18/1168.2.18/1168 Februar 18/anno M.C.LX.VIII., indictione I., XIII.
+kalendas Marcii \dots/Admont/Admont//Stmk/
+S$X/X/X
+V$X/Salzburg/KIIA
+K$Erzbischof Konrad II. von Salzburg beurkundet und bestÑtigt das VermÑchtnis
+des Pfarrers Reinhard von Adriach (sw. Fronleiten) fÅr das Kloster
+Admont, betreffend zwei Huben zu Oberkurzheim und Trofaiach.
+
+REG$Pfarrer Reinhard von Adriach vermacht dem Kloster Admont unter der
+Vereinbarung zwei Huben, da· ihm das Kloster, solange er lebt, jÑhrlich am Fest
+des Hl. Martin 2 Mark Friesacher zahlt.
+F$StUB 1/504/469f/469
+F$SUB 2/0387/536f/537
+G$X/Kloster/Admont/Admont//Stmk/
+E$Reinhard/Pfarrer/Adriach/Adriach//Stmk,b.Frohnleiten/
+H$Zahlungsverpflichtung/Zins/Oberkurzheim/Oberkurzheim//Stmk,b.Pels/
+H$Zahlungsverpflichtung/Zins/Trofaiach/Trofaiach//Stmk,nw.Leoben/
+W$Friesach/moneta/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut quamdiu viveret, singulis annis in festo beati Martini duas
+marcas Frisacensis monet\c{e}? a predictis fratribus reciperet
+B$Kopie Muchars aus dem 1865 verbrannten Original in Admont (B)
+
+DOK$StUB1_0570/1175.0.0/1175.0.0/ca. 1175/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Hartung von Dîllach widmet dem Kloster Admont fÅnf Hîrige zu Zinsgeld.
+
+REG$Hartung von Dîllach widmet dem Kloster Admont fÅnf Hîrige zu einem Zinsgeld
+von 3 Friesacher oder 5 Laufener Pfennigen.
+F$StUB 1/570/540/540
+G$X/Kloster/Admont/Admont//Stmk/
+E$Hartung/Genannter/Dîllach/Dîllach//Stmk,Ennstal b.Lassing/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+A$3 Friesacher Pf./5 Laufener Pf.
+Q$ad censum trium denariorum Frisacensium vel quinque Lovfar
+
+REG$Hartung von Dîllach widmet dem Kloster Admont fÅnf Hîrige zu einem Zinsgeld
+von 3 Friesacher oder 5 Laufener Pfennigen.
+F$StUB 1/570/540/540
+G$X/Kloster/Admont/Admont//Stmk/
+E$Hartung/Genannter/Dîllach/Dîllach//Stmk,Ennstal b.Lassing/
+H$Zensus/Hîrige/unbestimmt/unbestimmt/
+W$Laufen/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+A$5 Laufener Pf./3 Friesacher Pf.
+Q$ad censum trium denariorum Frisacensium vel quinque Lovfar
+
+DOK$StUB1_0577/1175.0.0/1175.0.0/ca. 1175/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gerung von Strechau Åbertrug dem Kloster Admont eine Hîrige zu Zinsgeld.
+
+REG$Gerung von Strechau Åbertrug dem Kloster Admont eine Hîrige zu einem Zinsgeld
+von 5 Laufener oder 3 Friesacher Pfennigen.
+F$StUB 1/577/545/545
+G$X/Kloster/Admont/Admont//Stmk/
+E$Gerung/Genannter/Strechau/Strechau//Stmk,w.Rottenmann/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+A$3 Friesacher Pf./5 Laufener Pf.
+Q$ad censum V denariorum Loufer vel trivm Frisacensium
+
+REG$Gerung von Strechau Åbertrug dem Kloster Admont eine Hîrige zu einem Zinsgeld
+von 5 Laufener oder 3 Friesacher Pfennigen.
+F$StUB 1/577/545/545
+G$X/Kloster/Admont/Admont//Stmk/
+E$Gerung/Genannter/Strechau/Strechau//Stmk,w.Rottenmann/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//
+W$Laufen/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+A$5 Laufener Pf./3 Friesacher Pf.
+Q$ad censum V denariorum Loufer vel trivm Frisacensium
+
+DOK$StUB1_643/1185.8.15/1185.8.15/(ca. 1185) August 15/X/Admont/Admont//Stmk/
+S$X/X/X
+V$X/X/X
+K$Das Kloster Admont vergleicht sich in seinem Streit mit Friedrich, dem Enkel
+Rudolfs von Dietach, um ein Gut zu Stadlkirchen in Oberîsterreich, welches der
+letztere demselben gewidmet hatte.
+
+REG$Das Kloster Admont vergleicht sich in seinem Streit mit Friedrich, dem Enkel
+Rudolfs von Dietach, um ein Gut zu Stadlkirchen in Oberîsterreich, welches der
+letztere demselben gewidmet hatte, und Åbergibt ihm 25 Talent Ennser MÅnze
+fÅr den Verzicht auf alle AnsprÅche.
+F$StUB 1/643/619/619
+G$X/Kloster/Admont/Admont//Stmk/
+E$Friedrich/Genannter/Dietach/Dietach//Oô,b.Gleink/
+H$Verzicht/Immobilien/Stadlkirchen/Stadlkirchen//Oô,b.Steyr/
+W$Enns/X/
+O$25/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$ipse Fr. acceptis XXV talentis Aenser eandem litem abdicavit
+
+DOK$StUB1_0690/1188.6.7/1188.6.7/1188 Juni 7/VII. idus Junii, anno incarnationis domini
+M.C.LXXX.VIII., indictione VI./Salzburg/Salzburg//S/
+S$Hartfrid/X/Hartfrid
+V$Hartfrid/X/Hartfrid
+K$Erzbischof Albert III. von Salzburg beurkundet auf Bitte der
+Pfarrer Ulrich von St. Martin in Hartberg und Pfarrer Reinbert von
+St. Martin in Leibnitz, die von deren Voreltern gemachte öbergabe
+der Erbrechte der Kirche
+St. Waldburg bei St. Michael a.d. Liesing an das Kloster Admont,
+nachdem die erzbischîfliche BestÑtigungsurkunde durch Feuer beschÑdigt
+worden und der Gîsser Nonne Berta zur Wiederherstellung Åbergeben,
+nach deren Tod aber in Verlust geraten war.
+
+REG$Pfarrer Ulrich von Hartberg und Pfarrer Reinbert von Leibnitz
+Åbertragen
+dem Kloster Admont unter der Bedingung ein Gut (unter Vorbehalt des lebenslÑngl.
+Fruchtgenusses), da· sie dafÅr jÑhrlich 4 Mark Friesacher erhalten.
+F$StUB 1/690/674ff/676
+F$SUB 2/0456/617ff/618
+G$X/Kloster/Admont/Admont//Stmk/
+E$Ulrich/Pfarrer/Hartberg/Hartberg//Stmk-O/
+E$Reinbert/Pfarrer/Leibnitz/Leibnitz//Stmk/
+H$Zahlungsverpflichtung/Zins/Tollinggraben/Tollinggraben/Tolnich/Stmk,Ggd.o.Leoben/
+H$Zahlungsverpflichtung/Zins/St.MichaelobLeoben/St.Walburg/St.Waldpurg/Stmk,sw.St.Michael a.d.Liesing/
+H$Zahlungsverpflichtung/Zins/Liesingthal/Liesingtal/Liesnich/Stmk,w.Leoben/
+H$Zahlungsverpflichtung/Zins/Traboch/Traboch//b.St.Michael a.d.Liesing/
+H$Zahlungsverpflichtung/Zins/Trofaiach/Trofaiach/Treviach/Stmk,nw.Leoben/
+W$Friesach/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$IIII marcas Frisacensium pro predio eis collato nobis annuatim
+persolvant
+
+REG$Pfarrer Ulrich von Hartberg und Pfarrer Reinbert von Leibnitz
+Åbertragen
+dem Kloster Admont unter der Bedingung ein Gut, da· sie dafÅr jÑhrlich 4 Mark
+Friesacher erhalten. Bei NichterfÅllung dieser Zahlungen sind die Pfarrer
+berechtigt, den Vertrag zu Ñndern.
+F$StUB 1/690/674ff/676
+F$SUB 2/0456/617ff/619
+G$X/Kloster/Admont/Admont//Stmk/
+E$Ulrich/Pfarrer/Hartberg/Hartberg//Stmk-O/
+E$Reinbert/Pfarrer/Leibnitz/Leibnitz//Stmk/
+H$Zahlungsverpflichtung/Zins/unbestimmt/unbestimmt//
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$penam \dots ut si Adm\o{u}ntenses annuatim nobis in soluendo
+IIII marcarum non fuerint
+
+DOK$StUB1_701/1190.0.0/1190.0.0/1190/X/X/X//
+S$X/Salzburg/AIIIJ
+V$X/Salzburg/AIIIH
+K$Erzbischof Albert III. von Salzburg nachstehende Handlungen:
+Der steirische Ministeriale Otaker, Burggraf von Graz, erhÑlt von
+Herzog Otaker VI. von Steiermark und dessen Erben Herzog Leopold VI.
+von ôsterreich die Erlaubnis, seinen Sohn Ulrich in die HÑnde eines
+Edlen behufs weiterer öbergabe zu Åbergeben, worauf er Ulrich dem
+Konrad von Kindberg Åbergibt.
+Durch die Belehnung Otakers mit den Weinzehnten in der Pfarre St.
+Georgen an der Stifting und mit 5 Mark, fÅr die der Erzbischof die
+Zehnten in Neudorf (î. Wildon) verpfÑndete, gelingt es diesem, Otaker
+zu veranlassen, von Konrad von Kindberg die öbergabe Ulrichs als
+Hochstiftsministerialen zu fordern, und als Konrad durch Krankheit
+verhindert ist, Åbergibt dieser den Knaben an seinen Bruder Rudolf von
+Kindberg.
+Rudolf von Kindberg Åbergibt in Anwesenheit Otakers und seines Sohnes
+Ulrich diesen samt seinem Erbsanteil in die HÑnde des Erzbischofs als
+Hochstiftsministerialen unter gewissen Bedingungen, worauf der Vater
+dem Erzbischof als Erbsanteil des Sohnes das Schlo· Neu-Glaneck (St.
+Veit, KÑrnten) mit EinkÅnften im Umkreis und genannten GÅtern
+Åbergibt.
+Der Erzbischof lîst von Otaker die verpfÑndeten Zehnten in Neudorf
+zurÅck und belehnt ihn mit dem Zehnthof in Seibersdorf (b. St. Veit
+a. Vogau), von dessen 9 Mark EinkÅnfte Otaker aber wieder 2,5 Mark
+zurÅckgibt.
+
+REG$Erzbischof Albert von Salzburg verpfÑndet dem Burggrafen Otakar von Graz und
+dessen Sohn Ulrich fÅr 5 Mark die Zehnten in Nuwintorf.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/643
+F$GZM 1/24/X/X
+G$Otakar/Burggraf/Graz/Graz//Stmk/
+G$B?  Ulrich/X/Graz/Graz//Stmk/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Zehnten/Neudorf/Neudorf/Nuwintorf/Stmk,b.Wildon welches?/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$et insuper beneficio quinque marcarum pro quibus decimationes nostras in
+Nuwintorf eis inpignerauimus (!) donec eas beneficio quinque marcarum annuatim
+valente redimeremus
+
+REG$Erzbischof Albert von Salzburg verpfÑndet dem Burggrafen Otakar von Graz und
+dessen Sohn Ulrich fÅr 5 Mark die Zehnten in Nuwintorf, bis er dieses
+um ein Beneficium, welches jÑhrlich 5 Mark abwirft, zurÅckkaufen wÅrde.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/643
+F$GZM 1/24/X/X
+G$Albert/Erzbischof/Salzburg/Salzburg//S/
+E$Otakar/Burggraf/Graz/Graz//Stmk/
+E$Ulrich/X/Graz/Graz//Stmk/
+H$Pfand_Auslîsung/Zehnten/Neudorf/Neudorf/Nuwintorf/Stmk,b.Wildon welches?/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et insuper beneficio quinque marcarum pro quibus decimationes nostras in
+Nuwintorf eis inpigneravimus (!) donec eas beneficio quinque marcarum
+annuatim valente redimeremus
+
+REG$EinkÅnfte aus den GÅtern des Erbteiles von Ulrich, des Sohnes Otakars, des
+Burggrafen von Graz.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/644
+F$GZM 1/24/X/X
+G$X/X/X/X///
+E$Ulrich/X/Graz/Graz//Stmk/
+H$EinkÅnfte/Immobilien/Graslupp/Graslupp/Grazluppe/Stmk,w.Neumarkt/
+W$X/X/
+O$6,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Grazluppe et in vicinia eius quod reddit marcas VI et dimidiam
+
+REG$EinkÅnfte aus den GÅtern des Erbteiles von Ulrich, des Sohnes Otakars, des
+Burggrafen von Graz.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/644
+F$GZM 1/24/X/X
+G$X/X/X/X///
+E$Ulrich/X/Graz/Graz//Stmk/
+H$EinkÅnfte/Immobilien/Neumarkt Strimitzen/Strimitzen/Scremesniz/Stmk-Ober,b.Neumarkt/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Scremesniz reditus marcarum IIII
+
+REG$EinkÅnfte aus den GÅtern des Erbteiles von Ulrich, des Sohnes Otakars, des
+Burggrafen von Graz.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/644
+F$GZM 1/24/X/X
+G$X/X/X/X///
+E$Ulrich/X/Graz/Graz//Stmk/
+H$EinkÅnfte/Immobilien/Oberwîlz/Wîlz/Welize/Stmk,nw.Judenburg/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Welize reditus marcarum VIII
+
+REG$Burggraf Otakar von Graz Åbergibt dem Erzbischof Albert von Salzburg
+4 Mark EinkÅnfte von seinen GÅtern, da ihn dieser mit einem
+Zehnthof, der EinkÅnfte von 9 Mark erbringt, belehnt hat.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/644
+F$GZM 1/24/X/X
+G$Albert/Erzbischof/Salzburg/Salzburg//S/
+E$Otakar/Burggraf/Graz/Graz//Stmk/
+H$Belehnung/EinkÅnfte_Zehnthof/unbestimmt/unbestimmt//
+W$X/X/
+O$9/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ipse autem Otakarus quia curtis decimalis qua evm inbeneficiavimus,
+ad reditus novem marcarum computata est
+
+REG$Burggraf Otakar von Graz Åbergibt dem Erzbischof Albert von Salzburg
+EinkÅnfte von seinen GÅtern in der Hîhe von 2,5 Mark.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/645
+F$GZM 1/24/X/X
+G$Otakar/Burggraf/Graz/Graz//Stmk/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Belehnung/EinkÅnfte/MariaHof n.Neumarkt/Maria Hof n.Neumarkt/St.Maria Grazluppe_Kirche/Stmk,St.Marein nÑchst Neumarkt?/
+W$X/X/
+O$2,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$duas et dimidiam apud ecclesiam sanct\c{e} Mari\c{e} Grazluppe
+B$Maria Hof, inkorporierte Kirche u. Priorat des Klosters St. Lambrecht.
+
+REG$Burggraf Otakar von Graz Åbergibt dem Erzbischof Albert von Salzburg
+EinkÅnfte von seinen GÅtern in der Hîhe von einer halben Mark.
+F$StUB 1/701/688ff/690
+F$SUB 2/0475/642ff/645
+F$GZM 1/24/X/X
+G$Otakar/Burggraf/Graz/Graz//Stmk/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Belehnung/EinkÅnfte/MariaHof n.Neumarkt/Maria Hof n.Neumarkt/St.Maria Grazluppe_Kirche/Stmk,St.Marein nÑchst Neumarkt?/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et in vicinia eius dimidiam
+BStUB 2, 245 durchsehen im Hinblick auf BabUB 2, 268. - StUBerg
+
+
+
+DOK$StUB2_0022/1197.3.19/1197.3.19/1197 MÑrz 19/anno dominic\c{e} incarnacionis M. C.
+LXXXX.VII., anno regis Heinrici VIII., imperii VI., anno pontificatus nostri XXVIIII.,
+indictione X., feria IIII., XIIII. kalendas Aprilis, luna XXVII./X/X//
+S$X/X/X
+V$X/X/X
+K$Erzbischof Albert III. von Salzburg bestÑtigt dem Stifte Seckau
+alle von seinen VorgÑngern und Adalramm von Waldeck und von ihm selbst
+gemachten, namentlich angefÅhrten Schenkungen, verzichtet auf den
+strittigen Zehnt von einer Hufe in Kobenz, bestÑtigt einen zu Zeiten
+Konrads I. mit seinem Sachwalter Swigger abgeschlossenen Tausch, sowie
+Mauterleichterungen, spricht den Klosterfrieden aus und bestÑtigt
+endlich Schenkungen Herzog Otakars von Steiermark.
+
+REG$Strafbestimmung fÅr den Fall der widerrechtlichen Entfremdung des
+Patronatsrechtes Åber die Marienkapelle zu Feistritz [Seckau] seitens
+des Erzbischofs von Salzburg oder des Propstes von Feistritz.
+F$StUB 2/022/44ff/46
+F$SUB 2/0515/694ff/695
+G$X/X/X/X///
+E$X/Altar_St. Rupert/Salzburg/Salzburg//S/
+H$Auslîsung e.Stiftung/Immobilien_Kapelle/Seckau/Seckau,St.Maria//Stmk/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/nummus/aureus/Z
+Q$proximus eius consanguinevs dato super altare sancti Ruperti nummo aureo
+eundem locum emancipet
+
+REG$Adalram von Waldeck schenkt dem Erzbischof von Salzburg drei
+ville mit Weinstîcken und
+Zehnten, aber mit Ausnahme von einigen Bauern, die er gegen einen
+Zins von fÅnf Pfennigen freigelassen hat.
+F$StUB 2/022/44ff/47
+F$SUB 2/0515/694ff/697
+G$X/X/X/X///
+E$Adalram/Edler/Waldegg i.Piestingtal/Waldegg i.Piestingtal/Waldeck/Nô,î.Gutenstein/
+H$Zahlungsverpflichtung/Zensus/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+Q$ruricolis \dots exceptis quibusdam ad censvum quinque denariorum laxatis
+
+REG$Erzbischof Albert von Salzburg bestÑtigt die von Erzbischof Eberhard
+festgesetzte Abgabe
+beim Weinverkauf, nÑmlich drei Pferdelasten Wein oder 4 Schilling
+Friesacher MÅnze.
+F$StUB 2/022/44ff/50
+F$SUB 2/0515/694ff/699
+G$X/Stift/Seckau/Seckau//Stmk,nî.b.Knittelfeld/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Abgabe/Weinverkauf/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+A$4 Schill. Friesacher MÅnze/3 Pferdelasten Wein
+Q$alias novas exactiones ab eis in vendendo vino vel aliud quid emendo
+exigat, preter tres saumas vini siue quatuor solidos Friesacensis
+monet\c{e},
+sicut in temporibus archiepiscopi Eberhardi cognoscitur institutum fuisse
+
+DOK$StUB2_0055/1202.10.1/1202.12.31/1202 (nach September)/anno dominice
+incarnationis M.CC.II., indictione VI./X/X//
+S$X/X/X
+V$X/X/X
+K$Abt RÅdiger von Admont schlie·t mit einigen BÅrgern von Friesach, welchen sein
+Vorfahr, Abt Johann, bereits einige Gruben am "Cezzen"-Berge bei HÅttenberg in
+KÑrnten Åberlassen hat, einen Vertrag betreffs Bearbeitung derselben.
+
+REG$FÅr das Recht, Grubenanteile zu verkaufen oder zu vererben,
+versprechen die Friesacher BÅrger
+Abt RÅdiger von Admont 20 Mark zu zahlen von jedem 3. Pfennig, den sie nach
+Abzug der Arbeiterlîhne gewinnen.
+F$StUB 2/055/93f/94
+F$MDC 4I/1538/11/11
+G$X/BÅrger/Friesach/Friesach//K/
+E$RÅdiger/Abt/Admont/Admont//Stmk/
+H$Ablîse/VerÑu·erungs- u.Erbrecht/Zosen n.HÅttenberg/Zosen?? n.HÅttenberg/Cezzen-Berg b.HÅttenberg/K/
+W$X/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut iure hereditario amicis suis tribuere possent, XX marcas
+promiserunt
+solvendas de tercio denario quem lucrari possent ultra pecuniam
+operariis solvendam
+B$wahrscheinlich Friesacher Pfennige
+
+REG$FÅr den Verzicht auf das Recht, da· die Grubenaufseher jederzeit in die Grube
+einfahren kînnen, versprechen die Friesacher BÅrger
+Abt RÅdiger von Admont 4 Mark von ihrem Drittel am Gewinn nach
+Abzug der Arbeiterlîhne zu zahlen.
+F$StUB 2/055/93f/94
+G$X/BÅrger/Friesach/Friesach//K/
+E$RÅdiger/Abt/Admont/Admont//Stmk/
+H$Ablîse/Montanwesen_Bergwerk/Zosen n.HÅttenberg/Zosen?? n.HÅttenberg/Cezzen-Berg b.HÅttenberg/K/
+W$X/X/
+O$4/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$IIII marcas predicto modo persolvendas compromiserunt
+
+DOK$StUB2_0091/1208.12.11/1208.12.11/1208 Dezember 11/anno dominic\c{e} incarnationis
+M.CC.VIII.,
+indictione XI., III. idvs Decembris, presidente Romane ecclesie
+Innocentio III.,
+anno potificatus (!) eius XI., anno regni Ottonis Saxonis Romanorum regis
+I./Salzburg/Salzburg//S/
+S$X/Salzburg/EIID
+V$X/Salzburg/EIIA
+K$Erzbischof Eberhard II. von Salzburg bestÑtigt dem Stift Seckau
+auf Bitte des Propstes Gerold alle Rechte und Privilegien,
+insbesondere die Schenkungen seitens vieler genannter Ministerialen.
+
+REG$Strafbestimmung fÅr den Fall der widerrechtlichen Entfremdung des
+Patronatsrechtes Åber die Marienkapelle zu Feistritz [Seckau] seitens
+des Erzbischofs von Salzburg oder des Propstes von Feistritz.
+F$StUB 2/091/139ff/141
+F$SUB 3/0622/117ff/118
+G$X/X/X/X//
+E$X/Altar_St. Rupert/Salzburg/Salzburg//S/
+H$Auslîsung e.Stiftung/Immobilien_Kapelle/Seckau/Seckau,St.Maria//Stmk/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./aureus/Z
+Q$proximus fundatoris consanguinevs dato super altare sancti Rudberti
+Salzburge aureo denario eundem locum emancipet
+
+REG$Erzbischof Albert von Salzburg bestÑtigt die von Erzbischof Eberhard
+festgesetzte Abgabe
+beim Weinverkauf, nÑmlich drei Pferdelasten Wein oder 4 Schilling
+Friesacher MÅnze.
+F$StUB 2/091/139ff/142
+F$SUB 3/0622/117ff/120
+G$X/Stift/Seckau/Seckau//Stmk/
+E$Albert/Erzbischof/Salzburg/Salzburg//S/
+H$Abgabe/Weinverkauf/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/Z
+A$4 Schill. Friesacher MÅnze/3 Pferdelasten Wein
+Q$alias novas exactiones ab eis in vendendo vino vel aliud quid emendo
+exigat, preter tres saumas vini sive quatuor solidos Friesacensis
+monet\c{e},
+sicut in temporibus archiepiscopi Eberhardi cognoscitur institutum fuisse
+
+DOK$StUB2_0094/1209.1.1/1209.4.30/(1209 vor Mai 1)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Erzdiakon Dietmar der mittleren Steiermark entscheidet als vom Erzbischof
+Eberhard II.
+von Salzburg eingesetzter Richter den Streit zwischen dem Stift Seckau und dem Pfarrer
+Eberhard von Fohnsdorf betreffs der Kirche zu Schînberg bei
+Knittelfeld.
+
+REG$Pfarrer Eberhard von Fohnsdorf wird Stillschweigen im Streit mit dem
+Stift Seckau um die
+Kirche zu Schînberg bei Knittelfeld unter der Bedingung auferlegt, da· das Stift
+Seckau an die Kirche von Fohnsdorf 5 Mark Friesacher Pfennig bezahlt.
+F$StUB 2/094/146f/147
+G$X/Stift/Seckau/Seckau//Stmk/
+E$X/Kirche/Fohnsdorf/Fohnsdorf?//Stmk/
+H$Verzicht/Immobilien_Kirche/Schînberg_b.Knittelfeld/Schînberg_b.Knittelfeld//Stmk/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$eo pacto quod ecclesia Secc\v{o}ensis ad utilitatem ecclesie
+Vanstorf quinque marcas denariorum Frisacensium exhiberet
+
+DOK$StUB2_0095/1209.5.1/1209.5.1/1209 (Mai 1)/anno ab incarnatione domini M.CC.VIIII.,
+kalendis Maii/Friesach/Friesach//K/
+S$X/X/X
+V$X/Salzburg/EIIE
+K$Erzbischof Eberhard II. von Salzburg beurkundet und bestÑtigt den
+Schiedsspruch des
+Erzdiakons Dietmar von Mittelsteier im Streit zwischen dem Stift Seckau
+und dem Pfarrer Eberhard von Fohnsdorf betreffs der Kirche zu
+Schînberg, wonach der Pfarrer gegen 5 Mark Friesacher MÅnze auf die
+Kirche Schînberg (bei Knittelfeld) zugunsten des Stiftes verzichtet.
+
+REG$Pfarrer Eberhard von Fohnsdorf verzichtet fÅr 5 Mark Friesacher
+Pfennig, die von Propst Gerold von Seckau an ihn zu zahlen sind, auf
+AnsprÅche, die die Kirche zu Schînberg bei Knittelfeld betreffen.
+F$StUB 2/095/147f/148
+F$SUB 3/0633/133f/134
+G$Gerold/Propst/Seckau/Seckau//Stmk/
+E$Eberhard/Pfarrer/Fohnsdorf/Fohnsdorf//Stmk,n.Judenburg/
+H$Verzicht/Immobilien_Kirche/Schînberg_b.Knittelfeld/Schînberg_b.Knittelfeld//Stmk/
+W$Friesach/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dictus plebanus a prefato preposito quinque marcis Friesacensis monet\c{e}
+semel receptis et non amplius exigendis
+
+DOK$StUB2_0098/1209.9.9/1209.9.9/1209 September 9/anno dominice incarnacionis
+M.CC.VIIII., indictione duodecima, quinta idus Septembris/Marburg/Marburg//Unterstmk.
+S$X/X/X
+V$X/X/Heinrich
+K$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark stellt die in
+Verfall gekommene und einem anderen Orden zugeteilte Karthause Gairach wieder
+her, dotiert sie und setzt die Grenzen ihres Besitzes fest.
+
+REG$Herzog Leopold VI. von ôsterreich und Steiermark (III.) dotiert die
+Karthause Gairach mit jÑhrlich 5 Mark Friesacher fÅr Fische vom Marburger Markt
+F$StUB 2/098/152ff/153
+F$GZM 1/47/X/X
+F$Kos 5/154/85f/86
+F$BabUB 1/169/226f/227
+G$Leopold VI. (III.)/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo?
+E$X/Karthause/Gairach/Gairach//Stmk.-Unt. sî.Cilli/
+H$Schenkung/Bezugsrecht_Lebensmittel_Fische/Marburg/Marburg_Markt//Unterstmk/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$preterea annuatim constituimus ei in foro Marhpurh quinque marcas Frisacenses
+pro piscibus
+B$Kos 5, Nr. 154, S. 86 erwÑhnt "pet mark bre\v{s}kih penezov".
+
+DOK$StUB2_0105/1210.7.30/1210.7.30/1210 Juli 30/ab incarnatione domini anno M.CC.X., III.
+kalendas Augusti/St.Stephani.d.Lobming/St. Stephan i. d. Lobming//Stmk,nw.Leoben b.Kraubat/
+S$X/X/X
+V$X/X/X
+K$Ulrich von Stubenberg genehmigt, da· zwei seiner Hîrigen, die GebrÅder Otakar
+und Heinrich, genannt "M\o{u}sezehel", dem Kloster Rein eine Hube zu
+Pachern
+bei Graz l. U. gegen zwei Huben zu Leuzendorf ebendort r. U., und 5 Mark 40
+Friesacher Pfennig zu Tausche geben.
+
+REG$Die GebrÅder Otakar und Heinrich, genannt "M\o{u}sezehel" erhalten
+von Abt
+Engelbert von Rein zwei Huben zu Leuzendorf bei Graz und 5 Mark 40
+Friesacher Pfennig gegen eine Hube zu Pachern.
+F$StUB 2/105/161/161
+G$Engelbert/Abt/Rein/Rein//Stmk/
+E$Otakar/Hîriger/X/X//
+E$Heinrich/Hîriger/X/X//
+H$Tausch/Immobilien_Hube/Pachern b.Graz l.U./Pachern b.Graz l.U.//
+W$Friesach/X
+O$5/marca/X
+Z$X/X/X
+M$40/den./numeratus/A
+Q$additis etiam numerate pecunie quinque marchis et XL denariis
+Frisacensibus
+
+DOK$StUB2_0133/1215.3.21/1215.3.21/1215 MÑrz 21/dominice incarnationis MCCXV
+anno, XII. kalendis Aprilis/Wien/Wien//ô/
+S$X/X/X
+V$X/X/X
+K$Herrand von Wildon widmet dem Johanniter-Ordenshaus zu FÅrstenfeld
+Hof und Liegenschaften zu "Haselowe" bei FÅrstenfeld und genehmigt
+auch die Widmung von GÅtern, welche Konrad von Lembuch von ihm zu
+Lehen hatte.
+
+REG$Herrand von Wildon widmet dem Johanniter-Ordenshaus zu FÅrstenfeld
+GÅter, welche Konrad von Lembuch von ihm zu Lehen hatte und auf die
+er gegen 60 Mark Friesacher, die er vom Orden erhalten hatte,
+verzichtete.
+F$StUB 2/133/205f/205
+G$X/Orden_Johanniter/FÅrstenfeld/FÅrstenfeld//Stmk-NO/
+E$Konrad/Genannter/Lembach b.Riegersburg/Lembach b.Riegersburg/Lewenboch/Stmk/
+H$Ablîse/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$60/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$susceptis a fratribus LX marcis Fresacensium
+
+DOK$StUB2_0149/1217.6.0/1217.6.0/1217 ca. Juni/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Wulfing von Stubenberg verpfÑndet sein Lehen zu Arzberg bei Passail,
+das er vom Kloster Gî· besitzt, wegen seiner Fahrt ins heilige Land
+demselben Stift fÅr 45 Mark Pfennig und Silber, gegen RÅckzahlung nach
+der Heimkehr, und fÅr sein Seelenheil im Falle des
+Todes auf der Reise.
+
+REG$Wulfing von Stubenberg verpfÑndet sein Lehen zu Arzberg bei Passail,
+das er vom Kloster Gî· besitzt, wegen seiner Fahrt ins heilige Land
+demselben Stift fÅr 45 Mark Pfennig und Silber.
+F$StUB 2/149/221f/221
+G$X/Kloster/Gî·/Gî·//Stmk,b.Leoben/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk,nî.Graz b.Feistritz/
+H$PfandgeschÑft/Lehen/Arzberg b.Passail/Arzberg b.Passail//Stmk/
+W$Friesach/X/
+O$20/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$1 Pfund Friesacher Pf. (200)/1 Mark Feinsilber
+A$1 Mark Feinsilber/1 Pfund Friesacher Pf. (200)
+Q$pro XX marcis denariorum Frisacensium qui vulgariter dicuntur
+fumfvierdunger, et pro XV marcis denariorum qui dicuntur phuntere, et
+pro X marcis puri argenti taliter obligavi
+B$Reisegeld fÅr Kreuzzug;
+Luschin: öber den MÅnzfu· der Friesacher:
+"In den Jahren 1207 und 1217 werden Friesacher Pfennige erwÑhnt, von
+welchen 5 Vierting einer Zahlmark von 160 Pfennigen, mithin 200 StÅck
+eine Mark Feinsilber ergaben, sie hie·en darum Fumfvierdunger.
+1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Wulfing von Stubenberg verpfÑndet sein Lehen zu Arzberg bei Passail,
+das er vom Kloster Gî· besitzt, wegen seiner Fahrt ins heilige Land
+demselben Stift fÅr 45 Mark Pfennig und Silber.
+F$StUB 2/149/221f/221
+G$X/Kloster/Gî·/Gî·//Stmk,b.Leoben/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk,nî.Graz b.Feistritz/
+H$PfandgeschÑft/Lehen/Arzberg b.Passail/Arzberg b.Passail//Stmk/
+W$Friesach/X/
+O$15/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$1 Pfund Friesacher Pf. (240)/1 Mark Feinsilber
+A$1 Mark Feinsilber/1 Pfund Friesacher Pf. (240)
+Q$pro XX marcis denariorum Frisacensium qui vulgariter dicuntur
+fumfvierdunger, et pro XV marcis denariorum qui dicuntur phuntere, et
+pro X marcis puri argenti taliter obligavi
+B$Reisegeld fÅr Kreuzzug;
+Luschin: öber den MÅnzfu· der Friesacher:
+"In den Jahren 1207 und 1217 werden Friesacher Pfennige erwÑhnt, von
+welchen 5 Vierting einer Zahlmark von 160 Pfennigen, mithin 200 StÅck
+eine Mark Feinsilber ergaben, sie hie·en darum Fumfvierdunger.
+1217 werden "phuntere,
+pfÅndige Pfennige erwÑhnt, von welchen also 240 StÅck auf die feine
+Mark gingen. Dieser Fu· wurde lÑngere Zeit eingehalten, denn noch in
+Urkunden von 1242 und 1244 wurde das Pfund Friesacher mit einer
+Aufzahl von 5 Pfennigen (245 Pfennig) fÅr eine Mark Feinsilber
+gerechnet."
+
+REG$Wulfing von Stubenberg verpfÑndet sein Lehen zu Arzberg bei Passail,
+das er vom Kloster Gî· besitzt, wegen seiner Fahrt ins heilige Land
+demselben Stift fÅr 45 Mark Pfennig und Silber.
+F$StUB 2/149/221f/221
+G$X/Kloster/Gî·/Gî·//Stmk,b.Leoben/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk,nî.Graz b.Feistritz/
+H$PfandgeschÑft/Lehen/Arzberg b.Passail/Arzberg b.Passail//Stmk/
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/purum/A
+Q$pro XX marcis denariorum Frisacensium qui vulgariter dicuntur
+fumfvierdunger, et pro XV marcis denariorum qui dicuntur phuntere, et
+pro X marcis puri argenti taliter obligavi
+B$Reisegeld fÅr Kreuzzug
+
+DOK$StUB2_0193*a/1222.1.9/1222.1.9/1222 JÑnner 9/anno incarnationis dominice
+MCCXXII, quinto idus Januarii/Graz/Graz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark vergleicht
+die Klîster St. Lambrecht und Rein in ihrem Streit wegen eines Waldes
+bei Sîding im Kainachtal.
+
+REG$Im Streit um einen Wald bei Sîding im Kainachtal zahlt das Kloster
+Rein dem Kloster St. Lambrecht 90 Mark Friesacher Pfennig als Ablîse.
+F$StUB 2/193*a/278ff/279
+F$BabUB 2/241/69f/69
+G$X/Abt;Konvent/Rein/Rein//Stmk/
+E$X/Abt;Konvent/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+H$Ablîse/Immobilien_Wald/Sîding i.Kainachtal/Sîding i.Kainachtal//Stmk/
+W$Friesach/X/
+O$90/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$abbati scilicet sancti Lamberti et fratribus nonaginta marchas
+denariorum Frisacensium \dots optulerunt
+
+DOK$StUB2_0193*b/1222.1.9/1222.1.9/1222 JÑnner 9/nach gots gep\o{u}rd tausent
+czwayhundert, darnach in dem czway vnd czwainczigistem iare, an dem
+dritten tag nach dem Prehentag/Graz/Graz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark vergleicht
+die Klîster St. Lambrecht und Rein in ihrem Streit wegen eines Waldes
+bei Sîding im Kainachtal.
+
+REG$Im Streit um einen Wald bei Sîding im Kainachtal zahlt das Kloster
+Rein dem Kloster St. Lambrecht 90 Mark Friesacher Pfennig als Ablîse.
+F$StUB 2/193*b/278ff/279
+G$X/Abt;Konvent/Rein/Rein//Stmk/
+E$X/Abt;Konvent/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+H$Ablîse/Immobilien_Wald/Sîding i.Kainachtal/Sîding i.Kainachtal//Stmk/
+W$Friesach/X/
+O$90/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$neunczig markch Friesacher phenning dem andern tail, dem abt vnd dem
+conuent zu sand Lamprecht
+
+DOK$StUB2_0194*a/1222.1.9/1222.1.9/1222 JÑnner 9/anno incarnationis dominice
+MCCXXII, quinto idus Januarii/Graz/Graz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Abt Waltfrid und das Kloster St. Lambrecht vergleichen sich mit dem
+Kloster Rein in ihren gegenseitigen AnsprÅchen wegen eines Waldes
+bei Sîding im Kainachtal.
+
+REG$Im Streit um einen Wald bei Sîding im Kainachtal zahlt das Kloster
+Rein dem Kloster St. Lambrecht 90 Mark Friesacher Pfennig als Ablîse.
+F$StUB 2/194*a/281ff/282
+G$Engelbert/Abt/Rein/Rein//Stmk/
+G$X/Konvent/Rein/Rein//Stmk/
+E$Waltfrid/Abt/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+E$X/Konvent/St.Lambrecht/St.Lambrecht//Stmk,b.Murau/
+H$Ablîse/Immobilien_Wald/Sîding i.Kainachtal/Sîding i.Kainachtal//Stmk/
+W$Friesach/X/
+O$90/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$offerentes nobis nonaginta marchas denariorum Frisacensium
+
+DOK$StUB2_0194*b/1222.1.9/1222.1.9/1222 JÑnner 9/nach gottes gep\o{u}rd tawsent
+czwayhundert, darnach in dem czway vnd czwainczigistem jare, am
+dritten tag nach dem Prehentag/Graz/Graz//Stmk/
+S$X/X/X
+V$X/X/X
+K$Abt Waltfrid und das Kloster St. Lambrecht vergleichen sich mit dem
+Kloster Rein in ihren gegenseitigen AnsprÅchen wegen eines Waldes
+bei Sîding im Kainachtal.
+
+REG$Im Streit um einen Wald bei Sîding im Kainachtal zahlt das Kloster
+Rein dem Kloster St. Lambrecht 90 Mark Friesacher Pfennig als Ablîse.
+F$StUB 2/194*b/281ff/283
+G$Engelbert/Abt/Rein/Rein//Stmk/
+G$X/Konvent/Rein/Rein//Stmk/
+E$Waltfrid/Abt/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+E$X/Konvent/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+H$Ablîse/Immobilien_Wald/Sîding i.Kainachtal/Sîding i.Kainachtal//Stmk/
+W$Friesach/X/
+O$90/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$habent vns geben neunczigk markch Fr\e{i}sacher phenning
+
+DOK$StUB2_0214/1224.4.22/1224.4.22/1224 April 22/anno ab incarnatione Christi
+MCCXXIIII, decimo kalendas Maii, indiccione duodecima/Graz/Graz//Stmk/
+S$X/X/X
+V$Leopold/Herzog/Leopold
+K$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark beurkundet
+seine Vermittlung in dem Streit zwischen Wulfing von Stubenberg und
+dem Spital am Semmering wegen der GÅter zu Neusidel, Hart und
+"Forinz".
+
+REG$Wulfing von Stubenberg erhÑlt von Seifried, dem Verweser des Spitals
+auf dem Semmering, 92 Mark Friesacher Pfennig fÅr die öbergabe von drei Lehenshîfen.
+F$StUB 2/214/305ff/306
+F$BabUB 2/249/77f/78
+G$Seifried/Verweser_Spital/Semmering/Semmering//zw.MÅrzzuschlag u.Gloggnitz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Ablîse/Immobilien_Lehenshîfe/Parschlug/Parschlug,Pogier/Podegor/Stmk,MÅrztal b.Kapfenberg/
+H$Ablîse/Immobilien_Lehenshîfe/Allerheiligeni.MÅrztal/Jaezniz,neben Flu·//Stmk,Bach b.Allerheiligen,NÑhe Kindberg/
+W$Friesach/X/
+O$92/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$de eisdem curiis infeudatis nonaginta duas marcas denariorum
+Frisacensium persolverit
+
+REG$Wulfing von Stubenberg erhÑlt von Seifried, dem Verweser des Spitals
+auf dem Semmering, 80 Mark fÅr die DurchfÅhrung des Ausgleiches zwischen
+den beiden.
+F$StUB 2/214/305ff/306
+F$BabUB 2/249/77f/78
+G$Seifried/Verweser_Spital/Semmering/Semmering//zw.MÅrzzuschlag u.Gloggnitz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Ablîse/Vogteirechte/unbestimmt/unbestimmt//
+W$X/X/
+O$80/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$memoratus S. procurator dicti hospitalis sepe dicto Wl. octoginta
+marcas denariorum liberaliter donavit
+
+DOK$StUB2_0217/1224.5.10/1224.5.10/(1224?) Mai 10/sexto idus Maii, anno dominice
+incarnationis millesimo ducentesimo septuagesimo
+(durchgestrichen und darÅbergeschrieben quadragesimo) quarto,
+indictione duodecima/Gleink/Gleink//Oô,n.Steyr/
+S$X/X/X
+V$X/X/X
+K$Abt Pilgrim von Gleink beurkundet die Beilegung des Streites seines
+Klosters mit dem herzogl. KÅchenmeister Hiltegrim um eine Hube zu
+Greischern bei Stainach im Ennstal.
+
+REG$Abt Pilgrim von Gleink Åbergibt dem Sohn des KÅchenmeisters
+Hiltegrim, Hiltegrim von Steinae, eine Hube zu Greischern bei Stainach
+im Ennstal zum jÑhrlichen Zins von 20 Friesacher Pfennig.
+F$StUB 2/217/309f/309
+F$OôUB 2/447/647f/647
+G$Hiltegrim/Genannter/Stainach/Stainach//Stmk,b.Liezen/
+E$Pilgrim/Abt/Gleink/Gleink//Oô,n.Steyr/
+H$Zahlungsverpflichtung/Zins/Stainach i.Ennstal/Greischern b.Stainach i.Ennstal//Stmk,Ennstal/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$ad censum viginti denariorum Fris(acen)sium in die sancti Georii
+annuatim persolvendorum
+B$Laut OôUB 2, S. 648 kann das Jahr 1244 nicht gelten, "Indiktion, des
+Herzogs Regierungszeit und die mit der Urkunde Actum Ens 1223
+gleichlautenden Namen der Conventualen weisen auf das Jahr 1224."
+
+REG$Abt Pilgrim von Gleink Åbergibt dem Sohn des KÅchenmeisters
+Hiltegrim, Hiltegrim von Steinae, eine Hube zu Greischern bei Stainach
+im Ennstal zum Zins von jÑhrlich 20 Friesacher Pfennig. Au·erdem
+sollen, wenn zwischen Pfingsten und dem festgesetzten Zahlungstermin
+nichts bezahlt wird, weitere 20 Friesacher Pfennig bezahlt werden.
+F$StUB 2/217/309f/309
+F$OôUB 2/447/647f/647
+G$Hiltegrim/Genannter/Stainach/Stainach//Stmk,b.Liezen/
+E$Pilgrim/Abt/Gleink/Gleink//Oô,n.Steyr/
+H$Zahlungsverpflichtung/Zins/Stainach i.Ennstal/Greischern b.Stainach i.Ennstal//Stmk,Ennstal/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/Z
+Q$ad censum viginti denariorum Fris(acen)sium \dots totidem denarii
+superaddantur
+B$Laut OôUB 2, S. 648 kann das Jahr 1244 nicht gelten, "Indiktion, des
+Herzogs Regierungszeit und die mit der Urkunde Actum Ens 1223
+gleichlautenden Namen der Conventualen weisen auf das Jahr 1224."
+"Friesacher" aus dem Zusammenhang eindeutig erschlie·bar.
+
+DOK$StUB2_0245/1227.11.7/1227.11.7/[1227?] November 7/anno (ab incarnatione) domini
+MCCXXVII, indictione XV., VII. idus Novembris/Marburg/Marburg//Stmk-Unter/
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark bestÑtigt
+dem Kloster Gairach dessen Besitz an Rechten und GÅtern, umschreibt
+deren Grenzen und Åbernimmt die Vogtei desselben.
+
+REG$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark kauft vom
+Bischof und Kapitel von Gurk Besitzungen um 100 Mark Silber Friesacher
+Gewichts.
+F$StUB 2/245/335ff/335
+F$GZM 1/60/X/X
+F$BabUB 2/267/97ff/99
+F$Kos 5/462/230ff/230
+G$Leopold VI. (III.)/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo?
+E$X/Bischof;Kapitel/Gurk/Gurk//K/
+H$BestÑtigung/Rechte;Immobilien;Grenzen/Gairach/Gairach//Stmk-Unter/
+W$Friesach/pondus
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$emimus centum marcis argenti ponderis Frisacensis
+
+REG$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark bestÑtigt
+dem Kloster Gairach ein Bezugsrecht fÅr Fische auf dem Marburger Markt
+in der Hîhe von 5 Mark Friesacher WÑhrung.
+F$StUB 2/245/335ff/336
+F$GZM 1/60/X/X
+F$BabUB 2/267/97ff/100
+F$Kos 5/462/230ff/231
+G$Leopold VI. (III.)/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo?
+E$X/Kloster/Gairach/Gairach//Stmk-Unter/
+H$BestÑtigung_Schenkung/Lebensmittel_Fische/Marburg/Marburg_Markt//Stmk_Unter
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$confirmantes eis quinque marcas Frisacenses pro piscibus quas in
+foro nostro Marchburch percipiant in festo sancti Michahelis perpetuo
+persolvendas
+B$Die 5 Mark Friesacher werden auch in BabUB 2, Nr.268 (FÑlschung, entstanden
+zwischen 1227 und 1264 oder bald nach 1456. Als Vorurkunde diente BabUB 2, Nr.
+267, datiert 1209 September 9.) erwÑhnt, einem Privileg Herzog Leopolds fÅr
+Gairach. StUBerg Nr. 39 (Vorurkunde ist die oben aufgenommene Urkunde sowie StUB
+2, Nr. 98) ZHVSt. 34,1 Nr. 2. ???so aufnehmen???
+
+REG$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark schenkt
+dem Kloster Gairach von neuem ein Bezugsrecht fÅr Salz auf dem Markt
+TÅffer in der Hîhe von 5 Mark Pfennig.
+F$StUB 2/245/335ff/337
+F$GZM 1/60/X/X
+F$BabUB 2/267/97ff/100
+F$Kos 5/462/230ff/232
+G$Leopold VI. (III.)/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo?
+E$X/Kloster/Gairach/Gairach//Stmk-Unter/
+H$Schenkung/Lebensmittel_Salz/TÅffer/TÅffer//b.Cilli/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$donantes eis de novo in foro nostro Tyver quinque marcas denariorum
+pro sale
+B$Die 5 Mark Friesacher werden auch in BabUB 2, Nr.268 (FÑlschung, entstanden
+zwischen 1227 und 1264 oder bald nach 1456. Als Vorurkunde diente BabUB 2, Nr.
+267, datiert 1209 September 9.) erwÑhnt, einem Privileg Herzog Leopolds fÅr
+Gairach. StUBerg Nr. 39 (Vorurkunde ist die oben aufgenommene Urkunde sowie StUB
+2, Nr. 98) ZHVSt. 34,1 Nr. 2. ???so aufnehmen???
+
+DOK$GZM1_061/1227.11.7/1227.11.7/1227 November [7.?]/anno ab incarnatione domini
+MCCXXVII, indictione XV., VII. idus Novembris/Marburg/Marburg//Stmk/
+S$X/X/X
+V$X/X/X
+K$Herzog Leopold VI. von ôsterreich und (III.) Steiermark stellt die Kartause
+Gairach her, setzt die Grenzen ihres Besitzes und die Dienstleistungen an das
+Kloster fest, gewÑhrt freies Schenkungsrecht der landesfÅrstlichen
+Ministerialen, landesfÅrstliche Vogtei und Schutz der Mînche vor Ruhestîrungen.
+
+REG$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark bestÑtigt
+dem Kloster Gairach ein Bezugsrecht fÅr Fische auf dem Marburger Markt
+in der Hîhe von 5 Mark Friesacher WÑhrung.
+F$BabUB 2/268/101ff/102
+F$GZM 1/61/X/X
+G$Leopold VI. (III.)/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo?
+E$X/Kloster/Gairach/Gairach//Stmk-Unter/
+H$BestÑtigung_Schenkung/Lebensmittel_Fische/Marburg/Marburg_Markt//Stmk-Unter/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$annuatim constituimus ei in foro Marhberch quinque marcas Frisacenses pro
+piscibus
+B$FÑlschung
+
+REG$Herzog Leopold (VI.) von ôsterreich und (III.) Steiermark schenkt
+dem Kloster Gairach von neuem ein Bezugsrecht fÅr Salz auf dem Markt
+TÅffer in der Hîhe von 5 Mark Pfennig.
+F$BabUB 2/268/101ff/102
+F$GZM 1/61/X/X
+G$Leopold VI. (III.)/Herzog/ôsterrStmk/ôsterreich+Steiermark//wo?/
+E$X/Kloster/Gairach/Gairach//Stmk-Unter/
+H$Schenkung/Lebensmittel_Salz/TÅffer/TÅffer//b.Cilli/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$constituimus et ei annuatim in offitio de Tyuer quinque marcas
+denariorum pro sale in festo beati Iohannis baptiste sine dilatione persolvendas
+B$FÑlschung
+
+DOK$StUB2_0285/1231.9.18/1231.9.18/1231 September 18/anno gratie MCCXXXI, XIIII.
+kalendas Octobris/Rietz/Rietz//Stmk-Unter/
+S$X/X/X
+V$X/X/X
+K$Patriarch Berthold von Aquileia weist dem Kloster Oberburg die
+GÅter Leonhards und Johannes von Wollog zu, welche in demselben einen
+Raub mit Einbruch verÅbt hatten.
+
+REG$Patriarch Berthold von Aquileia weist dem Kloster Oberburg die
+GÅter Leonhards und Johannes von Wollog, welche in dasselbe
+eingebrochen sind, gegen Zahlung von 12 Mark Friesacher zu.
+F$StUB 2/285/382f/382
+G$X/Kloster/Oberburg/Oberburg//Stmk-Unter,b.Cilli/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-SÅd
+H$öbergabe/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$12/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ad restauranda hec bona XII marcas Frisacensium solvere promisit
+
+REG$Die beiden Schwestern Leonhards und Johannes von Wollog verpfÑnden ihren Teil
+an den GÅtern fÅr 9,5 Mark dem Abt von Oberburg fÅr den durch ihre BrÅder
+zugefÅgten Schaden.
+F$StUB 2/285/382f/383
+G$Albert/Abt/Oberburg/Oberburg//Stmk-Unter/
+E$NN/X/Wollog/Wollog//w.Cilli/
+H$PfandgeschÑft/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$9,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$confesse sunt dicte femine pro novem marcis et dimidia abbati dicte
+ecclesie pro dampno eidem illato \dots obligasse
+
+DOK$StUB2_0288/1231.12.3/1231.12.3/1231 Dezember 3/anno domini millesimo ducentesimo
+tricesimo primo, indictione quinta \dots III. nonas
+Decembris/Althofen/Althofen//K,s.Friesach/
+S$Heinrich/X/Heinrich
+V$Heinrich/X/Heinrich
+K$Erzbischof Eberhard II. von Salzburg beurkundet den neuerlichen
+Verzicht Reinberts von Mureck und seines Sohnes auf die Zehnten des
+Stiftes Admont zu Gamner und Obdach, die ihnen schon vom Erzbischof
+und von Herzog Leopold VI. von ôsterreich abgesprochen worden waren (StUB 2
+Nr. 123) und deren sie sich wieder neu bemÑchtigt hatten.
+
+REG$Reinbert von Mureck und sein Sohn verzichten gegen 150 Mark
+Friesacher auf die Zehnten des Klosters Admont zu Gamner und Obdach,
+die ihnen schon von Erzbischof Eberhard II. von Salzburg und Herzog
+Leopold VI. von ôsterreich abgesprochen worden waren und deren sie
+sich wieder neu bemÑchtigt hatten.
+F$StUB 2/288/385ff/386
+F$SUB 3/0868/411ff/411
+G$X/Kloster/Admont/Admont//Stmk/
+E$Reinbert/Genannter/Mureck/Mureck//Stmk,a.Mur/
+H$Verzicht/Zehnten/Obdach/Obdach//sî.Judenburg/
+H$Verzicht/Zehnten/St.Leonhard1/Gamnar//Ggd.s.Obdach u.das oberste Lavanttal/
+W$Friesach/X/
+O$150/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$renunciaret omnino receptis a monasterio memorato centum
+quinquaginta marcis denariorum Frisacensium
+
+DOK$StUB2_0291/1232.6.9/1232.6.9/1232 Juni 9/V. idus Junii, in die dedicationis
+monasterii, indictione V./St.Lambrecht/St. Lambrecht//Stmk/
+S$X/X/X
+V$X/Salzburg/Heinrich
+K$Erzbischof Eberhard II. von Salzburg beurkundet den von einem
+Schiedsgericht getroffenen Ausgleich zwischen dem Stift Admont und
+dem
+Ritter Otakar von Grazwin (bei Judenburg?), wonach der letztere gegen
+25 Mark Friesacher Pfennige von seinen AnsprÅchen auf die Zehnten zu
+Gamner (bei Obdach, Steiermark) absteht.
+
+REG$Ritter Otakar von Grazwin (bei Judenburg?) verzichtet gegen 25
+Mark Friesacher Pfennige , die der Abt von Stift Admont zahlt,
+auf seine AnsprÅche auf die Zehnten zu Gamner (bei
+Obdach, Steiermark).
+F$StUB 2/291/390f/390
+F$SUB 3/0883/427f/428
+G$X/Abt/Admont/Admont//Stmk/
+E$Otakar/Ritter/uStmk_Ober ?/Judenburg?,b.,Grazwin//Stmk i.d.Gegend v.Judenburg?
+H$Verzicht/Zehnten/St.Leonhard1/Gamner b.Obdach//Ggd.s.Obdach u.das oberste
+Lavanttal/
+W$Friesach/X/
+O$25/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$abbas idem XXV marcas denariorum Frisacensium militi daret predicto
+
+DOK$StUB2_0293/1232.8.13/1232.8.13/1232 August 13/anno domini MCCXXXII, indict. V.,
+\dots idus augusti/Krieglach/Krieglach//Stmk/
+S$Heinrich/X/Heinrich
+V$Heinrich/X/Heinrich
+K$Erzbischof Eberhard II. von Salzburg bestÑtigt die von einem
+Schiedsgericht gefÑllte Entscheidung des Streites zwischen Otakar,
+Pfarrer von St. Lorenzen im MÅrztal (nî. Bruck, Steiermark), und dem
+Spitalmeister Seifried von Semmering wegen der Kirchen St. Johann (zu
+MÅrzhofen), St. Georg (am Kalvarienberg) und der neuen Kirche zu
+Kindberg, deren Grenzen und Zehnten.
+
+REG$Pfarrer Otakar von St. Lorenzen im MÅrztal und der Spitalmeister Seifried von
+Semmering kompromittieren auf ein Schiedsgericht bei Strafe von
+30 Mark Friesacher Pfennigen.
+F$StUB 2/293/392ff/392
+F$SUB 3/0885/432ff/432
+G$Otakar/Pfarrer/St.Lorenzeni.MÅrztal/St. Lorenzen i.MÅrztal//Stmk/
+G$Seifried/Verweser_Spital/Semmering/Semmering//zw. MÅrzzuschlag u.Gloggnitz/
+E$Otto/Propst/Seckau/Seckau//Stmk,s.Feistritz/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$30/marca/X
+Z$X/X/X
+M$X/den./legalis/Z
+Q$sub pena triginta marcarum denariorum Frisacensium legalium
+B$Von den EmpfÑngern wurde nur der erste Schiedsmann berÅcksichtigt.
+
+REG$Im Streit zwischen Pfarrer Otakar von St. Lorenzen im MÅrztal und
+dem Spitalmeister Seifried von Semmering werden letzterem
+EinkÅnfte von 2 Mark zugesprochen.
+F$StUB 2/293/392ff/393
+F$SUB 3/0885/432ff/433
+G$X/X/X/X//
+E$Seifried/Verweser_Spital/Semmering/Semmering//zw.MÅrzzuschlag u.Gloggnitz/
+H$EinkÅnfte/Immobilien/Mitterdorf/Mitterdorf//Stmk,sw.MÅrzzuschlag/
+H$EinkÅnfte/Immobilien/Wartberg/Wartberg/Wartperc/Stmk,i.MÅrztal/
+H$EinkÅnfte/Immobilien/Krieglach/Gondbauer/Chant/Stmk,Gehîft nî.Krieglach/
+H$EinkÅnfte/Immobilien/Krieglach/Krieglach//Stmk/
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus quoque duarum marcarum
+
+REG$Im Streit zwischen Pfarrer Otakar von St. Lorenzen im MÅrztal und
+dem Spitalmeister Seifried von Semmering werden letzterem
+EinkÅnfte von 2 Mark zugesprochen, nÑmlich in Mitterdorf eine Hube,
+die jÑhrlich eine Mark zahlt, in Wartperc und in Chant je eine Hube,
+die jÑhrlich eine halbe Mark zahlen, und in Krieglach ein Lehenshof,
+der 12 Friesacher Pfennig zahlt.
+F$StUB 2/293/392ff/393
+F$SUB 3/0885/432ff/433
+G$X/X/X/X//
+E$Seifried/Verweser_Spital/Semmering/Semmering//zw. MÅrzzuschlag u.Gloggnitz/
+H$EinkÅnfte/Immobilien/Mitterdorf/Mitterdorf//Stmk,sw.MÅrzzuschlag/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Mitterdorf mansum unum solventem annuatim marcarum unam
+
+REG$Im Streit zwischen Pfarrer Otakar von St. Lorenzen im MÅrztal und
+dem Spitalmeister Seifried von Semmering werden letzterem
+EinkÅnfte von 2 Mark zugesprochen, nÑmlich in Mitterdorf eine Hube,
+die jÑhrlich eine Mark zahlt, in Wartperc und in Chant je eine Hube,
+die jÑhrlich eine halbe Mark zahlen, und in Krieglach ein Lehenshof,
+der 12 Friesacher Pfennig zahlt.
+F$StUB 2/293/392ff/393
+F$SUB 3/0885/432ff/433
+G$X/X/X/X//
+E$Siefried/Verweser_Spital/Semmering/Semmering//zw.MÅrzzuschlag u. Gloggnitz/
+H$EinkÅnfte/Immobilien/Wartberg/Wartberg/Wartperc/Stmk,i.MÅrztal/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in villa Wartperc mansum \dots solventem marcam mediam
+
+REG$Im Streit zwischen Pfarrer Otakar von St. Lorenzen im MÅrztal und
+dem Spitalmeister Seifried von Semmering werden letzterem
+EinkÅnfte von 2 Mark zugesprochen, nÑmlich in Mitterdorf eine Hube,
+die jÑhrlich eine Mark zahlt, in Wartperc und in Chant je eine Hube,
+die jÑhrlich eine halbe Mark zahlen, und in Krieglach ein Lehenshof,
+der 12 Friesacher Pfennig zahlt.
+F$StUB 2/293/392ff/393
+F$SUB 3/0885/432ff/433
+G$X/X/X/X//
+E$Seifried/Verweser_Spital/Semmering/Semmering//zw. MÅrzzuschlag u. Gloggnitz/
+H$EinkÅnfte/Immobilien/Krieglach/Gondbauer/Chant/Stmk,Gehîft nî.Krieglach/
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et curtem in Chant mansum \dots [!] solventem marcam mediam
+
+REG$Im Streit zwischen Pfarrer Otakar von St. Lorenzen im MÅrztal und
+dem Spitalmeister Seifried von Semmering werden letzterem
+EinkÅnfte von 2 Mark zugesprochen, nÑmlich in Mitterdorf eine Hube,
+die jÑhrlich eine Mark zahlt, in Wartperc und in Chant je eine Hube,
+die jÑhrlich eine halbe Mark zahlen, und in Krieglach ein Lehenshof,
+der 12 Friesacher Pfennig zahlt.
+F$StUB 2/293/392ff/393
+F$SUB 3/0885/432ff/433
+G$X/X/X/X//
+E$Seifried/Verweser_Spital/Semmering/Semmering//zw.MÅrzzuschlag u.Gloggnitz/
+H$EinkÅnfte/Immobilien_Hof/Krieglach/Krieglach//Stmk/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$curtem in Chrugelah solventem duodecim denarios Frisacenses
+
+DOK$StUB2_294/1232.8.18/1232.8.18/1232 August 18/XV. kalendas Septembris, anno domini
+MCCXXXII. indictione IIII./Dobl/Dobl/Dobel/Stmk,sw.Graz/
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld.
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld, wonach der Orden dem
+Pfarrer von Riegersburg EinkÅnfte in der Hîhe von 5 Mark Grazer MÅnze fÅr
+die Kirche geben soll.
+F$StUB 2/294/394f/394
+G$X?/Johanniter-Orden/Jerusalem/Jerusalem//PalÑstina/
+G$X?/X/X/X// ?
+E$X/Pfarrer/Riegersburg/Riegersburg//Stmk,î.Graz/
+H$EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$Graz/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$darent \dots V marcarum reditus Grecensis monete
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld, wonach der Orden dem
+Pfarrer von Riegersburg EinkÅnfte in der Hîhe von 5 Mark Grazer MÅnze fÅr
+die Kirche geben soll, die er aber nicht bereitstellen kann.
+F$StUB 2/294/394f/394
+G$X?/Johanniter-Orden/Jerusalem/Jerusalem//PalÑstina/
+G$X?/X/X/X// ?
+E$X?/Pfarrer/Riegersburg/Riegersburg//Stmk,î.Graz/
+E$X?/X/X/X// ?
+H$EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$V marcarum redditus tunc non habuerunt paratos
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld, wonach der Orden dem
+Pfarrer von Riegersburg EinkÅnfte in der Hîhe von 5 Mark Grazer MÅnze fÅr
+die Kirche geben soll, die er aber nicht bereitstellen kann, weshalb er ihm
+fÅr ein Pfand EinkÅnfte von 5 Mark in in Waltersdorf gibt.
+F$StUB 2/294/394f/394
+G$X?/Johanniter-Orden/Jerusalem/Jerusalem//PalÑstina         EinkÅnfte von 5
+Mark, sonst G ist E
+E$X/Pfarrer/Riegersburg/Riegersburg//Stmk,î.Graz/
+H$PfandgeschÑft/EinkÅnfte/Waltersdorf/Waltersdorf//Stmk,sw.Hartberg/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ostenderunt plebano pro pignore V marcarum redditus in Walthersdorf
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld, wonach der Orden dem
+Pfarrer von Riegersburg EinkÅnfte in der Hîhe von 5 Mark Grazer MÅnze fÅr
+die Kirche geben soll. In Breitenfeld hatten sie EinkÅnfte von mehr als 5 Mark
+jÑhrlich.
+F$StUB 2/294/394f/394
+G$X/X/Breitenfeld/Breitenfeld//Stmk,b.Riegersburg/
+E$X?/Johanniter-Orden/Jerusalem/Jerusalem//PalÑstina/
+E$X?/X/X/X// ?
+H$EinkÅnfte/Geldsumme/Breitenfeld/Breitenfeld//Stmk,b.Riegersburg/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$que villa plus quam V marcas annuatim solvebat
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld, wonach der Orden dem
+Pfarrer von Riegersburg EinkÅnfte in der Hîhe von 5 Mark Grazer MÅnze fÅr
+die Kirche geben soll. In Breitenfeld hatten sie EinkÅnfte von mehr als 5 Mark
+jÑhrlich. Dort Åbergeben sie dem Pfarrer EinkÅnfte von 5 Mark.
+F$StUB 2/294/394f/394
+G$X?/Johanniter-Orden/Jerusalem/Jerusalem//PalÑstina/
+G$X?/X/X/X// ?
+E$X/Pfarrer/Riegersburg/Riegersburg//Stmk,î.Graz/
+H$öbergabe/EinkÅnfte/Breitenfeld/Breitenfeld//Stmk,b.Riegersburg/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$in qua villa V marcarum redditus plebano \dots tradiderunt.
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) Steiermark bestÑtigt den
+schiedsrichterlichen Ausgleich des Streites zwischen dem Johanniter-Orden und
+der Pfarre Riegersburg betreffs der Kirche zu FÅrstenfeld, wonach der Orden dem
+Pfarrer von Riegersburg EinkÅnfte in der Hîhe von 5 Mark Grazer MÅnze fÅr
+die Kirche geben soll. In Breitenfeld hatten sie EinkÅnfte von mehr als 5 Mark
+jÑhrlich. Dort Åbergeben sie dem Pfarrer EinkÅnfte von 5 Mark. Die restlichen
+EinkÅnfte kauft er um 45 Mark.
+F$StUB 2/294/394f/395
+G$Wulfing/Pfarrer/Riegersburg/Riegersburg//Stmk,î.Graz/
+E$X?/Johanniter-Orden/Jerusalem/Jerusalem//PalÑstina/
+E$X?/X/X/X// ?
+H$Kauf/EinkÅnfte/Breitenfeld/Breitenfeld//Stmk,b.Riegersburg/
+W$X/X/
+O$45/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$residuos redditus in Praitenveld emit pro XLV marcis a fratribus
+
+DOK$StUB2_0300/1233.4.25/1233.4.25/1233 April 25/anno domini millesimo CCXXXIII,
+indict. VI., datum ibidem, VII. kal. Maii/Salzburg/Salzburg//S/
+S$X/Salzburg/Heinrich
+V$X/Salzburg/Heinrich
+K$Erzbischof Eberhard II. von Salzburg vergleicht das Domkapitel und
+das Stift Admont wegen des dritten Teiles der Zehnten im Lungau in der
+Weise, da· das Domkapitel gegen 50 Mark Friesacher Pfennige von
+seinen AnsprÅchen absteht, wozu der Erzbischof eine GÅlt von 5 Mark
+zuschie·t.
+
+REG$Das Domkapitel verzichtet gegen 50 Mark Friesacher Pfennige auf
+den dritten Teil der Zehnten im Lungau gegenÅber dem Kloster Admont.
+F$StUB 2/300/401/401
+F$SUB 3/0895/445f/445
+G$X/Kloster/Admont/Admont//Stmk/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Ablîse/Zehntendrittel/Lungau/Lungau//S/
+W$Friesach/X/
+O$50/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit capitulo memorato marcas denariorum Frisacensium quinquaginta
+
+REG$Das Domkapitel verzichtet gegen 50 Mark Friesacher Pfennige auf
+den dritten Teil der Zehnten im Lungau gegenÅber dem Kloster Admont.
+Dazu gibt der Erzbischof eine GÅlt von 5 Mark.
+F$StUB 2/300/401/401
+F$SUB 3/0895/445f/445
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$nos quoque per nos eidem capitulo dedimus pro hoc ipso redditus
+quinque marcarum Frisacensium
+
+DOK$StUB2_0307/1233.0.0/1233.0.0/1233/anno domini MCCXXXIII., indictione quinta/X/X//
+S$X/X/X
+V$X/X/X
+K$Herzog Friedrich (II.) von ôsterreich und (I.) von Steiermark
+gestattet, da· seine Untertanen GÅter bis zu 10 Mark Friesacher
+jÑhrliche EinkÅnfte dem von Leutold von Wildon gegrÅndeten Kloster
+Stainz zuwenden dÅrfen.
+
+REG$Herzog Friedrich (II.) von ôsterreich und (I.) von Steiermark
+gestattet, da· seine Untertanen GÅter bis zu 10 Mark Friesacher
+jÑhrliche EinkÅnfte dem von Leutold von Wildon gegrÅndeten Kloster
+Stainz zuwenden dÅrfen.
+F$StUB 2/307/409f/410
+F$BabUB 2/309/147/147
+G$X/X/X/X//
+E$X/Kloster/Stainz/Stainz//Stmk,nw.Leibnitz/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$donare volunt ad redditus decem marcarum Frisacensis monete et infra
+
+DOK$StUB2_0325/1235.8.3/1235.8.3/1235 August 3/anno domini MCCXXXV, indictione
+VIII., data ibidem III. nonas Augusti/Salzburg/Salzburg//S/
+S$X/Salzburg/EIIO
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg wiederholt den Ausgleich
+zwischen dem Domkapitel und dem Stift Admont wegen des strittigen
+dritten Teiles der Zehnten in Lungau (StUB 2 Nr. 300) unter AufzÑhlung
+der vom Stift und vom Erzbischof ersatzweise dem Domkapitel
+ausgeworfenen 55 Mark EinkÅnfte.
+Propst Kuno, Dekan Heinrich und das Domkapitel beurkunden vorstehenden
+Vergleich.
+
+REG$Das Domkapitel verzichtet gegen 50 Mark Friesacher Pfennige auf
+den dritten Teil der Zehnten im Lungau gegenÅber dem Kloster Admont.
+F$StUB 2/325/428f/429
+F$SUB 3/0910b/460f/461
+G$X/Kloster/Admont/Admont//Stmk/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Ablîse/Zehntendrittel/Lungau/Lungau//S/
+W$Friesach/X/
+O$50/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit nobis marcas denariorum Frisacensium quinquaginta
+
+REG$Das Domkapitel verzichtet gegen 50 Mark Friesacher Pfennige auf
+den dritten Teil der Zehnten im Lungau gegenÅber dem Kloster Admont.
+Dazu gibt der Erzbischof eine GÅlt von 5 Mark.
+F$StUB 2/325/428f/429
+F$SUB 3/0910b/460f/461
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/St.3Margaretheni.Lungau/Baierdorf,OG St.Margarethen i.Lungau/Peirdorf/S/
+H$EinkÅnfte/Immobilien/Pichlern/Pichlern/Puhlaren/S,b.St.Margarethen i.Lungau/
+H$EinkÅnfte/Immobilien/Stranach_Mariapfarr/Stranach_Mariapfarr/Straenach/S,i.Lungau/
+H$EinkÅnfte/Immobilien/Mîrten n.Tamsweg/?Mîrten n.Tamsweg/Burda i.Lungau/S/
+H$EinkÅnfte/Immobilien/Mîrten/Reiner/Raevna/S,n.Tamsweg/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$archiepiscopus quoque per se ipsum nobis dedit et tradidit pro hoc
+ipso redditus quinque marcarum Frisacensium
+
+DOK$StUB2_0326/1235.8.3/1235.8.3/1235 August 3/anno domini MCCXXXV, indictione
+VIII., data ibidem, III. nonas Augusti/Salzburg/Salzburg//S/
+S$X/Salzburg/DB
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg wiederholt den Ausgleich
+zwischen dem Domkapitel und dem Stift Admont wegen des strittigen
+dritten Teiles der Zehnten in Lungau (StUB 2 Nr. 300) unter AufzÑhlung
+der vom Stift und vom Erzbischof ersatzweise dem Domkapitel
+ausgeworfenen 55 Mark EinkÅnfte.
+
+REG$Das Domkapitel verzichtet gegen 50 Mark Friesacher Pfennige auf
+den dritten Teil der Zehnten im Lungau gegenÅber dem Kloster Admont.
+F$StUB 2/326/429f/430
+F$SUB 3/0910a/459f/460
+G$X/Kloster/Admont/Admont//Stmk/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Ablîse/Zehntendrittel/Lungau/Lungau//S/
+W$Friesach/X/
+O$50/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit capitulo memorato marcas denariorum Frisacensium quinquaginta
+
+REG$Das Domkapitel verzichtet gegen 50 Mark Friesacher Pfennige auf
+den dritten Teil der Zehnten im Lungau gegenÅber dem Kloster Admont.
+Dazu gibt der Erzbischof eine GÅlt von 5 Mark.
+F$StUB 2/326/429f/430
+F$SUB 3/0910a/459f/460
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Immobilien/St.3Margaretheni.Lungau/Baierdorf,OG St.Margarethen i.Lungau/Peirdorf/S/
+H$EinkÅnfte/Immobilien/Pichlern/Pichlern/Puhlaren/S,b.St.Margarethen i.Lungau/
+H$EinkÅnfte/Immobilien/Stranach_Mariapfarr/Stranach_Mariapfarr/Straenach/S,i.Lungau/
+H$EinkÅnfte/Immobilien/Mîrten n.Tamsweg/?Mîrten n.Tamsweg/Burda i.Lungau/S/
+H$EinkÅnfte/Immobilien/Mîrten/Reiner/Raevna/S,n.Tamsweg/
+W$Friesach/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$nos quoque per nos eidem capitulo dedimus pro hoc ipso redditus
+quinque marcarum Frisacensium
+
+DOK$StUB2_0330/1241.0.0/1242.0.0/[1241 - 1242]/X/X/X//
+S$X/Admont/X
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg bekennt und bestÑtigt, da· MarkgrÑfin
+Sophie von Andechs, Witwe des Markgrafen Heinrich von Istrien, dem Stift
+Admont GÅter zu Mainhartsdorf (bei Oberwîlz) und
+bei Oberwîlz (Steiermark) gegen Zahlung einer jÑhrlichen Leibrente von
+15 Mark in Naturalien und Einhaltung gewisser Bedingungen geschenkt
+hat.
+
+REG$EinkÅnfte von GÅtern zu Mainhartsdorf (bei Oberwîlz) und bei
+Oberwîlz (Steiermark) in der Hîhe von 18 Mark Friesacher Geldes.
+F$StUB 2/330/435f/435
+F$SUB 3/0965/514f/514
+G$X/X/X/X//
+E$X/Kloster/Admont/Admont//Stmk/
+H$EinkÅnfte/Immobilien/Mainhartsdorf b.Oberwîlz/Mainhartsdorf b.Oberwîlz//Stmk/
+H$EinkÅnfte/Immobilien/Oberwîlz/Oberwîlz//Stmk,nw.Judenburg/
+W$Friesach/moneta/
+O$18/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$decem et octo marcarum reddituum monete Friesacensis \dots
+Admuntensi ecclesi\c{e} contulit
+B$In der Salzburger Kanzlei verfa·t und in Admont geschrieben. Die
+untere Grenze ist durch den Tod des Abtes Konrad gegeben, fÅr die
+obere war uns das Diktat ma·gebend (SUB 3 Nr. 965, S. 514).
+
+REG$EinkÅnfte von GÅtern zu Mainhartsdorf (bei Oberwîlz) und bei
+Oberwîlz (Steiermark) in der Hîhe von 18 Mark Friesacher Geldes, von welchen
+drei Mark die Frauenkammer zu beziehen habe.
+F$StUB 2/330/435f/436
+F$SUB 3/0965/514f/515
+G$X/X/X/X//
+E$X/Frauenkammer/Admont/Admont//Stmk/
+H$EinkÅnfte/Immobilien/Mainhartsdorf b.Oberwîlz/Mainhartsdorf b.Oberwîlz//Stmk/
+H$EinkÅnfte/Immobilien/Oberwîlz/Oberwîlz//Stmk,nw.Judenburg/
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de predictis autem prediis trium marcarum redditus camere contulit
+dominarum
+B$In der Salzburger Kanzlei verfa·t und in Admont geschrieben. Die
+untere Grenze ist durch den Tod des Abtes Konrad gegeben, fÅr die
+obere war uns das Diktat ma·gebend. (SUB 3 Nr. 965, S. 514)
+
+REG$EinkÅnfte von GÅtern zu Mainhartsdorf (bei Oberwîlz) und bei
+Oberwîlz (Steiermark) in der Hîhe von 18 Mark Friesacher Geldes, von welchen die
+Sakristei eine Mark zu beziehen habe.
+F$StUB 2/330/435f/436
+F$SUB 3/0965/514f/515
+G$X/X/X/X//
+E$X/Sakristei/Admont/Admont//Stmk/
+H$EinkÅnfte/Immobilien/Mainhartsdorf b.Oberwîlz/Mainhartsdorf b.Oberwîlz//Stmk/
+H$EinkÅnfte/Immobilien/Oberwîlz/Oberwîlz//Stmk,nw.Judenburg/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de predictis autem prediis \dots contulit \dots unam sacristi\c{e}
+B$In der Salzburger Kanzlei verfa·t und in Admont geschrieben. Die
+untere Grenze ist durch den Tod des Abtes Konrad gegeben, fÅr die
+obere war uns das Diktat ma·gebend (SUB 3 Nr. 965, S. 514). "Mark" aus dem
+Zusammenhang erschlossen.
+
+REG$EinkÅnfte von GÅtern zu Mainhartsdorf (bei Oberwîlz) und bei
+Oberwîlz (Steiermark) in der Hîhe von 18 Mark Friesacher Geldes, von welchen die
+Nonnen eine Mark (an die Hand) zu beziehen haben.
+F$StUB 2/330/435f/436
+F$SUB 3/0965/514f/515
+G$X/X/X/X//
+E$X/Nonnen/Admont/Admont//Stmk/
+H$EinkÅnfte/Immobilien/Mainhartsdorf b.Oberwîlz/Mainhartsdorf b.Oberwîlz//Stmk/
+H$EinkÅnfte/Immobilien/Oberwîlz/Oberwîlz//Stmk,nw.Judenburg/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de predictis autem prediis trium marcarum redditus camere contulit
+dominarum
+B$In der Salzburger Kanzlei verfa·t und in Admont geschrieben. Die
+untere Grenze ist durch den Tod des Abtes Konrad gegeben, fÅr die
+obere war uns das Diktat ma·gebend (SUB 3 Nr. 965, S. 514). "Mark" aus dem
+Zusammenhang erschlossen.
+
+DOK$StUB2_0373/1239.11.29/1239.11.29/1239 November 29/III. kalendas Decembris, anno
+domini MCCXXXVIIII, indictione XIII./Wien/Wien//ô/
+S$X/X/X
+V$X/X/X
+K$Hartnid von Ort erklÑrt versprochen zu haben, dem Bistum Seckau innerhalb
+gewisser Zeit alle - in der Pfarre St. Ruprecht a. d. Raab und zu
+Weiz - verursachten SchÑden zu ersetzen, und stellt ihm Ulrich von
+Liechtenstein als BÅrgen.
+
+REG$Hartnid von Ort stellt Ulrich von Liechentenstein als BÅrgen fÅr die
+Bezahlung aller dem Bistum Seckau in der Pfarre St. Ruprecht a. d.
+Raab und zu Weiz zugefÅgten SchÑden.
+F$StUB 2/373/484f/485
+G$Ulrich/Genannter/Liechtenstein/Liechtenstein//Stmk,b.Judenburg/
+E$X/Bischof/Seckau/Seckau//Stmk/
+H$BÅrgschaft/Zahlungsverpflichtung/Seckau/Seckau//Stmk/
+W$Friesach/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$dominus Vlricus de Liechtenstain pro me tenebitur in C marcis
+denariorum Frisacensium eidem domino pro quibus ipsum obligavi
+
+DOK$StUB2_0380/1240.6.25/1240.6.25/(1240) Juni 25/VII. kalendas Julii, indictione
+XIII./Griffen/Griffen//K,nî.Vîlkermarkt/
+S$X/X/X
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg verpfÑndet an Liutold von
+Stattegg (n.
+Graz) die Zehnthîfe zu Grafendorf (nî. Hartberg), Lîffelbach (sw.
+Hartberg) und Hartberg (nî. Graz) fÅr 50 Mark Silber.
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet an Liutold von
+Stattegg (n. Graz) die Zehnthîfe zu Grafendorf (nî. Hartberg),
+Lîffelbach (sw. Hartberg) und Hartberg (nî. Graz) fÅr 50 Mark Silber.
+F$StUB 2/380/492/492
+F$SUB 3/0960/509/509
+G$Liutold/Genannter/Stattegg/Stattegg//Stmk,n.Graz/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Immobilien_Zehnthîfe/Grafendorf_b.Hartberg/Grafendorf_b.Hartberg//Stmk,nî.Hartberg/
+H$PfandgeschÑft/Immobilien_Zehnthîfe/Lîffelbach/Lîffelbach//Stmk,sw.Hartberg/
+H$PfandgeschÑft/Immobilien_Zehnthîfe/Hartberg/Hartberg//Stmk,nî.Graz/
+W$Friesach/pondus
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$obligavimus pro quinquaginta marcis argenti ponderis Frisacensis
+
+DOK$StUB2_0405/1242.7.12/1242.7.12/1242 Juli 12/anno domini millesimo ducentesimo
+quadragesimo secundo, indictione quintadecima, quarto idus
+Julii/Dobl/Dobl/Dobl/Stmk,sw.Graz/
+S$X/X/X
+V$X/X/Ulrich von Kirchberg ?
+K$Herzog Friedrich (II.) von ôsterreich und (I.) von Steiermark widmet
+dem Paulus-Altar in der Kirche zu St. Peter ob Judenburg einen Schafstall
+im Orte daselbst und einen Neugereut zu "Strimizelee".
+
+REG$Zahlungsverpflichtung eines Schafstall zu St. Peter ob Judenburg in Form
+von KÑse im Wert von 10 Friesacher Schilling.
+F$StUB 2/405/518f/519
+F$BabUB 2/401/246f/247
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//ô/
+H$Zahlungsverpflichtung/Immobilien_Schafstall/St.Peter_ob Judenburg/St. Peter_ob Judenburg//Stmk/
+W$Friesach/X/
+O$X/X/X
+Z$10/sol./X
+M$X/den./X/Z
+Q$ovile \dots quod solvit caseos qui pro Frisacensium denariorum decem
+solidis estimantur
+
+REG$Zahlungsverpflichtung eines Neugereut zu "Strimizelee" in der Hîhe
+von 40 Friesacher Pfennig.
+F$StUB 2/405/518f/519
+F$BabUB 2/401/246f/247
+G$X/X/X/X//
+E$Friedrich/Herzog/ôsterrStmk/ôsterreich+Steiermark//ô/
+H$Zahlungsverpflichtung/Immobilien_Neugereut/St.Peter_ob Judenburg/Strimizelee//Stmk, b.St.Peter o.Judenburg/
+W$Friesach/moneta/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$quoddam novale supra Strimizelee quod solvit eiusdem monete
+annis singulis denarios quadraginta
+B$"Friesach" aus dem Zusammenhang erschlossen (eiusdem monete).
+
+DOK$StUB2_0408/1242.10.4/1242.10.4/1242 Oktober 4/anno domini MCCXLII, IIII. nonas
+Octobris, indictionis prime/Lind/Lind//Stmk,b.Knittelfeld/
+S$X/X/X
+V$X/X/X
+K$Bischof Heinrich von Seckau verspricht in seinem Streit mit dem
+Stift Seckau um die Pfarrgrenzen von Fohnsdorf und Kobenz sich nach
+dem Ausspruch eines genannten Schiedsgerichtes zu richten.
+
+REG$Bischof Heinrich von Seckau verspricht in seinem Streit mit dem
+Stift Seckau um die Pfarrgrenzen von Fohnsdorf und Kobenz sich nach
+dem Ausspruch eines genannten Schiedsgerichtes zu richten, wobei eine
+Strafe von 50 Mark Friesacher Pfennig fÅr das Zuwiderhandeln
+festgelegt wird.
+F$StUB 2/408/521/521
+G$Heinrich/Bischof/Seckau/Seckau//Stmk/
+E$X/Stift/Seckau/Seckau//Stmk/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$50/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena marcarum quinquaginta denariorum Frisacicorum
+
+DOK$StUB2_0449/1245.4.4/1245.4.4/1245 April 4/anno domini MCCXLV, pridie nonas
+Aprilis/Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X
+K$Wulfing von Leibnitz verkauft dem Domkapitel zu Salzburg sein
+mÅtterliches Erbgut
+Erbersdorf (bei Studenzen, Steiermark), d. sind 10 dem Erzbistum
+lehnbare Huben, um 80 Mark Friesacher
+und gibt sein Eigentumsrecht Erzbischof Eberhard II. von Salzburg auf.
+
+REG$Wulfing von Leibnitz verkauft dem Domkapitel zu Salzburg sein
+mÅtterliches
+Erbgut Erbersdorf (bei Studenzen, Steiermark) um 80 Mark Friesacher.
+F$StUB 2/449/561/561
+F$SUB 3/1067a/614f/614
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Wulfing/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Kauf/Immobilien_Erbgut/Erbersdorf b.Studenzen/Erbersdorf b.Studenzen//Stmk/
+W$Friesach/pondus
+O$80/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro marcis octoginta Frisacensis ponderis libere vendidisse
+
+DOK$StUB2_0450/1245.4.4/1245.4.4/1245 April 4/anno domini MCCXLV, \dots pridie
+nonas Aprilis/Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X
+K$Wulfing von Leibnitz verkauft dem Domkapitel zu Salzburg sein
+mÅtterliches Erbgut
+Erbersdorf (bei Studenzen, Steiermark), d. sind 10 dem Erzbistum
+lehnbare Huben, um 80 Mark Friesacher
+und gibt sein Eigentumsrecht Erzbischof Eberhard II. von Salzburg auf.
+Erzbischof Eberhard II. gibt zu vorstehendem Kauf die nîtige
+Zustimmung und nimmt Wulfings Neffen, Hartnid von Pettau, als BÅrgen
+fÅr die GewÑhr mit nachtrÑglicher Beurkundung durch dessen Geschwister
+an.
+
+REG$Wulfing von Leibnitz verkauft dem Domkapitel zu Salzburg sein mÅtterliches
+Erbgut Erbersdorf (bei Studenzen, Steiermark) um 80 Mark Friesacher.
+F$StUB 2/450/562/562
+F$SUB 3/1067b/615/615
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Wulfing/Genannter/Leibnitz/Leibnitz//Stmk/
+H$Kauf/Immobilien_Erbgut/Erbersdorf b.Studenzen/Erbersdorf b.Studenzen//Stmk/
+W$Friesach/pondus
+O$80/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro marcis octoginta argenti ponderis Frisacensis tradidit
+
+REG$Hartnid von Pettau, Wulfings Neffe, Åbernimmt die BÅrgschaft fÅr die
+nachtrÑgliche Beurkundung des Verkaufs des Erbgutes Erbersdorf (bei
+Studenzen in der Steiermark) an das Domkapitel, die durch seine
+Geschwister erfolgen soll, in der Hîhe von 100 Mark Friesacher
+Gewichts.
+F$StUB 2/450/562/562
+F$SUB 3/1067b/615/615
+G$Hartnid/Genannter/Pettau/Pettau//Stmk,a.Drau/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$BÅrgschaft/Beurkundung/Erbersdorf b.Studenzen/Erbersdorf b.Studenzen//Stmk/
+W$Friesach/pondus
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$dominum Hertnidum de Betowe nepotem suum nobis pro centum marcis
+argenti Frisacensis ponderis obgavit (!)
+B$obgavit statt obligavit
+
+DOK$StUB2_0465/1245.0.0/1245.0.0/ca. 1245/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Hermann von Ortenburg u. a. genannte Schiedsrichter vergleichen
+zwischen Bischof Konrad I. von Freising und seinem Amtmann von St.
+Peter am Kammersberg einerseits, und Wulfing von Stubenberg
+andererseits in nicht nÑher bezeichneten Angelegenheiten.
+
+REG$Laut Schiedsspruch soll Wulfing von Stubenberg dem Amtmann Heinrich
+von St. Peter am Kammersberg 30 Mark Silber zahlen und dieser ihm den
+Schuldschein zurÅckgeben.
+F$StUB 2/465/577f/578
+F$FRA II 31/147/142f/142
+G$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+E$Heinrich/Amtmann/St.Peter_a.Kammersberg/St. Peter_a.Kammersberg//Stmk,w.Oberwîlz/
+H$Schuldentilgung/Schuldverpflichtung/unbestimmt/unbestimmt//
+W$X/X
+O$30/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$dominus Wlfingus de Stubenberch \dots relaxet Heinrico officiali de
+sancto Petro XXX marcas argenti
+
+REG$Laut Schiedsspruch soll Wulfing von Stubenberg den Amtmann Heinrich
+von St. Peter am Kammersberg nach der "relaxatio" von 30 Mark Silber letzteren
+deshalb nicht mehr bedrÑngen.
+F$StUB 2/465/577f/578
+F$FRA II 31/147/142f/143
+G$Heinrich/Amtmann/St.Peter_a.Kammersberg/St.Peter_a.Kammersberg//Stmk,w.Oberwîlz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Schuldentilgung/Verzicht auf AnsprÅche/unbestimmt/unbestimmt//
+W$X/X
+O$30/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$pro eisdem XXX marcis argenti memoratum H. officialem de cetero non
+impetunt
+
+REG$EinkÅnfte Wulfings von Stubenberg aus Immobilien zwischen Katsch und
+Judenburg in der Hîhe von 5 Mark Friesacher MÅnze.
+F$StUB 2/465/577f/578
+F$FRA II 31/147/142f/143
+G$X/X/X/X//
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$EinkÅnfte/Immobilien/uStmk_Ober/oberes Murtal//Stmk, zw.Katsch u.Judenburg/
+W$Friesach/moneta/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$W. prefato H. pro recompensacione suorum gravaminum et dampnorum
+conferat redditus V marcarum Frisacensis monete sitos infra Chez et
+Judenburch
+
+DOK$StUB3N_23/1219.0.0/1219.0.0/(1219)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst P. und das Kapitel von Vorau erklÑren, in ihrem Zehentstreit mit dem
+Stift Reichersberg, betreffend Gegenden an der Tauchen und Pinka an den
+Ausspruch genannter geistlicher WÅrdentrÑger und gegebenenfalls an den
+Schiedspruch des Erzbischofs von Salzburg sich halten zu wollen.
+
+REG$Propst P. und das Kapitel von Vorau erklÑren, in ihrem Zehentstreit mit dem
+Stift Reichersberg, betreffend Gegenden an der Tauchen und Pinka an den
+Ausspruch genannter geistlicher WÅrdentrÑger und gegebenenfalls an den
+Schiedspruch des Erzbischofs von Salzburg unter Strafe von 100 Pfund Wiener sich
+halten zu wollen.
+F$StUB 3N/23/28f/29
+G$X/Propst;Kapitel/Vorau/Vorau//Stmk,n.Hartberg/
+E$X/  ?Schiedsrichter/X/X//
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$Wien/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena centum librarum Wienensium
+
+DOK$StUB3N_26/1220.1.19/1220.1.19/1220 JÑnner 19/anno (domini) MCCXX. XIIII. kalendas
+Februarii, tempore pape Honorii, Friderici imperatoris/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Stifte Reichersberg und Vorau vergleichen sich in ihrem Zwist Åber
+Liegenschaften zwischen der gro·en und kleinen Tauchen auf das Urteil
+ungenannter Schiedsrichter dahin, da· der Propst und das Kapitel von Vorau dem
+Propst und Kapitel von Reichersberg seine AnsprÅche fÅr 15 Pfund Wiener MÅnze
+ablîse.
+
+REG$Die Stifte Reichersberg und Vorau vergleichen sich in ihrem Zwist Åber
+Liegenschaften zwischen der gro·en und kleinen Tauchen auf das Urteil
+ungenannter Schiedsrichter dahin, da· der Propst und das Kapitel von Vorau dem
+Propst und Kapitel von Reichersberg seine AnsprÅche fÅr 15 Pfund Wiener MÅnze
+ablîse.
+F$StUB 3N/26/30f/30
+G$X/Propst;Kapitel/Vorau/Vorau//Stmk,n.Hartberg/
+E$X/Propst;Kapitel/Reichersberg/Reichersberg//Oô/
+H$Verzicht/Immobilien/Tauchen/Tauchen//Stmk,Flu· b.Friedberg/
+W$Wien/moneta/
+O$15/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XV libras Australis monete persolverent
+
+DOK$StUB3N_31/1223.7.0/1223.7.0/1223 Juli/anno MCCXXIII. indicione XI. mense
+Iulio/Neunkirchen/Neunkirchen//Nô,s.W.Neustadt/
+S$X/X/X
+V$X/X/X
+K$Archidiakon Dietmar der Oberen Mark verkÅndet den Schiedspruch in dem Streit
+zwischen dem Vorstand Sifried des Spitals am Semmering und dem Pfarrer Konrad
+von Klamm wegen eines Weingartens auf dem Eichberg.
+
+REG$Archidiakon Dietmar der Oberen Mark verkÅndet, da· sich Vorstand Sifried des
+Spitals am Semmering und Pfarrer Konrad von Klamm in ihrem Streit um einen
+Weingarten auf dem Eichberg auf einen Schiedspruch unter Strafe von 10 Mark
+Silber geeinigt haben.
+F$StUB 3N/31/36f/36
+G$Sifried?/Spitalmeister?/Semmering/Semmering//zw.MÅrzzuschlag u.Gloggnitz/
+E$Konrad/Pfarrer/Klamm/Klamm//Nô,a.Semmering/
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena decem marcarum argenti
+
+REG$Archidiakon Dietmar der Oberen Mark verkÅndet den Schiedspruch in dem Streit
+zwischen dem Vorstand Sifried des Spitals am Semmering und dem Pfarrer Konrad
+von Klamm wegen eines Weingartens auf dem Eichberg, wonach Sifried dem Pfarrer 5
+Pfund Wiener bezahlte, damit davon Besitzungen zum Ausgleich fÅr den Weingarten
+gekauft werden.
+F$StUB 3N/31/36f/36
+G$Sifried/Spitalmeister?/Semmering/Semmering//zw.MÅrzzuschlag u.Gloggnitz/
+E$Konrad/Pfarrer/Klamm/Klamm//Nô,a.Semmering/
+H$Ablîse/Weingarten/Eichberg/Eichberg//Nô,a.Semring/
+W$Wien/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$persolvit Winnensium quinque libras
+
+DOK$StUB3N_0039/1230.1.0/1230.1.0/(1230 anfangs JÑnner)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Albert von Oberburg leiht Leopold II. von Gonowitz 100 Mark
+Agleier und Friesacher Pfennige, wofÅr derselbe seine Vogtei auf
+Klostergrund zu Pfand gibt.
+
+REG$Abt Albert von Oberburg leiht Leopold II. von Gonobitz 100 Mark
+Agleier und Friesacher Pfennige.
+F$StUB 3N/039/47f/47
+F$BabUB 2/272/105f/106
+G$Albert/Abt/Oberburg/Oberburg//Stmk-Unt
+E$Leopold II./Genannter/Gonobitz/Gonobitz//Stmk,b.Marburg/
+H$PfandgeschÑft/Vogtei/Oberburg/Oberburg//Stmk-Unter/
+W$Aquileia/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$1 Agleier Pf./13 Veroneser Pf.
+Q$accommodavit centum marcas denariorum Aquilegensium et Frisacensium,
+talium videlicet quorum quivis valet tredecim denarios Veronenses
+B$Meiller, Regg. d. Babenberger, 146, Nr. 245 mit Note 427: "Abt
+Adalbert stand dem Kl. Oberburg vom J. 1228-1231 vor. Die Einreihung
+der BestÑtigung dieses Vergleiches zum Anfang des J. 1230 beruht auf
+der Vermuthung, selbe kînnte auf der Hinreise des Herzogs Leopold nach
+Italien erfolgt sein. Ob Herog Leopold in den Jahren 1228 und 1229 in
+Steiermark gewesen, bin ich nicht im Stande anzugeben, nachdem ich
+weder in Urkunden noch Chroniken darÅber eine entsprechende Notiz
+aufgefunden habe, doch mîchte ich eher das Gegentheil vermuthen."
+
+REG$Abt Albert von Oberburg leiht Leopold II. von Gonobitz 100 Mark
+Agleier und Friesacher Pfennige.
+F$StUB 3N/039/47f/47
+F$BabUB 2/272/105f/106
+G$Albert/Abt/Oberburg/Oberburg//Stmk-Unter/
+E$Leopold II./Genannter/Gonobitz/Gonobitz//Stmk,b.Marburg/
+H$PfandgeschÑft/Vogtei/Oberburg/Oberburg//Stmk-Unter/
+W$Friesach/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$1 Friesacher Pf./13 Veroneser Pf.
+Q$accommodavit centum marcas denariorum Aquilegensium et Frisacensium,
+talium videlicet quorum quivis valet tredecim denarios Veronenses
+B$Meiller, Regg. d. Babenberger, 146, Nr. 245 mit Note 427: "Abt
+Adalbert stand dem Kl. Oberburg vom J. 1228-1231 vor. Die Einreihung
+der BestÑtigung dieses Vergleiches zum Anfang des J. 1230 beruht auf
+der Vermuthung, selbe kînnte auf der Hinreise des Herzogs Leopold nach
+Italien erfolgt sein. Ob Herog Leopold in den Jahren 1228 und 1229 in
+Steiermark gewesen, bin ich nicht im Stande anzugeben, nachdem ich
+weder in Urkunden noch Chroniken darÅber eine entsprechende Notiz
+aufgefunden habe, doch mîchte ich eher das Gegentheil vermuthen."
+
+REG$Abt Albert von Oberburg leiht Leopold II. von Gonobitz 100 Mark
+Agleier und Friesacher Pfennige.
+F$StUB 3N/039/47f/47
+F$BabUB 2/272/105f/106
+G$Albert/Abt/Oberburg/Oberburg//Stmk-Unter/
+E$Leopold II./Genannter/Gonobitz/Gonobitz//Stmk,b.Marburg/
+H$PfandgeschÑft/Vogtei/Oberburg/Oberburg//Stmk-Unter/
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/A
+A$13 Veroneser Pf./1 Agleier Pf.
+A$13 Veroneser Pf./1 Friesacher Pf.
+Q$accommodavit centum marcas denariorum Aquilegensium et Frisacensium,
+talium videlicet quorum quivis valet tredecim denarios Veronenses
+B$Meiller, Regg. d. Babenberger, 146, Nr. 245 mit Note 427: "Abt
+Adalbert stand dem Kl. Oberburg vom J. 1228-1231 vor. Die Einreihung
+der BestÑtigung dieses Vergleiches zum Anfang des J. 1230 beruht auf
+der Vermuthung, selbe kînnte auf der Hinreise des Herzogs Leopold nach
+Italien erfolgt sein. Ob Herog Leopold in den Jahren 1228 und 1229 in
+Steiermark gewesen, bin ich nicht im Stande anzugeben, nachdem ich
+weder in Urkunden noch Chroniken darÅber eine entsprechende Notiz
+aufgefunden habe, doch mîchte ich eher das Gegentheil vermuthen."
+
+REG$Abt Albert von Oberburg leiht Leopold II. von Gonobitz 100 Mark
+Agleier und Friesacher Pfennige, wofÅr derselbe seine Vogtei auf
+Klostergrund zu Pfand gibt.
+F$StUB 3N/039/47f/47
+F$BabUB 2/272/105f/106
+G$Albert/Abt/Oberburg/Oberburg//Stmk-Unter/
+E$Leopold II./Genannter/Gonobitz/Gonobitz//Stmk,b.Marburg/
+H$PfandgeschÑft/Vogtei/Oberburg/Oberburg//Stmk-Unter/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro hiis centum marcis dicto abbati et cenventui in Obernburch,
+scilicet advocatiam Obernburch \dots titulo pignoris obligavit
+B$Meiller, Regg. d. Babenberger, 146, Nr. 245 mit Note 427: "Abt
+Adalbert stand dem Kl. Oberburg vom J. 1228-1231 vor. Die Einreihung
+der BestÑtigung dieses Vergleiches zum Anfang des J. 1230 beruht auf
+der Vermuthung, selbe kînnte auf der Hinreise des Herzogs Leopold nach
+Italien erfolgt sein. Ob Herog Leopold in den Jahren 1228 und 1229 in
+Steiermark gewesen, bin ich nicht im Stande anzugeben, nachdem ich
+weder in Urkunden noch Chroniken darÅber eine entsprechende Notiz
+aufgefunden habe, doch mîchte ich eher das Gegentheil vermuthen."
+
+REG$Leopold II. von Gonobitz oder seine Erben kînnen von Abt Albert von
+Oberburg oder seinen Nachfolgern die verpfÑndete Vogtei auf dem
+Klostergrund um 100 Mark Pfennig zurÅckkaufen.
+F$StUB 3N/039/47f/48
+F$BabUB 2/272/105f/106
+G$Leopold II./Genannter/Gonobitz/Gonobitz//Stmk,b.Marburg/
+E$Albert/Abt/Oberburg/Oberburg//Stmk-Unter/
+H$Pfand_Auslîsung/Vogtei/Oberburg/Oberburg//Stmk-Unter/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/Z
+A$1 Pf./13 Veroneser Pf.
+Q$recepturus erit (!) centum marcas talium denariorum, videlicet
+quorum quivis \dots tredecim Veronensium valere noscatur
+B$Meiller, Regg. d. Babenberger, 146, Nr. 245 mit Note 427: "Abt
+Adalbert stand dem Kl. Oberburg vom J. 1228-1231 vor. Die Einreihung
+der BestÑtigung dieses Vergleiches zum Anfang des J. 1230 beruht auf
+der Vermuthung, selbe kînnte auf der Hinreise des Herzogs Leopold nach
+Italien erfolgt sein. Ob Herog Leopold in den Jahren 1228 und 1229 in
+Steiermark gewesen, bin ich nicht im Stande anzugeben, nachdem ich
+weder in Urkunden noch Chroniken darÅber eine entsprechende Notiz
+aufgefunden habe, doch mîchte ich eher das Gegentheil vermuthen."
+
+REG$Leopold II. von Gonobitz oder seine Erben kînnen von Abt Albert von
+Oberburg oder seinen Nachfolgern die verpfÑndete Vogtei auf dem
+Klostergrund um 100 Mark Pfennig zurÅckkaufen.
+F$StUB 3N/039/47f/48
+F$BabUB 2/272/105f/106
+G$Leopold II./Genannter/Gonobitz/Gonobitz//Stmk,b.Marburg/
+E$Albert/Abt/Oberburg/Oberburg//Stmk-Unter/
+H$Pfand_Auslîsung/Vogtei/Oberburg/Oberburg//Stmk-Unter/
+W$Verona/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/Z
+A$13 Veroneser Pf./1 Pf.
+Q$recepturus erit (!) centum marcas talium denariorum, videlicet
+quorum quivis \dots tredecim Veronensium valere noscatur
+B$Meiller, Regg. d. Babenberger, 146, Nr. 245 mit Note 427: "Abt
+Adalbert stand dem Kl. Oberburg vom J. 1228-1231 vor. Die Einreihung
+der BestÑtigung dieses Vergleiches zum Anfang des J. 1230 beruht auf
+der Vermuthung, selbe kînnte auf der Hinreise des Herzogs Leopold nach
+Italien erfolgt sein. Ob Herog Leopold in den Jahren 1228 und 1229 in
+Steiermark gewesen, bin ich nicht im Stande anzugeben, nachdem ich
+weder in Urkunden noch Chroniken darÅber eine entsprechende Notiz
+aufgefunden habe, doch mîchte ich eher das Gegentheil vermuthen."
+
+DOK$StUB3_0007/1246.12.15/1246.12.15/1246 Dezember 15/anno domini millesimo
+ducentesimo XL. sexto, XVIII. kalendis Jnuarii/Judenburg/Judenburg//Stmk/
+S$X/X/X
+V$X/X/X
+K$Dietmar von Liechtenstein verpfÑndet dem Domstift Seckau fÅr eine
+Geldschuld von  10 Mark Silber und 10 Mark Friesacher Pfennig aus dem
+Kauf eines Pferdes seinen Schwaighof zu Schînberg bei Knittelfeld.
+
+REG$Dietmar von Liechtenstein schuldet dem Domstift Seckau aus dem Kauf
+eines Pferdes 10 Mark Silber und 10 Mark Friesacher Pfennig.
+F$StUB 3/007/61/61
+G$Dietmar/Genannter/Liechtenstein/Liechtenstein//Stmk,nÑchst Judenburg/
+E$Nikolaus/Propst/Seckau/Seckau//Stmk/
+E$X/Kapitel/Seckau/Seckau//Stmk/
+H$Zahlungsverpflichtung/Schulden/Seckau/Seckau//Stmk/
+W$Wien/pondus
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$argenti decem marcas sub Wiennensium pondere me debere
+
+REG$Dietmar von Liechtenstein schuldet dem Domstift Seckau aus dem Kauf
+eines Pferdes 10 Mark Silber und 10 Mark Friesacher Pfennig.
+F$StUB 3/007/61/61
+G$Dietmar/Genannter/Liechtenstein/Liechtenstein//Stmk,nÑchst Judenburg/
+E$Nikolaus/Propst/Seckau/Seckau//Stmk/
+E$X/Kapitel/Seckau/Seckau//Stmk/
+H$Zahlungsverpflichtung/Schulden/Seckau/Seckau//Stmk/
+W$Friesach/X/
+O$10/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$insuper denariorum Frisaticorum ipsis debeo decem marcas
+
+DOK$StUB3_0039/1248.0.0/1248.0.0/1248/anno domini millesimo ducentesimo
+quadragesimo octavo, indictione/Grîbming/Grîbming//Stmk,î.Schladming/
+S$X/X/X
+V$X/X/X
+K$Konrad von Pergau verkauft dem Erzbischof von Salzburg seinen Anteil
+an der Burg Wolkenstein in Ennstal mit den dazugehîrigen Besitzungen
+und 30 Mark Einkommen und 40 Untertanen fÅr 500 Mark Silber.
+
+REG$EinkÅnfte eines Anteils an den Besitzungen der Burg Wolkenstein im
+Ennstal in der Hîhe von 30 Mark.
+F$StUB 3/039/95f/95
+G$X/X/X/X//
+E$Konrad/Genannter/Stmk_Ober Pergau/Pergau/Pergowaer/wo??
+H$EinkÅnfte/Immobilien/Wolkenstein_Ruine/Wolkenstein//Stmk,Ennstal b.Liezen/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$triginta marcarum redditibus
+B$StUB 3, Nr. 39, S. 96: "Die Indiktionszahl ist dem Schreiber in der
+Feder geblieben, daher der Jahresteil, in welchen die Urkunde zu
+setzen wÑre, nicht anzugeben ist. Nach ungefÑhrer Annahme aufgrund
+eines wahrscheinlichen Itinerars des Erzbischofes, der vermutlich dem
+Abschlu· der Verhandlung auch persînlich nicht fernstand, dÅrfte sie
+aber in den Sept. od. Okt. fallen.
+Vgl. MDC 4, 366, Nr. 2388. Martin,Regesten der Erzbischîfe,Nr.54, S.7 Herbst
+1248 und Konrad Pergauer?? Dopsch, S. 438 Philipp kaufte Anteile der Feste
+Wolkenstein bei Stainach und erwarb pfandweise die Burg Strechau und weitere
+Ennstaler Lehen von Wulfing von Trennstein.
+
+REG$Konrad von Pergau verkauft dem Erzbischof von Salzburg seinen Anteil
+an der Burg Wolkenstein in Ennstal mit den dazugehîrigen Besitzungen
+und 30 Mark Einkommen und 40 Untertanen fÅr 500 Mark Silber.
+F$StUB 3/039/95f/96
+G$X/Erzbischof/Salzburg/Salzburg//S/
+E$Konrad/Genannter/Stmk_Ober Pergau/Pergau/Pergowaer/wo??
+H$Kauf/Immobilien;Hîrige/Wolkenstein_Ruine/Wolkenstein//Stmk,Ennstal b.Liezen/
+W$Friesach/pondus
+O$500/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro quingentis marcis argenti Frisacensis ponderis tradidi ad
+emendum
+B$StUB 3, Nr. 39, S. 96: "Die Indiktionszahl ist dem Schreiber in der
+Feder geblieben, daher der Jahresteil, in welchen die Urkunde zu
+setzen wÑre, nicht anzugeben ist. Nach ungefÑhrer Annahme aufgrund
+eines wahrscheinlichen Itinerars des Erzbischofes, der vermutlich dem
+Abschlu· der Verhandlung auch persînlich nicht fernstand, dÅrfte sie
+aber in den Sept. od. Okt. fallen.
+
+REG$EinkÅnfte eines Anteils an den Besitzungen der Burg Wolkenstein im
+Ennstal in der Hîhe von 30 Mark.
+F$StUB 3/039/95f/96
+G$X/X/X/X//
+E$Konrad/Genannter/Stmk_Ober Pergau/Pergau/Pergowaer/wo??
+H$EinkÅnfte/Immobilien/Wolkenstein_Ruine/Wolkenstein//Stmk,Ennstal b.Liezen/
+W$X/X/
+O$30/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in prefatis triginta marcarum redditibus
+B$StUB 3, Nr. 39, S. 96: "Die Indiktionszahl ist dem Schreiber in der
+Feder geblieben, daher der Jahresteil, in welchen die Urkunde zu
+setzen wÑre, nicht anzugeben ist. Nach ungefÑhrer Annahme aufgrund
+eines wahrscheinlichen Itinerars des Erzbischofes, der vermutlich dem
+Abschlu· der Verhandlung auch persînlich nicht fernstand, dÅrfte sie
+aber in den Sept. od. Okt. fallen.
+
+REG$Konrad von Pergau verkauft dem Erzbischof von Salzburg seinen Anteil
+an der Burg Wolkenstein in Ennstal mit den dazugehîrigen Besitzungen
+und 30 Mark Einkommen und 40 Untertanen fÅr 500 Mark Silber.
+F$StUB 3/039/95f/96
+G$X/Erzbischof/Salzburg/Salzburg//S/
+E$Konrad/Genannter/Stmk_Ober Pergau/Pergau/Pergowaer/wo??
+H$Kauf/Immobilien;Hîrige/Wolkenstein_Ruine/Wolkenstein//Stmk,Ennstal b.Liezen/
+W$X/X/
+O$500/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$talis defectus a summa quingentarum marcarum debeat defalcari
+videlicet pro redditibus marce cuiuslibet argenti marce decem
+B$StUB 3, Nr. 39, S. 96: "Die Indiktionszahl ist dem Schreiber in der
+Feder geblieben, daher der Jahresteil, in welchen die Urkunde zu
+setzen wÑre, nicht anzugeben ist. Nach ungefÑhrer Annahme aufgrund
+eines wahrscheinlichen Itinerars des Erzbischofes, der vermutlich dem
+Abschlu· der Verhandlung auch persînlich nicht fernstand, dÅrfte sie
+aber in den Sept. od. Okt. fallen.
+
+REG$Konrad von Pergau verkauft dem Erzbischof von Salzburg seinen Anteil
+an der Burg Wolkenstein in Ennstal mit den dazugehîrigen Besitzungen
+und 30 Mark Einkommen und 40 Untertanen fÅr 500 Mark Silber.
+Falls die angegebenenen EinkÅnfte nicht erreicht werden sollten, wird
+vereinbart, da· 10 Mark fÅr jede Mark EinkÅnfte, die die Besitzungen
+weniger als angegeben abwerfen, vom Kaufpreis abgezogen werden sollen.
+F$StUB 3/039/95f/96
+G$X/Erzbischof/Salzburg/Salzburg//S/
+E$Konrad/Genannter/Stmk_Ober Pergau/Pergau/Pergowaer/wo??
+H$Kauf_Abschlag/EinkÅnfte/Wolkenstein_Ruine/Wolkenstein//Stmk,Ennstal b.Liezen/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$talis defectus a summa quingentarum marcarum debeat defalcari
+videlicet pro redditibus marce cuiuslibet argenti marce decem
+B$StUB 3, Nr. 39, S. 96: "Die Indiktionszahl ist dem Schreiber in der
+Feder geblieben, daher der Jahresteil, in welchen die Urkunde zu
+setzen wÑre, nicht anzugeben ist. Nach ungefÑhrer Annahme aufgrund
+eines wahrscheinlichen Itinerars des Erzbischofes, der vermutlich dem
+Abschlu· der Verhandlung auch persînlich nicht fernstand, dÅrfte sie
+aber in den Sept. od. Okt. fallen.
+
+REG$Konrad von Pergau verkauft dem Erzbischof von Salzburg seinen Anteil
+an der Burg Wolkenstein in Ennstal mit den dazugehîrigen Besitzungen
+und 30 Mark Einkommen und 40 Untertanen fÅr 500 Mark Silber.
+Falls die angegebenenen EinkÅnfte nicht erreicht werden sollten, wird
+vereinbart, da· 10 Mark fÅr jede Mark EinkÅnfte, die die Besitzungen
+weniger als angegeben abwerfen, vom Kaufpreis abgezogen werden sollen.
+F$StUB 3/039/95f/96
+G$X/Erzbischof/Salzburg/Salzburg//S/
+E$Konrad/Genannter/Stmk_Ober Pergau/Pergau/Pergowaer/wo??
+H$Kauf_Abschlag/EinkÅnfte/Wolkenstein_Ruine/Wolkenstein//Stmk,Ennstal b.Liezen/
+W$X/X
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$talis defectus a summa quingentarum marcarum debeat defalcari
+videlicet pro redditibus marce cuiuslibet argenti marce decem
+B$StUB 3, Nr. 39, S. 96: "Die Indiktionszahl ist dem Schreiber in der
+Feder geblieben, daher der Jahresteil, in welchen die Urkunde zu
+setzen wÑre, nicht anzugeben ist. Nach ungefÑhrer Annahme aufgrund
+eines wahrscheinlichen Itinerars des Erzbischofes, der vermutlich dem
+Abschlu· der Verhandlung auch persînlich nicht fernstand, dÅrfte sie
+aber in den Sept. od. Okt. fallen.
+
+DOK$StUB3_53/1249.6.25/1249.6.25/1249 Juni 25/anno domini MCCXLVIIII. VII. kalendas Iulii
+VII. indictione/Rottenmann/Rottenmann//Stmk,nw.Leoben/
+S$X/X/X
+V$X/X/X
+K$Hartnid von Pettau verpflichtet sich, die ihm von Erzbischof Eberhard von
+Salzburg in den émtern Leibnitz und Pettau verpfÑndeten GÅter dem Erzbistum
+unter angegebenen Bedingungen wieder heimzugeben.
+
+REG$Hartnid von Pettau beurkundet, da· ihm der ErwÑhlte Philipp von Salzburg bis
+zur Abzahlung der 1100 Mark Silber Wiener Gewichts und 500 Mark Pfennigen, die
+Erzbischof Eberhard von Salzburg fÅr die VerpfÑndung von GÅtern in den émtern
+Leibnitz und Pettau erhalten hat, EinkÅnfte in der Hîhe von 250 Mark zu Lehen
+verliehen habe.
+F$StUB 3/053/112f/112
+G$Hartnid/Genannter/Pettau/Pettau//î.Marburg/
+E$Eberhard/Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Immobilien/Leibnitz/Leibnitz//Stmk,s.Graz/
+H$PfandgeschÑft/Immobilien/Pettau/Pettau//î.Marburg/
+W$Wien/pondus/
+O$1100/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro marcis argenti mille centum ponderis Wiennensis et denariorum marcis
+quingentis
+
+REG$Hartnid von Pettau beurkundet, da· ihm der ErwÑhlte Philipp von Salzburg bis
+zur Abzahlung der 1100 Mark Silber Wiener Gewichts und 500 Mark Pfennigen, die
+Erzbischof Eberhard von Salzburg fÅr die VerpfÑndung von GÅtern in den émtern
+Leibnitz und Pettau erhalten hat, EinkÅnfte in der Hîhe von 250 Mark zu Lehen
+verliehen habe.
+F$StUB 3/053/112f/112
+G$Hartnid/Genannter/Pettau/Pettau//î.Marburg/
+E$Eberhard/Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Immobilien/Leibnitz/Leibnitz//Stmk,s.Graz/
+H$PfandgeschÑft/Immobilien/Pettau/Pettau//î.Marburg/
+W$X/X/
+O$500/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro marcis argenti mille centum ponderis Wiennensis et denariorum marcis
+quingentis
+
+REG$Hartnid von Pettau beurkundet, da· ihm der ErwÑhlte Philipp von Salzburg bis
+zur Abzahlung der 1100 Mark Silber Wiener Gewichts und 500 Mark Pfennigen, die
+Erzbischof Eberhard von Salzburg fÅr die VerpfÑndung von GÅtern in den émtern
+Leibnitz und Pettau erhalten hat, EinkÅnfte in der Hîhe von 250 Mark zu Lehen
+verliehen habe.
+F$StUB 3/053/112f/112
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Pettau/Pettau//î.Marburg/
+H$Belehnung/EinkÅnfte/Leibnitz/Leibnitz//Stmk,s.Graz/
+H$Belehnung/EinkÅnfte/Pettau/Pettau//î.Marburg/
+W$X/X/
+O$250/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$michi redditus ducentarum quinquaginta marcarum \dots contulit iure pheudi
+
+REG$Hartnid von Pettau beurkundet, da· ihm der ErwÑhlte Philipp von Salzburg bis
+zur Abzahlung der 1100 Mark Silber Wiener Gewichts und 500 Mark Pfennigen, die
+Erzbischof Eberhard von Salzburg fÅr die VerpfÑndung von GÅtern in den émtern
+Leibnitz und Pettau erhalten hat, EinkÅnfte in der Hîhe von 250 Mark zu Lehen
+verliehen habe.
+F$StUB 3/053/112f/112
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+E$Hartnid/Genannter/Pettau/Pettau//î.Marburg/
+H$Pfand_Auslîsung/Immobilien;?EinkÅnfte/Leibnitz/Leibnitz//Stmk,s.Graz     eig. beides
+H$Pfand_Auslîsung/Immobilien;?EinkÅnfte/Pettau/Pettau//î.Marburg     eig. beides
+W$Steiermark?/X/
+O$500/marca/X
+Z$X/X/X
+M$X/den./currens/Z
+Q$summa argenti et denariorum communiter per Styriam currentium fuerit exsoluta
+B$"500 Mark" aus dem Zusammenhang erschlossen.
+
+REG$Hartnid von Pettau beurkundet, da· ihm der ErwÑhlte Philipp von Salzburg bis
+zur Abzahlung der 1100 Mark Silber Wiener Gewichts und 500 Mark Pfennigen, die
+Erzbischof Eberhard von Salzburg fÅr die VerpfÑndung von GÅtern in den émtern
+Leibnitz und Pettau erhalten hat, EinkÅnfte in der Hîhe von 250 Mark zu Lehen
+verliehen habe.
+F$StUB 3/053/112f/112
+G$Hartnid/Genannter/Pettau/Pettau//î.Marburg/
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//S/
+H$RÅckgabe?/EinkÅnfte/Leibnitz/Leibnitz//Stmk,s.Graz/
+H$RÅckgabe?/EinkÅnfte/Pettau/Pettau//î.Marburg/
+W$X/X/
+O$250/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus ducentarum et L marcarum ad Salzburgensem ecclesiam \dots revertantur
+
+REG$Hartnid von Pettau beurkundet, da· ihm der ErwÑhlte Philipp von Salzburg bis
+zur Abzahlung der 1100 Mark Silber Wiener Gewichts und 500 Mark Pfennigen, die
+Erzbischof Eberhard von Salzburg fÅr die VerpfÑndung von GÅtern in den émtern
+Leibnitz und Pettau erhalten hat, EinkÅnfte in der Hîhe von 250 Mark zu Lehen
+verliehen habe. Sollte er aber oder seine Erben die Annahme der genannten Summe
+an Silber und Pfennigen ablehnen, verspricht er, da· die genannten EinkÅnfte in
+der Hîhe von 250 Mark ohne Anzahlung mit allen Lehen von der Salzburger Kirche
+an diese zurÅckfallen.
+F$StUB 3/053/112f/112
+G$Hartnid/Genannter/Pettau/Pettau//î.Marburg/
+E$X/Kirche/Salzburg/Salzburg//S/
+H$Verlust? EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$250/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus ducentarum quinquaginta marcarum \dots revertantur
+
+DOK$StUB3_69/1250.3.29/1250.3.29/1250 MÑrz 29/anno domini MCCL. IV. kalendas Aprilis/X/X//
+S$X/X/X
+V$X/X/X
+K$Propst Gebwin von Vorau beurkundet die öbergabe eines Hofes zu Heideckendorf
+an sein Stift, als testamentarische Deckung jener SchÑden, welche einstmals
+Rudolf von "Hertenfels" demselben zugefÅgt hatte.
+
+REG$Propst Gebwin von Vorau beurkundet die öbergabe eines Hofes zu Heideckendorf,
+der 1 Talent Wiener zinst, an sein Stift, als testamentarische Deckung jener
+SchÑden, welche einstmals Rudolf von "Hertenfels" demselben zugefÅgt hatte.
+F$StUB 3/069/130f/130
+G$X/X/X/X//
+E$X/Kirche/Vorau/Vorau//Stmk,n.Hartberg/
+H$Zins/Immobilien/Heideggendorf/Heideckendorf//Stmk,î.Pettau Haidek/
+W$Wien/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$curiam in Haidek, solventem talentum Wiennensium ecclesie Vorowensi disposuit
+in testamentum.
+B$Es gibt kein Haidek, nur Hardek î.Pettau. Ich glaube eher an Heideggendorf in
+Pinggau BH Hartberg.  ?
+
+DOK$StUB3_79/1250.0.0/1250.0.0/ca. 1250/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Hartmannsdorf (?) widmet dem Kloster Rein eine Hube zu Niederdorf
+an der Gurk in Krain (nî. Rudolfswîrt).
+
+REG$Heinrich von Hartmannsdorf (?) widmet dem Kloster Rein eine Hube zu Niederdorf
+an der Gurk in Krain (nî. Rudolfswîrt), die von seinen Verwandten um 10 Mark
+allgemein gÅltiger? MÅnze abgelîst werden kann. ?
+F$StUB 3/079/145/145
+G$X/Verwandte/Hîrtendorf/Hîrtendorf/Hartmannsdorf/G.Klagenfurt/
+E$X/Kloster/Rein/Rein//Stmk,nw.Graz
+H$Ablîse?/Immobilien/Niederdorf/Niederdorf//Unterk,a.Gurk Krain/
+W$Aquileia?/moneta publica/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$solvendi eum pro decem marcis monete publice liberam habeant facultatem.
+B$Laut Register des StUB handelt es sich um Agleier. MÅnzer Walkerus.
+
+
+DOK$StUB3_0112/1252.7.19/1252.7.19/1252 Juli 19/anno domini millesimo CCL.
+secundo, XIIII. kalendas Augusti/Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Philipp von Salzburg beurkundet einen Vergleich zwischen
+Bischof Ulrich von Lavant und Abt Permann von St. Lambrecht betr. der
+Kirche zu Neumarkt, welchen im J. 1240 Erzbischof Eberhard gestiftet
+hatte, der aber damals nicht schriftlich niedergelegt worden war.
+
+REG$Im einem Vergleich die Kirche zu Neumarkt betreffend gibt Abt Permann
+von St. Lambrecht dem Bischof Ulrich von Lavant 20 Mark Friesacher
+Pfennige und 2 Mark EinkÅnfte.
+F$StUB 3/112/179f/179
+G$Permann/Abt/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+E$Ulrich/Bischof/Lavant/Lavant//K/
+H$Ablîse/Immobilien_Kirche/Neumarkt_i.Stmk./Neumarkt_i.Stmk.//Stmk,sw.Judenburg/
+W$Friesach/X/
+O$20/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$abbas ipse dicto daret episcopo viginti marcas denariorum
+Frisacensium et duarum marcarum redditus
+
+REG$Im einem Vergleich die Kirche zu Neumarkt betreffend gibt Abt Permann
+von St. Lambrecht dem Bischof Ulrich von Lavant 20 Mark Friesacher
+Pfennige und EinkÅnfte in der Hîhe von 2 Mark.
+F$StUB 3/112/179f/179
+G$X/X/X/X//
+E$Permann/Abt/St.Lambrecht/St. Lambrecht//Stmk,b.Murau/
+H$EinkÅnfte/Immobilien/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$abbas ipse dicto daret episcopo viginti marcas denariorum
+Frisacensium et duarum marcarum redditus
+B$"Friesach" aus dem Zusammenhang erschlossen.
+
+DOK$StUB3_0234/1257.7.22/1257.7.22/1257 Juli 22/anno dominice incarnationis
+MCCLVII., XI. kalend. augusti/Rein/(Rein)//Stmk,nw.Graz/
+S$X/X/X
+V$X/X/X
+K$Abt Amelrich von Rein beurkundet, da· Gertrud von Rosegg mehrere
+Liegenschaften zu Deuchendorf und Parschlug vom Kloster Viktring
+gekauft und seinem Kloster gewidmet habe.
+
+REG$Gertrud von Rosegg hat mehrere Liegenschaften zu Deuchendorf und
+Parschlug vom Kloster Viktring um 20 Mark Silber Friesacher Gewichts
+bzw. 34 Mark Pfennig gekauft.
+F$StUB 3/234/322f/323
+F$MDC 4I/2655/511f/511
+G$Gertrud/Genannte/Rosegg/Rosegg//K,î.Villach/
+E$Konrad/Abt/Viktring/Viktring//K,sw.Klagenfurt/
+E$X/Konvent/Viktring/Viktring//K,sw.Klagenfurt/
+H$Kauf/Immobilien/Deuchendorf/Deuchendorf//Stmk,b.Bruck a.M./
+H$Kauf/Immobilien/Parschlug/Parschlug//Stmk,b.Bruck a.M./
+W$Friesach/pondus/
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+A$20 Mark Feinsilber Friesacher Gewichts/34 Mark Pf.
+Q$pro viginti marcis argenti ad pondus Frisacense, seu triginta
+quatuor marcis denariorum tantumdem valentibus sollempniter comparavit
+
+REG$Gertrud von Rosegg hat mehrere Liegenschaften zu Deuchendorf und
+Parschlug vom Kloster Viktring um 20 Mark Silber Friesacher Gewichts
+bzw. 34 Mark Pfennig gekauft.
+F$StUB 3/234/322f/323
+F$MDC 4I/2655/511f/511
+G$Gertrud/Genannte/Rosegg/Rosegg//K,î.Villach/
+E$Konrad/Abt/Viktring/Viktring//K,sw.Klagenfurt/
+E$X/Konvent/Viktring/Viktring//K,sw.Klagenfurt/
+H$Kauf/Immobilien/Deuchendorf/Deuchendorf//Stmk,b.Bruck a.M./
+H$Kauf/Immobilien/Parschlug/Parschlug//Stmk,b.Bruck a.M./
+W$Friesach/X/
+O$34/marca/X
+Z$X/X/X
+M$X/den./X/A
+A$34 Mark Pf./20 Mark Feinsilber Friesacher Gewichts
+Q$pro viginti marcis argenti ad pondus Frisacense, seu triginta
+quatuor marcis denariorum tantumdem valentibus sollempniter comparavit
+
+REG$Gertrud von Rosegg widmet dem Konvent von Rein Fische im Wert von 6
+Schilling am Tag der hl. Dreieinigkeit.
+F$StUB 3/234/322f/323
+F$MDC 4I/2655/511f/511
+G$Gertrud/Genannte/Rosegg/Rosegg//K,î.Villach/
+E$X/Kloster/Rein/Rein//Stmk,nw.Graz/
+H$Schenkung/Lebensmittel_Fische/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/sol./X
+M$X/X/X/Z
+Q$delegavit \dots pro sex solidis in die sancte et individue
+Trinitatis conventui pisces cum pipere amministrentur
+
+DOK$StUBerg_061/1249.9.20/1249.9.20/1249 September 20/anno domini MCCIL octava idus
+septembris septimae indictionis/Kumberg/Kumberg//Schîckelgebiet?/
+S$X/X/X
+V$X/X/X
+K$Gottschalk von Neuberg (bei Hartberg) fÅhrt aus, unter welchen Bedingungen er
+aus der Gefangenschaft des Wulfing von Stubenberg freigekommen sei.
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine [viuche] (Freilassung) aus
+der Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt.
+F$StUB Erg/061/39ff/40
+G$Gottschalk/Genannter/Neuberg b.Hartberg/Neuberg b.Hartberg//Stmk/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Freilassung/Genannter/Neuberg b.Hartberg/Neuberg b.Hartberg//Stmk/
+W$Wien/X/
+O$500/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro quingentis talentis Viennensium posui sibi fideiussorem
+B$Obwohl dedi (also A) im Text steht, ist das RechtsgeschÑft als zukÅnftig
+anzusehen, wie aus der folgenden Textpassage hervorgeht.
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Poppo von Peggau fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Poppo/Genannter/Peggau/Peggau/Pekach/Stmk,n.Graz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Poponem de Pekach pro talentis L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Heinrich von Liechtenstein fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Heinrich/Genannter/Liechtenstein b.Wien/Liechtenstein b.Wien//Nô
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Henricum de Liectensteine pro talentis L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Herand von Bejerern fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Herand/Genannter/uStmk/Bejaren/Bejerern/wo?? 2. oder 3.Bd. STUB Herand
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Herandum de Bejerern pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Berthold von Englschalchesvelde fÅr 50
+Talent.
+F$StUB Erg/061/39ff/40
+G$Berthold/Genannter/MariaEnzersdorf/Maria Enzersdorf?/Englschalchesvelde/Nô/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Bertholdum de Englschalchesvelde pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Erchenger von Lendeser fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Erchinger/Genannter/Landsee/Landsee/Lendeser/Burgenld/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Erchengerum de Lendeser pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Berthold von Emberberg fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Berthold/Genannter/Emmerberg/Emmerberg/Emberberg/Nô/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Bertholdum de Emberberc pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Rudolf von Stadeke fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Rudolf/Genannter/Stattegg/Stattegg/Stadeke/Stmk,n.Graz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Rudolphum de Stadeke pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Lutold von Stadeke fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Lutold/Genannter/Stattegg/Stattegg/Stadeke/Stmk,n.Graz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Lutoldum pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Hermann von PÅten fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Hermann/Genannter/Pitten/PÅtten/PÅten/Nô,sw.Wr.Neustadt/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Hermannum de PÅten pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat fÅr seine Freilassung aus der
+Gefangenschaft des Wulfing von Stubenberg 500 Talent Wiener an diesen zu
+bezahlen, wofÅr er BÅrgen stellt, so Wulfing von Ehrenfels fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Wulfing/Genannter/Ehrenfels/Ehrenfels/Ernvelse/Stmk,Schîckelgebiet/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui sibi fideiussorem \dots Vuluingum de Ernvelse pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat dem Wulfing von Stubenberg fÅr den
+Schaden, den er diesem zugefÅgt hat, 200 Talent zu bezahlen.
+F$StUB Erg/061/39ff/40
+G$Gottschalk/Genannter/Neuberg b.Hartberg/Neuberg b.Hartberg//Stmk/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Schadentilgung/Schaden/unbestimmt/unbestimmt//
+W$X/X/
+O$200/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Pro damno autem sibi illato dedi sibi ducenta talenta
+B$Obwohl dedi (also A) im Text steht, ist das RechtsgeschÑft als zukÅnftig
+anzusehen, wie aus der folgenden Textpassage hervorgeht.
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat dem Wulfing von Stubenberg fÅr den
+Schaden, den er diesem zugefÅgt hat, 200 Talent zu bezahlen, wofÅr er BÅrgen
+stellt, so Poppo von Pekkach fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Poppo/Genannter/Peggau/Peggau/Pekkach/Stmk,n.Graz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui fideiiussores \dots Poponem de Pekkach pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat dem Wulfing von Stubenberg fÅr den
+Schaden, den er diesem zugefÅgt hat, 200 Talent zu bezahlen, wofÅr er BÅrgen
+stellt, so Berthold von Engelschalvelde fÅr 50 Talent.
+F$StUB Erg/061/39ff/40
+G$Berthold/Genannter/MariaEnzersdorf/Maria Enzersdorf?/Engelschalvelde/Nô/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui fideiiussores \dots Bertholdum de Engelschalvelde pro tal. L
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat dem Wulfing von Stubenberg fÅr den
+Schaden, den er diesem zugefÅgt hat, 200 Talent zu bezahlen, wofÅr er BÅrgen
+stellt, so die BrÅder von Stadeke fÅr 100 Talent.
+F$StUB Erg/061/39ff/40
+G$X/Genannte/Stattegg/Stattegg/Stadeke/Stmk,n.Graz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$posui fideiiussores \dots fratres de Stadeke pro talent. centum
+
+REG$Gottschalk von Neuberg (bei Hartberg) hat dem Wulfing von Stubenberg fÅr den
+Schaden, den er diesem zugefÅgt hat, 200 Talent zu bezahlen, wofÅr er BÅrgen
+stellt. Sollten die 200 Talent nicht bis zum nÑchsten Paschafest vollstÑndig
+bezahlt sein, mÅssen die BÅrgen dem Wulfing ein Pfand, das mehr wert ist, geben.
+F$StUB Erg/061/39ff/40
+G$Poppo/Genannter/Peggau/Peggau/Pekkach/Stmk,n.Graz/
+G$Berthold/Genannter/MariaEnzersdorf/Maria Enzersdorf?/Engelschalvelde/Nô/
+G$X/Genannte/Stattegg/Stattegg/Stadeke/Stmk,n.Graz/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Nichtbezahlung/Geldsumme/unbestimmt/unbestimmt//  ?Pfand_Wertangabe
+W$X/X/
+O$200/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$si prefata ducenta tal. in pascha proxima nunc instante non fierent in
+integrum persoluta
+
+REG$Pînale in der Hîhe von 500 Talent.
+F$StUB Erg/061/39ff/40
+G$Gottschalk/Genannter/Neuberg b.Hartberg/Neuberg b.Hartberg//Stmk/
+E$Wulfing/Genannter/Stubenberg/Stubenberg//Stmk/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$500/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quingentorum talentorum sub promissa fideiussione poenae debeam subiacere.
+
+

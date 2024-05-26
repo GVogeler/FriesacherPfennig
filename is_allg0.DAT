@@ -1,0 +1,3784 @@
+
+note *** Einlesen der Rohdaten io_allg0,dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$itri_01/1040.12.30/1040.12.30/1040 Dezember 30/tertio calendas januarii
+indictione
+octava anno dominice incarnationis MXL anno domini Henrici ordinationis
+duodecimo imperii primo/Regensburg/Regensburg//Bayern/
+S$X/X/X
+V$X/X/X
+K$Kînig Heinrich III. bestÑtigt auf Petition des Patriarchen Poppo von
+Aquileia dem Bischof Adalger und der Kirche von Triest die Freiheit und die
+Gerichtsbarkeit.            Kirchen S. Maria und S. Giusto
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Gold, wobei je die HÑlfte an die
+kînigliche Kasse und an den Bischof und die Kirche von Triest bezahlt werden
+soll.
+F$CDI 1/096/203f/204
+F$Kos 3/103/70f/71
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt. kînigl.//?
+E$X/Kirche;Bistum/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$mille libras auri optimi se compositurum noverit dimidium camere nostre et
+dimidium sepedicto episcopo sueque ecclesie
+
+DOK$itri_02/1072.5.2/1072.5.2/1072 Mai 2/anno ab incarnatione eiusdem
+Redemptoris nostri
+MLXXII., die secundo mensis maii/Capodistria/Capodistria//Istrien/
+S$Basilius/X/Basilius                           icap bereits gelîscht?
+V$Basilius/X/Basilius
+K$Bischof Adalger von Triest schenkt dem Kloster S. Nicol\`o del Lido in
+Venedig die Kirche S. Apollinare in Gaselo.
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold.
+F$CDI 1/107/222/222
+F$Kos 3/267/162f/163
+G$X/Bischof/Triest/Triest//Istrien/
+E$X/Kloster/Venedig/Venedig,S.Nicol\`o del Lido/Veneto/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sit compositurus \dots auri libras decem
+
+DOK$itri_03/1082.12.3/1082.12.3/1082 Dezember 3/anno ab incarnatione D.N.J.C.
+MLXXXII. die
+III. mensis decembris indict. V./Capodistria/Capodistria//Istrien/
+S$Amantinus/X/Amantinus        icap bereits gelîscht?
+V$Amantinus/X/Amantinus
+K$Bischof Eriberto von Triest und Capodistria Åbergibt dem Kapitel von
+Capodistria die Pfarre S. Mauro d' Isola mit dem vierten Teil der Zehnten, den
+Erstlingsgaben und dem Taufrecht?.
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$CDI 1/114/232f/233
+F$AT NS 06/X/214f/215
+F$Ughelli 5/X/381f/382
+F$Kos 3/356/210/210
+G$X/X/X/X//
+E$X/Kapitel/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat se compositurum \dots auri optimi libras quinque
+B$AT NS 6 S. 214f bringt eine andere Ausfertigung der Urkunde, datiert mit 9.
+Dezember 1082.
+
+DOK$itri_04/1090.2.10/1090.2.10/1090 Februar 10/regnante domino nostro Henrico
+rege anno
+autem regni eius XXIII. die X. mensis Februarii, indictione III./Triest/Triest//Istrien/
+S$Johannes/Triest/Johannes
+V$Johannes/Triest/Johannes
+K$Bischof Heribert von Triest schenkt dem Mercurius und seiner Frau Tuperga ein
+Feld in der NÑhe von S. Petro, weil diese ihm 2 Pfund Pfennige als UnterstÅtzung
+fÅr S. Justus Martyr geschenkt haben.
+
+REG$Spende? des Mercurius und seiner Frau Tuperga an den Bischof Heribert von
+Triest fÅr S. Justus Martyr in der Hîhe von 2 Pfund Pfennigen.
+F$CDI 1/112/229/229
+F$Kos 3/349/205f/205
+F$Bonomo/3/5f/5
+G$Mercurius;Tuperga/X/X/X//
+E$Heribert/Bischof/Triest/Triest/Istrien
+H$Spende?/Geldsumme/Triest/Triest/S.JustaMÑrtyrer/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$donastis nobis adiutorium in causa Sancti Iusti Martyris libras denariorum
+duas
+B$Bei Kandler wird 1080 als Datum angegeben. Es handelt sich hiebei wohl um
+einen Druckfehler.
+
+DOK$itri_05/1114.7.4/1114.7.4/1114 Juli 4/anno vero [ab] incarnatione eius
+MCXIIII.,
+imperante domino nostro H[enrico] imperatore, die vero IIII. mensis iulii,
+indicione VII.? 12?/Triest/Triest//Istrien/
+S$Crescentius/Triest/Crescentius
+V$Crescentius/Triest/Crescentius
+K$Bischof Herinicius [!] Harvuicus? von Triest Åbergibt dem Kloster S. Giorgio
+in Venedig die Kirche SS. Martiri in Triest gegen
+jÑhrlichen Zins.
+
+REG$Bischof Herinicius [!] Harvuicus? von Triest Åbergibt dem Kloster S.
+Giorgio in Venedig die Kirche SS. Martiri in Triest gegen jÑhrlichen Zins in der
+Hîhe von 24 Pfennigen Triester? MÅnze.
+F$Bened/106/239ff/241
+F$CDI 1/123/247f/247
+F$Mainati Trieste I P IIa/?/103ff/?
+F$Kos 4/045/25/25
+G$X/Kloster/Venedig/Venedig,S.Giorgio//Veneto/
+E$X/Bischofskirche/Triest/?Triest//Istrien/
+H$Zinsverpflichtung/Immobilien_Kirche/Triest/Triest,SS.Martiri//Istrien/
+W$Triest?/moneta/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$episcopali ecclesie XXIIII denarios vestre monete persolvere \dots debeatis
+B$"Triest" aus dem Zusammenhang erschlossen. Kandler liest "XXIV denarios
+Camerae episcopali persolvatis".
+
+REG$Bischof Herinicius [!] Harvuicus? von Triest Åbergibt dem Kloster S.
+Giorgio in Venedig die Kirche SS. Martiri in Triest gegen einen jÑhrlichen Zins
+in der Hîhe von 24 Pfennigen
+Triester? MÅnze und verpflichtet sich bei Zuwiderhandeln eine Pînale
+in der Hîhe von 3 Pfund Gold zu bezahlen.
+F$Bened/106/239ff/241
+F$CDI 1/123/247f/247
+F$Mainati Trieste I P IIa/?/103ff/?
+F$Kos 4/045/25/25
+G$X/Kloster/Venedig/Venedig,S.Giorgio//Venedig/
+E$X/Bischofskirche/Triest/?Triest//Istrien/
+H$Zinsverpflichtung/Immobilien_Kirche/Triest/Triest,SS.Martiri//Istrien/
+W$Triest?/moneta/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$exceptis illis infrascriptis XXIII denariis
+B$"Triest" aus dem Zusammenhang erschlossen. Kandler liest "supradictis
+vigintiquatuor denariis".
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$Bened/106/239ff/241
+F$CDI 1/123/247f/247
+F$Mainati Trieste I P IIa/?/103ff/?
+F$Kos 4/045/25/25
+G$X/Bischof/Triest/Triest//Istrien/
+E$X/Kloster/Venedig/Venedig,S.Giorgio//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$sciat se compositurum auri purissimi libras III
+
+DOK$itri_06/1115.1.0/1115.1.0/1115 JÑnner/anno vero ab incarnationis domini
+MCXV. indicione VIII. mensis ianuarii/Triest/Triest//Istrien/
+S$Natalis/kaiserl. Notar/Natalis
+V$Natalis/kaiserl. Notar/Natalis
+K$Die Eheleute Rodaldo und Almengarda schenken fÅr ihr Seelenheil dem Kapitel
+von Triest testamentarisch alle ihre Besitzungen in Triest au·er einem
+Weingarten in Olula?, welchen sie ihrem Sohn Triesto geben wollen.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$AT NS 05/02/324f/325
+F$Kos 4/047/26/26
+G$Rodaldo;Almengarda/X/X/X//
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sciat se compositurum auri libram I
+
+DOK$itri_07/1115.10.12/1115.10.12/1115 Oktober 12/anno vero ab incarnatione
+eiusdem MCXV.
+imperante domino nostro H. imperatore die XII. mensis Octobris indicione VIII.
+/Triest/Triest//Istrien/
+S$Crescentius/Triest/Crescentius
+V$Crescentius/Triest/Crescentius
+K$Bischof Hartwig von Triest schenkt dem Kloster S. Giorgio Maggiore in Venedig
+ein GrundstÅck um die Kirche S. Giusto ?als GeschenkAusstattung von SS. Martiri
+in Triest.                              auf dem Boden von
+
+REG$Strafbestimmung in der Hîhe von drei Pfund Gold.
+F$CDI 1/124/249f/249
+F$Bonomo/4/6f/7
+F$Lanfranchi/108/243ff/246
+F$Mainati Trieste I/?/108-113/?
+F$Kos 4/048/26f/27
+G$X/Bistum/Triest/Triest//Istrien/
+E$X/Kloster/Venedig/Venedig,S.Giorgio Mag.//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$sciat se esse compositurum auri purissimi libras III
+B$Lanfranchi liest "sciat se compositurum" ohne "esse".
+
+DOK$itri_08/1172.3.6/1172.3.6/1172 MÑrz 6/imperante domino nostro Frederico
+imperatore,
+anno dominice incarnationis MCLX\dotsII indictione V/Triest/Triest//Istrien/
+S$Vitale/X/Vitale
+V$Vitale/X/Vitale
+K$Bischof Bernhard von Triest schenkt den Kanonikern von Triest die Zehnten
+gewisser HÑuser, welche auf dem Grund von S. Maria erbaut worden sind.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$AT NS 05/06/327/327
+G$X/X/X/X//
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$et insuper predictis canonicis auri libram componat
+B$Vgl. 1171 MÑrz 6. (ACTs Perg. 6)
+
+DOK$itri_09/1221.2.11/1221.2.11/1221 Februar 11/III. idus februarii
+pontificatus nostri anno quinto/Rom/Rom,Lateran//Latium/
+S$X/X/X
+V$X/X/X
+K$Papst Honorius III. lÑdt den Bischof (Konrad) von Triest wegen der
+GewalttÑtigkeiten gegen die Gesandten des ungarischen Kînigs in Gemona vor.
+
+REG$Papst Honorius III. lÑdt den Bischof (Konrad) von Triest wegen der
+GewalttÑtigkeiten gegen die Gesandten des ungarischen Kînigs in Gemona vor,
+denen er 42  Mark Silber weggenommen hat?.
+F$CDI 2/226/409/409
+F$Kos 5/336/176/176
+F$Theiner,Vetera mon. 1/81/71f/71
+G$X/Abt/Peles/Peles//Ungarn
+G$X?/Gesandte/Ungarn/Ungarn// ?
+E$Konrad/Bischof/Triest/Triest//Istrien/
+H$Raub/Geldsumme/unbestimmt/unbestimmt//  ?
+W$X/X
+O$42/marca/X
+Z$X/X/X
+M$X/argentum/purius/A
+Q$quod de puriori argento quod habebant quadraginta duas marchas auferret eisdem
+
+REG$Papst Honorius III. lÑdt den Bischof (Konrad) von Triest wegen der
+GewalttÑtigkeiten gegen die Gesandten des ungarischen Kînigs in Gemona vor,
+denen er 42  Mark Silber Wiener Gewichts entrissen hat?.
+F$CDI 2/226/409/409
+F$Kos 5/336/176/176
+F$Theiner,Vetera mon. 1/81/71f/72
+G$X/Abt/Peles/Peles//Ungarn
+G$X?/Gesandte/Ungarn/Ungarn// ?
+E$Konrad/Bischof/Triest/Triest//Istrien/
+H$Raub/Geldsumme/unbestimmt/unbestimmt//  ?
+W$Wien/pondus
+O$42/marca/X
+Z$X/X/X
+M$X/argentum/purissimum/A
+Q$quia misso fratre suo per eum quadraginta duas marchas argenti purissimi ad
+pondus Viennense ab ipsis quantumcumque renitentibus et invitis extorsit
+
+DOK$itri_10/1221.9.13/1221.9.13/1221 September 13/?/Modena/Modena//wo??
+S$X/X/X
+V$X/X/X
+K$Bischof Hugo von Ostia und Velletri beauftragt als apostolischer Legat den
+Bischof [Konrad] von Triest, den Patriarchen Berthold von Aquileia nach
+geleistetem Schwur des Gehorsams zu lîsen, wenn er sich etwa incendiorum reum in
+den Krieg mit Treviso bekenne und wegen des nicht gezahlten Zwanzigsten, und ihm
+dann zu befehlen fÅr den Zwanzigsten, fÅr sich und seine Diîzese und die Diîzese
+Concordia unter Einrechnung des schon Gezahlten 1000 Mark zu Pfand zu stellen
+und den Legaten schriftlich zu ermÑchtigen, die wegen des Streits mit Treviso
+gestellten PfÑnder statt des Zwanzigsten zu behalten.
+
+REG$Bischof Hugo von Ostia und Velletri beauftragt als apostolischer Legat den
+Bischof [Konrad] von Triest, den Patriarchen Berthold von Aquileia nach
+geleistetem Schwur des Gehorsams zu lîsen, wenn er sich etwa incendiorum reum in
+den Krieg mit Treviso bekenne und wegen des nicht gezahlten Zwanzigsten, und ihm
+dann zu befehlen fÅr den Zwanzigsten, fÅr sich und seine Diîzese und die Diîzese
+Concordia unter Einrechnung des schon Gezahlten 1000 Mark zu Pfand zu stellen
+und den Legaten schriftlich zu ermÑchtigen, die wegen des Streits mit Treviso
+gestellten PfÑnder statt des Zwanzigsten zu behalten.
+F$Kos 5/345/179/179
+F$Bîhmer Reg. imp. V/12774/1843/1843
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Konrad/Bischof/Triest/Triest//Istrien/
+H$PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$itri_11/1222.4.17/1222.4.17/1222 April 17/anno domini MCCXXII. die
+XIIII. exeunte aprili indictione X./Triest/Triest//Istrien/
+S$Gregorius/kaiserl. Notar/Gregorius
+V$Gregorius/kaiserl. Notar/Gregorius
+K$Martino Bowa fÅr Kapitel von Triest  u.a.m. betr. Testament.
+
+REG$Martino Bowa hinterlÑ·t dem Kapitel von Triest eine halbe Mark Pfennige.
+F$ACTs Perg. 19/X/X/X
+G$Martino Bowa/X/X/X//
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$mediam marcam denar.
+
+REG$Martino Bowa hinterlÑ·t dem Kloster von S. Mart. in Triest 16 Pfennige.
+F$ACTs Perg. 19/X/X/X
+G$Martino Bowa/X/X/X//
+E$X/Kloster/Triest/Triest,S.Mart.//Istrien/
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$dimitto XVI denarios monsterio sanctorum Martirum
+
+REG$Martino Bowa hinterlÑ·t dem Martin 16 Pfennige.
+F$ACTs Perg. 19/X/X/X
+G$Martino Bowa/X/X/X//
+E$Martin/X/X/X// ?
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/Z
+Q$XVI den. Martino meo ?
+
+REG$Martino Bowa hinterlÑ·t dem Vitalis 8 Pfennige.
+F$ACTs Perg. 19/X/X/X
+G$Martino Bowa/X/X/X//
+E$Vitalis/X/X/X//
+H$Testament/Legat/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$domino Vitali VIII den.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$ACTs Perg. 19/X/X/X
+G$X/X/X/X//
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$pene nomine auri optimi libram I
+
+DOK$itri_12/1223.11.6/1223.11.6/1223 November 6/anno domini MCCXXIII. indict.
+undecima, mense Novembri sexto intrante die lune/Triest/Triest//Istrien/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Schiedsspruch in der Streitfrage um die Grenzen zwischen der Kommune Triest
+und Hugo von Duino in Gegenwart des Bischofs von Triest.
+
+REG$Die Kommune von Triest und Hugo von Duino einigen sich auf
+genannte Schiedsrichter unter Pînale von 2000 Pfund Venet.
+Pfennige.
+F$CDI 2/235/419f/419
+F$Kos 5/375/194f/194
+F$Bonomo/8/11f/11
+G$X/Kommune/Triest/Triest//Istrien  ?
+E$Hugo/Genannter/Duino/Duino//Istrien  ?EmpfÑnger Gegenpartei oder Schiedsrichter
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub poena duo millia libr. Venet.
+
+REG$Strafbestimmung in der Hîhe von 2000 Pfund Venet. Pfennige.
+F$CDI 2/235/419f/420
+F$Kos 5/375/194f/195
+F$Bonomo/8/11f/12
+G$X/Kommune/Triest/Triest//Istrien  ? und umgekehrt
+E$Hugo/Genannter/Duino/Duino//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub poena duo millia libr. denar. Ven.
+
+DOK$itri_13/1230.9.0/1230.9.0/1230 September/anno dominice incarnationis
+MCCXXX. mense
+septembris quarta indictione imperi vero domini nostri \dots anno decimo regni
+Jerusalem quinto regni vero Sicilie trigesimo tercio/Anagni/Anagni//wo??
+S$Berthold/kaiserl. Notar/Berthold?
+S$Philipp?/Sabano/Philipp ?
+V$Berthold/kaiserl. Notar/Berthold
+K$Kaiser Friedrich II. bestÑtigt dem vor ihm erschienenen Bischof Konrad von
+Triest
+die ihm vorgelegten von Kînig Lothar, Otto III., Karl, Ludwig, Lothar, dem Sohn
+Hugos, Berengar und andern Kaisern und Kînigen verliehenen
+Privilegien unter wîrtlicher EinrÅckung des Privilegs Lothars (datiert 949
+August 8 Pavia) und alle Besitzungen der Kirche, insbesondere aber das Castrum
+Humagense und andere genannte Orte, so da· er Leute dort ansiedeln darf zum
+Bebauen und Wohnen gemÑ· den Privilegien Heinrichs III. und Ottos III.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Gold, wovon die HÑlfte an die Kasse
+Friedrichs II., die andere HÑlfte dem Bischof von Triest bezahlt werden soll.
+F$CDI 2/250/438f/439
+F$Kos 5/525/260f/261
+G$X/X/X/X//
+E$Pînale/Strafgeld/Rîm.Reich/Rîm. Reich/kaiserl./?
+E$X/Bistum/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$mille libras auri purissimi pro pena componat
+
+DOK$itri_14/1234.10.9/1234.10.9/1234 Oktober 9/anno incarnationis eiusdem
+MCCXXXIV. die IX.
+mensis octobris indictione VII./Crepelian/Crepelian//Istrien/
+S$Febus Rantulfus/kaiserl. Notar/Febus Rantulfus
+V$Febus Rantulfus/kaiserl. Notar/Febus Rantulfus
+K$Graf Meinhard III. von Gîrz und Dekan Gregor von Triest vereinbaren fÅr sich
+und mit Willen des Kapitels von Triest einen einvernehmlichen Tausch. Der
+Dekan und das Kapitel Åberlassen dem Grafen ein Vierteil der Zehnten von den
+Weinbergen der Slawen von Longera zu ewigem Besitzrecht, mit dem der ErwÑhlte
+Bernhard von Triest den genannten Grafen neulich belehnte. DafÅr reichen der
+Graf und seine Erben dem Kapitel jÑhrlich zu Martini 16 Star aus ihrem Dorf
+Corgnale.
+
+REG$Strafbestimmung in der Hîhe von 200 Pfund kleiner Venet.
+F$CorOpMis 1/18/136/136
+F$CDI 2/261/453/453
+F$Kos 5/618/295f/296
+F$Reg. Gîrz 1/458/122/122
+G$Meinhard III./Graf/Gîrz/Gîrz//Friaul-Ost   ?beide
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$sub poena ducentarum librarum Venetarum parv.
+B$"1234, dne 23. oktobra" bei Kos 5 Nr. 618, S. 295 ist wohl nur ein Druckfehler.
+
+DOK$itri_15/1236.2.21/1236.2.21/(1236) Februar 21/anno ab incarnatione domini
+\dots mense februarii die XXI, indictione \dots/Triest/Triest//Istrien/
+S$Johannes/kaiserl. Notar;Triest/Johannes
+V$Johannes/kaiserl. Notar;Triest/Johannes
+K$Bischof Giovanni von Triest und sein Kapitel treffen mit der Stadt Triest ein
+FriedensÅbereinkommen und vereinigen sich hinsichtlich des bei dem in Triest
+wohnhaften
+KÑrntner Juden Daniel David zur Verteidigung gegen die Kriegsvîlker des Herzogs
+(Bernhard) von KÑrnten und andere RÑuber vom Karst aufgenommenen Darlehens.
+Bischof und Kapitel Åbergeben der Stadt alle auf diese bezÅglichen Urkunden,
+auch solche vom Herzog von KÑrnten, wÑhrend die Stadt dem Bischof und Kapitel
+zur Befriedigung des Juden 500 Mark Agleier auszahlt.
+
+REG$Bischof Giovanni von Triest und sein Kapitel vereinigen sich
+hinsichtlich des bei dem in Triest wohnhaften KÑrntner Juden Daniel David
+aufgenommenen Darlehens einschlie·lich Zinsen in der Hîhe von 507,5 Mark
+Pfennigen mit der Kommune von Triest.
+F$CDI 2/265/457ff/457
+F$MDC 4I/2121/233/233
+G$David Daniel/Jude/Triest/Triest//Istrien/
+E$Giovanni/Bischof/Triest/Triest//Istrien/
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$507,5/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$ad summam marcharum quinquecentum denariorum septem cum dimidio
+B$FÑlschung auf das Jahr 949 (Februar 21, Triest).
+Literatur bei Vergottini, Lineamenti, S. 181-191 bzw. 193.
+
+REG$Der Bischof Giovanni und das Kapitel von Triest haben im Kampf gegen die
+Herzîge von KÑrnten und andere RÑuber vom Karst 500 Mark ausgegeben.
+F$CDI 2/265/457ff/457
+F$MDC 4I/2121/233/233
+G$Giovanni/Bischof/Triest/Triest//Istrien/
+G$X/Kapitel/Triest/Triest//Istrien/
+E$X/X/X/X//
+H$Kampfausgaben/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$500/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pecunia videlicet marcharum quinquecentum fuit expensa in guerra causa
+defensandi bona eorum
+B$FÑlschung auf das Jahr 949 (Februar 21, Triest).
+Literatur bei Vergottini, Lineamenti, S. 181-191 bzw. 193.
+
+REG$Bischof Giovanni von Triest und sein Kapitel schliessen Frieden mit der Stadt
+Triest und vereinigen sich hinsichtlich des bei dem in Triest wohnhaften
+KÑrntner Juden Daniel David zur Verteidigung gegen die Kriegsvîlker des Herzogs
+(Bernhard) von KÑrnten und andere RÑuber vom Karst aufgenommenen Darlehens.
+Bischof und Kapitel Åbergeben der Stadt alle auf diese bezÅglichen Urkunden,
+auch solche vom Herzog von KÑrnten, wÑhrend die Stadt dem Bischof und Kapitel
+zur Befriedigung des Juden 500 Mark Agleier auszahlt.
+F$CDI 2/265/457ff/459
+F$MDC 4I/2121/233/233
+G$X/Kommune/Triest/Triest//Istrien/
+E$Giovanni/Bischof/Triest/Triest//Istrien/
+E$X/Kapitel/Triest/Triest//Istrien                ?
+H$Schuldentilgung/Schuldverpflichtung/unbestimmt/unbestimmt//
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt// ?
+W$Aquileia/X/
+O$500/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit solvit et numeravit in denariis Aquilegensibus marchas
+quinque centum
+B$[wurde vom jÅdischen EmpfÑnger als Schuld-Abzahlung anerkannt]
+FÑlschung auf das Jahr 949 (Februar 21, Triest).
+Literatur bei Vergottini, Lineamenti, S. 181-191 bzw. 193.
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark Silber.
+F$CDI 2/265/457ff/459
+G$Giovanni/Bischof/Triest/Triest//Istrien/
+E$X/Kommune/Triest/Triest//Istrien       ?beide
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena mille marcharum argenti de iure solvenda per contrafacientem parti
+que servaverit
+B$FÑlschung auf das Jahr 949 (Februar 21, Triest).
+Literatur bei Vergottini, Lineamenti, S. 181-191 bzw. 193.
+
+DOK$itri_16/1236.8.13/1236.8.13/1236 August 13/anno domini MCCXXXVI. die XIII.
+Augusti intrante indictione nona/Triest/Triest//Istrien/
+S$Lazarus/kaiserl. Notar/Lazarus
+V$Lazarus/kaiserl. Notar/Lazarus
+K$Dekan Gregor Åbergibt mit Zustimmung des Kapitels von Triest dem Priester
+Wulfing und seinen Erben ein GrundstÅck in Zuil gegen jÑhrlichen Zins.
+
+REG$Dekan Gregor Åbergibt mit Zustimmung des Kapitels von Triest dem Priester
+Wulfing und seinen Erben ein GrundstÅck in Zuil gegen jÑhrlichen Zins in der
+Hîhe von 8 Triestiner Pfennigen.
+F$CDI 2/266/461/461
+F$AT NS 05/35/375/375
+F$Kos 5/654/309f/309
+G$Wulfing/Priester/X/X//
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Zinsverpflichtung/Immobilien/Triest Zuil/Triest(?),Zuil//wo??
+W$Triest/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$VIII den. Terg. nomine census
+
+REG$Strafbestimmung in der Hîhe von einer Mark Triestiner Pfennigen.
+F$CDI 2/266/461/461
+F$Kos 5/654/309f/310
+G$X/Kapitel/Triest/Triest//Istrien/
+E$Wulfing/Priester/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Triest/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pen. 1 march. den. Terg.
+
+DOK$itri_17/1240.6.3/1240.6.3/1240 Juni 3/anno dominice incarnationis
+MCCXL. indictione terciadecima die tercio intrante Iunio/Venedig/Venedig//Veneto/
+S$Bonaventura/kaiserl. Notar/Bonaventura
+V$Bonaventura/kaiserl. Notar/Bonaventura
+K$R., Dekan von Capodistria und Prokurator des Bischofs [Ulrich] von Triest,
+bietet vor dem Patriarchen von Grado, dem delegierten Richter des Papstes,
+da er dem Bischof von Castello? 100 Mark Silber Steuer zahlen soll und die
+Kirche von Triest durch Schulden so beschwert sei, da· er diese Summe nicht
+zahlen kann, 300 Pfund kleiner Venet., andernfalls er an den Papst appellieren
+werde.?
+
+REG$R., Dekan von Capodistria, erscheint statt dem Bischof [Ulrich]
+von Triest als dessen Prokurator vor dem Patriarchen von Grado, dem delegierten
+Richter des Papstes, da jenem eine Frist gesetzt worden ist, dem Bischof von
+Castello? 100 Mark Silber Steuern zu zahlen.
+F$CDI 2/272/470/470
+F$AT NS 05/38/376/376
+F$Kos 5/734/358/358
+G$Ulrich/Bischof/Triest/Triest//Istrien/
+E$X/Bischof/Venedig Olivolo/Venedig,Olivolo/Castello/ Venedig,Osten
+H$Steuer/Steuer/Venedig Olivolo/Venedig,Olivolo/Castello
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$ut solvat C marcas argenti episcopo castellano
+
+REG$Der Prokurator des Bischofs von Triest bietet dem Patriarchen von Grado als
+dem delegierten Richter des Papstes in der Streitsache mit dem Bischof von
+Castello an, 300 Pfund kleiner Venetianischer Pfennige als Steuer zu bezahlen.?
+F$CDI 2/272/470/470
+F$AT NS 05/38/376/376
+F$Kos 5/734/358/358
+G$Ulrich/Bischof/Triest/Triest//Istrien    ?
+E$X/Bischof/Venedig Olivolo/Venedig,Olivolo/Castello/
+H$Steuervorschlag?/Steuer/Venedig Olivolo/Venedig,Olivolo/Castello/
+W$Venedig/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./parv./Z
+Q$si vellet sibi taxare in tercentis libris venec. parvorum quod paratus erat
+predictos denarios dare
+
+DOK$itri_18/1244.12.3/1244.12.3/1244 Dezember 3/anno domini MCCXLIV.
+indictione II. die III. intrante decembris/Maichau/Maichau//Mokovo bei Triest
+S$X/X/X
+V$X/X/X
+K$Bischof Ulrich von Triest verschreibt dem Grafen M(einhard) von Gîrz ein Lehen
+von 8 Mark nicht aus dem gegenwÑrtigen Besitzstand, sondern die seiner Kirche
+als nÑchste ledig werden. Mittlerweile sollte der Graf jÑhrlich 3 Mark aus der
+Stiftskammer empfangen.
+
+REG$Bischof Ulrich von Triest verschreibt dem Grafen M(einhard) von Gîrz ein Lehen
+von 8 Mark nicht aus dem gegenwÑrtigem Besitzstand, sondern die seiner Kirche
+als nÑchste ledig werden.
+F$Reg. Gîrz 1/507/134/134
+F$Kos 5/844/400/400
+G$Ulrich/Bischof/Triest/Triest//Istrien/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Belehnung/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+REG$Bischof Ulrich von Triest verschreibt dem Grafen M(einhard) von Gîrz ein Lehen
+von 8 Mark nicht aus dem gegenwÑrtigem Besitzstand, sondern die seiner Kirche
+als nÑchste ledig werden. Mittlerweile sollte der Graf jÑhrlich 3 Mark aus der
+Stiftskammer empfangen.
+F$Reg. Gîrz 1/507/134/134
+F$Kos 5/844/400/400
+G$X/Kammer/Triest/Triest//Istrien/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$EinkÅnfte?Ablîse_Lehen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$itri_19/1247.4.7/1247.4.7/1247 April 7/anno domini MCCXLVII. die septimo
+intrante mense aprilis indictione quinta/Triest/Triest//Istrien/
+S$Natale/Triest/Natale
+V$Natale/Triest/Natale
+V$Lazarus ?/Triest/Lazarus ?
+K$Pfarrer Peregrin von Cosana gibt seine Pfarre in die HÑnde Bischof Ulrichs von
+Triest. Dieser Åbergibt die Pfarre dem Kapitel zu Bistumsrecht?, welche Pfarrer
+Peregrin damit investiert.
+
+REG$Pfarrer Peregrin von Cosana gibt seine Pfarre in die HÑnde Bischof Ulrichs von
+Triest. Dieser Åbergibt die Pfarre dem Kapitel zu Bistumsrecht?, welche Pfarrer
+Peregrin damit gegen jÑhrlichen Zins in der Hîhe von 2 Mark Triestiner Pfennige
+investiert.
+F$CDI 2/278/479/479
+F$AT NS 05/39/376f/377
+G$Peregrin/Pfarrer/Cosana/Cosana//Istrien/
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Zinsverpflichtung/Immobilien_Pfarre/Cosana b.Triest/Cosana b.Triest//Istrien/
+W$Triest/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$solvendo annuatim \dots duas marchas denariorum Tergestinorum
+
+DOK$icap_1035/1035.6.4/1035.6.4/1035 Juni 4/anno dominice incarnationis MXXXV. indictione
+III. secundo nonas Iunii anno autem domini Conradi secundi regnantis
+undecimo imperantis vero nono/Bamberg/Bamberg//Bayern/
+S$?/?/?
+V$?/?/?
+K$Boten der Einwohnerschaft in Capodistria - im Amtsbezirg des Herzogs Adalbero
+- beklagen sich bei Kaiser Konrad II., da· sie wegen ihrer AnhÑnglichkeit an
+ihn Verfolgungen zu erleiden hÑtten.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Gold.
+F$Stumpf Acta imp./44/49f/?
+F$Kos 3/092/62f/63
+G$?/?/X/?//
+E$?/?/X/?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$?
+
+DOK$icap_1135/1135.3.5/1135.3.5/1135 MÑrz 5/anno domini 1135 die V.
+mensis marcii indictione XIII./Capodistria/Capodistria//Istrien/
+S$Martin/X/Martin
+V$Martin/X/Martin
+K$Adalpero und Adhuga schenken die Kirche S. Maria in Sermino? am Flu· Risamo?
+in Capodistria der Kirche S. Cipriano in Murano in Venedig.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/131/258f/258                   #Venedig 1135a?
+F$Kos 4/120/73f/73
+G$Adalbero/Genannter/Capodistria/Capodistria?//Istrien/
+E$X/Kirche/Venedig Murano/Venedig,Murano,S.Cipriano//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat compositurus \dots auri optimi libras tres
+
+DOK$icap_1186/1186.7.5/1186.7.5/1186 Juli 5/Regnante domino nostro Federico piissimo
+imperatore. Anno domini MCLXXXVI, indictione IV, mensis Julii quinto die
+intrante/Capodistria/Capodistria//Istrien/
+S$Almericus/Capodistria/Almericus
+V$Almericus/Capodistria/Almericus
+K$Die Kommune von Capodistria macht eine Schenkung aus dem Eigentum des
+Bischofs, nÑmlich Luparo, Padena, Pillo di Rovereto o Costabona, Isola di
+Risano (Sermin), 1000 WeingÑrten? und ôlzehnten, an das Bistum von Capodistria
+aus Anla· des Todes des Bischofs Bernhard von Triest und Capodistria.
+
+REG$Strafbestimmung in der Hîhe von 100 Pfund Gold.
+F$CDI 1/172/325f/325
+F$Kos 4/724/366f/366
+F$BCU Ms. Joppi 368 Fasz. 6/40/1f/2
+F$BCU Ms. Joppi 368 Fasz. 6/41/1f/2
+G$X/Kommune/Capodistria/Capodistria//Istrien/
+E$X/Bistum/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi libras centum componere nos obligamus
+
+DOK$icap_1189/1189.1.0/1189.1.0/1189 JÑnner/Regnante domino rege frid. piissimo imperatore. Anno
+domini MCLXXXVIIII. mense Ian. indictione VII./Capodistria/Capodistria//Istrien/
+S$Amalrich/Capodistria/Amalrich
+V$Amalrich/Capodistria/Amalrich
+K$Die Kommune von Capodistria verkauft dem Ulrich von Karst und dessen Frau
+Mariotta einen Weingarten in Carazano zum Preis von 5 Mark Silber.  ?
+
+REG$Die Kommune von Capodistria verkauft dem Ulrich von Karst und dessen Frau
+Mariotta einen Weingarten in Feranzano zum Preis von 5 Mark Silber.  ?
+F$AC Koper Perg./2/X/X
+G$Ulrich/Genannter/Karst/Karst//Karst/
+G$Mariotta/X/X/X//
+E$X/Kommune/Capodistria/Capodistria//Istrien/
+H$Kauf/Immobilien_Weingarten/Capodistria
+Feranzano/Capodistria,Feranzano//Istrien/
+W$X/X
+O$5/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$marcas arg. V
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$AC Koper Perg./2/X/X
+G$X/Kommune/Capodistria/Capodistria//Istrien/
+E$Ulrich/Genannter/Karst/Karst//Karst/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi lib. I
+
+DOK$icap_1202/1202.7.0/1202.7.0/1207 Juli/anno domini MCCII, mens. Jul., indict. V/Capodistria/Capodistria//Istrien/
+S$Americus?/Capodistria/Almericus?
+V$Americus?/Capodistria/Almericus
+K$Dekan Petrus und die Kanoniker von Capodistria Åbergeben ein quartisium? Wein,
+Getreide etc. in Istrien an Albinus und Elicha.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/193/358/358
+G$X/Kapitel/Capodistria/Capodistria//Istrien/
+E$Albinus/X/Isola/Isola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$libr. I optimi auri \dots componere se obligaverint
+
+DOK$icap_1203/1203.4.0/1203.4.0/1203 April/anno domini MCCIII. mense Aprilis,
+indictione VI./Capodistria/Capodistria,Gavello//Istrien/
+S$Almericus/Capodistria/Almericus
+V$Almericus/Capodistria/Almericus
+K$Diethalm und Rilenda von Muggia verkaufen an Eppo de Aldino von Capodistria
+und seine Frau Glirosa Land und einen Weingarten in Albaro bei Capodistria.
+
+REG$Diethalm und Rilenda de Muglia verkaufen an Eppo und Glirosa Land und einen
+Weingarten in Albaro bei Capodistria um eine Mark Silber.
+F$CDI 2/196/367/367
+F$Kos 5/053/38f/38
+G$Eppo de Aldino/X/Capodistria/Capodistria//Istrien/
+E$Diethalm/Genannter/Muggia/Muggia//Istrien/
+H$Kauf/Immobilien_Weingarten/Capodistria Albaro/Capodistria,Albaro
+//Istrien/
+W$X/X
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro marcha argenti una
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/196/367/367
+F$Kos 5/053/38f/38
+G$Diethalm/Genannter/Muggia/Muggia//Istrien/
+E$Eppo de Aldino/X/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$simus composituri \dots auri optimi libram unam
+
+DOK$icap_1225/1225.10.19/1225.10.19/1225 Oktober 19/X/X/X//
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$NN
+F$Kos 5/427/214/214
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/337/87/87
+G$Leonhard Roaldo/X/Venedig/Venedig//Venedig/
+E$Wezelo/X/Capodistria/Capodistria//Istrien/
+H$Lieferung/Kohlen/unbestimmt/unbestimmt//
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X?/X/A
+Q$?
+B$Vom Regest aufgenommen. Cessi noch nicht eingesehen.
+
+REG$NN
+F$Kos 5/427/214/214
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/337/87/87
+G$Leonhard Roaldo/X/Venedig/Venedig//Venedig/
+E$Wezelo/X/Capodistria/Capodistria//Istrien/
+H$Lieferung/Kohlen/unbestimmt/unbestimmt/
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X?/X/A
+Q$?
+B$Vom Regest aufgenommen. Cessi noch nicht eingesehen.
+
+REG$NN
+F$Kos 5/427/214/214
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/337/87/87
+G$Leonhard Roaldo/X/Venedig/Venedig//Venedig/
+E$Wezelo/X/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X?/X/Z
+Q$?
+B$Vom Regest aufgenommen. Cessi noch nicht eingesehen.
+
+DOK$icap_1206/1206.1.10/1206.1.10/1206 Januar 10/datum IIII. Idus Ianuarii/X/X//
+S$X/X/X
+V$X/X/X
+K$Papst Innozenz III. gibt die Erlaubnis, da· sich das Bistum von Emona mit dem
+Bistum von Capodistria zusammenschlie·t aus Mangel an EinkÅnften, da dessen
+EinkÅnfte sieben Mark nicht Åbersteigen.                             ?
+
+REG$EinkÅnfte des Bischofs von Emona von nicht mehr als 7 Mark.
+F$CDI 2/204/378/378
+G$X/X/X/X//
+E$X/Bistum/Capodistria/Capodistria//Istrien  ?Emona
+H$EinkÅnfte/Wertangabe/Cittanova d'Istria/Cittanova d'Istria/Emona/Istrien,Novi grad/
+W$X/X/
+O$7/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$cum dictus episcopatus non habeat ultra septem marcharum redditus
+B$? Migne, II, 758; Theiner, Vetera mon. Slavorum meridion., I,43, Nr. 57;
+AT, III. serie, V, 367. Kopien fehlen. Kos V, Nr. 97.
+
+DOK$icap_1208/1208.0.0/1208.0.0?/1208/X/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Rechte des Patriarchen und der Kirche von Aquileia in Istrien. ?
+
+REG$Strafbestimmung in der Hîhe von 100 Byzantinern.
+F$CDI 2/206/380ff/380
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Verbrecher/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/Capodistria/Capodistria//Istrien  ?
+W$Byzanz/X/
+O$100/X/X
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$componunt centum Bisanzios domino patriarche
+B$(zu Gerichtsbarkeit in Capod.) ?von Studenten A wieso?
+
+REG$Zahlungsverpflichtung der Notare von Capodistria an den Patriarchen von
+Aquileia in der Hîhe von 5 Venet. Schillingen.
+F$CDI 2/206/380ff/380
+G$X/Notare/Capodistria/Capodistria//Istrien/
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zahlungsverpflichtung/Geldsumme/Aquileia ?bei Placitum d.Patr./Aquileia bei
+Placitum d.Patr.?//Friaul-Patr.oder?
+H$Placitum/Zahlungsverpflichtung/Aquileia/Aquileia//Friaul-Patr. ?
+W$Venedig/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$et quilibet notarius dare debet ipsi domino patriarche quinque
+soldos venetos
+B$Gerichtstermin (placitum) in
+
+REG$HafengebÅhr in Capodistria an den Patriarchen von Aquileia in der Hîhe von 2
+Byzantinern.
+F$CDI 2/206/380ff/380
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/X/Capodistria/Capodistria//Istrien/
+H$Leistungspflicht/HafengebÅhr/Capodistria/Capodistria//Istrien ?
+W$Byzanz/X/
+O$2/X/X
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$et quelibet navis cum cabia que intrat portum Iustinopolis debet
+solvere duos Bisanzios
+
+REG$Zins an den Patriarchen von Aquileia fÅr einen Weingarten in Buie in der Hîhe
+von einem congium? und 16 Pfund Veronesern.
+F$CDI 2/206/380ff/381
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/X/Buje/Buje//Istrien/
+H$Leistungspflicht_Zins/Immobilien_Weingarten/Buje/Buje//Istrien/
+W$Verona/X/
+O$16/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$et quilibet habens vineam dat unum congium vini et sexdecim libras Veronenses
+
+REG$Die Kommune von Portole zahlt jÑhrlich 6 Pfund Veroneser an den Patriarchen
+von Aquileia.
+F$CDI 2/206/380ff/381
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Portole/Portole//Istrien/
+H$Leistungspflicht/Zins/Portole/Portole?//Istrien/
+W$Verona/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim comune solvit \dots et libras sex Veronenses
+
+REG$Leistungspflicht eines Meiers in Porole an den Patriarchen von Aquileia,
+nÑmlich ein Lamm im Wert von 7 Schillingen.
+F$CDI 2/206/380ff/381
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Meier/Portole/Portole//Istrien/
+H$Leistungspflicht/Wertangabe/Portole/Portole?//Istrien/
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$X/X/X/Z
+A$7 Schill. (Veroneser)/1 Lamm
+Q$quilibet massarius unum agnum valentem soldos septem dat
+B$"Veroneser" aus dem Zusammenhang erschlossen.
+
+REG$Jeder, der einen Stein aus Arena und Jadri? empfÑngt, mu· dem Patriarchen von
+Aquileia 100 Byzantiner bezahlen.
+F$CDI 2/206/380ff/381
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/X/Pola/Pola//Istrien/
+H$GebÅhr/Steine von Arena/Pola/Pola//Istrien/
+H$GebÅhr/Steine von Jadri?/unbestimmt/?/  wo??
+W$Byzanz/X/
+O$100/X/X
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$Item quicunque accipit aliquem lapidem de dictis palatiis Iadri et
+Arene pro quolibet lapide quem accipit solvit domino patriarche centum
+Bisancios
+
+REG$Leistungspflicht der Kommune von Albona an den Patriarchen von Aquileia in der
+Hîhe von 19 Pfund Veronesern.
+F$CDI 2/206/380ff/382
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Albona/Albona//Istrien/
+H$Leistungspflicht/Zahlung/Albona/Albona//Istrien/
+W$Verona/X/
+O$19/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Item a communi libras decem novem Veronenses
+
+REG$Leistungspflicht eines Meiers in Cortalba an den Patriarchen von Aquileia in
+der Hîhe von 7 Schillingen.
+F$CDI 2/206/380ff/382
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Meier/Cortalba/Cortalba//Istrien/
+H$Leistungspflicht/Zahlung/Cortalba/Cortalba//Istrien/
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$quilibet massarius dat unam bestiam et duos soldos
+
+DOK$icap_1212/1212.6.3/1212.6.3/1212 Juni 3/anno dom. MCCXII mensis
+Iunii die III. indictione XIV./Capodistria/Capodistria//Istrien/
+S$Andricus/Capodistria/Andricus
+V$Andricus/Capodistria/Andricus
+K$öbereinkunft zwischen dem Kapitel von Capodistria und den Klerikern von
+Isola betreffend den Zins.
+
+REG$Das Kapitel von Capodistria erhÑlt jÑhrlich von den Klerikern von Isola 4
+Pfund Pfennige Zins.
+F$CDI 2/213/391f/391
+F$Ughelli 5/X/383f/383
+F$Kos 5/195/102f/102
+G$X/Kleriker/Isola/Isola//Istrien/
+E$X/Kapitel/Capodistria/Capodistria//Istrien/
+H$Zinsverpflichtung/Immobilien/Isola/Isola//Istrien/
+W$Venedig/X/
+O$4/lib./X
+Z$X/X/X
+M$X/den./verus?/Z
+Q$annuatim ad festum S. Martini in perpetuum quatuor libras veri denarii?
+B$Von beiden Herausgebern "veri denarii" gelesen, kann es sinnvollerweise nur
+"Venetorum denariorum" hei·en. ?
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/213/391f/391
+F$Ughelli 5/X/383f/383
+F$Kos 5/195/102f/103
+G$X/Kapitel/Capodistria/Capodistria//Istrien/
+E$X/Kleriker/Isola/Isola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi libram unam \dots composituros
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/213/391f/391
+F$Ughelli 5/X/383f/383
+G$X/Kleriker/Isola/Isola//Istrien/
+E$X/Kapitel/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$pena unius libre optimi auri
+
+DOK$icap_1216/1216.9.23/1216.9.23/1216 September 23/anno domini MCCXVI.
+mense Septembris die VIII exeunte, indictione XIV/Capodistria/Capodistria//Istrien/
+S$Almericus/Capodistria/Almericus
+V$Almericus/Capodistria/Almericus
+K$Der ErwÑhlte Vrethemarus von Capodistria schenkt dem Kloster S. Tomaso di
+Torcello die Zehnten und das Quartese der WeingÑrten und Felder, welche sie in
+Capodistria besitzen.
+
+REG$Zinsverpflichtung des Klosters S. Tomaso di Torcello gegenÅber der Kirche S.
+Maria in Capodistria in der Hîhe von einem kleinen Venetian. Pfennig jÑhrlich.
+F$CDI 2/221/403/403
+G$X/Kloster/Venedig Torcello/Venedig,Torcello,S.Tomaso//Venedig/
+E$X/Kirche/Capodistria/Capodistria,S.Maria//Istrien/
+H$Leistungspflicht/Zins/Capodistria/Capodistria//Istrien/
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./parv./Z
+Q$solvendo vos et successores vestri \dots annuatim ad festum Nativitatis S.
+Marie Virginis denarium unum Venet. parvum
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/221/403/403
+G$Vrethemarus/ErwÑhlter/Capodistria/Capodistria//Istrien/
+E$X/Kloster/Venedig Torcello/Venedig,Torcello,S.Tomaso//Venedig/
+H$Pînale/Strafgeld/Venedig Torcello/Venedig,Torcello//Venedig?/
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi lib. unam \dots compensaturos
+
+DOK$icap_1229/1229.2.17/1229.2.17/1229 Februar 17/anno domini MCCXXVIIII. indictione secunda XII.
+die intr. mensis Febr./Capodistria/Capodistria,Castelliero//Istrien/
+S$Severin/Capodistria/Severin
+V$Severin/Capodistria/Severin
+K$Die Stadt Capodistria verzichtet auf Land zugunsten der Kirche von
+Capodistria.?
+
+REG$Strafbestimmung in der Hîhe von zwei Pfund Gold.
+F$AC Koper Perg./5/X/X
+F$AC Koper Perg./6/X/X
+F$AT NS 01/X/141/141
+F$BCU Ms. Joppi 369 Fasz.3/53/1/1
+F$Kos 5/498/249/249
+G$X/X/X/X//
+E$X/Kommune/Capodistria/Capodistria//Istrien, Koper
+E$X/Kapitel/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$teneatur in pena auri optimi libras duas
+
+DOK$icap_1233/1233.4.9/1233.4.9/1233 April 9/?/Capodistria/Capodistria//Istrien/
+S$X/X/X
+V$X/X/X
+K$Varnerius de Leonardo verkauft zusammen mit seiner Frau Madonia Graf Johannes
+Corinus von Grado einen Weingarten in Capodistria zum Preis von 17 Pfund kleiner
+Venetianer, welchen der Graf fÅr Bischof Marco Michael von Castellano kauft.
+
+REG$Varnerius de Leonardo verkauft zusammen mit seiner Frau Madonia Graf Johannes
+Corinus von Grado einen Weingarten in Capodistria zum Preis von 17 Pfund kleiner
+Venetianer.
+F$Kos 5/590/283/283
+F$Minotto, Acta I,1/17/17/17
+G$Joh.Corinus/Graf/Grado/Grado//Venedig/
+E$Varnerius de Leonardo/X/Capodistria/Capodistria//
+H$Kauf/Immobilien_Weingarten/Capodistria/Capodistria//Istrien/
+W$Venedig/X/
+O$17/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$precio XVII lib. venet. parvul.
+B$Nach dem Regest aufgenommen.
+
+DOK$icap_1235/1235.5.27/1235.5.27/1235 Mai 27/anno domini MCCXXXV. indictione VIII. die V. exeunte
+mensis madii/Capodistria/Capodistria//Istrien/
+S$Wezelo/Capodistria/Wezelo
+V$Wezelo/Capodistria?/Wezelo
+K$Das Kapitel von Capodistria verpachtet eine MÅhle in Risano an?
+
+REG$Strafbestimmung in der Hîhe von 12 Pfund Venetianer.
+F$AC Koper Perg./7/X/X
+G$X/Kapitel/Capodistria/Capodistria//Istrien/
+E$X/X/X/X//?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig?/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XII lib. Ven.?
+
+REG$Das Kapitel von Capodistria verpachtet eine MÅhle? in Risano um 3 Pfennige.?
+F$AC Koper Perg./7/X/X
+G$X/X/X/X//?
+E$X/Kapitel/Capodistria/Capodistria//Istrien/
+H$Verpachtung/Immobilien/Decani Risano/Decani,Risano//Istrien,Flu· bei Koper
+wohl in Decani/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$tres den.?
+
+REG$Strafbestimmung in der Hîhe von 2 Mark Venetianer.
+F$AC Koper Perg./7/X/X
+G$X/Kapitel/Capodistria/Capodistria//Istrien/
+E$X/X/X/X//?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//?
+W$Venedig?/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena duarum marcarum Ven.?
+
+DOK$icap_1235aa/1235.7.8/1235.7.8/1235 Juli 8/anno domini MCCXXX? quinto
+indictione octava mense Iulio octavo die exeunte/Capodistria/Capodistria//Istrien/
+S$Ambrosius/Capodistria/Ambrosius?
+V$Ambrosius/Capodistria/Ambrosius
+K$L? und das Kapitel von Capodistria Åbergeben dem Patriarchen Paulus und seinem
+Erben? einen MÅhlstein? in der grî·eren MÅhle auf acht Jahre gegen jÑhrlichen
+Zins.
+
+REG$Strafbestimmung in der Hîhe von 25 Pfund Venetianer.
+F$AC Koper Perg./8/X/X
+G$X/Kapitel/Capodistria/Capodistria//Istrien/
+E$Paulus/Patriarch/X/?X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena XXV librarum Ven.
+
+DOK$icap_1247/1247.10.2/1247.10.2/1247 Oktober 2/anno domini MCCXLVII.
+indictione V, die secundo intrante octubri/Capodistria/Capodistria//Istrien/
+S$Richard/Capodistria/Richard
+V$Richard/Capodistria/Richard
+K$Konrad, der ErwÑhlte von Capodistria, bestÑtigt dem Kloster S. Michele in
+Murano die Erlassung der Zehnten seines Hauses in Grema in Capodistria,
+vorbehaltlich des Quartesiums?, das den Kanonikern zukommt.
+
+REG$Strafbestimmung in der Hîhe von 100 Pfund kleiner Venetianer.
+F$CDI 2/279/480f/481
+G$Konrad/ErwÑhlter/Capodistria/Capodistria//Istrien/
+E$X/Kloster/Venedig Murano/Venedig,Murano,S.Michele//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$sub pena centum librarum Ven. parvulorum
+
+DOK$ipir_03/1173.1.16/1173.1.16/1173 JÑnner 16/XVII kalendas februarii, anno
+dominice incarnationis MCLXXIII, indictione V/Mocco/Mocco//Istrien?/
+S$Turpinus/Triest?/Turpinus
+V$Turpinus/Triest?/Turpinus
+K$Bischof Bernhard von Capodistria und Triest schenkt dem Pfarrer und Kirche von
+Piran das Quartisium der Zehnten von Castelvenere.
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold, wovon die HÑlfte an die Kasse
+des Bistums von Triest und die andere HÑlfte an die Kirche von Piran
+gezahlt werden soll.
+F$Piran/3/3f/4
+F$CDI 1/152/290/290
+F$Kos 4/531/268/268
+G$X/X/X/X//
+E$X/Kasse_Bistum/Triest/Triest//Istrien/
+E$X/Kirche/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat se compositurum auri optimi libras decem
+
+DOK$ipir_53/1204.0.0/1204.0.0/[1204]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Die Vertreter von Piran fordern von den Beauftragten des Papstes Innozenz, da·
+sie Bischof Aldericus von Capodistria zur Herausgabe der Zehnten und zur
+UnterstÅtzung der Armen zwingen.
+
+REG$Bischof Aldericus von Capodistria soll von den Beauftragten des Papstes
+Innozenz dazu veranla·t werden, die Kirche von S. Georgii und andere Kirchen
+und die Armen mit 1000 Pfund Venet. zu unterstÅtzen. ?
+F$Piran/53/70/70
+G$Aldericus/Bischof/Capodistria/Capodistria//Istrien/
+E$X/Kirche/Piran S.Georgius/Piran,S. Georgius//Piran
+H$UnterstÅtzung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$de ablatis ecclesie Sancti Georgii vel ecclesiis et pauperibus mille libras
+venecialium petimus
+
+DOK$ipir_55/1204.10.13/1204.10.13/1204 Oktober 13/anno domini MCCIIII, mense octobris, die
+tercio decimo intrante, indictione octava/Ferrara/Ferrara//Romagna/
+S$Clefax/X/Clefax
+V$Clefax/X/Clefax
+K$Bartholomeus, der Vertreter des Bischofs Aldericus von Capodistria,
+Diakon Artuicus und Iustus de Bona als Vertreter des Klerus und des Volkes von
+Piran Åbergeben ihre Klageschriften den Bischîfen Ugguccio von Ferrara und
+Dominikus von Chioggia.
+
+REG$Bischof Aldericus von Capodistria soll von den Beauftragten des Papstes
+Innozenz dazu veranla·t werden, die Kirche von S. Georgii und andere Kirchen
+und die Armen mit 1000 Pfund Venet. zu unterstÅtzen. ?
+F$Piran/55/71ff/73
+G$Aldericus/Bischof/Capodistria/Capodistria//Istrien/
+E$X/Kirche/Piran S.Georgius/Piran,S. Georgius//
+H$UnterstÅtzung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$de ablatis ecclesie Sancti Georgii et aliarum ecclesiarum et pauperum M
+libras venetia?rum petimus
+
+DOK$ipir_64/1205.10.3/1205.10.3/1205 Oktober 3/anno a nativitate eiusdem MCCV, die tercio
+intrante mense octubre, indictione octava/Ferrara/Ferrara//Romagna/
+S$Natale/X/Natale
+V$Natale/X/Natale
+K$Der Bischof von Capodistria und die Vertreter von Piran versprechen den
+Beauftragten des Papstes Innozenz, den Vergleich zu befolgen.
+
+REG$Die Vertreter von Piran versprechen den delegierten Bischîfen jÑhrlich 1000
+Pfund Venet. zu zahlen. ?Strafbestimmung in der Hîhe von
+F$Piran/64/86f/87
+G$X/Klerus/Piran/Piran//Istrien      ?
+G$X/Volk?/Piran/Piran//Istrien       ?
+E$Uguccio/Bischof/Ferrara/Ferrara//Romagna ?
+E$Aldericus?/Bischof/Capodistria/Capodistria//Istrien  ?
+E$Dominikus/Bischof/Chioggia/Chioggia//Venedig   ?
+H$Pînale/Geldsumme/unbestimmt/unbestimmt//  ?
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$et nisi starent dicto et laudamento \dots promiserunt partes solvere et dare
+ipsis delegatis episcopis per solepnem stipualcionem mille libras venecialium
+
+DOK$ipir_65/1205.10.3/1205.10.3/1205 Oktober 3/anno a nativitate eiusdem
+MCCV, die tertio intrante mense Octub. indictione VII?/Ferrara/Ferrara//Romagna/
+S$Natalis/imp.?Ferrara/Natalis
+V$Natalis/Ferrara/Natalis
+K$Die Bischîfe von Ferrara und von Chioggia als vom Papst Innocenz III.
+bestellte
+Richter entscheiden im Streit zwischen dem Bischof Aldigerius von Capodistria,
+der die Zehnten vom ôl von Piran beansprucht, und den Klerikern und dem Volk von
+Piran, die zwei Viertel der Zehnten der anderen Dinge beanspruchten. ?
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venetianern?.
+F$CDI 2/202/375f/375
+F$Piran/65/87ff/88
+G$X/Bistum/Ferrara/Ferrara//Romagna/
+G$X/Bistum/Chioggia/Chioggia//Venedig/
+E$X/Bistum/Capodistria/Capodistria//Istrien/
+E$X/Kapitel/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pena mille librarum Venec.           ?penam
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venetianern.?
+F$CDI 2/202/375f/375
+F$Piran/65/87ff/88
+G$X/Bistum/Ferrara/Ferrara//Romagna/
+G$X/Bistum/Chioggia/Chioggia//Venedig/
+E$X/Bistum/Capodistria/Capodistria//Istrien/
+E$X/Kapitel/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille librarum Venec.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venetianern.?
+F$CDI 2/202/375f/376
+F$Piran/65/87ff/89
+G$X/Kapitel/Piran/Piran//Istrien/
+E$Aldigerius/Bischof/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille librarum Venec. dicto episcopo promittant
+
+REG$Ausgleichszahlung des Kapitels und der Kommune von Piran an den Bischof
+Aldigerius von Capodistria betreffend die Zehnten in der Hîhe von 300 Pfund
+Venetianer? minus 22?.
+F$CDI 2/202/375f/376
+F$Piran/65/87ff/89
+G$Jakob Viadrus/Kapitel_Vertreter/Piran/Piran//Istrien/
+G$Justus/Kommune_Vertreter/Piran/Piran//Istrien/
+E$Aldigerius/Bischof/Capodistria/Capodistria//Istrien/
+H$Ausgleichszahlung/Zehnten/Piran/Piran?//Istrien/
+W$Venedig/X/
+O$300/lib./X
+O$22/lib./minus
+Z$X/X/X
+M$22/X/X/Z
+Q$pro bono pacis et quia prefatus episcopus diu et magnis expensis
+fatigatus et est gravatus, laudamus et precipimus quod dicti sindici
+prefacto episcopo CCC libras venecialium XXII minus solvant
+In CDI ist von 25 ??? Pfennigen die Rede.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venetianern.?
+F$CDI 2/202/375f/376
+F$Piran/65/87ff/89
+G$X/Bistum/Ferrara/Ferrara//Romagna/
+G$X/Bistum/Chioggia/Chioggia//Venedig/
+E$X/Bistum/Capodistria/Capodistria//Istrien/
+E$X/Kapitel/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille librarum Venec.
+
+DOK$ipir_66/1209.1.4/1209.1.4/1208? Januar 4/anno eiusdem nativitatis
+MCCVIIII, indictione XII, quarto die intrante Ianuario/Rovigno/Rovigno//Istrien/
+S$Papo/X/Papo ?
+V$Papo/X/Papo
+K$Friedensvertrag zwischen den Kommunen von Piran und Rovigno.
+
+REG$Die Kommune von Piran zahlt der Kommune von Rovigno 20 Mark in Silber als
+Wiedergutmachung ihrer Zerstîrungen.
+F$CDI 2/207/384/384
+F$Piran/66/90f/90
+G$X/Kommune/Piran/Piran//Istrien/
+E$X/Kommune/Rovigno/Rovigno//Istrien/
+H$Friedensvertrag/Wiedergutmachung/Rovigno/Rovigno//Istrien/
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$pro restauratione sue destructionis hominibus de Rubinio XX marcas
+de argento
+B$CDI 2 Nr. 207 zu 1208.1.4.
+
+REG$Strafbestimmung in der Hîhe von 100 Mark.
+F$CDI 2/207/384/384
+F$Piran/66/90f/90
+G$X/Kommune/Piran/Piran//Istrien/
+E$X/Kommune/Rovigno/Rovigno//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena C marcarum
+B$CDI 2 Nr. 207 zu 1208.1.4.
+
+DOK$ipir_69/1212.5.20/1212.5.20/1212 Mai 20/anno domini MCCXII, mense
+madii, die mercurii XII exeunte, indicione XIIIII/V.Sicciole/V. Sicciole//Istrien/
+S$Almericus/Capodistria/Almericus
+V$Almericus/Capodistria/Almericus
+K$Wolfger, Patriarch von Aquileia und Markgraf von Istrien und Krain, setzt
+die Besitzungen und Grenzen der Kommunen von Piran und Isola fest.
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark.
+F$Piran/69/94ff/95
+G$X/Kommune/Piran/Piran//Istrien/
+G$X/Kommune/Isola/Isola//Istrien/
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille marcharum  ?Handschrift penam?? mille marcharum
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark.
+F$Piran/69/94ff/96
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena \dots mille marcharum
+
+DOK$ipir_70/1212.5.20/1212.5.20/1212 Mai 20?/anno domini [MCCXII, mense
+madii, die \dots, indicione XV]/V.Sicciole/V.Sicciole? Piran/plano de
+Loce/Istrien,in finibus Piran
+S$Almericus/X/Almericus?
+V$Almericus/X/Almericus?
+K$Wolfger, Patriarch von Aquileia und Markgraf von Istrien und Krain, setzt
+die Besitzungen und Grenzen der Kommunen von Piran, Buie und Castelvenere fest.
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark, wovon die HÑlfte an den Patriarchen
+von Aquileia, die andere HÑlfte an jene Kommune bezahlt werden soll, die sich an
+die Abmachung gehalten hat.
+F$Piran/70/97ff/98
+G$X/Kommune/Piran/Piran//Istrien  ?Umag
+G$X/Kommune/Buje/Buje//Istrien   ?Umag
+G$X/Kommune/Piran Castelvenere/Piran,Castelvenere/Castelvenere/Istrien
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille marcharum
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark.
+F$Piran/70/97ff/99
+G$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena mille marcarum
+
+DOK$ipir_71/1222.12.18/1222.12.18/1222 Dezember 18/anno domini MCCXXII, die XIV
+exeunte mensis X.bri, indicione X/Piran/Piran//Istrien    Oktober?
+S$Almericus/Piran/Almericus
+V$Almericus/Piran/Almericus
+K$Dominikus, der Sohn des Petrus Murari, und seine Frau Pilizza verkaufen
+vier Frauen aus Piran unter anderem die HÑlfte eines Hauses in Piran.
+
+REG$Dominikus, der Sohn des Petrus Murari, und seine Frau Pilizza verkaufen
+vier Frauen aus Piran unter anderem die HÑlfte eines Hauses in Piran um 7 Pfund
+Venet.
+F$CDI 2/234/418/418
+F$Piran/71/99ff/100
+F$Kos 5/367/190f/191
+G$Pirina;Floris;Ricarda;Vecela/X/Piran/Piran//Istrien/
+E$Dominikus Murari/X/Piran/Piran?//Istrien/
+H$Kauf/Immobilien/Piran/Piran//Istrien ?
+W$Venedig/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$idem precium quod fuit per ad preciatum ad libras Venecialium  arum? VII
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/234/418/418
+F$Piran/71/99ff/100
+F$Kos 5/367/190f/191
+G$Dominikus Murari/X/Piran/Piran?//Istrien/
+E$Pirina;Floris;Ricarda;Vecela/X/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi libram unam
+
+DOK$ipir_72/1226.1.19/1226.1.19/1226 Januar 19/[anno domini MCCXXVI,] die
+XIII? ianuario/Venedig/Venedig!//Venedig/
+S$X/X/X
+V$X/X/X
+K$BÅrgschaft des Hartwig Masaro fÅr Arnostus des Piran. ?
+
+REG$Strafbestimmung in der Hîhe von 200 Pfund Venet.
+F$Piran/72/101/101
+F$Kos 5/437/220/220
+F$ASV Lib. Pleg./18/?/?
+G$Arnostus/Genannter/Piran/Piran/Istrien
+E$Hartwig Masaro/X/Venedig/Venedig/Venedig
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pleiavit \dots sub pena librarum CC venecialium
+B$Aus Lib. Pleg. Venedig
+
+DOK$ipir_73/1227.9.28/1227.9.28/1227 September 28/[anno domini MCCXXVII],
+mense septembris tercio die exeunte, indictione
+prima/Venedig/Venedig!//Venedig/
+S$X/X/X
+V$X/X/X
+K$Nach dem Schiedsspruch des Dogen Petrus Ziani von Venedig und des Gro·en
+Rates? und der 40, einiger Ventianer und von Chioggia?, die durch Piran Schaden
+erlitten, mu· der Schaden ersetzt werden.
+
+REG$Vitalis Carazacanapo und seine Kameraden? erhielten fÅr zwei Drittel des
+Schadens, den ihnen die Bewohner von Piran zugefÅgt hatten, 1233 Pfund minus 12
+Schilling Venet.
+F$Piran/73/101f/102
+F$ASV Lib. Pleg./88/?/?
+G$X/Bewohner/Piran/Piran//Istrien/
+E$Vitalis Carazacanapo/X/Venedig/Venedig//Venedig  ?
+H$Schadenersatz/Wiedergutmachung/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1233/lib./X
+Z$12/sol./minus
+M$X/X/X/A
+Q$soluti fuerunt \dots inter omnes libras MCCXXXIII minus soldos 12
+venecialium.
+B$Aus Lib. Pleg. Venedig
+
+REG$Vitalis Carazacanapo und seine Kameraden? sollen fÅr das dritte Drittel des
+Schadens, den ihnen die Bewohner von Piran zugefÅgt haben, 607,5 Pfund erhalten.
+F$Piran/73/101f/102
+F$ASV Lib. Pleg./88/?/?
+G$X/Bewohner/Piran/Piran//Istrien/
+E$Vitalis Carazacanapo/X/Venedig/Venedig//Venedig  ?
+H$Schadenersatz/Wiedergutmachung/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$607,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut de tercia parte que illis deficit in bonis Piranensium debeant
+persolvi similiter, que tercia pars ascendit libras DCVII 1|2
+B$Aus Lib. Pleg. Venedig
+
+DOK$ipir_74/1228.8.4/1228.8.4/1228 August 4/[anno domini MCCXXVIII,
+indictione II], die quarto intrante augusto/Venedig/Venedig!//Venedig/
+S$X/X/X
+V$X/X/X
+K$Johannes Maltalentus und Heinrich de Germana als Boten der Kommune Piran
+versprechen dem Cerneca in Venedig? fÅr die vollstÑndige Bezahlung des durch die
+Bewohner von Piran erlittenen Schadens zu sorgen.
+
+REG$Johannes Maltalentus und Heinrich de Germana als Boten der Kommune Piran
+versprechen dem Cerneca in Venedig? fÅr die vollstÑndige Bezahlung des
+dritten Teiles des durch die Bewohner von Piran erlittenen Schadens in der
+Hîhe von 608 Pfund Venet. zu sorgen.
+F$Piran/74/102f/103
+F$ASV Lib. Pleg./93/?/?
+G$X/Kommune/Piran/Piran//Istrien/
+E$Cerneca/X/Venedig/Venedig//Venedig/
+H$Schadenersatz/SchÑden/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$608/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$illas libras DCVIII venecialium quas comune Pirani debebat
+B$Aus Lib. Pleg. Venedig
+
+REG$Johannes Maltalentus und Heinrich de Germana als Boten der Kommune Piran
+versprechen dem Cerneca in Venedig? fÅr die vollstÑndige Bezahlung des
+dritten Teiles des durch die Bewohner von Piran erlittenen Schadens in der
+Hîhe von 608 Pfund Venet. zu sorgen. Die Summe soll an zwei festgesetzten
+Terminen beglichen werden.
+F$Piran/74/102f/103
+F$ASV Lib. Pleg./93/?/?
+G$X/Kommune/Piran/Piran//Istrien/
+E$Cerneca/X/Venedig/Venedig//Venedig/
+H$Schadenersatz/SchÑden/unbestimmt/unbestimmt//
+W$X/X/
+O$607,5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in libro isto, quarum librarum DCVII 1|2 medietatem solvent vel facient solvi
+in procimo carnisprivio, et aliam medietatem in pasca resurecionis
+B$Aus Lib. Pleg. Venedig.
+Teilzahlung.
+
+DOK$ipir_75/1229.5.3/1229.5.3/1229 Mai 3/anno domii MCCXXVIIII, indictione
+secunda, die tercio intrante madio/Piran/Piran//Istrien/
+S$Ventura/sac?X/Ventura
+V$Ventura/X/Ventura
+K$Leonardo de Tricano, der BÅrgermeister von Piran, verspricht dem Johannes
+Pampulus aus? Caorle 144 centenaria ôl fÅr ein Darlehen der Kommune von Piran zu
+bezahlen.
+
+REG$Leonardo de Tricano, der BÅrgermeister von Piran, verspricht fÅr ein Darlehen
+in der Hîhe von 312 Pfund kl. Venet. Pfennige dem Johannes Pampulus aus? Caorle
+144 centenaria ôl zu geben. ?
+F$Piran/75/103f/103
+G$Johannes/Pampulus/Caorle/Caorle//Venedig/
+E$X/Kommune/Piran/Piran//Istrien/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$312/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$pro CCCXII libris denariorum venetorum parvorum
+
+DOK$ipir_77/1230.12.22/1230.12.22/1230 Dezember 22/X/Piran/Piran//Istrien/ #
+S$Almericus/X/Almericus
+V$Almericus/X/Almericus
+K$?
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$Piran/77/105/105
+G$Johannes/Pampulus/Caorle/Caorle//Venedig/
+E$X/Kommune/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sub pena librarum quinque optimi auri
+B$Nach dem Regest aufgenommen.
+
+DOK$ipir_78/1231.2.22/1231.2.22/1231 Februar 22/X/Aquileia/Aquileia//Friaul-SÅd/
+S$Andreas/kaiserl. Notar/Andreas
+V$Andreas/kaiserl. Notar/Andreas
+K$Giovanni Bonvino und andere ReprÑsentanten der Kommune von Piran schlie·en
+einen Nachbarschaftsvertrag und ein SchutzbÅndnis mit dem Patriarchen Berthold
+von Aquileia.
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark Silber.
+F$Piran/78/105ff/108
+F$Joppi Aggiunte/7/23ff/26
+F$Kos 5/537/265f/266
+F$BCU Ms. Joppi 369 Fasz. 4/03/1f/2
+G$X/Kommune/Piran/Piran//Istrien/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$sub pena marcharum mille puri argenti obtime examinati
+
+DOK$ipir_79/1232.10.0/1232.10.0/1232 Oktober/anno domini MCCXXXII, mense
+octubris, indictione sexta/Venedig/Venedig//Venedig/
+S$Fantinicus/S. Fantinus/Fantinicus ?
+V$Fantinicus/S. Fantinus/Fantinicus
+K$Rizzardo Sisinulo aus Venedig? erklÑrt, da· er die Urkunde, die die
+Kommune von Piran zur Zahlung ?von Wein verpflichtet, vernichtet hat. ?
+
+REG$Strafbestimmung in der Hîhe von 500 Goldpfund.
+F$Piran/79/108f/109
+G$Rizzardo Sisinulo/X/Venedig/Venedig//Venedig/
+E$X/Kommune/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$500/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$si igitur contra hanc securitatis cartulam ire temptavero \dots aureas libras
+quingentas
+
+DOK$ipir_80/1232.10.0/1232.10.0/1232 Oktober/anno domini MCCXXXII, mensis
+octubris, indictione sexta/Venedig/Venedig//Venedig/
+S$Fantinitus/S. Fantinus/Fantinitus
+V$Fantinitus/S. Fantinus/Fantinitus
+K$Philippa, die Frau des Graziano Giorgio aus Venedig, bestÑtigt, da· ihr
+Mann die Urkunde, die die Kommune von Piran zur Zahlung von Wein verpflichtet,
+vernichtet hat. ?
+
+REG$Strafbestimmung in der Hîhe von 500 Goldpfund.
+F$Piran/80/109f/110
+G$Philippa/X/Venedig/Venedig//Venedig/
+E$X/Kommune/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$500/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$aureas libras quingentas
+
+DOK$ipir_81/1238.3.4/1238.3.4/1238 MÑrz 4/anno eiusdem nativitatis MCCXXXVIII.,
+indictione XI., die IV. intrante martio/Pola/Pola//Istrien/
+S$Rantulfus/Piran?/Rantulfus
+V$Rantulfus/Piran?/Rantulfus
+K$Patriarch Berthold von Aquileia entscheidet im Streit zwischen Petrus
+Apolonius und seinem Bruder Anoe einerseits und der Kommune von Piran
+andererseits wegen Geld, das ihnen von venetianischen BÅrgern weggenommenem
+worden ist.
+
+REG$Patriarch Berthold von Aquileia entscheidet im Streit zwischen Petrus
+Apolonius und seinem Bruder Anoe einerseits und der Kommune von Piran
+andererseits wegen 1246 Pfund Venet., die ihnen von venetianischen BÅrgern
+weggenommenem worden ist.
+F$Piran/81/111ff/111
+F$CDI 2/270/466f/466
+F$Kos 5/690/329f/329
+G$Petrus Apolonius;Anoe/X/X/X//
+E$X/BÅrger/Venedig/Venedig//Venedig        ?
+H$Streitsache/Weggenommenes Geld/Piran/Piran?//Istrien/
+W$Venedig/X/
+O$1246/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$mille et CCXXXXVI libras veneciales
+B$Kandler liest "venetiarum" statt "veneciales".
+
+DOK$ipir_82/1239.11.8/1239.11.8/1239 November 8/anno domini MCCXXXVIIII, die
+VIII intrante mensis novembris, indicione XII/Piran/Piran//Istrien/
+S$Almericus/Piran/Almericus
+V$Almericus/Piran/Almericus
+K$Der Pfarrer und die Kanoniker von Piran bestÑtigen, da· der piraner Notar
+Dominikus den schuldigen Zins fÅr die KastanienbÑume in Pesente bezahlt habe.
+
+REG$Pfarrer Adalgerius und das Kapitel der Kirche S. Georgii in Piran bestÑtigen
+von piraner Notar Dominikus den Zins fÅr KastanienbÑume in der Hîhe von 6
+kleinen Venet. Pfennigen erhalten zu haben.
+F$Piran/82/113/113
+G$Dominikus/Notar/Piran/Piran//Istrien/
+E$X/Pfarre/Piran/Piran//Istrien/
+H$Quittung/Zins/Piran Pesente/Piran,Pesente//in finibus Piran
+W$Venedig!/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./parv./A
+Q$debet reddere anuatim denarios parvos VI
+
+DOK$ipir_83/1247.3.8/1247.3.8/1247 MÑrz 8/anno domini MCCXLVII, die VIII
+intrante mense marcii, indictione V/Piran/Piran//Istrien/
+S$Almericus/Piran/Almericus
+V$Almericus/Piran/Almericus
+K$Udalschalk von Momiano, Podesta von Piran, verleiht Heinrich Goina und
+Marquard Apolonil von Piran ein Gut? in Sicciole als rechtmÑ·iges Lehen.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venet. MÅnze.
+F$Piran/83/114/114
+G$Udalschalk/Genannter;Podesta/Momiano;Piran/Momiano;Piran//Istrien/
+E$Heinrich/Goina/Sicciole/Sicciole//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/moneta bona/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena componendi libras venetas mille bone monete
+
+DOK$ipir_87/1252.4.9/1252.4.9/1252 April 9/anno domini MCCLII, indicione X, die VIIII
+intrante april./Parenzo/Parenzo//Istrien/
+S$Wicardus/Parenzo/Wicardus
+V$Wicardus/Parenzo/Wicardus
+K$Adalgerus, Pfarrer in Piran, und Facina, Priester in Piran, versprechen in
+ihrem Streit um die Pfarrei und die Ausgaben sich nach dem Ausspruch des
+Bischofs Johannes von Parenzo zu richten.
+
+REG$Strafbestimmung in der Hîhe von 200 Pfund Venet. Pfennige, wobei die HÑlfte
+Bischof Johannes von Parenzo, die andere HÑlfte jene Partei erhalten soll, die
+den Schiedsspruch beachtet hat.
+F$Piran/87/117f/118
+G$Adalgerus/Pfarrer/Piran/Piran//Istrien/
+E$Johannes/Bischof/Parenzo/Parenzo//Istrien/
+E$Facina/Priester/Piran/Piran//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena CC librarum denariorum venecialium
+
+DOK$iprz_1014/1014.11.10/1014.11.10/1014 November 10/imperante D. nostro Henrico anno
+autem imperii eius in Italia II. die X. mensis Novembris indict. XIII.
+/Parenzo/Parenzo//Istrien/
+S$Adam/Parenzo/Adam
+V$Adam/Parenzo/Adam
+K$Bischof Sigimbaldo von Parenzo schenkt seinen Priestern und Diakonen den
+Fischgrund, den sie selbst in der NÑhe der Kirche S. Andrea geschaffen haben.
+
+REG$Bischof Sigimbaldo von Parenzo schenkt seinen Priestern und Diakonen den
+Fischgrund, den sie selbst in der NÑhe der Kirche S. Andrea geschaffen haben
+unter Strafbestimmung in der Hîhe von 10 Pfund Gold bei Zuwiderhandeln.
+F$CDI 1/088/188f/189
+G$Sigimbaldo/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Priester;Diakone/Parenzo/Parenzo//Istrien  ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sit compositurus auri optimi libras decem
+
+DOK$iprz_1017/1017.8.8/1017.8.8/1017 August 8/regnante D. nostro Henrico anno
+autem imperii eius XVII. ind. XV. die vero VIII. mensis Augusti/Parenzo/Parenzo//Istrien/
+S$Bonaldo/Parenzo/Bonaldo
+V$Bonaldo/Parenzo/Bonaldo
+K$Die Bewohner von S. Salvatore versprechen Bischof Sigimbaldo von Parenzo
+jÑhrlichen Zins u.a.
+
+REG$Die Bewohner von S. Salvatore versprechen Bischof Sigimbaldo von Parenzo
+jÑhrlichen Zins u.a.
+unter Strafbestimmung in der Hîhe von 400 Mark Silber bei Zuwiderhandeln.
+F$CDI 1/089/190f/191
+G$X/Bewohner/Novacco S.Salvatore/Novacco,S.Salvatore (b.Montona)//Istrien
+presso Novacco
+E$Sigimbaldo/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/bonum/Z
+Q$promittimus \dots vobis D. Siginbuldo et vestris successoribus marcas boni
+argenti CCCC
+B$Novacco bzw. Novaki bei Parenzo bei Montona eher als  bei Mitterburg
+Benussi, S.486.
+
+DOK$iprz_1040/1040.5.12/1040.5.12/1040 Mai 12/anno dominice incarnationis MXL.
+regni domini Henrici felicissimi regis anno VI. mensis maii die XII.
+indictione X./X/X//Istrien/
+S$X/X/X
+V$X/X/X
+K$Azica, die Tochter des Wecelin, Grafen von Friaul, schenkt mit Zustimmung
+ihrer Mutter Wilpurga von Istrien und ihres Sohnes Ulrich an das Kloster S.
+Michele di Leme (Diîzese Parenzo) einen Besitz innerhalb genannter Grenzen.
+
+REG$Azica, die Tochter des Wecelin, Grafen von Friaul, schenkt mit Zustimmung
+ihrer Mutter Wilpurga von Istrien und ihres Sohnes Ulrich an das Kloster S.
+Michele di Leme (Diîzese Parenzo) einen Besitz innerhalb genannter Grenzen
+unter Strafe von 10 Pfund Gold bei Zuwiderhandeln, wobei die eine HÑlfte an die
+kînigliche Kasse, die andere an jene, die Unrecht zu erdulden hatten, bezahlt
+werden soll.
+F$CDI 1/098/207f/208
+F$KrUB 1/030/37ff/38
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt.kînigl.//?
+E$X/Kloster/Pola/Pola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sed cogatur decem libras auri exsolvere, medietatem camere regis, medietatem
+vero iniuriam passis
+B$Die Datierung ist unklar. Die Indiktion stimmt zum Jahr 1042, das
+Regierungsjahr zu 1044. Schumi S. 37 glaubt, da· die Urkunde am ehesten in das
+Jahr 1044 gehîrt.
+
+DOK$iprz_1040aa/1040.7.12/1040.7.12/1040 Juli 12/anno dominice incarnationis MXXXX.
+regni domini Henrici felicissimi regis anno VI. indictione X. die XII.
+mensis Iulii/X/X//Istrien/
+S$Albanus/kaiserl. Notar/Albanus
+V$Albanus/kaiserl. Notar/Albanus
+K$Wilpurga, GrÑfin von Istrien, Tochter des Grafen von Istrien, schenkt mit
+Zustimmung der Grafen Wecelinus und Ulrich (des Sohnes ihrer Tochter Azica?) und
+ihrer anwesenden Sîhne und Tîchter dem Kloster S. Michele di Leme (Diîzese
+Parenzo) ein ausgedehntes genau bezeichnetes Besitztum in Istrien, welches
+teilweise zur Mitgift ihrer Tochter Azica gehîrte, worauf sie dem Abt Johannes
+mit Zustimmung ihres Sohnes Ulrich und unter Mithilfe ihres Anwaltes Jakob
+belehnte.
+
+REG$Wilpurga, GrÑfin von Istrien, Tochter des Grafen von Istrien, schenkt mit
+Zustimmung der Grafen Wecelinus und Ulrich (des Sohnes ihrer Tochter Azica?) und
+ihrer anwesenden Sîhne und Tîchter dem Kloster S. Michele di Leme (Diîzese
+Parenzo) ein ausgedehntes genau bezeichnetes Besitztum in Istrien, welches
+teilweise zur Mitgift ihrer Tochter Azica gehîrte, worauf sie dem Abt Johannes
+mit Zustimmung ihres Sohnes Ulrich und unter Mithilfe ihres Anwaltes Jakob
+belehnte. Bei Zuwiderhandeln wird eine Strafe in der Hîhe von 10 Pfund Gold
+festgesetzt, wobei die eine HÑlfte an die kînigliche Kasse, die andere an jene,
+die Unrecht zu erdulden hatten, bezahlt werden soll.
+F$KrUB 1/031/40ff/42
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt. kînigl.//?
+E$X/Kloster/Pola/Pola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sed cogatur decem libras auri exsolvere, medietatem camere regis, medietatem
+vero iniuriam passis
+
+DOK$iprz_1040ab/1040.9.15/1040.9.15/1040 September 15/anno dominice incarnationis MXXXX.
+regni domini Henrici felicissimi regis anno VI. indictione X. die XV.
+mensis septembris/X/X//Istrien/
+S$X/X/X
+V$X/X/X
+K$Vor Kînig Heinrich wird der Streit zwischen dem Bischof Engelmerus von
+Parenzo und dem Abt des Michaelklosters in Leme um die Zehnten des von Azica dem
+Kloster geschenkten Landes ausgetragen und zugunsten des Abtes entschieden.
+
+REG$Vor Kînig Heinrich wird der Streit zwischen dem Bischof Engelmerus von
+Parenzo und dem Abt des Michaelklosters in Leme um die Zehnten des von Azica dem
+Kloster geschenkten Landes ausgetragen und zugunsten des Abtes entschieden.
+Bei Zuwiderhandeln wird eine Strafe in der Hîhe von 10 Pfund Gold
+festgesetzt, wobei die eine HÑlfte an die kînigliche Kasse, die andere an jene,
+die Unrecht zu erdulden hatten, bezahlt werden soll.
+F$CDI 1/099/209f/210
+F$MGH DH III/386/530f/531
+F$Manaresi Reg. Ital./6/469ff/471
+F$KrUB 1/032/42ff/44
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt. kînigl.//?
+E$X/Kloster/Pola/Pola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pena librarum decem auri, medietatem solvere camere regis,
+medietatem vero iniuriam passis
+B$Unecht
+
+DOK$iprz_1060aa/1077.3.4/1077.3.4/1077 MÑrz 4/quarto nonas Martii anno dominice
+incarnationis MLX. regni vero domini Henrici tertii regis anno XXI.
+/Verona/Verona//wo??
+S$X/X/X
+V$X/X/X
+K$Kînig Heinrich III. bestÑtigt der bischîflichen Kirche zu Parenzo den
+Besitzstand und verleiht ihr die ImmunitÑt. Bischof Almannus von Parenzo?
+
+REG$Kînig Heinrich bestÑtigt der bischîflichen Kirche zu Parenzo den
+Besitzstand und verleiht ihr die ImmunitÑt.
+Bei Zuwiderhandeln wird eine Strafe in der Hîhe von 1000 Pfund Gold
+festgesetzt, wobei die eine HÑlfte an die kînigliche Kasse, die andere an die
+Kirche von Parenzo bezahlt werden soll.
+F$CDI 1/099/209f/210
+F$MGH DH IV2/290/379f/380
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt.kînigl.//?
+E$X/Kirche/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/lib./X
+Z$X/X/X
+M$X/aurum/bonum/Z
+Q$sciat se compositurum auri boni libras mille, medietatem praefacto Praesuli
+suisque successoribus et medietatem camerae nostrae
+B$Gladiss (MGHDD S. 380) datiert 1077 MÑrz 4. und begrÅndet dies mit der
+Rekognition, dem Ausstellungsort und dem Kînigsjahr.
+
+DOK$iprz_1114/1114.7.0/1114.7.0/1114 Juli/regnante Dno. Nro. Henrico anno ab incarnatione
+eiusdem redemptoris nri. MCXIIII. Iulii kl. il. Indictione VII.?/Parenzo/Parenzo//Istrien/
+S$Cadulus/Parenzo/Cadulus
+V$Cadullus/Parenzo/Cadullus
+K$Bischof Bertoldo von Parenzo schenkt dem Kloster S. Nicol\`o am Lido von
+Venedig die Klosterkirche S. Anastasio auf einer Insel? vor Parenzo, die von den
+Nonnen verlassen worden ist.
+
+REG$Strafbestimmung in der Hîhe von 100 Pfund Gold.
+F$CDI 1/122/245f/246
+G$X/X/X/X//
+E$X/Kloster/Venedig/Venedig,S.Nicol\`o del Lido//Venedig/
+E$Pînale/Strafgeld/Dt.kînigl./Dt.kînigl.//?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$sciat se compositurum centum libras auri purissimi
+
+DOK$iprz_1118/1118.0.0/1118.0.0/1118/anno dominicae incarnationis MCXVIII. regnante D.
+Henrico, anno autem decimo imperii eius, ind. decima/Parenzo/Parenzo//Istrien/
+S$Cadulus/Parenzo/Cadulus
+V$Cadulus/Parenzo/Cadulus
+K$Die adeligen Eheleute Sigifredo und Eliza aus Parenzo machen an das Kloster S.
+Michele (zu Pola) eine Schenkung.
+
+REG$Die adeligen Eheleute Sigifredo und Eliza aus Parenzo schenken dem Kloster S.
+Michele (zu Pola) die Kirche S. Petro Apostolo in Parenzo, ein Allod in Mons
+Petrosus, ihr Haus neben der Kirche S. Cassiano Martyris, einen Hof und alle
+Huben, unter der Bedingung, da· solange sie leben, sie im Haus bleiben. Nach
+ihrem Tod soll der Abt des Klosters jÑhrlich der Kirche S. Mauro in Parenzo
+8 Pfennige Venet. MÅnze zahlen.
+F$CDI 1/126/252f/253
+G$X/Kloster/Pola/Pola,S.Michele//Istrien/
+E$X/Kirche/Parenzo/Parenzo,S.Mauro//Istrien/
+H$Zinsleistung/Immobilien/Parenzo/Parenzo//Istrien/
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/Z
+Q$annualiter \dots persolvant \dots denarios venetialis monetae octo
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold.
+F$CDI 1/126/252f/253
+G$X/X/X/X//
+E$X/Kloster/Pola/Pola,S.Michele//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/obryzum/Z
+Q$componat et persolvat \dots auri obrizi (!) libras decem
+
+DOK$iprz_1158/1158.12.21/1158.12.21/1158 Dezember 21/anno domini MCLVIII, die
+vero XI exeunte decembrio/Parenzo/Parenzo//Istrien/
+S$Adam/Parenzo/Adam
+V$Adam/Parenzo/Adam
+K$Bischof Oberto von Parenzo gibt den Kanonikern, Scholastern und dem Gastalden
+von Parenzo die Kirche S. Tomaso in Parenzo zur Aufsicht und Renovierung.
+
+REG$Bischof Oberto von Parenzo gibt den Kanonikern, Scholastern und dem Gastalden
+von Parenzo die Kirche S. Tomaso in Parenzo zur Aufsicht und Renovierung auf
+sechs Jahre unter Strafe von 400 Pfund Veronesern.
+F$CDI 1/144/281/281
+G$X/Kanoniker;Scholaster;Gastalde/Parenzo/Parenzo//Istrien/
+E$Oberto/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$400/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub poena quadringentarum librarum Veronensium
+
+DOK$iprz_1179/1179.8.28/1179.8.28/1179 August 28/anno ab incarnatione
+domini nostri Iesu Christi MCLXXIX. die vero IIII exeunte
+mense Augusti, indictione
+duodecima/Castellier/Castellier/Casteglione/Istrien/
+S$Adam/Parenzo/Adam
+V$Adam/Parenzo/Adam
+K$Bischof Pietro von Parenzo erteilt den Menschen? von Casteglione die
+Erlaubnis, HÑuser und WeingÑrten zu verÑu·ern, mit Ausnahme des Zinses.?
+
+REG$Bischof Pietro von Parenzo erteilt den Menschen? von Casteglione die
+Erlaubnis, HÑuser und WeingÑrten zu verÑu·ern, mit Ausnahme des Zinses?
+unter Strafe von zwei Pfund Gold.
+F$CDI 1/163/308/308
+G$X/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Bewohner/Castellier/Castellier/Casteglione/Istrien
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/purum/Z
+Q$componat puri auri libras duas
+
+DOK$iprz_1183/1183.8.12/1183.8.12/1183 August 12/anno dominicae incarnationis
+MCLXXXIII. die vero XII intrante Augusto, indictione duodecima/Pisino/Pisino//Istrien/
+S$X/X/X
+V$X/X/X
+K$Bischof Pietro von Parenzo investiert, nachdem ihn Graf Meginardus fÅr seine
+Tîchter Magtelda und Cunigulda um das Lehen, das er ihrem Vater gegeben hatte,
+gebeten hat und sich der Bischof mit seinen Vasallen baraten hat, die Tîchter
+mit dem Lehen unter der Bedingung, da· Graf Mainardus ihm alle Viertel von St.
+Maurus und St. Maria in Parenzo, um welche er mit Bischof Otto von Parenzo
+Streit gehabt hÑtte, von Weihnachten an ohne Entgelt frei Åberlasse und dafÅr
+Casteglione samt Zubehîr bekomme, auf den Zehnt von Rovigno vîllig verzichte
+und 5 Mark Verzug bezahle.
+
+REG$Bischof Pietro von Parenzo investiert die Tîchter von Graf Meginardus,
+Magtelda und Cunigulda, mit dem Lehen, das er ihrem Vater gegeben hatte, unter
+der Bedingung, da· Graf Mainardus ihm alle Viertel von St. Maurus und St. Maria
+in Parenzo, um welche er mit Bischof Otto von Parenzo Streit gehabt hÑtte, von
+Weihnachten an ohne Entgelt frei Åberlasse und dafÅr Casteglione samt Zubehîr
+bekomme, auf den Zehnt von Rovigno vîllig verzichte und 5 Mark Verzug? bezahle.
+F$CDI 1/170/323/323
+F$AT NS 01/X/250/250
+F$Kos 4/665/340f/340
+F$Reg. Gîrz 1/277/76/76
+G$Mainardus/Graf/X/X?//Istrien/
+E$Pietro/Bischof/Parenzo/Parenzo//Istrien/
+H$Belehnung/Immobilien/Castellier/Castellier/Casteglione/Istrien/
+W$X/X/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quinque marchas impresentiarum sibi daret
+
+DOK$iprz_1191/1191.0.0/1191.0.0/1191/anno ab incarnatione domini nostri
+Iesu Christi MCXCI. indict. decima/Orsera/Orsera//Istrien/
+S$Adam/Parenzo/Adam
+V$Adam/Parenzo/Adam
+K$Bischof Pietro von Parenzo investiert Tomaso Valle mit einem Gehîft?
+innerhalb des Kastells Ursaria und mit einem Joch?, wobei Tomaso einen Zehnt in
+der Hîhe von 2 Mark an den Bischof zahlen mu·. Au·erdem werden noch andere
+drÅckende Bedingungen vereinbart.
+
+REG$Bischof Pietro von Parenzo investiert Tomaso Valle mit einem Gehîft?
+innerhalb des Kastells Ursaria und mit einem Joch?, wobei Tomaso einen Zehnt in
+der Hîhe von 2 Mark an den Bischof zahlen mu·. Au·erdem werden noch andere
+drÅckende Bedingungen vereinbart.
+F$CDI 1/178/337/337
+G$Tomaso Valle/X/X/X//Istrien/
+E$Pietro/Bischof/Parenzo/Parenzo//Istrien/
+H$Investitur/Geldsumme/unbestimmt/unbestimmt//
+H$Zahlungsverpflichtung?/Zehnten/Orsera/Orsera?/Ursaria/Istrien ?
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$persolvit ei duas marcas
+
+DOK$iprz_1191aa/1191.3.26/1191.3.26/1191 MÑrz 26/anno incarnationis domini nostri
+Iesu Christi MCXCI. die sexto exeunte mense Martii indict.
+decima/Parenzo/Parenzo//Istrien/
+S$Adam/Parenzo/Adam
+V$Adam/Parenzo/Adam
+K$Bischof Pietro von Parenzo Åbergibt den Bewohnern von Ursaria eine cartula
+securitatis.
+
+REG$Bischof Pietro von Parenzo Åbergibt den Bewohnern von Ursaria eine cartula
+securitatis. Bei Zuwiderhandeln gegen die darin enthaltenen Bestimmungen
+verpflichtet sich dieser zur Zahlung von 3 Pfund Gold.
+F$CDI 1/179/338/338
+G$Pietro/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Bewohner/Orsera/Orsera?/Ursaria/Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$tres libras auri componere voluero
+
+DOK$iprz_1194/1194.11.9/1194.11.9/1194 November 9/ ? /Rosario/Rosario?//Istrien ?
+S$X/X/X
+V$X/X/X   siehe iand 180
+K$?
+
+REG$NN
+F$BA Porec Lib. 1/X/36r-37v/?
+G$Richild/X/Montona/Montona//Istrien/
+E$X/X/X/X//
+H$N/N/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$tres libr. auri optimi
+
+DOK$iprz_1194a/1194.11.15/1194.11.15/1194 November 15/X/Pisino/Pisino//Istrien/
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$?
+
+REG$NN
+F$CDI 1/186/347/?  ###KrUb 1 161
+G$Berthold/Markgraf/Istrien/Istrien//Istrien/
+E$X/Bistum;Kommune/Parenzo/Parenzo//Istrien/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub poena CC marcharum argenti
+
+DOK$iprz_1195aa/1195.3.26/1195.3.26/1195 MÑrz 26/anno incarnationis domini nostri
+Iesu Christi MCXCV. die sexto exeunte mense Martii indict. quindecima?
+/Parenzo/Parenzo//Istrien/
+S$Adam/Parenzo/Adam
+V$Adam/Parenzo/Adam
+K$Bischof Pietro von Parenzo Åbergibt den ? eine cartula
+securitatis.
+
+REG$Bischof Pietro von Parenzo Åbergibt den ? eine cartula
+securitatis. Bei Zuwiderhandeln gegen die darin enthaltenen Bestimmungen
+verpflichtet sich dieser zur Zahlung von 3 Pfund Gold.
+F$BA Porec Lib. 1/X/40r-40v/40r
+G$Pietro/Bischof/Parenzo/Parenzo//Istrien/
+E$X/?/X/?//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sub pena trium librarum auri
+
+DOK$iprz_1200/1200.10.7/1200.10.7/1200 Oktober 7/anno domini MCC
+indictione III die vero VII intrante Octobri/Cividale/Cividale//Friaul-Ost/
+S$Wilhelm/kaiserl. Notar/Wilhelm
+V$Wilhelm/kaiserl. Notar/Wilhelm
+K$Patriarch Pilgrim II. von Aquileia beurkundet als Schiedsrichter,
+seinen Spruch betreffs der von Ricarda von Montona hinterlassenen
+GÅter, welche sie von der Kirche Parenzo zu Lehen gehabt hatte dahin,
+da· die eine HÑlfte derselben an den Grafen Albert von Weichselburg,
+die andere an Wido von Muggia und Leonhard de Castro Valle (Dolina) zu
+fallen habe. Graf Albert, Wido und Leonhard leisten hierauf dem
+anwesenden Bischof Fulker von Parenzo als ihrem Herrn den Lehenseid.
+
+REG$Graf Albert von Weichselburg einerseits und Wido von Muggia und
+Leonhard de Castro Valle einigen sich in ihrem Streit um die von
+Ricarda von Montona hinterlassenen GÅter, welche sie von der Kirche Parenzo zu
+Lehen gehabt hatte, auf Patriarch Pilgrim II. von Aquileia als Schiedsrichter
+unter Strafe von 1000 Mark Silber.
+F$CDI 2/189/351f/351
+G$Albert/Graf/Weichselburg/Weichselburg//Schlo· in Dedni Dol (GB.Sittich)
+G$Wido/Genannter/Muggia/Muggia//Istrien/
+G$Leonhard/Genannter/Valle/Valle//Istrien ?
+E$Pilgrim II./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub poena mille marcarum argenti
+
+REG$Patriarch Pilgrim II. von Aquileia beurkundet als Schiedsrichter,
+seinen Spruch betreffs der von Ricarda von Montona hinterlassenen
+GÅter, welche sie von der Kirche Parenzo zu Lehen gehabt hatte dahin,
+da· die eine HÑlfte derselben an den Grafen Albert von Weichselburg,
+die andere an Wido von Muggia und Leonhard de Castro Valle (Dolina) zu
+fallen habe. Graf Albert, Wido und Leonhard leisten hierauf dem
+anwesenden Bischof Fulker von Parenzo als ihrem Herrn den Lehenseid.
+Bei Zuwiderhandeln wird eine Strafe in der Hîhe von 1000 Mark Silber festgelegt,
+wobei die eine HÑlfte an die Kasse des Patriarchen, die andere an den Bischof
+von Parenzo und jene Streitpartei bezahlt werden soll, die den Spruch beachtet
+hat.
+F$CDI 2/189/351f/352
+G$X/X/X/X//
+E$Pînale/Strafgeld/Aquileia/Aquileia//Friaul-Patr./
+E$X/Bischof/Parenzo/Parenzo//Istrien/
+E$Albert/Graf/Weichselburg/Weichselburg// beide?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub poena iamdicta mille marcarum argenti, medietas dictae poenae camerae
+persolvatur, reliqua vero medietas Parentino episcopo, et parti observanti
+dictum arbitrium persolvatur
+
+DOK$iprz_1202/1202.6.8/1202.6.8/1202 Juni 8/anno domini MCCII. indictione
+quinta, die octavo intrante Iunio/Parenzo/Parenzo//Istrien/
+S$Iordanus/kaiserl. Notar/Iordanus
+V$Iordanus/kaiserl. Notar/Iordanus
+K$Bischof Otto von Parenzo investiert Abt Bergogna? von S. Michele Sotterra mit
+der Kirche von S. Dionigi nahe Montona samt deren Besitzungen.
+
+REG$Bischof Otto von Parenzo investiert Abt Bergogna? von S. Michele Sotterra mit
+der Kirche von S. Dionigi nahe Montona samt deren Besitzungen unter der
+Bedingung, da· der Abt ihm jÑhrlich zu Weihnachten ein Schwein im Wert von
+wenigstens 100 Schilling Pfennigen und andere Sachleistungen zu
+festgesetzten Terminen geben mu·.
+F$CDI 2/192/357/357
+G$Bergogna/Abt/S.Michele Sotterra/S. Michele Sotterra//Istrien/
+E$Otto/Bischof/Parenzo/Parenzo//Istrien/
+H$Zinsverpflichtung/Wertangabe/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$100/sol./ad minus
+M$X/den./X/Z
+A$100 Schill. Pf./1 Schwein
+Q$unum porcum valentem centum solidos denariorum ad minus
+
+DOK$iprz_1203/1203.11.4/1203.11.4/1203 November 4/anno domini MCCIII,
+indictione VI die vero IV intrante Novembre/Parenzo/Parenzo//Istrien/
+S$Heinrich/kaiserl. Notar/Heinrich
+V$Heinrich/kaiserl. Notar/Heinrich
+K$Der Markgraf von Istrien, Patriarch Wolfger von Aquileia, erkennt die Grenzen
+der Besitzungen von S. Mauro an, d. h. das GrundstÅck? der hochedlen Frau Eliza,
+der GrÑfin von Istrien.
+
+REG$Der Markgraf von Istrien, Patriarch Wolfger von Aquileia, erkennt die Grenzen
+der Besitzungen von S. Mauro an, d. h. das GrundstÅck? der hochedlen Frau Eliza,
+der GrÑfin von Istrien. Bei Zuwiderhandeln wird eine Strafe in der Hîhe von 90
+Byzantinern an den Patriarchen und von 1000 Pfund Agleiern Pfennigen an den
+Bischof von Parenzo festgelegt.
+F$CDI 2/198/369f/370
+G$X/X/X/X//
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$90/bisancius/X/Z
+Q$et qui contrafecerit, subiaceat damno nonaginta Bisantiorum Patriarchae et
+Marchioni
+
+REG$Der Markgraf von Istrien, Patriarch Wolfger von Aquileia, erkennt die Grenzen
+der Besitzungen von S. Mauro an, d. h. das GrundstÅck? der hochedlen Frau Eliza,
+der GrÑfin von Istrien. Bei Zuwiderhandeln wird eine Strafe in der Hîhe von 90
+Byzantinern an den Patriarchen und von 1000 Pfund Agleiern Pfennigen an den
+Bischof von Parenzo festgelegt.
+F$CDI 2/198/369f/370
+G$X/X/X/X//
+E$Fulker/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$poena mille librarum denariorum Aquileiensium
+
+DOK$iprz_1211/1211.12.9/1211.12.9/1211 Dezember 9/anno domini MCCXI, V idus Decembris,
+indictione XIV/Cividale/Cividale//Friaul-Ost/
+S$Leonhard/kaiserl. Notar/Leonhard
+V$Leonhard/kaiserl. Notar/Leonhard
+K$Patriarch Wolfger von Aquileia, Markgraf von Istrien, bestÑtigt dem Bischof
+Fulcher von Parenzo alle Besitzungen seiner Kirche, nÑmlich das "Castrum
+Parentinum", Moncastello, die Kirche S. Martino in? Midilano und die
+Besitzungen von S. Mauro auf dem Gebiet von Pola in der NÑhe von Medolino.
+
+REG$Patriarch Wolfger von Aquileia, Markgraf von Istrien, bestÑtigt dem Bischof
+Fulcher von Parenzo alle Besitzungen seiner Kirche, nÑmlich das "Castrum
+Parentinum", Moncastello, die Kirche S. Martino in? Midilano und die
+Besitzungen von S. Mauro auf dem Gebiet von Pola in der NÑhe von Medolino. Bei
+Zuwiderhandeln wird eine Strafe in der Hîhe von 20 Pfund Gold festgesetzt, wobei
+die eine HÑlfte an die Kirche von Aquileia, die andere an den Bischof von
+Parenzo zu bezahlen ist.
+F$CDI 2/212/389f/389
+G$X/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-Patr. ?
+E$X/Bistum/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/lib./X
+Z$X/X/X
+M$X/aurum/bonum/Z
+Q$sciat se compositurum auri boni libras viginti, medietatem ecclesiae
+Aquileiensi, et aliam medietatem praefato episcopo et suis successoribus
+
+DOK$iprz_1213/1213.10.23/1213.10.23/1213 Oktober 23/anno domini MCCXIII, die VII exeunte
+mense Octobris/Parenzo/Parenzo//Istrien/
+S$Wilhelm/Aquileia/Wilhelm
+V$Wilhelm/Aquileia/Wilhelm
+K$Schiedsspruch des Patriarch Wolfger von Aquileia Åber Almerico von Muggia,
+dem Sohn Widos, und Artuico von Parenzo einerseits und Bischof Fulcher von
+Parenzo andererseits betreffend das Kastell Orsera.
+
+REG$Patriarch Wolfger von Aquileia gebietet Almerico von Muggia und Artuico von
+Parenzo, unter Strafe von 400 Mark Silber dem Bischof Fulcher von Parenzo keinen
+Schaden betreffend die Vogtei in Orsera zuzufÅgen.
+F$Joppi Aggiunte/3/15f/16
+F$BCU Ms. Joppi 369 Fasz. 2/25/1ff/3
+F$Kos V/209/110/111  fehlt
+G$Almerico/Genannter/Muggia/Muggia//Istrien/
+G$Artuico/Genannter/Parenzo/Parenzo//Istrien/
+E$Fulcher/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$in pena CCCC marcharum argenti
+B$BCU Ms. Joppi hat 500 Mark Silber!?
+
+DOK$iprz_1214/1214.12.4/1214.12.4/1214 Dezember 4/anno domini MCCXIV,
+indictione II, die sabati quarta die mensis decembris/Parenzo/Parenzo//Istrien/
+S$Cadulus/Parenzo/Cadulus
+V$Cadulus/Parenzo/Cadulus
+K$Patriarch Wolfger von Aquileia, Markgraf von Istrien, entscheidet im Streit
+zwischen dem Bischof Fulcher von Parenzo und dem Abt Michael von Leme um die
+Zehnten und HoheitsrechteWeisat? zugunsten von Bischof Fulcher.
+
+REG$Patriarch Wolfger von Aquileia, Markgraf von Istrien, entscheidet im Streit
+zwischen dem Bischof Fulcher von Parenzo und dem Abt Michael von Leme um die
+Zehnten und HoheitsrechteWeisat? zugunsten von Bischof Fulcher. Bei
+Zuwiderhandeln wird eine Strafe in der Hîhe von 500 Mark Agleier Pfennigen
+festgesetzt, wobei die eine HÑlfte an den Patriarchen, die andere an jene
+Streitpartei gezahlt werden soll, die das Urteil beachtet.
+F$CDI 2/216/396f/397
+G$X/X/X/X//
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Fulcher/Bischof/Parenzo/Parenzo//Istrien/
+E$Michael/Abt/S.Michele Leme/S.Michele di Leme//Istrien    ?beide mîglichen
+Teile
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$500/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub pena quingentarum marcharum denariorum Aquileiensium
+B$Kandler liest "auri Aquilejensis" statt "den. Aquil.".?
+
+DOK$iprz_1222/1222.1.25/1222.1.25/1222 JÑnner 25/anno domini 1222, ind. X,
+die VII exeunte mense Ianuarii/Parenzo/Parenzo//Istrien/
+S$X/X/X
+V$X/X/X
+K$Bischof Adalbero von Parenzo erneuert das Privilegium seines VorgÑngers
+Eufrasius fÅr die Kirche von Parenzo.
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold.
+F$CDI 2/231/414/414
+F$AMSI/8/49ff/?
+G$X/X/X/X//
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Kapitel/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$componat auri libras X
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold, je 5 an das Kapitel und den
+Bischof von Parenzo.
+F$CDI 2/231/414/414
+F$AMSI/8/49ff/?
+G$X/X/X/X//
+E$X/Kapitel/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$quinque capitulo Parentino, et quinque episcopo Parent.
+B$"Pfund Gold" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold, je 5 an das Kapitel und den
+Bischof von Parenzo.
+F$CDI 2/231/414/414
+F$AMSI/8/49ff/?
+G$X/X/X/X//
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$quinque capitulo Parentino, et quinque episcopo Parent.
+B$"Pfund Gold" aus dem Zusammenhang erschlossen.
+
+DOK$iprz_1225a/1225.11.7/1225.11.7/1225 November 7/anno a nativitate domini
+MCCXXV, indictione XIII, die VII mensis novembris intraeuntis/Parenzo/Parenzo//Istrien/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Bischof Aldalbero von Parenzo und die Kommune von Parenzo erkennen die Grenzen
+des Gebiets, das an den Bischof zinst?, d. h. das Land von S. Mauro, an.
+
+REG$Strafbestimmung in der Hîhe von 400 Mark Silber.
+F$CDI 2/240/425f/425
+G$X/X/X/X//
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Kommune/Parenzo/Parenzo//Istrien          beide?
+E$X/Markgraf/Istrien/Istrien//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/bonum;purum/Z
+Q$sub poena CCCC marcharum boni et puri auri
+B$Kandler liest "auri" statt "argenti".
+
+REG$Strafbestimmung in der Hîhe von 400 Mark Gold, wobei 200 Mark jene Partei
+erhalten soll, die sich an die Vereinbarungen hÑlt.
+F$CDI 2/240/425f/425
+G$X/X/X/X//
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Kommune/Parenzo/Parenzo//Istrien          beide?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod CC marchae dentur parti illae, quo pro omnia supradicta, quae superius
+scriptae sunt, non frangentur
+
+REG$Strafbestimmung in der Hîhe von 400 Mark Gold, wobei 200 Mark jene Partei
+erhalten soll, die sich an die Vereinbarungen hÑlt, und 200 Mark der Markgraf
+von Istrien.
+F$CDI 2/240/425f/425
+G$X/X/X/X//
+E$X/Markgraf/Istrien/Istrien//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$aliae CC marchae solvantur d. marchioni Istriae
+
+DOK$iprz_1225b/1225.11.28/1225.11.28/1225 November 28/anno a nat. dni.
+MCCXXV, ind. 13, die tertia exeunte novembris/Parenzo/Parenzo//Istrien/
+S$Romanus/kaiserl. Notar/Romanus
+V$Romanus/kaiserl. Notar/Romanus
+K$Bischof Aldalbero von Parenzo bekennt, da· er die rÅckstÑndigen
+Zehnten vom Kloster S. Michele in Leme empfangen hat.
+
+REG$Strafbestimmung in der Hîhe von 100 Pfund Venet. Pfennigen.
+F$CDI 2/241/427/427
+F$CDI 2/242/428/428
+G$X/Kloster/S.Michele di Leme/S.Michele di Leme//Istrien/
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$sub poena centum librarum denariorum Venetorum
+
+DOK$iprz_1226/1226.11.23/1226.11.23/1226 November 23/anno domini MCXXVI. quartadecima
+indictione die octavo exeunte mense novemb./Orsera/Orsera?//Istrien/
+S$Bonifaz/Orsera?/Bonifaz
+V$Bonifaz/Orsera?/Bonifaz
+K$Bischof Adalpero von Parenzo investiert ? de Ursaria mit ?
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$BA Porec Lib. 1/X/55r-56r/55v
+G$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$X/X/Orsera/Orsera//Istrien                ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purum;optimum/Z
+Q$sub pena trium librarum auri puri et optimi
+
+DOK$iprz_1226a/1226.11.7/1226.11.7/1226 November 7/anno a nativitate domini MCCXXVI. indictione quarta
+decima die septima mensis novembris intraeuntis/X/X//Istrien/
+S$X/X/X
+V$X/X/X
+K$Bischof Adam und das Kapitel von Parenzo schlie·en mit der Gemeinde von
+Parenzo Frieden und erkennen die Grenzen des Gebiets an, das an den Bischof
+zinst, d. h. das Land von S. Mauro.?
+
+REG$Strafbestimmung in der Hîhe von 400 Mark Silber.
+F$BA Porec Lib. 1/X/67r-67v/67v
+G$X/X/X/X//
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Kommune/Parenzo/Parenzo//Istrien          beide?
+E$X/Markgraf/Istrien/Istrien//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/bonum;purum/Z
+Q$sub poena CCCC marcharum boni et puri auri
+B$Kandler liest "auri" statt "argenti". Text fast ident mit 1225 November 7.
+
+REG$Strafbestimmung in der Hîhe von 400 Mark Gold, wobei 200 Mark jene Partei
+erhalten soll, die sich an die Vereinbarungen hÑlt.
+F$BA Porec Lib. 1/X/67r-67v/67v
+G$X/X/X/X//
+E$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$X/Kommune/Parenzo/Parenzo//Istrien          beide?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod CC marchae dentur parti illae, quo pro omnia supradicta, quae superius
+scriptae sunt, non frangentur
+
+REG$Strafbestimmung in der Hîhe von 400 Mark Gold, wobei 200 Mark jene Partei
+erhalten soll, die sich an die Vereinbarungen hÑlt, und 200 Mark der Markgraf
+von Istrien.
+F$BA Porec Lib. 1/X/67r-67v/67v
+G$X/X/X/X//
+E$X/Markgraf/Istrien/Istrien//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$aliae CC marchae solvantur d. marchioni Istriae
+
+DOK$iprz_1237/1237.2.11/1237.2.11/1237 Februar 11/anno domini MCCXXXVII. indictione X.
+die XI. mensis febr./Parenzo/Parenzo//Istrien/
+S$Johannes/Parenzo/Johannes
+V$Johannes/Parenzo/Johannes
+K$Adalgero de Umago verkauft an Prior Johannes und die Kirche von S. Maria de
+Orsario ein GrundstÅck und eine Wiese in Campo de ? zum Preis von 2 Mark
+Venetianischen Pfennigen.
+
+REG$Adalgero de Umago bekennt, vom Prior von S. Maria de Orsario, Johannes, fÅr
+ein GrundstÅck und eine Wiese in Campo de ?  2 Mark Venetianische
+Pfennige erhalten zu haben.
+F$BA Porec Lib. 1/X/56r-56v/56r
+G$S.Maria/Kirche/Orsera/Orsera//Istrien,Vrsar/
+E$Adalgero/Genannter/Umag/Umag/Umago/Istrien/
+H$Quittung_Kaufsumme/Immobilien/uIstrien Campo de/uIstrien,Campo de?//Istrien/
+W$Venedig/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$pro precio duarum marcharum den. Venet.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$BA Porec Lib. 1/X/56r-56v/56v
+G$Adalgero/Genannter/Umag/Umag/Umago/Istrien/
+E$S.Maria/Kirche/Orsera/Orsera//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/bonum;purum/Z
+Q$sub pena unius libre boni et puri auri
+
+DOK$iprz_1240/1240.1.24/1240.1.24/1240 JÑnner 24/anno domini MCCXL. indictione XIII. die octavo exeunt.
+Ianuario/Parenzo/Parenzo//Istrien/
+S$Weikhard/Parenzo/Weikhard Ricardus?
+V$Weikhard/Parenzo/Weikhard
+K$Bischof Adalbero von Parenzo und das Kapitel von Parenzo schenken dem
+Spital S. Giovanni altre Mare die Kirche S. Giovanni di Prato bei Parenzo.
+
+REG$Strafbestimmung in der Hîhe von 10 Pfund Gold.
+F$BA Porec Lib. 1/X/56v-58r/57v
+G$Adalbero/Bischof/Parenzo/Parenzo//Istrien/
+E$S. Giovanni altre Mare/Kirche/Parenzo/Parenzo?//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/bonum;purum/Z
+Q$nomine pene decem libras boni et puri auri
+
+DOK$iprz_1246/1246.3.12/1246.3.12/1246 MÑrz 12/anno domini MCCXLVI, die XII
+intrante Martio/Pola/Pola//Istrien/
+S$Bonacursius/kaiserl. Notar/Bonacursius
+V$Albert/kaiserl. Notar/Albert?
+K$Patriarch Berthold von Aquileia, Markgraf von Istrien und Krain, fÑllt
+zugunsten des Bischofs Johannes von Parenzo gegen die Gemeinde von
+Parenzo folgenden Urteilsspruch. Die Gemeinde Parenzo, die wegen gewisser
+öbergriffe von ihrem Bischof exkommuniziert worden ist, hat ihm und der
+Kirche von Parenzo alles zurÅckzustellen, was sie den bischîflichen
+Arbeitsleuten zu Silva abgenommen hat. Au·erdem nimmt der Patriarch den Bischof,
+die Kleriker und deren ehrenhaftes Gesinde in seinen besonderen Schutz.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Venetianischer Pfennige,
+wobei die HÑlfte an den Patriarchen und die restliche HÑlfte an den Bischof von
+Parenzo bezahlt werden soll.
+F$CDI 2/276/476f/477
+F$Reg. Gîrz 1/518/137/137
+G$X/Kommune/Parenzo/Parenzo//Istrien/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Johannes/Bischof/Parenzo/Parenzo//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$poena mille librarum dominii (!) Veterorum (!)
+B$Kandler liest "dominii Veterorum" statt "den. Venet."
+
+DOK$ipol_01/1061.8.17/1061.8.17/1061 (1060?) August 17/Regnante domno inrico
+Anno V. mensis Augusti XVII indictione XIIII/Pola/Pola//Istrien/
+S$X/X/X
+V$X/X/X
+K$Bischof Maingot von Pola schenkt Abt Juventius von St. Michele (zu Pola), dem
+Kloster und den Nachfolgern die Kirche des hl. Clemens, eine Kolonie im Ort
+Badavo gelegen, die einst der Bruder des Bischofs Johann, Grimaldus, zur
+Nutznie·ung hatte. Diese schenkte der Bischof am Tag der Einweihung dieser
+Kirche unter der Bedingung, da· die ébte diese Schenkung durch zehn Pfund Gold
+lîsen.?
+
+REG$Bischof Maingot von Pola schenkt Abt Juventius von St. Michele (zu Pola), dem
+Kloster und den Nachfolgern die Kirche des hl. Clemens, eine Kolonie im Ort
+Badavo gelegen, die einst der Bruder des Bischofs Johann, Grimaldus, zur
+Nutznie·ung hatte. Diese schenkte der Bischof am Tag der Einweihung dieser
+Kirche unter einer Strafbestimmung von zehn Pfund Gold.
+F$CDI 1/103/218/218
+F$KrUB 1/037/47f/47
+F$Kos 3/216/132/132
+G$Maingot/Bischof/Pola/Pola//Istrien/
+E$S.Michele/Kloster/Pola/Pola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/pondus
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$de poene nomine emendetur supradicte congregacioni pondus auri librarum decem
+B$Kandler nennt das Jahr 1060, wogegen die Indiktion spricht.
+
+DOK$ipol_02/1065.5.5/1065.5.5/1065 Mai 5/Regnante domino heinrico Anno XVII.
+mensis madii V. indictione III/Pola/Pola//Istrien/
+S$X/Theghenzo?Venedig/X
+V$X/Venedig?/X
+K$Abt Juventius von St. Michele (zu Pola) tauscht mit Bertaldo, dem Sohn des
+Audivero, Land in Rumiano gegen Land in Faiano.
+
+REG$Abt Juventius von St. Michele (zu Pola) tauscht mit Bertaldo, dem Sohn des
+Audivero, Land in Rumiano gegen Land in Faiano unter einer Strafbestimmung in
+der Hîhe von 2 Pfund Gold.
+F$CDI 1/104/219/219
+G$Bertaldo/X/X/X//
+E$S.Michele/Kloster/Pola/Pola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$daturi in heodem monasteri sancti michaelis \dots auri optimi libras duas
+B$Das Jahr ist unsicher, da zwar die Indiktion pa·t, aber das 17. Regierungsjahr
+Heinrichs wÑre 1073.
+
+DOK$ipol_03/1069.2.15/1069.2.15/1069 Februar 15/Regnante domino inrico anno XII.
+(XX?) die mensis februarii XV. indictione VI./Pola/Pola//Istrien/
+S$X/Theghenzo?Venedig/X
+V$X/Venedig?/X
+K$Johannes Vilicus schenkt dem Abt Juventius von St. Michele (zu Pola)
+Land in Rumiano unter der Bedingung, da· sein Sohn Martin vier Jahre
+erzogen wird.
+
+REG$Johannes Vilicus schenkt dem Abt Juventius von St. Michele (zu Pola)
+Land in Rumiano unter der Bedingung, da· sein Sohn Martin vier Jahre
+erzogen wird, und unter einer Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 1/106/221/221
+G$Johannes Vilicus/X/X/X//
+E$S.Michele/Kloster/Pola/Pola//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libram unam
+
+DOK$ipol_04/1118.0.0/1118.0.0/1118//Parenzo/Parenzo//Istrien/
+S$Cadulus/X/Cadulus     siehe iprz?
+V$Cadulus/X/Cadulus
+K$?
+
+REG$NN
+F$CDI 1/103/218/218
+F$KrUB 1/037/47f/47
+F$Kos 3/216/132/132
+G$Siegfried/X/Parenzo/Parenzo//Istrien/
+E$S.Michele/Kloster/Pola/Pola//Istrien/
+H$Zinsverpflichtung/Zinsleistung/Parenzo/Parenzo//Istrien/
+W$Venedig/moneta/
+O$8/X/X
+Z$X/X/X
+M$N/den./X/Z
+Q$persolvant \dots denarios venetialis monete octo
+
+DOK$ipol_05/1118.0.0/1118.0.0/1118?/?/Parenzo/Parenzo//Istrien/ #
+S$Cadulus/X/Cadulus
+V$Cadulus/X/Cadulus     siehe iprz?
+K$?
+
+REG$NN
+F$zu ergÑnzen/?/?/?
+G$Siegfried/X/Parenzo/Parenzo//Istrien/
+E$S.Michele/Kloster/Pola/Pola//Istrien/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/obryzum/Z
+Q$auri obrizi libras decem
+
+DOK$ipol_06/1215.10.4/1215.10.4/1215 Oktober 4/A. D. MCCXV, ind. III, die IV
+intrante octubri/Aquileia/Aquileia//Friaul-SÅd/
+S$Omnebonum/kaiserl. Notar/Omnebonum
+V$Omnebonum/kaiserl. Notar/Omnebonum
+K$Patriarch Wolfger und das Kapitel von Aquileia Åbergeben dem Abt Johannes
+von S. Michele in Pola den Brunnen von Vado Pirin.
+
+REG$Patriarch Wolfger und das Kapitel von Aquileia Åbergeben dem Abt Johannes
+von S. Michele in Pola den Brunnen von Vado Pirin gegen einen jÑhrlichen Zins in
+der Hîhe von einem Byzantiner.
+F$Nozze/4/17f/17
+F$BCU Ms. Joppi 369 Fasz. 2/40/1/1
+G$Johannes/Abt/Pola/Pola,S.Michele//Istrien/
+E$Wolfger/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Zins/Immobilien_Brunnen/uIstrien Vado Pirin/uIstrien,Vado Pirin//wo??
+W$Byzanz/X/
+O$X/X/X
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$solvendo annuatim in festo omnium Sanctorum unum bisancium nomine censi
+B$pola;akap 52-X-X ???
+
+DOK$iand_01/1106.5.6/1106.5.6/1106 Mai 6/1106 ind. 14, 6. mens. Mai? /Umag/Umag/Umag/Istrien#/
+S$Ubertus/X/Ubertus
+V$Ubertus/X/Ubertus
+K$Patriarch Udalrich von Aquileia fÅr Franciscus de Guerigs (v. Justinopolis)
+betr. Wiederaufbau eines zerstîrten Schlosses und Lehenschaft daran.
+
+REG$NN
+F$BGSD Ms. 259/X/217, 219/?    ist gleich Krub1 68?
+G$Ulrich I./Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Franziskus/Verzi/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$10/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$optimi auri libras decem
+B$FÑlschung, doch stimmen Teile (u.Pînformel) mit zeitgemÑ·en Urkunden
+Åberein
+
+DOK$iand_02/1239.7.3/1239.7.3/1239 Juli 3/anno domini MCCXXXVIIII.
+indictione XII. tercio die intrante iulio/Cividale/Cividale//Friaul-Ost/
+S$Anselm/X/Anselm
+V$Anselm/X/Anselm
+K$Graf Meinhard von Gîrz entscheidet durch endgÅltigen Schiedsspruch die
+Streitfragen zwischen dem Patriarchen und der Gemeinde Capodistria.
+
+REG$Patriarch Berthold von Aquileia und die Gemeinde Capodistria einigen sich auf
+Graf Meinhard von Gîrz als Schiedsrichter in ihrem Streit unter Strafe von 1000
+Mark Silber.
+F$Joppi Aggiunte/9/29ff/30
+F$Kos 5/715/349f/349
+F$BCU Ms. Joppi 369 Fasz. 4/38/1ff/1
+G$X/Kommune/Capodistria/Capodistria//Istrien    beide?
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena mille marcarum argenti
+
+REG$Graf Meinhard von Gîrz entscheidet im Streit zwischen Patriarch Berthold von
+Aquileia und der Kommune Capodistria, da· der Gastalde des Patriarchen Recht
+sprechen sollte Åber Eigentum, EigengÅter, Blut und Leben. Sollte der Gastalde
+die genannten Strafen nicht beantragen wollen, verfÑllt er einer Strafe in der
+Hîhe von 200 Pfund, wovon die eine HÑlfte der Patriarch, die andere die
+Kommune haben soll.
+F$Joppi Aggiunte/9/29ff/31
+F$Kos 5/715/349f/349
+F$BCU Ms. Joppi 369 Fasz. 4/38/1ff/3
+G$X/Gastalde/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Capodistria/Capodistria//Istrien/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$cadat in pena ducentarum librarum
+
+REG$Graf Meinhard von Gîrz entscheidet im Streit zwischen Patriarch Berthold von
+Aquileia und der Kommune Capodistria, da· von der Gerichtsbarkeit? 100
+Byzantiner an den Patriarchen bezahlt werden.
+F$Joppi Aggiunte/9/29ff/31
+F$Kos 5/715/349f/349
+F$BCU Ms. Joppi 369 Fasz. 4/38/1ff/3
+G$X/X/X/X//
+E$X/Kommune/Capodistria/Capodistria//Istrien/
+E$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Byzanz/X/
+O$100/X/X
+Z$X/X/X
+M$X/bisancius/X/Z
+Q$de bannis vero centum bizanciorum
+
+REG$Graf Meinhard von Gîrz entscheidet im Streit zwischen Patriarch Berthold von
+Aquileia und der Kommune Capodistria, da· der Patriarch bei Verletzung des
+Schiedsspruches 1000 Mark Silber an die Kommune zu zahlen hat.
+F$Joppi Aggiunte/9/29ff/31
+F$Kos 5/715/349f/349
+F$BCU Ms. Joppi 369 Fasz. 4/38/1ff/4
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$X/Kommune/Capodistria/Capodistria//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$nomine pene Communi Iustinopolis in mille marchis argenti
+
+DOK$iand_xxx/1102.11.17/1102.11.17/1102 November 17/anno ab incarnationis
+eiusdem nostri redemptoris MCII, XV kal. decembris
+indictione X/Aquileia/Aquileia//Friaul-SÅd/
+S$Waltilo/X/Waltilo
+V$Waltilo/X/Waltilo
+K$Graf Ulrich, der Sohn des Markgrafen Ulrich von Istrien, schenkt der Kirche
+von Aquileia viele Land in Istrien.
+
+REG$Strafbestimmung in der Hîhe von 50 Unzen Gold im Gewicht von 100 Unzen
+Silber?.
+F$CDI 1/119/241f/242
+F$Reg. Gîrz 1/161/45/45
+G$Ulrich/Markgrafensohn/Istrien/Istrien//Istrien/
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$50/uncia/X
+Z$X/X/X
+M$X/aurum/optimum/Z
+A$50 Unzen Gold/100 Unzen Silber
+Q$ex pena auri optimi unciis quinquaginta argenti ponderis
+centum
+
+REG$Strafbestimmung in der Hîhe von 50 Unzen Gold im Gewicht von 100 Unzen
+Silber?.
+F$CDI 1/119/241f/242
+F$Reg. Gîrz 1/161/45/45
+G$Ulrich/Markgrafensohn/Istrien/Istrien//Istrien/
+E$X/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/pondus
+O$100/uncia/X
+Z$X/X/X
+M$X/argentum/X/Z
+A$100 Unzen Silber/50 Unzen Gold
+Q$ex pena auri optimi unciis quinquaginta argenti ponderis
+centum
+B$"Unzen" aus dem Zusammenhang erschlossen.
+
+DOK$iand_129/1114.8.7/1114.8.7/1114 August 7/imperante domino nostro
+Heinrico imperatore anno autem imperii eius II. die VII. mensis
+Augusti indictione VII/Triest/Triest//Istrien/
+S$Johannes/Triest/Johannes
+V$Johannes/Triest/Johannes
+K$Natalia, Urso und Digna verkaufen mit Zustimmung des Jordanus, ihres
+Schwiegersohnes Martin und ihrer Tochter Canarpa? den Eheleuten Leo und
+Bellissima ein Haus in Triest um 7 Pfund Pfennige.
+
+REG$Natalia, Urso und Digna verkaufen mit Zustimmung des Jordanus, ihres
+Schwiegersohnes Martin und ihrer Tochter Canarpa den Eheleuten Leo und
+Bellissima ein Haus in Triest um 7 Pfund Pfennige.
+F$ACTs Perg. 1/X/X/X?
+F$CDI 1/129/256/256
+F$Kos 4/032/18f/18
+F$AT NS 05/01/324/324
+G$Leo;Bellissima/X/X/X//
+E$Natalia;Urso;Digna/X/X/X//
+H$Kauf/Immobilien/Triest/Triest//Istrien/
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$libras denariorum VII
+B$Kandler datiert 1126 August 7, Kos datiert 1111(?) August 7, wofÅr die von
+ihnen transkripierte Indiktion spricht, doch wird es sich aufgrund der
+Regierungszeit und der tatsÑchlichen Indiktion (7) wohl um 1114 handeln.?
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$ACTs Perg. 1/X/X/X?
+F$CDI 1/129/256/256
+F$Kos 4/032/18f/19
+G$Natalia;Urso;Digna/X/X/X//
+E$Leo;Bellissima/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$tunc componat auri libram I
+B$Kandler datiert 1126 August 7, Kos datiert 1111(?) August 7, wofÅr die
+Indiktion spricht, doch wird es sich aufgrund der Regierungszeit wohl um 1114
+handeln.?
+
+DOK$iand_133/1139.6.21/1139.6.21/1139 Juni 21/anno vero ab incarnatione
+eiusdem MCXXXVIIII. regnante domino nostro Conrado Tergesti die X. exeunte
+Iunio indictione secunda/Triest/Triest//Istrien/
+S$Ulrich/Triest/Ulrich
+V$Ulrich/Triest/Ulrich
+K$Feststellung der Stadtgrenzen zwischen der Kommune von Triest und Diethalm
+von Duino.
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$CDI 1/133/262f/262
+F$Kos 4/148/88f/89
+F$Bonomo/5/8/8
+G$X/Kommune/Triest/Triest//Istrien/
+E$Diethalm/Genannter/Duino/Duino//Istrien  ?beide
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$subiaceret V lib. optimi auri
+B$Kandler nennt Licusel als Ausstellungsort. Die zweite öberlieferung (ACU
+Coll. Font. 18 Nr. 6 fol. 43-44) ist mit 1134 Juni 10 datiert.?
+
+DOK$iand_138/1149.1.16/1149.1.16/1149 Januar 16/anno autem ab incarnatione
+eiusdem MCXLVIIII, indictione XII, XVII kalendas Februarii/Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Bischof Wernhard von Triest bestÑtigt mit Zustimmung des Patriarchen Pilgrim
+von Aquileia die Schenkung der Kirche und des Ortes SS. Martiri an
+das Kloster S. Giorgio Maggiore in Venedig. (Erneuerung der Schenkung durch
+VorgÑnger Hartwig und Dietmar.)
+
+REG$Zinsverpflichtung des Klosters S. Giorgio Maggiore in Venedig an den Bischof
+Wernhard von Triest in der Hîhe von 24 Pfennigen Venet. MÅnze.
+F$CDI 1/138/272f/272
+F$Lanfranchi II/227/454ff/457
+F$Kos 4/254/141/141
+G$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+E$Wernhard/Bischof/Triest/Triest//Istrien/
+H$Zinsverpflichtung/Zins/Triest/Triest//Istrien/
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$census XXIIII denarios vestre monete
+B$"Venedig" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/138/272f/272
+F$Lanfranchi II/227/454ff/457
+F$Kos 4/254/141/141
+G$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+E$Wernhard/Bischof/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$trium librarum auri eundemque subiacimus
+
+DOK$iand_149/1171.3.6/1171.3.6/1171 MÑrz 6/anno dnice incarnationis MCLXXI.
+indic. IIII. die VI. intnte martio/Triest/Triest//Istrien/
+S$Vitale/Triest/Vitale
+V$Vitale/Triest/Vitale
+K$Bischof Bernhard von Triest schenkt den Kanonikern von Triest die Zehnten von
+gewissen HÑusern, die der Kirche S. Maria in Triest gehîren oder auf deren
+Grund gebaut sind.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 1/149/287/287
+F$Kos 4/525/265/265
+G$X/X/X/X//
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1?/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$canonicis auri libra coponat
+B$Vgl. 1172 MÑrz 6 (ACTs Perg. 5).
+
+DOK$iand_151/1173.0.0/1173.0.0/1173?/?/Triest/Triest//Istrien/
+S$Vitalis/X/Vitalis
+V$Vitalis/X/Vitalis
+K$?      ###siehe akap 151
+
+REG$NN
+F$CDI 1/151/?/?
+G$Johannes/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Verkauf/Immobilien/Triest/Triest//Istrien/
+W$X/X/
+O$21/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$libras denariorum XXI
+
+REG$NN
+F$CDI 1/151/?/?
+G$Johannes/X/X/X//
+E$X/Kirche/Aquileia/Aquileia//Friaul-SÅd/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sciat se compositurum auri libram unam
+
+DOK$iand_155/1174.0.0/1174.0.0/1174?/?/Aquileia/Aquileia//Friaul-SÅd/
+S$Heinrich/X/Heinrich
+V$Heinrich/X/Heinrich
+K$?
+                                 anon 018 ist gleich
+REG$NN
+F$CDI 1/155/?/?
+F$Kos 4/556/?/?
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$Hermann/Graf/X/X//
+H$Zinsverpflichtung/Zins/Aquileia Montona/Montona//Friaul-SÅd ?Ort in Aquileia
+W$Friesach/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$decem libras Frisacensis monete \dots annuatim persolvat
+
+DOK$iand_166/1180.7.24/1180.7.24/1180 Juli 24/anno dominicae incarnationis
+MCLXXX, indictione XIII, mensis Iulii die
+XXIV/X/X/Kirchenstaat Kirchenstaat?/Italien/
+S$Johannes Nicolai/X/Johannes Nicolai
+V$Johannes Nicolai/X/Johannes Nicolai ?
+K$Papst Alexander III. im Vergleich zwischen Patriarch Heinrich von Grado und
+Patriarch Ulrich von Aquileia um Metropolitanrechte. vor dem erzbischîflichen
+Gericht?.
+
+REG$Patriarch Heinrich von Grado wird gestattet, jÑhrlich EinkÅnfte im Wert von 70
+Pfund Venetianischer MÅnze von Latisana und S. Floro zu beziehen.
+F$CDI 1/166/311ff/312
+F$Kos 4/630/320/320
+G$X/X/X/X//
+E$Heinrich/Patriarch/Grado/Grado//Venedig/
+H$EinkÅnfte/Immobilien/Latisana/Latisana//Friaul-West/
+H$EinkÅnfte/Immobilien/Venedig S.Floro/Venedig?,S.Floro//Friaul-West/
+W$Venedig/moneta (vestra)
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$possitis percipere valorem LXX librarum vestre monete
+B$Patriarch Ulrich ist geborener Graf von Treffen?
+BCU Ms.Joppi 368 Fasz. 5, Nr.50; Cappelletti, Chiese 8, 252-256.
+Insert in 1180 Aug.24 ung 1180 Juli, Tusculum.
+
+REG$Patriarch Heinrich von Grado wird gestattet, jÑhrlich EinkÅnfte im Wert von 70
+Pfund Venetianischer MÅnze von Latisana und S. Floro zu beziehen. Sollten die
+EinkÅnfte die genannte Summe Åbersteigen, darf der Patriarch von Aquileia den
+öberschu· fÅr seine Kirche beanspruchen.
+F$CDI 1/166/311ff/312
+G$X/X/X/X//
+E$Heinrich/Patriarch/Grado/Grado//Venedig/
+H$EinkÅnfte/Immobilien/Latisana/Latisana//Friaul-West/
+H$EinkÅnfte/Immobilien/Venedig S.Floro/Venedig?,S.Floro//Friaul-West/
+W$Venedig/moneta/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ultra valorem LXX librarum monetae
+B$"Venedig" aus dem Zusammenhang erschlossen.
+
+REG$Patriarch Heinrich von Grado wird gestattet, jÑhrlich EinkÅnfte im Wert von 70
+Pfund Venetianischer MÅnze von Latisana und S. Floro zu beziehen. Sollten die
+EinkÅnfte die genannte Summe nicht erreichen, wird der Patriarch von Aquileia
+den auf die genannte Summe fehlenden Betrag ersetzen.
+F$CDI 1/166/311ff/312
+G$X/X/X/X//
+E$Heinrich/Patriarch/Grado/Grado//Venedig/
+H$EinkÅnfte/Immobilien/Latisana/Latisana//Friaul-West/
+H$EinkÅnfte/Immobilien/Venedig S.Floro/Venedig?,S.Floro//Friaul-West/
+W$Venedig/moneta/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ultra valorem LXX librarum monetae
+B$"Venedig" aus dem Zusammenhang erschlossen.
+
+REG$Patriarchen von Grado werden Geldstrafen? nicht auf die Summe der EinkÅnfte in
+der Hîhe von 70 Pfund Venetianischer MÅnze angerechnet.?
+F$CDI 1/166/311ff/312
+G$X/X/X/X//
+E$Heinrich/Patriarch/Grado/Grado//Venedig/
+H$EinkÅnfte/Immobilien/Latisana/Latisana//Friaul-West/
+H$EinkÅnfte/Immobilien/Venedig S.Floro/Venedig?,S.Floro//Friaul-West/
+W$Venedig/moneta/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in summam praedictarum LXX librarum vobis non existimabuntur
+B$"Venedig" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 50 Pfund Veroneser.
+F$CDI 1/166/311ff/313
+G$Prokuratoren/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Heinrich/Patriarch/Grado/Grado//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nomine poenae librarum L Veronensium
+
+REG$Strafbestimmung in der Hîhe von 50 Pfund Veroneser.
+F$CDI 1/166/311ff/313
+G$Prokuratoren/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Heinrich/Patriarch/Grado/Grado//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$poena L librarum
+
+REG$Strafbestimmung in der Hîhe von 50 Pfund Veroneser.
+F$CDI 1/166/311ff/313
+G$Heinrich/Patriarch/Grado/Grado//Venedig/
+E$Prokuratoren/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nomine poene L libras Veronensium
+
+DOK$iprz_1186a/1186.10.24/1186.10.24/1186 Oktober 24/anno ab incarnatione
+domini nostri Iesu Christi MCLXXXVI, die mensis Octobris
+vigesimo quarto, indictione quarta/S.Lorenzoi.Istrien/S.
+Lorenzo i. Istrien//Istrien/
+S$Papo/X/Papo
+V$Papo/X/Papo
+K$Graf Adalbert von Istrien entscheidet im Streit zwischen der Kommune von S.
+Lorenzo und den Sîhnen des Adalburnus, Adalburnus und Cadulus, um Besitzungen in
+Calliseto.
+
+REG$Graf Adalbert von Istrien entscheidet im Streit zwischen der Kommune von S.
+Lorenzo und den Sîhnen des Adalburnus, Adalburnus und Cadulus, um Besitzungen in
+Calliseto. Zur Urteilsfindung wird ein Kampf unter Festsetzung einer Pînale in
+der Hîhe von 100 Mark Silber angesetzt.?
+F$CDI 1/173/327ff/328
+G$X/Kommune/S.Lorenzoi.Istrien/S. Lorenzo i. Istrien//Istrien/
+G$Adalburnus;Cadulus/X/X/X?//Istrien/
+E$Adalbert/Graf/Istrien/Istrien//Istrien ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt/
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena centum marcharum argenti
+B$Kos 4, Nr. 728.
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark Silber.
+F$CDI 1/173/327ff/329
+G$X/Kommune/S.Lorenzoi.Istrien/S. Lorenzo i. Istrien//Istrien/
+E$Adalburnus;Cadulus/X/X/X?//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena componendi ipsis locatoribus mille marchas argenti
+
+REG$Strafbestimmung in der Hîhe von 1000 Mark.
+F$CDI 1/173/327ff/329
+G$Adalburnus;Cadulus/X/Calliseto/Calliseto//Istrien/
+E$X/Kommune/S.Lorenzoi.Istrien/S. Lorenzo i. Istrien//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$1000/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub eadem pena mille marcharum
+
+DOK$iand_180/1191.11.5/1191.11.5/1191 November 5/anno ab incarnatione eiusdem Iesu
+Christi MCXC, mense Novembri, nonas eiusdem mensis/Rosario
+/Visinada,Rosario/Rosarium/Istrien/
+S$Martin/Montona/Martin
+V$Martin/Montona/Martin
+K$Richarda de Montona bestÑtigt die Schenkung an das Kloster S. Barbara, die
+ihr Onkel Artuico gemacht hatte.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/180/339f/340
+F$Kos 4/772/386/386
+G$X/X/X/X//
+E$Richarda/Genannte/Montona/Montona//Istrien/
+E$X/Kloster/Montona S.Barbara/Montona,S.Barbara//Istrien/
+H$Pînale/Strafbestimmung/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sit compositurus \dots tres libras auri optimi
+B$Kandler nennt 1191 obwohl in der Urkunde 1194 entzifferbar ist.?
+Kos datiert mit 1190.
+
+DOK$iand_197/1203.10.0/1203.10.0/1203 Oktober/anno ab incarnatione domini
+MCCIII. indictione VII. mense Octobris/Triest/Triest//Istrien/
+S$X/X/X
+V$X/X/X
+K$Bischof Gebhard von Triest bestÑtigt das Urteil der Richter der Stadt Triest
+in der Streitfrage zwischen den Erben des Dekans Kuno und den Kanonikern um Land
+und eine MÅhle zugunsten der Kanoniker.
+
+REG$Strafbestimmung in der Hîhe von zwei Pfund Gold, wobei die eine HÑlfte an die
+Kasse des Bischofs von Triest, die andere HÑlfte an die Kanoniker von Triest
+bezahlt werden soll.
+F$CDI 2/197/368/368
+F$Kos 5/056/39f/40
+G$X/X/X/X//
+E$X/Bistum_Kasse?/Triest/Triest//Istrien/
+E$X/Kapitel?/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$2/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$duas auri libras componat et solvat
+
+DOK$iand_208/1209.1.10/1209.1.10/1209 JÑnner 10/anno ab incarnatione domini
+MCCIX. indictione XII. die X. mensis Ianuario intrante/Triest/Triest//Istrien/
+S$Natalis/kaiserl. Notar/Natalis
+V$Natalis/kaiserl. Notar/Natalis
+K$Tausch von Immobilien zwischen Ogero und seiner Frau Elica und dem Kapitel
+von Triest.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/208/385/385
+F$Kos 5/139/79/79
+G$Ogero;Elica/X/X/X//
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$sciat se compositurus auri libram I
+
+DOK$iand_214/1213.10.12/1213.10.12/1213 Oktober 12/anno MCCXIII, 12 intrante
+Octobri, indictione I/Ravenna/Ravenna//Romagna/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Hubald von Ravenna gibt dem Stephan Segnor die HÑlfte der EinkÅnfte
+der Kirche von Ravenna in Pola und Polesana mit Ausnahme des ?Berufungsrechtes.
+
+REG$Wenn die EinkÅnfte bis 100 Pfund Ravenn. WÑhrung? steigen, mu· Stephan Segnor
+jÑhrlich 3 TÅcher und 3 KÑse? an den Erzbischof von Ravenna zahlen.
+F$CDI 2/214/393/393
+F$AMSI 04/1213*/5/5
+G$Stephan/Segnor/X/X/X//
+E$Hubald/Erzbischof/Ravenna/Ravenna//Romagna/
+H$öbergabe/EinkÅnfte/Pola/Pola//Istrien/
+H$öbergabe/EinkÅnfte/uIstrien Polesana/uIstrien,Polesana//Istrien/
+W$Ravenna/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$si redditus ascendant ad 100 libr. Ravenne, si vero non valuerint
+nisi 25 libr. \dots
+
+REG$Wenn die EinkÅnfte bis zu 100 Pfund Ravenn. WÑhrung? erreichen, mu· Stephan
+Segnor jÑhrlich 3 TÅcher und 3 KÑse? an den Erzbischof von Ravenna zahlen, sind
+sie aber nur 25 Pfund wert, hat er ein Tuch und einen KÑse zu leisten.
+F$CDI 2/214/393/393
+G$Stephan/Segnor/X/X/X//
+E$Hubald/Erzbischof/Ravenna/Ravenna//Romagna/
+H$öbergabe/EinkÅnfte/Pola/Pola//Istrien/
+H$öbergabe/EinkÅnfte/uIstrien Polesana/uIstrien,Polesana//Istrien/
+W$Ravenna/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$si redditus ascendant ad 100 libr. Ravenne, si vero non valuerint
+nisi 25 libr. \dots
+
+DOK$iand_218/1216.5.1/1216.5.1/1216 Mai 1/anno domini MCCXVI, indictione quarta die primo
+mensis Madii/Pola/Pola//Istrien/
+S$X/sacri palatii/X
+V$X/sacri palatii/X
+K$Teilung der Zehnten in Gurano, in der Diîzese Pola.
+
+REG$Strafbestimmung in der Hîhe von drei Pfund Gold.
+F$CDI 2/218/399/399
+G$X/Kapitel/Pola/Pola//Istrien/
+E$Andreas/X/X/X//                #beide
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sub pena trium librar. optimi auri
+
+DOK$iand_225/1220.11.25/1220.11.25/1220 November 25?/?/Aquileia/Aquileia//Friaul-SÅd/
+S$Albert/X/Albert
+V$Albert/X/Albert
+K$?
+
+REG$NN
+F$CDI 2/225/?/?                  ###anon 225
+G$S.Maria/Kloster/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kommune/Isola/Isola//Istrien/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$sub pena decem marcarum puri argenti
+
+DOK$iand_248/1230.6.5/1230.6.5/1230 Juni 5/In nomine dei aeterni MCCXXX, die V intrante
+mense iunii/Cittanova/Cittanova/Emona/Istrien/
+S$Simon/Aquileia/Simon
+V$Simon/Aquileia/Simon
+K$Bischof Gerhard von Emona oder Cittanova kommt mittels Schiedsrichtern mit
+Prior Vicelino von S. Daniele in Venedig Åber die Wahl des Rektors? des Klosters
+S. Martino di Tripola?Tripolis in Syrien oder Afrika? Åberein.
+
+REG$Strafbestimmung in der Hîhe von 200 Pfund Venet.
+F$CDI 2/248/435/435
+G$Gerhard/Bischof/Cittanova/Cittanova/Emona/Istrien/
+E$S.Daniele/Kloster/Venedig/Venedig//Venedig  #beide
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena CC libr. Venet.
+
+DOK$iand_256/1233.8.24/1233.8.24/1233 August 24/anno domini MCCXXXIII, die
+octavo Augusti exeunte, indictione sexta/Triest/Triest//Istrien/
+S$Petrus/Triest/Petrus
+V$Petrus/Triest/Petrus
+K$Pakt zwischen der Kommune von Triest und der Kommune von Venedig betreffend
+die Handelsangelegenheiten zu Wasser und zu Land.
+
+REG$Versprochene Rechtssatzungen der Kommune von Triest an die Kommune von
+Venedig betr. Abgaben pro modius.
+?Schwur der Rektoren von Triest betreffend die Beachtung der Vorschriften des
+Dogen hinsichtlich Holz und Salz.
+F$CDI 2/256/446ff/447
+F$Kos 5/598/285ff/287
+F$Minotto, Acta I,1/X/17ff/18
+G$X/Kommune/Venedig/Venedig//Venedig/
+E$X/Kommune/Triest/Triest//Istrien/
+H$Vertrag/Abgaben pro modius/Triest/Triest//Istrien/
+W$Venedig/X/
+O$X/X/X
+Z$X/X/X
+M$2/X/parv./Z
+Q$Debet habere \dots duos Venetos parvos pro staratico cuiusque modii
+
+REG$Versprochene Rechtssatzungen der Kommune von Triest an die Kommune von
+Venedig betr. Abgaben pro urnis.
+F$CDI 2/256/446ff/447
+F$Kos 5/598/285ff/287
+F$Minotto, Acta I,1/X/17ff/18
+G$X/Kommune/Venedig/Venedig//Venedig/
+E$X/Kommune/Triest/Triest//Istrien/
+H$Vertrag/Abgaben pro urnis/Triest/Triest//Istrien/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/X/X/Z
+Q$Debet habere \dots duos Frisacenses pro urnis ad rationem pro
+centenario
+
+REG$Rechtssatzungen der Kommune von Triest an die Kommune von Venedig betr.
+Abgaben?.
+F$CDI 2/256/446ff/447
+F$Kos 5/598/285ff/287
+F$Minotto, Acta I,1/X/17ff/19
+G$X/Kommune/Venedig/Venedig//Venedig/
+E$X/Kommune/Triest/Triest//Istrien/
+H$Vertrag/Abgaben/Triest/Triest//Istrien/
+W$Venedig/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/Z
+Q$si michi missum fuerit vel datum usque ad soldos quinque Veneticos vel infra
+
+DOK$iand_264/1235.11.12/1235.11.12/1235 November 12/anno domini dei amen
+MCCXXXV. mense novembris die XII. intrante indictione octava/Muggia Porto del
+Lauro/Muggia/Porto del Lauro/Istrien/
+S$Walpert/Muggia/Walpert
+V$Walpert/Muggia/Walpert
+K$Aymo di Martino Clavello verkauft an Natalis de Marquardo und seine Frau
+Wondanza einen Garten in Lauro alerive um 11 Pfund Pfennige.
+
+REG$Aymo di Martino Clavello verkauft an Natalis de Marquardo und seine Frau
+Wondanza einen Garten in Lauro alerive um 11 Pfund Pfennige.
+F$CDI 2/264/456/456
+F$AT NS 05/34/375/375
+F$Kos 5/637/302f/303
+G$Natalis/Genannter/uIstrien Marquardo/uIstrien,Marquardo//wo??
+G$Wondanza/X/X/X//
+E$Aymo di Martino Clavello/X/X/X//
+H$Kauf/Immobilien/Muggia/Muggia//Istrien/
+W$X/X/
+O$11/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$libras denariorum XI
+B$(Portus Lauri, danes Novo Milje v Istri,Mugla)
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/264/456/456
+F$Kos 5/637/302f/303
+G$Aymo di Martino Clavello/X/X/X//
+E$Natalis/Genannter/uIstrien Marquardo/uIstrien,Marquardo//wo??
+E$Wondanza/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sum compositurus \dots auri optimi lib. I
+
+DOK$iand_268/1237.4.10/1237.4.10/1237 April 10/anno domini MCCXXXVII. die X.
+Aprilis intrantis, indictione X./Triest/Triest//Istrien/
+S$Petrus/Triest/Petrus
+V$Petrus/Triest/Petrus
+K$Schiedspruch des Gastalden Mauro und der Richter von Triest betr. Weinkauf.
+
+REG$Lisa de Armilia hat vom HÑndler Gioannino 14 Urnen Wein zum Preis von 14
+Pfennigen pro Urne gekauft.
+F$CDI 2/268/464/464
+F$Kos 5/669/317/317
+G$Lisa de Armilia/Bewohnerin/Triest/Triest//
+E$Gioannino/HÑndler/X/X//
+H$Proze·/Kaufpreis_Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/A
+A$14 Pf./1 Urne Wein
+Q$XIIII urnas vini vendidisset unaque urna pro XIIII denariis
+
+REG$Proze· um ein Pfund kleiner Venet. Pfennige.?
+F$CDI 2/268/464/464
+G$Lisa de Armilia/Bewohnerin/Triest/Triest//
+E$Gioannino/X/X/X//
+H$Proze·/Geldsumme/unbestimmt/unbestimmt// ?
+W$Venedig/X/
+O$N/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$et postmodum eidem habere ?libr. Ven. parv. marchiam eundi exibuit
+###
+
+DOK$iand_01a/1037.8.17/1037.8.17/1037 August 17/datum XVI. kal. Sept. anno dominicae
+incarnationis M nono anno aut. domini Corradi XV./Aquileia/Aquileia//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Kaiser Konrad II. bestÑtigt Bischof Johann von Cittanova, die Schenkung der
+Villa S. Lorenzo in Daila? durch Patriarch Poppo von Aquileia fÅr sein
+Seelenheil.
+
+REG$Strafbestimmung in der Hîhe von 1000 Pfund Silber.
+F$AT 4/X/223f/224
+F$Kos 3/098/67f/68
+G$X/X/X/X//
+E$X/Kirche/Cittanova/Cittanova/Emona/Istrien,Civitas novaNovi grad/
+E$Pînale/Strafgeld/Rîm.Reich/Rîm. Reich/kaiserl./
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1000/lib./X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sciat se compositurum argenti libras mille medietatem camerae nostrae et
+medietatem ecclesiae Emon.
+
+DOK$iand_02a/1054.6.16/1054.6.16/1054 Juni 16/anno ab incarnatione domini J. Christi MLIV.
+utque imperante donno Einrico Romani imperii in Italia vero anno octavo die
+sextodecimo mensis Iunii indictione septima/Casaligoto di Faenza/Casaligoto di Faenza//wo??
+S$Guido/Ravenna/Guido
+V$Guido/Ravenna/Guido
+K$Abt Erchembaldo vom Kloster S. Maria und S. Andrea in Insula Serra in der NÑhe
+von Rovigno investiert Petrus Alegritto u.a. mit einigen GÅtern in Casamazone
+und Faventino.
+
+REG$Abt Erchembaldo vom Kloster S. Maria und S. Andrea in Insula Serra in der NÑhe
+von Rovigno investiert Petrus Alegritto u.a. mit einigen GÅtern in Casamazone
+und Faventino gegen Schuhgeld in der Hîhe von einem Pfund fÅr 4 Pfund
+Venetianischer Pfennige.
+F$CDI 1/100/211f/212
+G$Petrus Alegritto/X/X/X//
+E$Erchembaldo/Abt/Pola/Pola,Insula Serra S. Maria?//wo??
+H$Schuhgeld/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+A$1 Pfund/4 Pfund Venetianischer Pf.
+Q$libram unam pro denariorum Veneticorum libris quatuor
+
+REG$Abt Erchembaldo vom Kloster S. Maria und S. Andrea in Insula Serra in der NÑhe
+von Rovigno investiert Petrus Alegritto u.a. mit einigen GÅtern in Casamazone
+und Faventino gegen Schuhgeld in der Hîhe von einem Pfund fÅr 4 Pfund
+Venetianischer Pfennige.
+F$CDI 1/100/211f/212
+G$Petrus Alegritto/X/X/X//
+E$Erchembaldo/Abt/Pola/Pola,Insula Serra S. Maria?//wo??
+H$Schuhgeld/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$4/lib./X
+Z$X/X/X
+M$X/den./X/Z
+A$4 Pfund Venetianischer Pf./1 Pfund
+Q$libram unam pro denariorum Veneticorum libris quatuor
+
+REG$Abt Erchembaldo vom Kloster S. Maria und S. Andrea in Insula Serra in der NÑhe
+von Rovigno investiert Petrus Alegritto u.a. mit einigen GÅtern in Casamazone
+und Faventino unter Strafe von 4 Unzen Gold.
+F$CDI 1/100/211f/212
+G$Erchembaldo/Abt/Pola/Pola,Insula Serra S. Maria?//
+E$Petrus Alegritto/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$4/uncia/X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$pene nomine auri optimi uncias quatuor
+
+DOK$iand_03/1064.7.31/1064.7.31/1064 Juli 31/data II. kal. augusti anno dominice
+incarnationis MLXIIII. indictione II. anno autem ordinationis domni Henrici
+regis VIIII. regni vero octavo/Goslar/Goslar//
+S$X/X/X
+V$Sigeardus/X/Sigeardus
+K$Kînig Heinrich IV. schenkt dem Markgrafen Udalrich 20 Kînigsmansen in seiner
+Grafschaft Istrien.
+
+REG$Kînig Heinrich IV. schenkt dem Markgrafen Udalrich 20 Kînigsmansen in seiner
+Grafschaft Istrien. Wer zuwiderhandelt, mu· 100 Pfund Gold, die HÑlfte an die
+kînigliche Kasse, die andere HÑlfte an den Markgrafen Udalrich bezahlen.
+F$KrUB 1/043/53f/54
+F$MIôG 1/15/294/294
+F$Kos 3/230/141f/141
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt. kînigl.//?
+E$Udalrich/Markgraf/Istrien/Istrien//Istrien/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$centum libras auri persolvat medietatem camere nostre et medietatem prefato et
+prescripto marchioni Odalrico
+
+DOK$iand_04/1066.11.16/1066.11.16/1066 November 16/data XVI. kal. decembris anno dominice
+incarnationis MLXVI. indictione IIII. anno autem ordinationis domni Henrici
+quarti regis XIII. regni vero X./Eckartsberga/Eckartsberga//nî.v.Weimar
+S$X/X/X
+V$Sigeardus/X/Sigeardus
+K$Kînig Heinrich IV. schenkt seinem Getreuen Adalpertus die Villa Strengi in
+Istrien.
+
+REG$Kînig Heinrich IV. schenkt seinem Getreuen Adalpertus die Villa Strengi in
+Istrien. Wer zuwiderhandelt, mu· 100 Pfund Gold, die HÑlfte an die
+kînigliche Kasse, die andere HÑlfte an Adalpertus bezahlen.
+F$KrUB 1/044/54f/55
+F$MIôG 1/16/295/295
+F$Kos 3/250/150/150
+G$X/X/X/X//
+E$Pînale/Strafgeld/Dt.kînigl./Dt. kînigl.//?
+E$Adalpertus/X/X/X//
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat se centum libras auri optimi daturum medietatem camere nostre cetera
+autem eiusdem predii possessioribus
+
+DOK$iand_05/1074.9.15/1074.9.15/1074 Mitte September/anno ab incarnatione domini nostri Jesu
+Christi MLXXIV. mense septembre indictione tertiadecima/Venedig/Venedig//Venedig/
+S$Dominikus/X/Dominikus
+V$Dominikus/X/Dominikus
+K$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an.
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 160 Pfund Pfennige aus Roga.
+F$CDI 1/109/224ff/224
+G$X/X/Venedig Roga/Venedig,Roga?//? vielleicht Venedig
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/Venedig ?Roga/Roga//wo?? viell.Venedig
+W$X/X/
+O$160/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum centum sexaginta
+B$Im quellenkritischen Apparat ist von 200 Pfund Pfennigen die Rede.
+Kretschmayr S.154.
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 100 Pfund Pfennige aus S. Marco.
+F$CDI 1/109/224ff/224
+G$Pînale/Strafgeld/Venedig/Venedig,S. Marco?//Venedig/
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/Venedig/Venedig,S.Marco//Venedig/
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./noster/Z
+Q$centum libras nostrorum denariorum
+B$Aus dem quellenkritischen Apparat aufgenommen.?
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 300 Pfund Pfennige.
+F$CDI 1/109/224ff/224
+G$X/X/X/X//
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/unbestimmt/unbestimmt?//
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$trecentae librae ad lucrum esse debent capetanea semper salva
+B$Aus dem quellenkritischen Apparat aufgenommen.?
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 20 Pfund Pfennige aus dem
+Episkopat von Olivolo.
+F$CDI 1/109/224ff/224
+G$X/Bistum/Venedig Olivolo/Venedig,Olivolo//
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/Venedig Olivolo/Venedig,Olivolo//wo??
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum viginti
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 20 Pfund aus dem
+Episkopat von Torcello.
+F$CDI 1/109/224ff/224
+G$X/Episkopat/Venedig Torcello/Venedig,Torcello//Venedig/
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/Venedig Torcello/Venedig,Torcello//Venedig/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras viginti
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 25 Pfund Pfennige aus dem
+Kloster S. Hilaris.
+F$CDI 1/109/224ff/224
+G$X/Kloster/Venedig S.Ilario/Venedig,S. Ilario/S. Hilaris/wo??
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/Venedig S.Ilario/Venedig,S. Ilario//
+W$X/X/
+O$25/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum vigintiquinque
+
+REG$Der Doge Domenico Silvio erkennt in Unterredung mit dem Bischîfen, Richtern
+und dem Volk von Venedig die EinkÅnfte des Patriarchen von Grado von den
+Geistlichen Venedigs an, nÑmlich unter anderem 10 Pfund Pfennige aus dem
+Kloster S. Georg.
+F$CDI 1/109/224ff/224
+G$X/Kloster/Venedig S.Giorgio/Venedig,S. Giorgio//wo??
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$EinkÅnfte/EinkÅnfte/Venedig S.Giorgio/Venedig,S. Giorgio//wo??
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$libras denariorum decem
+
+REG$Strafbestimmung in der Hîhe von 5 Pfund Gold.
+F$CDI 1/109/224ff/225
+G$Domenico Silvio/Doge/Venedig/Venedig//Venedig/
+E$Domenico/Patriarch/Grado/Grado//Venedig/
+E$X/Patriarchat/Grado/Grado//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$auri libras quinque
+
+DOK$iand_06/1093.0.0/1093.0.0/ca. 1093/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Markgraf Ulrich II. von Istrien, Graf Engelbert (von Gîrz), sowie die Bischîfe
+und Agligen Istriens verbinden sich durch einen Schwur alle Bewohner der StÑdte,
+Schlîsser und der LandgÅter, die diesen Vertrag beschwîren werden, gegen jeden
+zu verteidigen und dadurch die Ehre der Mark Istrien zu wahren. Zugleich wird
+die Blutsgerichtsbarkeit Åber die Landbewohner dem Markgrafen Ulrich Åbertragen.
+
+REG$RechtsgeschÑft in der Hîhe von 40 Pfund Venetianer.
+F$KrUB 1/060/68f/69
+F$CDI 1/101/213ff/213
+G$X/X/X/X// ?
+E$X/X/X/X// ?
+H$N/N/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$eam recuperabit XL libr. Ven.
+
+

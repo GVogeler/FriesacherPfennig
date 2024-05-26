@@ -1,0 +1,2176 @@
+
+note *** beim Ort des Gegenstandes der Handlung  besser den jeweiligen
+         Aufenthaltsort annehmen, um die Region bestimmen zu kînnen?!
+
+note *** Italienische Reise  KONZEPT und REINSCHRIFT!
+note *** ôsterreichisches Gebiet bis nach Friaul (Po) aufnehmen, nicht wenn
+         Wolfger Åber den Brenner zurÅckzieht.
+         Pro Tag ein Dokument.
+
+note *** Einlesen der Rohdaten al_heg92.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+
+DOK$HEGER_01*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+Schreiber Ulrich 50 Talente und 10 Mark.
+F$Heger/01*/92/92
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Ulrich/Schreiber,spÑter Bischof von Passau/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$10/marca/X
+O$50/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit \dots L tal. et X marc.
+
+DOK$HEGER_02*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem
+Visinhard ein Talent.
+F$Heger/02*/92/92
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Visinhard/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Visinhardo solvit ipse tal.
+
+DOK$HEGER_03*/1204.4.4/1204.4.4/1204 April 4/X/Leoben/Leoben//Stmk/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt einem Geistlichen und einem Knappen
+24 Friesacher Pfennige.
+F$Heger/03*/92/92
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Geistlicher;Bote/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$cuidam clerico et cuidam garcioni XXIIII den. frisac.
+
+DOK$HEGER_04*/1204.4.4/1204.4.4/1204 April 4/X/Leoben/Leoben//Stmk/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Kellermeister von SchlÑgl 30 Friesacher
+Pfennige.
+F$Heger/04*/92/92
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Kellermeister/SchlÑgl/SchlÑgl//Oô,GB Aigen/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$cellerario de Slagge XXX den. frisac.
+
+DOK$HEGER_05*/1204.4.6/1204.4.6/1204 April 6/X/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt zwei Pilgern 24 Wiener Pfennige.
+F$Heger/05*/92/92
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Pilger/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Wien/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$duobus peregrinis XXIIII den. wienn.
+
+DOK$HEGER_06*/1204.4.6/1204.4.6/1204 April 6/X/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt den Scholaren 7 Friesacher Pfennige.
+F$Heger/06*/92/92
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Scholaren/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+Q$scolaribus VII den. frisac.
+
+DOK$HEGER_07*/1204.4.7/1204.4.7/1204 April 7/X/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt den Scholaren 24 Friesacher
+Pfennige.
+F$Heger/07*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Scholaren/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$scolaribus XXIIII den. frisac.
+
+DOK$HEGER_08*/1204.4.7/1204.4.7/1204 April 7/X/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt einem Scholaren 4 Friesacher
+Pfennige.
+F$Heger/08*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Scholar/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$4/den./X/A
+Q$cuidam scolari IIII den. frisac.
+
+DOK$HEGER_09*/1204.4.7/1204.4.7/1204 April 7/X/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Armen 12 Friesacher Pfennige.
+F$Heger/09*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Arme/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+H$Reiserechnung/Almosen/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$pauperibus XII den. frisac.
+
+DOK$HEGER_10*/1204.4.9/1204.4.9/1204 April 9/X/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Dietmar zum Kauf von Eseln 5
+Mark Kîlner Gewichts.
+F$Heger/10*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Dietmar/X/X/X//
+H$Reiserechnung/Eselkauf/unbestimmt/unbestimmt//
+W$Kîln/pondus/
+O$5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Dietmaro pro emendis asinis V marc. ad pondus col.
+B$Gebrauch von Barrenmarken in OberkÑrnten - Gegensatz zu marca numerata.
+Dworschak, NZ 64, S. 119.
+
+DOK$HEGER_11*/1204.4.9/1204.4.9/1204 April 9/X/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Dietmar ad expensam 80 Friesacher
+Pfennige.
+F$Heger/11*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Dietmar/X/X/X//
+H$Reiserechnung/ad expensam/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$80/den./X/A
+Q$eidem [Dietmaro] ad expensam LXXX den. frisac.
+
+DOK$HEGER_12*/1204.4.9/1204.4.9/1204 April 9/X/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Rudolf von Wirtingen 30 Friesacher
+Pfennige und 30 Regensburger Pfennige als Botenlohn.
+F$Heger/12*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Rudolf/Genannter/WÅrding/WÅrding (heute)/Wirtingen/Lkr.Passau/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$R\o{v}dolfo de Wirthingen cum litteris redeunti XXX den. frisac. et
+XXX den. Ratispon.
+
+REG$Bischof Wolfger von Passau gibt Rudolf von Wirtingen 30 Friesacher
+Pfennige und 30 Regensburger Pfennige als Botenlohn.
+F$Heger/12*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Rudolf/Genannter/WÅrding/WÅrding (heute)/Wirtingen/Lkr.Passau/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$R\o{v}dolfo de Wirthingen cum litteris redeunti XXX den. frisac. et
+XXX den. Ratispon.
+
+DOK$HEGER_13*/1204.4.9/1204.4.9/1204 April 9/X/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt einem Hîrigen Hadmars 30 Friesacher
+Pfennige.
+F$Heger/13*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Hîriger/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$cuidam servo domini Haddemari XXX den. frisac.
+
+DOK$HEGER_14*/1204.4.10/1204.4.10/1204 April 10/X/Camporosso/Camporosso (heute)/Saifnitz/Friaul-Mitte/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt in Saifnitz 12 Friesacher Pfennige
+als Almosen.
+F$Heger/14*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Almosen/Camporosso/Camporosso (heute)/Saifnitz/Friaul-Mitte/
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/A
+Q$ad elemosinam XII den. frisac.
+
+DOK$HEGER_15*/1204.4.11/1204.4.11/1204 April 11/X/Gemona/Gemona//Friaul-Mitte/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt einem Boten des Kardinallegaten Leo
+Brancaleone vom Titel des Heiligen Kreuzes 40 Friesacher Pfennige.
+F$Heger/15*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$nuncio domini Leonis cardinalis XL den. frisac.
+
+DOK$HEGER_16*/1204.4.11/1204.4.11/1204 April 11/X/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Priester Amisius 30 Friesacher
+Pfennige.
+F$Heger/16*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Amisius/Priester/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Amisio sacerdoti XXX den. frisac.
+
+DOK$HEGER_17*/1204.4.11/1204.4.11/1204 April 11/X/Gemona/Gemona//Friaul-Mitte/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Propst von Ardagger 2 Mark.
+F$Heger/17*/93/93
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Ortolf/Propst/Ardagger/Ardagger//Nô,GB Amstetten/
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$2/marca/numerata/
+Z$X/X/X
+M$X/X/X/A
+Q$Ortholfo II marc. numeratas
+
+DOK$HEGER_18*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau]
+20 lange Schillinge und 7 Pfennige Wiener MÅnze in die KÅche.
+F$Heger/18*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/KÅche/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$X/X/X
+Z$20/sol./longus
+M$7/den./X/A
+Q$dedit frater Heinricus \dots in coquinam XX sol. longos et VII den.
+wienn. monete
+B$Ein langer Schilling entspricht laut Propst, ôsterr. MÅnz- u.
+Geldgeschichte, S. 279 30 Pfennigen.
+
+DOK$HEGER_19*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt ein halbes Talent und 8 Pfennige fÅr
+Brot aus.
+F$Heger/19*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Brot/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$8/den./X/A
+Q$pro pane dimidium tal. et VIII den.
+
+DOK$HEGER_20*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 6 lange Schillinge minus 8 Pfennige
+fÅr GetrÑnke aus.
+F$Heger/20*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_GetrÑnke/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$6/sol./longus/
+M$8/den./minus/A
+Q$pro potu VI sol. longos minus VIII den.
+
+DOK$HEGER_21*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt ein Talent und 12 Pfennige
+fÅr Verpflegung aus.
+F$Heger/21*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$12/den./X/A
+Q$pro pabulo tal. et XII den.
+
+DOK$HEGER_22*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 51 Pfennige fÅr Vadii aus.
+F$Heger/22*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$51/den./X/A
+Q$pro vadiis LI den.
+
+DOK$HEGER_23*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 72 Pfennige fÅr SÑttel,
+Satteldecken, Hufbeschlag und derartiges aus.
+F$Heger/23*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/SÑttel;Satteldecken;Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$72/den./X/A
+Q$pro sellis subselliis ferramentis et huiusmodi LXXII den.
+
+DOK$HEGER_24*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 27 Pfennige fÅr Satteldecken und
+Schuhwerk fÅr die Knechte aus.
+F$Heger/24*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Satteldecken;Schuhwerk/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$27/den./X/A
+Q$pro parandis subselliis et servorum calciamentis XXVII den.
+
+DOK$HEGER_25*/1204.4.1/1204.4.1/1204 April 1/feria quinta ante mediam
+quadragesimam/Wr.Neustadt/Wr. Neustadt//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Ortolf 60 Pfennig als Botenlohn.
+F$Heger/25*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Ortolf/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/A
+Q$Ortholfo ad archiepiscopum eunti LX den.
+
+DOK$HEGER_26*/1204.4.2/1204.4.2/1204 April 2/feria sexta/Gloggnitz/Gloggnitz//Nô/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii und WÑchter 34
+Pfennig aus.
+F$Heger/26*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/WÑchter/X/X//
+H$Reiserechnung/vadii;Wachen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$34/den./X/A
+Q$pro vadiis et vigilibus XXXIIII den.
+
+DOK$HEGER_27*/1204.4.4/1204.4.4/1204 April 4/in dominica media
+quadragesima/Leoben/Leoben//Stmk/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii 30 Friesacher
+Pfennige aus.
+F$Heger/27*/97/97
+F$StUB Erg/002/47/47
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$pro vadiis XXX den. frisac.
+
+DOK$HEGER_28*/1204.4.4/1204.4.4/1204 April 4/X/Leoben/Leoben//Stmk/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau zahlt fÅr Wein 16 Friesacher Pfennige.
+F$Heger/28*/97/97
+F$StUB Erg/002/47/47
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Wein/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$pro bono vino XVI den. frisac.
+
+DOK$HEGER_29*/1204.4.4/1204.4.4/1204 April 4/X/Leoben/Leoben//Stmk/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem WÑchter 2 Friesacher Pfennige.
+F$Heger/29*/97/97
+F$StUBerg/002/47/47
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/WÑchter/X/X//
+H$Reiserechnung/Wachen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$vigili II den. frisac.
+
+DOK$HEGER_30*/1204.4.5/1204.4.5/1204 April 5/feria secunda/Pîls/Pîls//Stmk,Judenburg/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii 10 Friesacher Pfennige aus.
+F$Heger/30*/97/97
+F$StUBerg/002/47/47
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$pro vadiis X den. fris[ac.]
+
+DOK$HEGER_31*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii 24 Friesacher Pfennige aus.
+F$Heger/31*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$pro vadiis XXIIII den. frisac.
+
+DOK$HEGER_32*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 18 Friesacher Pfennige aus.
+F$Heger/32*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd/
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$pro \dots [domini] episcopi XVIII den. frisac.
+
+DOK$HEGER_33*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Knappen Widos fÅr ein Hemd 5
+Friesacher Pfennige.
+F$Heger/33*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Knappe/X/X//
+H$Reiserechnung/Hemd/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+A$5 Friesacher Pf./1 Hemd
+Q$garcioni Widonis [pro camisia V den. frisac.]
+
+DOK$HEGER_34*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr das GlÑtten eines silbernen
+Bechers 16 Friesacher Pfennige.
+F$Heger/34*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd/
+E$X/X/X/X//
+H$Reiserechnung/BecherglÑtten/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$[pro] planando argenteo cifo XVI den. frisac.
+
+DOK$HEGER_35*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt zwei Pilgern 24 Pfennige.
+F$Heger/35*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Pilger/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$du[obus] peregr[inis XXIIII den.]
+
+DOK$HEGER_36*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Haken 3 Friesacher Pfennige aus.
+F$Heger/36*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Haken/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$uncis III den. frisac.
+
+DOK$HEGER_37*/1204.4.6/1204.4.6/1204 April 6/feria tercia/Friesach/Friesach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt den Hîrigen des Bischofs fÅr
+Werkzeug zum Pferdebeschlagen einen Friesacher Pfennig.
+F$Heger/37*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Hîrige/X/X//
+H$Reiserechnung/Werkzeug/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/A
+Q$servis episcopi pro suf[ferr]atoriis [a]pp[aramentis \dots I den.]
+frisac.
+
+DOK$HEGER_38*/1204.4.7/1204.4.7/1204 April 7/feria quarta/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Hufbeschlag 8 Friesacher Pfennige aus.
+F$Heger/38*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$pro ferramentis V[III] den. frisac.
+
+DOK$HEGER_39*/1204.4.7/1204.4.7/1204 April 7/feria quarta/St.Veit a.d.Glan/St. Veit a.d.Glan//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii 20 Friesacher Pfennige aus.
+F$Heger/39*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$20/den./X/A
+Q$pro va[diis] XX den. frisac.
+
+DOK$HEGER_40*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Konrad von Leibnitz dafÅr, da· er zum
+Patriarchen (Peregrin II. von Aquileia) geht, 40 Friesacher Pfennige Botenlohn.
+F$Heger/40*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Konrad/Genannter/Leibnitz/Leibnitz//Stmk?/
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$C\o{u}nrado de Libinz ad patriarcham eunti XL den. fris[a]c.
+
+DOK$HEGER_41*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii 18 Friesacher Pfennige aus.
+F$Heger/41*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$pro vadiis XVIII den. frisac.
+
+DOK$HEGER_42*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr seine ZÅgel 2 Friesacher Pfennig aus.
+F$Heger/42*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/ZÅgel/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+A$2 Friesacher Pf./ZÅgel
+Q$pro reficiendo freno episcopi II den. fr[is]ac.
+
+DOK$HEGER_43*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr das Beschlagen seines Pferdes 3
+Friesacher Pfennig aus.
+F$Heger/43*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+A$3 Friesacher Pf./Hufbeschlag
+Q$[pro] equo suo sufferando III den. frisac.
+
+DOK$HEGER_44*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Herbord 7 Friesacher Pfennig
+fÅr Hosen.
+F$Heger/44*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Herbord/X/X/X//
+H$Reiserechnung/Hosen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$7/den./X/A
+A$7 Friesacher Pf./1 Hose
+Q$Herbordo pro bracis VII den. frisac.
+
+DOK$HEGER_45*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr die Reparatur seines Pelzes 2
+Friesacher Pfennig aus.
+F$Heger/45*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Pelzreparatur/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$pro reparandis pellibus episcopi II den. fr[isac.]
+
+DOK$HEGER_46*/1204.4.8/1204.4.8/1204 April 8/feria quinta/Feldkirchen/Feldkirchen//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt den WÑchtern 3 Friesacher Pfennig.
+F$Heger/46*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/WÑchter/X/X//
+H$Reiserechnung/Wachen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$vigilibus III den. frisac.
+
+DOK$HEGER_47*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Vadii 18 Friesacher Pfennig aus.
+F$Heger/47*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/vadii/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$18/den./X/A
+Q$pro vadiis XVIII den. frisac.
+
+DOK$HEGER_48*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr die Reparatur seiner Satteldecke und
+dergleichen 6 Friesacher Pfennig aus.
+F$Heger/48*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Satteldeckenreparatur/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$pro subsellio ep[iscopi] re[par]ando et huiusmodi VI den. frisac.
+
+DOK$HEGER_49*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Hufbeschlag 6 Friesacher Pfennig aus.
+F$Heger/49*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$pro ferramentis VI den. frisac.
+
+DOK$HEGER_50*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr ein Pferdehalfter 5 Friesacher
+Pfennig aus.
+F$Heger/50*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Pferdehalfter/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+A$5 Friesacher Pf./Pferdehalfter
+Q$pro [ca]pistro episcopi V den. frisac.
+
+DOK$HEGER_51*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Mundschenk 2 Friesacher Pfennig.
+F$Heger/51*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mundschenk/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./X/A
+Q$pincerne II den. frisac.
+
+DOK$HEGER_52*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Wido fÅr Gewand 3 Friesacher Pfennig.
+F$Heger/52*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Wido/X/X/X//
+H$Reiserechnung/Gewand/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+A$3 Friesacher Pf./Gewand
+Q$Widoni pro s[a]cco III den. frisac.
+
+DOK$HEGER_53*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt den WÑchtern 3 Friesacher Pfennig.
+F$Heger/53*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/WÑchter/X/X//
+H$Reiserechnung/Wachen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/A
+Q$vigilibus III den. frisac.
+
+DOK$HEGER_54*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Pandolf fÅr einen Sattel 6 Friesacher Pfennig.
+F$Heger/54*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Pandolf/X/X/X//
+H$Reiserechnung/Sattel/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+A$6 Friesacher Pf./1 Sattel
+Q$Pandolfo pro sella VI [den.] frisac.
+
+DOK$HEGER_55*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Boten des Wido 13 Wiener Pfennig.
+F$Heger/55*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$Wien/X/
+O$X/X/X
+Z$X/X/X
+M$13/den./X/A
+Q$garcioni Widonis XIII den. wienn.
+
+DOK$HEGER_56*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt Gerhard 6 Friesacher Pfennig, die
+dieser fÅr Almosen gegeben hat.
+F$Heger/56*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Gerhard/X/X/X//
+H$Reiserechnung/Almosen/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Gerhar[do VI den. frisac.]  quos ipse ad elemosinam concesserat
+
+DOK$HEGER_57*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Brot 75 Friesacher Pfennig aus.
+F$Heger/57*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Brot/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$75/den./X/A
+Q$pro pane qui no \dots LXXV den. frisac.
+
+DOK$HEGER_58*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Wein 31 Friesacher Pfennig aus.
+F$Heger/58*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Wein/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$31/den./X/A
+Q$pro vino XXXI den. [frisac.]
+
+DOK$HEGER_59*/1204.4.9/1204.4.9/1204 April 9/feria sexta/Villach/Villach//K/
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Futter 62 Friesacher Pfennig aus.
+F$Heger/59*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$62/den./X/A
+Q$pro pabulo [L]XII den. frisac.
+
+DOK$HEGER_60*/1204.4.10/1204.4.10/1204 April 10/sabbato/Camporosso/Camporosso
+(heute)/Saifnitz/Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 33 Friesacher Pfennig in die KÅche.
+F$Heger/60*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/KÅche/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$33/den./X/A
+Q$in [c]oquina[m XXXIII] den. frisac.
+
+DOK$HEGER_61*/1204.4.10/1204.4.10/1204 April 10/sabbato/Camporosso/Camporosso
+(heute)/Saifnitz/Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt \dots
+F$Heger/61*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./minus/A
+Q$\dots frisac. minus II den.
+
+DOK$HEGER_62*/1204.4.10/1204.4.10/1204 April 10/sabbato/Camporosso/Camporosso
+(heute)/Saifnitz/Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt \dots
+F$Heger/62*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$keine Ang./den./X/A
+Q$[pro] \dots den. frisac.
+
+DOK$HEGER_63*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr die KÅche 56 Agleier Pfennig aus.
+F$Heger/63*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/KÅche/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$56/den./X/A
+Q$in co[quinam] \dots [L]VI den. aquileg.
+
+DOK$HEGER_64*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Wein 39 Agleier Pfennig aus.
+F$Heger/64*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Wein/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$39/den./X/A
+Q$pro vin[o XXX]VIIII den. aq[uileg.]
+
+DOK$HEGER_65*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt \dots
+F$Heger/65*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/longus
+M$12/den./X/A
+Q$\dots longos et XII den. Aquileg.
+
+DOK$HEGER_66*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Heu 17 Pfennig aus.
+F$Heger/66*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Heu/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$17/den./X/A
+Q$pro feno XVII den.
+
+DOK$HEGER_67*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr \dots dormitionis 9 Agleier Pfennig aus.
+F$Heger/67*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/A
+Q$\dots dormitionis VIIII den. aquileg.
+
+DOK$HEGER_68*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Hufbeschlag, die WÑscherin und
+den Bademeister 14 Agleier Pfennig aus.
+F$Heger/68*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/WÑscherin;Bademeister/X/X//
+H$Reiserechnung/Hufbeschlag;WÑscherin;Bademeister/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$14/den./X/A
+Q$pro ferramentis et lotri[ci] et [balneo] XIIII den. aquileg.
+
+DOK$HEGER_69*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Normannus 10 Friesacher Pfennig.
+F$Heger/69*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Normannus/X/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$10/den./X/A
+Q$Normanno X den. [frisac.]
+
+DOK$HEGER_70*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Wido fÅr einen Botengang zum
+Markgrafen (Azzo VI.) von Este 40 Friesacher Pfennig.
+F$Heger/70*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Wido/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/A
+Q$[Widon]i ad [mar]chionem Estensem eunti XL den. frisac.
+
+DOK$HEGER_71*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt seinen conditores fÅr Essen und Trinken 19
+Agleier Pfennig.
+F$Heger/71*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/conditores patriarche/X/X//
+H$Reiserechnung/Lebensmittel;Lebensmittel_GetrÑnke/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$19/den./X/A
+Q$cond[itoribus (?)] patri[ar]che pro pabulo et potu [X]VIIII den.
+aquileg.
+
+DOK$HEGER_72*/1204.4.12/1204.4.12/1204 April 12/[feria secun]da/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Mundschenk 8 Agleier Pfennige.
+F$Heger/72*/98/98
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mundschenk/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$pince[rn]e VIII den. aquileg.
+
+DOK$HEGER_73*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 5 Talent und 12 kurze Schilling
+Venet. WÑhrung fÅr die KÅche aus.
+F$Heger/73*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/KÅche/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$5/tal./X
+Z$12/sol./brevis
+M$X/X/X/A
+Q$in coquinam V tal. et [X]II sol. breves venetianorum
+
+DOK$HEGER_74*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Brot 3 Talent und 2 Schilling
+aus.
+F$Heger/74*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Brot/unbestimmt/unbestimmt//
+W$X/X/
+O$3/tal./X
+Z$2/sol./X
+M$X/X/X/A
+Q$pro pane III tal. et II sol.
+
+DOK$HEGER_75*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Wein 2,5 Talent aus.
+F$Heger/75*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel_Wein/unbestimmt/unbestimmt//
+W$X/X/
+O$2,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro vino II [tal.et] dim.
+
+DOK$HEGER_76*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr Futter 5 Talent und 20 Pfennig
+aus.
+F$Heger/76*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$5/tal./X
+Z$X/X/X
+M$20/den./X/A
+Q$pro pabulo V tal. et XX den.
+
+DOK$HEGER_77*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt einem Boten, der zu Herrn Gabriel (von Prata)
+lÑuft, 5 Schilling.
+F$Heger/77*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Bote/PratadiPordenone/Prata di Pordenone (heute)/Prata/Friaul-West
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$5/sol./X
+M$X/X/X/A
+Q$nuncio qui ad dominum [Ga]brielem [c]ucurrit V sol.
+
+DOK$HEGER_78*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt dem Mundschenk einen Schilling.
+F$Heger/78*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mundschenk/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$pincerne sol.
+
+DOK$HEGER_79*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt fÅr die Stallung 14 Schilling.
+F$Heger/79*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Stallung/X/X//
+H$Reiserechnung/Pferdehaltung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$X/X/X/A
+Q$ad st[a]bulatum XIIII sol.
+
+DOK$HEGER_80*/1204.4.13/1204.4.13/1204 April 13/feria tercia/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt einem Boten 4 Schilling.
+F$Heger/80*/99/99
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Bote/X/X//
+H$Reiserechnung/Botenlohn/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$4/sol./X
+M$X/X/X/A
+Q$gar[cio]ni qui pro litteris patriarche revertebatur IIII sol.
+
+DOK$HEGER_81*/1204.4.11/1204.4.11/1204 April 11/X/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich wechselt [im Auftrag Bischof Wolfgers von Passau]
+3 Mark fÅr 18 lange Schilling und 23 Agleier Pfennig.
+F$Heger/81*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Geldwechsler/Gemona/Gemona//Friaul-Mitte
+H$Reiserechnung/Geldwechsel/Gemona/Gemona//Friaul-Mitte
+W$X/X/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$3 Mark/18 lange Schill. und 23 Agleier Pf.
+Q$cambivit frater Heinricus tres marc. pro XVIII sol. longis et XXIII
+den. aquilegiensium
+
+REG$Bruder Heinrich wechselt [im Auftrag Bischof Wolfgers von Passau]
+3 Mark fÅr 18 lange Schilling und 23 Agleier Pfennig.
+F$Heger/81*/112/112
+G$X/Geldwechsler/Gemona/Gemona//Friaul-Mitte
+E$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+H$Reiserechnung/Geldwechsel/Gemona/Gemona//Friaul-Mitte
+W$Aquileia/X/
+O$X/X/X
+Z$18/sol./longus
+M$23/den./X/A
+A$18 lange Schill. und 23 Agleier Pf./3 Mark
+Q$cambivit frater Heinricus tres marc. pro XVIII sol. longis et XXIII
+den. aquilegiensium
+
+DOK$HEGER_82*/1204.4.11/1204.4.11/1204 April 11/X/Gemona/Gemona//Friaul-Mitte
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau wechselt eine halbe Mark fÅr 3 lange
+Schilling und 4 Pfennig.
+F$Heger/82*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Geldwechsler/Gemona/Gemona//Friaul-Mitte
+H$Reiserechnung/Geldwechsel/Gemona/Gemona//Friaul-Mitte
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$0,5 Mark/3 lange Schill. und 4 Pf. (Agleier Pf.)
+Q$dim. marc. pro [III] sol. longis et IIII den.
+
+REG$Bischof Wolfger von Passau wechselt eine halbe Mark fÅr 3 lange
+Schilling und 4 Pfennig.
+F$Heger/82*/112/112
+G$X/Geldwechsler/Gemona/Gemona//Friaul-Mitte
+E$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+H$Reiserechnung/Geldwechsel/Gemona/Gemona//Friaul-Mitte
+W$X/X/
+O$X/X/X
+Z$3/sol./longus
+M$4/den./X/A
+A$3 lange Schill. und 4 Pf. (Agleier Pf.)/0,5 Mark
+Q$dim. marc. pro [III] sol. longis et IIII den.
+
+DOK$HEGER_83*/1204.4.13/1204.4.13/1204 April 13/X/Pordenone/Pordenone//Friaul-West
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau wechselt 2 Mark fÅr 18 Talent Venet.
+WÑhrung.
+F$Heger/83*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Geldwechsler/Pordenone/Pordenone//Friaul-West
+H$Reiserechnung/Geldwechsel/Gemona/Gemona//Friaul-Mitte
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$2 Mark/18 Talent Venetianischer MÅnze
+Q$II marc. pro XVIII tal. venetianorum
+
+REG$Bischof Wolfger von Passau wechselt 2 Mark fÅr 18 Talent Venet.
+WÑhrung.
+F$Heger/83*/112/112
+G$X/Geldwechsler/Pordenone/Pordenone//Friaul-West
+E$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+H$Reiserechnung/Geldwechsel/Gemona/Gemona//Friaul-Mitte
+W$Venedig/X/
+O$18/tal./X
+Z$X/X/X
+M$X/X/X/A
+A$18 Talent Venetianischer MÅnze/2 Mark
+Q$II marc. pro XVIII tal. venetianorum
+
+note *** Heger Fortsetzung
+
+DOK$HEGER_84*/1204.7.10/1204.7.10/1204 Juli 10/X/Regensburg/Regensburg//Oberpf.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Mundschenken
+einen Schilling fÅr Almosen.
+F$Heger/84*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mundschenk/X/X//
+H$Reiserechnung/Amosen/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$reddidit pincerne sol. pro elemosina.
+
+DOK$HEGER_85*/1204.7.11/1204.7.11/1204 Juli 11/X/Regensburg/Regensburg//Oberpf.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Bischof
+Otakar au·er dem festgesetzten Almosen in der Hîhe von einem Schilling
+25 Pfennige.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Otakar/Bischof/Regensburg/Regensburg?//Oberpf./
+H$Reiserechnung/Amosen/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$Ultra statutam elemosinam sol. Odackaro redidi XXV den. episcopo concessos.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Bischof
+Otakar au·er dem festgesetzten Almosen in der Hîhe von einem Schilling
+25 Pfennige.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Otakar/Bischof/Regensburg/Regensburg?//Oberpf.
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$25/den./X/A
+Q$redidi XXV den. episcopo concessos.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] Åber das
+festgesetzte Almosen hinaus 2 Schilling.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$ultra statutam elemosinam II sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem armen
+Mînch 2 Schilling.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mînch/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$Cuidam pauperi monacho II sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Bekleidung
+dem Gerhard 15 Schilling.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Gerhard/X/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$15/sol./X
+M$X/X/X/A
+Q$Pro tunica Gerhardi XXV sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Bekleidung
+dem Nikolaus 10 Schilling und einen zerbrochenen Becher mit einigen Pfennigen
+fÅr? zwei Mark.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$/Nikolaus/X/X/X//
+H$Reiserechnung/Zahlung?Wertangabe/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$2/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Nicolao X sol. et fractum cifum cum quibusdam den. pro duabus marc.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 5 Pfennige
+fÅr das Einsetzen eines Steines in einen Ring aus.
+F$Heger/85*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Ringreparatur/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro reponenda gemma in anulum V den.
+
+DOK$HEGER_86*/1204.7.12/1204.7.12/1204 Juli 12/feria secunda/X/X//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 2 Schilling fÅr
+Almosen aus.
+F$Heger/86*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Amosen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$ultra statutam elemosinam II sol.
+
+DOK$HEGER_87*/1204.7.13/1204.7.13/1204 Juli 13/feria tercia/X/X//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 2 Schilling.
+(fÅr Almosen?) aus.
+F$Heger/87*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung?Amosen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$II sol.
+
+DOK$HEGER_88*/1204.7.14/1204.7.14/1204 Juli 14/feria quarta/Passau/Passau//Niederb.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 15 Schilling.
+fÅr Almosen aus.
+F$Heger/88*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Amosen/Passau/Passau//Niederb.
+W$X/X/
+O$X/X/X
+Z$15/sol./X
+M$X/X/X/A
+Q$ultra statutam elemosinam XV sol.
+
+DOK$HEGER_89*/1204.7.15/1204.7.15/1204 Juli 15/feria quinta/Passau/Passau//Niederb.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr die
+Bekleidung des Pilgrim ein Talent aus.
+F$Heger/89*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Bekleidung/Passau/Passau//Niederb.
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro tunica Pilgrimi tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Truchse·
+des Kînigs 36 Pfennige.
+F$Heger/89*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Truchse·/Dt.kînigl./kînigl.//
+H$Reiserechnung/Zahlung/Passau/Passau//Niederb.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$36/den./X/A
+Q$Spisario regis XXXVI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten des
+W(ichard I. oder II.) von Zîbing 30 Pfennige.
+F$Heger/89*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Bote/Zîbing a.Kamp/Zîbing a.Kamp//Nô,GB Langenlois/
+H$Reiserechnung/Zahlung/Passau/Passau//Niederb.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$Nuncio domini W. de Zebbingen XXX den.
+
+DOK$HEGER_90*/1204.7.16/1204.7.16/1204 Juli 16/feria sexta/Passau/Passau//Niederb.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] Boten aus
+Aquileia eine abgezÑhlte Mark Friesacher und 7 Schilling und 6 Pfennige
+Passauer.
+F$Heger/90*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Boten/Aquileia/Aquileia//Friaul-SÅd/
+H$Reiserechnung/Botenlohn/Passau/Passau//Niederb.
+W$Friesach/X/
+O$1/marca/numerata/
+Z$X/X/X
+M$X/X/X/A
+Q$nunciis Aquilegiensibus numeratam marc. Frisac.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] Boten aus
+Aquileia eine abgezÑhlte Mark Friesacher und 7 Schilling und 6 Pfennige
+Passauer.
+F$Heger/90*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Boten/Aquileia/Aquileia//Friaul-SÅd
+H$Reiserechnung/Botenlohn/Passau/Passau//Niederb.
+W$Passau/X/
+O$X/X/X
+Z$7/sol./X
+M$6/den./X/A
+Q$nunciis Aquilegiensibus \dots VII sol. et VI den. Patt.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem
+Magister Gregor aus Metz (Lothringen) ein Talent.
+F$Heger/90*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Gregor/Genannter/Metz/Metz/F,Lothringen/
+H$Reiserechnung/Botenlohn/Passau/Passau//Niederb.
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$Magistro Gregorio Metensi tal.
+
+REG$Bruder Heinrich? gibt [im Auftrag Bischof Wolfgers von Passau] dem Pilgrim,
+dem servus des Magister Heinrich, 30 Pfennige.
+F$Heger/90*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Pilgrim/servus/X/X//
+H$Reiserechnung/Botenlohn/Passau/Passau//Niederb.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$30/den./X/A
+Q$XXX den.
+B$Magister Heinrich war von Bologna (2.6.) aus nach Rom zurÅckgegangen, um gleich
+Marquard, Nicolaus und Otto Bier dort Wolfgers Interessen zu vertreten. Was
+anders konnte ihr Auftrag gewesen sein, als fÅr mîglichst rasche Ausfertigung
+des pÑpstlichen Dekretes und dessen beschleunigte öbermittlung an Wolfger Sorge
+zu tragen ? Am 24. Juni wurde die Bulle in Rom ausgestellt, am 16. Juli konnte
+sie in Passau sein.
+
+DOK$HEGER_91*/1204.7.17/1204.7.17/1204 Juli 17/sabbato/Passau/Passau//Niederb.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Boten aus
+Konstantinopel ein halbes Talent.
+F$Heger/91*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Boten/Istanbul/Istanbul (heute)/Konstantinopel/TÅrkei/
+H$Reiserechnung/Botenlohn/Passau/Passau//Niederb.
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$dim. tal.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einigen Syriern
+ein halbes Talent und 24 Friesacher Pfennige.
+F$Heger/91*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/Syrien/Syrien// wirklich?
+H$Reiserechnung/Botenlohn/Passau/Passau//Niederb.
+W$Friesach/X/
+O$0,5/tal./X
+Z$X/X/X
+M$24/den./X/A
+Q$dim. tal. et XXIIII den. Frisac.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem alten
+Kanoniker 24 Pfennige.
+F$Heger/91*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Kanoniker/Passau/Passau//Niederb.
+H$Reiserechnung/Almosen/Passau/Passau//Niederb.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/A
+Q$cuidam vetulo canonico XXIIII den. Frisac.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfgers von Passau] dem Mahtfridus
+von Regensburg 4,5 Talent und 42 Pfennige.
+F$Heger/91*/97/97
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Mahtfridus/Genannter/Regensburg/Regensburg//Oberpf.
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$4,5/tal./X
+Z$X/X/X
+M$42/den./X/A
+Q$Mahtfrido de Ratispona solvebantur IIII tal. et dim. et XLII den.
+
+Zum Teil 2.x notiert:
+
+DOK$HEGER_92*/1204.7.10/1204.7.10/1204 Juli 10/sabbato/Regensburg/Regensburg//Oberpf.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 8 Schilling minus 4 Pfennige
+fÅr die KÅche aus.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/KÅche/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$8/sol./X
+M$4/den./minus/A
+Q$in coquinam VIII sol. minus IIII den.
+
+REG$Bischof Wolfger von Passau gibt 7 Schilling minus 4 Pfennige
+fÅr die Brot aus.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$7/sol./X
+M$4/den./minus/A
+Q$Pro pane VII sol. minus IIII den.
+
+REG$Bischof Wolfger von Passau gibt 9 Schilling und 6 Pfennige
+fÅr die Wein aus.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$9/sol./X
+M$6/den./X/A
+Q$Pro vino VIIII sol. et VI den.
+
+REG$Bischof Wolfger von Passau gibt fÅr Futter 15 Schilling minus 4 Pfennig
+aus.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$15/sol./X
+M$4/den./minus/A
+Q$Pro pabulo XV sol. minus IIII den.
+
+REG$Bischof Wolfger von Passau zahlt fÅr Futter 5 Pfennig in die Kasse.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Kasse (welche?)/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro gramine in cameram V den.
+
+REG$Bischof Wolfger von Passau zahlt fÅr Futter 5 Pfennig in die Kasse.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Kasse/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro gramine in cameram V den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfger von Passau] in der Herberge
+9 Pfennige.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+G$Heinrich?/frater/X/X//  ?
+E$X/Herberge/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$9/den./X/A
+Q$Frater Heinricus expendit in hospitio VIIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Mundschenken
+einen Schilling fÅr Almosen.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mundschenk/X/X//
+H$Reiserechnung/Amosen/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$Pincerne reddidi sol. pro elemosina.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] ein Schilling
+fÅr Almosen aus.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Almosen/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$ultra statutam elemosinam sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem
+Scholaren, der nach Passau eilt, einen Schilling.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Scholar/X/X//
+H$Reiserechnung/Botenlohn/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$1/sol./X
+M$X/X/X/A
+Q$Scolari Pattaviam precurrenti sol.
+
+REG$Bischof Wolfger von Passau gibt fÅr Hufbeschlag 8 Pfennige aus.
+F$Heger/92*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Pro ferramentis VIII den.
+
+DOK$HEGER_93*/1204.7.11/1204.7.11/1204 Juli 11/Dominica/Regensburg/Regensburg//Oberpf.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau gibt 11 Schilling und 6 Pfennige, um am Schiff die
+KÅche mit Lebensmitteln auszustatten.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$11/sol./X
+M$6/den./X/A
+Q$in coquinam nobiscum in navi ducendam XI sol. et VI den.
+
+REG$Bischof Wolfger von Passau gibt 12 Schilling und 6 Pfennige
+fÅr die Brot aus.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$12/sol./X
+M$6/den./X/A
+Q$Pro pane XII sol. et VI den.
+
+REG$Bischof Wolfger von Passau gibt 14 Schilling und 8 Pfennige
+fÅr die Wein aus.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Lebensmittel/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$14/sol./X
+M$8/den./X/A
+Q$Pro vino XIIII sol. et VIII den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] dem Bischof
+Otakar 25 Pfennige.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Otakar/Bischof/Regensburg/Regensburg?//Oberpf.
+H$Reiserechnung/Amosen/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$25/den./X/A
+Q$Odackaro reddidi XXV den. episcopo concessos.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] Åber das
+festgesetzte Almosen hinaus 2 Schilling.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$Ultra statutam elemosinam II sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem armen
+Mînch 2 Schilling.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Mînch/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$Pauperi monacho II sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Bekleidung
+dem Gerhard ein Talent und 60 Pfennige.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Gerhard/X/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$60/den./X/A
+Q$Pro tunica Gerhardi tal. et LX den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] fÅr Bekleidung
+dem Nikolaus 10 Schilling.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$Nikolaus/X/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$Nicolao X sol.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] einem Schiffer
+10 Schilling.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Schiffer/X/X//
+H$Reiserechnung/Zahlung/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$10/sol./X
+M$X/X/X/A
+Q$Naute X sol.
+
+REG$Bischof Wolfger von Passau gibt fÅr Heu 16 Pfennig aus.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Heu/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$Pro feno XVI den.
+
+REG$Bischof Wolfger von Passau gibt fÅr Hufbeschlag 8 Pfennige aus.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Hufbeschlag/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$8/den./X/A
+Q$Pro ferramentis VIII den.
+
+REG$Bruder Heinrich zahlt [im Auftrag Bischof Wolfger von Passau] dem Wirt
+6 Pfennige.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+G$Heinrich?/frater/X/X//?
+E$X/Wirt/X/X//
+H$Reiserechnung/Zahlung/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$6/den./X/A
+Q$Hospite VI den.
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 5 Pfennige fÅr
+die Reparatur eines Ringes aus.
+F$Heger/93*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Ringreparatur/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/A
+Q$Pro reparando anulo V den.
+
+DOK$HEGER_94*/1204.7.12/1204.7.12/1204 Juli 12/feria secunda/X/X//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 2 Schilling fÅr
+Almosen aus.
+F$Heger/94*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Amosen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$ultra statutam elemosinam II sol.
+
+DOK$HEGER_95*/1204.7.13/1204.7.13/1204 Juli 13/feria tercia/X/X//
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bruder Heinrich gibt [im Auftrag Bischof Wolfgers von Passau] 2 Schilling.
+(fÅr Almosen?) aus.
+F$Heger/95*/112/112
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/X/X/X//
+H$Reiserechnung/Zahlung?Amosen/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/A
+Q$II sol.
+
+DOK$HEGER_96*/1204.7.10/1204.7.11/1204 Juli 10 oder 11/X/Regensburg/Regensburg//Oberpf.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau wechselt 6 Mark weniger 1,5 Vierdung fÅr 6 Talent
+und 8,5 Schilling.
+F$Heger/96*/113/113
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Geldwechsler/Regensburg/Regensburg//Oberpf.
+H$Reiserechnung/Geldwechsel/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$6/marca/X
+Z$1,5/ferto/minus
+M$X/X/X/A
+A$6 Mark minus 1,5 Ferto/6 Talent und 8,5 Schill.
+Q$VI marc. minus fertone et dim. pro VI tal. et VIII sol. et dim.
+
+REG$Bischof Wolfger von Passau wechselt 6 Mark weniger 1,5 Vierdung fÅr 6 Talent
+und 8,5 Schilling.
+F$Heger/96*/113/113
+G$X/Geldwechsler/Regensburg/Regensburg//Oberpf.
+E$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+H$Reiserechnung/Geldwechsel/Regensburg/Regensburg//Oberpf.
+W$X/X/
+O$6/tal./X
+Z$8,5/sol./X
+M$X/X/X/A
+A$6 Talent und 8,5 Schill./6 Mark minus 1,5 Ferto
+Q$VI marc. minus fertone et dim. pro VI tal. et VIII sol. et dim.
+
+DOK$HEGER_97*/1204.7.14/1204.7.17/1204 Juli 14 bis 17/X/Passau/Passau//Niederb.
+S$X/Passau/X
+V$X/Passau/X
+K$Ausgabe Bischof Wolfgers von Passau (Romreise).
+
+REG$Bischof Wolfger von Passau wechselt 2 Mark und ein Settin Friesacher fÅr ?
+F$Heger/97*/113/113
+G$Wolfger/Patriarch,kÅnft./Aquileia/Aquileia//Friaul-SÅd
+E$X/Geldwechsler/Passau/Passau//Niederb.
+H$Reiserechnung/Geldwechsel/Passau/Passau//Niederb.
+W$Friesach/X/
+O$2/marca/X
+Z$1/settin/X
+M$X/X/X/A
+Q$II marc. et unum saetin F[ris.]
+B$Durch die BeschÑdigung des Blattes am linken Rande fehlt der restliche Teil
+der Wechselnotiz und damit die Mîglichkeit einer Errechnung des Kurswertes.
+(Du Cange 1 settina "Numerus septenarius, exactio septum solidorum vel
+denariorum.")
+
+

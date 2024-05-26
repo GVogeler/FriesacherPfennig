@@ -1,0 +1,547 @@
+note *** Quelle: Scalon, Necrologium Aquileiense (1982)
+
+note *** Einlesen der Rohdaten fr_anecr.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$akan_126/1251.2.2/1251.2.2/1251 Februar 2/anno domini MCCLI XI. E. IIII
+Non./Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Konrad von Brazacco, ein Kanoniker von Aquileia, stiftet fÅr sein Seelenheil
+dem Kapitel von Aquileia und den Kanonikern drei Mark Agleier MÅnze gegeben, um
+dafÅr EinkÅnfte zu kaufen, und EinkÅnfte von Geld und Wein.
+
+REG$Konrad von Brazacco, ein Kanoniker von Aquileia, hat fÅr sein Seelenheil dem
+Kapitel von Aquileia und den Kanonikern drei Mark Agleier MÅnze gegeben, um
+dafÅr EinkÅnfte zu kaufen.
+F$AquiNecr/X/126f/126
+G$Konrad/Genannter/Brazacco/Brazacco//Friaul-Mitte,s.Colloredo di Monte Albano/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$3/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit pro remedio anime sue capitulo Aquil. et canonicis III marcas Aquil.
+monete
+B$Konrad gibt 3 Mark an die Kanoniker; 3 Pfennige spendet er fÅr sein
+Seelenheil an verschiedene AltÑre und fÅr das Fest des hl. Blasius
+spendet er eine halbe Mark.
+
+REG$Konrad von Brazacco, ein Kanoniker von Aquileia, spendet fÅr sein Seelenheil
+dem Kapitel von Aquileia und den Kanonikern EinkÅnfte in der Hîhe von 16
+Pfennigen und einer Urne Wein in der Villa Franca fÅr das Fest des hl. Blasius.
+F$AquiNecr/X/126f/126
+G$Konrad/Genannter/Brazacco/Brazacco//Friaul-Mitte,s.Colloredo di Monte Albano/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/EinkÅnfte/VillaFranca/Villa Franca//? bei Cusano?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$16/den./X/A
+Q$dedit eis reditus XVI den. et unius urne vini in Villa Franca
+B$Konrad gibt 3 Mark an die Kanoniker; 3 Pfennige spendet er fÅr sein
+Seelenheil an verschiedene AltÑre und fÅr das Fest des hl. Blasius
+spendet er eine halbe Mark.
+
+REG$Konrad von Brazacco, ein Kanoniker von Aquileia, spendet fÅr sein Seelenheil
+(aus den vorgenannten EinkÅnften von 16 Pfennigen) 3 Agleier Pfennige fÅr das
+Fest des hl. Blasius fÅr die ministri des Altares.
+F$AquiNecr/X/126f/126
+G$Konrad/Genannter/Brazacco/Brazacco//Friaul-Mitte,s.Colloredo di Monte Albano/
+E$ministri/Altar/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$in crastino III vero den. Aquil. offerantur in coventuali missa ministris
+altaris
+B$Konrad gibt 3 Mark an die Kanoniker; 3 Pfennige spendet er fÅr sein
+Seelenheil an verschiedene AltÑre und fÅr das Fest des hl. Blasius
+spendet er eine halbe Mark.
+
+REG$Konrad von Brazacco, ein Kanoniker von Aquileia, hat fÅr sein Seelenheil dem
+Kapitel von Aquileia und den Kanonikern Geld gestiftet. Das Kapitel beschlie·t,
+eine halbe Mark zu verwenden, um das Fest des hl. Blasius zu feiern.
+F$AquiNecr/X/126f/127
+G$Konrad/Genannter/Brazacco/Brazacco//Friaul-Mitte,s.Colloredo di Monte Albano/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dividi in dicto festo s. Blasii cum vino et oblatione dimidiam marcham
+B$Konrad gibt 3 Mark an die Kanoniker; 3 Pfennige spendet er fÅr sein
+Seelenheil an verschiedene AltÑre und fÅr das Fest des hl. Blasius
+spendet er eine halbe Mark.
+
+DOK$akan_220/1228.4.13/1238.11.5/1228 Apr.13-1238 Nov. 5/X/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Amicus de Growanio, ein Kanoniker von Aquileia, stirbt, der dem Kapitel
+von Aquileia fÅr den Kauf eines Allods 140 Pfund kleiner Veroneser und seine
+PfrÅnde hinterlÑ·t.
+
+REG$Amicus de Growanio, ein Kanoniker von Aquileia, stirbt, der dem Kapitel
+von Aquileia fÅr den Kauf eines Allods 140 Pfund kleiner Veroneser und seine
+PfrÅnde hinterlÑ·t.
+F$AquiNecr/X/220f/220
+G$Amicus/Genannter/Gruagno/Gruagno//Friaul-Mitte/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$140/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$qui dimisit fratribus pro emdendo allodio C et XL libras Veronensium
+parvulorum
+
+DOK$akan_290/1238.8.31/1238.8.31/1238 August 31/anno domini MCCXXXVIII E. II. kal. Paulini
+/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Magister Wilhelm, Kanoniker und Scholastiker von Aquileia, gibt dem Kapitel
+von Aquileia 10 Mark Agleier MÅnze fÅr einen SÅndenabla· und zum Kauf eines Allods.
+
+REG$Magister Wilhelm, Kanoniker und Scholastiker von Aquileia, gibt dem Kapitel
+von Aquileia 10 Mark Agleier MÅnze fÅr einen SÅndenabla· und zum Kauf eines Allods.
+F$AquiNecr/X/290f/290
+G$Wilhelm/Kapitel;scolasticus/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit capitulo Aquil. X marchas Aquil. monete in remissione peccatorum suorum
+
+REG$Der Dapifer der Kanoniker kauft mit 13 Pfund Agleier MÅnze, die er von den
+Agleier Pfennigen des Kapitels erhÑlt, die Magister Wilhelm dem Kapitel gegeben
+hat, einem Tag vor dem hl. Egidiustag ein Quartarium Wein, das nach der
+Vesper allen Kanonikern und Nichtkanonikern gereicht wird.
+F$AquiNecr/X/290f/290
+G$X/Dapifer;Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Mobilien_Wein/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$13/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$XIII libris monete Aquil., quas accipiet de denariis Aquil. capituli, in
+vigilia beati Egidii emet una quartaria boni vini
+
+REG$Am Fest des hl. Egidius werden drei Pfennige in der Messe geopfert.
+F$AquiNecr/X/290f/290
+G$Wilhelm/Kapitel;scolasticus/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$in festo vero ipsius III den. offerantur in conventuali missa
+
+REG$Der Dapifer der Kanoniker kauft mit 13 Pfund Agleier MÅnze, die er von den
+Agleier Pfennigen des Kapitels erhÑlt, die Magister Wilhelm dem Kapitel gegeben
+hat, einem Tag vor dem hl. Egidiustag ein Quartarium Wein. 3 Pfennige werden in
+der Messe gespendet und die restlichen Pfennige zwischen den Kanonikern der
+Kirche geteilt, die der Messe beiwohnten.
+F$AquiNecr/X/290f/291
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Dapifer/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$13/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$residui den. de dictis XIII libris dividantur fideliter inter can.
+
+REG$Patriarch Berthold von Aquileia kauft mit 10 Mark, die Magister Wilhelm dem
+Kapitel gegeben hat, eine Hube in der Villa Tricessimo.
+F$AquiNecr/X/290f/291
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+H$Kauf/Immobilien/Tricesimo/Villa Tricessimo/Friaul,n.Udine/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$X marche pro manso qui emptus fuit a dom. Bertholdo Aquil. ecclesie patriacha
+in villa de Tricessimo
+
+DOK$akan_291/1243.8.31/1243.8.31/1243 August 31/anno domini MCCXLIII E. II. kal. Paulini/
+Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Magister Wilhelm, Kanoniker und Scholastiker von Aquileia, gibt dem Kapitel
+von Aquileia 15 Mark Agleier MÅnze, die fÅr die Vogtei der villa de Muzana dem
+Grafen von Gîrz verpfÑndet worden sind.
+
+REG$Magister Wilhelm, Kanoniker und Scholastiker von Aquileia, gibt dem Kapitel
+von Aquileia 15 Mark Agleier MÅnze, die fÅr die Vogtei der villa de Muzana dem
+Grafen von Gîrz verpfÑndet worden sind.
+F$AquiNecr/X/291/291
+G$Wilhelm/Magister/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit XV marcas Aquil. monete
+
+REG$Magister Wilhelm, Kanoniker und Scholastiker von Aquileia, gibt dem Kapitel
+von Aquileia 15 Mark Agleier MÅnze, damit jÑhrlich am Fest des hl. Egidius fÅr
+ihn und fÅr das Seelenheil seiner Eltern und Verwandten Almosen aus dem
+Vorratshaus des Kapitels von Aquileia gegeben werden.
+F$AquiNecr/X/291/291
+G$Wilhelm/Magister/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit XV marcas Aquil. monete
+
+REG$Magister Wilhelm, Kanoniker und Scholastiker von Aquileia, gibt dem Kapitel
+von Aquileia 15 Mark Agleier MÅnze, damit jÑhrlich am Fest des hl. Egidius fÅr
+ihn und fÅr das Seelenheil seiner Eltern und Verwandten Almosen aus dem
+Vorratshaus des Kapitels von Aquileia gegeben werden.
+Das Kapitel beschlie·t, da· eine halbe Mark und 16 Pfennige zwischen den
+Anwesenden am Fest des hl. Egidius geteilt werden.
+F$AquiNecr/X/291/291
+G$Wilhelm/Kapitel;scolasticus/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$0,5/marca/X
+Z$X/X/X
+M$16/den./X/A
+Q$dividi \dots mediam marcham den. et den. XVI inter presentes
+B$Aus B.
+
+DOK$akan_100/1240.0.0/1240.0.0/1240/anno domini MCCXL/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$1240 stirbt Heinrich, Bischof von Brixen und Kanoniker von Aquileia,
+der dem Kapitel von Aquileia unter anderem Land diesseits des Flusses
+gegeben hat, welches Otto Ruffus, Kanoniker von S. Felice, fÅr 2 Denarii grossi
+und vier TischtÅcher? zu Zins hat.
+
+REG$Otto Ruffus, Kanoniker von S. Felice, zinst dem Kapitel von Aquileia 2 Denarii
+grossi und vier TÅcher (mantilia) fÅr Land diesseits des Flusses.
+F$AquiNecr/X/99f/100
+G$Otto Ruffus/Kanoniker/Aquileia S.Felice/Aquileia,S.Felice/S.Felice/Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$2/den./grossus/Z
+Q$terram \dots quam habet Otto Ruffus can. S. Felice pro duobus den. grossis
+
+DOK$akan_101/1253.1.8/1253.1.8/1253 JÑn. 8/X/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Am 8. Januar 1253 stirbt Heinrich Scrizolino, Kanoniker von Cividale,
+der dem Kapitel von Aquileia 3 Pfund Agleier Pfennige hat zukommen lassen, und
+zwar "in" einer Hube zu Muninaco, die er vom Kapitel hatte. Die Pfennige mÅssen
+zwischen den BrÅdern geteilt werden, die dem nÑchtlichen Gebet und der Messe zu
+seinem Anniversar beiwohnten.
+
+REG$Am 8. Januar 1253 stirbt Heinrich Scrizolino, Kanoniker von Cividale,
+der dem Kapitel von Aquileia 3 Pfund Agleier Pfennige hat zukommen lassen, und
+zwar "in" einer Hube zu Muninaco, die er vom Kapitel hatte. Die Pfennige mÅssen
+zwischen den BrÅdern geteilt werden, die dem nÑchtlichen Gebet und der Messe zu
+seinem Anniversar beiwohnten.
+F$AquiNecr/X/101/101
+G$Heinrich Scrizolino/Kanoniker/Cividale/Cividale//Friaul-Ost/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/Moimacco/Moimacco/Muninaco/
+W$Aquileia/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$qui adauxit fratribus III libras den. Aquil. in manso de Muninaco
+
+DOK$akan_153/1201.0.0/1201.0.0/13 Jh./X/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Ulrich von Gemona stirbt, der dem Kapitel von Aquileia eine statio
+hinterlÑ·t, fÅr welchen ihm Morettus eine Mark und dem Kapitel 12 Pfund Agleier
+Pfennige zahlt.
+
+REG$Ulrich von Gemona stirbt, der dem Kapitel von Aquileia eine statio
+hinterlÑ·t, fÅr welchen ihm Morettus eine Mark und dem Kapitel 12 Pfund Agleier
+Pfennige zahlt.
+F$AquiNecr/X/153/153
+G$Morettus/X/X/X//
+E$Ulrich/Genannter/Gemona/Gemona//Friaul/
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de qua solvebat ei Morettus unam marcham et capitulo XII libras den.
+Aquilegensium
+
+REG$Ulrich von Gemona stirbt, der dem Kapitel von Aquileia eine statio
+hinterlÑ·t, fÅr welchen ihm Morettus eine Mark und dem Kapitel 12 Pfund Agleier
+Pfennige zahlt.
+F$AquiNecr/X/153/153
+G$Morettus/X/X/X//
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Zins/Immobilien/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$12/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$de qua solvebat ei Morettus unam marcham et capitulo XII libras den.
+
+DOK$akan_181/1245.0.0/1259.0.0/1245 - 1259/X/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Philipp da Zegliacco, ein Kanoniker von Aquileia stirbt, der dem Kapitel von
+Aquileia 40 Pfund kleiner Venetianer gibt, um ein Allod zu kaufen, welchen
+sein Bruder Konrad, der ErwÑhlte von Justinopolitan, 12 Pfund hinzufÅgt. FÅr 52
+Pfund inklusive der 40 vorhergenannten wurde der Hof der Herren von
+Pertenstein neben dem Keller (cellarium) der Kanoniker gekauft. Der Bischof
+lie· von den PfrÅnden im Kapitel fÅr sein Seelenheil 3 Pfennige in der Messe
+darreichen und einen Pfennig fÅr die ChorsÑnger.
+
+REG$Philipp da Zegliacco, ein Kanoniker von Aquileia hinterlÑ·t dem Kapitel von
+Aquileia 40 Pfund kleiner Venetianer, um ein Allod zu kaufen.
+F$AquiNecr/X/181/181
+G$Philipp/Genannter/Zegliacco/Zegliacco//w.Tarcento(n.Udine)/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$qui dedit fratribus XL libras Venetorum parvorum pro emendo allodio
+
+REG$Philipp da Zegliacco, ein Kanoniker von Aquileia hinterlÑ·t dem Kapitel von
+Aquileia 40 Pfund kleiner Venetianer, um ein Allod zu kaufen, welchen
+sein Bruder Konrad, der ErwÑhlte von Justinopolitan, 12 Pfund hinzufÅgt.
+F$AquiNecr/X/181/181
+G$Konrad/ErwÑhlter/Capodistria/Capodistria/Justinopolitan/s.Triest/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quibus dom. C(onradus) Iustinopolitans electus frater memorati P(hilippi) XII
+libras addidit
+
+REG$Philipp da Zegliacco, ein Kanoniker von Aquileia hinterlÑ·t dem Kapitel von
+Aquileia 40 Pfund kleiner Venetianer, welchen sein Bruder Konrad, der ErwÑhlte
+von Justinopolitan, 12 Pfund hinzufÅgt. FÅr diese 52 Pfund wird der Hof der
+Herren von Parthinstagn neben der Keller (cellarium) der Kanoniker gekauft.
+F$AquiNecr/X/181/181
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Kauf/Immobilien/Aquileia/Aquileia//Friaul-SÅd/
+W$X/X/
+O$52/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quibus LII libris inclusis XL predictis empta fuit curia
+
+REG$Der ErwÑhlte Konrad von Koper (Kanoniker von Aquileia) lie· von seinen
+PfrÅnden im Kapitel fÅr sein Seelenheil 3 Pfennige in der Messe darreichen und
+einen Pfennig fÅr die ChorsÑnger.
+F$AquiNecr/X/181/181
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Messe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$offerri III den. in conventuali missa
+
+REG$Der ErwÑhlte Konrad von Koper (Kanoniker von Aquileia) lie· von seinen
+PfrÅnden im Kapitel fÅr sein Seelenheil 3 Pfennige in der Messe darreichen und
+einen Pfennig fÅr die ChorsÑnger.
+F$AquiNecr/X/181/181
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Messe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/den./X/Z
+Q$cuilibet sac. qui fuerit de choro unum den. pro cantandum missis
+
+DOK$akan_202/1238.4.29/1238.4.29/1238 April 29/anno domini MCCXXXVIII III. G. III.
+Kal./Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Konrad, Dekan von Aquileia stirbt 1238, fÅr den das Kapitel von Aquileia 14
+Mark EinkÅnfte von einer Hube in Tresesimo und 8 Pfund kleiner Venetianer zum
+Kauf eines Allods hat.
+
+REG$Konrad, Dekan von Aquileia stirbt 1238, fÅr den das Kapitel von Aquileia 14
+Mark EinkÅnfte von einer Hube in Tresesimo und 8 Pfund kleiner Venetianer zum
+Kauf eines Allods hat.
+F$AquiNecr/X/202f/202
+G$Konrad/Dekan/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung_EinkÅnfte/Immobilien/Tricesimo/Tricesimo/Tresesimo/Friaul,n.Udine/
+W$X/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quo fratres habent XIIII marchas super mansum in Tresesimo
+
+REG$Konrad, Dekan von Aquileia stirbt 1238, fÅr den das Kapitel von Aquileia 14
+Mark EinkÅnfte von einer Hube in Tresesimo und 8 Pfund kleiner Venetianer zum
+Kauf eines Allods hat.
+F$AquiNecr/X/202f/203
+G$Konrad/Dekan/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$8/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$VIII libras Venetorum parvorum ad emendum allodium
+
+REG$Konrad, Dekan von Aquileia stirbt 1238, fÅr den das Kapitel von Aquileia 14
+Mark EinkÅnfte von einer Hube in Tresesimo und 8 Pfund kleiner Venetianer zum
+Kauf eines Allods hat. Von dem Geld wurden unter anderem EinkÅnfte in Utino von
+Restaldus in der Hîhe von 6 Pfund gekauft.
+F$AquiNecr/X/202f/203
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Restaldus/X/X/X//
+H$Kauf/Immobilien/Udine/Udine?/Utinum/Friaul/
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$in Utino a Restaldo VI libras
+
+REG$Konrad, Dekan von Aquileia stirbt 1238, fÅr den das Kapitel von Aquileia 14
+Mark EinkÅnfte von einer Hube in Tresesimo und 8 Pfund kleiner Venetianer zum
+Kauf eines Allods hat. Von dem Geld wurden unter anderem EinkÅnfte von Jakomina
+von Montono in der Hîhe von 4 Pfund gekauft.
+F$AquiNecr/X/202f/203
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+E$Jakomina/Genannte/Montono/Montono//Vale, Topografia 15: in Aquileia
+H$Kauf/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$4/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$a Iacomina de Montono IIII libras
+
+DOK$akan_218/1204.5.15/1204.5.15/1204 Mai 15/1204, atque obiisse die decima
+quinta   ? Maii/Aquileia/Friaul-SÅd
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$NN
+F$AquiNecr/X/218-219/218-219
+G$Pilgrim/Patriarch/Aquileia/Friaul-Patr.
+E$/Kapitel/Aquileia/Friaul-SÅd
+H$Spenden/Geld/unbestimmt/unbestimmt
+W$X/X/
+O$50/marca/X
+O$10/marca/X
+O$100/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$\dots quingentas marchas denariorum \dots decem marchas \dots centum
+marchas \dots
+B$100 Mark fÅr die Aufbesserung des Besitzes der BrÅder;50 Mark und
+einen Goldring aus einer Kollekte;10 Mark fÅr die Anfertigung einer
+goldenen Tafel (tabulam auream?) und eines Bechers (cuppam auream?)
+
+DOK$akan_303/1200.0.0/1200.0.0/(um 1200)/X/Aquileia?/Friaul-SÅd?
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$NN
+F$AquiNecr/X/303/303
+G$Heliza/X/Martignacco/Friaul-Mitte
+E$/Kapitel/Aquileia/Friaul-SÅd
+H$Zinsverpflichtung/Zins/wo?/wo?
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$56/den./X/Z
+Q$\dots LVI denarios \dots
+
+
+DOK$akan_318/1238.4.29/1238.4.29/bis 1238 Apr. 29/XIII. C. V. Non.
+duorum evvaldorum/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Konrad, Dekan von Aquileia gibt dem Kapitel von Aquileia eine Mark Agleier
+Pfennige, um EinkÅnfte zu kaufen, damit das Fest des hl. Franziskus jÑhrlich
+feierlich begangen werde.
+
+REG$Konrad, Dekan von Aquileia gibt dem Kapitel von Aquileia eine Mark Agleier
+Pfennige, um EinkÅnfte zu kaufen, damit das Fest des hl. Franziskus jÑhrlich
+feierlich begangen werde.
+F$AquiNecr/X/318/318
+G$Konrad/Dekan/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/X/
+O$1/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$dedit capitulo Aquil. unam marcham den. Aquil.
+
+REG$Konrad, Dekan von Aquileia gibt dem Kapitel von Aquileia eine Mark Agleier
+Pfennige, um EinkÅnfte zu kaufen, damit das Fest des hl. Franziskus jÑhrlich
+feierlich begangen werde. Von den EinkÅnften sollen
+3 Pfennige in der Messe dargereicht werden.
+F$AquiNecr/X/318/318
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Messe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III den. offerantur in missa conventuali
+
+DOK$akan_358/1239.11.24/1239.11.24/1239 November 24/anno domini MCCXXXVIIII VIII. Kal.
+Decembris/Aquileia/Aquileia//Friaul-SÅd/
+S$X/Aquileia/X
+V$X/Aquileia/X
+K$Amicus de Grovanio, Kanoniker von Aquileia, gibt dem Kapitel von Aquileia
+zehn Mark Agleier MÅnze, um EinkÅnfte zu kaufen, damit das Fest der hl.
+Katharina jÑhrlich feierlich begangen werde.
+
+REG$Amicus de Grovanio, Kanoniker von Aquileia, gibt dem Kapitel von Aquileia
+zehn Mark Agleier MÅnze, um EinkÅnfte zu kaufen, damit das Fest der hl.
+Katharina jÑhrlich feierlich begangen werde.
+F$AquiNecr/X/358/358
+G$Amicus/Kanoniker/Aquileia/Aquileia//Friaul-SÅd/
+E$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$dedit capitulo Aquil. X marchas Aquil. monete
+
+REG$Amicus de Grovanio, Kanoniker von Aquileia, gibt dem Kapitel von Aquileia
+zehn Mark Agleier MÅnze, um EinkÅnfte zu kaufen, damit das Fest der hl.
+Katharina jÑhrlich feierlich begangen werde. Von den EinkÅnften sollen
+3 Pfennige in der Messe dargereicht werden.
+F$AquiNecr/X/358/358
+G$X/Kapitel/Aquileia/Aquileia//Friaul-SÅd/
+H$Messe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+Q$III den. offerantur in conventuali missa
+

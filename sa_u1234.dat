@@ -1,0 +1,2928 @@
+note *** Urkunden aus Salzburger Urkundenbuch, BÑnde 1, 2, 3 und 4.
+
+note *** Alle Marknennungen (ohne Ortsangabe) zu Friesach, um zu sehen, ob es
+         gebrÑuchlich war, Fris. monete zu schreiben.
+
+note *** Einlesen der Rohdaten sa_u1234.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$SUB1_0278/1183.0.0/1196.0.0/1183 - 1196/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Gerboto von Lungau Åbergibt vier Mansen an dem Keuschingberg (sî.
+Tamsweg) und 6 Manzipien zum Jahreszins von 5 Laufner oder 3
+Friesacher Pfennigen mit Fristung bis zum vierten Jahr.
+
+REG$Gerboto von Lungau Åbergibt vier Mansen an dem Keuschingberg (sî.
+Tamsweg) und 6 Manzipien zum Jahreszins von 5 Laufner oder 3
+Friesacher Pfennigen mit Fristung bis zum vierten Jahr.
+F$SUB 1/278/716f/717
+G$X/Kanoniker/Salzburg/Salzburg//S/
+E$Gerboto/Genannter/Lungau/Lungau//S/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//
+W$Friesach/X/
+O$X/X/X
+Z$X/X/X
+M$3/den./X/Z
+A$3 Friesacher Pf./5 Laufener Pf.
+Q$ad annuum censum quinque denariorum Loufensium vel trium
+Friesacensium
+
+REG$Gerboto von Lungau Åbergibt vier Mansen an dem Keuschingberg (sî.
+Tamsweg) und 6 Manzipien zum Jahreszins von 5 Laufner oder 3
+Friesacher Pfennigen mit Fristung bis zum vierten Jahr.
+F$SUB 1/278/716f/717
+G$X/Kanoniker/Salzburg/Salzburg//S/
+E$Gerboto/Genannter/Lungau/Lungau//S/
+H$Zensus/Hîrige/unbestimmt/unbestimmt//
+W$Laufen/X/
+O$X/X/X
+Z$X/X/X
+M$5/den./X/Z
+A$5 Laufener Pf./3 Friesacher Pf.
+Q$ad annuum censum quinque denariorum Loufensium vel trium
+Friesacensium
+
+DOK$SUB1_0316/1196.0.0/1214.0.0/1196 - 1214/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Zusammenstellung von EinkÅnften aus den domkapitlischen
+émtern St. Michael, Wei·priach, Althofen, Judendorf und Gîriach (in
+Lungau).
+
+REG$Zusammenstellung von EinkÅnften aus den domkapitlischen
+émtern St. Michael, Wei·priach, Althofen, Judendorf und Gîriach (in
+Lungau).
+F$SUB 1/316/736f/737
+G$X/Amt_Domkapitel/St.Michael_i.Lungau/St. Michael_i.Lungau//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Amt/St.Michael_i.Lungau/St. Michael_i.Lungau//S/
+W$Friesach/X/
+O$6/marca/minus
+Z$X/X/X
+M$5/den./X/Z
+Q$marc\c{e} Friesacenses VI quinque denariis minus
+B$Urbar
+
+REG$Zusammenstellung von EinkÅnften aus den domkapitlischen
+émtern St. Michael, Wei·priach, Althofen, Judendorf und Gîriach (in
+Lungau).
+F$SUB 1/316/736f/737
+G$X/Amt_Domkapitel/Wei·priach i.Lungau/Wei·priach i.Lungau//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Amt/Wei·priach i.Lungau/Wei·priach i.Lungau//S/
+W$Friesach/X/
+O$14/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$marce Friesacenses XIIII
+B$Urbar
+
+REG$Zusammenstellung von EinkÅnften aus den domkapitlischen
+émtern St. Michael, Wei·priach, Althofen, Judendorf und Gîriach (in
+Lungau).
+F$SUB 1/316/736f/737
+G$X/Amt_Domkapitel/Althofen/Althofen//K/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Amt/Althofen/Althofen//K/
+W$X/X/
+O$12/marca/X
+Z$X/X/X
+M$16/den./X/Z
+Q$marc\c{e} XII et denarios XVI
+B$Urbar
+
+REG$Zusammenstellung von EinkÅnften aus den domkapitlischen
+émtern St. Michael, Wei·priach, Althofen, Judendorf und Gîriach (in
+Lungau).
+F$SUB 1/316/736f/737
+G$X/Amt_Domkapitel/Judendorfi.Lungau/Judendorf i.Lungau//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Amt/Judendorfi.Lungau/Judendorf i.Lungau//S/
+W$X/X/
+O$14/marca/X
+O$0,5/tal./X
+Z$X/X/X
+M$17/den./X/Z
+Q$marc\c{e} XIIII et dimidium talentum et denarios XVII
+B$Urbar
+
+REG$Zusammenstellung von EinkÅnften aus den domkapitlischen
+émtern St. Michael, Wei·priach, Althofen, Judendorf und Gîriach (in
+Lungau).
+F$SUB 1/316/736f/737
+G$X/Amt_Domkapitel/Gîriach i.Lungau/Gîriach i.Lungau//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$EinkÅnfte/Amt/Gîriach i.Lungau/Gîriach i.Lungau//S/
+W$X/X/
+O$14/marca/X
+O$0,5/tal./X
+Z$X/X/X
+M$8/den./X/Z
+Q$marc\c{e} XIIII et talentum dimidium et denarios VIII
+B$Urbar
+
+DOK$SUB1_467/1242.0.0/1259.0.0/(1242 - 1259)/X/Salzburg/Salzburg//S/
+S$X/Salzburg?/X
+V$X/X/X
+K$Heinrich von Weidenthal (nî. Lambrechtshausen) Åbergibt im Verein mit seiner
+Gemahlin Perhta gegen Empfang von 7 Pfund Salzburger MÅnze genannte Hîrige.
+
+REG$Heinrich von Weidenthal (nî. Lambrechtshausen) Åbergibt im Verein mit seiner
+Gemahlin Perhta gegen Empfang von 7 Pfund Salzburger MÅnze genannte Hîrige.
+F$SUB 1/467/505f/506
+G$X/Kanoniker?/Salzburg/Salzburg,St.Peter//S/
+E$Heinrich;Perhta/Genannter/Weidenthal/Weidenthal//sw.Michaelbeuern
+H$Quittung_Kauf/Hîrige/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$acceptis ab eis VII libris Salzburgensis monete
+
+DOK$SUB1_473b/1242.0.0/1242.12.31?/(vor 1243)/X/Salzburg/Salzburg//S/
+S$X/Salzburg?/X
+V$X/X/X
+K$Chunrad und Ekkard, die GÑr, heiraten gutrath\' sche Frauen und erhalten als
+Ausstattung zwei Waldhuben im Rotachforste am Erlbachflusse (in Kleinarl),
+welche sie mit Genehmigung Karls von Gutrath fÅr Wittelschwang an St. Peter
+gegen Empfang einer Daraufzahlung von 8 Pfund vertauschen.
+
+REG$Chunrad und Ekkard, die GÑr, heiraten gutrath\' sche Frauen und erhalten als
+Ausstattung zwei Waldhuben im Rotachforste am Erlbachflusse (in Kleinarl),
+welche sie mit Genehmigung Karls von Gutrath fÅr Wittelschwang an St. Peter
+gegen Empfang einer Daraufzahlung von 8 Pfund vertauschen.
+F$SUB 1/473b/509/509
+G$X?/Kanoniker/Salzburg/Salzburg,St.Peter//S/
+E$Chunrad GÑr;Ekkard GÑr/X/X/X//
+H$Quittung_Daraufzahlung/Immobilien/Kleinarl/Rotachforst a.Erlbach i.Kleinarl//Tal d.Salzach b.St.Johann i.Pongau?
+W$Salzburg/moneta/
+O$8/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$additis ipsis insuper a predictis fratribus octo talentis Salzpurgensis
+monete
+
+DOK$SUB1_588/1147.0.0/1193.0.0/(ca. 1147 - 1193)/X/X/X//
+S$X/Salzburg?/X
+V$X/X/X
+K$Die Witwe Liukardis von Jungholzen (bei Niederhîcking sw. Landau) Åbergibt
+sich selbst samt der Nachkommenschaft an St. Peter zu Salzburg zu jÑhrlich je 2
+Regensburger MÅnzen.
+
+REG$Die Witwe Liukardis von Jungholzen (bei Niederhîcking sw. Landau) Åbergibt
+sich selbst samt der Nachkommenschaft an St. Peter zu Salzburg zu jÑhrlich je 2
+Regensburger MÅnzen.
+F$SUB 1/588/546/546
+G$Liukardis/Genannte/Jungholzen b.Niederhîcking/Jungholzen b.Niederhîcking//NB/
+E$X?/Kanoniker/Salzburg/Salzburg,St.Peter//S/
+H$Zensus/Hîrige/Salzburg/Salzburg//S/
+W$Regensburg/X/
+O$X/X/X
+Z$X/X/X
+M$2/nummus/X/Z
+Q$cum censu annuatim II nummos Ratisponenses
+
+DOK$SUB1_324/1214.0.0/1219.0.0/(1214 - 1219)/X/X/X//
+S$X/Salzburg?/X
+V$X/X/X
+K$Hartmann der éltere von Rongrin verzichtet im Verein mit seinem Sohn Hartmann
+in Gegenwart der Kirchengemeinde Vachendorf gegen Empfang von 18 Schilling
+Salzburger MÅnze auf genannte Hîrige.
+
+REG$Hartmann der éltere von Rongrin verzichtet im Verein mit seinem Sohn Hartmann
+in Gegenwart der Kirchengemeinde Vachendorf gegen Empfang von 18 Schilling
+Salzburger MÅnze auf genannte Hîrige.
+F$SUB 1/324/741/741
+G$X/Kirchengemeinde/Vachendorf/Vachendorf//OB,sw.Traunstein/
+E$Hartmann/Genannter/Rumgraben/Rongrin//Rumgraben sw.Vachendorf
+H$Verzicht/Hîrige/Vachendorf/Vachendorf?//OB,sw.Traunstein
+W$Salzburg/moneta/
+O$X/X/X
+Z$18/sol./X
+M$X/X/X/A
+Q$receptis ab eis XVIII solidis Salcepurgensis monete
+
+DOK$SUB1_119a/1190.0.0/1217.0.0/(1190 - 1217)/X/X/X//
+S$X/Michaelbeuern/X
+V$X/X/X
+K$Abt Frideric von Michaelbeuern beurkundet, da· einst Dietric und seine
+Gemahlin Sophia fÅr sich und ihre Kinder das stiftische Bauerngut zu Simonsfeld
+(sw. Ernstbrunn) vom Abt Walther (1161 - 1190) gegen einen jÑhrlichen Zins von
+drei grîsseren Schillingen der gewîhnlichen MÅnze in ôsterreich und andere
+genannte Giebigkeiten nach (Klosterr-) Neuburger Ma·, jedoch ohne das Gut je
+irgendwie verÑussern zu dÅrfen, erhielten.
+
+REG$Abt Frideric von Michaelbeuern beurkundet, da· einst Dietric und seine
+Gemahlin Sophia fÅr sich und ihre Kinder das stiftische Bauerngut zu Simonsfeld
+(sw. Ernstbrunn) vom Abt Walther (1161 - 1190) gegen einen jÑhrlichen Zins von
+drei grîsseren Schillingen der gewîhnlichen MÅnze in ôsterreich und andere
+genannte Giebigkeiten nach (Klosterr-) Neuburger Ma·, jedoch ohne das Gut je
+irgendwie verÑussern zu dÅrfen, erhielten.
+F$SUB 1/119a/830f/831
+G$Dietrich;Sophia/X/X/X//
+E$Walther/Abt/Michaelbeuern/Michaelbeuern//S/
+H$Zinsverpflichtung/Immobilien/Simonsfeld/Simonsfeld//Nô,sw.Ernstbrunn/
+W$Wien?/moneta communis/
+O$X/X/X
+Z$3/sol./maior
+M$X/X/X/Z
+Q$ut annuum censum persolverent \dots tres solidos maiores conmunis
+monete que datur in Austria
+
+DOK$SUB2_288/1151.12.25/1151.12.31/1151 [Dezember 25 - 31]/anno MCLII. indictione
+XIIII. anno pontificatus nostri V. regnante Chunrado anno regni eius XIII. mense
+decembrio/Salzburg/Salzburg//S/
+S$Rupert/Salzburg/Rupert
+V$Rupert/Salzburg/Rupert
+K$Erzbischof Eberhard I. von Salzburg entscheidet mit pÑpstlicher Vollmacht den
+Streit zwischen den ébten Wernher von Gîttweig und Luther von Rot (am Inn) in
+der Weise, da· der Letztere gegen 20 Pfund Regensburger MÅnze das Gut Schwarzau
+(am Steinfelde, VUWW) abtritt, und nimmt das Stift Gîttweig und dessen
+Besitzungen in seinen Schutz.
+
+REG$Erzbischof Eberhard I. von Salzburg entscheidet mit pÑpstlicher Vollmacht den
+Streit zwischen den ébten Wernher von Gîttweig und Luther von Rot (am Inn) in
+der Weise, da· der Letztere gegen 20 Pfund Regensburger MÅnze das Gut Schwarzau
+(am Steinfelde, VUWW) abtritt.
+F$SUB 2/0288/404ff/405
+F$FRA II 51/041/57ff/59
+G$Wernher/Abt/Gîttweig/Gîttweig//Nô/
+E$Luther/Abt/Rott a.Inn/Rott a.Inn/Rota/OB,s.Wasserburg/
+H$Verzicht/Immobilien/Schwarzau a.Steinfelde VUWW/Schwarzau a.Steinfelde VUWW//Nô/
+W$Regensburg/moneta/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$de viginti libris Ratisponensis monet\c{e} Lutherium abbatem de Rote securum
+redidit
+B$In den Dezember 1152 kann die Ausstellung dieser Urkunde nicht verlegt
+werden, da im Datum bemerkt wird: regnante Chunrado anno regni eius XIII. Dieser
+starb aber schon 1152 Februar 15. Auch ist durch die AnfÅhrung des Dompropstes
+Hugo und des Propstes Heinrich von Berchtesgaden ein terminus a quo gegeben.
+Propst Heinrich, der VorgÑnger Hugo\'s, starb 1151 September 7. Die Wahl Hugo\'s
+zum Dompropste von Salzburg und die Heinrich\'s zum Propste von Berchtesgaden
+scheint ziemlich gleichzeitig, mindestens aber nach September 7 erfolgt zu sein.
+FÅr unsere Annahme spricht auch das Pontifikatsjahr des Erzbischofes Eberhard,
+erwÑhlt 1147 c. April 14, wÑhrend sonst das Regierungsjahr Konrads mit XIV und
+die Indiction mit XV angegeben sein mÅ·te (Meiller, Reg. archiep. Salisb. 455
+Anm. 26, 27). MDC I 177, S. 150 datiert 1151 Dezember.
+SUB3 1151 ist 1232 ist 1233.
+
+DOK$SUB2_0457/1188.7.0/1188.7.0/1188 Juli/anno incarnationis domini
+millesimo centesimo LXXXVIIII, mense iulio/Krems a.d.D./Krems a.d.D.//Nô/
+S$X/Passau/AIIIC
+V$X/Passau/DIII
+K$Bischof Diepold von Passau beurkundet und bestÑtigt den Verkauf der
+Besitzungen des Augustinerchorherrenstiftes Waldhausen (bei Grein Oô)
+im Lungau durch den Propst Gottschalk an das Domkapitel von Salzburg
+um 110
+Mark Friesacher MÅnze und die auf DrÑngen Waldhausens noch erfolgte
+Aufzahlung von 15 Mark und eines silbernen Bechers.
+
+REG$Propst Gottschalk von Waldhausen (bei Grein Oô) verkauft die
+Besitzungen des Augustinerchorherrenstiftes im Lungau an das
+Domkapitel von Salzburg um 110 Mark Friesacher MÅnze.
+F$SUB 2/0457/619ff/620
+F$OôUB 2/286/418ff/418
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Gottschalk/Propst/Waldhausen b.Grein/Waldhausen b.Grein//Oô/
+H$Kauf/Immobilien/Lungau/Lungau//S/
+W$Friesach/moneta/
+O$110/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum et decem marcis Friesacensis monet\c{e} vendiderit atque
+tradiderit
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 619f "unmîglich, da
+Bischof Diepold schon seit Mai auf dem Kreuzzug war, wie aus dem Zusammenhalt
+mit Nr. 463 hervorgeht, mu· die vorliegende Urkunde weiter
+zurÅckliegen und ein Schreibfehler statt MCLXXXVIII vorliegen."
+
+REG$Propst Gottschalk von Waldhausen (bei Grein Oô) verkauft die
+Besitzungen des Augustinerchorherrenstiftes im Lungau an das
+Domkapitel von Salzburg um 110 Mark Friesacher MÅnze. Auf DrÑngen des
+Stiftes erfolgt noch eine Aufzahlung von 15 Mark und eines silbernen
+Bechers.
+F$SUB 2/0457/619ff/620
+F$OôUB 2/286/418ff/419
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Gottschalk/Propst/Waldhausen b.Grein/Waldhausen b.Grein//Oô/
+H$Kauf_Aufzahlung/Immobilien/Lungau/Lungau//S/
+W$Friesach/moneta/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$marcas quindecim Friesacensis monet\c{e}
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 619f "unmîglich, da
+Bischof Diepold schon seit Mai auf dem Kreuzzug war, wie aus dem Zusammenhalt
+mit Nr. 463 hervorgeht, mu· die vorliegende Urkunde weiter
+zurÅckliegen und ein Schreibfehler statt MCLXXXVIII vorliegen."
+
+DOK$SUB2_0464/1189.5.0/1189.5.0/1189 ca. Mai/anno incarnationis
+dominic\c{e} MCXC/Mautern/Mautern//Nô/
+S$X/Salzburg/AIIID
+V$X/Salzburg/AIIIB
+K$Bischof Diepold von Passau beurkundet unter ausfÅhrlicher ErzÑhlung
+des Herganges den Verkauf der Kloster Waldhausen 'schen Besitzungen im
+Lungau, Kendlbruck und Einach (ob Murau) an das Domkapitel von
+Salzburg um 110 Mark Friesacher MÅnze, die Erhîhung des Kaufschillings
+um 8 Mark und einen mit 8 Mark bewerteten Silberbecher, welche
+Nachtragszahlung durch den Dompropst Gundakar in die HÑnde des
+mittlerweile an Stelle des resignierten Gottschalks getretenen
+Propstes Sigehard am Mittfastenkapitel des Bischofs zu Krems erfolgte.
+Der Vogt des Klosters Waldhausen, Graf Otto von Velburg, verzichtet
+durch die Hand des Grafen Heinrich von Plain vor Herzog Leopold VI. von
+ôsterr. gegen 24 Pfund auf die Vogteirechte Åber diese GÅter zugunsten des
+Domkapitels, worauf Graf Heinrich von Plain nach Befriedigung des
+Klosters und des Vogtes die GÅter dem Domkapitel Åbergibt.
+
+REG$Propst Gottschalk von Waldhausen (bei Grein Oô) verkauft die
+Besitzungen des Augustinerchorherrenstiftes im Lungau an das
+Domkapitel von Salzburg um 110 Mark Friesacher MÅnze.
+F$SUB 2/0464/628ff/629
+F$OôUB 2/287/420ff/420
+F$StUB 1/703/692ff/692
+G$Gundakar/Dompropst/Salzburg/Salzburg//S/
+E$Gottschalk/Propst/Waldhausen b.Grein/Waldhausen b.Grein//Oô/
+H$Kauf/Immobilien/Lungau/Lungau//S/
+H$Kauf/Immobilien/Kendlbruck/Kendlbruck//OG Ramingstein i.Lungau/
+H$Kauf/Immobilien/Einach ob Murau/Einach ob Murau//Stmk/
+W$Friesach/moneta/
+O$110/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro centum et decem marcis monet\c{e} Friesacensis vendiderit atque
+tradiderit
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 629 unmîglich, "da B.
+Diepold
+mit dem Kaiser den Kreuzzug mitmachte und das Heer bereits am  28. Mai in
+Pre·burg war, mu· auch die ganze Beurkundung vor diesem Zeitpunkt liegen, vgl.
+Gro· in Mitt. des Instituts 8. Erg.-B. 34f., der sich die um ein Jahr zu hohe
+Datierung daraus erklÑrt, da· das Datum nach n¯ 457 einfach um ein Jahr spÑter
+angesetzt wurde."
+
+REG$Propst Gottschalk von Waldhausen (bei Grein Oô) verkauft die
+Besitzungen des Augustinerchorherrenstiftes im Lungau an das
+Domkapitel von Salzburg um 110 Mark Friesacher MÅnze. Auf DrÑngen des
+Stiftes erfolgt noch eine Aufzahlung von 15 Mark und eines silbernen
+Bechers.
+F$SUB 2/0464/628ff/629
+F$OôUB 2/287/420ff/421
+F$StUB 1/703/692ff/693
+G$Gundakar/Dompropst/Salzburg/Salzburg//S/
+E$Gottschalk/Propst/Waldhausen b.Grein/Waldhausen b.Grein//Oô/
+H$Kauf_Aufzahlung/Immobilien/Lungau/Lungau//S/
+H$Kauf_Aufzahlung/Immobilien/Kendlbruck/Kendlbruck//OG Ramingstein i.Lungau/
+H$Kauf_Aufzahlung/Immobilien/Einach ob Murau/Einach ob Murau//Stmk/
+W$Friesach/moneta/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$marcas quindecim monet\c{e} Frisacensis superaddere
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 629 unmîglich, "da B.
+Diepold
+mit dem Kaiser den Kreuzzug mitmachte und das Heer bereits am  28. Mai in
+Pre·burg war, mu· auch die ganze Beurkundung vor diesem Zeitpunkt liegen, vgl.
+Gro· in Mitt. des Instituts 8. Erg.-B. 34f., der sich die um ein Jahr zu hohe
+Datierung daraus erklÑrt, da· das Datum nach n¯ 457 einfach um ein Jahr spÑter
+angesetzt wurde."
+
+REG$Propst Gottschalk von Waldhausen (bei Grein Oô) verkauft die
+Besitzungen des Augustinerchorherrenstiftes im Lungau an das
+Domkapitel von Salzburg um 110 Mark Friesacher MÅnze. Auf DrÑngen des
+Stiftes erfolgt noch eine Aufzahlung von 15 Mark und eine
+Nachtragszahlung von 8 Mark und eines mit 8 Mark bewerteten silbernen
+Bechers.
+F$SUB 2/0464/628ff/630
+F$OôUB 2/287/420ff/421
+F$StUB 1/703/692ff/693
+G$Gundakar/Dompropst/Salzburg/Salzburg//S/
+E$X/Stift/Waldhausen b.Grein/Waldhausen b.Grein//Oô/
+H$Kauf_Aufzahlung/Immobilien/Lungau/Lungau//S/
+H$Kauf_Aufzahlung/Immobilien/Kendlbruck/Kendlbruck//OG Ramingstein i.Lungau/
+H$Kauf_Aufzahlung/Immobilien/Einach ob Murau/Einach ob Murau//Stmk/
+W$X/X/
+O$8/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$marcas octo
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 629 unmîglich, "da B.
+Diepold
+mit dem Kaiser den Kreuzzug mitmachte und das Heer bereits am  28. Mai in
+Pre·burg war, mu· auch die ganze Beurkundung vor diesem Zeitpunkt liegen, vgl.
+Gro· in Mitt. des Instituts 8. Erg.-B. 34f., der sich die um ein Jahr zu hohe
+Datierung daraus erklÑrt, da· das Datum nach n¯ 457 einfach um ein Jahr spÑter
+angesetzt wurde."
+
+REG$Propst Gottschalk von Waldhausen (bei Grein Oô) verkauft die
+Besitzungen des Augustinerchorherrenstiftes im Lungau an das
+Domkapitel von Salzburg um 110 Mark Friesacher MÅnze. Auf DrÑngen des
+Stiftes erfolgt noch eine Aufzahlung von 15 Mark und eine
+Nachtragszahlung von 8 Mark und eines mit 8 Talent bewerteten
+silbernen Bechers.
+F$SUB 2/0464/628ff/630
+F$OôUB 2/287/420ff/421
+F$StUB 1/703/692ff/693
+G$Gundakar/Dompropst/Salzburg/Salzburg//S/
+E$X/Stift/Waldhausen b.Grein/Waldhausen b.Grein//Oô/
+H$Kauf_Aufzahlung/Immobilien/Lungau/Lungau//S/
+H$Kauf_Aufzahlung/Immobilien/Kendlbruck/Kendlbruck//OG Ramingstein i.Lungau/
+H$Kauf_Aufzahlung/Immobilien/Einach ob Murau/Einach ob Murau//Stmk/
+W$X/X/
+O$8/tal./X
+Z$X/X/X
+M$X/X/X/A
+A$8 Talent/1 Silberbecher
+Q$ciphum argenteum octo talenta valentem
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 629 unmîglich, "da B.
+Diepold
+mit dem Kaiser den Kreuzzug mitmachte und das Heer bereits am  28. Mai in
+Pre·burg war, mu· auch die ganze Beurkundung vor diesem Zeitpunkt liegen, vgl.
+Gro· in Mitt. des Instituts 8. Erg.-B. 34f., der sich die um ein Jahr zu hohe
+Datierung daraus erklÑrt, da· das Datum nach n¯ 457 einfach um ein Jahr spÑter
+angesetzt wurde."
+
+REG$Der Vogt des Klosters Waldhausen, Graf Otto von Velburg, verzichtet
+durch die Hand des Grafen Heinrich von Plain vor Herzog Leopold VI. von ôsterr.
+gegen 24 Pfund auf die Vogteirechte Åber die GÅter des Klosters im
+Lungau, Kendlbruck und Einach (ob Murau) zugunsten des Domkapitels
+von Salzburg.
+F$SUB 2/0464/628ff/630
+F$OôUB 2/287/420ff/421
+F$StUB 1/703/692ff/694
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Otto/Graf/Velburg/Velburg//AG Parsberg Oberpfalz/
+H$Ablîse/Vogteirechte/Lungau/Lungau//S/
+H$Ablîse/Vogteirechte/Kendlbruck/Kendlbruck//OG Ramingstein i.Lungau/
+H$Ablîse/Vogteirechte/Einach ob Murau/Einach ob Murau//Stmk/
+W$X/X/
+O$24/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$receptis super hoc a preposito Salzburgensi Gundakaro viginti
+quatuor talentis penitus renunciavit
+B$Die Jahreszahl 1189 ist laut Hauthaler u. Martin S. 629 unmîglich, "da B.
+Diepold
+mit dem Kaiser den Kreuzzug mitmachte und das Heer bereits am  28. Mai in
+Pre·burg war, mu· auch die ganze Beurkundung vor diesem Zeitpunkt liegen, vgl.
+Gro· in Mitt. des Instituts 8. Erg.-B. 34f., der sich die um ein Jahr zu hohe
+Datierung daraus erklÑrt, da· das Datum nach n¯ 457 einfach um ein Jahr spÑter
+angesetzt wurde."
+
+DOK$SUB2_492/1194.1.0/1194.10.0/1194 (JÑnner - Oktober)/nach Christi Menschwerdung
+tausend Jahr ain hundert Jahr vier und neunzigste Jahr, als die kayserl. Zahl
+was zwîlf, des Kayser Heinrichs im vierten Jahr und unsers Bisthumbs im sechs
+und zwanzigisten/X/X//
+S$X/X/X
+V$X/X/X
+K$Erzbischof Adalbert III. von Salzburg beendet den Streit zwischen Pfarrer
+Eberhard von Neunkirchen (sw. Wiener-Neustadt) und Heinrich, dem Stifter der
+Kapelle St. Margareta zu Wischau (s. Pitten), in der Weise, da· er die letztere
+zur selbstÑndigen Pfarre erhebt, wogegen Heinrich die Mutterkirche mit genannten
+EinkÅnften entschÑdigt, und verleiht letzterem das PrÑsentationsrecht.
+
+REG$Erzbischof Adalbert III. von Salzburg beendet den Streit zwischen Pfarrer
+Eberhard von Neunkirchen (sw. Wiener-Neustadt) und Heinrich, dem Stifter der
+Kapelle St. Margareta zu Wischau (s. Pitten), in der Weise, da· er die letztere
+zur selbstÑndigen Pfarre erhebt, wogegen Heinrich die Mutterkirche mit genannten
+EinkÅnften in der Hîhe von 20 Schilling Pfennig Bayrischer oder
+landlÑufiger MÅnze entschÑdigt, und verleiht letzterem das PrÑsentationsrecht.
+F$SUB 2/0492/664ff/665
+G$Heinrich/X/X/X//
+E$X/Pfarre/Neunkirchen/Neunkirchen//Nô/
+H$Ablîse/Kapelle/Wischau ,St.Margareta/Wischau,St.Margareta?//Nô,s.Pitten/
+W$Bayern?/moneta/
+O$X/X/X
+Z$20/sol./X
+M$X/den./X/A
+Q$Gult zwanzig Schilling Pfening Payrischer und Landlauffiger MÅntz zu Raplach,
+Poschach und NeunkÅrchen an alle Gerechtigkeit und Nutzen der Vogtey gegeben
+hat.
+
+DOK$SUB3_773/1222.1.15/1222.1.15/1222 JÑnner 15/XVIII. kal. febr. pontificatus nostri anno
+sexto/Rom/Rom,Lateran//Rom
+S$X/X/X
+V$X/X/X
+K$Papst Honorius III. befiehlt dem Abt von Heiligenkreuz und den Prîpsten von
+St. Florian und Reichersberg, das Vorhaben des Erzbischofs von Salzburg, wonach
+die Verlegung der herzoglichen MÅnze von Graz nach Pettau gegen Teilung der
+Maut- und MÅnzeinkÅnfte gestattet werden sollte, hinsichtlich der Vorteile fÅr
+die Salzburger Kirche zu untersuchen.
+
+REG$Papst Honorius III. befiehlt dem Abt von Heiligenkreuz und den Prîpsten von
+St. Florian und Reichersberg, das Vorhaben des Erzbischofs von Salzburg, wonach
+die Verlegung der herzoglichen MÅnze von Graz nach Pettau gegen Teilung der
+Maut- und MÅnzeinkÅnfte gestattet werden sollte, hinsichtlich der Vorteile fÅr
+die Salzburger Kirche zu untersuchen.
+F$SUB 3/0773/300f/301
+G$X/Herzog/ôsterreich/ôsterreich//ô/
+E$X/Herzog/ôsterreich/ôsterreich ? //ô/
+H$MÅnzstÑtte?/Graz_MÅnze/Graz/Graz//Stmk/
+W$Graz/moneta/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$monetam, quam habet in burgo suo de Graze, tali vult condicione transferre,
+quod omnes preventus Petovie in theloneis vel moneta seu iurisdictionibus
+consistentes sint eidem archiepiscopo et duci communes
+
+REG$Papst Honorius III. befiehlt dem Abt von Heiligenkreuz und den Prîpsten von
+St. Florian und Reichersberg, das Vorhaben des Erzbischofs von Salzburg, wonach
+die Verlegung der herzoglichen MÅnze von Graz nach Pettau gegen Teilung der
+Maut- und MÅnzeinkÅnfte gestattet werden sollte, hinsichtlich der Vorteile fÅr
+die Salzburger Kirche zu untersuchen.
+F$SUB 3/0773/300f/301
+G$X/Herzog/ôsterreich/ôsterreich//ô/
+G$(Eberhard II.)/Erzbischof/Salzburg/Salzburg//S/
+E$X/Herzog/ôsterreich/ôsterreich ?  //ô/
+E$(Eberhard II.)/Erzbischof/Salzburg/Salzburg//S/
+H$MÅnzstÑtte?/Pettau_MÅnze/Pettau/Pettau//
+W$Pettau/moneta/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/A
+Q$monetam, quam habet in burgo suo de Graze, tali vult condicione transferre,
+quod omnes preventus Petovie in theloneis vel moneta seu iurisdictionibus
+consistentes sint eidem archiepiscopo et duci communes
+B$SUB 3 D133 S. 662 vor 1222 JÑnner 15.?
+Erzbischof Eberhard II. von Salzburg bittet Papst Honorius III. um Erlaubnis,
+da· die herzogliche MÅnze unter gewissen Bedingungen von Graz nach Pettau
+verlegt werden dÅrfe.
+
+DOK$SUB3_878/1232.3.25/1232.3.25/1232 MÑrz 25/anno dominice incarnationis MCCXXXII.
+pontificatus domini Gregorii noni pape anno eius VI. indict. V. mense martii die
+XXV./Rieti/Rieti//Italien/
+S$Romanus Johannes/kaiserl. Geheimschreiber/Romanus Johannes ?
+V$Romanus Johannes/kaiserl. Geheimschreiber/Romanus Johannes ?
+K$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, und verspricht unter Bestimmung der
+Verzugszinsen dies Summe bis lÑngstens 1233 April 1 in Bologna bar
+zurÅckzuzahlen.
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben.
+F$SUB 3/0878/419ff/420
+G$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?/
+G$Johannes/X/Rom  Siena?  /Rom  Siena?  //Italien/
+G$Caponiger?/X/X/X//
+G$Montaninus/X/X/X//
+E$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$200/marca/X/
+Z$X/X/grossus;argenteus
+M$X/den./grossus;argenteus;bonus;finus/A
+A$1 Mark Silber venez. grossi/8 sol. Kîlner Gewicht u. 1,5 den venez.
+A$1 lib. venez./7 lib. und 3 sol guter ...
+Q$ducentas marchas boni et fini argenti Venetianorum grossorum ad pondus
+Colonie silicet VIII sollidis et uno denario et dimidio Venetianorum bonorum
+et legalium pro marcha qualibet computatis ita, quod singule libre
+Venetianorum valeant VII libras et tres sollidos bonorum
+B$Meiller (S. 549 Anm. 147) vermutet, da· es sich um die Kosten der
+Seligsprechung B. Virgils (vgl. Meiller 256 Nr. 389) handelte.
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, wobei 8 Schillinge und 1,5
+Venetianische Denarii Grossi einer Mark Silber Kîlner Gewichts entsprechen.
+F$SUB 3/0878/419ff/420
+G$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+G$Johannes/X/Rom  Siena?  /Rom  Siena?  //Italien?
+G$Caponiger?/X/X/X//
+G$Montaninus/X/X/X//
+E$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$X/X/X
+Z$8/sol./X
+M$1,5/den./grossus;bonus;legalis/A
+A$8 Schill. 1,5 Venetianischer Denarii Grossi/1 Mark Silber Kîlner Gewichts
+Q$ducentas marchas boni et fini argenti Venetianorum grossorum ad pondus Colonie
+silicet VIII sollidis et uno denario et dimidio Venetianorum bonorum et legalium
+pro marcha qualibet computatis ita, quod singule libre Venetianorum valeant VII
+libras et tres sollidos bonorum
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, wobei 8 Schillinge und 1,5
+Venetianische Denarii Grossi einer Mark Silber Kîlner Gewichts entsprechen.
+F$SUB 3/0878/419ff/420
+G$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+G$Johannes/X/Rom  Siena? /Rom  Siena?  //Italien?
+G$Caponiger?/X/X/X//
+G$Montaninus/X/X/X//
+E$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Kîln/pondus/
+O$1/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+A$1 Mark Silber Kîlner Gewichts/8 Schill. 1,5 Venetianischer Denarii Grossi
+Q$ducentas marchas boni et fini argenti Venetianorum grossorum ad pondus Colonie
+silicet VIII sollidis et uno denario et dimidio Venetianorum bonorum et legalium
+pro marcha qualibet computatis ita, quod singule libre Venetianorum valeant VII
+libras et tres sollidos bonorum
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, wobei 1 Pfund Venetianischer Denarii
+Grossi 7 Pfund und 3 Schillingen Silber Kîlner Gewichts entsprechen.
+F$SUB 3/0878/419ff/420
+G$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+G$Johannes/X/Rom  Siena? /Rom  Siena? //Italien?
+G$Caponiger?/X/X/X//
+G$Montaninus/X/X/X//
+E$Heinrich Magister/ErwÑhlter/Seckau/Seckau//
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1/lib./X
+Z$X/X/X
+M$X/den./grossus/A
+A$1 Pfund Venetianischer Denarii Grossi/7 Pfund und 3 Schill. Silber Kîlner Gewichts
+Q$ducentas marchas boni et fini argenti Venetianorum grossorum ad pondus Colonie
+silicet VIII sollidis et uno denario et dimidio Venetianorum bonorum et legalium
+pro marcha qualibet computatis ita, quod singule libre Venetianorum valeant VII
+libras et tres sollidos bonorum
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, wobei 1 Pfund Venetianischer Denarii
+Grossi 7 Pfund und 3 Schillingen Silber Kîlner Gewichts entsprechen.
+F$SUB 3/0878/419ff/420
+G$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+G$Johannes/X/Rom  Siena? /Rom  Siena?  //Italien?
+G$Caponiger?/X/X/X//
+G$Montaninus/X/X/X//
+E$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Kîln/pondus/
+O$7/lib./X
+Z$3/sol./X
+M$X/argentum/X/A
+A$7 Pfund und 3 Schill. Silber Kîlner Gewichts/1 Pfund Venetianischer Denarii Grossi
+Q$ducentas marchas boni et fini argenti Venetianorum grossorum ad pondus Colonie
+silicet VIII sollidis et uno denario et dimidio Venetianorum bonorum et legalium
+pro marcha qualibet computatis ita, quod singule libre Venetianorum valeant VII
+libras et tres sollidos bonorum
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben.
+F$SUB 3/0878/419ff/420
+G$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+G$Johannes/X/Rom  Siena? /Rom  Siena?  //Italien?
+G$Caponiger?/X/X/X//
+G$Montaninus/X/X/X//
+E$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+H$BestÑtigung_Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de quibus omnibus pretaxatis ducentis marchis \dots quietum voco et integre
+pacatum protestor
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, und verspricht unter Bestimmung der
+Verzugszinsen diese Summe bis lÑngstens 1233 April 1 in Bologna bar
+zurÅckzuzahlen.
+F$SUB 3/0878/419ff/420
+G$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+E$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+E$Johannes/X/Rom  Siena? /Rom  Siena?  //Italien?
+E$Caponiger?/X/X/X//
+E$Montaninus/X/X/X//
+H$Zahlungsversprechen/Schuldentilgung/Bologna/Bologna//Italien/
+W$X/X
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$Quas pretaxatas ducentas marchas predicti argenti \dots a proximis kalendis
+aprilis aput Bononiam promitto \dots plene ac integre redditur(um).
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, und verspricht unter Bestimmung der
+Verzugszinsen - in der Hîhe von einer Mark pro 10 Mark und je zwei Monate -
+diese Summe bis lÑngstens 1233 April 1 in Bologna bar zurÅckzuzahlen.
+F$SUB 3/0878/419ff/420
+G$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+E$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+E$Johannes/X/Rom  Siena? /Rom  Siena? //Italien?
+E$Caponiger?/X/X/X//
+E$Montaninus/X/X/X//
+H$Schulden_Restsummenteilbetrag?/Geldsumme/Bologna/Bologna? //
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$extunc inantea per singulos duos menses promitto vobis pro dampnorum et
+interesse recompensatione persolvere pro singulis decem marchis predictis unam
+marcham
+
+REG$Magister Heinrich, ErwÑhlter von Seckau, als Gesandter und Prokurator
+Erzbischof Eberhards II. von Salzburg bei der Kurie, bekennt, von genannten
+rîmischen und sienesischen Kaufleuten 200 Mark feinen Silbers zu GeschÑften der
+Erzkirche als Darlehen erhalten zu haben, und verspricht unter Bestimmung der
+Verzugszinsen - in der Hîhe von einer Mark pro 10 Mark und je zwei Monate -
+diese Summe bis lÑngstens 1233 April 1 in Bologna bar zurÅckzuzahlen.
+F$SUB 3/0878/419ff/420
+G$Heinrich Magister/ErwÑhlter/Seckau/Seckau//St
+E$Bobo/Wechsler/Rîm.Kirche/Rîm.Kirche?//Rom?
+E$Johannes/X/Rom  Siena? /Rom  Siena?  //Italien?
+E$Caponiger?/X/X/X//
+E$Montaninus/X/X/X//
+H$Verzugszinsen/Schuldentilgung/Bologna/Bologna?  //
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$extunc inantea per singulos duos menses promitto vobis pro dampnorum et
+interesse recompensatione persolvere pro singulis decem marchis predictis unam
+marcham
+
+DOK$SUB3_1016/1243.8.21/1243.8.21/1243 August 21/anno domini MCCXLIII. indict. prima XII.
+kalend. septembr./Lienz/Patriasdorf b.Lienz,Friedhof//Tirol/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen Dietmar
+von Griffen
+und Mechtilde, der Tochter des verstorbenen Friedrich von Schînneck (nw.
+Bruneck), Bruder des Arnold von Rodeneck (sî. MÅhlbach, Tirol) und belehnt das
+Paar mit jÑhrlichen 20 Pfund Salz aus seiner Saline.
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Arnold von Rodeneck, der Bruder Friedrichs, fÅr das Erbteil
+seiner Nichte Mechtilde 1500 Pfund Veroneser an Dietmar zu bezahlen verspricht.
+F$SUB 3/1016/566ff/566
+F$MDC 4I/2266/305f/305
+F$Reg. Gîrz 1/500/133/133
+G$Arnold/Genannter/Rodeneck/Rodeneck//Tirol,sî.MÅhlbach i.Pustertal
+E$Dietmar/Genannter/Griffen/Griffen//K,nî.Vîlkermarkt/
+H$Ablîse/Erbteil/unbestimmt/unbestimmt//
+W$Verona/X/
+O$1500/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$domino Ditmaro de Griven mille quingentas libras Veronen(ses) persolvere
+teneatur
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Arnold von Rodeneck, der Bruder Friedrichs, fÅr das Erbteil
+seiner Nichte Mechtilde 1500 Pfund Veroneser an Dietmar zu bezahlen verspricht
+und dieser dafÅr verspricht 400 Mark Silber als Hochzeitsgeschenk und 100 Mark
+Silber als Morgengabe an Mechtilde zu Åbergeben.
+F$SUB 3/1016/566ff/566
+F$MDC 4I/2266/305f/305
+F$Reg. Gîrz 1/500/133/133
+G$Dietmar/Genannter/Griffen/Griffen//K,nî.Vîlkermarkt/
+E$Mechtilde/X/X/X//
+H$Hochzeitsgeschenk/Geldsumme/unbestimmt/unbestimmt//
+H$Heiratsabrede?/Heiratsgut/unbestimmt/unbestimmt//?
+W$X/X
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$ei quadringentas marcas argenti racione donacionis nupciarum
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Arnold von Rodeneck, der Bruder Friedrichs, fÅr das Erbteil
+seiner Nichte Mechtilde 1500 Pfund Veroneser an Dietmar zu bezahlen verspricht
+und dieser dafÅr verspricht 400 Mark Silber als Hochzeitsgeschenk und 100 Mark
+Silber als Morgengabe an Mechtilde zu Åbergeben.
+F$SUB 3/1016/566ff/566
+F$MDC 4I/2266/305f/305
+F$Reg. Gîrz 1/500/133/133
+G$Dietmar/Genannter/Griffen/Griffen//K,nî.Vîlkermarkt/
+E$Mechtilde/X/X/X//
+H$Morgengabe/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$centum marcas argenti dotis nomine promisit tradere vice versa
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Mechtilde, sollte Dietmar ohne Erben sterben, von der
+genannten Geldsumme 250 Mark erhalten soll, nÑmlich die 100 Mark, welche
+er ihr als Morgengabe Åbergeben hat, und 150 Mark, welche sie fÅr ihr Erbteil
+erhalten hat.
+F$SUB 3/1016/566ff/567
+F$MDC 4I/2266/305f/305
+G$Dietmar/Genannter/Griffen/Griffen/?  /K,nî.Vîlkermarkt
+E$Mechtilde/X/X/X//
+H$Heiratsabrede_Erbteil?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$250/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de iam dicta summa peccunie ducente quinquaginte marce ipsi domini
+remanebunt
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Mechtilde, sollte Dietmar ohne Erben sterben, von der
+genannten Geldsumme 250 Mark erhalten soll, nÑmlich die 100 Mark, welche
+er ihr als Morgengabe Åbergeben hat, und 150 Mark, welche sie fÅr ihr Erbteil
+erhalten hat.
+F$SUB 3/1016/566ff/567
+F$MDC 4I/2266/305f/305
+G$Dietmar/Genannter/Griffen/Griffen/?  /K,nî.Vîlkermarkt
+E$Mechtilde/X/X/X//
+H$Erbe_Morgengabe?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de iam dicta summa peccunie ducente quinquaginte marce ipsi domini
+remanebunt videlicet centum marce, quas ei pro dote tradidit, et centum
+quinquaginte marce, que sibi pro parte hereditaria accesserunt
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Mechtilde, sollte Dietmar ohne Erben sterben, von der
+genannten Geldsumme 250 Mark erhalten soll, nÑmlich die 100 Mark, welche
+er ihr als Morgengabe Åbergeben hat, und 150 Mark, welche sie fÅr ihr Erbteil
+erhalten hat.
+F$SUB 3/1016/566ff/567
+F$MDC 4I/2266/305f/305
+G$Dietmar?/Genannter/Griffen/Griffen//K,nî.Vîlkermarkt/
+E$Mechtilde/X/X/X//
+H$Erbe_Ablîse d. Erbteils?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$150/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$de iam dicta summa peccunie ducente quinquaginte marce ipsi domini
+remanebunt videlicet centum marce, quas ei pro dote tradidit, et centum
+quinquaginte marce, que sibi pro parte hereditaria accesserunt
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt den Ehevertrag zwischen
+Dietmar von Griffen und Mechtilde, der Tochter des verstorbenen Friedrich von
+Schînneck, wonach Dietmar, sollte Mechtilde ohne Erben sterben, jene 150 Mark,
+welche ihm von seiten seiner Frau gegeben worden sind, in seinem
+Eigentum behalten wird.
+F$SUB 3/1016/566ff/567
+F$MDC 4I/2266/305f/305
+G$Mechtilde/X/X/X?//
+E$Dietmar/Genannter/Griffen/Griffen//K,nî.Vîlkermarkt
+H$Erbe_Ablîse d. Erbteils?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$150/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$centum quinquaginta marce, que ex parte domine date sunt domino Ditmaro, in
+eius videlicet domini Ditmari cessisse dominum confitemur
+
+DOK$SUB2_310b/1155.5.11/1161.1.16/(nach 1155 Mai 10)/X/Salzburg/Salzburg//S/
+S$X/X/X
+V$X/Salzburg/Rupert
+K$Erzbischof Eberhard I. von Salzburg schenkt dem Kloster Raitenhaslach zwei
+Huben zu Hart (LK MÅhldorf), eine von dem Hochstiftsministerialen Siboto von
+Surberg (LK Traunstein) aufgesandte lehenbare Hube zu Rain (welches?), sowie das
+Dotationsgut der Pfarre (Nieder-)Bergkirchen (n. MÅhldorf) unter Festsetzung der
+Leistungen des Pfarrers an das Kloster, und bestÑtigt, da· sich das Kloster
+Raitenhaslach fÅr 80 Laufener Pfennige jÑhrlich von der Reichung des Zehnten von
+seinen Besitzungen an den Pfarrer loskaufte.
+
+REG$Erzbischof Eberhard I. von Salzburg schenkt dem Kloster Raitenhaslach zwei
+Huben zu Hart (LK MÅhldorf), eine von dem Hochstiftsministerialen Siboto von
+Surberg (LK Traunstein) aufgesandte lehenbare Hube zu Rain (welches?), sowie das
+Dotationsgut der Pfarre (Nieder-)Bergkirchen (n. MÅhldorf) unter Festsetzung der
+Leistungen des Pfarrers an das Kloster von unter anderem einem halben Talent.
+F$SUB 2/0310b/433ff/434
+F$QE NF 17 II/014/17f/18
+G$X/Pfarrer/Niederbergkirchen n.MÅhldorf/Niederbergkirchen n.MÅhldorf/Bergkirchen/OB/
+E$X/Abt/Raitenhaslach a.Salzach/Raitenhaslach a.Salzach//OB,b.Burghausen/
+H$Zins/Immobilien/MÅhldorf/MÅhldorf//OB/
+W$X/X/
+O$0,5/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis persolvat \dots dimidium talentum
+B$Die Radierung erfolgte wahrscheinlich nach 1246.
+
+DOK$SUB2_310ba/1161.1.1/1161.1.16/(vor 1161 JÑnner 17)/X/MÅhldorf/MÅhldorf//OB/
+S$X/X/X
+V$X/Salzburg/Rupert
+K$Erzbischof Eberhard I. von Salzburg schenkt dem Kloster Raitenhaslach zwei
+Huben zu Hart (LK MÅhldorf), eine von dem Hochstiftsministerialen Siboto von
+Surberg (LK Traunstein) aufgesandte lehenbare Hube zu Rain (welches?), sowie das
+Dotationsgut der Pfarre (Nieder-)Bergkirchen (n. MÅhldorf) unter Festsetzung der
+Leistungen des Pfarrers an das Kloster, und bestÑtigt, da· sich das Kloster
+Raitenhaslach fÅr 80 Laufener Pfennige jÑhrlich von der Reichung des Zehnten von
+seinen Besitzungen an den Pfarrer loskaufte.
+
+REG$Erzbischof Eberhard I. von Salzburg schenkt dem Kloster Raitenhaslach zwei
+Huben zu Hart (welches?), eine von dem Hochstiftsministerialen Siboto von
+Surberg aufgesandte lehenbare Hube zu Rain (welches?), sowie das Dotationsgut
+der Pfarre (Nieder-)Bergkirchen (n. MÅhldorf) unter Festsetzung der Leistungen
+des Pfarrers an das Stift, und bestÑtigt, da· sich das Stift Raitenhaslach fÅr
+80 Laufener Pfennige jÑhrlich von der Reichung des Zehntes von seinen
+Besitzungen an den Pfarrer loskaufte.
+F$SUB 2/0310b/433ff/434
+F$QE NF 17 II/014/17f/18
+F$Meiller, Salzb. Reg./105/75f/76
+G$X/Kloster/Raitenhaslach a.Salzach/Raitenhaslach a.Salzach//OB,b.Burghausen/
+E$X/Pfarrer/Niederbergkirchen n.MÅhldorf/Niederbergkirchen n.MÅhldorf/Bergkirchen/OB/
+H$Ablîse/Zehnt/MÅhldorf/MÅhldorf//OB/
+W$Laufen/X/
+O$X/X/X
+Z$X/X/X
+M$80/den./X/Z
+Q$singulis annis LXXX denarios Lv\c{o}fenses persolvant nec ab aliquo plebano
+per decimarum exactionem inquietentur
+B$Die Radierung erfolgte wahrscheinlich nach 1246.
+
+DOK$SUB2_465/1189.8.25/1189.8.25/1189 August 25/X/Friesach/Friesach//K/
+S$X/X/X
+V$X/X/X            eingeordnet bei krub1 152
+K$Graf Albert von Bogen verpfÑndet dem erzbischof Adalbert III. von Salzburg das
+Schlo· Gurkfeld (a.d. Save, Krain) samt Zugehîr um 700 Mark auf 2 Jahre, nach
+deren Ablauf von beiden seiten gewÑhlte SpruchmÑnner den verkaufspreis bestimmen
+sollen.
+Diese VerpfÑndung wird bekrÑftigt, indem die Frau des Grafen versichert, da· das
+schlo· weder ihr noch ihrem sohn jemals verliehen worden sei, und die
+Ministerialen versprechen, nach dem tode des Erzbischofs den Grafen oder seine
+Erben zur Einhaltung des vertrages verhalten zu wollen.
+
+DOK$SUB2_304/1153.5.0/1153.7.8/1153 (Mai - Juli 8)/anno
+dominice incarnationis
+MCLIII. domino papa Eugenio regnante rege Friderico anno episcopatus nostri VII.
+/Reichenhall/Reichenhall//OB/
+S$X/X/X
+V$X/Salzburg/Rupert
+K$Erzbischof Eberhard I. von Salzburg spricht nach eidlicher Einvernahme der
+BÅrger von (Reichen-)Hall die Salinenanteile dortselbst, die das Stift Admont
+(1152) von Perchtold d. j?. III. Grafen von Andechs gegen GÅter im Inntal und 14
+Pfund
+Regensburger Pfennige ertauscht und die dann Graf Sigfried von Peilstein fÅr
+sich beansprucht hat, unter ausfÅhrlicher Darlegung der Vorgeschichte dem Stift
+Admont zu.
+
+REG$Das Stift Admont hat (1152) von Perchtold d. j?. III. Grafen von Andechs die
+Salinenanteile von Reichenhall gegen GÅter im Inntal und 14 Pfund Regensburger
+Pfennige ertauscht.
+F$SUB 2/0304/423ff/424
+F$StUB 1/351/338ff/339
+F$Wichner,Adm. 1/024/259ff/260
+G$X/Stift/Admont/Admont//Stmk/
+E$Berthold d. j?.III./Graf/Andechs/Andechs/Andechs/OB/
+H$Tausch;Kauf?/Immobilien_Salinenanteile/Reichenhall/Reichenhall//OB/
+W$Regensburg/moneta/
+O$14/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ad manum XIIII libras Ratisponensis monete
+B$Die Einreihung ergibt sich aus dem Pontifikatsjahre und dem Tode Eugens III.
+(Hauthaler und Martin S. 424). Zahn datiert die Urkunde in der ersten
+HÑlfte des Jahres 1153 (S. 338).
+
+REG$Das Stift Admont hat (1152) von Perchtold d. j?. III. Grafen von Andechs die
+Salinenanteile von Reichenhall gegen GÅter im Inntal und 14 Pfund Regensburger
+Pfennige ertauscht. Doch der faktische Vollzug dieser Vereinbarung verzog sich
+noch durch lÑngere Zeit, bis endlich das Stift noch weitere 15 Mark zulegte,
+worauf endlich der Graf die fragliche Salzpfanne samt Zugehîr durch Konrad von
+Brunne ausliefern lie·.
+F$SUB 2/0304/423ff/425
+F$StUB 1/351/338ff/339
+F$Wichner,Adm. 1/24/259ff/260
+G$X/Stift/Admont/Admont//Stmk/
+E$Berthold d. j?.III./Graf/Andechs/Andechs//OB/
+H$Kauf?/Immobilien_Salinenanteile/Reichenhall/Reichenhall//OB/
+W$X/X/
+O$15/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$tandem XV marcis victus et mitigatus est
+B$Die Einreihung ergibt sich aus dem Pontifikatsjahre und dem Tode Eugens III.
+(Hauthaler und Martin S. 424). Zahn datiert die Urkunde in der ersten
+HÑlfte des Jahres 1153 (S. 338).
+
+DOK$SUB2_510/1197.0.0/1197.0.0/1197/anno ab incarnatione domini MCXCVII./X/X//
+S$X/X/X
+V$X/X/X
+K$Pilgrim von Puchheim (b. Vîcklabruck, Oô) Åbergibt durch Bernhard von
+Hagenau (b. Braunau) dem Stift Berchtesgaden ein Gut in Oberndorf (bei Laufen).
+
+REG$Pilgrim von Puchheim (b. Vîcklabruck, Oô) Åbergibt durch Bernhard von Hagenau
+(b. Braunau) dem Stift Berchtesgaden ein Gut in Oberndorf (bei Laufen) fÅr die
+Aufnahme seiner Tochter Adelheid und, nachdem er 28 Talent Regensburger
+(Pfennige) empfangen hat.
+F$SUB 2/0510/689/689
+F$QE 1/198/354/354
+G$X/Stift/Berchtesgaden/Berchtesgaden//OB/
+E$Pilgrim/Genannter/Puchheim b.Vîcklabruck/Puchheim b.Vîcklabruck//Oô/
+H$Gegengeschenk/Immobilien/Oberndorf b.Laufen/Oberndorf b.Laufen//S,a.d.Salzach/
+W$Regensburg/X/
+O$28/tal./X
+Z$X/X/X
+M$X/X/X/A
+Q$acceptis a nobis insuper viginti VIII talentis Ratisponensium
+
+DOK$SUB3_783/1223.10.21/1223.10.21/1223 Oktober 21/anno domini MCCXXIII. duodecimo kalend.
+novembris indictione XII./Dornberg Schlo· b.MÅhldorf/Dornberg,Schlo·
+b.MÅhldorf//OB, bei Erharting verschollenes Schlo·/
+S$X/Salzburg/EIIW
+V$X/Salzburg/EIIM
+K$Erzbischof Eberhard II. von Salzburg beurkundet, da· der Vertrag, wonach ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt und die GrÑfin Sophie nach des Grafen Tod das Schlo· fÅr 300?
+Pfund als Pfand behalten soll, nunmehr dahin abgeÑndert worden sei, da· 30 Pfund
+und 400 Pfund festgesetzt werden, der Graf dagegen das Schlo· fortan nur mehr
+als Burggraf innehaben soll und die Ministerialen mit dem Recht der
+Hochstiftsministerialen begnadet werden.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt.
+F$SUB 3/0783/310ff/311
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Eberhard/Graf/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+H$öbergabe?/EinkÅnfte/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$redditus XX librarum Salzburgensis monete comiti ut, illis uteretur quoad
+viveret, contulimus antedicto
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt und die GrÑfin Sophie nach des Grafen Tod alle Besitzungen
+mit Ausnahme des Schlosses fÅr 300 Pfund als Pfand behalten soll.
+F$SUB 3/0783/310ff/311
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Sophie/GrÑfin/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+H$Pfand_Auslîse/Immobilien_Schlo·/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+W$Regensburg/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$omnes possessiones excepto castro Dornberch obligatas tamdiu retineat quosque
+CCC libras Ratisponensium \dots solveremus
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· der Vertrag, wonach ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt und die GrÑfin Sophie nach des Grafen Tod das Schlo· fÅr 300?
+Pfund als Pfand behalten soll, nunmehr dahin abgeÑndert worden sei, da· 30 Pfund
+und 400 Pfund festgesetzt werden.
+F$SUB 3/0783/310ff/311
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Eberhard/Graf/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+H$öbergabe?/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XX libris, quas comiti prius assignavimus alias X in redditibus ei quamdiu
+viveret adderemus
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· der Vertrag, wonach ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt und die GrÑfin Sophie nach des Grafen Tod das Schlo· fÅr 300?
+Pfund als Pfand behalten soll, nunmehr dahin abgeÑndert worden sei, da· 30 Pfund
+und 400 Pfund festgesetzt werden.
+F$SUB 3/0783/310ff/311
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Eberhard/Graf/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+H$öbergabe?/EinkÅnfte/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$XX libris, quas comiti prius assignavimus alias X in redditibus ei quamdiu
+viveret adderemus
+B$"libra" aus dem Zusammenhang erschlossen.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· der Vertrag, wonach ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt und die GrÑfin Sophie nach des Grafen Tod das Schlo· fÅr 300?
+Pfund als Pfand behalten soll, nunmehr dahin abgeÑndert worden sei, da· 30 Pfund
+und 400 Pfund festgesetzt werden.
+F$SUB 3/0783/310ff/311
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Sophie/GrÑfin/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+H$Zahlungsverpflichtung?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$comitisse vere post mortem ipsius comitis ad CCC libras denariorum iungere
+deberemus alias C
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· der Vertrag, wonach ihm
+Graf Eberhard von Dornberg (b. MÅhldorf) das Schlo· Dornberg samt Zugehîr,
+ausgenommen das Dorf Ro·bach (b. Niedertaufkirchen), Åbergeben und die HÑlfte
+davon wieder zu Lehen genommen habe, wofÅr der Graf auf Lebenszeit 20 Pfund
+EinkÅnfte erhÑlt und die GrÑfin Sophie nach des Grafen Tod das Schlo· fÅr 300?
+Pfund als Pfand behalten soll, nunmehr dahin abgeÑndert worden sei, da· 30 Pfund
+und 400 Pfund festgesetzt werden.
+F$SUB 3/0783/310ff/311
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Sophie/GrÑfin/Dornberg b.MÅhldorf/Dornberg b.MÅhldorf//OB/
+H$Zahlungsverpflichtung?/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$comitisse vere post mortem ipsius comitis ad CCC libras denariorum iungere
+deberemus alias C
+B$"libra den." aus dem Zusammenhang erschlossen.
+
+DOK$SUB3_863/1231.8.25/1231.8.25/1231 August 25/anno dominice incarnationis MCCXXXI. indict.
+IIII. VIII. kal. septembr./Salzburg/Salzburg//S/
+S$X/Salzburg/Heinrich
+V$X/Salzburg/Heinrich
+K$Erzbischof Eberhard II. von Salzburg beurkundet die von Herzog Ludwig (I.) von
+Bayern vorgenommene GrÅndung eines Kollegiatstiftes bei der Kirche St. Philipp
+und Jakob zu (Alt-)ôtting mit gewissen Statuten, Freiheiten und EinkÅnften,
+schenkt demselben mit Zustimmung des Domkapitels die Pfarren Burgkirchen (am
+Walde OB) und Mietling (heute Alzgern, OB), rÑumt dem Propst den ersten Rang
+unter den Åbrigen Kollegiatprîpsten ein und beurkundet schlie·lich, da· der
+Herzog 200 Pfund Regensburger Pfennige zum Bau der Kirche und der
+KanonikalhÑuser gewidmet und dort sein BegrÑbnis erwÑhlt habe.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet die von Herzog Ludwig (I.) von
+Bayern vorgenommene GrÅndung eines Kollegiatstiftes bei der Kirche St. Philipp
+und Jakob zu (Alt-)ôtting mit gewissen Statuten, Freiheiten und EinkÅnften. Das
+PfrÅndeneinkommen sollte mindestens 15 Pfund Salzburger Pfennige fÅr den
+Kanoniker betragen.
+F$SUB 3/0863/405ff/407
+F$Kînig, Altîtting/UM XIII Anh. VI, 13/83f/83
+G$X/X/X/X//
+E$X/Kanoniker/Altîtting/Altîtting//OB/
+H$PfrÅndeneinkommen/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/X/
+O$15/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut proventus prebende cuiuslibet valeant ad minus quindecim libras
+Salzburgensis
+B$Kînig schreibt "Salzburgenses"
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet die von Herzog Ludwig (I.) von
+Bayern vorgenommene GrÅndung eines Kollegiatstiftes bei der Kirche St. Philipp
+und Jakob zu (Alt-)ôtting mit gewissen Statuten, Freiheiten und EinkÅnften. Das
+PfrÅndeneinkommen sollte mindestens 20 Pfund Salzburger Pfennige fÅr den
+Dekan und Scholastiker betragen.
+F$SUB 3/0863/405ff/407
+F$Kînig, Altîtting/UM XIII Anh. VI, 13/83f/83
+G$X/X/X/X//
+E$X/Dekan;Scholastiker/Altîtting/Altîtting//OB/
+H$PfrÅndeneinkommen/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut proventus prebende cuiuslibet valeant ad minus quindecim libras
+Salzburgensis, preter quas decanus et scholasticus quinas libras percipiant
+B$"Salzburg" aus dem Zusammenhang erschlossen.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet die von Herzog Ludwig (I.) von
+Bayern vorgenommene GrÅndung eines Kollegiatstiftes bei der Kirche St. Philipp
+und Jakob zu (Alt-)ôtting mit gewissen Statuten, Freiheiten und EinkÅnften. Zum
+Unterhalt des neuen Stifts Åbertrug und schenkte der Herzog jÑhrlich 100 Mark
+Silber bis zur Anweisung von EinkÅnften in dieser Hîhe aus sicheren GrÅnden.
+F$SUB 3/0863/405ff/407
+F$Kînig, Altîtting/UM XIII Anh. VI, 13/83f/84
+G$Ludwig I./Herzog/Bayern/Bayern//Bayern/
+E$X/Stift/Altîtting/Altîtting//OB/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$Donavit etiam et ad tradendum se publice et sollempniter obligavit eidem
+ecclesie centum marcas argenti annuas tam diu solvendas, donec ei redditus
+centum marcarum in possessionibus quietis et pacificis assignaret.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet die von Herzog Ludwig (I.) von
+Bayern vorgenommene GrÅndung eines Kollegiatstiftes bei der Kirche St. Philipp
+und Jakob zu (Alt-)ôtting mit gewissen Statuten, Freiheiten und EinkÅnften. Zum
+Unterhalt des neuen Stifts Åbertrug und schenkte der Herzog jÑhrlich 100 Mark
+Silber bis zur Anweisung von EinkÅnften in dieser Hîhe aus sicheren GrÅnden.
+F$SUB 3/0863/405ff/407
+F$Kînig, Altîtting/UM XIII Anh. VI, 13/83f/84
+G$Ludwig I./Herzog/Bayern/Bayern//Bayern/
+E$X/Stift/Altîtting/Altîtting//OB/
+H$EinkÅnfte/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Donavit etiam et ad tradendum se publice et sollempniter obligavit eidem
+ecclesie centum marcas argenti annuas tam diu solvendas, donec ei redditus
+centum marcarum in possessionibus quietis et pacificis assignaret.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet, da· Herzog Ludwig (I.) von
+Bayern ein Kollegiatstiftes bei der Kirche St. Philipp und Jakob zu (Alt-)ôtting
+gegrÅndet und 200 Pfund Regensburger Pfennige zum Bau der Kirche und der
+KanonikalhÑuser gewidmet und dort sein BegrÑbnis erwÑhlt habe.
+F$SUB 3/0863/405ff/408
+F$Kînig, Altîtting/UM XIII Anh. VI, 13/83f/84
+G$Ludwig I./Herzog/Bayern/Bayern//Bayern/
+E$X/Stift/Altîtting/Altîtting//OB/
+H$Stiftung/Geldsumme/unbestimmt/unbestimmt//
+W$Regensburg/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$fundator ad edificationem tam ecclesie quam domorum et officinarum
+canonicalium optulit CC libras Ratisponenses
+
+DOK$SUB2_521/1198.11.0/1198.12.0/1198 (November - Dezember)/anno incarnati verbi
+MCXCVIII. indictione prima pontificatus vero nostri anno XXXI./Salzburg/Salzburg//S/
+S$X/Salzburg/AIIIG
+V$X/Salzburg/AIIIB
+K$Erzbischof Adalbert III. von Salzburg schenkt von dem dritten Teil der
+SalzeinkÅnfte in Tuval den auf dem Grund der Salzburger Kirche gestifteten
+Klîstern Nonnberg 20, St. Georgen (am LÑngsee) 20, dem (Dom-)Spital in Salzburg
+10, Herrnchiemsee 10, Reichersberg 10, St. Zeno in (Reichen-)Hall 6, Suben 3,
+Seckau 7, Vorau 5, Gars 5, Attl 5, Viktring 7, Raitenhaslach 7 und dem Spital am
+Tauern zu Stum (Zillertal) 5 Pfund und ÅbertrÑgt dem Dompropst Berthold und
+seinen Nachfolgern die Obsorge fÅr die jÑhrliche Verteilung dieser Anteile vor
+dem St. Johann des TÑufers-Tage.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Nonnberg 20 Pfund
+Salzburger MÅnze.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Salzburg/Salzburg,Nonnberg//S/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$monialibus sanct\c{e} erindrudis in Nunneburch XX libras Salzpurgensis
+monet\c{e}
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt St. Georgen (am LÑngsee)
+20 Pfund.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/St.Georgen a.LÑngsee/St. Georgen a.LÑngsee//K/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$monialibus sancti Georii in Karinthia XX libras
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Das Domspital in Salzburg erhÑlt 10 Pfund.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Domspital/Salzburg/Salzburg//S/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$hospitali Salzpurch X li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Herrnchiemsee 10 Pfund.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Herrnchiemsee/Herrnchiemsee//OB
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$clericis regularibus in Chimse X li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Reichersber 10 Pfund.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Reichersberg a.Inn/Reichersberg a.Inn//Oô/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ad Richersperge X libras
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt St. Zeno in Reichenhall
+6 Pfund.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Reichenhall/Reichenhall,St.Zeno//OB/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$6/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Hallensibus ad sanctum Zenonem VI li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Suben 3 Pfund.
+F$SUB 2/0521/707ff/708
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Suben/Suben//Oô,b.SchÑrding/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ad Suben tres li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Seckau 7 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Seckau/Seckau//St
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Secawensibus VII li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Vorau 5 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Vorau/Vorau//Stmk/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Uorawensibus V li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Gars 5 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+F$QE NF 31/014/104f/104
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Gars a.Inn/Gars a.Inn//OB/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Garzensibus V
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben. "libra"
+aus dem Zusammenhang erschlossen.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Attl 5 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Attl a.Inn/Attl a.Inn//OB,s.Wasserburg/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$monachis in Atel V libras
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Viktring 7 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Viktring/Viktring//K,sw.Klagenfurt/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ad Uitringe VII li(bras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Von den so begabten Klîstern erhÑlt Raitenhaslach 7 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Kloster/Raitenhaslach a.Salzach/Raitenhaslach a.Salzach//OB,b.Burghausen/
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$7/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Raitenhaselhensibus VII li(ras)
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+REG$Erzbischof Adalbert III. von Salzburg verteilt seinen Anteil am Salzgewinn
+aus der Saline am Tuval unter mehrere auf Salzburger Grund stehende Klîster und
+Stiftungen und zwar nicht Salz in natura, sondern Geldsummen, die der Dompropst
+Berthold und seine Nachfolger jÑhrlich am Tag vor Johannis (24. Juni)
+auszahlen sollte. Das Spital am Tauern zu Stum (Zillertal) erhÑlt 5 Pfund.
+F$SUB 2/0521/707ff/709
+F$MB 02/010/392f/393
+G$Berthold/Dompropst/Salzburg/Salzburg//S/
+E$X/Spital/Stumm i.Zillertal,a.Tauern zu/Stumm i.Zillertal,a.Tauern zu//T
+H$Schenkung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$hospitali in Duro monte Stom V libras
+B$In A1 von AIIIF hinzugefÅgte Zeugenreihe und Datierung geschrieben.
+
+DOK$SUB3_604/1207.8.25/1207.8.25/1207 August 25/anno domini MCCVII. indict. X. data VIII.
+kal. septembr./X/X//
+S$X/X/X
+V$X/X/X
+K$Das Domkapitel bekennt, da· Erzbischof Eberhard II. von Salzburg seinen Streit
+mit dem Stift St. Peter um das Pfarrecht in den Kirchen Sankt Michael und St.
+Laurenz und die Zehente? in der Stadtpfarre in der Weise zum Austrag gebracht
+habe, da· St. Peter dem Domkapitel jÑhrlich 2 Pfund zahlen, dieses dagegen an 3
+hîheren Festen in den genannten Kirchen Gottesdienst halten dÅrfe, da· aber St.
+Peter sich durch diesen Ausgleich stark benachteiligt und in seinen
+althergebrachten Rechten geschÑdigt fÅhlte, weshalb nun das Domkapitel aus
+Verehrung fÅr die Mutterkirche und einstige leibliche Wohnung des hl. Rudbert
+von seinen AnsprÅchen absteht und erlaubt, da· St. Peter Gottesdienste wie
+bisher hÑlt, ebenso die Zehnte wie bisher einhebt, die Leute seiner Kirche im
+eigenen Friedhof beerdigt und zu Ostern und Pfingsten 2 - 3 Kinder tauft, wogegen
+es sich ins Beichthîren und andere Pfarrechte nicht einmischt und jenes Pfund,
+das ihnen beim Jahrtag Erzbischof Konrads I. zuzukommen pflegte, erlÑ·t.
+
+REG$Das Domkapitel bekennt, da· Erzbischof Eberhard II. von Salzburg seinen Streit
+mit dem Stift St. Peter um das Pfarrecht in den Kirchen Sankt Michael und St.
+Laurenz und die Zehente? in der Stadtpfarre in der Weise zum Austrag gebracht
+habe, da· St. Peter dem Domkapitel jÑhrlich 2 Pfund zahlen, dieses dagegen an 3
+hîheren Festen in den genannten Kirchen Gottesdienst halten dÅrfe.
+F$SUB 3/0604/92ff/93
+G$X/Stift/Salzburg/Salzburg,St.Peter//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Zahlungsverpflichtung?Ablîse/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$ut fratres sancti Petri duas libras Salczeburgensis monete singulis annis
+nobis persolverent
+B$FÑlschung
+
+REG$Das Domkapitel bekennt, da· Erzbischof Eberhard II. von Salzburg seinen Streit
+mit dem Stift St. Peter um das Pfarrecht in den Kirchen Sankt Michael und St.
+Laurenz und die Zehente? in der Stadtpfarre zum Austrag gebracht habe. Da
+St. Peter sich durch diesen Ausgleich stark benachteiligt und in seinen
+althergebrachten Rechten geschÑdigt fÅhlte, steht das Domkapitel
+von seinen AnsprÅchen ab und erlaubt, da· St. Peter Gottesdienste wie
+bisher hÑlt, ebenso die Zehnte wie bisher einhebt, die Leute seiner Kirche im
+eigenen Friedhof beerdigt und zu Ostern und Pfingsten 2 - 3 Kinder tauft, wogegen
+es sich ins Beichthîren und andere Pfarrechte nicht einmischt und jenes Pfund,
+das ihnen beim Jahrtag Erzbischof Konrads I. zuzukommen pflegte, erlÑ·t.
+F$SUB 3/0604/92ff/94
+G$X/Stift/Salzburg/Salzburg,St.Peter//S/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Verzicht/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Memorati vero fratres liberalitatis nostre non ingrati talentum unum \dots
+remiserunt
+B$FÑlschung
+
+DOK$SUB3_646/1211.7.6/1211.7.6/1211 Juli 6/anno domini MCCXI. II. nonas iulii, pontificatus
+nostri anno decimo/Salzburg/Salzburg//S/
+S$X/X/X
+V$X/Salzburg/EIIE
+K$Erzbischof Eberhard II. von Salzburg erkauft mit Zustimung des Domkapitels und
+der Ministerialen von dem Freien Gotschalk das Schlo· Haunsberg (ob. St.
+Pankraz, w. Nu·dorf) mit allem Zugehîr und den wehrhaften Eigenleuten beim
+Rinderholz auf den Fall seines Todes, beurkundet, da· Gotschalk der Salzburger
+Kirche auch den Besitz des oberen Schlosses zuerkannte und dort nur ein von
+Gotschalk gewÑhlter Burggraf aufgestellt werde. Als Kaufschilling wurde 100
+Pfund Salzburger MÅnze vereinbart.
+
+REG$Erzbischof Eberhard II. von Salzburg kauft mit Zustimmung des Domkapitels und
+der Ministerialen von dem Freien Gotschalk das Schlo· Haunsberg (ob. St.
+Pankraz, w. Nu·dorf) mit allem Zugehîr und den wehrhaften Eigenleuten beim
+Rinderholz auf den Fall seines Todes um 100 Pfund Salzburger MÅnze.
+F$SUB 3/0646/149f/150
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Gotschalk/Freier/X/X//
+H$Kauf/Immobilien/Haunsberg ob.St.Pankraz,w.Nu·dorf/Haunsberg ob.St.Pankraz,w.Nu·dorf//n.Salzburg/
+W$Salzburg/moneta/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Precium vero eius vendicionis centum libras monete Salzburgensis fuit
+inventum, quod confessus est sibi esse integraliter numeratum.
+
+DOK$SUB3_648/1211.8.30/1211.8.30/1211 August 30/anno dominic\c{e} incarnationis MCCXI.
+III. kal. septembris/X/X//
+S$X/X/X
+V$X/Salzburg/EIIE
+K$Das Stift Berchtesgaden und das Domkapitel von Salzburg vergleichen sich
+hinsichtlich des
+Archidiakonatsrechtes und des Forstes dahin, da· der Pfarrer von Berchtesgaden
+dem Dompropst als Archidiakon unterstehen und das Domkapitel aus dem
+Berchtesgadener Forst nur zum Salzbetrieb Holz beziehen soll und zwar nur von
+Schelllenberg abwÑrts zu beiden Seiten der Alm, wofÅr das Domkapitel jÑhrlich
+2 GoldstÅcke zu je 80 Salzburger Pfennige und der Erzbischof 1 Pfund als
+Anerkennung des Eigentums an Berchtesgaden zahlen und letzteres ferner die zum
+Domstift gehîrige Hofstatt in Salzburg gegen einen jÑhrlichen Anerkennungszins
+zum Lehen haben soll.
+
+REG$Das Stift Berchtesgaden und das Domkapitel von Salzburg vergleichen sich
+hinsichtlich des Forstes dahin, da· das Domkapitel aus dem
+Berchtesgadener Forst nur zum Salzbetrieb Holz beziehen soll und zwar nur von
+Schelllenberg abwÑrts zu beiden Seiten der Alm, wofÅr das Domkapitel jÑhrlich
+2 GoldstÅcke zu je 80 Salzburger Pfennige und der Erzbischof 1 Pfund als
+Anerkennung des Eigentums an Berchtesgaden zahlen soll.
+F$SUB 3/0648/151ff/152
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$X/Stift/Berchtesgaden/Berchtesgaden//OB/
+H$Anerkennungszins/Immobilien_Forst/Berchtesgaden/Berchtesgaden//OB/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$1/aureus/X/Z
+A$1 aureus/80 Pf. Salzburger MÅnze
+Q$singulis annis duo aurei estimationem habentes LXXX denariorum Salzeburgensis
+monet\c{e}
+
+REG$Das Stift Berchtesgaden und das Domkapitel von Salzburg vergleichen sich
+hinsichtlich des Forstes dahin, da· das Domkapitel aus dem
+Berchtesgadener Forst nur zum Salzbetrieb Holz beziehen soll und zwar nur von
+Schelllenberg abwÑrts zu beiden Seiten der Alm, wofÅr das Domkapitel jÑhrlich
+2 GoldstÅcke zu je 80 Salzburger Pfennige und der Erzbischof 1 Pfund als
+Anerkennung des Eigentums an Berchtesgaden zahlen soll.
+F$SUB 3/0648/151ff/152
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$X/Stift/Berchtesgaden/Berchtesgaden//OB/
+H$Wertangabe_Anerkennungszins/Immobilien_Forst/Berchtesgaden/Berchtesgaden//OB/
+W$Salzburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$80/den./X/Z
+A$80 Pf. Salzburger MÅnze/1 aureus
+Q$singulis annis duo aurei estimationem habentes LXXX denariorum Salzeburgensis
+monet\c{e}
+
+REG$Das Stift Berchtesgaden und das Domkapitel von Salzburg vergleichen sich
+hinsichtlich des Forstes dahin, da· das Domkapitel aus dem
+Berchtesgadener Forst nur zum Salzbetrieb Holz beziehen soll und zwar nur von
+Schelllenberg abwÑrts zu beiden Seiten der Alm, wofÅr das Domkapitel jÑhrlich
+2 GoldstÅcke zu je 80 Salzburger Pfennige und der Erzbischof 1 Pfund als
+Anerkennung des Eigentums an Berchtesgaden zahlen soll.
+F$SUB 3/0648/151ff/153
+G$X/Erzbischof/Salzburg/Salzburg//S/
+E$X/Stift/Berchtesgaden/Berchtesgaden//OB/
+H$Anerkennungszins/Immobilien_Forst/Berchtesgaden/Berchtesgaden//OB/
+W$Salzburg/moneta/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis \dots talentum eiusdem monete \dots persolvatur
+B$"Salzburg" aus dem Zusammenhang erschlossen.
+
+REG$Das Stift Berchtesgaden und das Domkapitel von Salzburg vergleichen sich
+hinsichtlich des Forstes dahin, da· das Domkapitel aus dem
+Berchtesgadener Forst nur zum Salzbetrieb Holz beziehen soll,
+wofÅr das Domkapitel und der Erzbischof jÑhrlich einen Anerkennungszins
+an Berchtesgaden zahlen und letzteres ferner die zum
+Domstift gehîrige Hofstatt in Salzburg gegen einen jÑhrlichen Anerkennungszins
+in der Hîhe von 12 Pfennigen zum Lehen haben soll.
+F$SUB 3/0648/151ff/153
+G$X/Stift/Berchtesgaden/Berchtesgaden//OB/
+E$X/Erzbischof/Salzburg/Salzburg//S/
+H$Anerkennungszins/Immobilien/Salzburg/Salzburg//S/
+W$X/X/
+O$X/X/X
+Z$X/X/X
+M$12/den./X/Z
+Q$singulis annis \dots XII denarios persolvat
+
+DOK$SUB3_737/1219.2.15/1219.2.15/1219 Februar 15/XV. k(al.) martii, indict. VII. anno ab
+incarnatione domini MCCXVIIII. pontificatus vero nostri anno XVIIII./Salzburg/Salzburg//S/
+S$X/Salzburg/EIIM
+V$X/Salzburg/EIIM
+K$Erzbischof Eberhard II. von Salzburg schenkt dem Domkapitel die Kirche zu
+(Hof-)Gastein mit den GÅtern zu Garching (w. MÅhldorf), dem Vogteirecht und dem
+freien öbergang Åber den Inn unter der Bedingung, da· aus den EinkÅnften
+schafwollene MÑntel fÅr die Domherren angekauft werden und dem Priester, der am
+Altar beim Grab des Erzbischofs die Messe fÅr die armen Seelen liest, eine
+Pitanz gereicht werde. Solange Pfarrer Leutold von Gastein lebt, soll das
+Domkapitel jÑhrlich 23 Pfund aus den Halleiner EinkÅnften erhalten.
+
+REG$Erzbischof Eberhard II. von Salzburg schenkt dem Domkapitel die Kirche zu
+(Hof-)Gastein mit den GÅtern zu Garching (w. MÅhldorf), dem Vogteirecht und dem
+freien öbergang Åber den Inn unter gewissen Bedingungen. So soll das Domkapitel,
+solange Pfarrer Leutold von Gastein lebt, jÑhrlich 23 Pfund Salzburger MÅnze aus
+den Halleiner EinkÅnften erhalten.
+F$SUB 3/0737/259f/260
+G$X/Beamte/Salzburg Hallein?/Salzburg Hallein?   //
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$AnnuitÑt?/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$23/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$singulis annis officiales nostri in salina reddant capitulo Salzburgensi
+libras XXIII Salzburgensi monete
+
+DOK$SUB3_749/1220.0.0/1230.0.0/(1220 - 1230)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft und bis
+zur vollstÑndigen Auszahlung des Kaufschillings die Besitzungen in ôsterreich
+verpfÑndet habe, Eberstein und das Schlo· Labegg (s. Eberstein) aber
+vorbehaltlich der Zustimmung des Herzogs von ôsterreich am 12. Juli Åbergeben
+werden solle.
+
+REG$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft habe.
+F$SUB 3/0749/276f/276
+F$MDC 4I/1805/107f/107
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Vogt/Regensburg/Regensburg//Bayern/
+H$Kauf/Immobilien/Eberstein a|Gîrtschitsch/Eberstein a|Gîrtschitsch//K/
+W$Salzburg/pondus
+O$1800/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$Pro qua empcione archiepiscopus tenetur solvere advocato marcas argenti mille
+DCCC ponderis Salzburgensis
+
+REG$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft habe und
+sogleich 500 Mark von der Summe durch den Pfalzgrafen an den Vogt bezahlt habe.
+F$SUB 3/0749/276f/276
+F$MDC 4I/1805/107f/107
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//
+E$Otto/Vogt/Regensburg/Regensburg//Bayern/
+H$Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$500/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de qua totali summa iam in instanti de marcis D dictum advocatum \dots
+archiepiscopus expedivit
+
+REG$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft habe.
+Es werden zwei Zahlungstermine festgesetzt, nÑmlich Åber 700 Mark zu
+Dreikînig und Åber 600 Mark am Palmsonntag.
+F$SUB 3/0749/276f/276
+F$MDC 4I/1805/107f/107
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Vogt/Regensburg/Regensburg//Bayern/
+H$Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$700/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in Epiphania domini de marcis DCC \dots eum debeat expedire
+
+REG$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft habe.
+Es werden zwei Zahlungstermine festgesetzt, nÑmlich Åber 700 Mark zu
+Dreikînig und Åber 600 Mark am Palmsonntag.
+F$SUB 3/0749/276f/276
+F$MDC 4I/1805/107f/107
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Vogt/Regensburg/Regensburg//Bayern/
+H$Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$in dominica palmarum de DC residuis eum debeat expedire
+B$"Mark" aus dem Zusammenhang erschlossen.
+
+REG$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft und bis
+zur vollstÑndigen Auszahlung des Kaufschillings die Besitzungen in ôsterreich
+verpfÑndet habe. Sollte die vereinbarte Teilzahlung in der Hîhe von 700 Mark zu
+Dreikînig nicht erfolgen, soll der Vogt den Fruchtgenu· haben.
+F$SUB 3/0749/276f/277
+F$MDC 4I/1805/107f/107
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Vogt/Regensburg/Regensburg//Bayern/
+H$Ablîse?_Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$700/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$si in Epiphania domini marce ille DCC solute non fuerint
+
+REG$Pfalzgraf R(apoto) von Bayern, Graf H(einrich) von Ortenberg und Otto, Vogt
+von Regensburg bekennen, da· Erzbischof Eberhard II. von Salzburg von Otto das
+Schlo· Eberstein (a|Gîrtschitsch, KÑrnten) um 1800 Mark Silber gekauft und bis
+zur vollstÑndigen Auszahlung des Kaufschillings die Besitzungen in ôsterreich
+verpfÑndet habe. Sollte die vereinbarte Teilzahlung in der Hîhe von 600 Mark am
+Palmsonntag nicht erfolgen, soll der Vogt den Fruchtgenu· haben.
+F$SUB 3/0749/276f/277
+F$MDC 4I/1805/107f/107
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Vogt/Regensburg/Regensburg//Bayern/
+H$Ablîse?_Teilzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$Similiter quoque, si in die palmarum de DC marcis eo die solvendis non fuerit
+expeditus
+
+DOK$SUB3_757/1220.11.18/1220.11.18/1220 November 18/anno dominice incarnacionis MCCXX.
+indictione IX. XIIII. kalend. decembris/Gars a.Inn/Gars a.Inn//OB
+S$X/Salzburg/Magister Heinrich EIIN
+V$X/X/X
+K$Abt Simon und das Stift St. Peter verpflichten sich auf Bitte des Erzbischofs
+Eberhard II. von Salzburg als BÅrgen zur Zahlung von 200 Mark gegenÅber dem
+Bischof Konrad von Regensburg bis 24. Juni 1221.
+
+REG$Abt Simon und das Stift St. Peter verpflichten sich auf Bitte des Erzbischofs
+Eberhard II. von Salzburg als BÅrgen zur Zahlung von 200 Mark Silber
+Salzburger Gewichts gegenÅber dem Bischof Konrad von Regensburg bis 24. Juni
+1221.
+F$SUB 3/0757/285f/286
+F$Ried, CD Ratisbon. 1/344/327/327
+G$Simon/Abt/Salzburg/Salzburg,St.Peter//S/
+G$X/Stift/Salzburg/Salzburg,St.Peter//S/
+E$Konrad/Bischof/Regensburg/Regensburg//OB/
+H$BÅrgschaft/Geldsumme?Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$Salzburg/pondus
+O$200/marca/X
+Z$X/X/X
+M$X/argentum/purum/Z
+Q$in CC marcis puri argenti solvendis Salceburge in festo sancti Iohannis
+baptiste proxime venturo sub pondere Salceburgensi
+
+REG$Abt Simon und das Stift St. Peter verpflichten sich auf Bitte des Erzbischofs
+Eberhard II. von Salzburg als BÅrgen zur Zahlung von 200 Mark Silber
+Salzburger Gewichts gegenÅber dem Bischof Konrad von Regensburg bis 24. Juni
+1221. Sollten sie die genannte Summe nicht innerhalb eines Monats zahlen und bis
+Typach bringen, sind sie verpflichtet, dem Papst und der Kurie in Rom je 100
+Mark Silber zu bezahlen.
+F$SUB 3/0757/285f/286
+F$Ried, CD Ratisbon. 1/344/327/327
+G$Simon/Abt/Salzburg/Salzburg,St.Peter//S/
+G$X/Stift/Salzburg/Salzburg,St.Peter//S/
+E$X/Papst/Rom/Rom//Rom/
+E$X/Kurie/Rom/Rom//Rom/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$domno apostolico C marcas argenti et curie Romane totidem solvere teneamur
+
+DOK$SUB3_768/1221.6.23/1221.6.23/1221 Juni 23/VIIII. kal. iulii pontificatus nostri anno
+quinto/Rom/Rom//Rom/
+S$X/X/X
+V$X/X/X
+K$Papst Honorius III. bestÑtigt dem Domkapitel von Salzburg die ihm von
+Erzbischof Eberhard II. von Salzburg verliehene Pfarre (Hof-)Gastein und 60 Mark
+EinkÅnfte von der Saline zu MÅhlbach (Hallein).
+
+REG$Papst Honorius III. bestÑtigt dem Domkapitel von Salzburg die ihm von
+Erzbischof Eberhard II. von Salzburg verliehene Pfarre (Hof-)Gastein und 60 Mark
+EinkÅnfte von der Saline zu MÅhlbach (Hallein).
+F$SUB 3/0768/295f/296
+G$Honorius III./Papst/Rom/Rom//Rom/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$BestÑtigung/EinkÅnfte_Saline/Hallein MÅhlbach/MÅhlbach (Hallein)//
+W$Salzburg/moneta/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuum redditum sexaginta librarum Salzburgensis monete in salina de Mulbac
+
+DOK$SUB3_792/1224.8.6/1224.8.6/1224 August 6/anno domini MCCXXIIII. VIII. idus
+augusti/Salzburg/Salzburg//S/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg und das Kloster Kaisheim (nî. Donauwîrth,
+Bayern) kommen Åberein, bis 8 Tage nach Pfingsten den Kauf, bzw. Verkauf des
+Gutes Krimml um 600 Mark bei einer Strafe von 100 Mark zu vollziehen.
+
+REG$Erzbischof Eberhard II. von Salzburg und das Kloster Kaisheim (nî. Donauwîrth,
+Bayern) kommen Åberein, bis 8 Tage nach Pfingsten den Kauf, bzw. Verkauf des
+Gutes Krimml um 600 Mark bei einer Strafe von 100 Mark zu vollziehen.
+F$SUB 3/0792/320f/321
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X/Kloster/Kaisheim/Kaisheim//Bayern,nî.Donauwîrth/
+H$Kauf/Immobilien/Krimml/Krimml//Oberpinzgau/
+W$Salzburg/pondus/
+O$600/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$sexcentarum marcarum ponderis Salzburgensis pretio constituto
+
+REG$Erzbischof Eberhard II. von Salzburg und das Kloster Kaisheim (nî. Donauwîrth,
+Bayern) kommen Åberein, bis 8 Tage nach Pfingsten den Kauf, bzw. Verkauf des
+Gutes Krimml um 600 Mark bei einer Strafe von 100 Mark zu vollziehen.
+F$SUB 3/0792/320f/321
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S  beide?
+E$X/Kloster/Kaisheim/Kaisheim//Bayern,nî.Donauwîrth/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$pena vero centum marcarum alteri ab eo persolvenda, qui dict\c{e} conventioni
+non staret
+
+DOK$SUB3_806/1226.0.0/1226.0.0/1226/anno domini MCCXXVI. indict./Salzburg/Salzburg//S/
+S$X/Salzburg/Heinrich
+V$X/Salzburg/Heinrich
+K$Erzbischof Eberhard II. von Salzburg beurkundet unter Beziehung auf die
+frÅheren VertrÑge zwischen dem Domkapitel und der Frau Diemud und ihrem Gatten
+den Ausgleich im Streit um die Eigenschaft genannter Besitzungen, die die Witwe
+des Burggrafen Konrad, Agnes, und ihr Sohn beanspruchten, dahin, da· das
+Domkapitel die Hîhe Gunpingen (? Gepping v. Gaden oder Gumpering b. Holzhausen,
+OB), Gerolvingen (? Hîrafing b. Weildorf oder Gerading b. Kammer, OB), Nieder-
+stra· (sî. Teisendorf), Wonneberg, Moosen (b. Gaden - Waging) und die MÅhle an
+der Saalach aufgibt und das Gut Gastag (b. Kapell) bei Surberg behÑlt.
+Betreffend das Gut DÅrrnberg (b. Seeham) bei Waldprechting werden die Nachbarn
+befragt und der Erzbischof entschÑdigt das Kapitel mit einer Schwaige in Moosen.
+Die Gerhaben des Knaben versprechen, den Hof Rapolding (b. Ulrichshîgel), den
+der Graf Liutold von Plain zu Lehen hat, freizumachen und dem Kapitel zu
+Åbergeben, eventuell 2 Talent EinkÅnfte von dessen Lehen im Eigelwald (Forst
+nw. Engelsberg, OB) zu verpfÑnden. Schlie·lich sollen die Grenzen des Gutes
+Wei·bachau (b. Gro·gmain) und die Hîrigen nach ihrer Abstammung festgestellt
+werden.
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet den Ausgleich im Streit um die
+genannten Besitzungen, die die Witwe des Burggrafe Konrad, Agnes, und ihr Sohn
+gegenÅber dem Domkapitel beanspruchten. Die Vormunde des Knaben versprechen, den
+Rapolding (b. Ulrichshîgel), den der Graf Liutold von Plain zu Lehen hat,
+freizumachen und dem Kapitel zu Åbergeben, eventuell 2 Talent EinkÅnfte von
+dessen Lehen im Eigelwald (nw. Engelsberg, OB) zu verpfÑnden.
+F$SUB 3/0806/334ff/335
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$RÅdiger/Genannter/Saalfelden/Saalfelden//S/
+E$Heinrich/Genannter/Truchtlaching a|Alz/Truchtlaching a|Alz/Trvhtleich(ingen)/OB,n.Chiemsee/
+E$Siboto/Genannter/Nopping/Nopping/Noppingen/sî.Lamprechtshausen/
+E$Konrad Panch\{ae}r/X/X/X//
+H$PfandgeschÑft/EinkÅnfte/Engelsberg (Eigelwald)/Engelsberg (Eigelwald)//OB,Forst nw.Engelsberg/
+W$X/X/
+O$2/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus duorum talentorum nomine pueri de feudo suo in Esel\{ae}rwalde \dots
+nobis loco pignoris resignarent capitulo illos per nos
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet den Ausgleich im Streit um die
+genannten Besitzungen, die die Witwe des Burggrafe Konrad, Agnes, und ihr Sohn
+gegenÅber dem Domkapitel beanspruchten. Die Vormunde des Knaben versprechen,
+da· sie, wenn der Knabe erwachsen ist, dafÅr sorgen werden, da· er auf die
+2 Pfund EinkÅnfte von seinem Lehen im Eigelwald (nw. Engelsberg, OB) verzichten
+wird. ?
+F$SUB 3/0806/334ff/335
+G$X/X/X/X//  Sohn des Burggrafen Konrad?
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Verzicht/EinkÅnfte/Engelsberg (Eigelwald)/Engelsberg (Eigelwald)//OB,Forst
+nw.Engelsberg/
+W$X/X/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$redditus duarum librarum
+
+REG$Erzbischof Eberhard II. von Salzburg beurkundet den Ausgleich im Streit um die
+genannten Besitzungen, die die Witwe des Burggrafe Konrad, Agnes, und ihr Sohn
+gegenÅber dem Domkapitel beanspruchten. Die Vormunde des Knaben versprechen,
+da· sie, wenn der Knabe erwachsen ist, dafÅr sorgen werden, da· er auf die
+2 Pfund EinkÅnfte von seinem Lehen im Eigelwald (nw. Engelsberg, OB) verzichten
+wird. ? Wenn sie nicht dafÅr sorgen, sollen sie der Kirche 30 Pfund Salzburger
+MÅnze bezahlen.
+F$SUB 3/0806/334ff/335
+G$Ekkehard/Genannter/Altentann/Altentann/Tanne/S, G.Henndorf/
+G$Dietmar/Genannter/Eichham/Eichham/Eicheim/OB,nw.Weildorf/
+G$Heinrich/Vizedom/X/X//
+G$Ulrich/Genannter/Wiesbach/Wiesbach/Wispach/S,G.Oberalm Schlo·/
+G$Heinrich/Genannter/Truchtlaching a|Alz/Truchtlaching a|Alz/Trvhtleichingen/OB,n.Chiemsee/
+G$Siboto/Genannter/Nopping/Nopping/Noppingen/sî.Lamprechtshausen/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$quod nisi fecerint solvent ecclesie de proprio triginta libras Salzburgensis
+monete
+
+DOK$SUB3_837b/1229.1.18/1229.1.18/1229 JÑnner 18/anno incarnartionis domini MCCXXVIIII.
+indictione II. XV. kal. febr./Admont/Admont//Stmk/
+S$X/Salzburg/X
+V$X/X/X
+K$Die ébte Simon von St. Peter und Wichpoto von Admont vergleichen sich in ihrem
+langjÑhrigen Streit um das Gut Muggenau, indem St. Peter gegen 50 Pfund
+Salzburger Pfennige davon absteht.
+
+REG$Die ébte Simon von St. Peter und Wichpoto von Admont vergleichen sich in ihrem
+langjÑhrigen Streit um das Gut Muggenau, indem St. Peter gegen 50 Pfund
+Salzburger Pfennige davon absteht.
+F$SUB 3/0837b/371f/372
+F$StUB 2/260/356f/357
+F$Wichner,Adm. 2/130/291f/292
+G$Wichpoto/Abt/Admont/Admont//Stmk/
+E$Simon/Abt/Salzburg/Salzburg,St.Peter//S/
+H$Verzicht/Immobilien/Muggenau/Muggenau//nw.Leibnitz, Stmk.
+W$Salzburg/moneta/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$per solutionem quinquaginta librarum Salzburgenis monet\c{e}, quas abbati et
+conventui sancti Petri tradidimus
+
+DOK$SUB3_837c/1229.1.18/1229.1.18/1229 JÑnner 18/anno incarnationis domini
+MCCXXVIIII.indictione II. XV. kal. febr./Admont/Admont//Stmk/
+S$X/X/X
+V$X/X/X
+K$Abt Simon und der Konvent von St. Peter verpflichten sich dem Kloster Admont
+gegenÅber unter einer Geldstrafe von 300 Mark Salzburger MÅnze zur Einhaltung
+des Ausgleiches wegen der GÅter zu Muggenau, Admont und der Salzpfannen.
+
+REG$Abt Simon und der Konvent von St. Peter verpflichten sich dem Kloster Admont
+gegenÅber unter einer Geldstrafe von 300 Mark Salzburger MÅnze zur Einhaltung
+des Ausgleiches wegen der GÅter zu Muggenau, Admont und der Salzpfannen.
+F$SUB 3/0837c/372f/373
+F$StUB 2/261/358/358
+F$Wichner,Adm. 2/131/293/293
+G$Simon/Abt/Salzburg/Salzburg,St.Peter//S/
+E$Wichpoto/Abt/Admont/Admont//Stmk/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$ad penam trecentarum librarum Salzpurgensis monete
+
+DOK$SUB3_837d/1229.9.29/1229.9.29/(1229 September 29)/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Abt Simon und der Konvent von St. Peter bestÑtigen dem Stift Admont den
+Empfang von 50 Mark Salzburger MÅnze als Abfindungssumme im Streit wegen Admont
+und Muggenau.
+
+REG$Abt Simon und der Konvent von St. Peter bestÑtigen dem Stift Admont den
+Empfang von 50 Mark Salzburger MÅnze als Abfindungssumme im Streit wegen Admont
+und Muggenau.
+F$SUB 3/0837d/373f/373
+F$StUB 2/264/360/360
+F$Wichner,Adm. 2/129/291/291
+G$Simon/Abt/Salzburg/Salzburg,St.Peter//S/
+E$Wichpoto/Abt/Admont/Admont//Stmk/
+H$BestÑtigung/Geldsumme/unbestimmt/unbestimmt//
+W$Salzburg/moneta/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quinquaginta libras Salzburgensis monet\c{e}
+B$Original durch Brand beschÑdigt.
+
+DOK$SUB3_846/1230.0.0/1230.0.0/1230/anno domini MCCXXX. indictione/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Konrad von Wasserburg schenkt mit Zustimmung seiner Frau Kunigunde dem
+Domkapitel als EntschÑdigung fÅr die vielen SchÑden den Hof Hilgen in der Pfarre
+Pfaffing (b. Wasserburg, OB), den er von Albert von Langkampfen gekauft hat,
+erhÑlt den Hof, in dessen Besitz er den Domkellner Ulrich einweist, als Prekarie
+und bittet samt seiner Frau um Aufnahme in die Gebetsgemeinschaft.
+
+REG$Graf Konrad von Wasserburg schenkt mit Zustimmung seiner Frau Kunigunde dem
+Domkapitel als EntschÑdigung fÅr die vielen SchÑden den Hof Hilgen in der Pfarre
+Pfaffing (b. Wasserburg, OB) und erhÑlt den Hof als Prekarie, solange er lebt,
+gegen einen jÑhrlichen Zins in der Hîhe von 60 Pfennigen Salzburger MÅnze.
+F$SUB 3/0846/381ff/382
+G$Konrad/Graf/Wasserburg a.Inn/Wasserburg a.Inn//OB/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$Zinsverpflichtung/Immobilien/Hilgen b.Pfaffing/Hilgen b.Pfaffing//OB,w.Wasserburg/
+W$Salzburg/X/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$singulis annis certum censum videlicet LX denarios Salzburgensis monete
+
+REG$Graf Konrad von Wasserburg schenkt mit Zustimmung seiner Frau Kunigunde dem
+Domkapitel als EntschÑdigung fÅr die vielen SchÑden den Hof Hilgen in der Pfarre
+Pfaffing (b. Wasserburg, OB) und erhÑlt den Hof als Prekarie. Es wird weiters
+vereinbart, da· er oder sein Erbe den Hof gegen 40 Pfund Salzburger MÅnze
+freikaufen kann.
+F$SUB 3/0846/381ff/382
+G$Konrad/Graf/Wasserburg a.Inn/Wasserburg a.Inn//OB/
+E$X/Domkapitel/Salzburg/Salzburg//S/
+H$RÅckkauf/Immobilien/Hilgen b.Pfaffing/Hilgen b.Pfaffing//OB,w.Wasserburg/
+W$Salzburg/moneta/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro XL libris Salzburgensis monete liberam redimendi habebimus potestatem.
+
+DOK$SUB3_857/1231.0.0/1234.0.0/(1231 - 1234)/X/X/X//
+S$X/Salzburg/X
+V$X/X/X
+K$Propst Albert, Dekan Chuno und das Domkapitel von Salzburg bekennen, da· Abt
+Berthold und der Konvent von St. Peter einen Hof in Glan(-hofen) den Sîhnen des
+Konrad Whtar, Meingoz, Ulrich und Heinrich und ihren Kindern gegen einen
+jÑhrlichen Zins von 1 Pfund Åbertragen haben.
+
+REG$Propst Albert, Dekan Chuno und das Domkapitel von Salzburg bekennen, da· Abt
+Berthold und der Konvent von St. Peter einen Hof in Glan(-hofen) den Sîhnen des
+Konrad Whtar, Meingoz, Ulrich und Heinrich und ihren Kindern gegen einen
+jÑhrlichen Zins von 1 Pfund Salzburger MÅnze Åbertragen haben.
+F$SUB 3/0857/396f/397
+G$Meingoz;Ulrich;Heinrich/X/X/X//
+E$X/Konvent?/Salzburg/Salzburg,St.Peter//S/
+H$Zinsverpflichtung/Immobilien/Glanhofen/Glanhofen//S,w.Maxglan/
+W$Salzburg/moneta/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libram Salzpurgensis monete de eodem manso ecclesie sue solvant
+
+DOK$SUB3_977/1241.8.30/1241.8.30/1241 August 30/anno domini MCCXLI. III. kal. septembr.
+indict. XIIII./MÅhldorf/MÅhldorf//OB/
+S$X/Salzburg/EIIW
+V$X/Salzburg/EIIU
+K$Herzog Otto von Bayern verpfÑndet Erzbischof Eberhard II. von Salzburg fÅr 184
+Salzburger Mark das Gut Gastein.
+
+REG$Herzog Otto von Bayern verpfÑndet Erzbischof Eberhard II. von Salzburg fÅr 184
+Salzburger Mark Silber das Gut Gastein.
+F$SUB 3/0977/527/527
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Herzog/Bayern/Bayern//Bayern/
+H$PfandgeschÑft/Immobilien/Gastein/Gastein//S/
+W$Salzburg/pondus
+O$200/marca/X
+O$16/marca/minus
+Z$X/X/X
+M$X/argentum/X/A
+A$1 Mark Silber Salzb. Gewicht/13 solidi derselben MÅnze
+Q$predium nostrum in Gaste\^vn pro ducentis marcis argenti minus marcis sedecim ad
+pondus salzburgense vel pro marca solidos tredecim eiusdem monete obligasse
+publice p(ro)testamur
+
+REG$Herzog Otto von Bayern verpfÑndet Erzbischof Eberhard II. von Salzburg fÅr 184
+Salzburger Mark Silber oder 13 Schilling derselben MÅnze pro Mark das Gut Gastein.
+F$SUB 3/0977/527/527
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Herzog/Bayern/Bayern//Bayern/
+H$PfandgeschÑft/Immobilien/Gastein/Gastein//S/
+W$X/X/
+O$1/marca/X
+Z$X/X/X
+M$X/X/X/A
+A$1 Mark Silber Salzburger Gewichts/13 Schill. Salzburger MÅnze
+Q$predium nostrum in Gaste\^vn pro ducentis marcis argenti minus marcis sedecim ad
+pondus salzburgense vel pro marca solidos tredecim eiusdem monete obligasse
+publice p(ro)testamur
+
+REG$Herzog Otto von Bayern verpfÑndet Erzbischof Eberhard II. von Salzburg fÅr 184
+Salzburger Mark Silber oder 13 Schilling derselben MÅnze pro Mark das Gut Gastein.
+F$SUB 3/0977/527/527
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Otto/Herzog/Bayern/Bayern//Bayern/
+H$PfandgeschÑft/Immobilien/Gastein/Gastein//S/
+W$Salzburg/moneta/
+O$X/X/X
+Z$13/sol./X
+M$X/X/X/A
+A$13 Schill. Salzburger MÅnze/1 Mark Silber Salzburger Gewichts
+Q$predium nostrum in Gaste\^vn pro ducentis marcis argenti minus marcis sedecim ad
+pondus salzburgense vel pro marca solidos tredecim eiusdem monete obligasse
+publice p(ro)testamur
+B$"Salzburg" aus dem Zusammenhang erschlossen.
+
+DOK$SUB3_1026/1243.12.30/1243.12.30/1243 Dezember 30/anno incarnationis dominice MCCXLIIII.
+III. kal. ianuarii, indict. II./Salzburg/Salzburg//S/
+S$X/X/X
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg schenkt dem Stift Raitenhaslach den Hof
+Allerfing zwischen Tittmoning und Fridolfing, den es von dem Pfandinhaber,
+GeschÅtzmeister Rudeger von Burghausen, eingelîst hat.
+
+REG$Erzbischof Eberhard II. von Salzburg schenkt dem Stift Raitenhaslach einen Hof
+zu Allerfing (LK Laufen) zwischen Tittmoning und Fridolfing und verpflichtet
+das Stift zur Ablîsung der darauf liegenden 20 Pfund, fÅr die er an
+GeschÅtzmeister Rudeger von Burghausen (LK Altîtting) verpfÑndet ist.
+F$SUB 3/1026/577/577
+F$QE NF 17II/144/129f/130
+G$X/Kloster/Raitenhaslach a.Salzach/Raitenhaslach a.Salzach//OB,b.Burghausen/
+E$Rudeger/GeschÅtzmeister;Genannter/Burghausen/Burghausen//OB/
+H$Pfand_Auslîsung/Immobilien/Allerfing/Allerfing//OB,b.Fridolfing G.Pietling/
+W$Salzburg/moneta/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro viginti libris rediment Salzburgensis monete
+
+DOK$SUB3_1058c/1245.0.0/1245.0.0/1245/anno domini MCCXLV./X/X//
+S$X/Salzburg/DE
+V$X/X/X
+K$Erzbischof Eberhard II. von Salzburg eignet dem Domkapitel das Lehengut
+Gai·au, das es um 120 Pfund Salzburger Pfennige vom Hochstiftsministerialen
+Ekkehart von Tann, der es zu Lehen hatte, gekauft hat, unterstellt es dem
+Gericht des Amtmannes in Adnet und umschreibt die Grenzen des Gutes.
+
+REG$Erzbischof Eberhard II. von Salzburg eignet dem Domkapitel das Lehengut
+Gai·au, das es um 120 Pfund Salzburger Pfennige vom Hochstiftsministerialen
+Ekkehart von Tann, der es zu Lehen hatte, gekauft hat.
+F$SUB 3/1058c/606ff/607
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Ekkehart/Hochstiftsministeriale;Genannter/Altentann/Altentann/Tanne/S,s.Henndorf/
+H$Kauf/Immobilien/Gai·au/Gai·au//S,G.Krispl/
+W$Salzburg/moneta/
+O$120/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$capitulo ecclesie nostre vendere pro summa centum viginti librarum denariorum
+Salzburgensium monete totaliter cogitavit
+
+DOK$SUB3_1062/1245.1.13/1245.1.13/1245 JÑnner 13/in octava Epifanie, anno domini MCCXLV.
+indictione tercia/Salzburg/Salzburg//S/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg legt einen Streit zwischen dem Stift
+Admont und den BrÅdern Heinrich und Walther von Diernstein dahin bei, da· diese
+gegen 10 Pfund von ihren AnsprÅchen auf das Gut zu Gleiming (Ggd. w. Schladming)
+im Ennstal abstehen.
+
+REG$Erzbischof Eberhard II. von Salzburg legt einen Streit zwischen dem Stift
+Admont und den BrÅdern Heinrich und Walther von Diernstein dahin bei, da· diese
+gegen 10 Pfund Salzburger MÅnze von ihren AnsprÅchen auf das Gut zu Gleiming
+(Ggd. w. Schladming) im Ennstal abstehen.
+F$SUB 3/1062/610f/610
+F$StUB 2/445/557f/557
+F$Wichner,Adm. 2/165/322f/322
+G$X/Konvent/Admont/Admont//Stmk/
+E$Heinrich;Walther/Genannter/DÅrnstein/DÅrnstein//b.Neumarkt b.Friesach
+H$Verzicht/Immobilien/Gleiming/Gleiming//Stmk,Ggd.w.Schladming/
+W$Salzburg/moneta/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$fratribus monete Salzburgensis persolveret decem libras
+
+DOK$SUB3_1066b/1226.0.0/1231.0.0?/(nach 1225)/X/X/X//
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg belehnt Ulrich von Kalham mit den 72
+Salzburger Pfund, die sein Oheim, der junge Burggraf (Konrad), auf den Hîfen
+Kalham und Grîssing (bei Kalham) zu Pfand hatte und nun heimgefallen sind, mit
+derselben Bedingung.
+
+REG$Erzbischof Eberhard II. von Salzburg belehnt Ulrich von Kalham mit den 72
+Salzburger Pfund, die sein Oheim, der junge Burggraf (Konrad), auf den Hîfen
+Kalham und Grîssing (bei Kalham) zu Pfand hatte und nun heimgefallen sind, mit
+derselben Bedingung.
+F$SUB 3/1066b/613f/613
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Ulrich/Genannter/Kalham/Kalham//S,sî.Eugendorf/
+H$Belehnung/EinkÅnfte?/Kalham/Kalham//S,sî.Eugendorf/
+H$Belehnung/EinkÅnfte?/Kalham Grîssing/Kalham,Grîssing//S,b.Kalham/
+W$Salzburg/X/
+O$72/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$libras septuaginta duas denariorum Salzburgensium \dots contulimus
+
+DOK$SUB3_1066c/1232.0.0/1242.0.0?/(nach 1231)/X/X/X//
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg belehnt Ulrich von Kalham mit 40
+Salzburger Pfund auf dem Hof Seidenfeld (b. Enzersberg w. Talgau), den sein
+verstorbener Vater Konrad dem Erzbischof um diese Summe verpfÑndet hatte.
+
+REG$Erzbischof Eberhard II. von Salzburg belehnt Ulrich von Kalham mit 40
+Salzburger Pfund auf dem Hof Seidenfeld (b. Enzersberg w. Talgau), den sein
+verstorbener Vater Konrad dem Erzbischof um diese Summe verpfÑndet hatte.
+F$SUB 3/1066c/613f/614
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Ulrich/Genannter/Kalham/Kalham//S,sî.Eugendorf/
+H$Belehnung/EinkÅnfte?/Enzersberg Seidenfeld/Enzersberg,Seidenfeld//S,b.Enzersberg w.Talgau/
+W$Salzburg/X/
+O$40/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$libras quadraginta denariorum Salzburgensium \dots contulimus
+
+DOK$SUB3_1088/1246.4.5/1246.4.5/1246 April 5/anno domini MCCXLVI. non. apr. ind.
+IIII./MÅhldorf/MÅhldorf//OB/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg verpfÑndet dem Poplin von MÅhldorf fÅr 70
+Salzburger Pfund, die dieser den Burgmannen von Dornberg (b. MÅhldorf), und fÅr
+40 Pfund, die er im Verein mit seinen Schwiegersîhnen dem Erzbischof fÅr dessen
+BedÅrfnisse dort ausbezahlt hatte, Huben und Hîfe zu Lochheim (bei Mettenheim),
+Erharting und Mî·ling (n. MÅhldorf) vorbehaltlich der Bestiftung und
+Besteuerung.
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet dem Poplin von MÅhldorf fÅr
+unter anderem 70 Salzburger Pfund, die dieser den Burgmannen von Dornberg (b.
+MÅhldorf) ausbezahlt hatte, Huben und Hîfe zu Lochheim (bei Mettenheim),
+Erharting und Mî·ling (n. MÅhldorf) vorbehaltlich der Bestiftung und
+Besteuerung.
+F$SUB 3/1088/633f/634
+G$Poplin/Genannter/MÅhldorf/MÅhldorf//OB/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$X?/Burgmannen/Dornberg/Dornberg?//OB,b.MÅhldorf/
+H$PfandgeschÑft/Immobilien/Lochheim b.Mettenheim/Lochheim b.Mettenheim//OB,nw.MÅhldorf/
+H$PfandgeschÑft/Immobilien/Erharting/Erharting//OB,nî.MÅhldorf/
+H$PfandgeschÑft/Immobilien/Mî·ling/Mî·ling//OB,n.MÅhldorf/
+W$Salzburg/X/
+O$70/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro septuaginta libris Salzburgen(sibus) \dots assignavimus obligacionis
+titulo
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet dem Poplin von MÅhldorf fÅr
+unter anderem 40 Pfund, die er im Verein mit seinen Schwiegersîhnen dem
+Erzbischof fÅr dessen BedÅrfnisse dort ausbezahlt hatte, Huben und Hîfe zu
+Lochheim (bei Mettenheim), Erharting und Mî·ling (n. MÅhldorf) vorbehaltlich der
+Bestiftung und Besteuerung.
+F$SUB 3/1088/633f/634
+G$Poplin/Genannter/MÅhldorf/MÅhldorf//OB/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Immobilien/Lochheim b.Mettenheim/Lochheim b.Mettenheim//OB,nw.MÅhldorf/
+H$PfandgeschÑft/Immobilien/Erharting/Erharting//OB,nî.MÅhldorf/
+H$PfandgeschÑft/Immobilien/Mî·ling/Mî·ling//OB,n.MÅhldorf/
+W$X/X/
+O$40/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quadraginta libris \dots assignavimus obligacionis
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet dem Poplin von MÅhldorf fÅr 70
+Salzburger Pfund, die dieser den Burgmannen von Dornberg (b. MÅhldorf), und fÅr
+40 Pfund, die er im Verein mit seinen Schwiegersîhnen dem Erzbischof fÅr dessen
+BedÅrfnisse dort ausbezahlt hatte, Huben und Hîfe zu Lochheim (bei Mettenheim),
+Erharting und Mî·ling (n. MÅhldorf) vorbehaltlich der Bestiftung in der Hîhe von
+3 Schillingen Salzburger Pfennige und der Besteuerung.
+F$SUB 3/1088/633f/634
+G$Poplin/Genannter/MÅhldorf/MÅhldorf//OB/
+E$Vitulus/Genannter/Burghausen/Burghausen//OB/
+H$Bestiftung/Geldsumme/unbestimmt/unbestimmt//  ?
+W$Salzburg/X/
+O$X/X/X
+Z$3/sol./X
+M$X/den./X/A
+Q$preter solidos tres denariorum Salzburgen(sium)
+
+REG$Erzbischof Eberhard II. von Salzburg verpfÑndet dem Poplin von MÅhldorf fÅr 70
+Salzburger Pfund, die dieser den Burgmannen von Dornberg (b. MÅhldorf), und fÅr
+40 Pfund, die er im Verein mit seinen Schwiegersîhnen dem Erzbischof fÅr dessen
+BedÅrfnisse dort ausbezahlt hatte, Huben und Hîfe mit EinkÅnften in der Hîhe von
+insgesamt 20 Pfund zu Lochheim (bei Mettenheim), Erharting und Mî·ling (n.
+MÅhldorf) vorbehaltlich der Bestiftung und Besteuerung .
+F$SUB 3/1088/633f/634
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Poplin/Genannter/MÅhldorf/MÅhldorf//OB/
+H$PfandgeschÑft/EinkÅnfte/Lochheim b.Mettenheim/Lochheim b.Mettenheim//OB,nw.MÅhldorf/
+H$PfandgeschÑft/EinkÅnfte/Erharting/Erharting//OB,nî.MÅhldorf/
+H$PfandgeschÑft/EinkÅnfte/Mî·ling/Mî·ling//OB,n.MÅhldorf/
+W$X/X/
+O$20/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$continent viginti librarum redditus
+
+DOK$SUB3_1089/1246.4.26/1246.4.26/1246 April 26/anno domini MCCXLVI. VI. kal. maii indiction
+IIII./MÅhldorf/MÅhldorf//OB
+S$X/X/X
+V$X/Salzburg/X
+K$Pfalzgraf Rapoto von Ortenburg beurkundet, da· er anstatt der in Nr. 1056
+vereinbarten jÑhrlichen 2 Pfund und in jedem dritten Jahr 5 Pfund Pfennige
+nunmehr jÑhrlich 3 Pfund zu Michaeli als Vogteirecht von den domkapitlischen
+Besitzungen im Chiemgau erhalten soll.
+
+REG$Pfalzgraf Rapoto von Ortenburg beurkundet, da· er anstatt der in Nr. 1056
+vereinbarten jÑhrlichen 2 Pfund und in jedem dritten Jahr 5 Pfund Pfennige
+nunmehr jÑhrlich 3 Pfund zu Michaeli als Vogteirecht von den domkapitlischen
+Besitzungen im Chiemgau erhalten soll.
+F$SUB 3/1089/634f/635
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Rapoto/Pfalzgraf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Vogteirecht/Chiemgau/Chiemgau//Ggd.a.Chiemsee/
+W$Salzburg/X/
+O$2/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$nobis solveret annis singulis denariorum Salzburgensis libras duas
+
+REG$Pfalzgraf Rapoto von Ortenburg beurkundet, da· er anstatt der in Nr. 1056
+vereinbarten jÑhrlichen 2 Pfund und in jedem dritten Jahr 5 Pfund Pfennige
+nunmehr jÑhrlich 3 Pfund zu Michaeli als Vogteirecht von den domkapitlischen
+Besitzungen im Chiemgau erhalten soll.
+F$SUB 3/1089/634f/635
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Rapoto/Pfalzgraf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Vogteirecht/Chiemgau/Chiemgau//Ggd.a.Chiemsee/
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$nobis solveret \dots anno tertio libras quinque
+
+REG$Pfalzgraf Rapoto von Ortenburg beurkundet, da· er anstatt der in Nr. 1056
+vereinbarten jÑhrlichen 2 Pfund und in jedem dritten Jahr 5 Pfund Pfennige
+nunmehr jÑhrlich 3 Pfund zu Michaeli als Vogteirecht von den domkapitlischen
+Besitzungen im Chiemgau erhalten soll.
+F$SUB 3/1089/634f/635
+G$X/Domkapitel/Salzburg/Salzburg//S/
+E$Rapoto/Pfalzgraf/Ortenburg/Ortenburg//w.Spittal/
+H$Zahlungsverpflichtung/Vogteirecht/Chiemgau/Chiemgau//Ggd.a.Chiemsee/
+W$Salzburg/X/
+O$3/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$anno quolibet \dots iure advocacie dictarum possessionum tantum libras tres
+denariorum Salzburgensium ulterius nobis solvat
+
+DOK$SUB2_496/1195.6.1/1195.6.1/1195 Juni 1/in kalendis iunii/Mailand/Mailand//Italien/
+S$X/X/X
+V$X/X/X
+K$Kînig Heinrich VI. bestÑtigt den vor ihm ergangenen Spruch, da· niemand im
+Erzstift Salzburg MÅnzen wie die des Erzbischofs schlagen dÅrfe au·er die
+erzbischîflichen MÅnzer und verbietet, da· den Erzbischof bei der Zufuhr von
+Silber zur MÅnze jemand hindere.
+
+REG$Kînig Heinrich VI. bestÑtigt den vor ihm ergangenen Spruch, da· niemand im
+Erzstift Salzburg MÅnzen wie die des Erzbischofs schlagen dÅrfe au·er die
+erzbischîflichen MÅnzer und verbietet, da· den Erzbischof bei der Zufuhr von
+Silber zur MÅnze jemand hindere.
+F$SUB 2/0496/669/669
+F$MDC 3/1451/564/564
+F$StUB 2/008/23f/24
+F$Bîhmer, Acta imperii/202/185f/?
+G$X/Erzbischof/Salzburg/Salzburg//S/
+E$X/X/X/X// ?
+H$MÅnzrecht/MÅnzrecht/Salzburg/Salzburg//S ?
+W$Salzburg/moneta/
+O$X/X/X
+Z$X/X/X
+M$X/X/X/Z
+Q$nullus omnino per totum archiepiscopatum Salzburgensem monetam cudere debeat
+in forma monete Salzburgensis, nisi tantum monetarii archiepiscopi Salzburgensis
+
+DOK$SUB3_732/1218.10.26/1218.10.26/(1218 Oktober ca. 26)/X/NÅrnberg/(NÅrnberg)//Bayern/
+S$X/Salzburg/Magister Heinrich EIIN
+V$X/X/X
+K$Herzog Ludwig von Bayern vergleicht sich nach Rat Bischof Konrads von
+Regensburg und des Pfalzgrafen Rapoto mit Erzbischof Eberhard II. von Salzburg
+wegen der Rechte zu (Reichen-)Hall, der Grafschaftsgrenze, des neuen Schlosses
+(Gruttenstein in Reichenhall), des Zolles und der MÅnze, der BrÅcke zu Garching
+(a.d. Alz, n. Trostberg), der Leute des Klosters Niederaltaich, der Schlîsser
+Vager (heute Oberhausen, w. Hallthurn) und Karlstein, des Erbes des Grafen
+Friedrich von Peilstein und der GÅter Rudgers von Saalfelden, der beiderseitigen
+SchÑden, der vom Herzog beanspruchten Vorlage der Urkunde (Kg. Arnolfs) beim
+nÑchsten Reichstage.
+
+REG$Herzog Ludwig von Bayern kommt mit Erzbischof Eberhard II. von Salzburg
+Åberein, da· die MÅnzer des Erzbischofs mit den zu Salzburg neu geprÑgten
+Pfennigen zu Reichenhall gegen Bezahlung von 2 Pfund Pfennig an den Stadtrichter
+ungehindert den MÅnzwechsel betreiben kînnen.
+F$SUB 3/0732/252f/253
+F$SUB 3/0745/270ff/271
+F$Meiller, Salzb. Reg./230/223/223
+G$X/MÅnzer/Salzburg/Salzburg//S/
+E$X/Stadtrichter/Reichenhall/Reichenhall//OB/
+H$Abgabe/Wechselsteuer?/Reichenhall/Reichenhall//OB/
+W$Salzburg/moneta/
+O$2/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$De moneta Salzpurgen(si), quando innovatur, iudici ducis due libere solvantur
+et Salzpurgenses monetarii in civitate Hall(is) libere cambium faciant non alii.
+B$Die Nachricht, da· sie auch zu Reichenhall gemÅnzt hÑtten, beruht auf irriger
+Auslegung jener Urkunde, die man als Zeugnis dafÅr anfÅhrt. Aus dem
+öbereinkommen vom Jahre 1219 mit Herzog Ludwig von Bayern geht nur hervor, da·
+die MÅnzer des Erzbischofs mit den zu Salzburg neu geprÑgten Pfennigen zu
+Reichenhall gegen Bezahlung von 2 Pfund Pfennig an den Stadtrichter ungehindert
+den MÅnzwechsel betreiben konnten (Luschin, Altîsterreichische Lande, S. 151).
+VU ist SUB 3, Nr. 732, S. 252f.
+
+DOK$SUB3_808/1226.9.18/1226.9.18/1226 September 18/anno incarnationis dominice MCCXXVI.
+XIIII. kal. octob./Wien/Wien//ô/
+S$X/X/X
+V$X/X/X
+K$Die ébte Wezilin von Gîttweig und Berthold von Michaelbeuern, Propst Ulrich
+von St. Nicola (in Passau), Konrad, Pfarrer in Ru·bach (Gro·ru·bach a.
+Marchfeld) und Magister Albert, Pfarrer von Stronsdorf (b. Mailberg, Nô)
+entscheiden als gewÑhlte Schiedsrichter zwischen Abt Simon und dem Konvent von
+St. Peter einer- und dem Pfarrer Heinrich von Wien andererseits in ihrem Streit
+um das AbhÑngigkeitsverhÑltnis und die Leistungen des Gutes Dornbach an die
+Mutterkirche zu Wien.
+
+REG$Abt Simon und der Konvent von St. Peter einer- und der Pfarrer Heinrich von
+Wien andererseits einigen sich in ihrem Streit um das AbhÑngigkeitsverhÑltnis
+und die Leistungen des Gutes Dornbach an die Mutterkirche zu Wien auf
+die ébte Wezilin von Gîttweig und Berthold von Michaelbeuern, Propst Ulrich
+von St. Nicola (in Passau), Konrad, Pfarrer in Ru·bach (Gro·ru·bach a.
+Marchfeld) und Magister Albert, Pfarrer von Stronsdorf (b. Mailberg, Nô)
+als gewÑhlte Schiedsrichter. Wer gegen deren Entscheidungen handelt, hat der
+anderen Partei 30 Pfund Wiener MÅnze Strafe zu bezahlen.
+F$SUB 3/0808/337f/338
+G$Simon/Abt/Salzburg/Salzburg_St.Peter//S/
+E$Heinrich/Pfarrer/Wien/Wien//ô/
+H$Pînale/Konventionalstrafe?Strafgeld/unbestimmt/unbestimmt//
+W$Wien/moneta/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$penam XXX librarum Wienensis monete incurreret alteri partium \dots
+exsolvendarum
+
+REG$Die ébte Wezilin von Gîttweig und Berthold von Michaelbeuern, Propst Ulrich
+von St. Nicola (in Passau), Konrad, Pfarrer in Ru·bach (Gro·ru·bach a.
+Marchfeld) und Magister Albert, Pfarrer von Stronsdorf (b. Mailberg, Nô)
+entscheiden als gewÑhlte Schiedsrichter zwischen Abt Simon und dem Konvent von
+St. Peter einer- und dem Pfarrer Heinrich von Wien andererseits in ihrem Streit
+um das AbhÑngigkeitsverhÑltnis und die Leistungen des Gutes Dornbach an die
+Mutterkirche zu Wien. So hat Abt Simon zum Ausgleich der genannten Bestimmungen
+der Mutterkirche zu Wien vor dem Fest des hl. Georg den benachbarten Besitz mit
+jÑhrlichen EinkÅnften?Zins in der Hîhe von einem Pfund Wiener MÅnze zu
+Åbergeben.
+F$SUB 3/0808/337f/338
+G$X/X/X/X//
+E$X/Kirche/Wien/Wien//ô/
+H$EinkÅnfte/Immobilien/Wien/Wien_Dornbach/Dornbach/ô ?
+W$Wien/moneta/
+O$1/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$possesionem aliquam in vicino sitam reddentem singulis annis libram unam
+Wienensis monete
+B$Kirche und Filiale des Stiftes St. Peter.
+
+DOK$SUB3_871/1232.0.0/1240.0.0/(1232 - 1240)/X/X/X//
+S$X/X/X
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg bekennt, da· Magister Berthold, Abt von
+St. Peter, und sein Konvent dem erzbischîflichen Vizedom Heinrich, seiner Frau
+Diemud und ihrem Sohn Gottschalk einen Weingarten zu Arnsdorf (a. Donau, Nô)
+gegen einen Zins von 60 Pfennigen Wiener MÅnze als Leibgeding verliehen haben.
+
+REG$Erzbischof Eberhard II. von Salzburg bekennt, da· Magister Berthold, Abt von
+St. Peter, und sein Konvent dem erzbischîflichen Vizedom Heinrich, seiner Frau
+Diemud und ihrem Sohn Gottschalk einen Weingarten zu Arnsdorf (a. Donau, Nô)
+gegen einen Zins von 60 Pfennigen Wiener MÅnze als Leibgeding verliehen haben.
+F$SUB 3/0871/414f/415
+G$Heinrich/Vizedom/Salzburg/Salzburg//S/
+G$Diemud;Gottschalk/X/X/X//
+E$Berthold/Abt/Salzburg/Salzburg_St. Peter//S/
+H$Zins/Immobilien_Weingarten/Arnsdorf i.Wachau/Arnsdorf i.Wachau//Nô/
+W$Wien/moneta/
+O$X/X/X
+Z$X/X/X
+M$60/den./X/Z
+Q$ut censum sexaginta denariorum Wienensis monete annuatim in signum
+proprietatis predictis fratribus persolvant
+B$Die Einreihung ergibt sich aus dem Antritte Bertolds und dem Verschwinden
+Heinrichs nach 1240. Ich mîchte die Urkunde in die ersten Jahre Bertolds setzen
+(Hauthaler und Martin S. 414).
+
+DOK$SUB3_1015/1243.0.0/1243.0.0/1243/anno domini MCCXLIII. indict. prima/Friesach/Friesach//K/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen.
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/537
+F$SUB 3/1035/583f/584
+F$MDC 4I/2278/309f/309
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+H$Kauf/Immobilien_Schlo·/Lichtenwald (Lichtenberg)/Lichtenwald
+(Lichtenberg)//K,Lichtenwald w.St.AndrÑ,/
+W$Wien/pondus
+O$400/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$pro quadringentis marcis argenti Wiennensis ponderis et pro redditibus decem
+marcarum in officio nostro Libenz nobis nostreque ecclesie tradidit ad emendum
+B$Urkunde wurde in SUB 3, Nr. 1035 bzw. MDC 4I, Nr. 2278 teilweise inseriert.
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/537
+F$SUB 3/1035/583f/584
+F$MDC 4I/2278/309f/309
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+H$öbergabe/EinkÅnfte/Leibnitz/Leibnitz//Stmk/
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$pro quadringentis marcis argenti Wiennensis ponderis et pro redditibus decem
+marcarum in officio nostro Libenz nobis nostreque ecclesie tradidit ad emendum
+B$Urkunde wurde in SUB 3, Nr. 1035 bzw. MDC 4I, Nr. 2278 teilweise inseriert.
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/537
+F$SUB 3/1035/583f/584
+F$MDC 4I/2278/309f/309
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+H$Belehnung/EinkÅnfte/Leibnitz/Leibnitz//Stmk  ?
+W$X/X/
+O$10/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quantocius nobis decem marcarum redditus vacare ceperint, conferre feudaliter
+promittentes
+B$Urkunde wurde in SUB 3, Nr. 1035 bzw. MDC 4I, Nr. 2278 teilweise inseriert.
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen, so den Bischof von Seckau fÅr 100
+Mark.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/538
+G$X/Bischof/Seckau/Seckau//Stmk/
+E$Heinrich/Schenk/Ha·bach (î. Gloggnitz Nô)/Ha·bach (î. Gloggnitz Nô)/
+E$Eberhard II.?/Erzbischof/Salzburg/Salzburg//S ?
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt/
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$fratem nostrum Sekowensem episcopum obligavimus pro marcis centum
+B$Augustiner-Chorherrenstift, von Feistritz nî. Knittelfeld hierher verlegt.
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen, so den Bischof von Seckau fÅr 100
+Mark. Sollte dieser sterben, Åbernimmt Friedrich von Pettau die 100 Mark.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/538
+G$Friedrich/Genannter/Pettau/Pettau//Stmk,a.Drau/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+E$Eberhard II.?/Erzbischof/Salzburg/Salzburg//S ?
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$easdem centum marcas dominus Fridericus de Bett\v{o} pincerne solvere teneatur
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen, so Hertnid von Pettau fÅr 100
+Mark.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/538
+G$Hertnid/Genannter/Pettau/Pettau//Stmk,a.Drau/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+E$Eberhard II.?/Erzbischof/Salzburg/Salzburg//S ?
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Hertnidum de Bett\v{o} pro centum marcis obligavimus
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen, so Konrad von Hornegg fÅr 100
+Mark.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/538
+G$Konrad/Genannter/Hornegg/Hornegg//Stmk,nw.Preding/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+E$Eberhard II.?/Erzbischof/Salzburg/Salzburg//S ?
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Chunradum de Horneke pro centum marcis
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen, so Konrad, einst Kellermeister, fÅr
+100 Mark.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/538
+G$Konrad/Kellermeister/X/X//
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+E$Eberhard II.?/Erzbischof/Salzburg/Salzburg//S ?
+H$BÅrgschaft/Zahlungsverpflichtung/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Chunradum quondam magistrum cellarii pro centum marcis similiter obligantes
+
+REG$Erzbischof Eberhard II. von Salzburg kauft von Heinrich dem Schenken von
+Hausbach (î. Gloggnitz Nô) das Schlo· Lichtenberg (w. St. AndrÑ, KÑrnten) samt
+den Leuten fÅr 400 Mark Wiener Gewicht und 10 Mark EinkÅnfte im Amt Leibnitz und
+stellt fÅr die Kaufsumme genannte BÅrgen, so Konrad von Hornegg fÅr 100
+Mark. Sollte dieser sterben, Åbernimmt der Erzbischof selbst die 100 Mark.
+F$SUB 3/1015/564ff/565
+F$MDC 4I/2265/304f/304
+F$StUB 2/424/537f/538
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Heinrich/Schenk/Ha·bach/Ha·bach//Nô,î.Gloggnitz/
+H$Zahlungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$Chunradum de Horneke pro centum marcis
+
+DOK$SUB3_1019/1243.0.0/1243.0.0/1243/anno domini MCCXLIII. indict. prima/Graz/Graz//Stmk/
+S$X/Salzburg/EIIW
+V$X/Salzburg/X
+K$Erzbischof Eberhard II. von Salzburg belehnt den zur Familie der Salzburger
+Kirche gehîrigen BÅrger Walker von Graz und seine Erben mit dem Zehnt zu
+Gschmayer (bei Weiz), wofÅr Walker den ihm einst fÅr 100 Mark verpfÑndeten
+Zehenthof in Graz frei herausgibt.
+
+REG$Erzbischof Eberhard II. von Salzburg belehnt den zur Familie der Salzburger
+Kirche gehîrigen BÅrger Walker von Graz und seine Erben mit dem Zehnt zu
+Gschmayer (bei Weiz), wofÅr Walker den ihm einst fÅr 100 Mark verpfÑndeten
+Zehenthof in Graz frei herausgibt.
+F$SUB 3/1019/569f/570
+F$StUB 2/426/539f/540
+G$Walker/BÅrger/Graz/Graz//Stmk/
+E$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+H$PfandgeschÑft/Immobilien/Graz/Graz//Stmk/
+W$Wien/pondus
+O$100/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$decimalem curiam aput Gr\{ae}tze sibi pro centum marcis argenti Wiennensis
+ponderis obligatam nobis absque omni peccunia resignavit libere ac dimisit.
+
+DOK$SUB3_1096/1246.10.5/1246.10.5/1246 Oktober 5/anno domini MCCXLVI. tercio non. octobr.
+quinte indictionis/Leibnitz/Leibnitz//Stmk/
+S$X/Salzburg/EIIW
+V$X/X/X
+K$Hertnid von Pettau Åbergibt dem Erzbischof Eberhard II. von Salzburg auf
+dessen DrÑngen alle seine EigengÅter in Lungau samt der Kirche Tamsweg mit
+Zugehîr, verspricht, da· sein Sohn Friedrich binnen 2 Monaten eine
+Hochstiftsministerialin heirate bzw., falls dieser sterben sollte, sein nÑchster
+Sohn, und verzichtet auf den Zehnt zu Marburg, wogenen ihn der Erzbischof mit
+dem Schlo· Wurmberg (w. Pettau) und den Dîrfern in Gatschnik (bei Jaring in den
+Windischen BÅheln) samt den Weinbergen belehnt und bis zur Bezahlung mit 900
+Mark Wiener Gewicht 225 Mark GÅlten in den émtern Leibnitz und Pettau bis 1248
+April 24 empfÑngt, und endlich hÑndigt Hertnid die betreffend seiner Tochter
+Adelheid vom Kaiser erhaltene Urkunde dem Erzbischof aus.
+
+REG$Hertnid von Pettau verzichtet auf seinen gesamten Besitz im Lungau zugunsten
+der Kirche von Salzburg, und anerkennt andere Familienabmachungen mit derselben,
+wofÅr diese ihm die Burg zu Wurmberg, Dîrfer in Gatschnik und 900 Mark Silber
+Wiener Gewichts zugesteht.
+F$SUB 3/1096/640ff/641
+F$StUB 3/005/57ff/58
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hertnid/Genannter/Pettau/Pettau//Stmk,a.Drau/
+H$Kauf/Immobilien/Lungau/Lungau//S/
+W$Wien/pondus
+O$900/marca/X
+Z$X/X/X
+M$X/argentum/finum/A
+Q$marcas nongentas fini argenti Winnensis ponderis michi dedit pro eisdem de
+suis officiis in Libenz et Bett\v{o}we ducentarum viginti quinque marcarum
+denariorum redditus
+
+REG$Hertnid von Pettau verzichtet auf seinen gesamten Besitz im Lungau zugunsten
+der Kirche von Salzburg, und anerkennt andere Familienabmachungen mit derselben,
+wofÅr diese ihm die Burg zu Wurmberg, Dîrfer in Gatschnik und 900 Mark Silber
+Wiener Gewichts zugesteht.
+F$SUB 3/1096/640ff/641
+F$StUB 3/005/57ff/58
+G$Eberhard II./Erzbischof/Salzburg/Salzburg//S/
+E$Hertnid/Genannter/Pettau/Pettau//Stmk,a.Drau/
+H$PfandgeschÑft/EinkÅnfte/Leibnitz/Leibnitz//Stmk/
+H$PfandgeschÑft/EinkÅnfte/Pettau/Pettau//Stmk,a.Drau/
+W$X/X/
+O$225/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$marcas nongentas fini argenti Winnensis ponderis michi dedit pro eisdem de
+suis officiis in Libenz et Bett\v{o}we ducentarum viginti quinque marcarum
+denariorum redditus
+
+DOK$SUB4_007/1249.0.0/1250.0.0/1249 -- 1250/anno domini MCCXLIX., indict. VII,
+anno gracie MCCL., indictione octava/X/X//
+S$X/X/X
+V$X/X/X
+K$Die ébte Heinrich von Mondsee und Wernher von Berchtesgaden beurkunden den
+von einem Schiedsgericht zustandegebrachten Vergleich zwischen dem Domkapitel
+und St. Peter wegen der Grenzen zwischen ihren GÅtern Scheffau und Abtenau.
+
+REG$Die ébte Heinrich von Mondsee und Wernher von Berchtesgaden beurkunden den
+von einem Schiedsgericht zustandegebrachten Vergleich zwischen dem Domkapitel
+und St. Peter wegen der Grenzen zwischen ihren GÅtern Scheffau und Abtenau,
+welcher unter Pînale von 60 Pfund Salzburger MÅnze steht.
+F$SUB 4/007/6f/6
+G$X/Domkapitel/Salzburg/Salzburg//
+E$X/Kirche/Salzburg/Salzburg, St. Peter//
+H$Pônale/Strafgeld/Salzburg/Salzburg//
+W$Salzburg/moneta/
+O$60/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Per penam eciam LX librarum Salzburgensis monete arbitrium est vallatum
+
+DOK$SUB4_012/1250.5.1/1250.5.1/1250 Mai 1/anno domini MCCL., kal.May, indictione
+octava/Salzburg/Salzburg,St.Peter//
+S$X/X/X
+V$X/X/X
+K$Der ErwÑhlte Philipp von Salzburg belehnt die Grafen Otto und Konrad von
+Plain mit allen Besitzungen vor dem Gebirge diesseits der Lamer und des Thurms
+von Lofer, sowie in der Mark, ôsterreich und Bayern, die ihr Oheim Leutold von
+Salzburg zu Lehen gehabt hat, -- ausgenommen sind die Gerichte und Vogteien --
+, sowie mit gewissen EinkÅnften, und schlie·t unter Bedingungen einen
+gegenseitigen Schutz- und Trutzvertrag. Die Vogtei von St. Peter, die sie
+gleichfalls zu Lehen haben, darf nicht weiterverliehen werden.
+
+
+REG$Der ErwÑhlte Philipp von Salzburg belehnt die Grafen Otto und Konrad von
+Plain mit allen Besitzungen vor dem Gebirge diesseits der Lamer und des Thurms
+von Lofer, sowie in der Mark, ôsterreich und Bayern, die ihr Oheim Leutold von
+Salzburg zu Lehen gehabt hat, -- ausgenommen sind die Gerichte und Vogteien --
+, sowie mit gewissen EinkÅnften in der Hîhe von 30 Pfund.
+F$SUB 4/012/11ff/11
+G$Philipp/ErwÑhlter/Salzburg/Salzburg//
+E$Otto;Konrad/Genannter/Plain/Plain//b.Gro·gmain
+H$Belehnung/EinkÅnfte/Lamer/Lamer//Pinzgau, s. Abtenau/
+H$Belehnung/EinkÅnfte/Lofer/Lofer, diesseits von//Pinzgau
+W$X/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$contulimus iure feudi ipsis nichilominus redditus triginta librarum
+
+REG$Der ErwÑhlte Philipp von Salzburg belehnt die Grafen Otto und Konrad von
+Plain mit allen Besitzungen vor dem Gebirge diesseits der Lamer und des Thurms
+von Lofer, sowie in der Mark, ôsterreich und Bayern, die ihr Oheim Leutold von
+Salzburg zu Lehen gehabt hat, -- ausgenommen sind die Gerichte und Vogteien --
+, sowie mit gewissen EinkÅnften in der Hîhe von 30 Pfund gegen 300 Pfund
+Salzburger MÅnze.
+F$SUB 4/012/11ff/11
+G$Otto;Konrad/Genannter/Plain/Plain//b.Gro·gmain
+E$Philipp/ErwÑhlter/Salzburg/Salzburg//
+H$Belehnung/Immobilien/unbestimmt/Mark?//
+H$Belehnung/Immobilien/uôsterreich/ôsterreich//
+H$Belehnung/Immobilien/uBayern/Bayern//
+H$Belehnung/EinkÅnfte/Lamer/Lamer//Pinzgau, s. Abtenau/
+H$Belehnung/EinkÅnfte/Lofer/Lofer, diesseits von//Pinzgau
+W$Salzburg/moneta/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$conferre et dare libras trecentas monete Salzburgensis
+
+DOK$SUB4_014/1250.0.0/1250.0.0/um 1250//X/X//
+S$X/X/X
+V$X/X/X
+K$Otto von Goldegg und sein Sohn Konrad bekennen die Verleihung einer Hube in
+Pfarrwerfen durch das Domkapitel an ihren Hîrigen Wergand zu PrÑkarie
+(Freistift?).
+
+REG$Otto von Goldegg und sein Sohn Konrad bekennen die Verleihung einer Hube in
+Pfarrwerfen durch das Domkapitel an ihren Hîrigen Wergand zu PrÑkarie
+(Freistift?) gegen jÑhrlichen Zins in der Hîhe eines Talentes Salzburger MÅnze.
+F$SUB 4/014/14/14
+G$Wergand/Hîriger/Goldegg/Goldegg//BH St.Johann
+E$X/Domkapitel/Salzburg/Salzburg//
+H$Zins/Immobilien/Pfarrwerfen/Pfarrwerfen//BH St.Johann
+W$Salzburg/moneta/
+O$1/tal./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro servitio annui census unius talenti monete Salzburgensis \dots
+persolvendi concessisset
+B$Ungeachtet des Ausdruckes precaria scheint hier nicht Leibgeding, sondern
+widerrufliche Bestiftung vorzuliegen.
+
+

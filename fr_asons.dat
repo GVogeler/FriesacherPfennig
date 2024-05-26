@@ -1,0 +1,136 @@
+note *** Urkunden Aquileia Sonstiges (au·er Domkapitel und S. Maria)
+        Davon fÅr Urkunden S. Stefano öberprÅfung anhand Thaller noch offen
+
+note *** Einlesen der Rohdaten fr_asons.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$ason_01/1139.0.0/1139.0.0/1139/anno incarnationis domini
+MCXXXIX/Cividale/Cividale//Friaul-Ost/
+S$X/X/X
+V$X/X/X
+K$Propst Hartwig von S. Stefano zu Aquileia beklagt sich beim Patriarchen
+Pilgrim I. von Aquileia, da· die Steuereintreiber des Vogtes Meinhard von Gîrz
+die Bauern seiner Propstei mit unmÑ·igen und ungerechten Forderungen beschwerten
+und da· viele, ihrer Lebensmîglichkeiten beraubt, ihre HÑuser hÑtten im Stich
+lassen mÅssen. Man einigt sich darauf, da· der Propst dem Vogt Meinhard und
+seinem Sohn Heinrich 24 Huben, die bisher als Lehen vergeben worden waren, und
+dazu 20 Mark Silber vom Zoll in St. Danielis zu Eigen gibt. DafÅr will der Vogt
+auf Vogteigericht und EinkÅnfte in den genannten GÅtern verzichten.
+
+REG$Propst Hartwig von St. Stefan und Graf Meinhard von Gîrz einigen sich vor
+Patriarch Pilgrim I. von Aquileia bezÅglich der Vogtei in Predemano,
+Terenzano und Carnia dahin, da· der Propst dem Vogt und seinem Sohn Heinrich fÅr
+den Verzicht auf diese 24 Huben, die bisher als Lehen vergeben
+worden waren, und 20 Mark Silber vom Zoll in St. Danielis zu Eigen gibt.
+F$Rubeis MEA/X/567ff/568
+F$Migne 099/14/644f/645
+F$Reg. Gîrz 1/204/57/57
+F$Manzano AF 2/X/129/129
+F$Gioppo/243/195/195
+F$BCU Ms. Joppi 368 Fasz. 4/24/1ff/2
+G$S.Stefano/Propstei/Aquileia/Aquileia//Friaul-SÅd/
+E$Meinhard;Heinrich/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Verzicht/Vogtei/Pradamano/Pradamano/Predemano/wo??
+H$Verzicht/Vogtei/Terenzano/Terenzano//wo??
+H$Verzicht/Vogtei/Carnia/Carnia//wo??
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$ad h\{}aec viginti marcas argenti eidem Minghinardo advocato et filio eius
+Henrico daret
+B$als Zugabe auf 24 Huben
+
+DOK$ason_03/1210.0.0/1210.0.0/ca. 1210/X/X/X//Friaul-SÅd/
+S$X/X/X
+V$X/X/X
+K$Patriarch Wolfger von Aquileia begrÅndet das neue Hospital an der Stra·e
+nach Aquileia.
+
+REG$Patriarch Wolfger von Aquileia begrÅndet das neue Hospital S. Joannis
+Hierosolimitani an der Stra·e nach Aquileia und stimmt zu, da· der Spitalmeister
+jÑhrlich 2 Mark fÅr die Ausbesserung der Stra·e nach Aquileia, wenn nîtig,
+ausgibt.
+F$Rubeis MEA/X/666ff/667
+G$X/Hospital/Aquileia/Aquileia,Johanniterorden//Friaul-SÅd/
+E$X/Hospital/Aquileia/Aquileia,Johanniterorden//Friaul-SÅd/
+H$Stra·enerhaltung/Stra·enerhaltung/Aquileia/Aquileia//Friaul-SÅd/
+W$Aquileia/X/
+O$2/marca/X
+Z$X/X/X
+M$X/den./X/A
+Q$ad reficiendam illam rupturam et strat\{}ae reparationem duas marchas den.
+Aquil. si necesse foret, singulis annis expendere teneretur
+B$Erw. in Urkunde Patr. Bertholds von 1249 Dez. 16 (Rubeis MEA Sp. 666-671).
+
+DOK$ason_04/1211.0.0/1211.0.0/1211/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Kaufbrief von Albrechten und Absolon des Adlers Sîhnen von Aquileia um das
+Dorf Alber am Karst von Kunradt von Schorfenberg um 131 Mark Agleier.
+
+REG$Kaufbrief von Albrechten und Absolon des Adlers Sîhnen von Aquileia um das
+Dorf Alber am Karst von Kunradt von Schorfenberg um 131 Mark Agleier.
+F$Reg. Gîrz 1/357/98/98
+F$Kos 5/186/98f/98
+G$Albrecht;Absolon/X/Aquileia/Aquileia//Friaul-SÅd/
+E$Konrad/Genannter/Scharfenberg/Scharfenberg//Friaul-Ost/
+H$Kauf/Immobilien/Karst_Alber/Karst_Alber//Karst/
+W$Aquileia/X/
+O$131/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$vmb I\+{C} XXXI mr. Aglay
+B$nur Regest erhalten, Scharfenberg bei fand 1211. Kos Svibno 129b2 î.Laibach
+a.Save
+
+DOK$ason_05/1240.0.0/1240.0.0/1240/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Graf Meinhard von Gîrz quittiert dem Propst Johannes von St. Stephan zu
+Aquileia 2500 Pfund kleiner venezianischer Pfennige fÅr den Vogteiverzicht (bzw.
+die VerpfÑndung) Åber die Propstei und deren Massari zu Cussignacco, Predemano,
+Terenzano erhalten zu haben.
+
+REG$Graf Meinhard von Gîrz bekennt von Johannes Propst von St. Stephan in Aquileia
+namens dieser Kirche und mit Willen des Patriarchen von Aquileia 2500 Pfund
+kleiner Venetianer erhalten zu haben.
+F$AT NS 11/21/404f/404
+F$AôG 21 Bianchi/127/213f/213
+F$Manzano AF 2/X/335/335
+F$Reg. Gîrz 1/483/129/129
+F$Kos 5/746/363/363
+G$S. Stefano/Propst/Aquileia/Aquileia//Friaul-SÅd/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$BestÑtigung/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$2500/lib./X
+Z$X/X/X
+M$X/X/parv./A
+Q$se recepisse \dots duo millia et quingentas libras Venetianorum parvulorum
+
+REG$Graf Meinhard von Gîrz bekennt von Johannes Propst von St. Stephan in Aquileia
+namens dieser Kirche und mit Willen des Patriarchen von Aquileia 2500 Pfund
+kleiner Venetianer erhalten zu haben. FÅr dieses Geld verpfÑndet der Graf dem
+Propst Johannes fÅr dessen Kirche die Vogtei, Herbergsrecht, Blutgeld und alle
+Rechte, welche er auf der geannnten Propstei und deren GÅtern in Cussignacco,
+Predemano und Terenzano hatte, und verzichtet fÅr sich und seine Erben auf alle
+Rechte an vorgenannten GÅtern, solange die 2500 Pfund nicht zurÅckgezahlt seien.
+F$AT NS 11/21/404f/405
+F$AôG 21 Bianchi/127/213f/213
+F$Reg. Gîrz 1/483/129/129
+G$S. Stefano/Propst/Aquileia/Aquileia//Friaul-SÅd/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$PfandgeschÑft/Immobilien/Cussignacco/Cussignacco//Friaul-Mitte/
+H$PfandgeschÑft/Immobilien/Pradamano/Pradamano/Predemano/Friaul-Mitte/
+H$PfandgeschÑft/Immobilien/Terenzano/Terenzano//Friaul-Mitte/
+W$X/X/
+O$2500/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$quousque antedictas duo mille et quingentas libras in se habuerit
+
+

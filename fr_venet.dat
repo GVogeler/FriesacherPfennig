@@ -1,0 +1,2103 @@
+note *** Urkunden aus dem Friaul mit Venedig- bzw. Veneto-Bezug
+        Aufgenommen anhand eigener Sammlungen wie zur Zeit der Erstaufnahme
+
+note *** Rivolto bei Codroipo ist nicht mit Rialto zu verwechseln
+
+note *** Einlesen der Rohdaten fr_venet.dat ***
+read name=denar3;
+        linea=0;
+        continue=non;
+stop
+
+DOK$fven_1114a/1114.7.0/1114.7.0/1114 Juli?/?/Parenzo/Parenzo//Istrien/
+S$Ventura/X/Ventura
+V$Ventura/X/Ventura
+K$?   # iprz1114?  nein
+
+REG$NN
+F$CDI 1/122/245f/?
+G$Berthold/Bischof/Parenzo/Parenzo//Istrien/
+E$S.Nicolï di Lido/Kloster/Venedig/Venedig//Venedig/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$centum libras auri purissimi
+B$
+
+DOK$fven_1114b/1114.7.4/1114.7.4/1114 Juli 4?/?/Triest/Triest//Istrien/
+S$Crescentius/X/Crescentius
+V$Crescentius/X/Crescentius
+K$Bischof Herinicius von Triest fÅr das Kloster S. Giorgio btr. Kirche SS.
+Martiri zu Triest.
+
+REG$ist gleich triest 4
+F$CDI 1/123/247/?
+G$Hartwig/Bischof/Triest/Triest//Istrien/
+E$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+H$Zinsleistung/Zins/unbestimmt/unbestimmt//
+W$Venedig/moneta/
+O$24/X/X
+Z$X/X/X
+M$X/den./X/Z
+Q$nostre vero episcopali eclesie XXIIII denarios vestre monete
+persolvere cum caritate et amore debeatis
+
+REG$NN
+F$CDI 1/123/247/?
+G$Hartwig/Bischof/Triest/Triest//Istrien/
+E$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$sciat se compositurum auri purissimi libras III
+B$
+
+DOK$fven_1115/1115.10.12/1115.10.12/1115 Oktober 12/anno vero ab incarnatione
+eiusdem, MCXV imperante domino nostro H. Imperatore, die XII
+mensis octobris, indictione VIII/Triest/Triest//Istrien/
+S$Crescentius/Triest/Crescentius
+V$Crescentius/Triest/Crescentius        triest 4ab
+K$Bischof Hartwig von Triest schenkt Abt Tribunus vom Kloster S. Giorgio
+Maggiore
+in Venedig Land, welches ihm und der Kirche S. Giusto gehîrt, auf dem Boden von?
+SS. Martiri in Triest.  btr. Gebiet um die Kirche S. Giusto.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/124/249f/249
+F$Kos 4/048/26f/27
+G$Hartwig/Bischof/Triest/Triest//Istrien/
+E$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/purissimum/Z
+Q$sciat se compositurum auri purissimi libras III, coactus lege
+Romana hoc solvat
+
+DOK$fven_1135a/1135.3.5/1135.3.5/1135 MÑrz 5/?/Capodistria/Capodistria//Istrien/
+S$Martin/X/Martin
+V$Martin/X/Martin     ist gleich icap 1135
+K$?
+
+REG$NN
+F$zu ergÑnzen/?/?/?
+G$Adalbero/X/X/X//
+E$S.Cipriano/Kloster/Venedig Murano/Venedig,Murano//Venedig/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat compositurus \dots auri optimi libras tres
+
+DOK$fven_1135b/1135.11.1/1135.11.1/1135 November 1/anno domini 1135, die  #
+primo mensis novemb., ind. XIII./Venedig Murano/Venedig,Murano//Venedig/
+S$Martin/X/Martin ?
+V$Martin/X/Martin
+K$Bischof Detemaro von Triest schenkt dem Konvent von S. Cipriano zu Murano
+einen Weingarten in der NÑhe des Flusses Risano zu einem jÑhrlichen Zins in der
+Hîhe von vier Urnen Wein.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/132/260f/260
+F$Kos 4/124/75/75
+G$X/Bistum/Triest/Triest//Istrien/
+E$S.Cipriano/Kloster/Venedig Murano/Venedig,Murano//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat compositurus \dots auri optimi libras tres
+
+DOK$fven_1138aa/1138.7.7/1138.7.7/1138 Juli 7 oder 18/MCXXXVIII. XV. kal. Aug. ind. I.?
+/Treviso/Treviso//wo??
+S$Nannus/kaiserl. Notar/Nannus  Nonnus?
+V$Nannus/kaiserl. Notar/Nannus
+K$Prior Madelbertus von San Cipriano fÅr Todemarius, Sohn des Manfred, eines
+Richters, btr. Vergabe des Mansus zu Musestre, unweit der Kirche S. Cipriano bei
+Cona. Der Mînch und Prior Madelbertus von S. Cipriano in Venedig und Todemarius
+kommen Åberein, da· Todemarus den Mansus auf 29 Jahre zu Livell haben sollte
+(dann ohne GebÅhr zu erneuern).
+
+REG$Der Prior Madelbertus von San Cipriano gibt dem Todemarius, dem Sohn des
+Manfred, eines Richters, einen Mansus zu Musestre, unweit der Kirche S. Cipriano
+bei Cona, auf 29 Jahre zu Livell, wobei Todemarius dem Prior jÑhrlich 25
+Schillinge guter Pfennige Veroneser MÅnze zu bezahlen hat.
+F$ASV Mensa Patr.2 Busta 12/88/?/?
+F$ASV CD Ven. 1126-1134/683/28/28
+G$Todemarius/X/X/X//
+E$Madelbertus/Prior/Cona/Cona?,S. Cipriano//Venedig/
+H$Zinsverpflichtung/Immobilien/Musestre/Musestre//wo??
+W$Verona/moneta/
+O$X/X/X
+Z$25/sol./X
+M$X/den./bonus/Z
+Q$in unoquoque anno \dots denariorum bonorum Veronensis monete solidos XXV
+
+DOK$fven_1142/1142.7.27/1142.7.27/1142 Juli 27/anno autem ab incarnatione   #
+eiusdem verbi dei MCXLII. indictione \dots VI. kalendas augusti,
+regnante domino Conrado Romanorum imperatore Augusto/Triest/Triest//Istrien/
+S$Ulrich/Triest/Ulrich
+V$Ulrich/Triest/Ulrich
+K$Bischof Detemaro von Triest bestÑtigt dem Kloster S. Giorgio Maggiore in
+Venedig die Schenkung der Kirche SS. Martiri zu Triest durch Bischof Hartwig.
+
+REG$Zinsverpflichtung des Klosters S. Giorgio Maggiore in Venedig an den Bischof
+Detemaro von Triest in der Hîhe von jÑhrlich 24 Pfennigen Venet. MÅnze.
+F$CDI 1/134/264f/264
+F$Benedettini/202/414ff/416
+F$Bonomo/6/9f/9
+F$Kos 4/179/107/107
+G$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+E$Detemaro/Bischof/Triest/Triest//Istrien/
+H$Zinsverpflichtung/Immobilien_Kirche/unbestimmt/unbestimmt//
+W$Venedig/moneta/
+O$X/X/X
+Z$X/X/X
+M$24/den./X/Z
+Q$singulis annis \dots census XXIIII denarios vestrae monetae \dots persolvere
+debeas
+B$"Venedig" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/134/264f/265
+F$Kos 4/179/107/107
+F$Benedettini/202/414ff/416
+F$Bonomo/6/9f/9
+G$X/X/X/X//
+E$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$deinde Romanorum legali stipulationi videlicet trium librarum
+auri eundemque subiicimus
+
+DOK$fven_1145/1145.7.28/1145.7.28/1145 Juli 28/anno ab incarnatione #
+domini 1145, die 28 mensis iulii, indictione VIII/Capodistria/Capodistria//Istrien/
+S$Albinus/Capodistria/Albinus
+V$Albinus/Capodistria/Albinus
+K$Bischof Detemaro von Triest schenkt dem Kloster S. Cipriano in Murano einen
+Weingarten in der NÑhe des Flusses Risano zu einem jÑhrlichen Zins von vier
+Urnen Wein.
+
+REG$Strafbestimmung in der Hîhe von 3 Pfund Gold.
+F$CDI 1/135/266f/267
+F$Kos 4/208/118/118
+G$X/Bistum/Triest/Triest//Istrien/
+E$S.Cipriano/Kloster/Venedig Murano/Venedig,Murano//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$3/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$sciat se compositurum \dots auri optimi lib. III
+
+DOK$fven_1153/1153.4.2/1153.4.2/1153 April 2/anno dominice incarnationis MCLIII. mense
+aprili die secundo, indictione prima/X/X//
+S$X/X/X/
+V$X/X/X/
+K$Klerus und Volk von Pola schlie·en Frieden mit Venedig. Sie schwîren dem hl.
+Markus Treue und auch dem Dogen Dominicus Maurocenus und der Komune Venedig und
+entlasten diese von den SchÑden seitens 50 Galeeren und versprechen keine
+Vergeltung zu Åben, auch nicht mit Hilfe Dritter.
+
+REG$Klerus und Volk von Pola schlie·en Frieden mit Venedig. Sie schwîren dem hl.
+Markus Treue und auch dem Dogen Dominicus Maurocenus und der Komune Venedig und
+entlasten diese von den SchÑden seitens 50 Galeeren und versprechen keine
+Vergeltung zu Åben, auch nicht mit Hilfe Dritter unter Strafe von 20 Pfund Gold.
+F$CDI 1/143/280/280
+G$X/Kommune/Pola/Pola//Istrien/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$componere promittimus auri libras viginti
+
+DOK$fven_1155aa/1155.11.2/1155.11.2/1155 November 2/anno eiusdem incarnacione MCLV. secundo
+die intrante mense novemb. indic. tercia/Piove/Piove//wo??
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$Uberto von Ailingo und seine Frau Maria bestÑtigen vom Kloster S. Maria della
+Caril?ta in Venedig fÅr ein GrundstÅck in Piove 30 Pfund Veroneser erhalten zu
+haben.
+
+REG$Uberto von Ailingo und seine Frau Maria bestÑtigen vom Kloster S. Maria della
+Caril?ta in Venedig fÅr ein GrundstÅck in Piove von 30 Pfund Veroneser erhalten
+zu haben.
+F$Gloria, CD Padov. II2/650/2/2
+G$Petrus/X/X/X?//
+E$Uberto/Genannter/uVenetien Ailingo/Ailingo//wo??
+E$Maria/X/X/X//
+H$BestÑtigung_Kaufsumme/Immobilien/Piove/Piove//wo?? di Sacco, s.Padua
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$accepissemus \dots libras XXX Veron.
+
+DOK$fven_1156aa/1156.2.16/1156.2.16/1156 Februar 16/anno domini MCLVI. indictione IIII.
+XIIII. die exeunte februario/Selvazzano/Salvazzano//wo??
+S$Heinrich/X/Heinrich
+V$Heinrich/X/Heinrich?
+K$Otto da Salvazzano investiert Abt Leonardo vom Kloster S. Giorgio Maggiore in
+Venedig als Pfand fÅr 300 Pfund Veroneser mit seinen Besitzungen in Codevigo und
+Gardeto.
+
+REG$Otto da Salvazzano investiert Abt Leonardo vom Kloster S. Giorgio Maggiore in
+Venedig als Pfand fÅr 300 Pfund Veroneser mit seinen Besitzungen in Codevigo und
+Gardeto.
+F$Gloria, CD Padov. II2/657/8/8
+F$Lanfranchi S. Giorgio Mag./270/525f/525
+G$Leonhard/Abt/Venedig/Venedig_S. Giorgio Mag.//Venedig/
+E$Otto/Genannter?/Selvazzano/Salvazzano//wo??
+H$PfandgeschÑft/Immobilien/Codevigo;uVenetien/Codevigo;Gardeto//wo??
+W$Verona/X/
+O$300/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$ad pignus pro CCC libris de Verona nominative de toto quod habet in Capite
+vivi et Gardetho
+
+REG$Otto da Salvazzano investiert Abt Leonardo vom Kloster S. Giorgio Maggiore in
+Venedig als Pfand fÅr 300 Pfund Veroneser mit seinen Besitzungen in Codevigo und
+Gardeto. Dieses Pfand kann er oder seine Erben nach 4 Jahren gegen 300 Pfund
+einlîsen.
+F$Gloria, CD Padov. II2/657/8/8
+F$Lanfranchi S. Giorgio Mag./270/525f/525
+G$Otto/Genannter?/Selvazzano/Salvazzano//wo??
+E$Leonhard/Abt/Venedig/Venedig_S. Giorgio Mag.//wo??
+H$Pfand_Einlîse/Immobilien/Codevigo;uVenetien/Codevigo;Gardeto//wo??
+W$X/X/
+O$300/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$Oto vel eius heredes solvent has CCC libras monasterio sancti Georgii predicto
+abati vel suis successoribus
+
+DOK$fven_1156ab/1156.3.2/1156.3.2/1156 MÑrz 2/anno eiusdem incarnacione MCLVI. secundo
+die Marcii indict. quarta/Piove/Piove//wo??
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$Andrea von Decca und seine Nichte? Gisla bestÑtigen vom Kloster S. Maria
+della CaritÖ in Venedig fÅr ein GrundstÅck in Piove 25 Pfund Veroneser
+erhalten zu haben.
+
+REG$Andrea von Decca und seine Nichte? Gisla bestÑtigen vom Kloster S. Maria
+della CaritÖ in Venedig fÅr ein GrundstÅck in Piove 25 Pfund Veroneser
+erhalten zu haben.
+F$Gloria, CD Padov. II2/659/9/9
+G$Petrus/X/X/X?//
+E$Andrea/Genannter/uVenetien Decca/Decca//wo??
+E$Gisla/X/X/X//
+H$BestÑtigung_Kaufsumme/Immobilien/Piove/Piove//wo??
+W$Verona/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$accepisse \dots libras XXV Veron.
+
+DOK$fven_1156ac/1156.3.26/1156.3.26/1156 MÑrz 26/an. eiusd. incarnacione MCLVI. septimo Kal.
+mensis Aprilis indic. quarta/Piove/Piove//wo??
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$Die BrÅder Viviano und Rustichello, Sîhne des Walpert, bestÑtigen mit
+Zustimmung ihrer Frauen Ursa und Inchildia vom Kloster S.
+Maria della Caril?ta in Venedig fÅr ein GrundstÅck in Piove 30 Pfund Veroneser
+erhalten zu haben.
+
+REG$Die BrÅder Viviano und Rustichello, Sîhne des Walpert, bestÑtigen mit
+Zustimmung ihrer Frauen Ursa und Inchildia vom Kloster S.
+Maria della Caril?ta in Venedig fÅr ein GrundstÅck in Piove 30 Pfund Veroneser
+erhalten zu haben.
+F$Gloria, CD Padov. II2/662/11/11
+G$Petrus/X/X/X?//
+E$Viviano;Rustichello/X/X/X//
+H$BestÑtigung_Kaufsumme/Immobilien/Piove/Piove//wo??
+W$Verona/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$accepimus \dots lib. XXX Veron.
+
+DOK$fven_1156ad/1156.11.7/1156.11.7/1156 November 7/Die mercurii quod est septimo die
+intrante mense novembris MCLVI. indictione quarta /Codevigo/Codevigo/Codevego/
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$Bonifacius und Warnerius, die EhemÑnner von Rosara und Melara,? verkaufen dem
+Jonatha Foscarino (namens des S. Giorgio Maggiore in Venedig) ein GrundstÅck in
+Rosara zum Preis von 7,5 Pfund Veroneser.
+
+REG$Bonifacius und Warnerius, die EhemÑnner von Rosara und Melara,? verkaufen dem
+Jonatha Foscarino (namens des S. Giorgio Maggiore in Venedig) ein GrundstÅck in
+Rosara zum Preis von 7,5 Pfund Veroneser.
+F$Gloria, CD Padov. II2/668/14/14
+F$Lanfranchi/227/528f/528
+G$Jonatha Foscarino/X/X/X//
+E$Bonifacius;Warnerius/X/X/X//
+H$Kauf/Immobilien/Codevigo Rosara/Codevigo,Rosara//
+W$Verona/X/
+O$7,5/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Persolvit \dots usque ad libras VII et mediam Veronenses
+B$Lanfranchi liest "veronensium", Gloria dagegen "Veronenses".
+
+DOK$fven_1156ae/1156.11.29/1156.11.29/1156 November 29/anno eiusdem MCLVI. tercio Kal.
+decembris indic. quarta/X/X//
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$Domenico d\' Isola bestÑtigt, vom Kloster S. Maria della Caril?ta in Venedig
+fÅr ein GrundstÅck in Piove 24 Pfund Veroneser erhalten zu haben.
+
+REG$Domenico d\' Isola bestÑtigt, vom Kloster S. Maria della Caril?ta in Venedig
+fÅr ein GrundstÅck in Piove 24 Pfund Veroneser erhalten zu haben.
+F$Gloria, CD Padov. II2/669/14f/15
+G$Petrus/Vizedom/Venedig/Venedig,S.Maria della Carita/S. Maria della
+Caril?ta/wo??
+E$Domenico/Genannter/Isola/Isola//wo??
+H$Kauf/Immobilien/Piove/Piove//wo??
+W$Verona/X/
+O$24/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$accepisse \dots libras XXIIII Veron.
+
+DOK$fven_1156af/1156.12.2/1156.12.2/1156 Dezember 2/anno eiusdem MCLVI. secundo die
+intrante mense decembris indictione quarta/Venedig/Venedig//Venedig/
+S$Adam/X/Adam
+V$Adam/X/Adam
+K$Placitus, der Sohn des Richters Ade von Piove, bestÑtigt, vom Prior
+Gerhard von S. Salvatore in Venedig fÅr fÅnf GrundstÅcke in Piove Waren und
+Silber im Wert von 50 Pfund Veroneser erhalten zu haben.
+
+REG$Placitus, der Sohn des Richters Ade von Piove, bestÑtigt, vom Prior
+Gerhard von S. Salvatore in Venedig fÅr fÅnf GrundstÅcke in Piove Waren und
+Silber im Wert von 50 Pfund Veroneser erhalten zu haben.
+F$Gloria, CD Padov. II2/670/15/15
+G$Gerhard/Prior/Venedig/Venedig_S. Salvatore//Venedig/
+E$Placitus/X/X/X//
+H$Kauf/Immobilien/Piove/Piove//wo??
+W$Verona?/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$accepi \dots inter argentum et alias res valentes usque ad libras quiquaginta
+Verone finito pretio
+
+DOK$fven_1171aa/1171.2.4/1171.2.4/1171 Februar 4/MCLXXI. ind. IV. IV. intr. Febr.?/Venedig/Venedig//Venedig/
+S$Petrus/kaiserl. Notar/Petrus
+V$Petrus/kaiserl. Notar/Petrus
+K$Patriarch Ulrich II. von Aquileia Åbergibt Petro fÅr das Kloster S. Salvator
+zu Venedig
+Land, welches Prior von Wezelo da Camino in der Villa S. Laurentii [zu Livenza]
+und im zugehîrigen confinium innehat (jÑhrlicher Zins).
+
+REG$Patriarch Ulrich II. von Aquileia fÅr das Kloster S. Salvator zu Venedig btr.
+Land, welches Prior von Wezelo da Camino in der Villa S. Laurentii [zu Livenza]
+und im zugehîrigen confinium innehat (jÑhrlicher Zins). Pînale fÅr
+vertragsbrÅchigen Teil in der Hîhe von 29 Schilling Pfennige Veroneser MÅnze.
+F$ASV S. Salvatore T. 85/?/5r-5v/?
+G$Ulrich II./Patriarch/Aquileia/Aquileia//Friaul-Patr.   ?
+E$X/Kloster/Venedig/Venedig,S.Salvator//Venedig   ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Verona/moneta/
+O$X/X/X
+Z$29/sol./X
+M$X/den./X/Z
+Q$29 soldi den. Veronensis monete
+B$Zugehîrig Urkunde vom selben Tag. Wezelo von Camino fÅr S. Salvator btr. S.
+Laurentius zu Livenza. ASV S. Salvatore T. 6, cop. perg. not. 1542 Aug. 25
+ebenda T. 85, cc. 6r-6v.
+
+DOK$fven_1177/1177.1.7/1177.1.7/1177 Januar 7/anno incarnationis domini
+MCLXXVII, die XXV. exeunte mensis ianuarii, indictione
+VIII/Muggia Gaselo/Muggia,Gaselo//Istrien/
+S$Albert/X/Albert
+V$Albert/X/Albert
+K$Bernhard schenkt mit Zustimmung seiner Frau und Schwiegermutter dem Kloster S.
+Appollinare in Gaselo einen Weingarten in Rebuselo fÅr die Aufnahme in den
+Dienst ?des Klosters.
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 1/158/298/298
+G$Bernhard/X/X/X//
+E$S.Apollinare/Kloster/Muggia Gaselo/Muggia,Gaselo//Istrien S.Nicolï di Oltra
+NÑhe Muggia
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$compositurus \dots auri libras I
+B$IdentitÑt von Gaselo mit S.Nicolï di Oltra durch Benussi S.280.
+
+DOK$fven_1183/1183.4.30/1183.4.30/1183 April 30/anno a nativitate domini
+MCLXXXIII. indictione prima die Sabati I. exeunte Aprili/Treviso/Treviso//Veneto/
+S$Vivian/kaiserl. Notar/Vivian
+V$Vivian/kaiserl. Notar/Vivian
+K$Patriarch Gottfried von Aquileia bestimmt Stefan Barocius aus Venedig und
+Liberius, Goldschmied aus Treviso, zu seinen Prokuratoren zur Zahlung von 115
+Mark an Auliverio, dem Sohn des Jakob Isembard von Pavia.
+
+REG$Patriarch Gottfried von Aquileia bestimmt Stefan Barocius aus Venedig und
+Liberius, Goldschmied aus Treviso, zu seinen Prokuratoren zur Zahlung von 115
+Mark an Auliverius, dem Sohn des Jakob Isembard von Pavia.
+F$Puschnig Reg./57/10/10
+F$Gioppo/355/257f/257
+F$Manzano AF 2/X/171/171
+F$MSF 05/1/15/15
+F$BCU Ms. Joppi 368 Fasz. 6/21/1/1
+G$Stephan/Barocius/Venedig/Venedig//Venedig/
+G$Liberius/Goldschmied/Treviso/Treviso//Veneto/
+E$Auliverius/X/Pavia/Pavia//wo??
+H$BÅrgschaft/Schulden_Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$115/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$ad persolvendum C marchis et XV
+B$Leicht im Kommentar - kînnte mit kaiserlichen Gesandten beim Lombardenbund zu
+tun haben. Leicht und Gioppo datieren die Urkunde mit 16. April. Puschnig
+nennt Venedig als Ausstellungsort. Manzano und Puschnig sprechen
+fÑlschlicherweise von 100 Mark.
+
+DOK$fven_1183a/1183.5.6/1183.5.6/1183 Mai 6/anno a nativitate domini MCLXXXIIII. indictione
+prima die Iovis VI. intrante Madio/Treviso/[Treviso]//Veneto/
+S$Vivian/kaiserl. Notar/Vivian
+V$Vivian/kaiserl. Notar/Vivian
+K$Auliverius, der Sohn des Jakob Isembard von Pavia quittiert die Bezahlung
+einer Schuld durch Patriarch Gottfried von Aquileia vertreten durch Stephanus
+Barocius und Liberius.
+
+REG$Auliverius, der Sohn des Jakob Isembard von Pavia quittiert die Bezahlung
+einer Schuld durch Patriarch Gottfried von Aquileia in der Hîhe von 315 Mark.
+F$MSF 05/2/16/16
+F$Gioppo/357/258f/?
+G$Gottfried/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Auliverius/X/Pavia/Pavia//Lombardei/
+H$Quittung/Schulden_Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$315/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$de CCC [et XV marchis]
+B$Leicht im Kommentar - kînnte mit kaiserl. Gesandten beim Lombardenbund zu tun
+haben.
+
+REG$Auliverius, der Sohn des Jakob Isembard von Pavia quittiert die Bezahlung
+einer Schuld durch Patriarch Gottfried von Aquileia vertreten durch Stephanus
+Barocius und Liberius in der Hîhe von 315 Mark.
+F$MSF 05/2/16/16
+F$Gioppo/357/258f/?
+G$Stephan/Barocius/Venedig/(Venedig)//Venedig/
+G$Liberius/(Goldschmied)/Treviso/(Treviso)//Veneto/
+E$Auliverius/X/Pavia/Pavia//Lombardei/
+H$Quittung/Schulden_Geld/unbestimmt/unbestimmt//
+W$X/X/
+O$315/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$CCC et XV march
+B$Leicht im Kommentar - kînnte mit kaiserl. Gesandten beim Lombardenbund zu tun
+haben.
+
+DOK$fven_1197/1197.9.18/1197.9.18/1197 September 18/MCXCVII. indictione XV. mense septembri
+XIII. die exeunte/Aquileia/Aquileia//Friaul-SÅd/
+S$Wilhelm/kaiserl. Notar/Wilhelm
+V$Wilhelm/kaiserl. Notar/Wilhelm
+K$Bernhard von Cerclaria verkauft an Sebastianus Ziani aus Caorle vier sortes
+seines Schiffes.
+
+REG$Bernhard von Cerclaria verkauft an Sebastianus Ziani aus Caorle vier sortes
+seines Schiffes zum Preis von 200 Venezianischen Pfund.
+F$Morozzo-Lombardo I/436/428f/429
+F$MSF 03/2/109f/110
+F$BCU Ms. Joppi 368 Fasz. 7/38/1f/1
+F$BCU Ms. Joppi 368 Fasz. 7/39/1f/1
+G$Sebastian Ziani/X/Caorle/Caorle//Venedig/
+E$Bernhard Cerclaria/miles/Cividale/Cividale//Friaul-Ost/
+H$Kauf/Schiffs-Anteile/Bibione/Bibons//wo??
+W$Venedig/X/
+O$200/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro precio ducentarum librarum venecialium quas accepit a predicto
+Sebastiano de hinc per totum mensem februarii
+B$Durch eine weitere Urkunde des Sebastianus Ziani wird deutlich, da· es sich
+bei dem Schiffsverkauf in Wahrheit um ein GeschÑft des venezianischen Staates
+gehandelt hat (ungedrucktes Original Venedig Museo Correr, MS Cicogna 2835 (3)
+Miscellanea). (Rîsch, Venedig, 109 mit Note 76). Druck mit zitierter Urkunde in
+MSF 3 S. 109f Nr. 2, jedoch ist dort von Pfund und nicht von Venezianischen
+Pfund die Rede.
+
+REG$Bernhard von Cerclaria verkauft an Sebastianus Ziani aus Caorle vier sortes
+seines Schiffes zum Preis von 200 Venezianischen Pfund und zu genannten
+Bedingungen. Sollte Bernhard dagegen versto·en mu· er mit seinen Erben dem
+Sebastinan und dessen Erben unter anderem 300 Mark Silber bezahlen.
+F$Morozzo-Lombardo I/436/428f/429
+F$MSF 03/2/109f/110
+F$BCU Ms. Joppi 368 Fasz. 7/38/1f/2
+F$BCU Ms. Joppi 368 Fasz. 7/39/1f/2
+G$Bernhard Cerclaria/miles/Cividale/Cividale//Friaul-Ost/
+E$Sebastian Ziani/X/Caorle/Caorle//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$300/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$et insuper marchas argenti trecentas et inde in antea suprascripte
+trecente marche laborare debent quinque sex per annum
+B$"suprascriptas trecentas marchas laborare debet quinque sex per annum"
+(BCU Ms. Joppi 368 Fasz. 7 Nr. 39).
+
+REG$Bernhard von Cerclaria verkauft an Sebastianus Ziani aus Caorle vier sortes
+seines Schiffes zum Preis von 200 Venezianischen Pfund und zu genannten
+Bedingungen. Sollte Bernhard dagegen versto·en mu· er mit seinen Erben dem
+Sebastinan und dessen Erben unter anderem 300 Mark Silber bezahlen.
+F$Morozzo-Lombardo I/436/428f/429
+F$MSF 03/2/109f/110
+F$BCU Ms. Joppi 368 Fasz. 7/38/1f/2
+F$BCU Ms. Joppi 368 Fasz. 7/39/1f/2
+G$Bernhard Cerclaria/miles/Cividale/Cividale//Friaul-Ost/
+E$Sebastian Ziani/X/Caorle/Caorle//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$300/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et insuper marchas argenti trecentas et inde in antea suprascripte
+trecente marche laborare debent quinque sex per annum
+B$"suprascriptas trecentas marchas laborare debet quinque sex per annum"
+(BCU Ms. Joppi 368 Fasz. 7 Nr. 39).
+
+REG$Bernhard von Cerclaria verkauft an Sebastianus Ziani aus Caorle vier sortes
+seines Schiffes zum Preis von 200 Venezianischen Pfund und zu genannten
+Bedingungen. Sollte Bernhard dagegen versto·en mu· er mit seinen Erben dem
+Sebastinan und dessen Erben unter anderem 300 Mark Silber bezahlen, die jÑhlrich
+56 Mark? zinsen.?
+F$Morozzo-Lombardo I/436/428f/429
+F$MSF 03/2/109f/110
+F$BCU Ms. Joppi 368 Fasz. 7/38/1f/2
+F$BCU Ms. Joppi 368 Fasz. 7/39/1f/2
+G$Bernhard Cerclaria/miles/Cividale/Cividale//Friaul-Ost/
+E$Sebastian Ziani/X/Caorle/Caorle//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+H$Zinsen?/Strafgeld/unbestimmt/unbestimmt// ?
+W$X/X/
+O$56?/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$et insuper marchas argenti trecentas et inde in antea suprascripte
+trecente marche laborare debent quinque sex per annum
+B$"suprascriptas trecentas marchas laborare debet quinque sex per annum"
+(BCU Ms. Joppi 368 Fasz. 7 Nr. 39).
+
+DOK$fven_1198/1198.9.0/1198.9.0/1198 September/anno domini MCXCVIII. mensis Septembris
+indictione secunda/Venedig/Venedig//Venedig/
+S$Venerius de Mario/X/Venerius de Mario
+V$Venerius de Mario/X/Venerius de Mario
+K$Sebastianus Ziani aus Caorle benachrichtigt den Dogen Enrico Dandolo Åber den
+Erwerb von vier sortes eines Schiffes von Bernhard von Cerclaria und Åbergibt
+die vier sortes eines Schiffes und alle Rechte aus diesem Vertrag an die Kommune
+von Venedig.
+
+REG$Sebastianus Ziani aus Caorle benachrichtigt den Dogen Enrico Dandolo Åber den
+Erwerb von vier sortes eines Schiffes von Bernhard von Cerclaria und Åbergibt
+die vier sortes eines Schiffes und alle Rechte aus diesem Vertrag an die Kommune
+von Venedig. Bei Zuwiderhandeln wird eine Strafe in der Hîhe von fÅnf Pfund Gold
+festgesetzt.
+F$MSF 03/2/109f/110
+F$BCU Ms. Joppi 368 Fasz. 7/49/2ff/5
+F$BCU Ms. Joppi 368 Fasz. 7/51/1f/2
+G$Sebastian Ziani/X/Caorle/Caorle//Venedig/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$X/X/X
+M$X/aurum/X/Z
+Q$vobis et suprascripto comuni veneciarum et vestris successoribus aureas libras
+quinque
+B$Zitiert 1197 September 18, Cividale.
+
+DOK$fven_1198a/1198.4.3/1198.4.3/1198 April 3/anno domini MCXCVIII. indict. I. mense Aprili III. die
+intrante/Aquileia/Aquileia//Friaul-SÅd/
+S$Wilhelm/kaiserl. Notar/Wilhelm
+V$Wilhelm/kaiserl. Notar/Wilhelm
+K$Leonhard von Tarcento anstelle des Bernhard von Cerclaria fÅr Heinrich
+Morosini anstelle des Dogen btr. BÅrgschaft.
+
+REG$Leonhard von Tarcento verbÅrgt sich anstelle des Bernhard von Cerclaria dem
+Heinrich Morosini anstelle des Dogen der Vertragstreue unter Strafe von 1000
+Venezianischen Pfund. ?
+F$BCU Ms. Joppi 368 Fasz. 7/44/1/1
+F$BCU Ms. Joppi 368 Fasz. 7/45/1/1
+G$Leonhard/Genannter/Tarcento/Tarcento//Friaul-Mitte/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$BÅrgschaft/Vertragstreue/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nomine pene mille librarum venecialium
+B$Offenbar gab es 5 weitere BÅrgen Åber je 1000 libra Venez.
+
+REG$Heinrich von Villalta, Johannes von Zuccula, Dietrich von
+Fontebona, Ludwig von Lavariacco, Jakob von Butriaco und Konrad von Cerclaria
+verbÅrgen sich anstelle des Leonhard von Tarcento dem Dogen von Venedig der
+Vertragstreue unter Strafe von 6000 Venezianischen Pfund. ?
+F$BCU Ms. Joppi 368 Fasz. 7/44/1/1
+F$BCU Ms. Joppi 368 Fasz. 7/45/1/1
+G$Heinrich/Genannter/Villalta/Villalta//wo??
+G$Johannes/Genannter/Zuccola/Zuccula//wo??
+G$Dietrich/Genannter/Fontanabona/Fontanabona/Fontebona/wo??
+G$Ludwig/Genannter/Savorgnano/Lavariacco//wo?? Herren von Lavariano ist ident
+mit Herren von Savorgnano nw.Palmanova
+G$Jakob/Genannter/uFriaul Butriaco/Butriaco//wo??
+G$Konrad/Genannter/Cividale/Cividale,Cerclaria//Familie i.Cividale
+E$X/Doge/Venedig/Venedig//Venedig/
+H$BÅrgschaft/Vertragstreue/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$6000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nomine pene VI mille librarum venecialium
+
+DOK$fven_1198b/1198.4.22/1198.4.22/1198 April 22/in nomine domini MCXCVIII. die iovis nono
+exeunte mense aprilis indictione prima/Venedig/Venedig//Venedig/
+S$Wipertinus/kaiserl. Notar/Wipertinus
+V$Wipertinus/kaiserl. Notar/Wipertinus
+K$Friedrich von Caporiacco u.a. schwîren dem Dogen Enrico Dandolo und der
+Kommune von Venedig Dienste mit einem Schiff.
+
+REG$Ulrich von Caporiacco, der Bruder Friedrichs von Caporiacco, Hartwig? und
+Friedrich, der Sohn Friedrichs, verbÅrgen sich anstelle des Friedrich von
+Caporiacco dem Dogen Enrico Dandolo und der Kommune von Venedig zur Zahlung von
+10 000 Pfund Venezianischer Pfennige bei Vertragsbruch Friedrichs
+hinsichtlich seines Verhaltens btr. sein Schiff.
+F$MSF 38/2/24/24
+F$Lombardo-Morozzo/45/51f/51
+F$BCU Ms. Joppi 368 Fasz. 7/46/1/1
+F$BCU Ms. Joppi 368 Fasz. 7/ad 46/1f/1
+G$Ulrich;Friedrich;Artuicus?Hartwig/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Enrico Dandolo/Doge/Venedig/Venedig//Venedig/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$BÅrgschaft/Vertragstreue/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$se districte obligaverunt se paccaturos decem milia libras
+denariorum venecialium
+
+REG$Gabriel der Bruder Friedrichs von Caporiacco verbÅrgt sich anstelle seines
+Bruders zusammen mit anderen genannten Verwandten
+dem Dogen Enrico Dandolo und der Kommune von Venedig zur Zahlung von
+10 000 Pfund Venezianischer Pfennige bei Vertragsbruch Friedrichs
+hinsichtlich seines Verhaltens btr. sein Schiff.
+F$MSF 38/2/24/24
+F$Lombardo-Morozzo/45/51f/52
+F$BCU Ms. Joppi 368 Fasz. 7/46/1/1
+F$BCU Ms. Joppi 368 Fasz. 7/ad 46/1f/1
+G$Gabriel/Genannter/Caporiacco/Caporiacco//Friaul-Mitte/
+E$Enrico Dandolo/Doge/Venedig/Venedig//Venedig/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$BÅrgschaft/Vertragstreue/unbestimmt/unbestimmt//
+W$X/X/
+O$10000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$paccaturum iamdictas decem milia libras denariorum
+
+DOK$fven_1198c/1198.9.0/1198.9.0/1198 September/?/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Der Doge Enrico Dandolo stellt der Kirche S. Marco eine Quittung Åber 2871
+Lire (Pfund Pfennige?) aus.
+
+REG$Der Doge Enrico Dandolo stellt der Kirche S. Marco eine Quittung Åber 2871
+Lire (Pfund Pfennige?) aus.
+F$ASV Misc. Duc. ed atti dipl. VI C7/50/?/?
+G$X/Kirche/Venedig/Venedig_S. Marco//Venedig/
+E$Enrico Dandolo/Doge/Venedig/Venedig//Venedig/
+H$Quittung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$2871/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$?
+B$Aus dem öbersichtsblatt aufgenommen.
+
+DOK$fven_1198d/1198.10.0/1198.10.0/1198 Oktober/anno domini MCXCVIII. mense octubris
+inditione secunda/Venedig/Venedig//Venedig/
+S$Dominicus Suavis/X/Dominicus Suavis ?
+V$Dominicus Suavis/X/Dominicus Suavis
+K$Johannes Anastasius und Vitalis Voltani schlie·en colleganzia fÅr
+Handelsreisen nach Aquileia und Apulien.
+
+REG$Johannes Anastasius und Vitalis Voltani schlie·en colleganzia fÅr
+Handelsreisen nach Aquileia und Apulien, wobei Vitalis Voltani 50 Pfund
+Venezianischer Pfennige und Johannes Anastasius 25 Pfund Venezianischer Pfennige
+einbringt.
+F$Morozzo-Lombardo 1/441/433f/433
+G$Vitalis Voltani/X/Venedig/Venedig//Venedig/
+E$Johannes Anastasius/X/Venedig/Venedig//Venedig/
+H$colleganzia?/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$50/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$Accepi \dots libras denariorum venecialium quinquaginta
+
+REG$Johannes Anastasius und Vitalis Voltani schlie·en colleganzia fÅr
+Handelsreisen nach Aquileia und Apulien, wobei Vitalis Voltani 50 Pfund
+Venezianischer Pfennige und Johannes Anastasius 25 Pfund Venezianischer Pfennige
+einbringt.
+F$Morozzo-Lombardo 1/441/433f/433
+G$Johannes Anastasius/X/Venedig/Venedig//Venedig/
+E$Vitalis Voltani/X/Venedig/Venedig//Venedig/
+H$colleganzia?/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$25/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$posui \dots libras denariorum venecialium viginti quinque
+
+DOK$fven_1202a/1202.10.0/1202.10.0/1202 Oktober/anno domini MCCII. mense octobris indictione
+sexta/Muggia/Muggia//Istrien/
+S$Andreas Conrado/X/Andreas Conrado  ?
+V$Andreas Conrado/X/Andreas Conrado
+K$Die Kommune von Muggia schwîrt dem Dogen Enrico Dandolo von Venedig Treue.
+
+REG$Die Kommune von Muggia schwîrt dem Dogen Enrico Dandolo von Venedig Treue. Bei
+Zuwiderhandeln gegen den Vertrag wird eine Pînale in der Hîhe von 100 Pfund Gold
+vereinbart.
+F$Minotto Documenta/X/9f/10
+F$CDI 2/194/359ff/361
+F$FRA II 12/097/396ff/402
+F$Kos 5/032/25ff/27
+G$X/Kommune/Muggia/Muggia//Istrien/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/obryzum/Z
+Q$componere promittimus \dots auri obrici libras centum
+
+DOK$fven_1202b/1202.10.27/1202.10.27/1202 Oktober 27/anno dominice incarnationis MCCII.
+indictione sexta die quinto exeunte mense octubri/Triest/Triest//Istrien/
+S$Andreas Diaconus/kaiserl. Notar/Andreas Diaconus
+V$Andreas Diaconus/kaiserl. Notar/Andreas Diaconus
+K$Die Kommune von Triest schwîrt dem Dogen Enrico Dandolo von Venedig Treue.
+
+REG$Die Kommune von Triest schwîrt dem Dogen Enrico Dandolo von Venedig Treue. Bei
+Zuwiderhandeln gegen den Vertrag wird eine Pînale in der Hîhe von 100 Pfund Gold
+vereinbart.
+F$Minotto Documenta/X/10ff/12
+F$FRA II 12/096/386ff/396
+F$CDI 2/195/363ff/366
+F$Kos 5/031/20ff/24
+G$X/Kommune/Triest/Triest//Istrien/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$100/lib./X
+Z$X/X/X
+M$X/aurum/obryzum/Z
+Q$promittimus \dots auri obrizi libras centum
+B$1202 Oktober 5 statt 27 bei FRA und Minotto, 26 bei Kandler.
+
+DOK$fven_1210a/1210.0.0/1210.0.0/1210/anno domini MCCX, indictione
+tertiadecima/Capodistria/Capodistria//Istrien/
+S$Almericus/Capodistria/Almericus
+V$Almericus/Capodistria/Almericus
+K$Bonifaz de Wilpurga und sein Schwiegersohn Otto verkaufen dem Kloster S.
+Nicol\'o und S. Appollinare einen Weingarten.
+
+REG$Bonifaz de Wilpurga und sein Schwiegersohn Otto verkaufen dem Kloster S.
+Nicol\'o und S. Appollinare einen Weingarten um 106 Pfund Venet. Pfennige.
+F$CDI 2/209/386/386
+F$Kos 5/167/92f/92
+G$S.Nicol\'o di Lido/Kloster/Venedig/Venedig//Venedig/
+E$Bonifaz/Genannter/Capodistria/Wilpurga?Capodistria//Istrien/
+E$Otto/X/Capodistria/Capodistria//Istrien/
+H$Kauf/Immobilien_Weingarten/Capodistria/Capodistria//Istrien/
+W$Venedig/X/
+O$106/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro centum et sex libris Venetorum denariorum
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/209/386/386
+F$Kos 5/167/92f/92
+G$Bonifaz/Genannter/Capodistria/Wilpurga?Capodistria//Istrien/
+E$S.Nicol\'o di Lido/Kloster/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi libram unam \dots obligaverunt
+
+DOK$fven_1210b/1210.11.0/1210.11.0/1210 November/anno domini MCCX,
+mensis novembris, indictione tertiadecima/Capodistria/Capodistria//Istrien/
+S$Almericus/Capodistria/Almericus
+V$Almericus/Capodistria/Almericus
+K$Johannes Girgilia verkauft dem Kloster S. Nicol\'o di Lido und S. Appollinare
+einen Weingarten.
+
+REG$Johannes Girgilia verkauft dem Kloster S. Nicol\'o di Lido und S. Appollinare
+einen Weingarten um 40 Pfund Venet. Pfennige.
+F$CDI 2/210/387/387
+F$Kos 5/165/91/91
+G$S.Nicol\'o di Lido/Kloster/Venedig/Venedig//Venedig/
+E$Johannes Girgilia/X/Capodistria/Capodistria//Istrien/
+H$Kauf/Immobilien_Weingarten/Capodistria/Capodistria?//Istrien/
+W$Venedig/X/
+O$40/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$pro quadraginta libris Venetorum denariorum
+
+REG$Strafbestimmung in der Hîhe von einem Pfund Gold.
+F$CDI 2/210/387/387
+F$Kos 5/165/91/91
+G$Johannes Girgilia/X/Capodistria/Capodistria//Istrien/
+E$S.Nicol\'o di Lido/Kloster/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$1/lib./X
+Z$X/X/X
+M$X/aurum/optimum/Z
+Q$auri optimi libram unam \dots se compositurum fieri obligavit
+
+DOK$fven_1225a/1225.6.0/1225.6.0/1225 Juni?/?/Venedig/Venedig//Venedig/
+S$X/X/X/
+V$X/X/X/
+K$     siehe fand.dat 1225a
+
+REG$NN
+F$zu ergÑnzen/?/?/?
+G$X/Doge/Venedig/Venedig//Venedig/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Darlehen/Geldschuld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$marcas quinquaginta boni argenti
+
+DOK$fven_1226/1226.5.9/1226.5.9/1226 Mai 9/anno domini MCCXXVI. VIIII. die intrante maio
+indictione XIIII./Cividale/Cividale//Friaul-Ost/
+S$Ulrich/kaiserl. Notar/Ulrich
+V$Ulrich/kaiserl. Notar/Ulrich
+K$Markgraf Heinrich von Istrien nimmt bei den BrÅdern Grimani ein Darlehen auf.
+RÅckzahlung in Cividale, Sacile, Aquileia, Pordenone, Triest oder Capodistria.
+
+REG$Markgraf Heinrich von Istrien nimmt bei den BrÅdern Grimani ein Darlehen
+in der Hîhe von 420 Mark auf.
+F$Cessi, Deliberazioni 1/142/211f/211
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/696/164/164
+F$Cessi, Deliberazioni 1/150/214ff/215
+F$Kos 5/441/221/221
+G$Angelo Grimani;Dominico Grimani/X/Venedig/Venedig//Venedig/
+G$Filippo;Iohannes/X/Venedig/Venedig//Venedig/
+E$Heinrich/Markgraf/Istrien/Istrien//Istrien/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$420/marca/X
+Z$X/X/X
+M$X/X/X/A
+Q$confessus fuit \dots se debere \dots CCCC marcas et XX marcas
+Aquilegiensis monete
+B$Friulaner Zeugen! Insert in 1226? November 26, Venedig (Cessi, Deliberazioni
+1, Nr. 150, S. 214ff) und?? 1228 Dezember 31 (Cessi, Deliberazioni 1, Nr. 142,
+S. 211f, Regest bei Predelli, Lib. Pleg. Nr. 696, S. 164).?Nachlesen
+Vergleich der Stellen?!
+
+REG$Markgraf Heinrich von Istrien verpfÑndet Angelo und Dominico Grimani sowie
+deren BrÅdern Filippo und Iohannes alle EinkÅnfte seiner Besitzungen in Wippach
+und Arensberch, wovon diese jÑhrlich 50 Mark Pfennige Agleier MÅnze bis
+zur Tilgung der Schulden vom Markgrafen erhalten sollen.
+F$Cessi, Deliberazioni 1/142/211f/212
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/696/164/164
+F$Kos 5/441/221/221
+F$Cessi, Deliberazioni 1/150/214ff/215
+G$Heinrich/Markgraf/Istrien/Istrien//Istrien/
+E$Angelo Grimani;Dominico Grimani/X/Venedig/Venedig//Venedig/
+E$Filippo;Iohannes/X/Venedig/Venedig//Venedig/
+H$Schuldentilgung/EinkÅnfte/Wippach;Ahrensperg/Wippach;Ahrensperg/Arensberch/Karst/
+W$Aquileia/moneta/
+O$50/marca/X
+Z$X/X/X
+M$X/den./X/Z
+Q$quinquaginta marchas denariorum Aquilegiensis monete a dicto domino
+marchione usque ad plenam supradicti debiti solutionem
+B$Zahlbar in Aquileia, Cividale, Sacile, Pordenone, Capodistria oder
+Triest
+
+REG$Markgraf Heinrich von Istrien verpfÑndet Angelo und Dominico Grimani sowie
+deren BrÅdern Filippo und Iohannes alle EinkÅnfte seiner Besitzungen in Wippach
+und Arensberch, wovon diese jÑhrlich 50 Mark bis zur Tilgung der Schulden vom
+Markgrafen, zahlbar in Aquileia, Cividale, Sacile, Pordenone, Capodistria oder
+Triest, erhalten sollen.
+F$Cessi, Deliberazioni 1/142/211f/212
+F$Cessi, Deliberazioni 1/150/214ff/215
+G$Heinrich/Markgraf/Istrien/Istrien//Istrien/
+E$Angelo Grimani;Dominico Grimani/X/Venedig/Venedig//Venedig/
+E$Filippo;Iohannes/X/Venedig/Venedig//Venedig/
+H$Schuldentilgung/Geldsumme/Aquileia/Aquileia//Friaul-SÅd/
+H$Schuldentilgung/Geldsumme/Cividale/Cividale//Friaul-Ost/
+H$Schuldentilgung/Geldsumme/Sacile/Sacile//wo??
+H$Schuldentilgung/Geldsumme/Pordenone/Pordenone//wo??
+H$Schuldentilgung/Geldsumme/Capodistria/Capodistria//wo??
+H$Schuldentilgung/Geldsumme/Triest/Triest//Istrien/
+W$X/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$quas utique L marcas dominus marchio debet et promisit solvere in Aquilegia
+vel in civitate Foriiulii vel apud Sacilum aut in Portu Naonis vel in civitate
+iustinopolitana aut etiam apud Tergestum
+B$Zahlbar in Aquileia, Cividale, Sacile, Pordenone, Capodistria oder
+Triest
+
+REG$Markgraf Heinrich von Istrien verpfÑndet Angelo und Dominico Grimani sowie
+deren BrÅdern Filippo und Iohannes alle EinkÅnfte seiner Besitzungen in Wippach
+und Arensberch, wovon diese jÑhrlich 50 Mark Pfennige Agleier MÅnze bis
+zur Tilgung der Schulden vom Markgrafen erhalten sollen. Sollte der Markgraf vor
+der vollstÑndigen Tilgung sterben, sollen seine GlÑubiger oder deren
+Erben weiterhin jÑhrlich 50 Mark Agleier Pfennige von seinen Nachfolgern
+oder Erben bis zur vollstÑndigen SchuldenrÅckzahlung erhalten.
+F$Cessi, Deliberazioni 1/142/211f/212
+G$X/Markgraf/Istrien/Istrien/Istrien
+E$Angelo Grimani;Dominico Grimani/X/Venedig/Venedig//Venedig/
+E$Filippo;Iohannes/X/Venedig/Venedig//Venedig/
+H$Schuldentilgung/EinkÅnfte/Wippach/Wippach//wo??
+W$Aquileia/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$reccipiendo quinquaginte(a!) marcas denariorum Aquilegiensium
+
+DOK$fven_1229/1229.10.26/1229.10.26/1229 Oktober 26/anno eiusdem Nativitatis MCCXXVIIII. die
+VI. exeunte mense octubris indictione secunda/Venedig/Venedig//Venedig/
+S$Gabriel/kaiserl. Notar/Gabriel
+V$Gabriel/kaiserl. Notar/Gabriel
+K$Patriarch Berthold von Aquileia nimmt bei Domenico Grimani ein Darlehen auf.
+
+REG$Patriarch Berthold von Aquileia verspricht dem Domenico Grimani das Darlehen
+in der Hîhe von 370 Mark Agleier MÅnze zurÅckzuzahlen.
+F$Cessi, Deliberazioni 1/150/214ff/215
+F$Predelli, Lib. pleg., AV Suppl. 4 Anno 2/718/169/169
+F$Kos 5/505/251f/251
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Domenico Grimani/Genannter/Venedig/Venedig//Venedig/
+H$Zahlungsversprechen/Schulden_Geld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$370/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$marcas trecentas et septuaginta Aquilegensis monete
+B$U. a. Friauler Zeugen!
+
+REG$Patriarch Berthold von Aquileia verspricht dem Domenico Grimani das Darlehen
+in der Hîhe von 370 Mark Agleier MÅnze zurÅckzuzahlen, nÑmlich jÑhrlich zu S.
+Gregor 50 Mark und im letzten Jahr 20 Mark.
+F$Cessi, Deliberazioni 1/150/214ff/215
+F$Predelli, Lib. pleg., AV Suppl. 4 Anno 2/718/169/169
+F$Kos 5/505/251f/251
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Domenico Grimani/Genannter/Venedig/Venedig//Venedig/
+H$Schuldentilgung/Geldsumme/Wippach/Wippach//Karst   steht doch nicht da?
+W$Aquileia?/X/
+O$50/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$annuatim marcas quinquaginta in festo S. Gregorii, in civitate
+Aquilegie
+B$Zahlbar in Aquileia [nicht mehr auch in Cividale, Sacile, Pordenone,
+Capodistria oder Triest]. Es handelt sich um die noch offenen Teile
+der 420-Mark-Schuld des MG Heinrich von Istrien, des Bruders des
+Patriarchen.
+
+REG$Patriarch Berthold von Aquileia verspricht dem Domenico Grimani das Darlehen
+in der Hîhe von 370 Mark Agleier MÅnze zurÅckzuzahlen, nÑmlich jÑhrlich zu S.
+Gregor 50 Mark und im letzten Jahr 20 Mark.
+F$Cessi, Deliberazioni 1/150/214ff/215
+F$Predelli, Lib. pleg., AV Suppl. 4 Anno 2/718/169/169
+F$Kos 5/505/251f/251
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Domenico Grimani/Genannter/Venedig/Venedig//Venedig/
+H$Schuldentilgung/Geldsumme/Wippach/Wippach//Karst   steht doch nicht da?
+W$Aquileia?/X/
+O$20/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$In ultimo vero anno solutionis debet solvere marcas viginti
+
+REG$Patriarch Berthold von Aquileia verspricht dem Domenico Grimani das Darlehen
+in der Hîhe von 370 Mark Agleier MÅnze zurÅckzuzahlen.
+F$Cessi, Deliberazioni 1/150/214ff/215
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Domenico Grimani/Genannter/Venedig/Venedig//Venedig/
+H$Zahlungsversprechen/Schulden_Geld/unbestimmt/unbestimmt//  RÅckzahlungsplan?
+W$Aquileia/moneta/
+O$370/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$marcas trecentas et septuaginta Aquilegensis monete
+
+REG$Patriarch Berthold von Aquileia bestÑtigt, dem Domenico Grimani ein Darlehen
+in der Hîhe von 370 Mark Agleier MÅnze zu schulden.
+F$Cessi, Deliberazioni 1/150/214ff/215
+G$Berthold/Patriarch/Aquileia/Aquileia//Friaul-Patr./
+E$Domenico Grimani/Genannter/Venedig/Venedig//Venedig/
+H$BestÑtigung/Schulden_Geld/unbestimmt/unbestimmt//
+W$Aquileia/moneta/
+O$370/marca/X
+Z$X/X/X
+M$X/X/X/Z
+Q$debitum marcarum trecentarum septuaginta
+420 Mark etc. nochmals aufnehmen??
+
+DOK$fven_1240aa/1240.6.14/1240.6.14/1240 Juni 14/anno domini 1240 die 14 Iunii/X/X// #
+S$X/X/X                           zwei Ausfertigungen??anderes Datum!!
+V$X/X/X                           anderes Kloster?
+K$Der Abt Peter von SS. Martiri verpflichtet sich gegenÅber dem Kapitel von
+Triest, jÑhrlich am Fest des Hl. Paul 40 Triestiner Pfennige und am Fest der Hl.
+Justina nochmals 40 zu geben.      nicht in Venedig Ordner!
+
+REG$Der Abt Peter von SS. Martiri verpflichtet sich gegenÅber dem Kapitel von
+Triest, jÑhrlich am Fest des Hl. Paul 40 Triestiner Pfennige und am Fest der Hl.
+Justina nochmals 40 zu geben.
+F$ACU Coll. Font. 18/14/51/51
+G$Peter/Abt/Venedig/SS. Martiri_Venedig//Venedig/
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Leistungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Triest/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$in festo sancti Pauli denarios Tergestinos 40 et in festo
+sancte Iustine alios 40 annuatim
+
+REG$Der Abt Peter von SS. Martiri verpflichtet sich gegenÅber dem Kapitel von
+Triest, jÑhrlich am Fest des Hl. Paul 40 Triestiner Pfennige und am Fest der Hl.
+Justina nochmals 40 zu geben.
+F$ACU Coll. Font. 18/14/51/51
+G$Peter/Abt/Venedig/SS. Martiri_Venedig//Venedig/
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Leistungsverpflichtung/Geldsumme/unbestimmt/unbestimmt//
+W$Triest/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$in festo sancti Pauli denarios Tergestinos 40 et in festo
+sancte Iustine alios 40 annuatim
+B$"Triest. Pfennige" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 20 Mark Silber.
+F$ACU Coll. Font. 18/14/51/51
+G$X/Kapitel/Triest/Triest//Istrien/
+E$X/Kloster/Venedig/Venedig_SS. Martiri//Venedig   ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena 20 marcarum argenti
+
+DOK$fven_1241/1241.6.17/1241.6.17/1241 Juni 17/anno domini MCCXLI, die XIIII.
+exeunte Iunio, ind. XIIII/Triest/Triest//Istrien/
+S$Martin/Triest/Martin
+V$Martin/Triest/Martin
+K$öbereinkunft zwischen dem Kapitel von Triest und dem Kloster S. Giorgio in
+Venedig Åber zwei prandia von SS. Martiri.?
+
+REG$Das Kloster von S. Giorgio in Venedig ist verpflichtet, dem Kapitel von Triest
+jÑhrlich am Fest des Hl. Paul 40 Triester Pfennige und am Fest der Hl. Justina
+nochmals 40 zu geben.
+F$CDI 2/273/471f/471
+F$Kos 5/768/371f/372
+G$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Leistungsverpflichtung/Geldsumme/Triest/Triest//Istrien/
+W$Triest/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$in festo sancti Pauli denarios Tergestinos quadraginta et in festo
+sancte Iustine alios quadraginta annuatim
+
+REG$Das Kloster von S. Giorgio in Venedig ist verpflichtet, dem Kapitel von Triest
+jÑhrlich am Fest des Hl. Paul 40 Triester? Pfennige und am Fest der Hl. Jusina
+nochmals 40 zu geben.
+F$CDI 2/273/471f/471
+G$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+E$X/Kapitel/Triest/Triest//Istrien/
+H$Leistungsverpflichtung/Geldsumme/Triest/Triest//Istrien/
+W$Triest/X/
+O$X/X/X
+Z$X/X/X
+M$40/den./X/Z
+Q$in festo sancti Pauli denarios Tergestinos quadraginta et in festo
+sancte Iustine alios quadraginta annuatim
+B$"Triest. Pfennige" aus dem Zusammenhang erschlossen.
+
+REG$Strafbestimmung in der Hîhe von 20 Mark Silber.
+F$CDI 2/273/471f/472
+G$X/Kapitel/Triest/Triest//Istrien/
+E$S.Giorgio Magg./Kloster/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X
+O$20/marca/X
+Z$X/X/X
+M$X/argentum/X/Z
+Q$sub pena viginti marcarum pro parte [Silber?]
+
+DOK$fven_1247/1247.10.2/1247.10.2/1247 Oktober 2/?/Capodistria/Capodistria//Istrien/
+S$Richard/X/Richard    ist gleich icap 1247
+V$Richard/X/Richard
+K$?
+
+REG$NN
+F$CDI 2/?/?/?
+G$Konrad/Bischof/Capodistria/Capodistria//Istrien/
+E$S.Michele/Kloster/Venedig Murano/Venedig,Murano//Venedig/
+H$Strafbestimmung/Pînale/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/parv./Z
+Q$sub pena centum librarum Ven. parvulorum
+B$
+
+DOK$fven_1249/1249.0.0/1249.0.0/1249/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Instrument einer Schuld des Grafen Meinhard von Gîrz und seines Viztums auf
+Peter Ubertin von Venedig um 532 Pund Berner fÅr Tuch auf Michaelis zu bezahlen.
+
+REG$Instrument einer Schuld des Grafen Meinhard von Gîrz und seines Viztums auf
+Peter Ubertin von Venedig um 532 Pund Berner fÅr Tuch auf Michaelis zu bezahlen.
+F$Reg. Gîrz 1/533/140/140
+G$Peter/Ubertin/Venedig/Venedig//Venedig/
+E$Meinhard/Graf/Gîrz/Gîrz//Friaul-Ost/
+H$Schulden/Geldsumme/unbestimmt/unbestimmt//
+W$Verona/X/
+O$532/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$um 532 Pfund Berner fÅr Tuch (so WRG aus Gîrzer Rep.)
+B$Aus dem Regest aufgenommen.
+
+DOK$fven_1200aa/1200.8.0/1200.8.0/1200 August/mense augusti indictione XIII./Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Marcus Mengulo gibt in Anwesenheit und im Auftrag des Dogen von Venedig und
+des Herzogs von ôsterreich und Steiermark die Waren des Berthold de Vil de Ser
+forte, der unter der Gerichtsbarkeit des Herzogs stand, dem Martin Auriolo, der
+um diese zur Bezahlung eines so gro·en Teils der Schulden des Berthold gebeten
+hat, wie ihr Wert vom einem vornehmen Mannes geschÑtzt werde.
+
+REG$Marcus Mengulo gibt in Anwesenheit und im Auftrag des Dogen von Venedig und
+des Herzogs von ôsterreich und Steiermark die Waren des Berthold de Vil de Ser
+forte, der unter der Gerichtsbarkeit des Herzogs stand, dem Martin Auriolo, der
+um diese zur Bezahlung eines so gro·en Teils der Schulden des Berthold gebeten
+hat, wie ihr Wert vom einem vornehmen Mannes geschÑtzt werde, nÑmlich ca. 15
+Pfund.
+F$Cessi, Deliberazioni 1/154/92/92
+G$Marcus Mengulo/X/Venedig/Venedig?//Venedig/
+E$Martin Auriolo/X/Venedig/Venedig?//Venedig/
+H$Schuldentilgung/Waren_Wertangabe/unbestimmt/unbestimmt//
+W$X/X/
+O$15/lib./circa
+Z$X/X/X
+M$X/X/X/A
+Q$existimate vero fuerunt valere libras XV vel circa
+
+DOK$fven_1220aa/1220.2.0/1220.2.0/1220 Februar/anno domini MCCXIX.? mense februarii
+indicione octava/Venedig/Venedig//Venedig/
+S$Pancracius Ro\c{c}o/X/Pancracius Ro\c{c}o
+V$Pancracius Ro\c{c}o/X/Pancracius Ro\c{c}o
+K$Die Venezianer Leonhard Zampolo und Vitale Ziani schlie·en einen Vertrag btr.
+ein Schiff, das im Gebiet des Grafen Meinhard von Gîrz in der villa Persenigo
+liegt.
+
+REG$Johannes Calbo und Angelus Bendulo de Canareclo dem Petrus Rambaldo fÅr 150
+Pfund Venezianischer Pfennige, welche sie von ihm erhalten haben, ?
+
+F$Morozzo-Lombardi II/586/127/127
+G$Petrus Rambaldo/X/X/?//
+E$Johannes Calbo/X/X/?//
+E$Angelus Bendulo/Genannter/Venedig Canareclo/Canareclo//wo??
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$150/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro libris denariorum venecialium centum quinquaginta quas ab eo receperant
+
+REG$Johannes Calbo und Angelus Bendulo de Canareclo dem Petrus Rambaldo fÅr 150
+Pfund Venezianischer Pfennige, welche sie von ihm erhalten haben, ?
+
+F$Morozzo-Lombardi II/586/127/127
+G$Petrus Rambaldo/X/X/?//
+E$Johannes Calbo/X/X/?//
+E$Angelus Bendulo/Genannter/Venedig Canareclo/Canareclo//wo??
+H$Zahlung?/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$150/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$expensas suprascriptarum centum quinquaginta librarum
+
+DOK$fven_1223aa/1223.11.1/1223.11.1/1223 November 1/kalendis novembris die primo intrante
+novembre/X/X//
+S$X/X/X
+V$X/X/X
+K$Gribertinus de Prata [!], ein Venezianer, mu· zu Pordenone (seit 1222 im
+Besitz der îsterreichischen Herzîge) eine BÅrgschaft fÅr mehrere Venetianer
+leisten.
+
+REG$Gribertinus de Prata [!], ein Venezianer, mu· zu Pordenone (seit 1222 im
+Besitz der îsterreichischen Herzîge) eine BÅrgschaft fÅr einen Venetianer
+in der Hîhe von 10 Pfund Venetianern leisten.
+F$Cessi, Deliberazioni 1/X?/47/47
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/3/24/24
+G$Gribertinus/Genannter/Venedig Prata/Prata//wo??
+E$X/Doge/Venedig/Venedig//Venedig/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro uno veneto in X libris venecialium
+B$Aus dem Regest aufgenommen.
+
+REG$Gribertinus de Prata [!], ein Venezianer, mu· zu Pordenone (seit 1222 im
+Besitz der îsterreichischen Herzîge) eine BÅrgschaft fÅr mehrere Venetianer
+in der Hîhe von 100 Pfund Venetianern leisten.
+F$Cessi, Deliberazioni 1/X?/47/47
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/3/24/24
+G$Gribertinus/Genannter/Venedig Prata/Prata//wo??
+E$X/Doge/Venedig/Venedig//Venedig/
+H$BÅrgschaft/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$pro aliis venetis in centum libris
+B$Aus dem Regest aufgenommen.
+
+DOK$fven_1224aa/1224.3.0/1224.3.0/1224 MÑrz/X/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Raubzug der babenbergischen Ministerialen nach Ungarn.
+
+REG$NN
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/96/40/40
+F$ZHVStmk 70 (1979)/X/71-82?/X
+G$?/?/X/?//
+E$?/?/X/?//
+H$N/N/unbestimmt/unbestimmt//
+W$X/X
+O$600/marca/X
+Z$X/X/X
+M$X/argentum/X/A
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1224ab/1224.7.7/1224.7.7/1224 Juli 7/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Ulrich von Triest wird von der KÅstenwacht? mit zwei Schiffen mit Salz und ôl
+und einer gro·en Gondel mit ôl aufgebracht und hat sich Simon gegenÅber
+verpflichtet, 100 Pfund zu zahlen, wenn er dem Dogen nicht das Åbliche
+Zertifikat des Podesta von Triest vorweisen kînne.
+
+REG$Ulrich von Triest wird von der KÅstenwacht? mit zwei Schiffen mit Salz und ôl
+und einer gro·en Gondel mit ôl aufgebracht und hat sich Simon gegenÅber
+verpflichtet, 100 Pfund zu zahlen, wenn er dem Dogen nicht das Åbliche
+Zertifikat des Podesta von Triest vorweisen kînne.
+F$Predelli, Liber Priv./158/51f/52
+F$Kos 5/401/204/204
+G$Ulrich/Genannter/Triest/Triest//Istrien/
+E$X/Doge/Venedig/Venedig//Venedig    Kommune?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$?
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1225aa/1225.0.0/1225.0.0/[1225?]/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Verzeichnis der SchÑdigungen von Venezianern durch die Leute des Markgrafen
+von Este.
+
+REG$SchÑdigung des Morodo von Aquileia di S. Bartolomeo in Volano durch die Leute
+des Markgrafen von Este in der Hîhe von 25 Schilling Denarii Grossi.
+F$Cessi, Deliberazioni 1/X/113ff/122
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/X/178/178
+G$Morodo/Genannter/Aquileia/Aquileia,S.Bartolomeo//Friaul-SÅd/
+E$X/Leute des Markgrafen/Este/Este//wo??
+H$Raub/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$25/sol./X
+M$X/den./grossus/A
+Q$abstulerunt sibi soldos XXV denariorum grossorum
+
+DOK$fven_1224aaa/1224.9.27/1224.9.27/1224 September 27/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Venetianer nach Ungarn
+
+REG$NN
+F$Cessi, Deliberazioni 1/X/113ff/122
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/X/178/178
+G$?/?/X/?//
+E$?/?/X/?//
+H$N/N/unbestimmt/unbestimmt//
+W$X/X/
+O$201/marca/X
+Z$X/X/X
+M$X/X/X/X
+Q$?
+B$Aus dem Regest aufgenommen.
+
+DOK$fven_1225ab/1225.3.18/1225.3.18/1225 MÑrz 18/die XIIII. exeunte marcio/X/X//
+S$X/X/X
+V$X/X/X
+K$PfÑndung von GÅtern von Kaufleuten aus Portogruaro in Venedig.
+
+REG$P. Damaro war BÅrge fÅr Adameto aus Portogruaro gegenÅber dem Dogen und soll
+ihm fÅr gepfÑndete GÅter 12 Pfund Venetianer geben.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/102/28/28
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/247/67/67
+G$Damaro/X/X/?//
+E$X/Doge/Venedig/Venedig//Venedig/
+H$Pfand_Auslîsung/Mobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$libras XII venecialium
+B$Aus dem Regest aufgenommen.
+
+DOK$fven_1225ac/1225.3.17/1225.3.17/1225 MÑrz 17/die XV. exeunte marcio/X/X//
+S$X/X/X
+V$X/X/X
+K$Opi\c{c}o speciarius aus Venedig garantiert die Zahlung von 77 Pfund, Wert der
+von Magister Andreas, dem Sohn des Albert von Aquileia beschlagnahmten Ware
+infolge der gegen den Patriarchen von Aquileia beschlossenen Repressalien.
+
+REG$Opi\c{c}o speciarius aus Venedig garantiert die Zahlung von 77 Pfund, Wert der
+von Magister Andreas, dem Sohn des Albert von Aquileia beschlagnahmten Ware
+infolge der gegen den Patriarchen von Aquileia beschlossenen Repressalien.
+F$Cassandro, Le rappresaglie/3/64/64  ?wo
+F$Cessi, Deliberazioni 1/101/28/28
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/246/67/67
+G$Opi\c{c}o/specarius/Venedig/Venedig//Venedig/
+E$X/Doge/Venedig/Venedig//Venedig   ?
+H$Pfand_Auslîsung/Mobilien_Ballen Barchent/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$77/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$de libris LXXVII venecialium
+B$Aus dem Regest aufgenommen.
+
+REG$Opi\c{c}o speciarius aus Venedig garantiert die Zahlung von 77 Pfund, Wert der
+von Magister Andreas, dem Sohn des Albert von Aquileia beschlagnahmten Ware
+infolge der gegen den Patriarchen von Aquileia beschlossenen Repressalien.
+F$Cassandro, Le rappresaglie/3/64/64  ?wo
+F$Cessi, Deliberazioni 1/101/28/28
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/246/67/67
+G$Opi\c{c}o/specarius/Venedig/Venedig//Venedig/
+E$X/Doge/Venedig/Venedig//Venedig/
+H$Zahlungsversprechen/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$77/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$Ipsas quoque libras LXXVII
+B$Aus dem Regest aufgenommen.
+
+DOK$fven_1225ad/1225.4.28/1225.4.28/1225 April 28/tercio die exeunte aprili/X/X//
+S$X/X/X
+V$X/X/X
+K$Nachdem man mit dem Patriarchen von Aquileia zu einem EinverstÑndnis gekommen
+ist, befehlen der Doge und der Kleine Rat dem Simeon Dente, dem Benedikt de
+Lazzaro und dem Omnebonum, Diakon der Kirche des Hl. Bassus, den Untergebenen
+jenes die beschlagnahmten Sachen zurÅckzugeben.
+
+REG$Nachdem man mit dem Patriarchen von Aquileia zu einem EinverstÑndnis gekommen
+ist, befehlen der Doge und der Kleine Rat dem Benedikt de Lazzaro den
+Untergebenen des Patriarchen die beschlagnahmten Sachen zurÅckzugeben, die 224
+Pfund in Summe kosten.
+F$Cassandro, Le rappresaglie/4/64/64  ?wo
+F$Cessi, Deliberazioni 1/114/77/77
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/260/69f/70
+G$Benedikt/Genannter/Udine/Udine,S.Lazzaro?//?Udine fuori porta S.Lazzaro, Hospitale Leprosorum
+E$X/Untergebene/Aquileia/Aquileia,Patr.//Friaul-Patr./
+H$Wertangabe/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$224/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$ille res constarunt in summa libre ducente viginti quatuor
+B$Aus dem Regest aufgenommen.
+
+REG$Nachdem man mit dem Patriarchen von Aquileia zu einem EinverstÑndnis gekommen
+ist, befehlen der Doge und der Kleine Rat dem Omnebonum, dem Diakon der Kirche
+des Hl. Bassus den Untergebenen des Patriarchen die beschlagnahmten Sachen
+zurÅckzugeben, die 224 Pfund in Summe kosten.
+F$Cassandro, Le rappresaglie/4/64/64  ?wo
+F$Cessi, Deliberazioni 1/114/77/77
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/260/69f/70
+G$Omnebonum/Diakon/Venedig/Venedig_Hl. Bassus?//Venedig/
+E$X/Untergebene/Aquileia/Aquileia,Patr.//Friaul-Patr./
+H$Wertangabe/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$42/sol./X
+M$X/X/X/A
+Q$res eius constarunt in summa soldos quadraginta duo denariorum grossorum
+B$Aus dem Regest aufgenommen.
+
+DOK$fven_1225ae/1225.6.0/1225.6.0/1225 Juni/mense iunii per indictionem XIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Kaufleute aus Portogruaro werden in Venedig gepfÑndet (hierbei werden die
+Handelswaren genannt, nÑmlich Leinwand, Bohnen, HÑute, Fleisch und Hirse).
+
+REG$Johannes Blancacio de Clugia und Nycola de S. Moysi, Kaufleute aus Portogruaro?
+werden in Venedig? gepfÑndet, wobei der Wert der Waren 65 Pfund Venetianer
+betrÑgt.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$Johannes Blancacio/Genannter/Portogruaro Clugia/Clugia//wo??
+G$Nycola/Genannter/Portogruaro/Portogruaro?_S. Moysi//wo??
+E$X/X/X/X//
+H$Wertangabe/Mobilien/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$65/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$valebant libras LXV venecialium
+
+REG$Johannes aus Concordia zahlt Johannes Bolli fÅr die Auslîsung von 400 Waffen
+20 Pfund minus 4 Schillingen.
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$Johannes/Genannter/Concordia/Concordia//wo??
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$Pfand_Auslîsung/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$20/lib./X
+Z$4/sol./minus
+M$X/X/X/A
+Q$libras XX minus soldos IIII
+B$Bei Foucard, CD Portogr. Nr.2, S.4f fehlt diese Stelle.
+
+REG$Johannes Bolli erhielt von Baligantus 5 Pfund minus 5 Schillingen in
+Pfennigen, welche dieser von Johannes aus Concordia hatte.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$Baligantus/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$Pfand_Auslîsung/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$5/sol./minus
+M$X/den./X/A
+Q$libras V minus soldos V in denariis
+
+REG$Johannes Bolli erhielt 3 Pfund und 6,5 Schillinge, welche er von ?
+der den Genannten aus Portogruaro weggenommen worden ist.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X?//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$Pfand_Auslîsung/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$6,5/sol./X
+M$X/X/X/A
+Q$libras III et soldos VI 1\|2 quas habuit de plato P. de Mare, qui fuit
+ablatus illis de Gruaro
+B$Bei Predelli, Lib. Pleg., AV Suppl. 4 Anno 2, Nr.296, S.77f fehlen die 3 Pfund.
+
+REG$Johannes Bolli zahlte dem Johannes Blancatio von Clugia und dem Nicola von s.
+Moysi fÅr die VerpfÑndung in Summe 28 Pfund minus 30 Pfennige.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$Johannes Bolli/X/Venedig/Venedig//Venedig/
+E$Johannes Blancatio/Genannter/Portogruaro Clugia/Clugia//wo??
+E$Nicola/Genannter/Portogruaro/Portogruaro?_S. Moysi//wo??
+H$Pfandauslîsung_RÅckzahlung/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$28/lib./X
+Z$X/X/X
+M$30/den./minus/A
+Q$denarios omnes suprascriptos in summa librarum XXVIII, minus denarios XXX,
+dictus Iohannes Bolli persolvit eidem Io. Blancatio et Nicole pro pignoratione
+
+REG$Johannes Bolli hatte 20,5 Schillinge fÅr 4 Schwerter?, die im Schiff? des
+genannten Petrus waren.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20,5/sol./X
+M$X/X/X/A
+Q$habuit Iohannes Bolli soldos XX 1\|2 pro spatis IIII, que fuerunt in ipso
+plato dicti Petri
+
+REG$Johannes Bolli hatte 33 Schillinge fÅr die VerpfÑndung der Leinwand des
+Schiffes des genannten Petrus.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$33/sol./X
+M$X/X/X/A
+Q$habuit Iohannes Bolli \dots soldos XXXIII pro pecia I tele ipsius plati
+
+REG$Johannes Bolli hatte 48 Schillinge fÅr die VerpfÑndung der HÑute des Schiffes
+des genannten Petrus.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$48/sol./X
+M$X/X/X/A
+Q$habuit Iohannes Bolli \dots soldos XLVIII pro pellibus multoninis suprascripti
+plati
+
+REG$Johannes Bolli hatte 5 Pfund und 5 Schillinge fÅr die VerpfÑndung der Barke
+des Petrus Paduanus.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$5/lib./X
+Z$5/sol./X
+M$X/X/X/A
+Q$de barca Petri Paduani libras V et soldos V
+
+REG$Johannes Bolli hatte 39 Schillinge fÅr die VerpfÑndung der Dinge, die in
+der Barke des Petrus Paduanus gefunden wurden, nÑmlich Brot, Bohnen, Hirse und
+Fleisch.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$39/sol./X
+M$X/X/X/A
+Q$rebus inventis in ea, scilicet pane et fabis et milio atque carnibus soldos
+XXXVIIII
+
+REG$Johannes Bolli hatte 3 Pfund fÅr die VerpfÑndung der Barke des Johannes
+Sclavus.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$3/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$de barca Iohannis Sclavi libras III
+B$Bei Predelli, AV Suppl. 4 Anno 2, Nr. 296, S.77f finden sich 5 Pfund statt 3.
+
+REG$Johannes Bolli hatte in Summe 15 Pfund und 5,5 Pfennige fÅr die VerpfÑndung
+verschiedener GÅter.
+F$Foucard, CD Portogr./2/4f/4
+F$Cessi, Deliberazioni 1/129/81/81
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/296/77f/77
+G$X/X/X/X//
+E$Johannes Bolli/X/Venedig/Venedig//Venedig/
+H$PfandgeschÑft/Mobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$15/lib./X
+Z$5,5/sol./X
+M$X/X/X/A
+Q$Summa facta, libras XV et soldos V 1\|2, quas habuit dictus Iohannes cum
+suprascriptis sociis
+
+DOK$fven_1225af1/1225.4.14/1225.4.14/1225 April 14/X/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$NN
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/305/79ff/80
+G$  ?/?/X/?//
+E$  ?/?/X/?//
+H$Pînale/Konventionalstrafe?/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/den./X/A
+Q$1000 lire di denari veneti
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1225af2/1225.4.19/1225.4.19/1225 April 19/X/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Schiedsspruch ?  in Gegenwart von Angelo Barozzi, dem Patriarchen von Grado,
+und Pietro Ziani, dem Dogen von Venedig.
+
+REG$NN
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/305/80f/80
+G$X/Abt/Chioggia S.Trinita di Brondolo/Chioggia,S. Trinita di Brondolo//wo??
+E$X/X/S.Michele/S. Michele?//wo??
+H$?Zins_Wertangabe/Schwein/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$20/sol./X
+M$X/X/X/A
+Q$20 soldi
+B$Nach dem Regest aufgenommen.
+
+REG$NN
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/305/80f/80
+G$X/Abt/Chioggia S.Trinita di Brondolo/Chioggia,S. Trinita di Brondolo//wo??
+E$X/X/S.Michele/S. Michele?//wo??
+H$N/N/unbestimmt/unbestimmt//
+H$?Zins/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$25/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$25 lire al s. Michele
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1225ag/1225.7.3/1225.7.3/1225 Juli 3/die III. intrante iulio/X/X//
+S$X/X/X
+V$X/X/X
+K$Heinrich von Fraolaro werden eine Barke und Waren gepfÑndet, in der Annahme,
+dies alles gehîre Leuten von Concordia.
+
+REG$Heinrich von Fraolaro werden eine Barke und Waren gepfÑndet, in der Annahme,
+dies alles gehîre Leuten von Concordia. Ugo Gato von S. Martino verbÅrgt sich
+fÅr Heinrich von Fraolaro, dem Dogen 30 Pfund Venetianer, den doppelten Wert
+des GepfÑndeten, zu zahlen, wenn sich herausstellt, da· die genannten GÅter
+doch Leuten von Concordia gehîren. ?
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/301/78/78
+F$Cessi, Deliberazioni 1/123/33/33
+G$Hugo? Gato/Genannter/unbekannt S.Martino/S. Martino//wo??
+E$Heinrich/Genannter/unbekannt Fraolaro/Fraolaro//wo??
+H$Wiedergutmachung_PfandgeschÑft/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$30/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$libras XXX venecialium
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1225h/1225.8.0/1225.8.0/1225 August/X/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Doge erlaubt wegen unbezahlter Schulden die PfÑndung der Kaufleute von
+Pordenone in Venedig.
+
+REG$NN
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/318/83/83
+F$Cessi, Deliberazioni 1/154/92/92
+G$?/?/X/?//
+E$?/?/X/?//
+H$PfÑndungserlaubnis/Mobilien/unbestimmt/unbestimmt//  ?
+W$X/X
+O$15/lib./X
+Z$X/X/X
+M$X/X/X/X
+Q$per lire 15
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1225i/1225.9.0/1225.9.0/1225 September/mense suprascripto et eadem
+indictione?/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Eine Friulanerin ersucht den Dogen um RÅckstellung einer "filia", die
+unrechtmÑ·ig von einem gewissen Icelinus um 12 Pfund an Cremoneser verkauft
+worden war.
+
+REG$Eine Friulanerin ersucht den Dogen um RÅckstellung einer "filia", die
+unrechtmÑ·ig von einem gewissen Icelinus um 12 Pfund an Cremoneser verkauft
+worden war.
+F$Cessi, Deliberazioni 1/153/92/92
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/331/86/86
+F$NAV NS 12/X/323/323
+G$Salentus/Genannter/Cremona/Cremona//Wo??
+E$Icelinus/X/X/X//
+H$Kauf/filia?/unbestimmt/unbestimmt//
+W$X/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/A
+Q$precio librarum XII
+B$Rîsch, Venedig und das Reich, S. 129 ungeachtet der zahlreichen Verbote
+blÅhte der Sklavenhandel.
+
+REG$Eine Friulanerin ersucht den Dogen um RÅckstellung einer "filia", die
+unrechtmÑ·ig von einem gewissen Icelinus um 12 Pfund an Cremoneser verkauft
+worden war. Nach dem Willen des Dogen soll die "filia" Gordru\c{c} bei Dominicus
+Delfinus bis S. Martin bleiben. Falls sie von dort innerhalb der Frist flieht,
+mu· Dominicus der Engenana? 12 Pfund Venetianer bezahlen.
+F$Cessi, Deliberazioni 1/153/92/92
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/331/86/86
+G$Dominicus Delfinus/X/X/X//
+E$Engenana/Wohnhaft/Friaul/Friaul//Friaul   ?
+H$?EntschÑdigung Schadenersatz/Geldsumme/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$12/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$dabit ei in voluntate sua libras XII venecialium
+
+DOK$fven_1225k/1225.9.0/1225.9.0/1225 September/mense septembre, per indictionem XIIII.
+/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Die Bewohner von Caorle pfÑnden irrtÅmlich die HandelsgÅter eines
+venezianischen Kaufmanns, da sie glaubten, da· es sich hierbei um die GÅter von
+HÑndlern aus dem Friaul handle.
+
+REG$Die Bewohner von Caorle pfÑnden irrtÅmlich die HandelsgÅter eines
+venezianischen Kaufmanns, da sie glaubten, da· es sich hierbei um die GÅter von
+HÑndlern aus dem Friaul handle.  Der Doge und der Rat ordnen an, da· die
+HandelsgÅter einem gewissen G. Albi\c{c}us von S. Leonardo, der behauptete, da·
+es seine sind, unter der Bedingung gegeben werden, da· er und Giacomo
+Albi\c{c}us dem Dogen unter Strafe von 250 Pfund dafÅr bÅrgen, da· die
+Anweisungen befolgt werden.
+F$Cessi, Deliberazioni 1/133/34f/35
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/326/84f/85
+F$NAV NS 12/X/323/323
+G$G. Albi\c{c}us/Genannter/uVenetien S.Leonardo/S. Leonardo//wo??
+G$Giacomo Albi\c{c}us/Genannter/uVenetien S.Leonardo/S. Leonardo//wo??
+E$X/Doge/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$250/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$steterunt plegii domino Duci, sub pena librarum CCL
+
+DOK$fven_1225l/1225.9.15/1225.9.15?/1225 September Mitte/X/X/X//
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$NN
+F$Kos 5/424/213/213
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/328/85/85
+G$Nicol\`o Cocco/Podesta/Capodistria/Capodistria//wo??
+E$X/Doge/Venedig/Venedig?//wo??
+H$N/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/Z
+Q$soldi 16
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1225m/1225.10.10/1225.10.10/1225 Oktober 10/X/X/X//
+S$X/X/X
+V$X/X/X
+K$?
+
+REG$NN
+F$Kos 5/425/213f/213
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/335/87/87
+G$Nicol\`o Cocco/Podesta/Capodistria/Capodistria//wo??
+E$X/Doge/Venedig/Venedig?//Venedig/
+H$N/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$X/X/X
+Z$16/sol./X
+M$X/X/X/Z
+Q$soldi 16
+B$Nach dem Regest aufgenommen.
+
+REG$NN
+F$Kos 5/425/213f/213
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/335/87/87
+G$Nicol\`o Cocco/Podesta/Capodistria/Capodistria//wo??
+E$X/Doge/Venedig/Venedig?//Venedig/
+H$N/Geldsumme/unbestimmt/unbestimmt//
+W$X/X/
+O$480/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$a lire 480
+B$Nach dem Regest aufgenommen.
+
+DOK$fven_1226a/1226.3.30/1226.3.30/1226 MÑrz 30/eodem mense, et indictione, die secundo
+exeunte/X/X//
+S$X/X/X
+V$X/X/X
+K$Der Consiglio minore verbietet denen von Caorle, Lebensmittel im Friaul oder
+Liguencia zu kaufen bzw. Versprechen derer von Caorle (gilt fÅr Zeit des Krieges
+zwischen Venezianern einerseits und Paduanern mit dem Patriarchen von Aquileia
+andererseits). Umgekehrt war auch der Export von Nahrungsmitteln und anderen
+Waren ins Friaul verboten.
+
+REG$Der Consiglio minore verbietet denen von Caorle, Lebensmittel im Friaul oder
+Liguencia zu kaufen bzw. Versprechen derer von Caorle. Sollte jemand dagegen
+handeln, mu· er 1000 Pfund Venetianer Strafe bezahlen.
+F$Cessi, Deliberazioni 1/173/99/99
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/368/93f/94
+G$X/Einwohner/Caorle/Caorle//Venedig/
+E$X/Doge/Venedig/Venedig//Venedig    ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$1000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$pro pena daturos libras M venecialium
+B$Literatur Leicht, Porto, 401 (dort als Wdh. eines Verbots von 1226 April 23).
+
+REG$Der Consiglio minore verbietet denen von Caorle, Lebensmittel im Friaul oder
+Liguencia zu kaufen bzw. Versprechen derer von Caorle. Sollte jemand dagegen
+handeln, mu· er 50 Pfund Strafe bezahlen.
+F$Cessi, Deliberazioni 1/173/99/99
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/368/93f/94
+G$X/Einwohner/Caorle/Caorle//Venedig/
+E$X/Doge/Venedig/Venedig//Venedig   ?
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$personam libras L auferret
+B$Literatur Leicht, Porto, 401 (dort als Wdh. eines Verbots von 1226 April 23).
+
+REG$Der Consiglio minore verbietet denen von Caorle, Lebensmittel im Friaul oder
+Liguencia zu kaufen bzw. Versprechen derer von Caorle. Sollte jemand dagegen
+handeln, mu· er 50 Pfund Strafe bezahlen, oder falls er die Geldstrafe nicht
+zahlt, mu· man ihn dem Dogen Åbergeben.
+F$Cessi, Deliberazioni 1/173/99/99
+G$X/Einwohner/Caorle/Caorle//Venedig/
+E$X/Doge/Venedig/Venedig//Venedig   ?
+H$Nichtzahlung_?Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$50/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$nisi bannum solverit librarum L suprascriptarum
+B$Literatur Leicht, Porto, 401 (dort als Wdh. eines Verbots von 1226 April 23).
+
+DOK$fven_1226b/1226.4.22/1226.4.22/1226 April 22/die VIIII. exeunte aprili/X/X//
+S$X/X/X
+V$X/X/X
+K$Pietro Lusco, Venezinaer de confinio S. Gregorii, stellt BÅrgen wegen
+Bestrafung infolge verbotenen Salzhandels nach Aquileia.
+
+REG$Pietro Lusco, Venezinaer de confinio S. Gregorii, stellt BÅrgen wegen
+Bestrafung infolge verbotenen Salzhandels nach Aquileia. Sollten diese ihn nicht
+bis zum darauffolgenden Dienstag, wann immer der Doge es will, bzw.
+ohne Aufforderung am genannten Tag vorfÅhren, mÅssen sie 100 Pfund Venezianer
+zahlen. ?versprechen bei Nichterscheinen vor dem Dogen   zu zahlen
+F$Cessi, Deliberazioni 1/156/39/39
+F$Predelli, Lib. Pleg., AV Suppl. 4,An.2/370/94/94
+G$Sanguinus/Genannter/uVenetien S.Vito/S. Vito//wo??
+G$Palmerius Maraldo/Genannter/uVenetien S.Severo/S. Severo//wo??
+E$X/Doge/Venedig/Venedig//Venedig/
+H$Pînale/Konventionalstrafe?/unbestimmt/unbestimmt//
+W$Venedig/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$libras C venecialium \dots ei promiserunt daturos
+
+DOK$fven_1226c/1226.4.23/1226.4.30?/1226 April 23ff/die VII. exeunte aprile, indictione
+XIIII./X/X//
+S$X/X/X
+V$X/X/X
+K$Zu Rialto wird ein Dogenbefehl "stridato", da· kein Venezianer nach Aquileia
+gehen (oder andere an seiner statt schicken) dÅrfe ebensowenig nach Cividale
+(\`Foro iulio\') oder nach Triest. Das Verbot wurde insbesondere fÅr die von
+Caorle wiederholt, die keine Viktualien nach Aquileia fÅhren dÅrften,
+ebensowenig ach Cividale oder "in Linguencia" (wahrscheinlich Fisch und Salz).
+
+REG$Zu Rialto wird ein Dogenbefehl "stridato", da· kein Venezianer nach Padua
+gehen (oder andere an seiner statt schicken) dÅrfe ebensowenig nach
+Aquileia, Cividale oder Triest. Sollte jemand zuwiderhandeln, verliert er seine
+Staatstracht?BÅrgerrechte, 30 Pfund und 12,5 Schillinge und au·erdem fÑllt das
+Schiff an die Kommune.
+F$Cessi, Deliberazioni 1/174/99f/99
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/371/94/94
+F$Kos 5/439/220/220
+G$X/Einwohner/Venedig/Venedig//Venedig/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$30/lib./X
+Z$12,5/sol./X
+M$X/X/X/Z
+Q$insuper amittat libras XXX, et soldos XII 1\|2
+B$Folgen dieses Verbots unter 1226 April 22. Predelli und Kos datieren mit 24.
+April.
+
+REG$Zu Rialto wird ein Dogenbefehl "stridato", da· kein Venezianer nach Aquileia
+gehen (oder andere an seiner statt schicken) dÅrfe ebensowenig nach Cividale
+oder Triest mit Viktualien oder anderen Waren oder ohne Waren. Sollte jemand
+zuwiderhandeln, mu· er eine Strafe in der Hîhe von 100 Pfund und
+30 Pfund und 12,5 Schillinge zahlen. ?
+F$Cessi, Deliberazioni 1/174/99f/99
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/371/94/94
+F$Kos 5/439/220/220
+G$X/Einwohner/Venedig/Venedig//Venedig/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$30/lib./X
+Z$12,5/sol./X
+M$X/X/X/Z
+Q$alia parte librarum  XXX et solidorum XII 1\|2
+B$Folgen dieses Verbots unter 1226 April 22. Predelli und Kos datieren mit 24.
+April.
+
+REG$Zu Rialto wird ein Dogenbefehl "stridato", da· kein Venezianer nach Aquileia
+gehen (oder andere an seiner statt schicken) dÅrfe ebensowenig nach Cividale
+oder Triest mit Viktualien oder anderen Waren oder ohne Waren. Sollte jemand
+zuwiderhandeln, mu· er eine Strafe in der Hîhe von 100 Pfund und
+30 Pfund und 12,5 Schillinge zahlen. ?
+F$Cessi, Deliberazioni 1/174/99f/99
+F$Predelli, Lib. Pleg., AV Suppl. 4 Anno 2/371/94/94
+F$Kos 5/439/220/220
+G$X/Einwohner/Venedig/Venedig//Venedig/
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Strafgeld/unbestimmt/unbestimmt//
+W$X/X/
+O$100/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$in pena librarum C in una parte
+B$Folgen dieses Verbots unter 1226 April 22. Predelli und Kos datieren mit 24.
+April.
+
+DOK$fven_1245/1245.11.26/1245.11.26/1245 November 26/anno domini MDXLV. indictione tercia
+die dnico quinto exeunte novembris/X/X//
+S$Ubertus/kaiserl. Notar/Ubertus
+V$Ubertus/kaiserl. Notar/Ubertus ?
+K$Vertrag zwischen Venedig und Tarvis Åber die RÅckgabe des Geldes, das Tarvis
+als Anleihe erhalten hat, innerhalb eines festgesetzten Termins.
+
+REG$Tarvis hat von Venedig 5000 Pfund kleiner Venetianischer Pfennige als Anleihe
+erhalten.
+F$ASV Lib. Pact. 1/?/63ff/63
+G$Petrus/Notar/Venedig/Venedig//Venedig/
+E$Albricus?/Podesta/Tarvis/Tarvis//wo??
+H$Quittung_Anleihe/Geldsumme/unbestimmt/unbestimmt//  ?
+W$Venedig/X/
+O$5000/lib./X
+Z$X/X/X
+M$X/den./parv./A
+Q$quinque milia libras denariorum venec. parvorum
+
+REG$Vertrag zwischen Venedig und Tarvis Åber die RÅckgabe von 5000 Pfund kleiner
+Venetianischer Pfennige, die Tarvis als Anleihe erhalten hat, innerhalb eines
+festgesetzten Termins.
+F$ASV Lib. Pact. 1/?/63ff/64
+G$Albricus?/Podesta/Tarvis/Tarvis//wo??
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Schuldentilgung/Geldsumme/unbestimmt/unbestimmt// ?
+W$X/X/
+O$5000/lib./X
+Z$X/X/X
+M$X/den./X/Z
+Q$Quas vero quinque milia libr. denariorum \dots reddere solvere et dare domino
+duci et Comuni venec.
+
+REG$Vertrag zwischen Venedig und Tarvis Åber die RÅckgabe von 5000 Pfund kleiner
+Venetianischer Pfennige, die Tarvis als Anleihe erhalten hat, innerhalb eines
+festgesetzten Termins unter Strafe des Doppelten der genannten 5000 Pfund.
+F$ASV Lib. Pact. 1/?/63ff/64
+G$Albricus?/Podesta/Tarvis/Tarvis//wo??
+E$X/Kommune/Venedig/Venedig//Venedig/
+H$Pînale/Konventionalstrafe/unbestimmt/unbestimmt// ?
+W$X/X/
+O$5000/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$sub pena dupli dictarum librarum quinque milium
+
+DOK$fven_1248/1248.11.29/1248.11.29/1248 November 29/X?/Venedig/Venedig//Venedig/
+S$X/X/X
+V$X/X/X
+K$Beschlu· des Maggior consiglio btr. Venezianer in Aquileia und Erhebung des
+Vierzigsten?.
+
+REG$Die venezianischen HÑndler mÅssen sich dem Vizedom in Aquileia mit ihren Waren
+zeigen, sofern deren Wert 10 Pfund Åbersteigt. ?
+F$CDI 2/281/485/485
+G$X/HÑndler/Venedig/Venedig//Venedig/
+E$X/X/X/X//
+H$Wertangabe/Immobilien/unbestimmt/unbestimmt//
+W$X/X/
+O$10/lib./X
+Z$X/X/X
+M$X/X/X/Z
+Q$a valimento decem libras superius
+
+REG$Venezianische HÑndler in Aquileia mÅssen fÅr ihre Waren 2 Schillinge je ein
+Pfund Wert Abgabe zahlen, wenn ? Stapelrecht
+
+F$CDI 2/281/485/485
+G$X/HÑndler/Venedig/Venedig//Venedig/
+E$X/X/X/X//
+E$X?/Vizedom/Venedig/Venedig//Venedig  ?
+H$Abgabe/Immobilien/unbestimmt/unbestimmt//  ?
+W$X/X/
+O$X/X/X
+Z$2/sol./X
+M$X/X/X/Z
+Q$aufferantur eis soldos duos pro libra de tota ipsa mercadantia
+
+
