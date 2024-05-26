@@ -1,5 +1,9 @@
 Charter documentation on the Friesacher Pfenning
-collected Reinhad Härtel
+================================================
+
+collected Reinhad Härtel, last change in 2013
+
+(https://github.com/GVogeler/FriesacherPfennig)
 
 Data is plain text encoded in OEM 850, structured in kleio Format (see https://web.archive.org/web/20131109173021/http://www.hki.uni-koeln.de/kleio/).
 
@@ -7,6 +11,7 @@ Data model described and defined in `*.mod`.
 Data itself is stored in `*.dat`.
 Data sources are describe in GRUNDLAG.LIS .
 
+# Bibliography on the Friesacher Pfennig
 
 - Die Frühzeit des Friesacher Pfennigs. Hg. v. Michael ALRAM - Reinhard HÄRTEL - Manfred SCHREINER. Wien, Verlag der Österreichischen Akademie der Wissenschaften, 2002. Veröffentlichungen der Numismatischen Kommission 36, Denkschriften der philosophisch-historischen Klasse 300. https://austriaca.at/3030-7.
 - Winter, Heinz. „Der Friesacher Pfennig. Ein Forschungsprojekt“. In XII. Internationaler Numismatischer Kongreß. Akten, 990–92, 2000.
